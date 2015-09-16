@@ -23,9 +23,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_126</key>
-    <text xml:space="preserve">マジックトラップの展開時に
-より敵の体勢を崩しやすくなる
-&lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Magical trap has a higher chance to stun enemies.
+&lt;COL ffdc78&gt;LV UP Increases stun chance&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_231</key>
@@ -62,8 +61,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_142</key>
-    <text xml:space="preserve">フローティング中のスタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+    <text xml:space="preserve">Reduces Stamina consumption while using levitate.
+&lt;COL ffdc78&gt;LV UP Reduces Stamina consumtion&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_232</key>
@@ -101,8 +100,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_137</key>
-    <text xml:space="preserve">瀕死状態中の魔力が増加する
-&lt;COL ffdc78&gt;LV UP毎に魔力がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases Magic attack while in a dying state.
+&lt;COL ffdc78&gt;LV UP Increases Magic attack&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_236</key>
@@ -138,9 +137,9 @@
   </message>
   <message>
     <key>ABILITY_INFO_129</key>
-    <text xml:space="preserve">バックムーブが魔法詠唱中でも行えるようになり
-詠唱ゲージを一定量保持して詠唱を継続できる
-&lt;COL ffdc78&gt;LV UP毎にゲージ保持量がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Can backdash while chanting, suffering a
+    penalty chant gauge.
+&lt;COL ffdc78&gt;LV UP Decreases chant gauge penalty&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_228</key>
@@ -177,8 +176,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_130</key>
-    <text xml:space="preserve">火属性攻撃によって与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt with Fire attribute.
+&lt;COL ffdc78&gt;LV UP Increased damage amount&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_235</key>
@@ -214,8 +213,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_131</key>
-    <text xml:space="preserve">氷属性攻撃によって与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increase damage dealt with Ice attribute.
+&lt;COL ffdc78&gt;LV UP Increased damage amount&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_237</key>
@@ -255,8 +254,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_132</key>
-    <text xml:space="preserve">雷属性攻撃によって与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increased damage dealt with lightning attribute.
+&lt;COL ffdc78&gt;LV UP Increased damage amount&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_240</key>
@@ -291,8 +290,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_146</key>
-    <text xml:space="preserve">魔族系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Deal more damage to Demon type enemies.
+&lt;COL ffdc78&gt;LV UP Increased damage amount&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_241</key>
@@ -328,8 +327,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_148</key>
-    <text xml:space="preserve">呪詛系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Deal more damage to Cursed enemies.
+&lt;COL ffdc78&gt;LV UP Increased damage amount&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_244</key>
@@ -365,8 +364,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_145</key>
-    <text xml:space="preserve">魔族系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decrease damage recieved from Demon type enemies.
+&lt;COL ffdc78&gt;LV UP Futher decrease&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_245</key>
@@ -401,8 +400,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_147</key>
-    <text xml:space="preserve">呪詛系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decrease damage recieved from Cursed enemies.
+&lt;COL ffdc78&gt;LV UP Futher decrease&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_22</key>
@@ -431,8 +430,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_127</key>
-    <text xml:space="preserve">スペリング入力の成功時にスタミナが回復する
-&lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Stamina recovers after a successful spell input.
+&lt;COL ffdc78&gt;LV UP Increases stamina recovered&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_10</key>
@@ -463,9 +462,9 @@
   </message>
   <message>
     <key>ABILITY_INFO_128</key>
-    <text xml:space="preserve">スペリングの入力難度が低くなり
-魔法効果増大が狙いやすくなる
-&lt;COL ffdc78&gt;LV UP毎に難度がより低下&lt;/COL&gt;</text>
+    <text xml:space="preserve">Spell input difficulty is decreased, magic effects
+    are increased, and spells become easier to aim.
+&lt;COL ffdc78&gt;LV UP Enhances all&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_2</key>
