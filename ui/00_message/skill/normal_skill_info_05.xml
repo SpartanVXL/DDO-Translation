@@ -1,73 +1,68 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_INFO_05_70</key>
-    <text xml:space="preserve">大盾で殴りつける</text>
+    <text xml:space="preserve">Attack with your shield.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_83</key>
-    <text xml:space="preserve">空中から大盾で殴りつける</text>
+    <text xml:space="preserve">Attack with your shield in the air.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_72</key>
-    <text xml:space="preserve">ロッドに属性効果を付与する
-（炎・氷・雷のいずれか）
-空中でも発動可能
-&lt;COL ffdc78&gt;LV UPで選択可能属性が聖・闇を含む
-５属性の＜ペンタエレメントチェンジ＞に進化&lt;/COL&gt;</text>
+    <text xml:space="preserve">Change the elemental attribute on your rod.
+（Ice/Fire/Thunder）
+Can also be done in the air.
+&lt;COL ffdc78&gt;LV UP Add the elements of Light and Darkness
+to the elements you can change to.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_73</key>
-    <text xml:space="preserve">ロッドに属性効果を付与する
-（炎・氷・雷・聖・闇のいずれか）
-空中でも発動可能</text>
+    <text xml:space="preserve">Change the elemental attribute on your rod.
+（Ice/Fire/Thunder/Light/Darkness）
+Can also be done in the air.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_74</key>
-    <text xml:space="preserve">大盾で敵の攻撃を自動的に防ぎ、攻力を吸収する
-ロッドの選択属性と受けた攻撃が同属性だと
-吸収量増加。空中でも発動可能</text>
+    <text xml:space="preserve">Block enemy's attack with your shield to charge
+    the gauge with the current element on your rod. Can also be activated in the air.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_75</key>
-    <text xml:space="preserve">大盾を構え、防御方向を固定する
-固定中は攻力吸収量が上がり、スキが減少
-空中でも発動可能</text>
+    <text xml:space="preserve">Affix your shield towards the enemy, increasing the amount the
+    gauge will increase. Can be activated in the air.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_76</key>
-    <text xml:space="preserve">大盾で敵の攻撃をタイミングよく直前防御する
-多量の攻力を吸収し、スタミナ消費もゼロになる
-空中でも発動可能</text>
+    <text xml:space="preserve">Activate the shield as an enemy strikes you to increase the
+    gauge by a lot, also consumes no stamina to block.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_77</key>
-    <text xml:space="preserve">大盾に蓄積した攻力を敵に放つ
-空中でも発動可能
-フォースゲージ１本消費で発動可能</text>
+    <text xml:space="preserve">Fire a ball of elemental energy at the enemy.
+    The element is the same as the current selected.
+    Consumes 1 bar of charge.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_78</key>
-    <text xml:space="preserve">ロッドの閃光で敵の注目を集め、自身を狙わせる
-空中でも発動可能
-&lt;COL ffdc78&gt;LV UPで敵の注目を奪う効果がより大きい
-＜モアアトラクト＞に進化&lt;/COL&gt;</text>
+    <text xml:space="preserve">Attract the attention of the enemies.
+&lt;COL ffdc78&gt;LV UP Increases the amount of attraction.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_79</key>
-    <text xml:space="preserve">ロッドの閃光で敵の注目をより集め、自身を狙わせる
-空中でも発動可能</text>
+    <text xml:space="preserve">Attract the attention of enemies by a lot.
+    Can be activated in the air.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_80</key>
-    <text xml:space="preserve">大盾に蓄積した攻力（炎・氷・雷・聖・闇いずれか）
-を属性化し味方に付与する。空中でも発動可能
-フォースゲージ１本消費で発動可能</text>
+    <text xml:space="preserve">Consumes 1 bar of charge to give the parties
+    weapons the current selected rod element.
+    Can be activated in the air.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_81</key>
-    <text xml:space="preserve">敵の攻撃を大盾で防いだ直後、敵の注意を引く
-属性攻撃をするか、素早く後方に身を逸らす
-攻撃時フォースゲージ1本以上なら消費し技性能上昇</text>
+    <text xml:space="preserve">Immediately after blocking, either attack
+the enemy to increase enmity, or dodge backwards.
+Will consume 1 bar to increase effects if avaliable.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_91</key>
