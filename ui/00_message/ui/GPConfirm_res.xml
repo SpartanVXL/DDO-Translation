@@ -1,0 +1,32 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>OSC_buy</key>
+    <text xml:space="preserve">購入</text>
+  </message>
+  <message>
+    <key>OSC_cancel</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+  <message>
+    <key>OSC_index</key>
+    <text xml:space="preserve">現在の黄金石</text>
+  </message>
+  <message>
+    <key>OSC_index_af</key>
+    <text xml:space="preserve">購入後の黄金石</text>
+  </message>
+  <message>
+    <key>OSC_warnig_caption</key>
+    <text xml:space="preserve">ご購入前に必ずお読みください</text>
+  </message>
+  <message>
+    <key>OSC_buy_item</key>
+    <text xml:space="preserve">&lt;NAME ITEM&gt;：&lt;NAME ITEM&gt; を
+黄金石 &lt;VAL&gt; 個で購入します</text>
+  </message>
+  <message>
+    <key>OSC_buy_goldstone</key>
+    <text xml:space="preserve">黄金石 &lt;VAL&gt; 個を
+&lt;VAL CAP&gt;で購入します</text>
+  </message>
+</resource>

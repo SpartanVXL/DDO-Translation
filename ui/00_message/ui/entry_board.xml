@@ -1,0 +1,310 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>entry_board_title_jp</key>
+    <text xml:space="preserve">エントリーボード</text>
+  </message>
+  <message>
+    <key>entry_board_title_en</key>
+    <text xml:space="preserve">Entry Board</text>
+  </message>
+  <message>
+    <key>entry_board_comment</key>
+    <text xml:space="preserve">コメント</text>
+  </message>
+  <message>
+    <key>entry_board_leader</key>
+    <text xml:space="preserve">募集主</text>
+  </message>
+  <message>
+    <key>entry_board_entry</key>
+    <text xml:space="preserve">参加人数</text>
+  </message>
+  <message>
+    <key>entry_board_recruit</key>
+    <text xml:space="preserve">新規募集</text>
+  </message>
+  <message>
+    <key>entry_board_search</key>
+    <text xml:space="preserve">検索</text>
+  </message>
+  <message>
+    <key>entry_board_param1</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>entry_board_param2</key>
+    <text xml:space="preserve">&lt;VAL&gt;/&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>entry_board_search_search_job</key>
+    <text xml:space="preserve">ジョブを指定して探す</text>
+  </message>
+  <message>
+    <key>entry_board_search_search</key>
+    <text xml:space="preserve">検索条件の設定</text>
+  </message>
+  <message>
+    <key>entry_board_search_search_friend_friend</key>
+    <text xml:space="preserve">知り合いが参加しているエントリーで探す</text>
+  </message>
+  <message>
+    <key>entry_board_search_search_name</key>
+    <text xml:space="preserve">名前を指定して探す</text>
+  </message>
+  <message>
+    <key>entry_board_search_search_friend</key>
+    <text xml:space="preserve">フレンドから探す</text>
+  </message>
+  <message>
+    <key>entry_board_search_search_password</key>
+    <text xml:space="preserve">パスワード設定なし</text>
+  </message>
+  <message>
+    <key>entry_board_search_search_clanmember</key>
+    <text xml:space="preserve">クランメンバーから探す</text>
+  </message>
+  <message>
+    <key>entry_board_search_all</key>
+    <text xml:space="preserve">全て</text>
+  </message>
+  <message>
+    <key>entry_board_search_init</key>
+    <text xml:space="preserve">指定を初期化</text>
+  </message>
+  <message>
+    <key>entry_board_search_word1</key>
+    <text xml:space="preserve">～</text>
+  </message>
+  <message>
+    <key>entry_board_search_exec_search</key>
+    <text xml:space="preserve">検索する</text>
+  </message>
+  <message>
+    <key>entry_board_search_cancel</key>
+    <text xml:space="preserve">キャンセルする</text>
+  </message>
+  <message>
+    <key>entry_board_search_serach_level</key>
+    <text xml:space="preserve">レベルを指定して探す</text>
+  </message>
+  <message>
+    <key>entry_board_pop_reqruit_all</key>
+    <text xml:space="preserve">全て</text>
+  </message>
+  <message>
+    <key>entry_board_pop_reqruit_reqruit</key>
+    <text xml:space="preserve">募集する</text>
+  </message>
+  <message>
+    <key>entry_board_pop_reqruit_cancel</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+  <message>
+    <key>entry_board_reqruit_entry</key>
+    <text xml:space="preserve">エントリーを指定してください</text>
+  </message>
+  <message>
+    <key>entry_board_reqruit_comment</key>
+    <text xml:space="preserve">Comment</text>
+  </message>
+  <message>
+    <key>entry_board_reqruit_level</key>
+    <text xml:space="preserve">レベル制限</text>
+  </message>
+  <message>
+    <key>entry_board_reqruit_job</key>
+    <text xml:space="preserve">ジョブ制限</text>
+  </message>
+  <message>
+    <key>entry_board_reqruit_password</key>
+    <text xml:space="preserve">パスワード設定</text>
+  </message>
+  <message>
+    <key>entry_board_reqruit_word1</key>
+    <text xml:space="preserve">&lt;VAL&gt;.</text>
+  </message>
+  <message>
+    <key>entry_board_reqruit_osusume</key>
+    <text xml:space="preserve">オススメ</text>
+  </message>
+  <message>
+    <key>entry_board_reqruit_reqruit</key>
+    <text xml:space="preserve">募集する</text>
+  </message>
+  <message>
+    <key>entry_board_reqruit_cancel</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+  <message>
+    <key>entry_board_reqruit_word2</key>
+    <text xml:space="preserve">～</text>
+  </message>
+  <message>
+    <key>entry_board_info_memberlist</key>
+    <text xml:space="preserve">Member List</text>
+  </message>
+  <message>
+    <key>entry_board_info_option</key>
+    <text xml:space="preserve">Option</text>
+  </message>
+  <message>
+    <key>entry_board_info_password_on</key>
+    <text xml:space="preserve">【パスワード】</text>
+  </message>
+  <message>
+    <key>entry_board_info_job_on</key>
+    <text xml:space="preserve">【ジョブ指定】</text>
+  </message>
+  <message>
+    <key>entry_board_info_word1</key>
+    <text xml:space="preserve">&lt;VAL&gt;/&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>entry_board_pop_event_top_entry</key>
+    <text xml:space="preserve">参加中</text>
+  </message>
+  <message>
+    <key>entry_board_mission_info_reward</key>
+    <text xml:space="preserve">報酬</text>
+  </message>
+  <message>
+    <key>entry_board_mission_info_entry_num</key>
+    <text xml:space="preserve">&lt;VAL&gt;人専用コンテンツ</text>
+  </message>
+  <message>
+    <key>entry_board_mission_info_recommand</key>
+    <text xml:space="preserve">推奨</text>
+  </message>
+  <message>
+    <key>entry_board_mission_info_war_situation</key>
+    <text xml:space="preserve">戦況</text>
+  </message>
+  <message>
+    <key>entry_board_mission_info_decide</key>
+    <text xml:space="preserve">決定</text>
+  </message>
+  <message>
+    <key>entry_board_mission_info_cancel</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+  <message>
+    <key>entry_board_search_designate_lv</key>
+    <text xml:space="preserve">レベルを指定する</text>
+  </message>
+  <message>
+    <key>entry_board_or_more</key>
+    <text xml:space="preserve">以上</text>
+  </message>
+  <message>
+    <key>entry_board_or_less</key>
+    <text xml:space="preserve">以下</text>
+  </message>
+  <message>
+    <key>entry_board_info_no</key>
+    <text xml:space="preserve">戻る</text>
+  </message>
+  <message>
+    <key>entry_board_info_member_check</key>
+    <text xml:space="preserve">メンバー確認</text>
+  </message>
+  <message>
+    <key>entry_board_info_limit_lv</key>
+    <text xml:space="preserve">【レベル制限】</text>
+  </message>
+  <message>
+    <key>entry_board_contents_title_e</key>
+    <text xml:space="preserve">Contents</text>
+  </message>
+  <message>
+    <key>entry_board_contents_title_j</key>
+    <text xml:space="preserve">コンテンツ窓口</text>
+  </message>
+  <message>
+    <key>entry_board_contents_event</key>
+    <text xml:space="preserve">レスタニアニュースで確認</text>
+  </message>
+  <message>
+    <key>entry_board_mission_info_condition</key>
+    <text xml:space="preserve">受注条件</text>
+  </message>
+  <message>
+    <key>entry_board_info_no_designate_job</key>
+    <text xml:space="preserve">ジョブ指定なし</text>
+  </message>
+  <message>
+    <key>entry_borad_contents_num</key>
+    <text xml:space="preserve">&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>entry_board_info_memberlist_j</key>
+    <text xml:space="preserve">メンバーリスト</text>
+  </message>
+  <message>
+    <key>entry_board_enter_password</key>
+    <text xml:space="preserve">パスワードを入力してください</text>
+  </message>
+  <message>
+    <key>entry_board_btn_searth_another</key>
+    <text xml:space="preserve">別エントリー検索</text>
+  </message>
+  <message>
+    <key>entry_board_set</key>
+    <text xml:space="preserve">あり</text>
+  </message>
+  <message>
+    <key>entry_board_unset</key>
+    <text xml:space="preserve">なし</text>
+  </message>
+  <message>
+    <key>entry_board_level_band</key>
+    <text xml:space="preserve">min&lt;VAL&gt;～max&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>entry_board_unsatisfied</key>
+    <text xml:space="preserve">募集条件を満たしていません</text>
+  </message>
+  <message>
+    <key>entry_board_lv_limit1</key>
+    <text xml:space="preserve">レベル制限：</text>
+  </message>
+  <message>
+    <key>entry_board_lv_limit2</key>
+    <text xml:space="preserve">レベル制限</text>
+  </message>
+  <message>
+    <key>entry_board_job_limit1</key>
+    <text xml:space="preserve">ジョブ指定</text>
+  </message>
+  <message>
+    <key>entry_board_job_limit2</key>
+    <text xml:space="preserve">ジョブ指定：</text>
+  </message>
+  <message>
+    <key>entry_board_pass_limit1</key>
+    <text xml:space="preserve">パスワード：</text>
+  </message>
+  <message>
+    <key>entry_board_pass_limit2</key>
+    <text xml:space="preserve">パスワード設定</text>
+  </message>
+  <message>
+    <key>entry_board_time_gather</key>
+    <text xml:space="preserve">募集時間：</text>
+  </message>
+  <message>
+    <key>entry_board_num_menber</key>
+    <text xml:space="preserve">募集人数：</text>
+  </message>
+  <message>
+    <key>entry_board_is_cancel_make</key>
+    <text xml:space="preserve">募集をとりやめますか？</text>
+  </message>
+  <message>
+    <key>entry_board_buttonguid_membercheck</key>
+    <text xml:space="preserve">パーティーメンバー確認</text>
+  </message>
+  <message>
+    <key>entry_board_fail_search</key>
+    <text xml:space="preserve">検索結果は0件でした</text>
+  </message>
+</resource>

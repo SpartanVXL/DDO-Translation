@@ -1,0 +1,74 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>MSG_EDITCHNAME</key>
+    <text xml:space="preserve">チャンネル名を入力してください</text>
+  </message>
+  <message>
+    <key>MSG_RESIZE_J</key>
+    <text xml:space="preserve">ウィンドウ拡縮</text>
+  </message>
+  <message>
+    <key>MSG_FLTRDEL</key>
+    <text xml:space="preserve">このチャンネルを削除しますか？</text>
+  </message>
+  <message>
+    <key>MSG_NOTABLEADDCH</key>
+    <text xml:space="preserve">これ以上チャンネルを追加できません</text>
+  </message>
+  <message>
+    <key>MSG_EDIT</key>
+    <text xml:space="preserve">再編集</text>
+  </message>
+  <message>
+    <key>MSG_DELCH</key>
+    <text xml:space="preserve">チャンネルの削除</text>
+  </message>
+  <message>
+    <key>MSG_GUIDE_EDTICH_J</key>
+    <text xml:space="preserve">チャンネルの編集</text>
+  </message>
+  <message>
+    <key>MSG_EDITCH</key>
+    <text xml:space="preserve">チャンネルの設定変更</text>
+  </message>
+  <message>
+    <key>MSG_SETFILTER</key>
+    <text xml:space="preserve">フィルターを設定してください</text>
+  </message>
+  <message>
+    <key>MSG_SELECT_J</key>
+    <text xml:space="preserve">選択</text>
+  </message>
+  <message>
+    <key>MSG_SENDMSG_J</key>
+    <text xml:space="preserve">発言</text>
+  </message>
+  <message>
+    <key>MSG_RECORD_J</key>
+    <text xml:space="preserve">履歴</text>
+  </message>
+  <message>
+    <key>MSG_NONAME</key>
+    <text xml:space="preserve">名前が入力されていません</text>
+  </message>
+  <message>
+    <key>MSG_VIEWLOG</key>
+    <text xml:space="preserve">ログ参照</text>
+  </message>
+  <message>
+    <key>MSG_INPUTSTART</key>
+    <text xml:space="preserve">入力</text>
+  </message>
+  <message>
+    <key>MSG_CHEDIT</key>
+    <text xml:space="preserve">チャンネルの編集</text>
+  </message>
+  <message>
+    <key>MSG_CHATMODE</key>
+    <text xml:space="preserve">チャットモード</text>
+  </message>
+  <message>
+    <key>CHAT_MSG_INPUTMODE_JP</key>
+    <text xml:space="preserve">あ</text>
+  </message>
+</resource>

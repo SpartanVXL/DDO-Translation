@@ -1,0 +1,101 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>sys_announce_controllernotconnect</key>
+    <text xml:space="preserve">&lt;PFWD 0&gt;が接続されていません</text>
+  </message>
+  <message>
+    <key>sys_announce_check_strage</key>
+    <text xml:space="preserve">ハードディスクドライブの容量をチェックしています</text>
+  </message>
+  <message>
+    <key>sys_announce_notenoughstorage</key>
+    <text xml:space="preserve">ハードディスクドライブの空き容量が不足しています
+ゲームを開始するためには
+&lt;VAL 0&gt; 以上の空き容量が必要です
+ゲームを終了して空き容量を確保してください</text>
+  </message>
+  <message>
+    <key>sys_announce_trophy</key>
+    <text xml:space="preserve"></text>
+  </message>
+  <message>
+    <key>sys_announce_newsave</key>
+    <text xml:space="preserve">新規にセーブデータを作成しています
+PCの電源を切らないでください</text>
+  </message>
+  <message>
+    <key>sys_announce_savedata_broken</key>
+    <text xml:space="preserve">セーブデータが破損しています
+セーブデータを破棄して
+新規に作成しますか？</text>
+  </message>
+  <message>
+    <key>sys_announce_ps3_loadfail</key>
+    <text xml:space="preserve">セーブデータをロードできませんでした
+セーブデータを破棄して
+新規に作成しますか？</text>
+  </message>
+  <message>
+    <key>sys_announce_notuse_anothersave</key>
+    <text xml:space="preserve">他のユーザーのセーブデータを
+使用することはできません
+セーブデータを破棄して
+新規に作成します</text>
+  </message>
+  <message>
+    <key>sys_announce_goto_launcher</key>
+    <text xml:space="preserve">セーブデータを準備できませんでした
+ランチャーへ戻ります</text>
+  </message>
+  <message>
+    <key>sys_announce_failedsave</key>
+    <text xml:space="preserve">セーブデータの保存に失敗しました</text>
+  </message>
+  <message>
+    <key>sys_announce_checkingsave</key>
+    <text xml:space="preserve">セーブデータをチェックしています
+PCの電源を切らないでください</text>
+  </message>
+  <message>
+    <key>sys_announce_check_strage_fail</key>
+    <text xml:space="preserve">ハードディスクドライブ容量の
+チェックに失敗しました
+ランチャーへ戻ります</text>
+  </message>
+  <message>
+    <key>sys_announce_trophy_fail</key>
+    <text xml:space="preserve">トロフィーデータの準備に失敗しました
+ランチャーへ戻ります</text>
+  </message>
+  <message>
+    <key>sys_announce_firstoption</key>
+    <text xml:space="preserve">操作デバイスを選択してください
+※この項目はオプションで変更できます</text>
+  </message>
+  <message>
+    <key>sys_announce_choice_pad</key>
+    <text xml:space="preserve">&lt;PFWD 0&gt;</text>
+  </message>
+  <message>
+    <key>sys_announce_choice_mouse</key>
+    <text xml:space="preserve">マウス・キーボード</text>
+  </message>
+  <message>
+    <key>sys_announce_calibration</key>
+    <text xml:space="preserve">&lt;PFWD 0&gt;のボタン配置を初期化しました
+ボタン配置の確認後
+必要であれば配置変更を行ってください</text>
+  </message>
+  <message>
+    <key>sys_announce_saving</key>
+    <text xml:space="preserve">設定を保存します</text>
+  </message>
+  <message>
+    <key>sys_announce_exit</key>
+    <text xml:space="preserve">Dragon's Dogma Online を終了しますか？</text>
+  </message>
+  <message>
+    <key>sys_announce_connecting</key>
+    <text xml:space="preserve">サーバーと通信中です</text>
+  </message>
+</resource>

@@ -1,0 +1,134 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>OSD_index_en</key>
+    <text xml:space="preserve">Status</text>
+  </message>
+  <message>
+    <key>OSD_index_jp</key>
+    <text xml:space="preserve">黄金石の確認</text>
+  </message>
+  <message>
+    <key>OSD_tab_goldstone</key>
+    <text xml:space="preserve">黄金石</text>
+  </message>
+  <message>
+    <key>OSD_tab_effectivedate</key>
+    <text xml:space="preserve">有効期限</text>
+  </message>
+  <message>
+    <key>OSD_tab_gethistory</key>
+    <text xml:space="preserve">獲得履歴</text>
+  </message>
+  <message>
+    <key>OSD_title_goldstone</key>
+    <text xml:space="preserve">所持黄金石</text>
+  </message>
+  <message>
+    <key>OSD_title_goldstone_items</key>
+    <text xml:space="preserve">所持黄金石の内訳</text>
+  </message>
+  <message>
+    <key>OSD_title_goldstone_pay</key>
+    <text xml:space="preserve">購入分</text>
+  </message>
+  <message>
+    <key>OSD_title_goldstone_free</key>
+    <text xml:space="preserve">無料分</text>
+  </message>
+  <message>
+    <key>OSD_warning</key>
+    <text xml:space="preserve">今月末で期限が切れる黄金石があります</text>
+  </message>
+  <message>
+    <key>OSD_effectivedate_text1</key>
+    <text xml:space="preserve">黄金石の有効期限は、獲得から4か月後の月末までです</text>
+  </message>
+  <message>
+    <key>OSD_effectivedate_text2</key>
+    <text xml:space="preserve">まで有効の黄金石</text>
+  </message>
+  <message>
+    <key>OSD_date</key>
+    <text xml:space="preserve">&lt;DATE&gt;</text>
+  </message>
+  <message>
+    <key>OSD_pay</key>
+    <text xml:space="preserve">購入分</text>
+  </message>
+  <message>
+    <key>OSD_free</key>
+    <text xml:space="preserve">無料分</text>
+  </message>
+  <message>
+    <key>OSD_eventcode_index_en</key>
+    <text xml:space="preserve">Event Code</text>
+  </message>
+  <message>
+    <key>OSD_eventcode_index_jp</key>
+    <text xml:space="preserve">イベントコードの入力</text>
+  </message>
+  <message>
+    <key>OSD_eventcode_title</key>
+    <text xml:space="preserve">16ケタのイベントコードを入力してください</text>
+  </message>
+  <message>
+    <key>OSD_eventcode_ok</key>
+    <text xml:space="preserve">決定</text>
+  </message>
+  <message>
+    <key>OSD_eventcode_warning</key>
+    <text xml:space="preserve">イベントコードに関する注意</text>
+  </message>
+  <message>
+    <key>OSD_eventcode_warning_text</key>
+    <text xml:space="preserve">イベントコード入力を5回失敗すると、
+3時間イベントコードの入力ができなくなります
+
+コード特典は現在ログイン中の
+キャラクターのみに適用されます</text>
+  </message>
+  <message>
+    <key>OSD_histry_information</key>
+    <text xml:space="preserve">最新50件(古い履歴から順に削除されます)</text>
+  </message>
+  <message>
+    <key>OSD_announce_disbuyable</key>
+    <text xml:space="preserve">現在黄金石の購入を利用することができません</text>
+  </message>
+  <message>
+    <key>OSD_msg_stampbornus</key>
+    <text xml:space="preserve">スタンプボーナス</text>
+  </message>
+  <message>
+    <key>OSD_msg_presents</key>
+    <text xml:space="preserve">運営からの配布</text>
+  </message>
+  <message>
+    <key>ODS_msg_buy_option</key>
+    <text xml:space="preserve">購入特典</text>
+  </message>
+  <message>
+    <key>OSD_notion_incomplete_input</key>
+    <text xml:space="preserve">全ての入力が終わらないと送信できません</text>
+  </message>
+  <message>
+    <key>OSD_buy</key>
+    <text xml:space="preserve">オンラインショップで購入</text>
+  </message>
+  <message>
+    <key>OSD_buy_by_bonus</key>
+    <text xml:space="preserve">オンラインショップで購入（ボーナス）</text>
+  </message>
+  <message>
+    <key>OSD_recieve_by_mail</key>
+    <text xml:space="preserve">メールで受取</text>
+  </message>
+  <message>
+    <key>OSD_msg_loginbornus</key>
+    <text xml:space="preserve">ログインボーナス</text>
+  </message>
+  <message>
+    <key>OSD_msg_no_history</key>
+    <text xml:space="preserve">履歴はありません</text>
+  </message>
+</resource>

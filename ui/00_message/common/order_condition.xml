@@ -1,0 +1,54 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>ORDER_CONDITION_988</key>
+    <text xml:space="preserve">無し</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_989</key>
+    <text xml:space="preserve">全ジョブのいずれかがジョブレベル&lt;QCND 0&gt;以上</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_994</key>
+    <text xml:space="preserve">ジョブ限定：&lt;QCND 0&gt;のジョブレベル&lt;QCND 1&gt;以上</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_995</key>
+    <text xml:space="preserve">パーティープレイ不可（ポーン同行不可）</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_996</key>
+    <text xml:space="preserve">無し</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_997</key>
+    <text xml:space="preserve">無し</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_998</key>
+    <text xml:space="preserve">メインクエスト＜&lt;QCND 0&gt;＞をクリア</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_999</key>
+    <text xml:space="preserve">パーソナルクエスト＜&lt;QCND 0&gt;＞をクリア</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1000</key>
+    <text xml:space="preserve">エクストリームミッション＜&lt;QCND 0&gt;＞をクリア</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_993</key>
+    <text xml:space="preserve">&lt;QCND 0&gt;のエリアランク&lt;QCND 1&gt;以上</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1003</key>
+    <text xml:space="preserve">パーティープレイ不可（ポーン同行可）</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1004</key>
+    <text xml:space="preserve">各証の戦術試練（初期ジョブ）を一つでもクリア</text>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1005</key>
+    <text xml:space="preserve">白竜神殿レンテンの＜破攻の証の戦術試練＞をクリア</text>
+  </message>
+</resource>

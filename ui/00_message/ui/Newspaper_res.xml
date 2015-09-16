@@ -1,0 +1,301 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>np_msg_icon_new</key>
+    <text xml:space="preserve">最近公開</text>
+  </message>
+  <message>
+    <key>np_msg_icon_recommended</key>
+    <text xml:space="preserve">ボーナス</text>
+  </message>
+  <message>
+    <key>np_msg_icon_party</key>
+    <text xml:space="preserve">PT推奨</text>
+  </message>
+  <message>
+    <key>np_msg_menutitle_area</key>
+    <text xml:space="preserve">エリア選択メニュー</text>
+  </message>
+  <message>
+    <key>np_msg_text_area</key>
+    <text xml:space="preserve">エリア選択</text>
+  </message>
+  <message>
+    <key>np_msg_category_news</key>
+    <text xml:space="preserve">本日のパーティーボーナス</text>
+  </message>
+  <message>
+    <key>np_msg_fit</key>
+    <text xml:space="preserve">推奨</text>
+  </message>
+  <message>
+    <key>np_msg_lv</key>
+    <text xml:space="preserve">LV.</text>
+  </message>
+  <message>
+    <key>np_msg_heard</key>
+    <text xml:space="preserve">目撃文</text>
+  </message>
+  <message>
+    <key>np_msg_reward</key>
+    <text xml:space="preserve">初回報酬</text>
+  </message>
+  <message>
+    <key>np_msg_limit</key>
+    <text xml:space="preserve">&lt;DATE&gt; まで</text>
+  </message>
+  <message>
+    <key>np_msg_sercret_reward</key>
+    <text xml:space="preserve">未公開報酬</text>
+  </message>
+  <message>
+    <key>np_msg_reward_rim</key>
+    <text xml:space="preserve">&lt;VAL RIM&gt;</text>
+  </message>
+  <message>
+    <key>np_msg_reward_g</key>
+    <text xml:space="preserve">&lt;VAL GOLD&gt;</text>
+  </message>
+  <message>
+    <key>np_msg_reward_exp</key>
+    <text xml:space="preserve">&lt;VAL XP&gt;</text>
+  </message>
+  <message>
+    <key>np_msg_nothing</key>
+    <text xml:space="preserve">---</text>
+  </message>
+  <message>
+    <key>np_msg_dialog_jump_check</key>
+    <text xml:space="preserve">&lt;NAME AREA&gt; に転移します
+必要リム：&lt;VAL RIM&gt;
+所持リム：&lt;VAL RIM&gt;</text>
+  </message>
+  <message>
+    <key>np_msg_dialoig_jump_norim</key>
+    <text xml:space="preserve">リムが不足しています
+必要リム：&lt;VAL RIM&gt;
+所持リム：&lt;VAL RIM&gt;</text>
+  </message>
+  <message>
+    <key>np_msg_decision_decide</key>
+    <text xml:space="preserve">決定</text>
+  </message>
+  <message>
+    <key>np_msg_decision_cansel</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+  <message>
+    <key>np_msg_article_event</key>
+    <text xml:space="preserve">イベント情報</text>
+  </message>
+  <message>
+    <key>np_msg_title</key>
+    <text xml:space="preserve">レスタニアニュース</text>
+  </message>
+  <message>
+    <key>np_msg_guid_others</key>
+    <text xml:space="preserve">他のイベント情報</text>
+  </message>
+  <message>
+    <key>np_msg_state_partin</key>
+    <text xml:space="preserve">参加中</text>
+  </message>
+  <message>
+    <key>np_msg_state_nopartin</key>
+    <text xml:space="preserve">参加受付中</text>
+  </message>
+  <message>
+    <key>np_msg_subtitle_event</key>
+    <text xml:space="preserve">イベント情報</text>
+  </message>
+  <message>
+    <key>np_msg_tab_ranking</key>
+    <text xml:space="preserve">ランキング</text>
+  </message>
+  <message>
+    <key>np_msg_rab_reward</key>
+    <text xml:space="preserve">リワード</text>
+  </message>
+  <message>
+    <key>np_msg_pt</key>
+    <text xml:space="preserve">pt</text>
+  </message>
+  <message>
+    <key>np_msg_ranking</key>
+    <text xml:space="preserve">ランキング</text>
+  </message>
+  <message>
+    <key>np_msg_name</key>
+    <text xml:space="preserve">名前</text>
+  </message>
+  <message>
+    <key>np_msg_clan</key>
+    <text xml:space="preserve">クラン</text>
+  </message>
+  <message>
+    <key>np_msg_reward_boarder</key>
+    <text xml:space="preserve">累計スコア報酬</text>
+  </message>
+  <message>
+    <key>np_msg_reward_ranking</key>
+    <text xml:space="preserve">ランキング報酬</text>
+  </message>
+  <message>
+    <key>np_msg_rate</key>
+    <text xml:space="preserve">&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>np_msg_rate_period</key>
+    <text xml:space="preserve">&lt;VAL&gt;位～&lt;VAL&gt;位</text>
+  </message>
+  <message>
+    <key>np_msg_noreward</key>
+    <text xml:space="preserve">報酬なし</text>
+  </message>
+  <message>
+    <key>np_msg_update</key>
+    <text xml:space="preserve">集計日: &lt;DATE&gt;</text>
+  </message>
+  <message>
+    <key>np_msg_starting</key>
+    <text xml:space="preserve">開始直後</text>
+  </message>
+  <message>
+    <key>np_msg_hoursago</key>
+    <text xml:space="preserve">&lt;VAL&gt; 時間前</text>
+  </message>
+  <message>
+    <key>np_msg_term</key>
+    <text xml:space="preserve">&lt;DATE&gt; - &lt;DATE&gt;</text>
+  </message>
+  <message>
+    <key>np_msg_pt_period</key>
+    <text xml:space="preserve">&lt;VAL&gt;pt  - &lt;VAL&gt;pt</text>
+  </message>
+  <message>
+    <key>np_msg_icon_ending</key>
+    <text xml:space="preserve">終了直前</text>
+  </message>
+  <message>
+    <key>np_msg_noquickpt</key>
+    <text xml:space="preserve">新聞クイックパーティは現在利用できません</text>
+  </message>
+  <message>
+    <key>np_msg_mypoint</key>
+    <text xml:space="preserve">獲得ポイント</text>
+  </message>
+  <message>
+    <key>np_msg_area_select</key>
+    <text xml:space="preserve">Area Select</text>
+  </message>
+  <message>
+    <key>np_msg_condition</key>
+    <text xml:space="preserve">状況</text>
+  </message>
+  <message>
+    <key>np_msg_period</key>
+    <text xml:space="preserve">配信期間</text>
+  </message>
+  <message>
+    <key>np_msg_period_start</key>
+    <text xml:space="preserve">&lt;DATE&gt; から</text>
+  </message>
+  <message>
+    <key>np_msg_period_end</key>
+    <text xml:space="preserve">&lt;DATE&gt; まで</text>
+  </message>
+  <message>
+    <key>np_msg_rank</key>
+    <text xml:space="preserve">位</text>
+  </message>
+  <message>
+    <key>np_msg_abst</key>
+    <text xml:space="preserve">概要</text>
+  </message>
+  <message>
+    <key>np_msg_entry_point</key>
+    <text xml:space="preserve">参加場所</text>
+  </message>
+  <message>
+    <key>np_msg_reward_info</key>
+    <text xml:space="preserve">ハイスコア報酬例</text>
+  </message>
+  <message>
+    <key>np_msg_func_disable</key>
+    <text xml:space="preserve">この機能は現在使用できません</text>
+  </message>
+  <message>
+    <key>np_msg_ability_reward</key>
+    <text xml:space="preserve">アビリティ：</text>
+  </message>
+  <message>
+    <key>np_msg_total</key>
+    <text xml:space="preserve">Total</text>
+  </message>
+  <message>
+    <key>np_msg_no_ranking</key>
+    <text xml:space="preserve">現在ランキングは発表されていません</text>
+  </message>
+  <message>
+    <key>np_msg_no_quest</key>
+    <text xml:space="preserve">現在クエストの配信はありません</text>
+  </message>
+  <message>
+    <key>np_msg_dailybonus</key>
+    <text xml:space="preserve">■&lt;COL ffdc78&gt;《本日のパーティーボーナス》&lt;/COL&gt;詳細
+
+＜ボーナス発生条件＞
+　・対象のワールドクエストを他のプレイヤーと
+　　パーティーを組んで&lt;VAL&gt;回クリア
+　　（ポーンとの混成パーティーＯＫ）
+
+＜ボーナス内容＞
+　・クエスト報酬（XP/G/R/AP）にボーナス倍率
+　・レベルや進行度の差による報酬ペナルティ無効
+
+　※対象クエストはデイリーで変化します
+　※各クエストの受注画面、ログの報酬欄にて
+　　ボーナス詳細が確認できます</text>
+  </message>
+  <message>
+    <key>np_msg_dailybonus_bo</key>
+    <text xml:space="preserve">■&lt;COL ffdc78&gt;《本日のパーティーボーナス》&lt;/COL&gt;詳細
+
+＜ボーナス発生条件＞
+　・対象のワールドクエストを他のプレイヤーと
+　　パーティーを組んで&lt;VAL&gt;回クリア
+　　（ポーンとの混成パーティーＯＫ）
+
+＜ボーナス内容＞
+　&lt;COL ffdc78&gt;★本日は《ブラッドオーブ&lt;/COL&gt;&lt;VAL BO&gt;&lt;COL ffdc78&gt;》追加！&lt;/COL&gt;
+　・クエスト報酬（XP/G/R/AP）にボーナス倍率
+　・レベルや進行度の差による報酬ペナルティ無効
+
+　※対象クエストはデイリーで変化します
+　※各クエストの受注画面、ログの報酬欄にて
+　　ボーナス詳細が確認できます</text>
+  </message>
+  <message>
+    <key>np_msg_guide_partybonus</key>
+    <text xml:space="preserve">パーティーボーナス情報</text>
+  </message>
+  <message>
+    <key>np_msg_just</key>
+    <text xml:space="preserve">適正</text>
+  </message>
+  <message>
+    <key>np_msg_pt_period_more</key>
+    <text xml:space="preserve">&lt;VAL&gt;pt 以上</text>
+  </message>
+  <message>
+    <key>np_msg_state_preparation</key>
+    <text xml:space="preserve">開戦準備中</text>
+  </message>
+  <message>
+    <key>np_msg_state_ranking</key>
+    <text xml:space="preserve">戦果分析中</text>
+  </message>
+  <message>
+    <key>np_msg_state_receiving</key>
+    <text xml:space="preserve">報酬配分中</text>
+  </message>
+</resource>

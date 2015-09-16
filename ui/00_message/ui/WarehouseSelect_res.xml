@@ -1,0 +1,26 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>warehouse_title</key>
+    <text xml:space="preserve">Menu</text>
+  </message>
+  <message>
+    <key>warehouse_title_sub</key>
+    <text xml:space="preserve">メニュー</text>
+  </message>
+  <message>
+    <key>warehouse_item</key>
+    <text xml:space="preserve">引き出す / 預ける</text>
+  </message>
+  <message>
+    <key>warehouse_reward</key>
+    <text xml:space="preserve">報酬受け取り</text>
+  </message>
+  <message>
+    <key>warehouse_status</key>
+    <text xml:space="preserve">装備変更</text>
+  </message>
+  <message>
+    <key>warehouse_chara_select_title</key>
+    <text xml:space="preserve">キャラクターを選択してください</text>
+  </message>
+</resource>

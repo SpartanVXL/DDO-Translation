@@ -1,0 +1,214 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>hud_job_hunter_normal_arrow</key>
+    <text xml:space="preserve">通常矢</text>
+  </message>
+  <message>
+    <key>hud_disp_level</key>
+    <text xml:space="preserve">LV.</text>
+  </message>
+  <message>
+    <key>hud_quest_qo</key>
+    <text xml:space="preserve">Quest Owner</text>
+  </message>
+  <message>
+    <key>hud_quest_gm</key>
+    <text xml:space="preserve">Grand Mission</text>
+  </message>
+  <message>
+    <key>hud_job_hunter_change_arrow</key>
+    <text xml:space="preserve">矢切替</text>
+  </message>
+  <message>
+    <key>hud_job_sealedsage_change_attribution</key>
+    <text xml:space="preserve">属性切替</text>
+  </message>
+  <message>
+    <key>hud_job_unequipped</key>
+    <text xml:space="preserve">None</text>
+  </message>
+  <message>
+    <key>hud_status_standby</key>
+    <text xml:space="preserve">スタンバイOK</text>
+  </message>
+  <message>
+    <key>hud_status_away</key>
+    <text xml:space="preserve">離席中</text>
+  </message>
+  <message>
+    <key>hud_status_event</key>
+    <text xml:space="preserve">イベント</text>
+  </message>
+  <message>
+    <key>hud_quest_qg_time</key>
+    <text xml:space="preserve">Time</text>
+  </message>
+  <message>
+    <key>hud_quest_qg_point</key>
+    <text xml:space="preserve">Score</text>
+  </message>
+  <message>
+    <key>hud_quest_qg_pt</key>
+    <text xml:space="preserve">pt</text>
+  </message>
+  <message>
+    <key>hud_quest_qg_sec</key>
+    <text xml:space="preserve">sec</text>
+  </message>
+  <message>
+    <key>hud_status_ailment_sec</key>
+    <text xml:space="preserve">秒</text>
+  </message>
+  <message>
+    <key>hud_status_ailment_stamina</key>
+    <text xml:space="preserve">スタミナ回復</text>
+  </message>
+  <message>
+    <key>hud_get_announce_bo</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT BO&gt;</text>
+  </message>
+  <message>
+    <key>hud_get_announce_g</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT G&gt;</text>
+  </message>
+  <message>
+    <key>hud_get_announce_r</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT R&gt;</text>
+  </message>
+  <message>
+    <key>hud_get_announce_xp</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT XP&gt;</text>
+  </message>
+  <message>
+    <key>hud_quest_ann_caution_deco</key>
+    <text xml:space="preserve">Defeat the enemy !</text>
+  </message>
+  <message>
+    <key>hud_pawn_ann_lost</key>
+    <text xml:space="preserve">&lt;VAL&gt; がポーン郷にある異界の狭間へ送られました</text>
+  </message>
+  <message>
+    <key>hud_pawn_ann_rescue_start</key>
+    <text xml:space="preserve">&lt;VAL&gt; を襲いかかる敵から救出せよ</text>
+  </message>
+  <message>
+    <key>hud_pawn_ann_rescue_failed</key>
+    <text xml:space="preserve">&lt;VAL&gt; の呪縛を解くことができなかった</text>
+  </message>
+  <message>
+    <key>hud_pawn_ann_rescue_clear</key>
+    <text xml:space="preserve">&lt;VAL&gt; の呪縛が解け、リムの淵辺で目を覚ました</text>
+  </message>
+  <message>
+    <key>hud_pawn_ann_resurrection</key>
+    <text xml:space="preserve">&lt;VAL&gt; が復活し、待機状態に戻りました</text>
+  </message>
+  <message>
+    <key>hud_disp_infinity</key>
+    <text xml:space="preserve">∞</text>
+  </message>
+  <message>
+    <key>hud_get_announce_pawnlvup</key>
+    <text xml:space="preserve">&lt;NAME PAWN&gt;が&lt;LEVEL&gt;にUPしました</text>
+  </message>
+  <message>
+    <key>hud_enemy_nodamage</key>
+    <text xml:space="preserve">Invulnerable</text>
+  </message>
+  <message>
+    <key>hud_enemy_engage</key>
+    <text xml:space="preserve">In Battle !</text>
+  </message>
+  <message>
+    <key>hud_gauge_sorcery_bonus</key>
+    <text xml:space="preserve">× &lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>hud_gauge_sorcery_button</key>
+    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_R3&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_WHL_1&gt;&lt;/KEYM&gt;</text>
+  </message>
+  <message>
+    <key>hud_status_disconnect</key>
+    <text xml:space="preserve">回線切断中</text>
+  </message>
+  <message>
+    <key>hud_skill_move</key>
+    <text xml:space="preserve">発動</text>
+  </message>
+  <message>
+    <key>hud_charges_others</key>
+    <text xml:space="preserve"> その他×&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>hud_recommend_level</key>
+    <text xml:space="preserve">LV.%d</text>
+  </message>
+  <message>
+    <key>hud_get_announce_bo_ex</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT BO&gt; &lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>hud_get_announce_r_ex</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT R&gt; &lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>hud_get_announce_xp_ex</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT XP&gt; &lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>hud_generalpurpose_clear_deco</key>
+    <text xml:space="preserve">目的を達成しました</text>
+  </message>
+  <message>
+    <key>hud_change_tx_tank</key>
+    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_L&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE&gt;&lt;/KEYM&gt;</text>
+  </message>
+  <message>
+    <key>hud_gauge_xp_next</key>
+    <text xml:space="preserve">Next </text>
+  </message>
+  <message>
+    <key>hud_get_announce_g_ex</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT G&gt; &lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>hud_get_announce_goldstone</key>
+    <text xml:space="preserve">&lt;VAL&gt; @</text>
+  </message>
+  <message>
+    <key>hud_get_announce_silvertickets</key>
+    <text xml:space="preserve">&lt;VAL&gt; _|</text>
+  </message>
+  <message>
+    <key>hud_map_guide_lock</key>
+    <text xml:space="preserve">ロック</text>
+  </message>
+  <message>
+    <key>hud_map_guide_scaling</key>
+    <text xml:space="preserve">拡縮</text>
+  </message>
+  <message>
+    <key>hud_map_guide_freemarker</key>
+    <text xml:space="preserve">フリーマーカー</text>
+  </message>
+  <message>
+    <key>hud_map_guide_cursor</key>
+    <text xml:space="preserve">カーソル移動</text>
+  </message>
+  <message>
+    <key>hud_map_guide_operation</key>
+    <text xml:space="preserve">ミニマップ操作</text>
+  </message>
+  <message>
+    <key>hud_map_guide_zoom</key>
+    <text xml:space="preserve">ズームイン/アウト</text>
+  </message>
+  <message>
+    <key>hud_get_announce_rp</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT RP&gt;</text>
+  </message>
+  <message>
+    <key>hud_get_announce_rp_ex</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT RP&gt; &lt;VAL&gt;</text>
+  </message>
+</resource>

@@ -1,0 +1,176 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>title_general</key>
+    <text xml:space="preserve">よろず屋</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_PRICE</key>
+    <text xml:space="preserve">価格</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_X</key>
+    <text xml:space="preserve">×</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_YES</key>
+    <text xml:space="preserve">はい</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_NO</key>
+    <text xml:space="preserve">いいえ</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_BUYED</key>
+    <text xml:space="preserve">&lt;NAME ITEM&gt;を購入しました</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_BUY</key>
+    <text xml:space="preserve">購入</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_SELL</key>
+    <text xml:space="preserve">売却</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_CANCEL</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_SELECTBUYNUM</key>
+    <text xml:space="preserve">購入する個数を入力してください</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_SELECTSELLNUM</key>
+    <text xml:space="preserve">売却する個数を入力してください</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ATTENTIONBUY_1</key>
+    <text xml:space="preserve">以下の内容で購入します。よろしいですか？
+
+　アイテム：&lt;NAME ITEM&gt;
+　合計個数：&lt;VAL&gt;個
+　購入価格：&lt;VAL GOLD&gt;</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ATTENTIONSELL</key>
+    <text xml:space="preserve">以下の内容で売却します。よろしいですか？
+
+　アイテム：&lt;NAME ITEM&gt;
+　合計個数：&lt;VAL&gt;個
+　売却価格：&lt;VAL GOLD&gt;</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_MANNEQUIN</key>
+    <text xml:space="preserve">マネキン</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ATTENTIONBUY_ERR</key>
+    <text xml:space="preserve">以下の内容で購入します。よろしいですか？
+&lt;COL AA1414&gt;ジョブやレベル、装備状態が合わないため
+このアイテムを装備することはできません&lt;/COL&gt;
+
+　アイテム：&lt;NAME ITEM&gt;
+　合計個数：&lt;VAL&gt;個
+　購入価格：&lt;VAL GOLD&gt;</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_BTN_GUIDE_SELL</key>
+    <text xml:space="preserve">アイテムを売る</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ITEM</key>
+    <text xml:space="preserve">アイテム名</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_BUG_SELL</key>
+    <text xml:space="preserve">アイテムバッグから売却</text>
+  </message>
+  <message>
+    <key>title_weapon</key>
+    <text xml:space="preserve">武具屋</text>
+  </message>
+  <message>
+    <key>title_item</key>
+    <text xml:space="preserve">道具屋</text>
+  </message>
+  <message>
+    <key>title_material</key>
+    <text xml:space="preserve">素材屋</text>
+  </message>
+  <message>
+    <key>title_orb_enhance_material</key>
+    <text xml:space="preserve">オーブ交換：クレスト</text>
+  </message>
+  <message>
+    <key>title_orb_craft_material</key>
+    <text xml:space="preserve">オーブ交換：レア素材</text>
+  </message>
+  <message>
+    <key>heading_sell</key>
+    <text xml:space="preserve">売却</text>
+  </message>
+  <message>
+    <key>heading_buy</key>
+    <text xml:space="preserve">購入</text>
+  </message>
+  <message>
+    <key>dialog_buy_how_many</key>
+    <text xml:space="preserve">いくつ購入しますか？</text>
+  </message>
+  <message>
+    <key>dialog_sell_how_many</key>
+    <text xml:space="preserve">いくつ売却しますか？</text>
+  </message>
+  <message>
+    <key>dialog_decide_buy</key>
+    <text xml:space="preserve">以下の内容で購入します。よろしいですか？
+
+　アイテム：&lt;NAME ITEM&gt;
+　合計個数：&lt;VAL&gt;個
+　購入価格：&lt;VAL GOLD&gt;</text>
+  </message>
+  <message>
+    <key>dialog_decide_sell</key>
+    <text xml:space="preserve">以下の内容で売却します。よろしいですか？
+
+　アイテム：&lt;NAME ITEM&gt;
+　合計個数：&lt;VAL&gt;個
+　売却価格：&lt;VAL GOLD&gt;</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_BUY_TITLE</key>
+    <text xml:space="preserve">Buy</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_BUY_JP</key>
+    <text xml:space="preserve">買う</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_EQUIPCHANGE</key>
+    <text xml:space="preserve">試着切り替え</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_PREVIEW</key>
+    <text xml:space="preserve">試着</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_BTN_GUIDE_BUY</key>
+    <text xml:space="preserve">アイテムを買う</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_DIALOG_TRYON</key>
+    <text xml:space="preserve">試着する対象を選択してください</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_ATTENTIONBUY_BO</key>
+    <text xml:space="preserve">以下の内容で購入します。よろしいですか？
+
+　アイテム：&lt;NAME ITEM&gt;
+　合計個数：&lt;VAL&gt;個
+　購入価格：&lt;VAL BO&gt;</text>
+  </message>
+  <message>
+    <key>SHOP_TEXT_CHOOSE_TRY_ON</key>
+    <text xml:space="preserve">試着する対象を選択してください</text>
+  </message>
+</resource>

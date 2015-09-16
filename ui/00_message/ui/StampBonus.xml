@@ -1,0 +1,38 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>sb_tub_sbonus_cumulative_total</key>
+    <text xml:space="preserve">累計スタンプボーナス</text>
+  </message>
+  <message>
+    <key>sb_tub_sbonus_continuity</key>
+    <text xml:space="preserve">連続スタンプボーナス</text>
+  </message>
+  <message>
+    <key>sb_title_sbonus_en</key>
+    <text xml:space="preserve">Stamp Bonus</text>
+  </message>
+  <message>
+    <key>sb_title_sbonus_jp</key>
+    <text xml:space="preserve">スタンプ手帳</text>
+  </message>
+  <message>
+    <key>sb_ana_sbonus_continuity</key>
+    <text xml:space="preserve">《連続スタンプボーナス&lt;VAL&gt;日目》</text>
+  </message>
+  <message>
+    <key>sb_ana_sbonus_cumulative_total</key>
+    <text xml:space="preserve">《累計スタンプボーナス&lt;VAL&gt;日目》</text>
+  </message>
+  <message>
+    <key>sb_ana_get_item</key>
+    <text xml:space="preserve">を獲得しました</text>
+  </message>
+  <message>
+    <key>sb_ana_get_rim</key>
+    <text xml:space="preserve">枚</text>
+  </message>
+  <message>
+    <key>sb_ana_day_count</key>
+    <text xml:space="preserve">日目</text>
+  </message>
+</resource>

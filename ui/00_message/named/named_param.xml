@@ -1,0 +1,626 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>namedparam_0</key>
+    <text xml:space="preserve">----</text>
+  </message>
+  <message>
+    <key>namedparam_47</key>
+    <text xml:space="preserve">修練用</text>
+  </message>
+  <message>
+    <key>namedparam_48</key>
+    <text xml:space="preserve">捕囚サイクロプス</text>
+  </message>
+  <message>
+    <key>namedparam_52</key>
+    <text xml:space="preserve">さまようポーン</text>
+  </message>
+  <message>
+    <key>namedparam_53</key>
+    <text xml:space="preserve">要警戒</text>
+  </message>
+  <message>
+    <key>namedparam_54</key>
+    <text xml:space="preserve">凶悪</text>
+  </message>
+  <message>
+    <key>namedparam_56</key>
+    <text xml:space="preserve">危機的</text>
+  </message>
+  <message>
+    <key>namedparam_57</key>
+    <text xml:space="preserve">伝説級</text>
+  </message>
+  <message>
+    <key>namedparam_122</key>
+    <text xml:space="preserve">ゴブリンの尖兵</text>
+  </message>
+  <message>
+    <key>namedparam_123</key>
+    <text xml:space="preserve">ゴブリンの哨戒兵</text>
+  </message>
+  <message>
+    <key>namedparam_124</key>
+    <text xml:space="preserve">ゴブリンの補給兵</text>
+  </message>
+  <message>
+    <key>namedparam_125</key>
+    <text xml:space="preserve">オーク侵略兵</text>
+  </message>
+  <message>
+    <key>namedparam_126</key>
+    <text xml:space="preserve">キラービー進攻種</text>
+  </message>
+  <message>
+    <key>namedparam_127</key>
+    <text xml:space="preserve">5本角のガルゴ</text>
+  </message>
+  <message>
+    <key>namedparam_128</key>
+    <text xml:space="preserve">ガルゴの手下</text>
+  </message>
+  <message>
+    <key>namedparam_129</key>
+    <text xml:space="preserve">集いし</text>
+  </message>
+  <message>
+    <key>namedparam_130</key>
+    <text xml:space="preserve">集いし</text>
+  </message>
+  <message>
+    <key>namedparam_131</key>
+    <text xml:space="preserve">集いし</text>
+  </message>
+  <message>
+    <key>namedparam_132</key>
+    <text xml:space="preserve">集いし</text>
+  </message>
+  <message>
+    <key>namedparam_133</key>
+    <text xml:space="preserve">森乱のエイプ</text>
+  </message>
+  <message>
+    <key>namedparam_134</key>
+    <text xml:space="preserve">囚われし</text>
+  </message>
+  <message>
+    <key>namedparam_135</key>
+    <text xml:space="preserve">囚われし</text>
+  </message>
+  <message>
+    <key>namedparam_136</key>
+    <text xml:space="preserve">さまよえるポーン</text>
+  </message>
+  <message>
+    <key>namedparam_137</key>
+    <text xml:space="preserve">さまよえるポーン</text>
+  </message>
+  <message>
+    <key>namedparam_138</key>
+    <text xml:space="preserve">さまよえるポーン</text>
+  </message>
+  <message>
+    <key>namedparam_139</key>
+    <text xml:space="preserve">異形の大スケルトン</text>
+  </message>
+  <message>
+    <key>namedparam_140</key>
+    <text xml:space="preserve">精錬</text>
+  </message>
+  <message>
+    <key>namedparam_141</key>
+    <text xml:space="preserve">人喰い</text>
+  </message>
+  <message>
+    <key>namedparam_142</key>
+    <text xml:space="preserve">猛る</text>
+  </message>
+  <message>
+    <key>namedparam_143</key>
+    <text xml:space="preserve">縄張り荒らしの巨人</text>
+  </message>
+  <message>
+    <key>namedparam_144</key>
+    <text xml:space="preserve">縄張り荒らしの妖鳥</text>
+  </message>
+  <message>
+    <key>namedparam_145</key>
+    <text xml:space="preserve">オーク侵略兵</text>
+  </message>
+  <message>
+    <key>namedparam_146</key>
+    <text xml:space="preserve">砦破り</text>
+  </message>
+  <message>
+    <key>namedparam_147</key>
+    <text xml:space="preserve">強襲の</text>
+  </message>
+  <message>
+    <key>namedparam_148</key>
+    <text xml:space="preserve">召喚されし牙竜</text>
+  </message>
+  <message>
+    <key>namedparam_187</key>
+    <text xml:space="preserve">兎喰らいの</text>
+  </message>
+  <message>
+    <key>namedparam_188</key>
+    <text xml:space="preserve">ビンシャの手下</text>
+  </message>
+  <message>
+    <key>namedparam_189</key>
+    <text xml:space="preserve">橋守のビンシャ</text>
+  </message>
+  <message>
+    <key>namedparam_190</key>
+    <text xml:space="preserve">変種</text>
+  </message>
+  <message>
+    <key>namedparam_191</key>
+    <text xml:space="preserve">大喰いのラージリザード</text>
+  </message>
+  <message>
+    <key>namedparam_192</key>
+    <text xml:space="preserve">黒狼団のローグ</text>
+  </message>
+  <message>
+    <key>namedparam_193</key>
+    <text xml:space="preserve">黒狼団の首領</text>
+  </message>
+  <message>
+    <key>namedparam_195</key>
+    <text xml:space="preserve">隠れ浜のならず者</text>
+  </message>
+  <message>
+    <key>namedparam_200</key>
+    <text xml:space="preserve">マーテル・ハーピー</text>
+  </message>
+  <message>
+    <key>namedparam_201</key>
+    <text xml:space="preserve">棘角のギョームル</text>
+  </message>
+  <message>
+    <key>namedparam_202</key>
+    <text xml:space="preserve">ギョームルの手下</text>
+  </message>
+  <message>
+    <key>namedparam_203</key>
+    <text xml:space="preserve">ルフローの亡霊</text>
+  </message>
+  <message>
+    <key>namedparam_204</key>
+    <text xml:space="preserve">村民の成れの果て</text>
+  </message>
+  <message>
+    <key>namedparam_205</key>
+    <text xml:space="preserve">青爪浜の</text>
+  </message>
+  <message>
+    <key>namedparam_206</key>
+    <text xml:space="preserve">グリッガの手下</text>
+  </message>
+  <message>
+    <key>namedparam_207</key>
+    <text xml:space="preserve">緑鬼グリッガ</text>
+  </message>
+  <message>
+    <key>namedparam_208</key>
+    <text xml:space="preserve">唸り猿</text>
+  </message>
+  <message>
+    <key>namedparam_209</key>
+    <text xml:space="preserve">裂き猿</text>
+  </message>
+  <message>
+    <key>namedparam_210</key>
+    <text xml:space="preserve">豚喰い猿</text>
+  </message>
+  <message>
+    <key>namedparam_212</key>
+    <text xml:space="preserve">オールドグロウ・エント</text>
+  </message>
+  <message>
+    <key>namedparam_213</key>
+    <text xml:space="preserve">古代種</text>
+  </message>
+  <message>
+    <key>namedparam_214</key>
+    <text xml:space="preserve">古代種</text>
+  </message>
+  <message>
+    <key>namedparam_215</key>
+    <text xml:space="preserve">坑道荒らし</text>
+  </message>
+  <message>
+    <key>namedparam_216</key>
+    <text xml:space="preserve">宝狩りのグリフィン</text>
+  </message>
+  <message>
+    <key>namedparam_217</key>
+    <text xml:space="preserve">盗掘種</text>
+  </message>
+  <message>
+    <key>namedparam_218</key>
+    <text xml:space="preserve">奇種</text>
+  </message>
+  <message>
+    <key>namedparam_219</key>
+    <text xml:space="preserve">タイガーテール・サルファー</text>
+  </message>
+  <message>
+    <key>namedparam_220</key>
+    <text xml:space="preserve">スノーグーラー・ハーピー</text>
+  </message>
+  <message>
+    <key>namedparam_221</key>
+    <text xml:space="preserve">妖歌のローレライ</text>
+  </message>
+  <message>
+    <key>namedparam_222</key>
+    <text xml:space="preserve">剛腕のコロッサス</text>
+  </message>
+  <message>
+    <key>namedparam_223</key>
+    <text xml:space="preserve">オッドの精鋭</text>
+  </message>
+  <message>
+    <key>namedparam_224</key>
+    <text xml:space="preserve">盾破りのオッド</text>
+  </message>
+  <message>
+    <key>namedparam_227</key>
+    <text xml:space="preserve">葉影の密猟者</text>
+  </message>
+  <message>
+    <key>namedparam_228</key>
+    <text xml:space="preserve">密猟者の護衛</text>
+  </message>
+  <message>
+    <key>namedparam_233</key>
+    <text xml:space="preserve">コバルトニュート</text>
+  </message>
+  <message>
+    <key>namedparam_265</key>
+    <text xml:space="preserve">斥候のコロッサス</text>
+  </message>
+  <message>
+    <key>namedparam_283</key>
+    <text xml:space="preserve">先発隊長</text>
+  </message>
+  <message>
+    <key>namedparam_284</key>
+    <text xml:space="preserve">切込隊長</text>
+  </message>
+  <message>
+    <key>namedparam_285</key>
+    <text xml:space="preserve">先発兵</text>
+  </message>
+  <message>
+    <key>namedparam_298</key>
+    <text xml:space="preserve">流浪の</text>
+  </message>
+  <message>
+    <key>namedparam_299</key>
+    <text xml:space="preserve">指名手配</text>
+  </message>
+  <message>
+    <key>namedparam_300</key>
+    <text xml:space="preserve">はぐれ</text>
+  </message>
+  <message>
+    <key>namedparam_303</key>
+    <text xml:space="preserve">討伐対象</text>
+  </message>
+  <message>
+    <key>namedparam_304</key>
+    <text xml:space="preserve">レイド・</text>
+  </message>
+  <message>
+    <key>namedparam_305</key>
+    <text xml:space="preserve">路番の</text>
+  </message>
+  <message>
+    <key>namedparam_306</key>
+    <text xml:space="preserve">路番の</text>
+  </message>
+  <message>
+    <key>namedparam_307</key>
+    <text xml:space="preserve">穢れの助神官</text>
+  </message>
+  <message>
+    <key>namedparam_308</key>
+    <text xml:space="preserve">穢れの土人形</text>
+  </message>
+  <message>
+    <key>namedparam_309</key>
+    <text xml:space="preserve">穢れの信徒</text>
+  </message>
+  <message>
+    <key>namedparam_310</key>
+    <text xml:space="preserve">亡者司祭メンヴィル</text>
+  </message>
+  <message>
+    <key>namedparam_311</key>
+    <text xml:space="preserve">疫呪の使徒</text>
+  </message>
+  <message>
+    <key>namedparam_312</key>
+    <text xml:space="preserve">ムジナ団狼使い</text>
+  </message>
+  <message>
+    <key>namedparam_313</key>
+    <text xml:space="preserve">テイムド・ダイアウルフ</text>
+  </message>
+  <message>
+    <key>namedparam_314</key>
+    <text xml:space="preserve">ブリア宝奪団</text>
+  </message>
+  <message>
+    <key>namedparam_316</key>
+    <text xml:space="preserve">財宝守りの海竜</text>
+  </message>
+  <message>
+    <key>namedparam_319</key>
+    <text xml:space="preserve">水路の大猿</text>
+  </message>
+  <message>
+    <key>namedparam_321</key>
+    <text xml:space="preserve">魔獅子シンガ</text>
+  </message>
+  <message>
+    <key>namedparam_322</key>
+    <text xml:space="preserve">ピット・</text>
+  </message>
+  <message>
+    <key>namedparam_324</key>
+    <text xml:space="preserve">ボルドバンガー・</text>
+  </message>
+  <message>
+    <key>namedparam_325</key>
+    <text xml:space="preserve">強炭性</text>
+  </message>
+  <message>
+    <key>namedparam_327</key>
+    <text xml:space="preserve">ムジナ団頭領</text>
+  </message>
+  <message>
+    <key>namedparam_328</key>
+    <text xml:space="preserve">ムジナ団員</text>
+  </message>
+  <message>
+    <key>namedparam_329</key>
+    <text xml:space="preserve">ケイブ・</text>
+  </message>
+  <message>
+    <key>namedparam_331</key>
+    <text xml:space="preserve">カタコンベ・プリースト</text>
+  </message>
+  <message>
+    <key>namedparam_332</key>
+    <text xml:space="preserve">カタコンベの守兵</text>
+  </message>
+  <message>
+    <key>namedparam_341</key>
+    <text xml:space="preserve">いびき鳴り</text>
+  </message>
+  <message>
+    <key>namedparam_345</key>
+    <text xml:space="preserve">死体齧りの</text>
+  </message>
+  <message>
+    <key>namedparam_346</key>
+    <text xml:space="preserve">グレイブワーグ</text>
+  </message>
+  <message>
+    <key>namedparam_349</key>
+    <text xml:space="preserve">蒼葉の</text>
+  </message>
+  <message>
+    <key>namedparam_350</key>
+    <text xml:space="preserve">蒼葉の</text>
+  </message>
+  <message>
+    <key>namedparam_387</key>
+    <text xml:space="preserve">キーテイカー・</text>
+  </message>
+  <message>
+    <key>namedparam_390</key>
+    <text xml:space="preserve">キーテイカー・</text>
+  </message>
+  <message>
+    <key>namedparam_391</key>
+    <text xml:space="preserve">キーテイカー・</text>
+  </message>
+  <message>
+    <key>namedparam_400</key>
+    <text xml:space="preserve">さまよえる戦徒</text>
+  </message>
+  <message>
+    <key>namedparam_401</key>
+    <text xml:space="preserve">ポーンクラッシャー</text>
+  </message>
+  <message>
+    <key>namedparam_403</key>
+    <text xml:space="preserve">はぐれ</text>
+  </message>
+  <message>
+    <key>namedparam_406</key>
+    <text xml:space="preserve">侵攻兵</text>
+  </message>
+  <message>
+    <key>namedparam_407</key>
+    <text xml:space="preserve">精鋭兵</text>
+  </message>
+  <message>
+    <key>namedparam_408</key>
+    <text xml:space="preserve">総大将</text>
+  </message>
+  <message>
+    <key>namedparam_409</key>
+    <text xml:space="preserve">大隊長</text>
+  </message>
+  <message>
+    <key>namedparam_410</key>
+    <text xml:space="preserve">強襲兵</text>
+  </message>
+  <message>
+    <key>namedparam_413</key>
+    <text xml:space="preserve">傭兵</text>
+  </message>
+  <message>
+    <key>namedparam_414</key>
+    <text xml:space="preserve">破砦用</text>
+  </message>
+  <message>
+    <key>namedparam_415</key>
+    <text xml:space="preserve">召喚されし</text>
+  </message>
+  <message>
+    <key>namedparam_416</key>
+    <text xml:space="preserve">部隊長</text>
+  </message>
+  <message>
+    <key>namedparam_417</key>
+    <text xml:space="preserve">小隊長</text>
+  </message>
+  <message>
+    <key>namedparam_418</key>
+    <text xml:space="preserve">急襲の</text>
+  </message>
+  <message>
+    <key>namedparam_419</key>
+    <text xml:space="preserve">先遣兵</text>
+  </message>
+  <message>
+    <key>namedparam_420</key>
+    <text xml:space="preserve">切込隊長</text>
+  </message>
+  <message>
+    <key>namedparam_421</key>
+    <text xml:space="preserve">先遣隊長</text>
+  </message>
+  <message>
+    <key>namedparam_446</key>
+    <text xml:space="preserve">強襲の</text>
+  </message>
+  <message>
+    <key>namedparam_447</key>
+    <text xml:space="preserve">特攻の</text>
+  </message>
+  <message>
+    <key>namedparam_448</key>
+    <text xml:space="preserve">血珠の</text>
+  </message>
+  <message>
+    <key>namedparam_449</key>
+    <text xml:space="preserve">時番</text>
+  </message>
+  <message>
+    <key>namedparam_451</key>
+    <text xml:space="preserve"></text>
+  </message>
+  <message>
+    <key>namedparam_454</key>
+    <text xml:space="preserve">穢れの術師</text>
+  </message>
+  <message>
+    <key>namedparam_455</key>
+    <text xml:space="preserve">異界の邪霊</text>
+  </message>
+  <message>
+    <key>namedparam_456</key>
+    <text xml:space="preserve">骨噛み</text>
+  </message>
+  <message>
+    <key>namedparam_457</key>
+    <text xml:space="preserve">ゴブリンイーター・</text>
+  </message>
+  <message>
+    <key>namedparam_458</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_459</key>
+    <text xml:space="preserve">ヤング・</text>
+  </message>
+  <message>
+    <key>namedparam_460</key>
+    <text xml:space="preserve">ララバイ・クイーン</text>
+  </message>
+  <message>
+    <key>namedparam_462</key>
+    <text xml:space="preserve">魔壁の時番</text>
+  </message>
+  <message>
+    <key>namedparam_463</key>
+    <text xml:space="preserve">鉄壁の時番</text>
+  </message>
+  <message>
+    <key>namedparam_464</key>
+    <text xml:space="preserve">強激の時番</text>
+  </message>
+  <message>
+    <key>namedparam_465</key>
+    <text xml:space="preserve">魔激の時番</text>
+  </message>
+  <message>
+    <key>namedparam_466</key>
+    <text xml:space="preserve">竜族？</text>
+  </message>
+  <message>
+    <key>namedparam_467</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_468</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_469</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_470</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_471</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_472</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_473</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_474</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_475</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_476</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_477</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_478</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_483</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_484</key>
+    <text xml:space="preserve"></text>
+  </message>
+</resource>

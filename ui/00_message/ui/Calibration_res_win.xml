@@ -1,0 +1,98 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>CALI_MSG_CAPTION</key>
+    <text xml:space="preserve">&lt;PFWD 0&gt;のボタン配置設定</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_CHECK</key>
+    <text xml:space="preserve">ボタン配置を確認してください</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_END</key>
+    <text xml:space="preserve">確認終了</text>
+  </message>
+  <message>
+    <key>CALI_MSG_BUTTON_EDIT</key>
+    <text xml:space="preserve">配置変更</text>
+  </message>
+  <message>
+    <key>CALI_MSG_BUTTON_END</key>
+    <text xml:space="preserve">終了</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_RL</key>
+    <text xml:space="preserve">Rスティックの左</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_RD</key>
+    <text xml:space="preserve">Rスティックの下</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_RR</key>
+    <text xml:space="preserve">Rスティックの右</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_RU</key>
+    <text xml:space="preserve">Rスティックの上</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_LL</key>
+    <text xml:space="preserve">Lスティックの左</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_LD</key>
+    <text xml:space="preserve">Lスティックの下</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_LR</key>
+    <text xml:space="preserve">Lスティックの右</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_LU</key>
+    <text xml:space="preserve">Lスティックの上</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_INPUT</key>
+    <text xml:space="preserve">を入力してください</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_STEP</key>
+    <text xml:space="preserve">Step.</text>
+  </message>
+  <message>
+    <key>CALI_MSG_GUID_KUGIRI</key>
+    <text xml:space="preserve">/24</text>
+  </message>
+  <message>
+    <key>CALI_MSG_BUTTONGUID_END</key>
+    <text xml:space="preserve">設定中止</text>
+  </message>
+  <message>
+    <key>CALI_MSG_BUTTON_RETRY</key>
+    <text xml:space="preserve">やり直す</text>
+  </message>
+  <message>
+    <key>CALI_MSG_DIALOG_XINPUT</key>
+    <text xml:space="preserve">ご使用の&lt;PFWD 0&gt;は設定を変更できません</text>
+  </message>
+  <message>
+    <key>CALI_MSG_DIALOG_NOSAVE</key>
+    <text xml:space="preserve">設定を保存せず終了します</text>
+  </message>
+  <message>
+    <key>CALI_MSG_DETECTED_PAD</key>
+    <text xml:space="preserve">認証&lt;PFWD 0&gt;</text>
+  </message>
+  <message>
+    <key>CALI_MSG_TITLE_J</key>
+    <text xml:space="preserve">ボタンキャリブレーション</text>
+  </message>
+  <message>
+    <key>CALI_MSG_TITLE_E</key>
+    <text xml:space="preserve">Button Calibration</text>
+  </message>
+  <message>
+    <key>CALI_MSG_DIALOG_END</key>
+    <text xml:space="preserve">設定が完了しました</text>
+  </message>
+</resource>

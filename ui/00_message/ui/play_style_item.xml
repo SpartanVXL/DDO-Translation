@@ -1,0 +1,206 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>PLAY_PURPOSE_MAIN_001</key>
+    <text xml:space="preserve">とくになし</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_MAIN_002</key>
+    <text xml:space="preserve">レベルあげ</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_MAIN_003</key>
+    <text xml:space="preserve">お金を稼ぐ</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_MAIN_004</key>
+    <text xml:space="preserve">素材集め</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_MAIN_005</key>
+    <text xml:space="preserve">オーブエネミーを倒す</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_MAIN_006</key>
+    <text xml:space="preserve">イベントで遊ぶ</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_MAIN_007</key>
+    <text xml:space="preserve">大目的予備</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_MAIN_008</key>
+    <text xml:space="preserve">大目的予備</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_MAIN_009</key>
+    <text xml:space="preserve">大目的予備</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_MAIN_010</key>
+    <text xml:space="preserve">大目的予備</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_MAIN_011</key>
+    <text xml:space="preserve">大目的予備</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_AREA_001</key>
+    <text xml:space="preserve">冒険エリア＜ハイデル平原＞</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_AREA_002</key>
+    <text xml:space="preserve">冒険エリア＜ブリア海岸＞</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_AREA_003</key>
+    <text xml:space="preserve">冒険エリア＜ミスリウ森林＞</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_AREA_004</key>
+    <text xml:space="preserve">冒険エリア＜ミスリウ森林深部＞</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_AREA_005</key>
+    <text xml:space="preserve">冒険エリア＜ダウ渓谷＞</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_AREA_006</key>
+    <text xml:space="preserve">冒険エリア＜ボルド鉱山＞</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_AREA_007</key>
+    <text xml:space="preserve">冒険エリア＜バートランド平原＞</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_001</key>
+    <text xml:space="preserve">指定なし</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_002</key>
+    <text xml:space="preserve">まったりあそぼう</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_003</key>
+    <text xml:space="preserve">戦闘大好き</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_004</key>
+    <text xml:space="preserve">お金大好き</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_005</key>
+    <text xml:space="preserve">クエスト攻略大好き</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_006</key>
+    <text xml:space="preserve">ミッション攻略大好き</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_007</key>
+    <text xml:space="preserve">限定イベント大好き</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_008</key>
+    <text xml:space="preserve">シナリオ大好き</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_009</key>
+    <text xml:space="preserve">クラフト大好き</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_010</key>
+    <text xml:space="preserve">ランキング大好き</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_011</key>
+    <text xml:space="preserve">アタッカーでプレイしています！</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_012</key>
+    <text xml:space="preserve">タンクでプレイしています！</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_013</key>
+    <text xml:space="preserve">ヒーラーでプレイしています！</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_014</key>
+    <text xml:space="preserve">複数のジョブでプレイしています！</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_015</key>
+    <text xml:space="preserve">ポーンを混ぜてパーティーを組もう</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_016</key>
+    <text xml:space="preserve">朝方中心プレイ</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_017</key>
+    <text xml:space="preserve">昼型中心プレイ</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_018</key>
+    <text xml:space="preserve">夜型中心プレイ</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_019</key>
+    <text xml:space="preserve">いつでもプレイ</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_020</key>
+    <text xml:space="preserve">平日中心プレイ</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_021</key>
+    <text xml:space="preserve">週末中心プレイ</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_022</key>
+    <text xml:space="preserve">休日中心プレイ</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_023</key>
+    <text xml:space="preserve">毎日プレイ</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_024</key>
+    <text xml:space="preserve">不定期にコツコツプレイ</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_025</key>
+    <text xml:space="preserve">フレンド募集中</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_026</key>
+    <text xml:space="preserve">クランに入りたい</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_027</key>
+    <text xml:space="preserve">クランメンバー募集中</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_028</key>
+    <text xml:space="preserve">グループチャットに入りたい</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_029</key>
+    <text xml:space="preserve">スタイル予備</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_030</key>
+    <text xml:space="preserve">スタイル予備</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_031</key>
+    <text xml:space="preserve">スタイル予備</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_032</key>
+    <text xml:space="preserve">スタイル予備</text>
+  </message>
+  <message>
+    <key>PLAY_STYLE_033</key>
+    <text xml:space="preserve">スタイル予備</text>
+  </message>
+</resource>

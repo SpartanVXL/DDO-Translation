@@ -1,0 +1,62 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_20</key>
+    <text xml:space="preserve">敵を追従する猛ダッシュの斬りつけ攻撃を放つ
+初撃が当たると連続で斬り返しを放つ
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で移動距離が延長／
+斬り返し回数増加（１→３）&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_21</key>
+    <text xml:space="preserve">一歩踏み込み、敵を上空へ斬り上げる
+ボタンの追加入力で追撃する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_24</key>
+    <text xml:space="preserve">瞬時に身を引き、すぐさま前方に蹴りを放つ
+敵の攻撃を回避しつつ繰り出せば威力が上昇する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_22</key>
+    <text xml:space="preserve">シーカーロープを投げて敵を捉え、
+手前に引き寄せる
+&lt;COL ffdc78&gt;LV UP毎に引き寄せる力の上昇
+LV.６で攻撃範囲拡張/捕捉敵数増加（１→３）&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_29</key>
+    <text xml:space="preserve">空中からシーカーロープを放って地面にひっかけ、
+地上に向かって急降下攻撃を繰り出す
+高所から行うことで威力が上昇。空中でも発動可能
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で周囲の敵をのけぞらせることが可能&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_23</key>
+    <text xml:space="preserve">前方に飛び蹴りを繰り出し、敵を踏み台にして
+上空へ跳び上がる
+空中でも発動可能
+&lt;COL ffdc78&gt;LV UP毎にジャンプ力上昇
+LV.６で敵のガード状態を崩すことが可能&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_25</key>
+    <text xml:space="preserve">自身を通常の構え姿勢に戻し、様々な動作の
+スキを消すことができる（連続では行えない）
+空中でも発動可能
+&lt;COL ffdc78&gt;LV UP毎に再発禁止時間が短縮
+LV.６でのけぞり、吹き飛び中でも発動可能&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_26</key>
+    <text xml:space="preserve">地面に火薬を設置し、
+遠方から導火線に着火して爆発させる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇／仕込み時間短縮
+LV.６で攻撃ヒット数増加／爆風に風圧追加&lt;/COL&gt;</text>
+  </message>
+</resource>

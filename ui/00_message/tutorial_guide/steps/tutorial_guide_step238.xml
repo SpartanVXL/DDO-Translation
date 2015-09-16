@@ -1,0 +1,41 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>TUTORIAL_STEP_379</key>
+    <text xml:space="preserve">ワールドクエストやボードクエストをこなして
+地域の問題解決に貢献すると、エリアでの
+名声値&lt;COL ffdc78&gt;《エリアポイント》&lt;/COL&gt;が溜まります
+
+《エリアポイント》が一定に達すると、地域の
+名声度&lt;COL ffdc78&gt;《エリアランク》&lt;/COL&gt;が上がります&lt;/COL&gt;
+
+&lt;COL ffdc78&gt;エリアランクが上がることで
+封鎖区域の開放、支援品の向上、新たな強敵の
+登場といった変化が発生します&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_380</key>
+    <text xml:space="preserve">各エリアのランクと現在のポイントは
+&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー
+《ワールド》の&lt;COL ffdc78&gt;《エリアランク》&lt;/COL&gt;から確認できます
+
+ポイントが溜まったらエリアマスターの元を
+訪れ、《エリア情報》を選びましょう
+そうすることでエリアランクが上がります
+
+各地のクエストをこなしてエリアランクを上げ
+冒険の幅を増やしましょう</text>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_412</key>
+    <text xml:space="preserve">&lt;COL ffdc78&gt;ただし、エリアランクは自身が
+パーティーリーダーの時にしか
+ランクアップできません&lt;/COL&gt;
+
+また、条件にエリア試練クエスト
+のクリアが必要な場合もあります
+
+他プレイヤーのパーティーにゲストとして参加
+している場合は、リーダー覚者のエリアランクが
+反映されるためご留意ください</text>
+  </message>
+</resource>

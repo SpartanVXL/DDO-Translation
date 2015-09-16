@@ -1,0 +1,25 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>TUTORIAL_STEP_41</key>
+    <text xml:space="preserve">プレイヤーは基本攻撃の他に
+スタミナを消費して専用アクションである
+&lt;COL ffdc78&gt;《カスタムスキル》&lt;/COL&gt;が使用できます
+
+&lt;PADM&gt;　【&lt;ICON PAD_L1&gt;ボタン】を押しながら【&lt;ICON STG_ATTACK_0&gt;／&lt;ICON STG_ATTACK_1&gt;ボタン】
+　【&lt;ICON PAD_R1&gt;ボタン】を押しながら【&lt;ICON STG_ATTACK_0&gt;／&lt;ICON STG_ATTACK_1&gt;ボタン】
+&lt;KEYM&gt;　【&lt;ICON KB_SHIFT&gt;】を押しながら【&lt;ICON MOUSE_CL_L&gt;／&lt;ICON MOUSE_CL_R&gt;クリック】
+　【&lt;ICON KB_CTRL&gt;】を押しながら【&lt;ICON MOUSE_CL_L&gt;／&lt;ICON MOUSE_CL_R&gt;クリック】
+&lt;/KEYM&gt;
+どういった技が出せるかは
+画面右下のガイドで確認しましょう</text>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_92</key>
+    <text xml:space="preserve">ジョブにより、使えるカスタムスキルは異なります
+戦闘中に試してみてください
+
+なお導入クエスト「覚悟と兆し」でセット
+されているカスタムスキルは
+このクエスト限定の一時的なものとなります</text>
+  </message>
+</resource>

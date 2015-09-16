@@ -1,0 +1,214 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>status_title_equip_status</key>
+    <text xml:space="preserve">ステータス・装備</text>
+  </message>
+  <message>
+    <key>status_tab_equip</key>
+    <text xml:space="preserve">ステータス・装備</text>
+  </message>
+  <message>
+    <key>status_tab_anomaly_resist</key>
+    <text xml:space="preserve">耐性・特能</text>
+  </message>
+  <message>
+    <key>status_tab_job_arisenpower</key>
+    <text xml:space="preserve">ジョブ・竜力の継承</text>
+  </message>
+  <message>
+    <key>status_tab_skill_ability</key>
+    <text xml:space="preserve">スキル・アビリティ</text>
+  </message>
+  <message>
+    <key>status_tab_currency</key>
+    <text xml:space="preserve">通貨</text>
+  </message>
+  <message>
+    <key>status_heading_base_status</key>
+    <text xml:space="preserve">General</text>
+  </message>
+  <message>
+    <key>status_heading_attack_status</key>
+    <text xml:space="preserve">Attack</text>
+  </message>
+  <message>
+    <key>status_heading_difence_status</key>
+    <text xml:space="preserve">Defense</text>
+  </message>
+  <message>
+    <key>status_option_change_equipment</key>
+    <text xml:space="preserve">装備変更</text>
+  </message>
+  <message>
+    <key>status_option_remove</key>
+    <text xml:space="preserve">はずす</text>
+  </message>
+  <message>
+    <key>status_tab_craft_review</key>
+    <text xml:space="preserve">クラフト・評価</text>
+  </message>
+  <message>
+    <key>status_heading_job_status</key>
+    <text xml:space="preserve">Special</text>
+  </message>
+  <message>
+    <key>status_pawn_owner</key>
+    <text xml:space="preserve">Arisen:</text>
+  </message>
+  <message>
+    <key>status_player_id</key>
+    <text xml:space="preserve"></text>
+  </message>
+  <message>
+    <key>status_heading_debilitation_resist</key>
+    <text xml:space="preserve">Debilitation / Debilitation Resist</text>
+  </message>
+  <message>
+    <key>status_heading_money</key>
+    <text xml:space="preserve">Money</text>
+  </message>
+  <message>
+    <key>status_none</key>
+    <text xml:space="preserve">なし</text>
+  </message>
+  <message>
+    <key>status_pawn_review_title</key>
+    <text xml:space="preserve">総合評価</text>
+  </message>
+  <message>
+    <key>status_pawn_review_rental</key>
+    <text xml:space="preserve">レンタル回数</text>
+  </message>
+  <message>
+    <key>status_pawn_review_battle</key>
+    <text xml:space="preserve">敵の討伐数</text>
+  </message>
+  <message>
+    <key>status_pawn_review_craft</key>
+    <text xml:space="preserve">クラフト回数</text>
+  </message>
+  <message>
+    <key>status_pawn_review_looks_ave</key>
+    <text xml:space="preserve">外見平均評価</text>
+  </message>
+  <message>
+    <key>status_pawn_review_battle_ave</key>
+    <text xml:space="preserve">冒険平均評価</text>
+  </message>
+  <message>
+    <key>status_pawn_review_craft_ave</key>
+    <text xml:space="preserve">クラフト平均評価</text>
+  </message>
+  <message>
+    <key>status_gain_orb</key>
+    <text xml:space="preserve">オーブ</text>
+  </message>
+  <message>
+    <key>status_gain_kakin</key>
+    <text xml:space="preserve">&lt;CRS&gt;</text>
+  </message>
+  <message>
+    <key>status_gain_total</key>
+    <text xml:space="preserve">合計</text>
+  </message>
+  <message>
+    <key>status_money_title</key>
+    <text xml:space="preserve">Money</text>
+  </message>
+  <message>
+    <key>status_ticket_title</key>
+    <text xml:space="preserve">Ticket</text>
+  </message>
+  <message>
+    <key>status_orb_class</key>
+    <text xml:space="preserve">Class</text>
+  </message>
+  <message>
+    <key>status_heading_resist_status</key>
+    <text xml:space="preserve">Resistance</text>
+  </message>
+  <message>
+    <key>status_preset_title</key>
+    <text xml:space="preserve">プリセット</text>
+  </message>
+  <message>
+    <key>status_preset_dialog_rename</key>
+    <text xml:space="preserve">プリセット名編集</text>
+  </message>
+  <message>
+    <key>status_preset_not_regist</key>
+    <text xml:space="preserve">未登録</text>
+  </message>
+  <message>
+    <key>status_preset_dialog_title</key>
+    <text xml:space="preserve">プリセット操作</text>
+  </message>
+  <message>
+    <key>status_preset_dialog_equip</key>
+    <text xml:space="preserve">プリセット適用</text>
+  </message>
+  <message>
+    <key>status_preset_dialog_regist</key>
+    <text xml:space="preserve">プリセット登録</text>
+  </message>
+  <message>
+    <key>status_preset_default_name</key>
+    <text xml:space="preserve">プリセット</text>
+  </message>
+  <message>
+    <key>status_select_equip_title</key>
+    <text xml:space="preserve">装備を選んでください</text>
+  </message>
+  <message>
+    <key>status_title_equip_status_eng</key>
+    <text xml:space="preserve">Status</text>
+  </message>
+  <message>
+    <key>status_orb_title</key>
+    <text xml:space="preserve">- Orb Tree -</text>
+  </message>
+  <message>
+    <key>status_gain_param_ability_cost</key>
+    <text xml:space="preserve">アビリティセットコスト</text>
+  </message>
+  <message>
+    <key>status_gain_jewerly_slot</key>
+    <text xml:space="preserve">ジュエリー装備スロット</text>
+  </message>
+  <message>
+    <key>status_gain_main_pawn</key>
+    <text xml:space="preserve">メインポーン契約枠</text>
+  </message>
+  <message>
+    <key>status_gain_sub_pawn</key>
+    <text xml:space="preserve">サポートポーン雇用枠</text>
+  </message>
+  <message>
+    <key>status_sub_menu</key>
+    <text xml:space="preserve">サブメニュー</text>
+  </message>
+  <message>
+    <key>status_error_storage_box_full</key>
+    <text xml:space="preserve">保管ボックスがいっぱいです</text>
+  </message>
+  <message>
+    <key>status_buttonguide_equip</key>
+    <text xml:space="preserve">装備</text>
+  </message>
+  <message>
+    <key>status_error_storage_bag_full</key>
+    <text xml:space="preserve">アイテムバッグがいっぱいです</text>
+  </message>
+  <message>
+    <key>status_total_job_level</key>
+    <text xml:space="preserve">Total &lt;VAL LV&gt;</text>
+  </message>
+  <message>
+    <key>status_other_title</key>
+    <text xml:space="preserve">Other</text>
+  </message>
+  <message>
+    <key>status_craft_title</key>
+    <text xml:space="preserve">Craft</text>
+  </message>
+</resource>

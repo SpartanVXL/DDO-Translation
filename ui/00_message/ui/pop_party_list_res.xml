@@ -1,0 +1,236 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>pop_prof_mokuteki_1</key>
+    <text xml:space="preserve">冒険目的</text>
+  </message>
+  <message>
+    <key>pop_prof_mokuteki_2</key>
+    <text xml:space="preserve">活動場所</text>
+  </message>
+  <message>
+    <key>pop_prof_playstyle</key>
+    <text xml:space="preserve">プレイスタイル</text>
+  </message>
+  <message>
+    <key>pop_prof_comment</key>
+    <text xml:space="preserve">Comment</text>
+  </message>
+  <message>
+    <key>pop_prof_party</key>
+    <text xml:space="preserve">パーティー参加要請</text>
+  </message>
+  <message>
+    <key>pop_prof_maching_profile_en</key>
+    <text xml:space="preserve">Matching Profile</text>
+  </message>
+  <message>
+    <key>pop_prof_maching_profile_jp</key>
+    <text xml:space="preserve">マッチングプロフィール</text>
+  </message>
+  <message>
+    <key>pop_prof_decide</key>
+    <text xml:space="preserve">決定</text>
+  </message>
+  <message>
+    <key>pop_prof_cancel</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+  <message>
+    <key>pop_prof_pt_ok</key>
+    <text xml:space="preserve">受ける</text>
+  </message>
+  <message>
+    <key>pop_prof_quick_party</key>
+    <text xml:space="preserve">マッチング中</text>
+  </message>
+  <message>
+    <key>pop_prof_party_info</key>
+    <text xml:space="preserve">パーティー詳細</text>
+  </message>
+  <message>
+    <key>pop_prof_name</key>
+    <text xml:space="preserve">Name</text>
+  </message>
+  <message>
+    <key>pop_prof_job</key>
+    <text xml:space="preserve">Job</text>
+  </message>
+  <message>
+    <key>pop_prof_lobby</key>
+    <text xml:space="preserve">Lobby</text>
+  </message>
+  <message>
+    <key>pop_prof_pawn</key>
+    <text xml:space="preserve">ポーンの加入</text>
+  </message>
+  <message>
+    <key>pop_prof_job_balance</key>
+    <text xml:space="preserve">ジョブバランス</text>
+  </message>
+  <message>
+    <key>pop_prof_do</key>
+    <text xml:space="preserve">行う</text>
+  </message>
+  <message>
+    <key>pop_prof_ok</key>
+    <text xml:space="preserve">OK</text>
+  </message>
+  <message>
+    <key>pop_prof_mokuteki_now</key>
+    <text xml:space="preserve">現在の冒険目的</text>
+  </message>
+  <message>
+    <key>pop_prof_search</key>
+    <text xml:space="preserve">検索条件</text>
+  </message>
+  <message>
+    <key>pop_prof_job_jp</key>
+    <text xml:space="preserve">ジョブ</text>
+  </message>
+  <message>
+    <key>pop_prof_all</key>
+    <text xml:space="preserve">すべて</text>
+  </message>
+  <message>
+    <key>pop_prof_level</key>
+    <text xml:space="preserve">レベル</text>
+  </message>
+  <message>
+    <key>pop_prof_profile</key>
+    <text xml:space="preserve">Profile</text>
+  </message>
+  <message>
+    <key>pop_prof_participate</key>
+    <text xml:space="preserve">パーティー参加を希望する</text>
+  </message>
+  <message>
+    <key>pop_prof_participate_not</key>
+    <text xml:space="preserve">パーティー参加を希望しない</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty_title00</key>
+    <text xml:space="preserve">設定の編集</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty_name</key>
+    <text xml:space="preserve">セット名</text>
+  </message>
+  <message>
+    <key>pop_prof_main_purpose</key>
+    <text xml:space="preserve">冒険目的</text>
+  </message>
+  <message>
+    <key>pop_prof_sub_purpose</key>
+    <text xml:space="preserve">小目的</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty_pawn</key>
+    <text xml:space="preserve">ポーン：</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty_pawn_allow</key>
+    <text xml:space="preserve">許可する</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty_pawn_disallow</key>
+    <text xml:space="preserve">許可しない</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty_continue</key>
+    <text xml:space="preserve">続ける</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty_end</key>
+    <text xml:space="preserve">終了</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty</key>
+    <text xml:space="preserve">クイックパーティー</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty_retry</key>
+    <text xml:space="preserve">リトライ</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty_fail</key>
+    <text xml:space="preserve">マッチング失敗</text>
+  </message>
+  <message>
+    <key>pop_prof_quickparty_time</key>
+    <text xml:space="preserve">あと &lt;VAL&gt; 秒後に終了します</text>
+  </message>
+  <message>
+    <key>pop_prof_level_wavedash</key>
+    <text xml:space="preserve">～</text>
+  </message>
+  <message>
+    <key>PopPartyList_PlayerSearch_Title</key>
+    <text xml:space="preserve">プレイヤー検索条件設定</text>
+  </message>
+  <message>
+    <key>PopPartyList_PlayerSearch_MainPurpose</key>
+    <text xml:space="preserve">冒険目的を設定して探す</text>
+  </message>
+  <message>
+    <key>PopPartyList_PlayerSearch_PlayStyle</key>
+    <text xml:space="preserve">プレイスタイルを指定して探す</text>
+  </message>
+  <message>
+    <key>PopPartyList_PlayerSearch_Job</key>
+    <text xml:space="preserve">ジョブを設定して探す</text>
+  </message>
+  <message>
+    <key>PopPartyList_PlayerSearch_Level</key>
+    <text xml:space="preserve">レベルを設定して探す</text>
+  </message>
+  <message>
+    <key>PopPartyList_PlayerSearch_LevelMin</key>
+    <text xml:space="preserve">以上</text>
+  </message>
+  <message>
+    <key>PopPartyList_PlayerSearch_LevelMax</key>
+    <text xml:space="preserve">以下</text>
+  </message>
+  <message>
+    <key>PopPartyList_QuickPartyEdit_Title</key>
+    <text xml:space="preserve">クイックパーティー条件編集</text>
+  </message>
+  <message>
+    <key>PopPartyList_QuickPartyEdit_JobBalance</key>
+    <text xml:space="preserve">ジョブバランスを取る</text>
+  </message>
+  <message>
+    <key>PopPartyList_QuickPartyEdit_JobBalanceBrief</key>
+    <text xml:space="preserve">(タンク1人/アタッカー2人/ヒーラー1人でバランスを取ります）</text>
+  </message>
+  <message>
+    <key>PopPartyList_QuickPartyEdit_LevelBalance</key>
+    <text xml:space="preserve">レベルバランスを取る</text>
+  </message>
+  <message>
+    <key>PopPartyList_QuickPartyEdit_LevelBalanceBrief</key>
+    <text xml:space="preserve">(±4以内で検索します)</text>
+  </message>
+  <message>
+    <key>PopPartyList_QuickPartyEdit_Warning</key>
+    <text xml:space="preserve">※進行に変化があった場合は、クイックパーティーの登録が解除されます
+※パーティーにポーンがいる場合は、クイックパーティー合流時に
+　パーティーから外れます</text>
+  </message>
+  <message>
+    <key>PopPartyList_QuickPartyEdit_MainPurpose_Main</key>
+    <text xml:space="preserve">メインクエストで遊ぶ</text>
+  </message>
+  <message>
+    <key>PopPartyList_QuickPartyEdit_MainPurpose_Area</key>
+    <text xml:space="preserve">エリアで遊ぶ</text>
+  </message>
+  <message>
+    <key>PopPartyList_QuickPartyEdit_MainPurpose_News</key>
+    <text xml:space="preserve">レスタニアニュースで遊ぶ</text>
+  </message>
+  <message>
+    <key>PopPartyList_Simple_Req_Title</key>
+    <text xml:space="preserve">簡易パーティー要請条件設定</text>
+  </message>
+</resource>

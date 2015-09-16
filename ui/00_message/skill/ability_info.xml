@@ -1,0 +1,594 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>ABILITY_INFO_27</key>
+    <text xml:space="preserve">弓の移動射ちの際、矢が照準からぶれなくなる
+&lt;COL ffdc78&gt;LV UP毎にぶれ幅がさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_62</key>
+    <text xml:space="preserve">炎属性魔法によって受けるダメージ量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_82</key>
+    <text xml:space="preserve">盾に付与した属性と防御した敵攻撃の属性が同じとき
+攻力の吸収量がさらに増加する
+&lt;COL ffdc78&gt;LV UP毎に攻力吸収量がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_111</key>
+    <text xml:space="preserve">しがみつき時にダメージを受けても
+体勢を崩されにくくなる
+&lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_126</key>
+    <text xml:space="preserve">マジックトラップの展開時に
+より敵の体勢を崩しやすくなる
+&lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_231</key>
+    <text xml:space="preserve">トゲや鍾乳石などの危険物との接触時に
+受けるダメージ量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_4</key>
+    <text xml:space="preserve">盾弾きの発動時に敵を気絶させやすくなる
+&lt;COL ffdc78&gt;LV UP毎に気絶攻力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_34</key>
+    <text xml:space="preserve">仕込み爆矢射ちの起爆までの時間が延長される
+&lt;COL ffdc78&gt;LV UP毎に時間がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_67</key>
+    <text xml:space="preserve">炎属性攻撃を受けても
+延焼の状態異常にかかりにくくなる
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_85</key>
+    <text xml:space="preserve">盾ガード時のスタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費量さらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_116</key>
+    <text xml:space="preserve">回避行動時にダメージを受けても
+体勢を崩されにくくなる
+&lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_142</key>
+    <text xml:space="preserve">フローティング中のスタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_232</key>
+    <text xml:space="preserve">鉱泉に浸かったときの
+効能持続時間が延長される
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_15</key>
+    <text xml:space="preserve">押さえ込み時のスタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_42</key>
+    <text xml:space="preserve">瀕死状態中に、吹き飛ばし力が上昇し
+敵の体勢を崩しやすくなる
+&lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_57</key>
+    <text xml:space="preserve">助け起こしたパーティーメンバーの
+物理ダメージが一定時間軽減される
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_79</key>
+    <text xml:space="preserve">アトラクト発動時に
+より敵の注目を集めるようになる
+&lt;COL ffdc78&gt;LV UP毎に敵からの注目度がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_109</key>
+    <text xml:space="preserve">揺さぶりによるスタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_137</key>
+    <text xml:space="preserve">瀕死状態中の魔力が増加する
+&lt;COL ffdc78&gt;LV UP毎に魔力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_236</key>
+    <text xml:space="preserve">各種投擲アイテムを投げつけたときに
+与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_5</key>
+    <text xml:space="preserve">盾弾きの攻撃範囲が拡張される
+&lt;COL ffdc78&gt;LV UP毎に攻撃範囲がより拡張&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_26</key>
+    <text xml:space="preserve">弓を放った後の反動を抑える
+&lt;COL ffdc78&gt;LV UP毎に反動がさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_52</key>
+    <text xml:space="preserve">フィールドシフト時に
+敵の注目を集めにくくする
+&lt;COL ffdc78&gt;LV UP毎に敵からの注目度がさらに減少&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_81</key>
+    <text xml:space="preserve">フォースエンチャントの効果持続時間が延長される
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_101</key>
+    <text xml:space="preserve">シーカーロープの飛距離が延長される
+&lt;COL ffdc78&gt;LV UP毎に飛距離がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_129</key>
+    <text xml:space="preserve">バックムーブが魔法詠唱中でも行えるようになり
+詠唱ゲージを一定量保持して詠唱を継続できる
+&lt;COL ffdc78&gt;LV UP毎にゲージ保持量がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_228</key>
+    <text xml:space="preserve">マップ上のアイテム採取ポイント
+表示範囲が拡大する</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_1</key>
+    <text xml:space="preserve">斬り崩しの予備動作が短縮され
+より素早く剣を振り下ろすことができる
+&lt;COL ffdc78&gt;LV UP毎に予備動作さらに短縮&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_30</key>
+    <text xml:space="preserve">達人装填が成功する受付時間が延長され
+より成功率が上昇する
+&lt;COL ffdc78&gt;LV UP毎に受付時間がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_63</key>
+    <text xml:space="preserve">氷属性魔法によって受けるダメージ量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_89</key>
+    <text xml:space="preserve">盾ガード時や武器ヒット時によろめいた際に
+受けるダメージ量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_123</key>
+    <text xml:space="preserve">連携投げによるジャンプ高度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に高度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_130</key>
+    <text xml:space="preserve">火属性攻撃によって与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_235</key>
+    <text xml:space="preserve">各種回復アイテムを使ったときに
+より高い効果が得られる
+&lt;COL ffdc78&gt;LV UP毎に効果がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_9</key>
+    <text xml:space="preserve">瀕死状態中の筋力が増加する
+&lt;COL ffdc78&gt;LV UP毎に筋力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_36</key>
+    <text xml:space="preserve">弓構え中のスタミナ回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎にスタミナ回復速度がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_68</key>
+    <text xml:space="preserve">氷属性攻撃を受けても
+凍結の状態異常にかかりにくくなる
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_93</key>
+    <text xml:space="preserve">瀕死状態中、物理防御力と魔法防御力が増加する
+&lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_124</key>
+    <text xml:space="preserve">巨人系の敵から受けるダメージ量が減少する
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_131</key>
+    <text xml:space="preserve">氷属性攻撃によって与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_237</key>
+    <text xml:space="preserve">一定時間、特殊効果が付与されるアイテムの
+効果持続時間が延長される
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_16</key>
+    <text xml:space="preserve">敵に拘束された状態からの脱出が
+通常よりも容易になる
+&lt;COL ffdc78&gt;LV UP毎に拘束からの脱出がさらに緩和&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_33</key>
+    <text xml:space="preserve">達人装填のジャストタイミングの受付時間が延長され
+より成功率が上昇する
+&lt;COL ffdc78&gt;LV UP毎に受付時間がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_58</key>
+    <text xml:space="preserve">助け起こしたパーティーメンバーの
+魔法攻撃ダメージが一定時間軽減される
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_99</key>
+    <text xml:space="preserve">白竜神殿から出てしばらくの間
+最大体力が増加する
+&lt;COL ffdc78&gt;LV UP毎に最大体力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_106</key>
+    <text xml:space="preserve">しがみつき時、耐えるアクション中の
+スタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_132</key>
+    <text xml:space="preserve">雷属性攻撃によって与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_240</key>
+    <text xml:space="preserve">新月時に筋力と魔力が増加する
+&lt;COL ffdc78&gt;LV UP毎に筋力/魔力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_6</key>
+    <text xml:space="preserve">盾弾きの発動時にスタミナが一定量回復する
+&lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_50</key>
+    <text xml:space="preserve">鬼人系の敵に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_64</key>
+    <text xml:space="preserve">雷属性魔法によって受けるダメージ量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_84</key>
+    <text xml:space="preserve">フォースゲージの消費時に少しゲージが残る
+&lt;COL ffdc78&gt;LV UP毎にゲージ残量が増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_102</key>
+    <text xml:space="preserve">シーカーロープでの移動後、接触時に繰り出す
+打撃攻撃で敵の体勢を崩しやすくなる
+&lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_146</key>
+    <text xml:space="preserve">魔族系の敵に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_241</key>
+    <text xml:space="preserve">新月時に物理防御力と魔法防御力が増加する
+&lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_25</key>
+    <text xml:space="preserve">軟体系の敵に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_48</key>
+    <text xml:space="preserve">有翼系の敵に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_69</key>
+    <text xml:space="preserve">雷属性攻撃を受けても
+感電の状態異常にかかりにくくなる
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_87</key>
+    <text xml:space="preserve">敵からの攻撃を直前防御（引きつけて防御）
+しやすくなる
+&lt;COL ffdc78&gt;LV UP毎に直前防御受付時間がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_125</key>
+    <text xml:space="preserve">巨人系の敵に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_148</key>
+    <text xml:space="preserve">呪詛系の敵に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_244</key>
+    <text xml:space="preserve">雨天時に筋力と魔力が増加する
+&lt;COL ffdc78&gt;LV UP毎に筋力/魔力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_23</key>
+    <text xml:space="preserve">亜人系の敵に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_49</key>
+    <text xml:space="preserve">鬼人系の敵から受けるダメージ量が減少する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_75</key>
+    <text xml:space="preserve">骸骨系の敵に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_86</key>
+    <text xml:space="preserve">ガード不能攻撃を防御した際の
+ダメージが軽減される
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_120</key>
+    <text xml:space="preserve">空中でダメージを受けても
+体勢を崩されにくくなる
+&lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_145</key>
+    <text xml:space="preserve">魔族系の敵から受けるダメージ量が減少する
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_245</key>
+    <text xml:space="preserve">雨天時に物理防御力と魔法防御力が増加する
+&lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_24</key>
+    <text xml:space="preserve">軟体系の敵から受けるダメージ量が減少する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_47</key>
+    <text xml:space="preserve">有翼系の敵から受けるダメージ量が減少する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_73</key>
+    <text xml:space="preserve">腐死系の敵に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_88</key>
+    <text xml:space="preserve">盾の防御性能が向上し
+より強い攻撃を防ぎやすくなる
+&lt;COL ffdc78&gt;LV UP毎に盾ガード値がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_121</key>
+    <text xml:space="preserve">空中でのスタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_147</key>
+    <text xml:space="preserve">呪詛系の敵から受けるダメージ量が減少する
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_22</key>
+    <text xml:space="preserve">亜人系の敵から受けるダメージ量が減少する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_31</key>
+    <text xml:space="preserve">達人装填の成功時にスタミナが回復する
+&lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_74</key>
+    <text xml:space="preserve">骸骨系の敵から受けるダメージ量が減少する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_77</key>
+    <text xml:space="preserve">フォースゲインの攻力吸収量が増加する
+&lt;COL ffdc78&gt;LV UP毎に攻力吸収量がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_117</key>
+    <text xml:space="preserve">空中攻撃の威力が増加する
+&lt;COL ffdc78&gt;LV UP毎に威力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_127</key>
+    <text xml:space="preserve">スペリング入力の成功時にスタミナが回復する
+&lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_10</key>
+    <text xml:space="preserve">スタミナが一定量以上のとき
+筋力が増加する
+&lt;COL ffdc78&gt;LV UP毎に筋力がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_29</key>
+    <text xml:space="preserve">一度に矢筒に補充できる矢の本数が増加する
+&lt;COL ffdc78&gt;LV UP毎に矢の装填数がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_72</key>
+    <text xml:space="preserve">腐死系の敵から受けるダメージ量が減少する
+&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_80</key>
+    <text xml:space="preserve">フォースバーストで
+より敵を状態異常にかかりやすくする
+&lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_104</key>
+    <text xml:space="preserve">二段跳びの高度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に高度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_128</key>
+    <text xml:space="preserve">スペリングの入力難度が低くなり
+魔法効果増大が狙いやすくなる
+&lt;COL ffdc78&gt;LV UP毎に難度がより低下&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_2</key>
+    <text xml:space="preserve">えぐり突き時の攻撃速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に攻撃速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_51</key>
+    <text xml:space="preserve">ヒールオーラ、セイントオーラ展開時の
+スタミナ消費量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_258</key>
+    <text xml:space="preserve">炎防低下の状態異常にかかりにくくなる
+&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_259</key>
+    <text xml:space="preserve">氷防低下の状態異常にかかりにくくなる
+&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_260</key>
+    <text xml:space="preserve">雷防低下の状態異常にかかりにくくなる
+&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_261</key>
+    <text xml:space="preserve">聖防低下の状態異常にかかりにくくなる
+&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_262</key>
+    <text xml:space="preserve">闇防低下の状態異常にかかりにくくなる
+&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_263</key>
+    <text xml:space="preserve">毒の状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_267</key>
+    <text xml:space="preserve">水濡れの状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_268</key>
+    <text xml:space="preserve">油濡れの状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_271</key>
+    <text xml:space="preserve">石化の状態異常にかかった際に
+完全石化までの時間が延長される
+&lt;COL ffdc78&gt;LV UP毎に石化時間がより延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_273</key>
+    <text xml:space="preserve">延焼の状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_274</key>
+    <text xml:space="preserve">凍結の状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_275</key>
+    <text xml:space="preserve">闇霧の状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_276</key>
+    <text xml:space="preserve">炎防低下の状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_277</key>
+    <text xml:space="preserve">氷防低下の状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_278</key>
+    <text xml:space="preserve">雷防低下の状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_279</key>
+    <text xml:space="preserve">聖防低下の状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_280</key>
+    <text xml:space="preserve">闇防低下の状態異常からの回復速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_291</key>
+    <text xml:space="preserve">戦闘ＢＧＭが「英雄の証」に変わる
+（「モンスターハンター」シリーズ）</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_292</key>
+    <text xml:space="preserve">戦闘ＢＧＭが
+「Ｄｅｖｉｌｓ　Ｎｅｖｅｒ　Ｃｒｙ」に変わる
+（「デビルメイクライ」シリーズ）</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_293</key>
+    <text xml:space="preserve">戦闘ＢＧＭが「日本（リュウ）」に変わる
+（「ストリートファイター」シリーズ）</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_294</key>
+    <text xml:space="preserve">戦闘ＢＧＭが
+「Ｄｒ＿Ｗｉｌｙ　Ｓｔａｇｅ１」に変わる
+（「ロックマン」シリーズ）</text>
+  </message>
+  <message>
+    <key>ABILITY_INFO_295</key>
+    <text xml:space="preserve">戦闘ＢＧＭが「平地ＢＧＭ」に変わる
+（「魔界村」シリーズ）</text>
+  </message>
+</resource>

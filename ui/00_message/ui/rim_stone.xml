@@ -1,0 +1,158 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>RIM_MSG_TITLE_M_TITLE00</key>
+    <text xml:space="preserve">Rim Stone</text>
+  </message>
+  <message>
+    <key>RIM_MSG_TITLE_M_TITLE01</key>
+    <text xml:space="preserve">リムストーンメニュー</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SELECT_M_SECTION00</key>
+    <text xml:space="preserve">名前</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SELECT_M_SECTION01</key>
+    <text xml:space="preserve">ジョブ／クラフトレベル</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SELECT_M_SECTION02</key>
+    <text xml:space="preserve">公開範囲</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SELECT_M_SECTION03</key>
+    <text xml:space="preserve">状態</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SELECT_M_SECTION04</key>
+    <text xml:space="preserve">評価</text>
+  </message>
+  <message>
+    <key>RIM_MSG_RANKLIST_M_SERACH</key>
+    <text xml:space="preserve">Search</text>
+  </message>
+  <message>
+    <key>RIM_MSG_RANKLIST_M_PAWN_SEARCH</key>
+    <text xml:space="preserve">ポーン検索</text>
+  </message>
+  <message>
+    <key>RIM_MSG_RANKLIST_M_PAWN02</key>
+    <text xml:space="preserve">クラフトマスターポーン</text>
+  </message>
+  <message>
+    <key>RIM_MSG_RANKLIST_M_PAWN03</key>
+    <text xml:space="preserve">公式ポーン</text>
+  </message>
+  <message>
+    <key>RIM_MSG_RANKLIST_M_PAWN04</key>
+    <text xml:space="preserve">フレンドポーン</text>
+  </message>
+  <message>
+    <key>RIM_MSG_RANKLIST_M_PAWN05</key>
+    <text xml:space="preserve">クランポーン</text>
+  </message>
+  <message>
+    <key>RIM_MSG_RANKLIST_M_PAWN06</key>
+    <text xml:space="preserve">お気に入り</text>
+  </message>
+  <message>
+    <key>RIM_MSG_RANKLIST_M_SPECIAL</key>
+    <text xml:space="preserve">Special</text>
+  </message>
+  <message>
+    <key>RIM_MSG_RANKLIST_M_COMMU</key>
+    <text xml:space="preserve">Community</text>
+  </message>
+  <message>
+    <key>RIM_INST_MSG_BTN00</key>
+    <text xml:space="preserve">検索条件設定</text>
+  </message>
+  <message>
+    <key>RIM_MSG_TAB_SEARCH</key>
+    <text xml:space="preserve">ポーン検索</text>
+  </message>
+  <message>
+    <key>RIM_MSG_TAB_MAIN</key>
+    <text xml:space="preserve">メインポーン</text>
+  </message>
+  <message>
+    <key>RIM_MSG_TAB_SUPPORT</key>
+    <text xml:space="preserve">サポートポーン</text>
+  </message>
+  <message>
+    <key>RIM_MSG_PAWN_STATE_NONE</key>
+    <text xml:space="preserve">待機状態</text>
+  </message>
+  <message>
+    <key>RIM_MSG_PAWN_STATE_LOST</key>
+    <text xml:space="preserve">ロスト状態</text>
+  </message>
+  <message>
+    <key>RIM_MSG_PAWN_STATE_CRAFT</key>
+    <text xml:space="preserve">クラフト中</text>
+  </message>
+  <message>
+    <key>RIM_MSG_PAWN_STATE_PARTY</key>
+    <text xml:space="preserve">パーティーメンバー</text>
+  </message>
+  <message>
+    <key>RIM_MSG_COST_FORMAT</key>
+    <text xml:space="preserve">&lt;VAL&gt; &lt;COL 5f5fffff&gt;R&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>RIM_MSG_LEVEL_RANGE</key>
+    <text xml:space="preserve">Lv &lt;VAL&gt;～&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SELECT_M_SECTION05</key>
+    <text xml:space="preserve">冒険／クラフト残り回数</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SELECT_M_SECTION06</key>
+    <text xml:space="preserve">レンタルコスト</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SELECT_M_SECTION07</key>
+    <text xml:space="preserve">履歴</text>
+  </message>
+  <message>
+    <key>RIM_MSG_NO_COST</key>
+    <text xml:space="preserve">Free</text>
+  </message>
+  <message>
+    <key>RIM_MSG_MAIN_PAWN_COUNT</key>
+    <text xml:space="preserve">契約状況：</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SUPPORT_PAWN_COUNT</key>
+    <text xml:space="preserve">雇用状況：</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SEARCH_PAWN_NOT_FOUND</key>
+    <text xml:space="preserve">ポーンが見つかりませんでした</text>
+  </message>
+  <message>
+    <key>RIM_MSG_MAIN_PAWN_NOT_FOUND</key>
+    <text xml:space="preserve">ポーンと契約していません</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SUPPORT_PAWN_NOT_FOUND</key>
+    <text xml:space="preserve">ポーンを雇用していません</text>
+  </message>
+  <message>
+    <key>RIM_MSG_TAB_LOST</key>
+    <text xml:space="preserve">ロストポーン</text>
+  </message>
+  <message>
+    <key>RIM_MSG_CHOICE_CATEGORY</key>
+    <text xml:space="preserve">左のカテゴリを選んでください</text>
+  </message>
+  <message>
+    <key>RIM_MSG_SELECT_M_SECTION08</key>
+    <text xml:space="preserve">救済コスト</text>
+  </message>
+  <message>
+    <key>RIM_MSG_LOST_PAWN_NOT_FOUND</key>
+    <text xml:space="preserve">ロストしているポーンがいません</text>
+  </message>
+</resource>

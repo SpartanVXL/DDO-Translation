@@ -1,0 +1,60 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_8</key>
+    <text xml:space="preserve">前方に猛ダッシュしつつ鋭い突き攻撃を放つ
+突進距離に応じて威力が上昇する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で最大移動距離が延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_12</key>
+    <text xml:space="preserve">足元から直上へ鋭く斬り上げ、
+軽量の敵を上空へ打ち上げる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で速度上昇／攻撃ヒット数増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_10</key>
+    <text xml:space="preserve">盾による打撃特化の連続攻撃を繰り出す。敵を怯ませ
+やすく、ボタンの連打で攻撃回数が増加する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６でモーション変化／
+最大攻撃回数増加（３→５）&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_13</key>
+    <text xml:space="preserve">頭上に連続斬りを繰り出す
+ボタンの連打で攻撃回数が増加する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で速度上昇／
+最大攻撃回数増加（３→５）&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_15</key>
+    <text xml:space="preserve">後方に身を逸らし、すぐさま間合いを詰めて斬り払う
+敵の攻撃を回避しつつ繰り出せば威力が上昇する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で受付時間延長／
+回避成功時、攻撃ヒット数増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_9</key>
+    <text xml:space="preserve">跳躍し、鋭い一撃を放って下方に突き立てる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_11</key>
+    <text xml:space="preserve">盾で前方ガードを固めつつ、連続突きを繰り出す
+ボタンの連打で攻撃回数が増加する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で速度上昇／最大攻撃回数増加（５→８）&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_14</key>
+    <text xml:space="preserve">円弧状に剣先を一回転させ、周囲の敵をなぎ払う
+のけぞり中にも発動可能
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</text>
+  </message>
+</resource>

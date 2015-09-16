@@ -1,0 +1,227 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>info_party_invite</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; からパーティーへの招待があります</text>
+  </message>
+  <message>
+    <key>info_party_invite_list</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; からパーティーへの招待があります</text>
+  </message>
+  <message>
+    <key>info_friend_req</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; からフレンド申請があります</text>
+  </message>
+  <message>
+    <key>info_friend_req_list</key>
+    <text xml:space="preserve">フレンド申請があります</text>
+  </message>
+  <message>
+    <key>info_clan_invite</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;からクランへの招待があります</text>
+  </message>
+  <message>
+    <key>info_clan_invite_list</key>
+    <text xml:space="preserve">クランから誘いがあります</text>
+  </message>
+  <message>
+    <key>info_clan_mission</key>
+    <text xml:space="preserve">&lt;NAME CLANMISSION&gt; を達成した！</text>
+  </message>
+  <message>
+    <key>info_clan_mission_list</key>
+    <text xml:space="preserve">&lt;NAME CLANMISSION&gt; を達成した！</text>
+  </message>
+  <message>
+    <key>info_clan_levelup</key>
+    <text xml:space="preserve">クランレベルが&lt;VAL&gt;になった！</text>
+  </message>
+  <message>
+    <key>info_clan_levelup_list</key>
+    <text xml:space="preserve">クランの歴史が更新されました</text>
+  </message>
+  <message>
+    <key>info_group_invite</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; からグループチャットへの招待があります</text>
+  </message>
+  <message>
+    <key>info_group_invite_list</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; からグループチャットへの招待があります</text>
+  </message>
+  <message>
+    <key>info_mail</key>
+    <text xml:space="preserve">新着メールが届きました</text>
+  </message>
+  <message>
+    <key>info_mail_list</key>
+    <text xml:space="preserve">未読メールがあります</text>
+  </message>
+  <message>
+    <key>info_news</key>
+    <text xml:space="preserve">レスタニアニュースが更新されました</text>
+  </message>
+  <message>
+    <key>info_news_list</key>
+    <text xml:space="preserve">レスタニアニュースが更新されました</text>
+  </message>
+  <message>
+    <key>info_full_member</key>
+    <text xml:space="preserve">エントリーメンバーが揃いました</text>
+  </message>
+  <message>
+    <key>info_full_member_list</key>
+    <text xml:space="preserve">エントリーメンバーが揃いました</text>
+  </message>
+  <message>
+    <key>info_tutorial</key>
+    <text xml:space="preserve">チュートリアル：&lt;NAME TUTORIAL&gt;</text>
+  </message>
+  <message>
+    <key>info_tutorial_list</key>
+    <text xml:space="preserve">チュートリアル：&lt;NAME TUTORIAL&gt;</text>
+  </message>
+  <message>
+    <key>info_wait_quest</key>
+    <text xml:space="preserve">受注待ちのクエストがあります</text>
+  </message>
+  <message>
+    <key>info_wait_quest_list</key>
+    <text xml:space="preserve">受注待ちのクエストが&lt;VAL&gt;件あります</text>
+  </message>
+  <message>
+    <key>info_achieve</key>
+    <text xml:space="preserve">アチーブメントを獲得しました</text>
+  </message>
+  <message>
+    <key>info_achieve_list</key>
+    <text xml:space="preserve">&lt;NAME ACHIEVE&gt;を獲得しました</text>
+  </message>
+  <message>
+    <key>info_achieve_unlock</key>
+    <text xml:space="preserve">新たなアチーブメントが解放されました</text>
+  </message>
+  <message>
+    <key>info_achieve_unlock_list</key>
+    <text xml:space="preserve">新たなアチーブメントを解放しました</text>
+  </message>
+  <message>
+    <key>info_craft_finish</key>
+    <text xml:space="preserve">クラフトが完成しました</text>
+  </message>
+  <message>
+    <key>info_quest_end</key>
+    <text xml:space="preserve">配信期間が終了したクエストを破棄しました</text>
+  </message>
+  <message>
+    <key>info_propose_quit_contents</key>
+    <text xml:space="preserve">コンテンツ途中離脱の提案がありました</text>
+  </message>
+  <message>
+    <key>info_propose_quit_contents_list</key>
+    <text xml:space="preserve">コンテンツ途中離脱の提案が届いています</text>
+  </message>
+  <message>
+    <key>info_quick_ready_wait_list</key>
+    <text xml:space="preserve">クイックパーティーの準備完了を受付中</text>
+  </message>
+  <message>
+    <key>info_entry_board_ready_wait_list</key>
+    <text xml:space="preserve">エントリーメンバーの準備完了を受付中</text>
+  </message>
+  <message>
+    <key>info_quest_end_list</key>
+    <text xml:space="preserve">配信期間が終了したクエストを破棄しました</text>
+  </message>
+  <message>
+    <key>info_entry_board_time_extension_list</key>
+    <text xml:space="preserve">エントリーボードの募集時間を延長できます</text>
+  </message>
+  <message>
+    <key>info_party_entry_accepted_list</key>
+    <text xml:space="preserve">リーダーがパーティー要請を受諾しました</text>
+  </message>
+  <message>
+    <key>info_clan_req</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;からクラン加入申請がありました</text>
+  </message>
+  <message>
+    <key>info_clan_req_info</key>
+    <text xml:space="preserve">クランへの加入申請があります</text>
+  </message>
+  <message>
+    <key>info_clan_join_other</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;がクランに加入しました</text>
+  </message>
+  <message>
+    <key>info_clan_join</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;がクランに加入しました</text>
+  </message>
+  <message>
+    <key>info_clan_chg_master</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;がクランマスターになりました</text>
+  </message>
+  <message>
+    <key>info_clan_chg_leader</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;がクランリーダーになりました</text>
+  </message>
+  <message>
+    <key>info_pt_leader_leave_list</key>
+    <text xml:space="preserve">リーダーが不在です</text>
+  </message>
+  <message>
+    <key>info_pt_leader_leave</key>
+    <text xml:space="preserve">リーダーが不在です
+白竜神殿かリムストーンのある拠点施設でリーダーを設定してください</text>
+  </message>
+  <message>
+    <key>info_bazzar_dealed</key>
+    <text xml:space="preserve">バザーに出品中の&lt;NAME ITEM&gt;が取引成立しました</text>
+  </message>
+  <message>
+    <key>info_party_invite_pop</key>
+    <text xml:space="preserve">パーティーへの招待があります</text>
+  </message>
+  <message>
+    <key>info_caplink_chat</key>
+    <text xml:space="preserve">カプリンク：新着チャットがあります</text>
+  </message>
+  <message>
+    <key>info_caplink_maintenance</key>
+    <text xml:space="preserve">カプリンクが&lt;VAL&gt;からメンテナンスに入ります</text>
+  </message>
+  <message>
+    <key>info_caplink_friend_online</key>
+    <text xml:space="preserve">カプリンク：カプトモがオンラインになりました</text>
+  </message>
+  <message>
+    <key>info_caplink_friend_request</key>
+    <text xml:space="preserve">カプリンク：カプトモ申請が届いています</text>
+  </message>
+  <message>
+    <key>info_caplink_friend_consent</key>
+    <text xml:space="preserve">カプリンク：カプトモが増えました</text>
+  </message>
+  <message>
+    <key>info_caplink_invite</key>
+    <text xml:space="preserve">カプリンク：ゲーム招待メッセージが届いています</text>
+  </message>
+  <message>
+    <key>info_caplink_message</key>
+    <text xml:space="preserve">カプリンク：メッセージが届いています</text>
+  </message>
+  <message>
+    <key>info_caplink_friend_modify</key>
+    <text xml:space="preserve">カプリンク：カプトモがプロフィールを変更しました</text>
+  </message>
+  <message>
+    <key>info_caplink_invite_detail</key>
+    <text xml:space="preserve">カプリンク：&lt;VAL&gt;からゲーム招待メッセージが届いています</text>
+  </message>
+  <message>
+    <key>info_caplink_friend_online_detail</key>
+    <text xml:space="preserve">カプリンク：&lt;VAL&gt;がオンラインになりました</text>
+  </message>
+  <message>
+    <key>info_caplink_friend_content_detail</key>
+    <text xml:space="preserve">カプリンク：&lt;VAL&gt;とカプトモになりました</text>
+  </message>
+</resource>

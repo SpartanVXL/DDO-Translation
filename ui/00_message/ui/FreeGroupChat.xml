@@ -1,0 +1,46 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>fgc_title_en</key>
+    <text xml:space="preserve">Group Chat</text>
+  </message>
+  <message>
+    <key>fgc_title_jp</key>
+    <text xml:space="preserve">グループチャット</text>
+  </message>
+  <message>
+    <key>fgc_cate_name</key>
+    <text xml:space="preserve">名前</text>
+  </message>
+  <message>
+    <key>fgc_cate_joblv</key>
+    <text xml:space="preserve">ジョブレベル</text>
+  </message>
+  <message>
+    <key>fgc_cate_lobby</key>
+    <text xml:space="preserve">ロビー</text>
+  </message>
+  <message>
+    <key>fgc_cate_union</key>
+    <text xml:space="preserve">クラン</text>
+  </message>
+  <message>
+    <key>fgc_cate_comment</key>
+    <text xml:space="preserve">コメント</text>
+  </message>
+  <message>
+    <key>fgc_cate_number_of_participants</key>
+    <text xml:space="preserve">参加人数</text>
+  </message>
+  <message>
+    <key>fgc_button_invitation</key>
+    <text xml:space="preserve">メンバーを招待</text>
+  </message>
+  <message>
+    <key>fgc_button_roomout</key>
+    <text xml:space="preserve">グループから退室</text>
+  </message>
+  <message>
+    <key>fgc_ana_nonfgc</key>
+    <text xml:space="preserve">グループチャットが組まれていません</text>
+  </message>
+</resource>

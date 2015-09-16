@@ -1,0 +1,94 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>char_sel_index_en</key>
+    <text xml:space="preserve">Character Select</text>
+  </message>
+  <message>
+    <key>char_sel_index_jp</key>
+    <text xml:space="preserve">キャラクター選択</text>
+  </message>
+  <message>
+    <key>char_sel_status</key>
+    <text xml:space="preserve">Status</text>
+  </message>
+  <message>
+    <key>char_sel_profile</key>
+    <text xml:space="preserve">Profile</text>
+  </message>
+  <message>
+    <key>char_sel_delete</key>
+    <text xml:space="preserve">キャラクターの削除</text>
+  </message>
+  <message>
+    <key>char_sel_del_chara_select</key>
+    <text xml:space="preserve">削除するキャラクターを選択してください</text>
+  </message>
+  <message>
+    <key>char_sel_del_info</key>
+    <text xml:space="preserve">削除したキャラクターは二度と復活できません</text>
+  </message>
+  <message>
+    <key>char_sel_code_text</key>
+    <text xml:space="preserve">確認コード &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt; を入力してください</text>
+  </message>
+  <message>
+    <key>char_sel_code</key>
+    <text xml:space="preserve">確認コード：</text>
+  </message>
+  <message>
+    <key>char_sel_decide</key>
+    <text xml:space="preserve">決定</text>
+  </message>
+  <message>
+    <key>char_sel_cancel</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+  <message>
+    <key>char_sel_del</key>
+    <text xml:space="preserve">削除</text>
+  </message>
+  <message>
+    <key>char_sel_plz_wait</key>
+    <text xml:space="preserve">しばらくお待ちください</text>
+  </message>
+  <message>
+    <key>char_sel_del_alert</key>
+    <text xml:space="preserve">を削除します</text>
+  </message>
+  <message>
+    <key>char_sel_del_finish</key>
+    <text xml:space="preserve">キャラクターの削除が完了しました</text>
+  </message>
+  <message>
+    <key>char_sel_del_error</key>
+    <text xml:space="preserve">確認コードが間違っています</text>
+  </message>
+  <message>
+    <key>char_sel_bonus</key>
+    <text xml:space="preserve">Course</text>
+  </message>
+  <message>
+    <key>char_sel_no_bonus</key>
+    <text xml:space="preserve">発動中の&lt;OPCS&gt;はありません</text>
+  </message>
+  <message>
+    <key>char_sel_fourwords</key>
+    <text xml:space="preserve">（半角英数4文字）</text>
+  </message>
+  <message>
+    <key>char_sel_announce_charover</key>
+    <text xml:space="preserve">キャラクター作成上限です</text>
+  </message>
+  <message>
+    <key>char_sel_add_newchar</key>
+    <text xml:space="preserve">新規作成</text>
+  </message>
+  <message>
+    <key>char_sel_button_zoom</key>
+    <text xml:space="preserve">モデル回転 / ズーム</text>
+  </message>
+  <message>
+    <key>char_sel_button_rota</key>
+    <text xml:space="preserve">カメラ操作</text>
+  </message>
+</resource>

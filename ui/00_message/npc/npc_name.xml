@@ -1,0 +1,2034 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>NPC_NAME_824</key>
+    <text xml:space="preserve"></text>
+  </message>
+  <message>
+    <key>NPC_NAME_251</key>
+    <text xml:space="preserve">白竜</text>
+  </message>
+  <message>
+    <key>NPC_NAME_252</key>
+    <text xml:space="preserve">ミシアル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_253</key>
+    <text xml:space="preserve">クラウス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_254</key>
+    <text xml:space="preserve">ジョゼフ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_255</key>
+    <text xml:space="preserve">レオ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_256</key>
+    <text xml:space="preserve">イリス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_257</key>
+    <text xml:space="preserve">ゲルト</text>
+  </message>
+  <message>
+    <key>NPC_NAME_258</key>
+    <text xml:space="preserve">ハインツ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_261</key>
+    <text xml:space="preserve">ヴァネッサ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_262</key>
+    <text xml:space="preserve">ファビオ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_263</key>
+    <text xml:space="preserve">リズ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_264</key>
+    <text xml:space="preserve">メイリーフ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_265</key>
+    <text xml:space="preserve">キースヒルト</text>
+  </message>
+  <message>
+    <key>NPC_NAME_266</key>
+    <text xml:space="preserve">モゴック</text>
+  </message>
+  <message>
+    <key>NPC_NAME_267</key>
+    <text xml:space="preserve">ズール</text>
+  </message>
+  <message>
+    <key>NPC_NAME_269</key>
+    <text xml:space="preserve">プラム</text>
+  </message>
+  <message>
+    <key>NPC_NAME_270</key>
+    <text xml:space="preserve">ガルドリン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_271</key>
+    <text xml:space="preserve">流浪の探究者</text>
+  </message>
+  <message>
+    <key>NPC_NAME_272</key>
+    <text xml:space="preserve">トラバース</text>
+  </message>
+  <message>
+    <key>NPC_NAME_273</key>
+    <text xml:space="preserve">白衛騎士団員</text>
+  </message>
+  <message>
+    <key>NPC_NAME_274</key>
+    <text xml:space="preserve">白衛騎士団員</text>
+  </message>
+  <message>
+    <key>NPC_NAME_275</key>
+    <text xml:space="preserve">白衛騎士団員</text>
+  </message>
+  <message>
+    <key>NPC_NAME_276</key>
+    <text xml:space="preserve">不気味な男</text>
+  </message>
+  <message>
+    <key>NPC_NAME_277</key>
+    <text xml:space="preserve">不思議な少女</text>
+  </message>
+  <message>
+    <key>NPC_NAME_278</key>
+    <text xml:space="preserve">行商人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_279</key>
+    <text xml:space="preserve">男</text>
+  </message>
+  <message>
+    <key>NPC_NAME_280</key>
+    <text xml:space="preserve">男</text>
+  </message>
+  <message>
+    <key>NPC_NAME_281</key>
+    <text xml:space="preserve">女</text>
+  </message>
+  <message>
+    <key>NPC_NAME_282</key>
+    <text xml:space="preserve">クリストフ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_283</key>
+    <text xml:space="preserve">トマス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_284</key>
+    <text xml:space="preserve">オーギュスト</text>
+  </message>
+  <message>
+    <key>NPC_NAME_285</key>
+    <text xml:space="preserve">ダリア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_286</key>
+    <text xml:space="preserve">デュボワ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_287</key>
+    <text xml:space="preserve">マルキス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_288</key>
+    <text xml:space="preserve">フレイア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_289</key>
+    <text xml:space="preserve">レント</text>
+  </message>
+  <message>
+    <key>NPC_NAME_290</key>
+    <text xml:space="preserve">キーファー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_291</key>
+    <text xml:space="preserve">盗賊</text>
+  </message>
+  <message>
+    <key>NPC_NAME_292</key>
+    <text xml:space="preserve">たたずむスケルトン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_293</key>
+    <text xml:space="preserve">スケルトン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_294</key>
+    <text xml:space="preserve">スケルトン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_295</key>
+    <text xml:space="preserve">物憂げなハーピー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_296</key>
+    <text xml:space="preserve">デュボワ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_297</key>
+    <text xml:space="preserve">モルテン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_298</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_299</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_300</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_301</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_302</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_303</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_304</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_305</key>
+    <text xml:space="preserve">戦士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_306</key>
+    <text xml:space="preserve">戦士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_307</key>
+    <text xml:space="preserve">女性戦士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_308</key>
+    <text xml:space="preserve">軽装の戦士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_309</key>
+    <text xml:space="preserve">軽装の女戦士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_310</key>
+    <text xml:space="preserve">ハンター</text>
+  </message>
+  <message>
+    <key>NPC_NAME_311</key>
+    <text xml:space="preserve">旅の女性ハンター</text>
+  </message>
+  <message>
+    <key>NPC_NAME_312</key>
+    <text xml:space="preserve">魔術師</text>
+  </message>
+  <message>
+    <key>NPC_NAME_313</key>
+    <text xml:space="preserve">魔術師</text>
+  </message>
+  <message>
+    <key>NPC_NAME_314</key>
+    <text xml:space="preserve">神官</text>
+  </message>
+  <message>
+    <key>NPC_NAME_315</key>
+    <text xml:space="preserve">女性神官</text>
+  </message>
+  <message>
+    <key>NPC_NAME_687</key>
+    <text xml:space="preserve">ウィルソン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_316</key>
+    <text xml:space="preserve">息絶えた村人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_317</key>
+    <text xml:space="preserve">息絶えた村人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_318</key>
+    <text xml:space="preserve">息絶えた村人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_319</key>
+    <text xml:space="preserve">息絶えた村人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_320</key>
+    <text xml:space="preserve">息絶えた村人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_321</key>
+    <text xml:space="preserve">息絶えた騎士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_322</key>
+    <text xml:space="preserve">息絶えた騎士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_323</key>
+    <text xml:space="preserve">息絶えた騎士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_324</key>
+    <text xml:space="preserve">息絶えた覚者</text>
+  </message>
+  <message>
+    <key>NPC_NAME_325</key>
+    <text xml:space="preserve">息絶えた覚者</text>
+  </message>
+  <message>
+    <key>NPC_NAME_326</key>
+    <text xml:space="preserve">息絶えた覚者</text>
+  </message>
+  <message>
+    <key>NPC_NAME_327</key>
+    <text xml:space="preserve">息絶えた覚者</text>
+  </message>
+  <message>
+    <key>NPC_NAME_328</key>
+    <text xml:space="preserve">エミリア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_329</key>
+    <text xml:space="preserve">コレット</text>
+  </message>
+  <message>
+    <key>NPC_NAME_330</key>
+    <text xml:space="preserve">ファーガソン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_331</key>
+    <text xml:space="preserve">パメラ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_332</key>
+    <text xml:space="preserve">モーリス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_333</key>
+    <text xml:space="preserve">キトリッジ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_334</key>
+    <text xml:space="preserve">ヴァイスロット</text>
+  </message>
+  <message>
+    <key>NPC_NAME_335</key>
+    <text xml:space="preserve">オーウェン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_336</key>
+    <text xml:space="preserve">メル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_337</key>
+    <text xml:space="preserve">ジョアンナ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_338</key>
+    <text xml:space="preserve">トニオ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_339</key>
+    <text xml:space="preserve">キビザ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_340</key>
+    <text xml:space="preserve">ナンシー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_341</key>
+    <text xml:space="preserve">セネカ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_342</key>
+    <text xml:space="preserve">ネストーレ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_343</key>
+    <text xml:space="preserve">ヒルデ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_344</key>
+    <text xml:space="preserve">デューク</text>
+  </message>
+  <message>
+    <key>NPC_NAME_345</key>
+    <text xml:space="preserve">ローガン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_346</key>
+    <text xml:space="preserve">ミルバーン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_347</key>
+    <text xml:space="preserve">カルノ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_348</key>
+    <text xml:space="preserve">ハンコック</text>
+  </message>
+  <message>
+    <key>NPC_NAME_349</key>
+    <text xml:space="preserve">フレディー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_350</key>
+    <text xml:space="preserve">チャールストン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_351</key>
+    <text xml:space="preserve">ルチーナ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_352</key>
+    <text xml:space="preserve">バートン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_353</key>
+    <text xml:space="preserve">コーネリア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_354</key>
+    <text xml:space="preserve">ソニア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_355</key>
+    <text xml:space="preserve">アラン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_356</key>
+    <text xml:space="preserve">アーチボルト</text>
+  </message>
+  <message>
+    <key>NPC_NAME_357</key>
+    <text xml:space="preserve">レンテン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_358</key>
+    <text xml:space="preserve">キャメロン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_359</key>
+    <text xml:space="preserve">アレン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_360</key>
+    <text xml:space="preserve">ギリアム</text>
+  </message>
+  <message>
+    <key>NPC_NAME_361</key>
+    <text xml:space="preserve">マコーミック</text>
+  </message>
+  <message>
+    <key>NPC_NAME_362</key>
+    <text xml:space="preserve">ラピス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_363</key>
+    <text xml:space="preserve">ゼルキン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_364</key>
+    <text xml:space="preserve">ボルドー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_365</key>
+    <text xml:space="preserve">ガーシュウィン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_366</key>
+    <text xml:space="preserve">ピット</text>
+  </message>
+  <message>
+    <key>NPC_NAME_367</key>
+    <text xml:space="preserve">モアナ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_648</key>
+    <text xml:space="preserve">ヒックス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_689</key>
+    <text xml:space="preserve">エリン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_752</key>
+    <text xml:space="preserve">シーベル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_368</key>
+    <text xml:space="preserve">ウォルター</text>
+  </message>
+  <message>
+    <key>NPC_NAME_369</key>
+    <text xml:space="preserve">ローザ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_370</key>
+    <text xml:space="preserve">ハロルド</text>
+  </message>
+  <message>
+    <key>NPC_NAME_371</key>
+    <text xml:space="preserve">パーシモン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_372</key>
+    <text xml:space="preserve">ミステラ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_373</key>
+    <text xml:space="preserve">オニール</text>
+  </message>
+  <message>
+    <key>NPC_NAME_374</key>
+    <text xml:space="preserve">アキム</text>
+  </message>
+  <message>
+    <key>NPC_NAME_375</key>
+    <text xml:space="preserve">ユニ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_376</key>
+    <text xml:space="preserve">グロリア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_377</key>
+    <text xml:space="preserve">ターレス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_378</key>
+    <text xml:space="preserve">フロイト</text>
+  </message>
+  <message>
+    <key>NPC_NAME_379</key>
+    <text xml:space="preserve">アニス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_380</key>
+    <text xml:space="preserve">クロエ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_753</key>
+    <text xml:space="preserve">マリオ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_381</key>
+    <text xml:space="preserve">ローラ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_382</key>
+    <text xml:space="preserve">ペドロ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_383</key>
+    <text xml:space="preserve">フェデルコ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_384</key>
+    <text xml:space="preserve">エテルナ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_385</key>
+    <text xml:space="preserve">ノーマン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_386</key>
+    <text xml:space="preserve">ヘンリー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_387</key>
+    <text xml:space="preserve">マイラ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_388</key>
+    <text xml:space="preserve">ボブ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_389</key>
+    <text xml:space="preserve">ニキ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_390</key>
+    <text xml:space="preserve">ゴートン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_391</key>
+    <text xml:space="preserve">ナサニエル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_392</key>
+    <text xml:space="preserve">ジョシュ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_649</key>
+    <text xml:space="preserve">ドネル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_675</key>
+    <text xml:space="preserve">アルフレド</text>
+  </message>
+  <message>
+    <key>NPC_NAME_393</key>
+    <text xml:space="preserve">ミランダ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_394</key>
+    <text xml:space="preserve">ヤンクス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_395</key>
+    <text xml:space="preserve">バークレイ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_396</key>
+    <text xml:space="preserve">アルカン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_397</key>
+    <text xml:space="preserve">メリッサ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_398</key>
+    <text xml:space="preserve">セドリック</text>
+  </message>
+  <message>
+    <key>NPC_NAME_399</key>
+    <text xml:space="preserve">エコール</text>
+  </message>
+  <message>
+    <key>NPC_NAME_400</key>
+    <text xml:space="preserve">ガッシュ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_401</key>
+    <text xml:space="preserve">マハル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_402</key>
+    <text xml:space="preserve">サーニャ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_403</key>
+    <text xml:space="preserve">カイン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_404</key>
+    <text xml:space="preserve">アルマ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_683</key>
+    <text xml:space="preserve">パトリシア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_405</key>
+    <text xml:space="preserve">グレイ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_406</key>
+    <text xml:space="preserve">フラベル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_407</key>
+    <text xml:space="preserve">ウルダ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_408</key>
+    <text xml:space="preserve">ムバラク</text>
+  </message>
+  <message>
+    <key>NPC_NAME_409</key>
+    <text xml:space="preserve">ゴルタス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_410</key>
+    <text xml:space="preserve">ギブソン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_411</key>
+    <text xml:space="preserve">トビー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_412</key>
+    <text xml:space="preserve">ノーメル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_685</key>
+    <text xml:space="preserve">ヘイデン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_413</key>
+    <text xml:space="preserve">ドロテア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_414</key>
+    <text xml:space="preserve">ラウル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_415</key>
+    <text xml:space="preserve">チャンク</text>
+  </message>
+  <message>
+    <key>NPC_NAME_416</key>
+    <text xml:space="preserve">リビアン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_417</key>
+    <text xml:space="preserve">ロイ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_418</key>
+    <text xml:space="preserve">ケネック</text>
+  </message>
+  <message>
+    <key>NPC_NAME_419</key>
+    <text xml:space="preserve">シスレー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_420</key>
+    <text xml:space="preserve">ユージーン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_421</key>
+    <text xml:space="preserve">ネルソン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_422</key>
+    <text xml:space="preserve">ニルヴァーナ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_423</key>
+    <text xml:space="preserve">セシリー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_424</key>
+    <text xml:space="preserve">ハンナ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_425</key>
+    <text xml:space="preserve">マイルズ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_426</key>
+    <text xml:space="preserve">ブリジット</text>
+  </message>
+  <message>
+    <key>NPC_NAME_427</key>
+    <text xml:space="preserve">ホーソーン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_428</key>
+    <text xml:space="preserve">ジゼル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_429</key>
+    <text xml:space="preserve">シャロム</text>
+  </message>
+  <message>
+    <key>NPC_NAME_430</key>
+    <text xml:space="preserve">マーガレット</text>
+  </message>
+  <message>
+    <key>NPC_NAME_431</key>
+    <text xml:space="preserve">フランチェスカ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_432</key>
+    <text xml:space="preserve">クロムウェル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_433</key>
+    <text xml:space="preserve">ネイア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_754</key>
+    <text xml:space="preserve">ルーシー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_755</key>
+    <text xml:space="preserve">イサップ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_457</key>
+    <text xml:space="preserve">サイラス</text>
+  </message>
+  <message>
+    <key>NPC_NAME_458</key>
+    <text xml:space="preserve">タルコット</text>
+  </message>
+  <message>
+    <key>NPC_NAME_459</key>
+    <text xml:space="preserve">スターク</text>
+  </message>
+  <message>
+    <key>NPC_NAME_460</key>
+    <text xml:space="preserve">リドリー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_461</key>
+    <text xml:space="preserve">ディッカ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_462</key>
+    <text xml:space="preserve">スケルツォ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_463</key>
+    <text xml:space="preserve">ヘストン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_464</key>
+    <text xml:space="preserve">ギルスタン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_465</key>
+    <text xml:space="preserve">ウガウ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_466</key>
+    <text xml:space="preserve">バランジャ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_467</key>
+    <text xml:space="preserve">ズタン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_468</key>
+    <text xml:space="preserve">スラボ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_469</key>
+    <text xml:space="preserve">バボ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_470</key>
+    <text xml:space="preserve">トロッガ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_471</key>
+    <text xml:space="preserve">ワンゴ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_757</key>
+    <text xml:space="preserve">ブッグ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_758</key>
+    <text xml:space="preserve">ゴーゴ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_674</key>
+    <text xml:space="preserve">ゴブリン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_472</key>
+    <text xml:space="preserve">ニコラ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_473</key>
+    <text xml:space="preserve">デレード</text>
+  </message>
+  <message>
+    <key>NPC_NAME_474</key>
+    <text xml:space="preserve">アルヴァー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_475</key>
+    <text xml:space="preserve">セラ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_476</key>
+    <text xml:space="preserve">トマソン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_477</key>
+    <text xml:space="preserve">スザンナ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_478</key>
+    <text xml:space="preserve">ナバル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_479</key>
+    <text xml:space="preserve">カミュ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_480</key>
+    <text xml:space="preserve">ジュリエンヌ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_481</key>
+    <text xml:space="preserve">ジェネラルオーク</text>
+  </message>
+  <message>
+    <key>NPC_NAME_482</key>
+    <text xml:space="preserve">キャプテンオーク</text>
+  </message>
+  <message>
+    <key>NPC_NAME_483</key>
+    <text xml:space="preserve">オーク</text>
+  </message>
+  <message>
+    <key>NPC_NAME_484</key>
+    <text xml:space="preserve">オーク</text>
+  </message>
+  <message>
+    <key>NPC_NAME_485</key>
+    <text xml:space="preserve">オーク</text>
+  </message>
+  <message>
+    <key>NPC_NAME_491</key>
+    <text xml:space="preserve">ルドルフォ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_492</key>
+    <text xml:space="preserve">エメラダ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_494</key>
+    <text xml:space="preserve">イヴァン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_496</key>
+    <text xml:space="preserve">チェスター</text>
+  </message>
+  <message>
+    <key>NPC_NAME_497</key>
+    <text xml:space="preserve">クリスティーヌ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_690</key>
+    <text xml:space="preserve">ハーヴェイ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_691</key>
+    <text xml:space="preserve">神殿男：予備枠</text>
+  </message>
+  <message>
+    <key>NPC_NAME_692</key>
+    <text xml:space="preserve">オフィリア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_693</key>
+    <text xml:space="preserve">神殿女：予備枠</text>
+  </message>
+  <message>
+    <key>NPC_NAME_697</key>
+    <text xml:space="preserve">文化Ａ：男1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_696</key>
+    <text xml:space="preserve">カール</text>
+  </message>
+  <message>
+    <key>NPC_NAME_695</key>
+    <text xml:space="preserve">文化Ａ：男3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_694</key>
+    <text xml:space="preserve">文化Ａ：男4</text>
+  </message>
+  <message>
+    <key>NPC_NAME_701</key>
+    <text xml:space="preserve">文化Ａ：男5</text>
+  </message>
+  <message>
+    <key>NPC_NAME_700</key>
+    <text xml:space="preserve">サリー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_699</key>
+    <text xml:space="preserve">文化Ａ：女2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_698</key>
+    <text xml:space="preserve">文化Ａ：女3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_703</key>
+    <text xml:space="preserve">文化Ａ：女4</text>
+  </message>
+  <message>
+    <key>NPC_NAME_702</key>
+    <text xml:space="preserve">文化Ａ：女5</text>
+  </message>
+  <message>
+    <key>NPC_NAME_704</key>
+    <text xml:space="preserve">文化Ｂ：男1　きこり系</text>
+  </message>
+  <message>
+    <key>NPC_NAME_705</key>
+    <text xml:space="preserve">文化Ｂ：男2　きこり系</text>
+  </message>
+  <message>
+    <key>NPC_NAME_706</key>
+    <text xml:space="preserve">文化Ｂ：男3　鉱山系</text>
+  </message>
+  <message>
+    <key>NPC_NAME_707</key>
+    <text xml:space="preserve">文化Ｃ：男1　海系</text>
+  </message>
+  <message>
+    <key>NPC_NAME_708</key>
+    <text xml:space="preserve">文化Ｃ：男2　海系</text>
+  </message>
+  <message>
+    <key>NPC_NAME_709</key>
+    <text xml:space="preserve">文化Ｃ：男3　半裸系</text>
+  </message>
+  <message>
+    <key>NPC_NAME_710</key>
+    <text xml:space="preserve">貴族1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_711</key>
+    <text xml:space="preserve">貴族2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_712</key>
+    <text xml:space="preserve">貴族3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_713</key>
+    <text xml:space="preserve">お水系1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_714</key>
+    <text xml:space="preserve">お水系2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_715</key>
+    <text xml:space="preserve">お水系3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_716</key>
+    <text xml:space="preserve">お水系4</text>
+  </message>
+  <message>
+    <key>NPC_NAME_723</key>
+    <text xml:space="preserve">不在伝言係</text>
+  </message>
+  <message>
+    <key>NPC_NAME_722</key>
+    <text xml:space="preserve">白衛騎士団2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_721</key>
+    <text xml:space="preserve">白衛騎士団3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_720</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_718</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_724</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_729</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_728</key>
+    <text xml:space="preserve">術士　男2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_727</key>
+    <text xml:space="preserve">術士　女1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_726</key>
+    <text xml:space="preserve">術士　女2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_741</key>
+    <text xml:space="preserve">エイブラム</text>
+  </message>
+  <message>
+    <key>NPC_NAME_740</key>
+    <text xml:space="preserve">薄着　男2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_739</key>
+    <text xml:space="preserve">薄着　女1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_738</key>
+    <text xml:space="preserve">薄着　女2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_742</key>
+    <text xml:space="preserve">ゴブリン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_743</key>
+    <text xml:space="preserve">オーク</text>
+  </message>
+  <message>
+    <key>NPC_NAME_499</key>
+    <text xml:space="preserve"></text>
+  </message>
+  <message>
+    <key>NPC_NAME_500</key>
+    <text xml:space="preserve"></text>
+  </message>
+  <message>
+    <key>NPC_NAME_751</key>
+    <text xml:space="preserve">ポーン会話用ノーマル</text>
+  </message>
+  <message>
+    <key>NPC_NAME_750</key>
+    <text xml:space="preserve">ポーン会話用シャイ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_749</key>
+    <text xml:space="preserve">ポーン会話用アクティブ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_748</key>
+    <text xml:space="preserve">ポーン会話用スマート</text>
+  </message>
+  <message>
+    <key>NPC_NAME_747</key>
+    <text xml:space="preserve">ポーン会話用クール</text>
+  </message>
+  <message>
+    <key>NPC_NAME_746</key>
+    <text xml:space="preserve">ポーン会話用ピュア</text>
+  </message>
+  <message>
+    <key>NPC_NAME_745</key>
+    <text xml:space="preserve">ポーン会話用ワイルド</text>
+  </message>
+  <message>
+    <key>NPC_NAME_744</key>
+    <text xml:space="preserve">ポーン会話用セクシー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_501</key>
+    <text xml:space="preserve">自分中心　デモ枠1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_502</key>
+    <text xml:space="preserve">自分中心　デモ枠2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_503</key>
+    <text xml:space="preserve">自分中心　デモ枠3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_504</key>
+    <text xml:space="preserve">自分中心　デモ枠4</text>
+  </message>
+  <message>
+    <key>NPC_NAME_505</key>
+    <text xml:space="preserve">自分中心　デモ枠5</text>
+  </message>
+  <message>
+    <key>NPC_NAME_506</key>
+    <text xml:space="preserve">自分中心　デモ枠6</text>
+  </message>
+  <message>
+    <key>NPC_NAME_507</key>
+    <text xml:space="preserve">自分中心　デモ枠7</text>
+  </message>
+  <message>
+    <key>NPC_NAME_508</key>
+    <text xml:space="preserve">自分中心　デモ枠8</text>
+  </message>
+  <message>
+    <key>NPC_NAME_509</key>
+    <text xml:space="preserve">メンバー共通　デモ枠1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_510</key>
+    <text xml:space="preserve">メンバー共通　デモ枠2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_511</key>
+    <text xml:space="preserve">メンバー共通　デモ枠3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_512</key>
+    <text xml:space="preserve">メンバー共通　デモ枠4</text>
+  </message>
+  <message>
+    <key>NPC_NAME_513</key>
+    <text xml:space="preserve">メンバー共通　デモ枠5</text>
+  </message>
+  <message>
+    <key>NPC_NAME_514</key>
+    <text xml:space="preserve">メンバー共通　デモ枠6</text>
+  </message>
+  <message>
+    <key>NPC_NAME_515</key>
+    <text xml:space="preserve">メンバー共通　デモ枠7</text>
+  </message>
+  <message>
+    <key>NPC_NAME_516</key>
+    <text xml:space="preserve">メンバー共通　デモ枠8</text>
+  </message>
+  <message>
+    <key>NPC_NAME_517</key>
+    <text xml:space="preserve">クラフトリーダー1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_518</key>
+    <text xml:space="preserve">クラフトリーダー2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_519</key>
+    <text xml:space="preserve">クラフトリーダー3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_520</key>
+    <text xml:space="preserve">クラフトリーダー4</text>
+  </message>
+  <message>
+    <key>NPC_NAME_521</key>
+    <text xml:space="preserve">クラフトリーダー5</text>
+  </message>
+  <message>
+    <key>NPC_NAME_522</key>
+    <text xml:space="preserve">クラフトリーダー6</text>
+  </message>
+  <message>
+    <key>NPC_NAME_523</key>
+    <text xml:space="preserve">クラフトサポート1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_524</key>
+    <text xml:space="preserve">クラフトサポート2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_525</key>
+    <text xml:space="preserve">クラフトサポート3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_526</key>
+    <text xml:space="preserve">クラフトサポート4</text>
+  </message>
+  <message>
+    <key>NPC_NAME_527</key>
+    <text xml:space="preserve">クラフトサポート5</text>
+  </message>
+  <message>
+    <key>NPC_NAME_528</key>
+    <text xml:space="preserve">クラフトサポート6</text>
+  </message>
+  <message>
+    <key>NPC_NAME_529</key>
+    <text xml:space="preserve">クラフトサポート7</text>
+  </message>
+  <message>
+    <key>NPC_NAME_530</key>
+    <text xml:space="preserve">クラフトサポート8</text>
+  </message>
+  <message>
+    <key>NPC_NAME_531</key>
+    <text xml:space="preserve">クラフトサポート9</text>
+  </message>
+  <message>
+    <key>NPC_NAME_532</key>
+    <text xml:space="preserve">クラフトサポート10</text>
+  </message>
+  <message>
+    <key>NPC_NAME_533</key>
+    <text xml:space="preserve">クラフトサポート11</text>
+  </message>
+  <message>
+    <key>NPC_NAME_534</key>
+    <text xml:space="preserve">クラフトサポート12</text>
+  </message>
+  <message>
+    <key>NPC_NAME_535</key>
+    <text xml:space="preserve">クラフトサポート13</text>
+  </message>
+  <message>
+    <key>NPC_NAME_536</key>
+    <text xml:space="preserve">クラフトサポート14</text>
+  </message>
+  <message>
+    <key>NPC_NAME_650</key>
+    <text xml:space="preserve">クラフトサポート15</text>
+  </message>
+  <message>
+    <key>NPC_NAME_651</key>
+    <text xml:space="preserve">クラフトサポート16</text>
+  </message>
+  <message>
+    <key>NPC_NAME_652</key>
+    <text xml:space="preserve">クラフトサポート17</text>
+  </message>
+  <message>
+    <key>NPC_NAME_653</key>
+    <text xml:space="preserve">クラフトサポート18</text>
+  </message>
+  <message>
+    <key>NPC_NAME_654</key>
+    <text xml:space="preserve">待機ポーン１</text>
+  </message>
+  <message>
+    <key>NPC_NAME_655</key>
+    <text xml:space="preserve">待機ポーン2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_656</key>
+    <text xml:space="preserve">待機ポーン3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_657</key>
+    <text xml:space="preserve">待機ポーン4</text>
+  </message>
+  <message>
+    <key>NPC_NAME_658</key>
+    <text xml:space="preserve">待機ポーン5</text>
+  </message>
+  <message>
+    <key>NPC_NAME_659</key>
+    <text xml:space="preserve">待機ポーン6</text>
+  </message>
+  <message>
+    <key>NPC_NAME_660</key>
+    <text xml:space="preserve">待機ポーン7</text>
+  </message>
+  <message>
+    <key>NPC_NAME_661</key>
+    <text xml:space="preserve">待機ポーン8</text>
+  </message>
+  <message>
+    <key>NPC_NAME_662</key>
+    <text xml:space="preserve">待機ポーン9</text>
+  </message>
+  <message>
+    <key>NPC_NAME_663</key>
+    <text xml:space="preserve">待機ポーン10</text>
+  </message>
+  <message>
+    <key>NPC_NAME_664</key>
+    <text xml:space="preserve">待機ポーン11</text>
+  </message>
+  <message>
+    <key>NPC_NAME_665</key>
+    <text xml:space="preserve">待機ポーン12</text>
+  </message>
+  <message>
+    <key>NPC_NAME_666</key>
+    <text xml:space="preserve">待機ポーン13</text>
+  </message>
+  <message>
+    <key>NPC_NAME_667</key>
+    <text xml:space="preserve">待機ポーン14</text>
+  </message>
+  <message>
+    <key>NPC_NAME_668</key>
+    <text xml:space="preserve">待機ポーン15</text>
+  </message>
+  <message>
+    <key>NPC_NAME_669</key>
+    <text xml:space="preserve">待機ポーン16</text>
+  </message>
+  <message>
+    <key>NPC_NAME_670</key>
+    <text xml:space="preserve">待機ポーン17</text>
+  </message>
+  <message>
+    <key>NPC_NAME_671</key>
+    <text xml:space="preserve">待機ポーン18</text>
+  </message>
+  <message>
+    <key>NPC_NAME_672</key>
+    <text xml:space="preserve">待機ポーン19</text>
+  </message>
+  <message>
+    <key>NPC_NAME_673</key>
+    <text xml:space="preserve">待機ポーン20</text>
+  </message>
+  <message>
+    <key>NPC_NAME_537</key>
+    <text xml:space="preserve">野良ポーン1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_538</key>
+    <text xml:space="preserve">野良ポーン2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_539</key>
+    <text xml:space="preserve">野良ポーン3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_540</key>
+    <text xml:space="preserve">野良ポーン4</text>
+  </message>
+  <message>
+    <key>NPC_NAME_541</key>
+    <text xml:space="preserve">野良ポーン5</text>
+  </message>
+  <message>
+    <key>NPC_NAME_542</key>
+    <text xml:space="preserve">野良ポーン6</text>
+  </message>
+  <message>
+    <key>NPC_NAME_543</key>
+    <text xml:space="preserve">野良ポーン7</text>
+  </message>
+  <message>
+    <key>NPC_NAME_544</key>
+    <text xml:space="preserve">野良ポーン8</text>
+  </message>
+  <message>
+    <key>NPC_NAME_545</key>
+    <text xml:space="preserve">野良ポーン9</text>
+  </message>
+  <message>
+    <key>NPC_NAME_546</key>
+    <text xml:space="preserve">野良ポーン10</text>
+  </message>
+  <message>
+    <key>NPC_NAME_547</key>
+    <text xml:space="preserve">野良ポーン11</text>
+  </message>
+  <message>
+    <key>NPC_NAME_548</key>
+    <text xml:space="preserve">野良ポーン12</text>
+  </message>
+  <message>
+    <key>NPC_NAME_549</key>
+    <text xml:space="preserve">野良ポーン13</text>
+  </message>
+  <message>
+    <key>NPC_NAME_550</key>
+    <text xml:space="preserve">野良ポーン14</text>
+  </message>
+  <message>
+    <key>NPC_NAME_551</key>
+    <text xml:space="preserve">野良ポーン15</text>
+  </message>
+  <message>
+    <key>NPC_NAME_552</key>
+    <text xml:space="preserve">野良ポーン16</text>
+  </message>
+  <message>
+    <key>NPC_NAME_553</key>
+    <text xml:space="preserve">野良ポーン17</text>
+  </message>
+  <message>
+    <key>NPC_NAME_554</key>
+    <text xml:space="preserve">野良ポーン18</text>
+  </message>
+  <message>
+    <key>NPC_NAME_555</key>
+    <text xml:space="preserve">野良ポーン19</text>
+  </message>
+  <message>
+    <key>NPC_NAME_556</key>
+    <text xml:space="preserve">野良ポーン20</text>
+  </message>
+  <message>
+    <key>NPC_NAME_557</key>
+    <text xml:space="preserve">野良ポーン21</text>
+  </message>
+  <message>
+    <key>NPC_NAME_558</key>
+    <text xml:space="preserve">野良ポーン22</text>
+  </message>
+  <message>
+    <key>NPC_NAME_559</key>
+    <text xml:space="preserve">野良ポーン23</text>
+  </message>
+  <message>
+    <key>NPC_NAME_560</key>
+    <text xml:space="preserve">野良ポーン24</text>
+  </message>
+  <message>
+    <key>NPC_NAME_561</key>
+    <text xml:space="preserve">野良ポーン25</text>
+  </message>
+  <message>
+    <key>NPC_NAME_562</key>
+    <text xml:space="preserve">野良ポーン26</text>
+  </message>
+  <message>
+    <key>NPC_NAME_563</key>
+    <text xml:space="preserve">野良ポーン27</text>
+  </message>
+  <message>
+    <key>NPC_NAME_564</key>
+    <text xml:space="preserve">野良ポーン28</text>
+  </message>
+  <message>
+    <key>NPC_NAME_565</key>
+    <text xml:space="preserve">野良ポーン29</text>
+  </message>
+  <message>
+    <key>NPC_NAME_566</key>
+    <text xml:space="preserve">野良ポーン30</text>
+  </message>
+  <message>
+    <key>NPC_NAME_567</key>
+    <text xml:space="preserve">野良ポーン31</text>
+  </message>
+  <message>
+    <key>NPC_NAME_568</key>
+    <text xml:space="preserve">野良ポーン32</text>
+  </message>
+  <message>
+    <key>NPC_NAME_569</key>
+    <text xml:space="preserve">野良ポーン33</text>
+  </message>
+  <message>
+    <key>NPC_NAME_570</key>
+    <text xml:space="preserve">野良ポーン34</text>
+  </message>
+  <message>
+    <key>NPC_NAME_571</key>
+    <text xml:space="preserve">野良ポーン35</text>
+  </message>
+  <message>
+    <key>NPC_NAME_572</key>
+    <text xml:space="preserve">野良ポーン36</text>
+  </message>
+  <message>
+    <key>NPC_NAME_573</key>
+    <text xml:space="preserve">野良ポーン37</text>
+  </message>
+  <message>
+    <key>NPC_NAME_574</key>
+    <text xml:space="preserve">野良ポーン38</text>
+  </message>
+  <message>
+    <key>NPC_NAME_575</key>
+    <text xml:space="preserve">野良ポーン39</text>
+  </message>
+  <message>
+    <key>NPC_NAME_576</key>
+    <text xml:space="preserve">野良ポーン40</text>
+  </message>
+  <message>
+    <key>NPC_NAME_577</key>
+    <text xml:space="preserve">野良ポーン41</text>
+  </message>
+  <message>
+    <key>NPC_NAME_578</key>
+    <text xml:space="preserve">野良ポーン42</text>
+  </message>
+  <message>
+    <key>NPC_NAME_579</key>
+    <text xml:space="preserve">野良ポーン43</text>
+  </message>
+  <message>
+    <key>NPC_NAME_580</key>
+    <text xml:space="preserve">野良ポーン44</text>
+  </message>
+  <message>
+    <key>NPC_NAME_581</key>
+    <text xml:space="preserve">野良ポーン45</text>
+  </message>
+  <message>
+    <key>NPC_NAME_582</key>
+    <text xml:space="preserve">野良ポーン46</text>
+  </message>
+  <message>
+    <key>NPC_NAME_583</key>
+    <text xml:space="preserve">野良ポーン47</text>
+  </message>
+  <message>
+    <key>NPC_NAME_584</key>
+    <text xml:space="preserve">野良ポーン48</text>
+  </message>
+  <message>
+    <key>NPC_NAME_585</key>
+    <text xml:space="preserve">野良ポーン49</text>
+  </message>
+  <message>
+    <key>NPC_NAME_586</key>
+    <text xml:space="preserve">野良ポーン50</text>
+  </message>
+  <message>
+    <key>NPC_NAME_587</key>
+    <text xml:space="preserve">野良ポーン51</text>
+  </message>
+  <message>
+    <key>NPC_NAME_588</key>
+    <text xml:space="preserve">野良ポーン52</text>
+  </message>
+  <message>
+    <key>NPC_NAME_589</key>
+    <text xml:space="preserve">野良ポーン53</text>
+  </message>
+  <message>
+    <key>NPC_NAME_590</key>
+    <text xml:space="preserve">野良ポーン54</text>
+  </message>
+  <message>
+    <key>NPC_NAME_591</key>
+    <text xml:space="preserve">野良ポーン55</text>
+  </message>
+  <message>
+    <key>NPC_NAME_592</key>
+    <text xml:space="preserve">野良ポーン56</text>
+  </message>
+  <message>
+    <key>NPC_NAME_593</key>
+    <text xml:space="preserve">野良ポーン57</text>
+  </message>
+  <message>
+    <key>NPC_NAME_594</key>
+    <text xml:space="preserve">野良ポーン58</text>
+  </message>
+  <message>
+    <key>NPC_NAME_595</key>
+    <text xml:space="preserve">野良ポーン59</text>
+  </message>
+  <message>
+    <key>NPC_NAME_596</key>
+    <text xml:space="preserve">野良ポーン60</text>
+  </message>
+  <message>
+    <key>NPC_NAME_597</key>
+    <text xml:space="preserve">野良ポーン61</text>
+  </message>
+  <message>
+    <key>NPC_NAME_598</key>
+    <text xml:space="preserve">野良ポーン62</text>
+  </message>
+  <message>
+    <key>NPC_NAME_599</key>
+    <text xml:space="preserve">野良ポーン63</text>
+  </message>
+  <message>
+    <key>NPC_NAME_600</key>
+    <text xml:space="preserve">野良ポーン64</text>
+  </message>
+  <message>
+    <key>NPC_NAME_601</key>
+    <text xml:space="preserve">野良ポーン65</text>
+  </message>
+  <message>
+    <key>NPC_NAME_602</key>
+    <text xml:space="preserve">野良ポーン66</text>
+  </message>
+  <message>
+    <key>NPC_NAME_603</key>
+    <text xml:space="preserve">野良ポーン67</text>
+  </message>
+  <message>
+    <key>NPC_NAME_604</key>
+    <text xml:space="preserve">野良ポーン68</text>
+  </message>
+  <message>
+    <key>NPC_NAME_605</key>
+    <text xml:space="preserve">野良ポーン69</text>
+  </message>
+  <message>
+    <key>NPC_NAME_606</key>
+    <text xml:space="preserve">野良ポーン70</text>
+  </message>
+  <message>
+    <key>NPC_NAME_607</key>
+    <text xml:space="preserve">野良ポーン71</text>
+  </message>
+  <message>
+    <key>NPC_NAME_608</key>
+    <text xml:space="preserve">野良ポーン72</text>
+  </message>
+  <message>
+    <key>NPC_NAME_609</key>
+    <text xml:space="preserve">野良ポーン73</text>
+  </message>
+  <message>
+    <key>NPC_NAME_610</key>
+    <text xml:space="preserve">野良ポーン74</text>
+  </message>
+  <message>
+    <key>NPC_NAME_611</key>
+    <text xml:space="preserve">野良ポーン75</text>
+  </message>
+  <message>
+    <key>NPC_NAME_612</key>
+    <text xml:space="preserve">野良ポーン76</text>
+  </message>
+  <message>
+    <key>NPC_NAME_613</key>
+    <text xml:space="preserve">野良ポーン77</text>
+  </message>
+  <message>
+    <key>NPC_NAME_614</key>
+    <text xml:space="preserve">野良ポーン78</text>
+  </message>
+  <message>
+    <key>NPC_NAME_615</key>
+    <text xml:space="preserve">野良ポーン79</text>
+  </message>
+  <message>
+    <key>NPC_NAME_616</key>
+    <text xml:space="preserve">野良ポーン80</text>
+  </message>
+  <message>
+    <key>NPC_NAME_617</key>
+    <text xml:space="preserve">野良ポーン81</text>
+  </message>
+  <message>
+    <key>NPC_NAME_618</key>
+    <text xml:space="preserve">野良ポーン82</text>
+  </message>
+  <message>
+    <key>NPC_NAME_619</key>
+    <text xml:space="preserve">野良ポーン83</text>
+  </message>
+  <message>
+    <key>NPC_NAME_620</key>
+    <text xml:space="preserve">野良ポーン84</text>
+  </message>
+  <message>
+    <key>NPC_NAME_621</key>
+    <text xml:space="preserve">野良ポーン85</text>
+  </message>
+  <message>
+    <key>NPC_NAME_622</key>
+    <text xml:space="preserve">野良ポーン86</text>
+  </message>
+  <message>
+    <key>NPC_NAME_623</key>
+    <text xml:space="preserve">野良ポーン87</text>
+  </message>
+  <message>
+    <key>NPC_NAME_624</key>
+    <text xml:space="preserve">野良ポーン88</text>
+  </message>
+  <message>
+    <key>NPC_NAME_625</key>
+    <text xml:space="preserve">野良ポーン89</text>
+  </message>
+  <message>
+    <key>NPC_NAME_626</key>
+    <text xml:space="preserve">野良ポーン90</text>
+  </message>
+  <message>
+    <key>NPC_NAME_627</key>
+    <text xml:space="preserve">野良ポーン91</text>
+  </message>
+  <message>
+    <key>NPC_NAME_628</key>
+    <text xml:space="preserve">野良ポーン92</text>
+  </message>
+  <message>
+    <key>NPC_NAME_629</key>
+    <text xml:space="preserve">野良ポーン93</text>
+  </message>
+  <message>
+    <key>NPC_NAME_630</key>
+    <text xml:space="preserve">野良ポーン94</text>
+  </message>
+  <message>
+    <key>NPC_NAME_631</key>
+    <text xml:space="preserve">野良ポーン95</text>
+  </message>
+  <message>
+    <key>NPC_NAME_632</key>
+    <text xml:space="preserve">野良ポーン96</text>
+  </message>
+  <message>
+    <key>NPC_NAME_633</key>
+    <text xml:space="preserve">野良ポーン97</text>
+  </message>
+  <message>
+    <key>NPC_NAME_634</key>
+    <text xml:space="preserve">野良ポーン98</text>
+  </message>
+  <message>
+    <key>NPC_NAME_635</key>
+    <text xml:space="preserve">野良ポーン99</text>
+  </message>
+  <message>
+    <key>NPC_NAME_636</key>
+    <text xml:space="preserve">野良ポーン100</text>
+  </message>
+  <message>
+    <key>NPC_NAME_767</key>
+    <text xml:space="preserve">男性</text>
+  </message>
+  <message>
+    <key>NPC_NAME_770</key>
+    <text xml:space="preserve">女性</text>
+  </message>
+  <message>
+    <key>NPC_NAME_777</key>
+    <text xml:space="preserve">負傷した男性</text>
+  </message>
+  <message>
+    <key>NPC_NAME_776</key>
+    <text xml:space="preserve">酔っぱらった男</text>
+  </message>
+  <message>
+    <key>NPC_NAME_775</key>
+    <text xml:space="preserve">おびえた様子の女性</text>
+  </message>
+  <message>
+    <key>NPC_NAME_774</key>
+    <text xml:space="preserve">子供連れの女性</text>
+  </message>
+  <message>
+    <key>NPC_NAME_773</key>
+    <text xml:space="preserve">老夫婦</text>
+  </message>
+  <message>
+    <key>NPC_NAME_772</key>
+    <text xml:space="preserve">農夫</text>
+  </message>
+  <message>
+    <key>NPC_NAME_771</key>
+    <text xml:space="preserve">鉱員</text>
+  </message>
+  <message>
+    <key>NPC_NAME_791</key>
+    <text xml:space="preserve">村人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_790</key>
+    <text xml:space="preserve">神官</text>
+  </message>
+  <message>
+    <key>NPC_NAME_789</key>
+    <text xml:space="preserve">冒険者</text>
+  </message>
+  <message>
+    <key>NPC_NAME_788</key>
+    <text xml:space="preserve">賞金稼ぎ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_787</key>
+    <text xml:space="preserve">覚者</text>
+  </message>
+  <message>
+    <key>NPC_NAME_786</key>
+    <text xml:space="preserve">見習い覚者</text>
+  </message>
+  <message>
+    <key>NPC_NAME_785</key>
+    <text xml:space="preserve">商人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_784</key>
+    <text xml:space="preserve">貴族</text>
+  </message>
+  <message>
+    <key>NPC_NAME_783</key>
+    <text xml:space="preserve">戦士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_782</key>
+    <text xml:space="preserve">負傷した戦士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_781</key>
+    <text xml:space="preserve">魔術師</text>
+  </message>
+  <message>
+    <key>NPC_NAME_780</key>
+    <text xml:space="preserve">旅人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_779</key>
+    <text xml:space="preserve">通りすがりの旅人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_778</key>
+    <text xml:space="preserve">音楽家</text>
+  </message>
+  <message>
+    <key>NPC_NAME_792</key>
+    <text xml:space="preserve">少年</text>
+  </message>
+  <message>
+    <key>NPC_NAME_793</key>
+    <text xml:space="preserve">少女</text>
+  </message>
+  <message>
+    <key>NPC_NAME_794</key>
+    <text xml:space="preserve">騎士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_795</key>
+    <text xml:space="preserve">見習い騎士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_796</key>
+    <text xml:space="preserve">古参の騎士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_797</key>
+    <text xml:space="preserve">歴戦の戦士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_798</key>
+    <text xml:space="preserve">古参の覚者</text>
+  </message>
+  <message>
+    <key>NPC_NAME_799</key>
+    <text xml:space="preserve">老婦</text>
+  </message>
+  <message>
+    <key>NPC_NAME_800</key>
+    <text xml:space="preserve">酔っぱらった女</text>
+  </message>
+  <message>
+    <key>NPC_NAME_801</key>
+    <text xml:space="preserve">狩人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_802</key>
+    <text xml:space="preserve">木こり</text>
+  </message>
+  <message>
+    <key>NPC_NAME_803</key>
+    <text xml:space="preserve">盗賊</text>
+  </message>
+  <message>
+    <key>NPC_NAME_804</key>
+    <text xml:space="preserve">酒場の女</text>
+  </message>
+  <message>
+    <key>NPC_NAME_805</key>
+    <text xml:space="preserve">詩人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_806</key>
+    <text xml:space="preserve">鍛冶職人</text>
+  </message>
+  <message>
+    <key>NPC_NAME_807</key>
+    <text xml:space="preserve">ボロをまとった男</text>
+  </message>
+  <message>
+    <key>NPC_NAME_808</key>
+    <text xml:space="preserve">女戦士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_809</key>
+    <text xml:space="preserve">目撃者予備枠18</text>
+  </message>
+  <message>
+    <key>NPC_NAME_810</key>
+    <text xml:space="preserve">目撃者予備枠19</text>
+  </message>
+  <message>
+    <key>NPC_NAME_811</key>
+    <text xml:space="preserve">目撃者予備枠20</text>
+  </message>
+  <message>
+    <key>NPC_NAME_812</key>
+    <text xml:space="preserve">目撃者予備枠21</text>
+  </message>
+  <message>
+    <key>NPC_NAME_813</key>
+    <text xml:space="preserve">目撃者予備枠22</text>
+  </message>
+  <message>
+    <key>NPC_NAME_814</key>
+    <text xml:space="preserve">目撃者予備枠23</text>
+  </message>
+  <message>
+    <key>NPC_NAME_815</key>
+    <text xml:space="preserve">目撃者予備枠24</text>
+  </message>
+  <message>
+    <key>NPC_NAME_816</key>
+    <text xml:space="preserve">目撃者予備枠25</text>
+  </message>
+  <message>
+    <key>NPC_NAME_817</key>
+    <text xml:space="preserve">目撃者予備枠26</text>
+  </message>
+  <message>
+    <key>NPC_NAME_818</key>
+    <text xml:space="preserve">目撃者予備枠27</text>
+  </message>
+  <message>
+    <key>NPC_NAME_819</key>
+    <text xml:space="preserve">目撃者予備枠28</text>
+  </message>
+  <message>
+    <key>NPC_NAME_820</key>
+    <text xml:space="preserve">目撃者予備枠29</text>
+  </message>
+  <message>
+    <key>NPC_NAME_821</key>
+    <text xml:space="preserve">目撃者予備枠30</text>
+  </message>
+  <message>
+    <key>NPC_NAME_637</key>
+    <text xml:space="preserve">救出ポーン1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_638</key>
+    <text xml:space="preserve">救出ポーン2</text>
+  </message>
+  <message>
+    <key>NPC_NAME_639</key>
+    <text xml:space="preserve">救出ポーン3</text>
+  </message>
+  <message>
+    <key>NPC_NAME_640</key>
+    <text xml:space="preserve">救出ポーン4</text>
+  </message>
+  <message>
+    <key>NPC_NAME_641</key>
+    <text xml:space="preserve">救出ポーン5</text>
+  </message>
+  <message>
+    <key>NPC_NAME_642</key>
+    <text xml:space="preserve">救出ポーン6</text>
+  </message>
+  <message>
+    <key>NPC_NAME_643</key>
+    <text xml:space="preserve">救出ポーン7</text>
+  </message>
+  <message>
+    <key>NPC_NAME_644</key>
+    <text xml:space="preserve">救出ポーン8</text>
+  </message>
+  <message>
+    <key>NPC_NAME_645</key>
+    <text xml:space="preserve">救出ポーン9</text>
+  </message>
+  <message>
+    <key>NPC_NAME_646</key>
+    <text xml:space="preserve">救出ポーン10</text>
+  </message>
+  <message>
+    <key>NPC_NAME_647</key>
+    <text xml:space="preserve">共闘ポーン1</text>
+  </message>
+  <message>
+    <key>NPC_NAME_822</key>
+    <text xml:space="preserve">セカンドポーン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_823</key>
+    <text xml:space="preserve">共闘セット用NPC</text>
+  </message>
+</resource>

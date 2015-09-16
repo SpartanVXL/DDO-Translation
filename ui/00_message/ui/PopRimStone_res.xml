@@ -1,0 +1,94 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>RIM_POP_MSG_HEADER_M_HEADER</key>
+    <text xml:space="preserve">検索条件</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_CHARACTER_M_JOB</key>
+    <text xml:space="preserve">ジョブ</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_CHARACTER_M_LV</key>
+    <text xml:space="preserve">レベル</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_CHARACTER_M_SKILL</key>
+    <text xml:space="preserve">スキル</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_CHARACTER_M_CHARACTER</key>
+    <text xml:space="preserve">性別</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_M_ALL</key>
+    <text xml:space="preserve">全て</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_M_UP</key>
+    <text xml:space="preserve">以上</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_SKILL_M_LV</key>
+    <text xml:space="preserve">クラフトレベル</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_SKILL_M_SKILL00</key>
+    <text xml:space="preserve">クラフトスキル</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_SKILL_M_SKILL01</key>
+    <text xml:space="preserve">生産作業スピード</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_SKILL_M_SKILL02</key>
+    <text xml:space="preserve">装備の強化技術</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_SKILL_M_SKILL03</key>
+    <text xml:space="preserve">高品質装備の作成力</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_SKILL_M_SKILL04</key>
+    <text xml:space="preserve">消耗品の生産数アップ</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_SKILL_M_SKILL05</key>
+    <text xml:space="preserve">コストパフォーマンス</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_OWNER_M_OWNER</key>
+    <text xml:space="preserve">オーナー名の指定</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_OWNER_M_FIRST</key>
+    <text xml:space="preserve">First Name</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_OWNER_M_FAMILY</key>
+    <text xml:space="preserve">Family Name</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_OWNER_M_PAWN</key>
+    <text xml:space="preserve">ポーンの名前を指定</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_BTN_SEARCH</key>
+    <text xml:space="preserve">検索する</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_M_DOWN</key>
+    <text xml:space="preserve">以下</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_M_GENDER_ALL</key>
+    <text xml:space="preserve">指定なし</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_M_GENDER_MALE</key>
+    <text xml:space="preserve">男</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_M_GENDER_FEMALE</key>
+    <text xml:space="preserve">女</text>
+  </message>
+</resource>

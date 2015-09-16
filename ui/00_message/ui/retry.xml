@@ -1,0 +1,70 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>RETRY_MSG_REVIVE_MENU_STOCK</key>
+    <text xml:space="preserve">復活力を使用して復活</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_SELECT_ANNOUNCE</key>
+    <text xml:space="preserve">復活方法を選択してください</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_NEAR_OUTPOST</key>
+    <text xml:space="preserve">直前の拠点</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_PENALTY_EXP</key>
+    <text xml:space="preserve">最後に立ち寄った拠点から再開します
+&lt;COL AA1414&gt;状態異常【弱化】が発生します&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_STOCK_EXP</key>
+    <text xml:space="preserve">復活力を使用することで、体力を全快して復活します</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_GOLD_STONE_EXP</key>
+    <text xml:space="preserve">黄金石を&lt;VAL&gt;個使用することで、体力を全快し
+付与効果【強化】を得て復活します
+(黄金石が足りない場合はショップ画面を開きます)</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_DIALOG_GOLD_STONE</key>
+    <text xml:space="preserve">&lt;COL FFFF00&gt;黄金石&lt;/COL&gt;を&lt;VAL&gt;個使用して復活します
+よろしいですか？</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_DIALOG_STOCK</key>
+    <text xml:space="preserve">&lt;COL FFFF00&gt;復活力&lt;/COL&gt;を使用して復活します
+よろしいですか？</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_DIALOG_GPSHOP_OPEN</key>
+    <text xml:space="preserve">黄金石が不足しているのでショップ画面を開きます</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_REVIVE_MENU_TICKET</key>
+    <text xml:space="preserve">黄金石を&lt;VAL&gt;個使用して復活</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_REVIVE_MENU_SHOP</key>
+    <text xml:space="preserve">黄金石を購入して復活</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_REVIVE_MENU_PENALTY</key>
+    <text xml:space="preserve">直前の拠点から再開</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_DIALOG_PENALTY</key>
+    <text xml:space="preserve">から再開します
+よろしいですか？
+&lt;COL AA1414&gt;状態異常【弱化】が発生します&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_REVIVE_MENU_RIM</key>
+    <text xml:space="preserve">リムを使用して復活</text>
+  </message>
+  <message>
+    <key>RETRY_MSG_DIALOG_RIM</key>
+    <text xml:space="preserve">&lt;COL FFFF00&gt;リム&lt;/COL&gt;を&lt;VAL RIM&gt;消費して救出します
+よろしいですか？</text>
+  </message>
+</resource>

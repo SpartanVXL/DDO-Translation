@@ -1,0 +1,90 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>mr_msg_score</key>
+    <text xml:space="preserve">Total Score</text>
+  </message>
+  <message>
+    <key>mr_msg_total</key>
+    <text xml:space="preserve">Grand Total Score</text>
+  </message>
+  <message>
+    <key>mr_msg_element</key>
+    <text xml:space="preserve">項目</text>
+  </message>
+  <message>
+    <key>mr_msg_finish</key>
+    <text xml:space="preserve">完了</text>
+  </message>
+  <message>
+    <key>mr_msg_get</key>
+    <text xml:space="preserve">を獲得！</text>
+  </message>
+  <message>
+    <key>mr_msg_lobby</key>
+    <text xml:space="preserve">秒後にロビーに戻ります</text>
+  </message>
+  <message>
+    <key>mr_msg_no_reward</key>
+    <text xml:space="preserve">報酬はありません</text>
+  </message>
+  <message>
+    <key>mr_msg_no_element</key>
+    <text xml:space="preserve">項目はありません</text>
+  </message>
+  <message>
+    <key>mr_msg_times</key>
+    <text xml:space="preserve">回数</text>
+  </message>
+  <message>
+    <key>mr_msg_sum</key>
+    <text xml:space="preserve">小計</text>
+  </message>
+  <message>
+    <key>mr_msg_deathpenalty</key>
+    <text xml:space="preserve">死亡ペナルティ</text>
+  </message>
+  <message>
+    <key>mr_msg_tec_score</key>
+    <text xml:space="preserve">Technical Score</text>
+  </message>
+  <message>
+    <key>mr_msg_tec_score_best</key>
+    <text xml:space="preserve">Best Technical Score</text>
+  </message>
+  <message>
+    <key>mr_msg_tab_reward</key>
+    <text xml:space="preserve">報酬</text>
+  </message>
+  <message>
+    <key>mr_msg_tab_score</key>
+    <text xml:space="preserve">スコア詳細</text>
+  </message>
+  <message>
+    <key>mr_msg_head_timebonus</key>
+    <text xml:space="preserve">タイムボーナス</text>
+  </message>
+  <message>
+    <key>mr_msg_head_timebonus_powered</key>
+    <text xml:space="preserve">タイムボーナス倍率</text>
+  </message>
+  <message>
+    <key>mr_msg_head_reward_normal</key>
+    <text xml:space="preserve">基本報酬</text>
+  </message>
+  <message>
+    <key>mr_msg_head_reward_parts</key>
+    <text xml:space="preserve">部位破壊報酬</text>
+  </message>
+  <message>
+    <key>mr_msg_head_reward_opcs</key>
+    <text xml:space="preserve">&lt;OPCS&gt;報酬</text>
+  </message>
+  <message>
+    <key>mr_msg_title_en</key>
+    <text xml:space="preserve">Mission Result</text>
+  </message>
+  <message>
+    <key>mr_msg_title_jp</key>
+    <text xml:space="preserve">ミッションリザルト</text>
+  </message>
+</resource>

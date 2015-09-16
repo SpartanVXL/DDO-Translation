@@ -1,0 +1,166 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>REWARD_MSG_LB_CONTENTS</key>
+    <text xml:space="preserve">Contents</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_LB_REWARD_NUMBER</key>
+    <text xml:space="preserve">報酬件数：</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_LB_POCKET_G</key>
+    <text xml:space="preserve">所持金</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_LB_POCKET_R</key>
+    <text xml:space="preserve">所持リム</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_LB_POCKET_BO</key>
+    <text xml:space="preserve">所持ブラッドオーブ</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_LB_SOUKO</key>
+    <text xml:space="preserve">保管ボックス</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_TAB_COMSUME</key>
+    <text xml:space="preserve">消費アイテム</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_TAB_MATERIAL</key>
+    <text xml:space="preserve">素材</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_TAB_EQUIPMENT</key>
+    <text xml:space="preserve">武具</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_TAB_JOB</key>
+    <text xml:space="preserve">特殊アイテム</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_LB_STUFF</key>
+    <text xml:space="preserve">&lt;VAL&gt;/100</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NOTION_ITEMOVER</key>
+    <text xml:space="preserve">保管ボックスがあふれてしまうため受け取りできません</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NOTION_PLZ_PICK</key>
+    <text xml:space="preserve">選択報酬を選んでください</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NOTION_PLZ_ONE</key>
+    <text xml:space="preserve">１つ選んでください</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_REWARD_COMMON</key>
+    <text xml:space="preserve">基本報酬</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_REWARD_PREMIAM</key>
+    <text xml:space="preserve">&lt;OPCS&gt;報酬</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_BUTTON_ALLGET</key>
+    <text xml:space="preserve">全て受け取る</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_BUTTON_END</key>
+    <text xml:space="preserve">一部受け取る</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_BUTTON_CANCEL</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NOTION_ALLGET</key>
+    <text xml:space="preserve">全ての報酬を受け取りますか？</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NOTION_BUY</key>
+    <text xml:space="preserve">チェックを付けていない報酬は売却されます
+(未選択の選択報酬は破棄されます)
+よろしいですか？
+売却合計額：&lt;VAL G&gt;</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NOTION_CANCEL</key>
+    <text xml:space="preserve">報酬受け取りをやめます</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_YES</key>
+    <text xml:space="preserve">はい</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NO</key>
+    <text xml:space="preserve">いいえ</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NOTION_FAILURE</key>
+    <text xml:space="preserve">報酬受け取りに失敗しました</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NOTION_FINISH</key>
+    <text xml:space="preserve">報酬を保管ボックスに受け取りました</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_ANNOUNCE_QCLEAR</key>
+    <text xml:space="preserve">クエスト報酬が報酬ボックスに入りました</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_REWARD_BONUS</key>
+    <text xml:space="preserve">ボーナス報酬</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_STOP_PLZ_PICK</key>
+    <text xml:space="preserve">選択報酬が選ばれていないため
+「全て受け取り」ができません</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_STOP_ITEMOVER</key>
+    <text xml:space="preserve">保管ボックスが入りきらないため
+「全て受け取り」ができません</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_KIND_RANKING</key>
+    <text xml:space="preserve">ランキング報酬</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_KIND_BORDER</key>
+    <text xml:space="preserve">累計スコア報酬</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_KIND_QUEST</key>
+    <text xml:space="preserve">クエスト報酬</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NOTICE_SELL</key>
+    <text xml:space="preserve">チェックを付けていない報酬は売却されます
+(未選択の選択報酬は破棄されます)
+よろしいですか？
+売却合計額：&lt;VAL GOLD&gt;</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_TITLE</key>
+    <text xml:space="preserve">Reward</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_TITLE_SUB</key>
+    <text xml:space="preserve">報酬受け取り</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_KIND_SUPPORT</key>
+    <text xml:space="preserve">アシスト報酬</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_NO_REWOARD</key>
+    <text xml:space="preserve">報酬はありません</text>
+  </message>
+  <message>
+    <key>REWARD_MSG_ALL_DELETE</key>
+    <text xml:space="preserve">報酬を売却しました</text>
+  </message>
+</resource>

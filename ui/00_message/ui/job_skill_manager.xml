@@ -1,0 +1,248 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>title_change_job_skill</key>
+    <text xml:space="preserve">転職・戦技補佐</text>
+  </message>
+  <message>
+    <key>title_change_skill</key>
+    <text xml:space="preserve">戦技補佐</text>
+  </message>
+  <message>
+    <key>option_change_job</key>
+    <text xml:space="preserve">転職</text>
+  </message>
+  <message>
+    <key>option_change_skill</key>
+    <text xml:space="preserve">スキル習得/装備</text>
+  </message>
+  <message>
+    <key>option_change_ability</key>
+    <text xml:space="preserve">アビリティ習得/装備</text>
+  </message>
+  <message>
+    <key>heading_change_skill_ability</key>
+    <text xml:space="preserve">スキル・アビリティ習得/装備</text>
+  </message>
+  <message>
+    <key>tab_normal_skill</key>
+    <text xml:space="preserve">ノーマルスキル</text>
+  </message>
+  <message>
+    <key>tab_custom_skill</key>
+    <text xml:space="preserve">カスタムスキル</text>
+  </message>
+  <message>
+    <key>tab_ability</key>
+    <text xml:space="preserve">アビリティ</text>
+  </message>
+  <message>
+    <key>button_get</key>
+    <text xml:space="preserve">習得</text>
+  </message>
+  <message>
+    <key>button_levelup</key>
+    <text xml:space="preserve">LV.UP</text>
+  </message>
+  <message>
+    <key>button_levelmax</key>
+    <text xml:space="preserve">LV.MAX</text>
+  </message>
+  <message>
+    <key>heading_current_skill</key>
+    <text xml:space="preserve">Set Custom Skill</text>
+  </message>
+  <message>
+    <key>heading_current_ability</key>
+    <text xml:space="preserve">Set Ability</text>
+  </message>
+  <message>
+    <key>option_filter</key>
+    <text xml:space="preserve">フィルタ</text>
+  </message>
+  <message>
+    <key>option_preset</key>
+    <text xml:space="preserve">プリセットリスト</text>
+  </message>
+  <message>
+    <key>option_apply</key>
+    <text xml:space="preserve">プリセットの装備</text>
+  </message>
+  <message>
+    <key>option_overwrite</key>
+    <text xml:space="preserve">装備中のアビリティを登録</text>
+  </message>
+  <message>
+    <key>option_rename</key>
+    <text xml:space="preserve">プリセット名の編集</text>
+  </message>
+  <message>
+    <key>error_joblevel</key>
+    <text xml:space="preserve">ジョブレベルが不足しています</text>
+  </message>
+  <message>
+    <key>error_jp</key>
+    <text xml:space="preserve">所持&lt;UNIT JP&gt;が不足しています</text>
+  </message>
+  <message>
+    <key>error_both</key>
+    <text xml:space="preserve">ジョブレベル・所持&lt;UNIT JP&gt;が不足しています</text>
+  </message>
+  <message>
+    <key>dialog_job_change</key>
+    <text xml:space="preserve">&lt;NAME JOB&gt;に転職しますか？</text>
+  </message>
+  <message>
+    <key>dialog_learn</key>
+    <text xml:space="preserve">&lt;VAL JP&gt;を消費して習得します
+よろしいですか？</text>
+  </message>
+  <message>
+    <key>dialog_lvup</key>
+    <text xml:space="preserve">&lt;VAL JP&gt;を消費してレベルアップします
+よろしいですか？</text>
+  </message>
+  <message>
+    <key>dropdown_ability_search</key>
+    <text xml:space="preserve">検索結果</text>
+  </message>
+  <message>
+    <key>announce_ability_search_result</key>
+    <text xml:space="preserve">&lt;VAL&gt;件見つかりました</text>
+  </message>
+  <message>
+    <key>job_infomation_window_title_infomation</key>
+    <text xml:space="preserve">Information</text>
+  </message>
+  <message>
+    <key>job_infomation_window_heading_caption</key>
+    <text xml:space="preserve">Details</text>
+  </message>
+  <message>
+    <key>job_infomation_window_heading_weapon</key>
+    <text xml:space="preserve">Weapons</text>
+  </message>
+  <message>
+    <key>heading_normal_skill</key>
+    <text xml:space="preserve">Normal Skills</text>
+  </message>
+  <message>
+    <key>heading_custom_skill</key>
+    <text xml:space="preserve">Custom Skills</text>
+  </message>
+  <message>
+    <key>heading_ability</key>
+    <text xml:space="preserve">Abilities</text>
+  </message>
+  <message>
+    <key>heading_command</key>
+    <text xml:space="preserve">Command</text>
+  </message>
+  <message>
+    <key>error_cost_over</key>
+    <text xml:space="preserve">コストオーバーでセットできません</text>
+  </message>
+  <message>
+    <key>error_set_already</key>
+    <text xml:space="preserve">既にセット済みです</text>
+  </message>
+  <message>
+    <key>ability_type_secret</key>
+    <text xml:space="preserve">シークレットアビリティ</text>
+  </message>
+  <message>
+    <key>heading_change_skill_ability_eng</key>
+    <text xml:space="preserve">Skills/Abilities</text>
+  </message>
+  <message>
+    <key>custom_skill_cmd_title</key>
+    <text xml:space="preserve">操作選択</text>
+  </message>
+  <message>
+    <key>custom_skill_cmd_remove</key>
+    <text xml:space="preserve">はずす</text>
+  </message>
+  <message>
+    <key>btn_guide_set_ability</key>
+    <text xml:space="preserve">アビリティの装備</text>
+  </message>
+  <message>
+    <key>btn_guide_sub_menu</key>
+    <text xml:space="preserve">サブメニュー</text>
+  </message>
+  <message>
+    <key>ability_search_check_all</key>
+    <text xml:space="preserve">全て</text>
+  </message>
+  <message>
+    <key>title_preset_ability</key>
+    <text xml:space="preserve">Ability Set</text>
+  </message>
+  <message>
+    <key>need_level_to_get</key>
+    <text xml:space="preserve">ジョブレベル：&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>error_server_request_fail</key>
+    <text xml:space="preserve">通信リクエストに失敗しました</text>
+  </message>
+  <message>
+    <key>get_conditions</key>
+    <text xml:space="preserve">習得条件</text>
+  </message>
+  <message>
+    <key>need_jp_to_get</key>
+    <text xml:space="preserve">ジョブポイント：&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>level_up_conditions</key>
+    <text xml:space="preserve">次のレベルアップ条件</text>
+  </message>
+  <message>
+    <key>heading_skill</key>
+    <text xml:space="preserve">Skills</text>
+  </message>
+  <message>
+    <key>preset_default_name</key>
+    <text xml:space="preserve">プリセット</text>
+  </message>
+  <message>
+    <key>preset_unregist</key>
+    <text xml:space="preserve">未登録</text>
+  </message>
+  <message>
+    <key>job_change_error_capacity_over</key>
+    <text xml:space="preserve">保管ボックスの空きが足りません</text>
+  </message>
+  <message>
+    <key>job_change_error_no_weapon</key>
+    <text xml:space="preserve">装備できる武器がありません</text>
+  </message>
+  <message>
+    <key>job_change_error_certain_reason</key>
+    <text xml:space="preserve">転職に失敗しました</text>
+  </message>
+  <message>
+    <key>release_condition_master_subject</key>
+    <text xml:space="preserve">ジョブマスターの課題をクリアする</text>
+  </message>
+  <message>
+    <key>job_msg_job</key>
+    <text xml:space="preserve">ジョブ</text>
+  </message>
+  <message>
+    <key>job_msg_category</key>
+    <text xml:space="preserve">カテゴリー</text>
+  </message>
+  <message>
+    <key>job_msg_normal_skill_j</key>
+    <text xml:space="preserve">ノーマルスキル</text>
+  </message>
+  <message>
+    <key>job_msg_custom_skill_j</key>
+    <text xml:space="preserve">カスタムスキル</text>
+  </message>
+  <message>
+    <key>job_msg_total_job_level</key>
+    <text xml:space="preserve">Total &lt;VAL LV&gt;</text>
+  </message>
+</resource>

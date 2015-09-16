@@ -1,0 +1,360 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>OS_catalog_pawn</key>
+    <text xml:space="preserve">クラフトマスターポーン</text>
+  </message>
+  <message>
+    <key>OS_index_en</key>
+    <text xml:space="preserve">Online Shop</text>
+  </message>
+  <message>
+    <key>OS_index_jp</key>
+    <text xml:space="preserve">オンラインショップ</text>
+  </message>
+  <message>
+    <key>OS_menu_gs_buy</key>
+    <text xml:space="preserve">黄金石の購入</text>
+  </message>
+  <message>
+    <key>OS_menu_status</key>
+    <text xml:space="preserve">ステータスの確認</text>
+  </message>
+  <message>
+    <key>OS_title_gs_buy</key>
+    <text xml:space="preserve">黄金石の購入</text>
+  </message>
+  <message>
+    <key>OS_cap_remnant</key>
+    <text xml:space="preserve">CAP残高</text>
+  </message>
+  <message>
+    <key>OS_cap</key>
+    <text xml:space="preserve">CAP</text>
+  </message>
+  <message>
+    <key>OS_relogin</key>
+    <text xml:space="preserve">COGのログインが切れています
+ブラウザからCOG認証を行ってください</text>
+  </message>
+  <message>
+    <key>OS_cogid</key>
+    <text xml:space="preserve">COG ID</text>
+  </message>
+  <message>
+    <key>OS_status_title</key>
+    <text xml:space="preserve">黄金石ステータス</text>
+  </message>
+  <message>
+    <key>OS_status_bkbtn</key>
+    <text xml:space="preserve">黄金石ショップ</text>
+  </message>
+  <message>
+    <key>OS_status_ticket</key>
+    <text xml:space="preserve">Ticket</text>
+  </message>
+  <message>
+    <key>OS_status_cticket</key>
+    <text xml:space="preserve">シルバーチケット</text>
+  </message>
+  <message>
+    <key>OS_status_usecourse</key>
+    <text xml:space="preserve">Used Passport and Course</text>
+  </message>
+  <message>
+    <key>OS_status_time_remaining</key>
+    <text xml:space="preserve">使用期限：</text>
+  </message>
+  <message>
+    <key>OS_status_time</key>
+    <text xml:space="preserve">時間</text>
+  </message>
+  <message>
+    <key>OS_status_newcourse</key>
+    <text xml:space="preserve">未使用コース</text>
+  </message>
+  <message>
+    <key>OS_status_history</key>
+    <text xml:space="preserve">黄金石使用履歴</text>
+  </message>
+  <message>
+    <key>OS_status</key>
+    <text xml:space="preserve">ステータス</text>
+  </message>
+  <message>
+    <key>OS_buy_item</key>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; を 黄金石 &lt;VAL&gt; 個で購入します
+よろしいですか？</text>
+  </message>
+  <message>
+    <key>OS_buy_goldstone</key>
+    <text xml:space="preserve">黄金石 &lt;VAL&gt; 個を &lt;VAL CAP&gt;で購入します
+よろしいですか？</text>
+  </message>
+  <message>
+    <key>OS_btn_ok</key>
+    <text xml:space="preserve">購入</text>
+  </message>
+  <message>
+    <key>OS_btn_ng</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+  <message>
+    <key>OS_catalog_pickup</key>
+    <text xml:space="preserve">ピックアップ</text>
+  </message>
+  <message>
+    <key>OS_catalog_option</key>
+    <text xml:space="preserve">&lt;OPCS&gt;</text>
+  </message>
+  <message>
+    <key>OS_catalog_wepon</key>
+    <text xml:space="preserve">武具・防具</text>
+  </message>
+  <message>
+    <key>OS_status_time_remaining_day</key>
+    <text xml:space="preserve">日</text>
+  </message>
+  <message>
+    <key>OS_date</key>
+    <text xml:space="preserve">&lt;DATE&gt;</text>
+  </message>
+  <message>
+    <key>OS_cod_impression</key>
+    <text xml:space="preserve">COG認証</text>
+  </message>
+  <message>
+    <key>OS_used_btn</key>
+    <text xml:space="preserve">使用中</text>
+  </message>
+  <message>
+    <key>OS_use_btn</key>
+    <text xml:space="preserve">使用</text>
+  </message>
+  <message>
+    <key>OS_use_confirm</key>
+    <text xml:space="preserve">&lt;NAME ITEM&gt;をいますぐ使用しますか？</text>
+  </message>
+  <message>
+    <key>OS_use_item</key>
+    <text xml:space="preserve">&lt;NAME ITEM&gt;を使用します
+よろしいですか？</text>
+  </message>
+  <message>
+    <key>OS_goldstone_num</key>
+    <text xml:space="preserve">黄金石 &lt;VAL&gt; 個</text>
+  </message>
+  <message>
+    <key>OS_announce_buy_item</key>
+    <text xml:space="preserve">&lt;NAME ETC&gt; を購入しました</text>
+  </message>
+  <message>
+    <key>OS_announce_buy_use_item</key>
+    <text xml:space="preserve">&lt;NAME ETC&gt; を購入して使用しました</text>
+  </message>
+  <message>
+    <key>OS_announce_buy_gs</key>
+    <text xml:space="preserve">黄金石 &lt;VAL&gt; 個を購入しました</text>
+  </message>
+  <message>
+    <key>OS_announce_use_item</key>
+    <text xml:space="preserve">&lt;NAME ETC&gt; を使用しました</text>
+  </message>
+  <message>
+    <key>OS_announce_voice</key>
+    <text xml:space="preserve">ポーンボイス</text>
+  </message>
+  <message>
+    <key>OS_announce_buy</key>
+    <text xml:space="preserve">&lt;NAME ETC&gt; を購入しました</text>
+  </message>
+  <message>
+    <key>OS_announce_buyanduse</key>
+    <text xml:space="preserve">&lt;NAME ETC&gt; を購入して使用しました</text>
+  </message>
+  <message>
+    <key>OS_announce_buygs</key>
+    <text xml:space="preserve">黄金石 &lt;VAL&gt; 個を購入しました</text>
+  </message>
+  <message>
+    <key>OS_announce_use</key>
+    <text xml:space="preserve">&lt;NAME ETC&gt; を使用しました</text>
+  </message>
+  <message>
+    <key>OS_announce_havingnum</key>
+    <text xml:space="preserve">所持数：&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>OS_announce_gpdialog</key>
+    <text xml:space="preserve">黄金石の確認</text>
+  </message>
+  <message>
+    <key>OS_catalog_collabo</key>
+    <text xml:space="preserve">コラボレーション装備</text>
+  </message>
+  <message>
+    <key>OS_buy_cap</key>
+    <text xml:space="preserve">CAPチャージ</text>
+  </message>
+  <message>
+    <key>OS_catalog_passport</key>
+    <text xml:space="preserve">パスポート</text>
+  </message>
+  <message>
+    <key>OS_index_status_en</key>
+    <text xml:space="preserve">Online Station</text>
+  </message>
+  <message>
+    <key>OS_index_status_jp</key>
+    <text xml:space="preserve">オンラインステーション</text>
+  </message>
+  <message>
+    <key>OS_histry_information</key>
+    <text xml:space="preserve">最新50件(古い履歴から順に削除されます)</text>
+  </message>
+  <message>
+    <key>OS_annnounce_nocap</key>
+    <text xml:space="preserve">戦闘中にCAPの購入はできません</text>
+  </message>
+  <message>
+    <key>OS_annnounce_multi_option</key>
+    <text xml:space="preserve">ダブル特典・トリプル特典対象商品です</text>
+  </message>
+  <message>
+    <key>OS_annnounce_nolist</key>
+    <text xml:space="preserve">表示するリストがありません</text>
+  </message>
+  <message>
+    <key>OS_annnounce_for_itempost</key>
+    <text xml:space="preserve">装備・アイテムの受け取りは
+アイテムポストをご確認ください</text>
+  </message>
+  <message>
+    <key>OS_annnounce_for_rimstone</key>
+    <text xml:space="preserve">クラフトマスターポーンのご利用は
+リムストーンで行えます</text>
+  </message>
+  <message>
+    <key>OS_annnounce_for_beautyshop</key>
+    <text xml:space="preserve">ポーンボイスの設定は美容院で行えます</text>
+  </message>
+  <message>
+    <key>OS_activetetimer_remaining</key>
+    <text xml:space="preserve">有効期限：</text>
+  </message>
+  <message>
+    <key>OS_index_category</key>
+    <text xml:space="preserve">Category</text>
+  </message>
+  <message>
+    <key>OS_index_management</key>
+    <text xml:space="preserve">COGアカウント管理</text>
+  </message>
+  <message>
+    <key>OS_index_active</key>
+    <text xml:space="preserve">発動中</text>
+  </message>
+  <message>
+    <key>OS_index_caption</key>
+    <text xml:space="preserve">Details</text>
+  </message>
+  <message>
+    <key>OS_index_price</key>
+    <text xml:space="preserve">価格：</text>
+  </message>
+  <message>
+    <key>OS_index_yen</key>
+    <text xml:space="preserve">円</text>
+  </message>
+  <message>
+    <key>OS_index_exrecord</key>
+    <text xml:space="preserve">COG購入履歴（CAPの購入・継続利用権）</text>
+  </message>
+  <message>
+    <key>OS_index_record</key>
+    <text xml:space="preserve">COG購入履歴</text>
+  </message>
+  <message>
+    <key>OS_index_loginskip</key>
+    <text xml:space="preserve">ログインスキップ設定</text>
+  </message>
+  <message>
+    <key>OS_index_loginskip_in_decide</key>
+    <text xml:space="preserve">決済時のログインスキップ：</text>
+  </message>
+  <message>
+    <key>OS_index_valid</key>
+    <text xml:space="preserve">有効</text>
+  </message>
+  <message>
+    <key>OS_index_invalid</key>
+    <text xml:space="preserve">無効</text>
+  </message>
+  <message>
+    <key>OS_index_loginskip_disable</key>
+    <text xml:space="preserve">ログインスキップの解除</text>
+  </message>
+  <message>
+    <key>OS_index_change_payment</key>
+    <text xml:space="preserve">クレジットカード登録情報変更</text>
+  </message>
+  <message>
+    <key>OS_index_change_records</key>
+    <text xml:space="preserve">登録情報変更</text>
+  </message>
+  <message>
+    <key>OS_index_cancell_passport</key>
+    <text xml:space="preserve">パスポート（クレジットカード継続）の解約</text>
+  </message>
+  <message>
+    <key>OS_index_manage_charge</key>
+    <text xml:space="preserve">継続利用権 管理</text>
+  </message>
+  <message>
+    <key>OS_index_pass_cource</key>
+    <text xml:space="preserve">&lt;OPCS&gt;</text>
+  </message>
+  <message>
+    <key>OS_index_equipment_item</key>
+    <text xml:space="preserve">装備・アイテム</text>
+  </message>
+  <message>
+    <key>OS_index_none</key>
+    <text xml:space="preserve">なし</text>
+  </message>
+  <message>
+    <key>OS_catalog_pawn2</key>
+    <text xml:space="preserve">クラフトマスターポーン</text>
+  </message>
+  <message>
+    <key>OS_announce_voice2</key>
+    <text xml:space="preserve">ポーンボイス</text>
+  </message>
+  <message>
+    <key>OS_index_eninvalid</key>
+    <text xml:space="preserve">無効にする</text>
+  </message>
+  <message>
+    <key>OS_dialog_is_invalid_logskip</key>
+    <text xml:space="preserve">決済時のログインスキップを無効化しますか？</text>
+  </message>
+  <message>
+    <key>OS_dialog_done_invalid_logskip</key>
+    <text xml:space="preserve">決済時のログインスキップを無効化しました</text>
+  </message>
+  <message>
+    <key>OS_index_mode_browser</key>
+    <text xml:space="preserve">ブラウザ操作</text>
+  </message>
+  <message>
+    <key>OS_index_mode_shop</key>
+    <text xml:space="preserve">ショップ操作</text>
+  </message>
+  <message>
+    <key>OS_annnounce_nocap1</key>
+    <text xml:space="preserve">今の状況ではCAPの購入はできません</text>
+  </message>
+  <message>
+    <key>OS_annnounce_purchased</key>
+    <text xml:space="preserve">&lt;NAME ETC&gt; は既に購入済みです</text>
+  </message>
+</resource>

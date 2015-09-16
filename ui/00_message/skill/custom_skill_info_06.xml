@@ -1,0 +1,59 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_68</key>
+    <text xml:space="preserve">魔力を溜めた後、
+広範囲に向けてブレス状の炎を放つ
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で動作終了間際に追加入力することで
+往復攻撃可能&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_72</key>
+    <text xml:space="preserve">自身を中心に、一定範囲をカバーする
+雷属性の魔法を放つ
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃範囲拡大&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_74</key>
+    <text xml:space="preserve">魔力を溜めた後、闇の霧を発生させる
+霧は敵にまとわりつき、継続ダメージを与える
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で継続時間延長／攻撃ヒット数増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_71</key>
+    <text xml:space="preserve">魔力を溜めた後、
+敵の足元から巨大な氷の塊を出現させる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で術始動時に範囲攻撃追加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_69</key>
+    <text xml:space="preserve">魔力を溜めた後、
+高い炎の壁を作り出す
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃範囲拡大&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_73</key>
+    <text xml:space="preserve">魔力を溜めた後、大杖を振りかざして
+雷・斬属性を持つ円月状の衝撃波を放つ
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で衝撃波が３方向化&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_75</key>
+    <text xml:space="preserve">魔力を溜めた後、地を揺らし岩塊を隆起させ、
+闇・打属性によるダメージを与える
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で岩塊数が増加（１→２）&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_70</key>
+    <text xml:space="preserve">魔力を溜めた後、
+敵の頭上に燃え盛る隕石を落下させる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で隕石弾数が増加（４→７）&lt;/COL&gt;</text>
+  </message>
+</resource>

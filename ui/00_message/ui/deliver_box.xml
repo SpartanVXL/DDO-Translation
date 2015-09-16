@@ -1,0 +1,43 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>DELIVER_MSG_TITLE01</key>
+    <text xml:space="preserve">Quest List</text>
+  </message>
+  <message>
+    <key>DELIVER_MSG_TITLE02</key>
+    <text xml:space="preserve">クエストリスト</text>
+  </message>
+  <message>
+    <key>DELIVER_MSG_CAPTION_EN</key>
+    <text xml:space="preserve">Delivery Item</text>
+  </message>
+  <message>
+    <key>DELIVER_MSG_CAPTION_JP</key>
+    <text xml:space="preserve">納品アイテム</text>
+  </message>
+  <message>
+    <key>DELIVER_MSG_NOTION_NOQUEST</key>
+    <text xml:space="preserve">納品が必要なボードクエストを受注していません</text>
+  </message>
+  <message>
+    <key>DELIVER_MSG_LB_GOAL</key>
+    <text xml:space="preserve">目標納品数</text>
+  </message>
+  <message>
+    <key>DELIVER_MSG_NOTION_DELIVER</key>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; × &lt;VAL&gt; を納品しました</text>
+  </message>
+  <message>
+    <key>DELIVER_MSG_NOTION_FINISH</key>
+    <text xml:space="preserve">「&lt;NAME QUEST&gt;」
+納品目標を全て達成しました</text>
+  </message>
+  <message>
+    <key>DELIVER_MSG_BUTTON_FINISH</key>
+    <text xml:space="preserve">完了</text>
+  </message>
+  <message>
+    <key>DELIVER_MSG_BUTTON_END</key>
+    <text xml:space="preserve">キャンセル</text>
+  </message>
+</resource>

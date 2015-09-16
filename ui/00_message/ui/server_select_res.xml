@@ -1,0 +1,42 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>server_sel_page_change</key>
+    <text xml:space="preserve">ページ切り替え</text>
+  </message>
+  <message>
+    <key>server_sel_plinfo</key>
+    <text xml:space="preserve">プレイヤー情報</text>
+  </message>
+  <message>
+    <key>server_sel_server_en</key>
+    <text xml:space="preserve">World Select</text>
+  </message>
+  <message>
+    <key>server_sel_server_jp</key>
+    <text xml:space="preserve">ワールド選択</text>
+  </message>
+  <message>
+    <key>server_sel_lobby_en</key>
+    <text xml:space="preserve">Lobby Select</text>
+  </message>
+  <message>
+    <key>server_sel_lobby_jp</key>
+    <text xml:space="preserve">ロビー選択</text>
+  </message>
+  <message>
+    <key>server_sel_crowded</key>
+    <text xml:space="preserve">混雑</text>
+  </message>
+  <message>
+    <key>server_sel_msg_lobby</key>
+    <text xml:space="preserve">LOBBY</text>
+  </message>
+  <message>
+    <key>server_sel_ver</key>
+    <text xml:space="preserve">ver</text>
+  </message>
+  <message>
+    <key>server_sel_player</key>
+    <text xml:space="preserve">プレイヤー情報取得</text>
+  </message>
+</resource>

@@ -1,0 +1,214 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>msg_SUB_MENU_PROFILE</key>
+    <text xml:space="preserve">覚者プロフィールを見る</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_STATUS</key>
+    <text xml:space="preserve">ステータス・装備を確認する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_TELL</key>
+    <text xml:space="preserve">話しかける(Tell)</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_FRIEND</key>
+    <text xml:space="preserve">フレンド申請をする</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_KICK</key>
+    <text xml:space="preserve">パーティーから外す</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_LEADER</key>
+    <text xml:space="preserve">パーティーリーダーに任命する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_CANCEL_INVITE</key>
+    <text xml:space="preserve">パーティー勧誘をやめる</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_INVITE</key>
+    <text xml:space="preserve">パーティーに誘う</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PARTY_DETAIL</key>
+    <text xml:space="preserve">パーティーメンバーの確認</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PARTY_JOIN</key>
+    <text xml:space="preserve">パーティーに参加する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PARTY_DECLINE</key>
+    <text xml:space="preserve">パーティー勧誘を断る</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_APPLY_CLAN</key>
+    <text xml:space="preserve">クランへの加入申請をする</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_CANCEL_APPLY_CLAN</key>
+    <text xml:space="preserve">クランへの加入申請を取り消す</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_ALLOW_APPLY_CLAN</key>
+    <text xml:space="preserve">クランへの加入を許可する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_DENY_APPLY_CLAN</key>
+    <text xml:space="preserve">クランへの加入を拒否する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_CLAN_DETAIL</key>
+    <text xml:space="preserve">クラン詳細情報</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_CLAN_INVITE</key>
+    <text xml:space="preserve">クランに勧誘する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_CANCEL_CLAN_INVITE</key>
+    <text xml:space="preserve">クランへの誘いを取り消す</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_ALLOW_INVITE_CLAN</key>
+    <text xml:space="preserve">クランからの誘いを許可する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_DENY_INVITE_CLAN</key>
+    <text xml:space="preserve">クランからの誘いを拒否する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_EXPEL_CLAN_MEMBER</key>
+    <text xml:space="preserve">クランから除名する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_CHANGE_CLAN_MASTER</key>
+    <text xml:space="preserve">クランマスターを委譲する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_SET_CLAN_LEADER</key>
+    <text xml:space="preserve">クランサブマスターに任命する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_RESET_CLAN_LEADER</key>
+    <text xml:space="preserve">クランサブマスターを解除する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_CANCEL_FRIEND</key>
+    <text xml:space="preserve">フレンド申請を取り消す</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_ALLOW_APPLY_FRIEND</key>
+    <text xml:space="preserve">フレンド申請を許可する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_DENY_APPLY_FRIEND</key>
+    <text xml:space="preserve">フレンド申請を拒否する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_REMOVE_FRIEND</key>
+    <text xml:space="preserve">フレンドを解除する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_FAVORITE_FRIEND</key>
+    <text xml:space="preserve">フレンドお気に入り登録</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_FAVORITE_PAWN</key>
+    <text xml:space="preserve">ポーンお気に入り登録</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_FAVORITE_OFF</key>
+    <text xml:space="preserve">お気に入り登録解除</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_RENTAL_PAWN</key>
+    <text xml:space="preserve">ポーンを雇用する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_CUSTOMIZE_PAWN</key>
+    <text xml:space="preserve">ポーンのリアクション設定</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PAWN_DELETE</key>
+    <text xml:space="preserve">ポーンの削除</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PAWN_REG_SETTING</key>
+    <text xml:space="preserve">ポーンの貸し出し制限</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PAWN_HISTORY</key>
+    <text xml:space="preserve">ポーンのレンタル履歴</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PAWN_RETURN</key>
+    <text xml:space="preserve">ポーンを返却する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_CARD</key>
+    <text xml:space="preserve">覚者プロフィールを見る</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_GROUP_CHAT</key>
+    <text xml:space="preserve">グループチャットに誘う</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_GROUP_CHAT_KICK</key>
+    <text xml:space="preserve">グループチャットから外す</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_AUTORUN</key>
+    <text xml:space="preserve">追従オートラン</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_ADD_BLACKLIST</key>
+    <text xml:space="preserve">ブラックリスト登録</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_REMOVE_BLACKLIST</key>
+    <text xml:space="preserve">ブラックリスト登録解除</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_DELETE_MAIL</key>
+    <text xml:space="preserve">メール削除</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PARTY_BREAKUP</key>
+    <text xml:space="preserve">パーティー解散</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_START_QUICKPARTY</key>
+    <text xml:space="preserve">クイックパーティーを開始する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_EDIT_QUICKPARTY</key>
+    <text xml:space="preserve">設定の編集</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PAWN_CARD</key>
+    <text xml:space="preserve">ポーンプロフィールを見る</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_FAVORITE_FRIEND_OFF</key>
+    <text xml:space="preserve">フレンドお気に入り登録解除</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_FAVORITE_PAWN_OFF</key>
+    <text xml:space="preserve">ポーンお気に入り登録解除</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_LOST_PAWN_RESCUE</key>
+    <text xml:space="preserve">救出する</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PAWN_TALK</key>
+    <text xml:space="preserve">話しかける</text>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_SP_DISTRIBUTE</key>
+    <text xml:space="preserve">レンタルポイントを割り振る</text>
+  </message>
+</resource>

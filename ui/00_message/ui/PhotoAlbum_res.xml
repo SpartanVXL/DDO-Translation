@@ -1,0 +1,58 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>album_msg_header_j</key>
+    <text xml:space="preserve">プレビュー</text>
+  </message>
+  <message>
+    <key>album_msg_header_e</key>
+    <text xml:space="preserve">Photo Preview</text>
+  </message>
+  <message>
+    <key>album_msg_category</key>
+    <text xml:space="preserve">Category</text>
+  </message>
+  <message>
+    <key>album_msg_photo_num</key>
+    <text xml:space="preserve">アルバム保存枚数：</text>
+  </message>
+  <message>
+    <key>album_msg_title_j</key>
+    <text xml:space="preserve">アルバム</text>
+  </message>
+  <message>
+    <key>album_msg_title_e</key>
+    <text xml:space="preserve">Photo Album</text>
+  </message>
+  <message>
+    <key>album_msg_enfullsize</key>
+    <text xml:space="preserve">全画面表示</text>
+  </message>
+  <message>
+    <key>album_msg_date</key>
+    <text xml:space="preserve">&lt;DATE&gt;</text>
+  </message>
+  <message>
+    <key>album_msg_separation</key>
+    <text xml:space="preserve">/</text>
+  </message>
+  <message>
+    <key>album_msg_time</key>
+    <text xml:space="preserve">&lt;TIME&gt;</text>
+  </message>
+  <message>
+    <key>album_msg_num</key>
+    <text xml:space="preserve">&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>album_msg_conf_delete</key>
+    <text xml:space="preserve">写真を削除します。よろしいですか？</text>
+  </message>
+  <message>
+    <key>album_msg_photo_up</key>
+    <text xml:space="preserve">写真の投稿</text>
+  </message>
+  <message>
+    <key>album_msg_non_photo_up</key>
+    <text xml:space="preserve">撮影された写真がないため、投稿できません</text>
+  </message>
+</resource>

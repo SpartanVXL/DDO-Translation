@@ -1,0 +1,42 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>pu_msg_000</key>
+    <text xml:space="preserve">写真の投稿</text>
+  </message>
+  <message>
+    <key>pu_msg_001</key>
+    <text xml:space="preserve">撮影場所</text>
+  </message>
+  <message>
+    <key>pu_msg_002</key>
+    <text xml:space="preserve">カテゴリ</text>
+  </message>
+  <message>
+    <key>pu_msg_003</key>
+    <text xml:space="preserve">コメント</text>
+  </message>
+  <message>
+    <key>pu_msg_004</key>
+    <text xml:space="preserve">写真送信中</text>
+  </message>
+  <message>
+    <key>pu_msg_005</key>
+    <text xml:space="preserve">電源を切らないでください</text>
+  </message>
+  <message>
+    <key>pu_msg_009</key>
+    <text xml:space="preserve">通信エラーが発生しました</text>
+  </message>
+  <message>
+    <key>pu_msg_006</key>
+    <text xml:space="preserve">送信が完了しました</text>
+  </message>
+  <message>
+    <key>pu_msg_007</key>
+    <text xml:space="preserve">投稿</text>
+  </message>
+  <message>
+    <key>pu_msg_008</key>
+    <text xml:space="preserve">通信中のため、投稿できません</text>
+  </message>
+</resource>

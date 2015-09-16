@@ -1,0 +1,70 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>map_menumap_titlee</key>
+    <text xml:space="preserve">MAP</text>
+  </message>
+  <message>
+    <key>map_menumap_titlej</key>
+    <text xml:space="preserve">マップ</text>
+  </message>
+  <message>
+    <key>map_menumap_maptypes</key>
+    <text xml:space="preserve">詳細マップ</text>
+  </message>
+  <message>
+    <key>map_menumap_maptypem</key>
+    <text xml:space="preserve">フィールドマップ</text>
+  </message>
+  <message>
+    <key>map_menumap_maptypel</key>
+    <text xml:space="preserve">広域マップ</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_zoom</key>
+    <text xml:space="preserve">ズームイン/アウト</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_filter</key>
+    <text xml:space="preserve">マーカーフィルター変更</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_movecursor</key>
+    <text xml:space="preserve">カーソル移動</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_moveplayer</key>
+    <text xml:space="preserve">プレイヤー移動</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_backgm</key>
+    <text xml:space="preserve">ゲームメニューに戻る</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_chat</key>
+    <text xml:space="preserve">チャット</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_freemarker</key>
+    <text xml:space="preserve">フリーマーカー (長押しで消去)</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_close</key>
+    <text xml:space="preserve">閉じる</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_transparent</key>
+    <text xml:space="preserve">透明度の変更</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_resetcursor</key>
+    <text xml:space="preserve">カーソルリセット</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_changemap</key>
+    <text xml:space="preserve">マップ切替</text>
+  </message>
+  <message>
+    <key>map_menumap_guide_speedup</key>
+    <text xml:space="preserve">カーソルスピードアップ</text>
+  </message>
+</resource>

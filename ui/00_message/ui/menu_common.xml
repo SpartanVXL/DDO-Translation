@@ -1,0 +1,82 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>menu_cmn_skill_grand</key>
+    <text xml:space="preserve">地上</text>
+  </message>
+  <message>
+    <key>menu_cmn_skill_air</key>
+    <text xml:space="preserve">空中</text>
+  </message>
+  <message>
+    <key>menu_cmn_skill_climb</key>
+    <text xml:space="preserve">しがみつき</text>
+  </message>
+  <message>
+    <key>menu_cmn_weight_verylight</key>
+    <text xml:space="preserve">Very Light</text>
+  </message>
+  <message>
+    <key>menu_cmn_weight_light</key>
+    <text xml:space="preserve">Light</text>
+  </message>
+  <message>
+    <key>menu_cmn_weight_medium</key>
+    <text xml:space="preserve">Medium</text>
+  </message>
+  <message>
+    <key>menu_cmn_weight_heavy</key>
+    <text xml:space="preserve">Heavy</text>
+  </message>
+  <message>
+    <key>menu_cmn_weight_beryheavy</key>
+    <text xml:space="preserve">Very Heavy</text>
+  </message>
+  <message>
+    <key>menu_cmn_weight_over</key>
+    <text xml:space="preserve">Over</text>
+  </message>
+  <message>
+    <key>menu_cmn_next</key>
+    <text xml:space="preserve">Next</text>
+  </message>
+  <message>
+    <key>menu_cmn_cost</key>
+    <text xml:space="preserve">Cost</text>
+  </message>
+  <message>
+    <key>menu_cmn_hp</key>
+    <text xml:space="preserve">HP</text>
+  </message>
+  <message>
+    <key>menu_cmn_stamina</key>
+    <text xml:space="preserve">ST</text>
+  </message>
+  <message>
+    <key>menu_cmn_max</key>
+    <text xml:space="preserve">MAX</text>
+  </message>
+  <message>
+    <key>menu_cmn_si_height</key>
+    <text xml:space="preserve">&lt;VAL&gt; cm</text>
+  </message>
+  <message>
+    <key>menu_cmn_job</key>
+    <text xml:space="preserve">Job</text>
+  </message>
+  <message>
+    <key>menu_cmn_category</key>
+    <text xml:space="preserve">Category</text>
+  </message>
+  <message>
+    <key>menu_cmn_slash_val</key>
+    <text xml:space="preserve">/&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>menu_cmn_val_slash_val</key>
+    <text xml:space="preserve">&lt;VAL&gt;/&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>menu_cmn_slash</key>
+    <text xml:space="preserve">/</text>
+  </message>
+</resource>

@@ -1,0 +1,42 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>ONLINE_STATUS_ONLINE</key>
+    <text xml:space="preserve">オンライン</text>
+  </message>
+  <message>
+    <key>ONLINE_STATUS_OFFLINE</key>
+    <text xml:space="preserve">オフライン</text>
+  </message>
+  <message>
+    <key>ONLINE_STATUS_AFK</key>
+    <text xml:space="preserve">離席中</text>
+  </message>
+  <message>
+    <key>ONLINE_STATUS_BUSY</key>
+    <text xml:space="preserve">取り込み中</text>
+  </message>
+  <message>
+    <key>ONLINE_STATUS_ENTRYBOARD</key>
+    <text xml:space="preserve">エントリーボード登録中</text>
+  </message>
+  <message>
+    <key>ONLINE_STATUS_QUICKMATCH</key>
+    <text xml:space="preserve">クイックマッチ待機中</text>
+  </message>
+  <message>
+    <key>ONLINE_STATUS_EVENT</key>
+    <text xml:space="preserve">イベント中</text>
+  </message>
+  <message>
+    <key>ONLINE_STATUS_CONTENTS</key>
+    <text xml:space="preserve">コンテンツ中</text>
+  </message>
+  <message>
+    <key>ONLINE_STATUS_PTL</key>
+    <text xml:space="preserve">パーティー参加中（リーダー）</text>
+  </message>
+  <message>
+    <key>ONLINE_STATUS_PTM</key>
+    <text xml:space="preserve">パーティー参加中（メンバー）</text>
+  </message>
+</resource>

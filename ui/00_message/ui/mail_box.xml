@@ -1,0 +1,102 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>sendmail_title_sendmail_en</key>
+    <text xml:space="preserve">Send Mail</text>
+  </message>
+  <message>
+    <key>sendmail_title_sendmail_jp</key>
+    <text xml:space="preserve">メール送信</text>
+  </message>
+  <message>
+    <key>sendmail_button_send</key>
+    <text xml:space="preserve">送信</text>
+  </message>
+  <message>
+    <key>sendmail_title_address_en</key>
+    <text xml:space="preserve">Addressee</text>
+  </message>
+  <message>
+    <key>sendmail_title_address_jp</key>
+    <text xml:space="preserve">宛先</text>
+  </message>
+  <message>
+    <key>sendmail_footer_destination</key>
+    <text xml:space="preserve">送信先</text>
+  </message>
+  <message>
+    <key>sendmail_footer_number</key>
+    <text xml:space="preserve">件</text>
+  </message>
+  <message>
+    <key>sendmail_button_del_address</key>
+    <text xml:space="preserve">宛先削除</text>
+  </message>
+  <message>
+    <key>receivedmail_title_receivedmail_en</key>
+    <text xml:space="preserve">Received Mail</text>
+  </message>
+  <message>
+    <key>receivedmail_title_receivedmail_jp</key>
+    <text xml:space="preserve">受信メール</text>
+  </message>
+  <message>
+    <key>receivedmail_button_get_all</key>
+    <text xml:space="preserve">すべて入手</text>
+  </message>
+  <message>
+    <key>receivedmail_button_reply</key>
+    <text xml:space="preserve">返信</text>
+  </message>
+  <message>
+    <key>mail_msg_time_minute</key>
+    <text xml:space="preserve">&lt;VAL&gt;分前</text>
+  </message>
+  <message>
+    <key>mail_msg_time_hour</key>
+    <text xml:space="preserve">&lt;VAL&gt;時間前</text>
+  </message>
+  <message>
+    <key>mail_msg_time_day</key>
+    <text xml:space="preserve">&lt;VAL&gt;日前</text>
+  </message>
+  <message>
+    <key>mail_title_mail_en</key>
+    <text xml:space="preserve">Mail</text>
+  </message>
+  <message>
+    <key>mail_title_mail_jp</key>
+    <text xml:space="preserve">メール</text>
+  </message>
+  <message>
+    <key>mail_tab_unfiled</key>
+    <text xml:space="preserve">未読／未取得</text>
+  </message>
+  <message>
+    <key>mail_tab_receivedmail</key>
+    <text xml:space="preserve">知り合い</text>
+  </message>
+  <message>
+    <key>mail_tab_notificationmail</key>
+    <text xml:space="preserve">運営</text>
+  </message>
+  <message>
+    <key>mail_button_mailcreation</key>
+    <text xml:space="preserve">メール作成</text>
+  </message>
+  <message>
+    <key>mail_button_getallitem</key>
+    <text xml:space="preserve">全アイテム受け取り</text>
+  </message>
+  <message>
+    <key>mail_header_reception</key>
+    <text xml:space="preserve">件数：</text>
+  </message>
+  <message>
+    <key>mail_header_update</key>
+    <text xml:space="preserve">更新</text>
+  </message>
+  <message>
+    <key>mail_msg_0_mail</key>
+    <text xml:space="preserve">メールはありません</text>
+  </message>
+</resource>

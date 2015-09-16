@@ -1,0 +1,158 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>party_list_title_en</key>
+    <text xml:space="preserve">Party List</text>
+  </message>
+  <message>
+    <key>party_list_title_jp</key>
+    <text xml:space="preserve">パーティー管理</text>
+  </message>
+  <message>
+    <key>party_list_invite</key>
+    <text xml:space="preserve">パーティーへの招待がきています</text>
+  </message>
+  <message>
+    <key>party_list_time</key>
+    <text xml:space="preserve">&lt;VAL&gt;:&lt;VAL&gt;</text>
+  </message>
+  <message>
+    <key>party_list_member</key>
+    <text xml:space="preserve">パーティーメンバー</text>
+  </message>
+  <message>
+    <key>party_list_mpawn</key>
+    <text xml:space="preserve">メインポーン</text>
+  </message>
+  <message>
+    <key>party_list_spawn</key>
+    <text xml:space="preserve">サポートポーン</text>
+  </message>
+  <message>
+    <key>party_list_pl_search</key>
+    <text xml:space="preserve">プレイヤー検索</text>
+  </message>
+  <message>
+    <key>party_list_q_party</key>
+    <text xml:space="preserve">クイックパーティー</text>
+  </message>
+  <message>
+    <key>party_list_leave</key>
+    <text xml:space="preserve">パーティーから抜ける</text>
+  </message>
+  <message>
+    <key>party_list_dissolution</key>
+    <text xml:space="preserve">パーティーを解散する</text>
+  </message>
+  <message>
+    <key>party_list_submenu</key>
+    <text xml:space="preserve">サブメニュー</text>
+  </message>
+  <message>
+    <key>party_list_quickp_start</key>
+    <text xml:space="preserve">クイックパーティー開始</text>
+  </message>
+  <message>
+    <key>party_list_settings</key>
+    <text xml:space="preserve">設定の編集</text>
+  </message>
+  <message>
+    <key>party_list_name</key>
+    <text xml:space="preserve">名前</text>
+  </message>
+  <message>
+    <key>party_list_job</key>
+    <text xml:space="preserve">ジョブレベル</text>
+  </message>
+  <message>
+    <key>party_list_lobby</key>
+    <text xml:space="preserve">ロビー</text>
+  </message>
+  <message>
+    <key>party_list_location</key>
+    <text xml:space="preserve">Location</text>
+  </message>
+  <message>
+    <key>party_list_clan</key>
+    <text xml:space="preserve">クラン</text>
+  </message>
+  <message>
+    <key>party_list_state</key>
+    <text xml:space="preserve">状態</text>
+  </message>
+  <message>
+    <key>party_list_comment</key>
+    <text xml:space="preserve">コメント</text>
+  </message>
+  <message>
+    <key>party_list_search</key>
+    <text xml:space="preserve">検索する</text>
+  </message>
+  <message>
+    <key>party_list_object</key>
+    <text xml:space="preserve">Object</text>
+  </message>
+  <message>
+    <key>party_list_pawn</key>
+    <text xml:space="preserve">Pawn</text>
+  </message>
+  <message>
+    <key>party_list_area_name</key>
+    <text xml:space="preserve">&lt;NAME AREA&gt;</text>
+  </message>
+  <message>
+    <key>party_list_search_now</key>
+    <text xml:space="preserve">検索中です</text>
+  </message>
+  <message>
+    <key>party_list_settings_err</key>
+    <text xml:space="preserve">条件を設定してください</text>
+  </message>
+  <message>
+    <key>party_list_notfound_player</key>
+    <text xml:space="preserve">要請を出せる相手がいませんでした</text>
+  </message>
+  <message>
+    <key>party_list_notfound_party</key>
+    <text xml:space="preserve">参加出来るパーティーがありませんでした</text>
+  </message>
+  <message>
+    <key>party_list_inviting</key>
+    <text xml:space="preserve">（招待中）</text>
+  </message>
+  <message>
+    <key>party_list_guide_switch</key>
+    <text xml:space="preserve">表示切り替え</text>
+  </message>
+  <message>
+    <key>party_list_count</key>
+    <text xml:space="preserve">冒険／クラフト残り回数</text>
+  </message>
+  <message>
+    <key>party_list_pawn_joblv</key>
+    <text xml:space="preserve">ジョブ／クラフトレベル</text>
+  </message>
+  <message>
+    <key>party_list_main_pawn_count</key>
+    <text xml:space="preserve">契約状況：</text>
+  </message>
+  <message>
+    <key>party_list_support_pawn_count</key>
+    <text xml:space="preserve">雇用状況：</text>
+  </message>
+  <message>
+    <key>party_list_notfound_main_pawn</key>
+    <text xml:space="preserve">ポーンと契約していません</text>
+  </message>
+  <message>
+    <key>party_list_notfound_support_pawn</key>
+    <text xml:space="preserve">ポーンを雇用していません</text>
+  </message>
+  <message>
+    <key>party_list_party_link</key>
+    <text xml:space="preserve">（合流中）</text>
+  </message>
+  <message>
+    <key>party_list_simple_req_btn</key>
+    <text xml:space="preserve">簡易要請</text>
+  </message>
+</resource>

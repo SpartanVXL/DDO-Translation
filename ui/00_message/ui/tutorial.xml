@@ -1,0 +1,30 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>TUTORIAL_MSG_POPTITLE</key>
+    <text xml:space="preserve">Tutorial</text>
+  </message>
+  <message>
+    <key>TUTORIAL_MSG_TITLE_01</key>
+    <text xml:space="preserve">Tutorial</text>
+  </message>
+  <message>
+    <key>TUTORIAL_MSG_TITLE_02</key>
+    <text xml:space="preserve">チュートリアル</text>
+  </message>
+  <message>
+    <key>TUTORIAL_MSG_Category</key>
+    <text xml:space="preserve">Category</text>
+  </message>
+  <message>
+    <key>TUTORIAL_MSG_NOMSG</key>
+    <text xml:space="preserve">このカテゴリに記事はありません</text>
+  </message>
+  <message>
+    <key>TUTORIAL_MSG_NEWFIVE</key>
+    <text xml:space="preserve">最新の５件</text>
+  </message>
+  <message>
+    <key>TUTORIAL_MSG_CLOSE</key>
+    <text xml:space="preserve">閉じる</text>
+  </message>
+</resource>

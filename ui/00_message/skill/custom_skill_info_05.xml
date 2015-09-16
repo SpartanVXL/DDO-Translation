@@ -1,0 +1,60 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_56</key>
+    <text xml:space="preserve">大盾に一定時間、敵の攻撃を防いだ瞬間に
+衝撃波を放つ効果を付与する
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間延長
+LV.６で攻撃威力の上昇&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_58</key>
+    <text xml:space="preserve">ロッドの放射光を敵に照らしつづけることで
+敵に遅延の状態異常値を蓄積させる
+フォースゲージ１本以上の時、消費して技性能上昇
+&lt;COL ffdc78&gt;LV UP毎に遅延の異常値上昇
+LV.６で照射範囲拡大&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_59</key>
+    <text xml:space="preserve">ロッドの放射光を敵に照らしつづけることで
+敵に睡眠の状態異常値を蓄積させる
+フォースゲージ１本以上の時、消費して技性能上昇
+&lt;COL ffdc78&gt;LV UP毎に睡眠の異常値上昇
+LV.６で照射範囲拡大&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_60</key>
+    <text xml:space="preserve">大盾を構え前方に突進し、進行線上の敵を吹き飛ばす
+フォースゲージ１本以上の時、消費して技性能上昇
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で移動距離上昇／ヒット数増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_62</key>
+    <text xml:space="preserve">属性ダメージと異常値の軽減効果を味方に付与する
+（ロッドに付与した炎・氷・雷・聖・闇のいずれか）
+フォースゲージ１本以上の時、消費して時間大幅延長
+&lt;COL ffdc78&gt;LV UP毎に持続時間延長／軽減値上昇
+LV.６で効果範囲拡大&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_61</key>
+    <text xml:space="preserve">地を揺らし、広範囲の敵をよろめかせる
+大型の敵や一部の強敵には無効
+&lt;COL ffdc78&gt;LV UP毎に詠唱時間短縮
+LV.６で攻撃範囲拡大&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_63</key>
+    <text xml:space="preserve">魔法のアンカーを射出し、敵を一定時間拘束する
+大型の敵や一部の強敵には弱体化効果
+&lt;COL ffdc78&gt;LV UP毎に拘束中のスタミナ消費減少
+LV.６で射程距離延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_57</key>
+    <text xml:space="preserve">大盾に広範囲を防御できる魔法の壁を付加する
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間延長
+LV.６で防御範囲が全方位化&lt;/COL&gt;</text>
+  </message>
+</resource>

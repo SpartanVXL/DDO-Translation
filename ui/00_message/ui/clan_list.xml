@@ -1,0 +1,54 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>GMD_CLAN_LIST_TAB_JOIN_REQ</key>
+    <text xml:space="preserve">加入希望者リスト</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_TAB_INVITE</key>
+    <text xml:space="preserve">招待リスト</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_TAB_APPLY</key>
+    <text xml:space="preserve">加入申請中リスト</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_TAB_INVITED</key>
+    <text xml:space="preserve">クランからの招待</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_TOP_EN</key>
+    <text xml:space="preserve">Clan List</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_TOP_JP</key>
+    <text xml:space="preserve">クランリスト</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_COLUMN_NAME</key>
+    <text xml:space="preserve">名前</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_COLUMN_CLAN</key>
+    <text xml:space="preserve">クラン</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_COLUMN_DATE</key>
+    <text xml:space="preserve">日付</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_NO_JOIN_REQ</key>
+    <text xml:space="preserve">加入申請がありません</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_NO_INVITE</key>
+    <text xml:space="preserve">招待していません</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_NO_APPLY</key>
+    <text xml:space="preserve">加入申請していません</text>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_NO_INVITED</key>
+    <text xml:space="preserve">招待されていません</text>
+  </message>
+</resource>
