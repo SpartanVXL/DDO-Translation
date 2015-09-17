@@ -23,7 +23,7 @@ Can also be done in the air.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_74</key>
-    <text xml:space="preserve">Block enemy's attack with your greatshield to charge
+    <text xml:space="preserve">Block the enemy's attack with your greatshield to charge
     the gauge with the current element on your rod. Can also be activated in the air.</text>
   </message>
   <message>
@@ -34,13 +34,13 @@ Can also be done in the air.</text>
   <message>
     <key>NORMAL_SKILL_INFO_05_76</key>
     <text xml:space="preserve">Activate the greatshield as an enemy strikes you to increase the
-    gauge by a lot, also consumes no stamina to block.</text>
+    gauge by a large amount. Also consumes no stamina to block.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_77</key>
     <text xml:space="preserve">Fire a ball of elemental energy at the enemy.
     The element is the same as the current selected.
-    Consumes 1 bar of charge.</text>
+    Consumes 1 bar of force gauge.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_78</key>
@@ -54,20 +54,20 @@ Can also be done in the air.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_80</key>
-    <text xml:space="preserve">Consumes 1 bar of charge to give the parties
+    <text xml:space="preserve">Consumes 1 bar of force gauge to give the parties
     weapons the current selected rod element.
     Can be activated in the air.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_81</key>
     <text xml:space="preserve">Immediately after blocking, either attack
-    the enemy to increase enmity, or dodge backwards.
-    Will consume 1 bar to increase effects if avaliable.</text>
+    the enemy to increase enmity or dodge backwards.
+    Will consume 1 force gauge to increase effects if avaliable.</text>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_91</key>
     <text xml:space="preserve">While clinging to an enemy, attack with
     the current selected attribute.
-    Will consume 1 bar to enhance the effect if avaliable.</text>
+    Will consume 1 bar of force gauge to enhance the effect if avaliable.</text>
   </message>
 </resource>
