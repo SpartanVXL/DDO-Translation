@@ -189,7 +189,7 @@
   </message>
   <message>
     <key>bazaar_msg_buy_confirmation</key>
-    <text xml:space="preserve">Purchase the following Content. OK?
+    <text xml:space="preserve">Purchase the following Content?
 
 　Items：&lt;NAME ITEM&gt;
 　Total number：&lt;VAL&gt;個
@@ -241,7 +241,7 @@
   </message>
   <message>
     <key>bazaar_msg_exhibit_confirmation</key>
-    <text xml:space="preserve">Exhibit the following Contents. OK?
+    <text xml:space="preserve">Exhibit the following Content?
 
 　Items：&lt;NAME ITEM&gt;
 　Exhibition Number：&lt;VAL&gt;個
@@ -290,7 +290,7 @@
   </message>
   <message>
     <key>bazaar_msg_situation_congrats</key>
-    <text xml:space="preserve">Congratulations! It was great Deal!</text>
+    <text xml:space="preserve">Congratulations! Great Deal!</text>
   </message>
   <message>
     <key>bazaar_msg_announce_get_money</key>
@@ -306,8 +306,8 @@
   </message>
   <message>
     <key>bazaar_msg_stop_confirmation</key>
-    <text xml:space="preserve">Cancel following Exhibition. OK?
-(canceled item be send to the storage box)
+    <text xml:space="preserve">Cancel following Exhibition?
+(Canceled item will be send to the Storage Box)
 
 　Items：&lt;NAME ITEM&gt;
 　Exhibition number：&lt;VAL&gt;個
@@ -323,7 +323,7 @@
   </message>
   <message>
     <key>bazaar_msg_re_exhibit_confirmation</key>
-    <text xml:space="preserve">Re-exhibition following contents. OK?
+    <text xml:space="preserve">Re-exhibit following Content?
 
 　Items：&lt;NAME ITEM&gt;
 　Exhibition number：&lt;VAL&gt;個
@@ -364,15 +364,15 @@
   </message>
   <message>
     <key>bazaar_msg_announce_error_exhibit_over</key>
-    <text xml:space="preserve">Possible Exhibitions number is 0, cannot create new Exhibition</text>
+    <text xml:space="preserve">Possible Exhibitions number is 0, cannot create new one</text>
   </message>
   <message>
     <key>bazaar_msg_announce_error_possession_full </key>
-    <text xml:space="preserve">You cannot Buy because there is no free space in item Bag and Storage Box</text>
+    <text xml:space="preserve">You cannot Buy, there is no free space in item Bag and Storage Box</text>
   </message>
   <message>
     <key>bazaar_msg_announce_error_stop_storage_full</key>
-    <text xml:space="preserve">You cannot Cancel because there is no free space in Storage Box</text>
+    <text xml:space="preserve">You cannot Cancel, there is no free space in Storage Box</text>
   </message>
   <message>
     <key>bazaar_msg_shortcut_exhibit</key>
