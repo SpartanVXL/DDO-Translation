@@ -1464,7 +1464,7 @@ The effect of ＜&lt;OPCS&gt;＞ will allow this.</text>
   </message>
   <message>
     <key>ana_join_disable_discondition</key>
-    <text xml:space="preserve">The party could not be joined due to erreonous conditions.</text>
+    <text xml:space="preserve">You do not meet the party requirements.</text>
   </message>
   <message>
     <key>ana_event_skip_button</key>
@@ -1531,7 +1531,7 @@ Are you sure?</text>
   </message>
   <message>
     <key>ana_quest_wait_order_member_error</key>
-    <text xml:space="preserve">Only the leader can dp this.</text>
+    <text xml:space="preserve">Only the leader can do this.</text>
   </message>
   <message>
     <key>ana_quest_progress_error</key>

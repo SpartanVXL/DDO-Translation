@@ -1,39 +1,39 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>common_next</key>
-    <text xml:space="preserve">次へ</text>
+    <text xml:space="preserve">Next</text>
   </message>
   <message>
     <key>common_yes</key>
-    <text xml:space="preserve">はい</text>
+    <text xml:space="preserve">Yes</text>
   </message>
   <message>
     <key>common_no</key>
-    <text xml:space="preserve">いいえ</text>
+    <text xml:space="preserve">No</text>
   </message>
   <message>
     <key>common_decide</key>
-    <text xml:space="preserve">決定</text>
+    <text xml:space="preserve">OK</text>
   </message>
   <message>
     <key>common_cancel</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>common_back</key>
-    <text xml:space="preserve">戻る</text>
+    <text xml:space="preserve">Back</text>
   </message>
   <message>
     <key>common_end</key>
-    <text xml:space="preserve">終了</text>
+    <text xml:space="preserve">End</text>
   </message>
   <message>
     <key>common_serch</key>
-    <text xml:space="preserve">検索</text>
+    <text xml:space="preserve">Search</text>
   </message>
   <message>
     <key>common_entry</key>
-    <text xml:space="preserve">登録</text>
+    <text xml:space="preserve">Register</text>
   </message>
   <message>
     <key>common_ok</key>
@@ -89,19 +89,19 @@
   </message>
   <message>
     <key>common_unitname_g</key>
-    <text xml:space="preserve">ゴールド</text>
+    <text xml:space="preserve">Gold</text>
   </message>
   <message>
     <key>common_unitname_r</key>
-    <text xml:space="preserve">リム</text>
+    <text xml:space="preserve">Rift Crystal</text>
   </message>
   <message>
     <key>common_unitname_bo</key>
-    <text xml:space="preserve">ブラッドオーブ</text>
+    <text xml:space="preserve">Blood Orb</text>
   </message>
   <message>
     <key>common_unitname_jp</key>
-    <text xml:space="preserve">ジョブポイント</text>
+    <text xml:space="preserve">Job Point</text>
   </message>
   <message>
     <key>common_edit</key>
@@ -125,7 +125,7 @@
   </message>
   <message>
     <key>common_level</key>
-    <text xml:space="preserve">レベル</text>
+    <text xml:space="preserve">Level</text>
   </message>
   <message>
     <key>common_mymsg</key>
@@ -173,7 +173,7 @@
   </message>
   <message>
     <key>common_complete</key>
-    <text xml:space="preserve">完了</text>
+    <text xml:space="preserve">Complete</text>
   </message>
   <message>
     <key>common_select_clan_motto</key>
@@ -197,15 +197,15 @@
   </message>
   <message>
     <key>common_guide_change_info</key>
-    <text xml:space="preserve">情報切り替え</text>
+    <text xml:space="preserve">Change Info</text>
   </message>
   <message>
     <key>common_guide_close</key>
-    <text xml:space="preserve">閉じる</text>
+    <text xml:space="preserve">Close</text>
   </message>
   <message>
     <key>common_guide_submenu</key>
-    <text xml:space="preserve">サブメニュー</text>
+    <text xml:space="preserve">Sub-Menu</text>
   </message>
   <message>
     <key>common_guide_decide</key>
@@ -221,7 +221,7 @@
   </message>
   <message>
     <key>common_guide_change_page</key>
-    <text xml:space="preserve">ページ切り替え</text>
+    <text xml:space="preserve">Change Page</text>
   </message>
   <message>
     <key>common_guide_return</key>
@@ -281,7 +281,7 @@
   </message>
   <message>
     <key>common_guide_set</key>
-    <text xml:space="preserve">セット</text>
+    <text xml:space="preserve">Set</text>
   </message>
   <message>
     <key>common_guide_drag</key>
@@ -289,7 +289,7 @@
   </message>
   <message>
     <key>common_guide_goto_itembag</key>
-    <text xml:space="preserve">アイテムバッグに移動</text>
+    <text xml:space="preserve">Move to Item Pack</text>
   </message>
   <message>
     <key>common_rest_minute</key>
@@ -297,7 +297,7 @@
   </message>
   <message>
     <key>common_time_limit</key>
-    <text xml:space="preserve">あと</text>
+    <text xml:space="preserve">left</text>
   </message>
   <message>
     <key>common_time_after</key>
@@ -317,11 +317,11 @@
   </message>
   <message>
     <key>common_switch_expand</key>
-    <text xml:space="preserve">拡張枠</text>
+    <text xml:space="preserve">Extended Storage</text>
   </message>
   <message>
     <key>common_switch_strage</key>
-    <text xml:space="preserve">通常枠</text>
+    <text xml:space="preserve">Switch Storage</text>
   </message>
   <message>
     <key>common_numbox</key>
@@ -329,15 +329,15 @@
   </message>
   <message>
     <key>common_switch_storagebox</key>
-    <text xml:space="preserve">保管ボックス</text>
+    <text xml:space="preserve">Switch Storage Box</text>
   </message>
   <message>
     <key>common_switch_itembag</key>
-    <text xml:space="preserve">アイテムバッグ</text>
+    <text xml:space="preserve">Item Pack</text>
   </message>
   <message>
     <key>common_guide_shortcut_set</key>
-    <text xml:space="preserve">ショートカット登録</text>
+    <text xml:space="preserve">Register Shortcut</text>
   </message>
   <message>
     <key>common_system_savedata</key>
@@ -405,7 +405,7 @@
   </message>
   <message>
     <key>common_unitname_rp</key>
-    <text xml:space="preserve">レンタルポイント</text>
+    <text xml:space="preserve">Rental Point</text>
   </message>
   <message>
     <key>common_unit_rp</key>

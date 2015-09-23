@@ -1,27 +1,27 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>status_title_equip_status</key>
-    <text xml:space="preserve">ステータス・装備</text>
+    <text xml:space="preserve">Status / Equipment</text>
   </message>
   <message>
     <key>status_tab_equip</key>
-    <text xml:space="preserve">ステータス・装備</text>
+    <text xml:space="preserve">Status / Equipment</text>
   </message>
   <message>
     <key>status_tab_anomaly_resist</key>
-    <text xml:space="preserve">耐性・特能</text>
+    <text xml:space="preserve">Ailments / Resist</text>
   </message>
   <message>
     <key>status_tab_job_arisenpower</key>
-    <text xml:space="preserve">ジョブ・竜力の継承</text>
+    <text xml:space="preserve">Jobs / Orb Tree</text>
   </message>
   <message>
     <key>status_tab_skill_ability</key>
-    <text xml:space="preserve">スキル・アビリティ</text>
+    <text xml:space="preserve">Skills / Abilities</text>
   </message>
   <message>
     <key>status_tab_currency</key>
-    <text xml:space="preserve">通貨</text>
+    <text xml:space="preserve">Currency</text>
   </message>
   <message>
     <key>status_heading_base_status</key>
@@ -37,15 +37,15 @@
   </message>
   <message>
     <key>status_option_change_equipment</key>
-    <text xml:space="preserve">装備変更</text>
+    <text xml:space="preserve">Change Equipment</text>
   </message>
   <message>
     <key>status_option_remove</key>
-    <text xml:space="preserve">はずす</text>
+    <text xml:space="preserve">Remove</text>
   </message>
   <message>
     <key>status_tab_craft_review</key>
-    <text xml:space="preserve">クラフト・評価</text>
+    <text xml:space="preserve">Craft / Evaluation</text>
   </message>
   <message>
     <key>status_heading_job_status</key>
@@ -69,39 +69,39 @@
   </message>
   <message>
     <key>status_none</key>
-    <text xml:space="preserve">なし</text>
+    <text xml:space="preserve">None</text>
   </message>
   <message>
     <key>status_pawn_review_title</key>
-    <text xml:space="preserve">総合評価</text>
+    <text xml:space="preserve">Full Evaluation</text>
   </message>
   <message>
     <key>status_pawn_review_rental</key>
-    <text xml:space="preserve">レンタル回数</text>
+    <text xml:space="preserve">Rental Count</text>
   </message>
   <message>
     <key>status_pawn_review_battle</key>
-    <text xml:space="preserve">敵の討伐数</text>
+    <text xml:space="preserve">Enemies Defeated</text>
   </message>
   <message>
     <key>status_pawn_review_craft</key>
-    <text xml:space="preserve">クラフト回数</text>
+    <text xml:space="preserve">Craft Count</text>
   </message>
   <message>
     <key>status_pawn_review_looks_ave</key>
-    <text xml:space="preserve">外見平均評価</text>
+    <text xml:space="preserve">Average Appearance Rating</text>
   </message>
   <message>
     <key>status_pawn_review_battle_ave</key>
-    <text xml:space="preserve">冒険平均評価</text>
+    <text xml:space="preserve">Average Battle Rating</text>
   </message>
   <message>
     <key>status_pawn_review_craft_ave</key>
-    <text xml:space="preserve">クラフト平均評価</text>
+    <text xml:space="preserve">Average Craft Rating</text>
   </message>
   <message>
     <key>status_gain_orb</key>
-    <text xml:space="preserve">オーブ</text>
+    <text xml:space="preserve">Orb</text>
   </message>
   <message>
     <key>status_gain_kakin</key>
@@ -109,7 +109,7 @@
   </message>
   <message>
     <key>status_gain_total</key>
-    <text xml:space="preserve">合計</text>
+    <text xml:space="preserve">Total</text>
   </message>
   <message>
     <key>status_money_title</key>
@@ -129,35 +129,35 @@
   </message>
   <message>
     <key>status_preset_title</key>
-    <text xml:space="preserve">プリセット</text>
+    <text xml:space="preserve">Preset</text>
   </message>
   <message>
     <key>status_preset_dialog_rename</key>
-    <text xml:space="preserve">プリセット名編集</text>
+    <text xml:space="preserve">Rename Preset</text>
   </message>
   <message>
     <key>status_preset_not_regist</key>
-    <text xml:space="preserve">未登録</text>
+    <text xml:space="preserve">Unregistered</text>
   </message>
   <message>
     <key>status_preset_dialog_title</key>
-    <text xml:space="preserve">プリセット操作</text>
+    <text xml:space="preserve">Preset Setting</text>
   </message>
   <message>
     <key>status_preset_dialog_equip</key>
-    <text xml:space="preserve">プリセット適用</text>
+    <text xml:space="preserve">Apply Preset</text>
   </message>
   <message>
     <key>status_preset_dialog_regist</key>
-    <text xml:space="preserve">プリセット登録</text>
+    <text xml:space="preserve">Register Preset</text>
   </message>
   <message>
     <key>status_preset_default_name</key>
-    <text xml:space="preserve">プリセット</text>
+    <text xml:space="preserve">Preset</text>
   </message>
   <message>
     <key>status_select_equip_title</key>
-    <text xml:space="preserve">装備を選んでください</text>
+    <text xml:space="preserve">Please select equipment.</text>
   </message>
   <message>
     <key>status_title_equip_status_eng</key>
@@ -169,35 +169,35 @@
   </message>
   <message>
     <key>status_gain_param_ability_cost</key>
-    <text xml:space="preserve">アビリティセットコスト</text>
+    <text xml:space="preserve">Ability Points</text>
   </message>
   <message>
     <key>status_gain_jewerly_slot</key>
-    <text xml:space="preserve">ジュエリー装備スロット</text>
+    <text xml:space="preserve">Accessory Slots</text>
   </message>
   <message>
     <key>status_gain_main_pawn</key>
-    <text xml:space="preserve">メインポーン契約枠</text>
+    <text xml:space="preserve">Main Pawn Contract Limit</text>
   </message>
   <message>
     <key>status_gain_sub_pawn</key>
-    <text xml:space="preserve">サポートポーン雇用枠</text>
+    <text xml:space="preserve">Support Pawn Contract Limit</text>
   </message>
   <message>
     <key>status_sub_menu</key>
-    <text xml:space="preserve">サブメニュー</text>
+    <text xml:space="preserve">Sub-Menu</text>
   </message>
   <message>
     <key>status_error_storage_box_full</key>
-    <text xml:space="preserve">保管ボックスがいっぱいです</text>
+    <text xml:space="preserve">Storage box is full.</text>
   </message>
   <message>
     <key>status_buttonguide_equip</key>
-    <text xml:space="preserve">装備</text>
+    <text xml:space="preserve">Equip</text>
   </message>
   <message>
     <key>status_error_storage_bag_full</key>
-    <text xml:space="preserve">アイテムバッグがいっぱいです</text>
+    <text xml:space="preserve">Item pack is full.</text>
   </message>
   <message>
     <key>status_total_job_level</key>
