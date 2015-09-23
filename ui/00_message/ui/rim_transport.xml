@@ -5,50 +5,50 @@
   </message>
   <message>
     <key>title_sub_dragon_foundation</key>
-    <text xml:space="preserve">竜の礎</text>
+    <text xml:space="preserve">Dragon Crystal</text>
   </message>
   <message>
     <key>title_sub_rim_transport</key>
-    <text xml:space="preserve">リム転移</text>
+    <text xml:space="preserve">Rift Warp</text>
   </message>
   <message>
     <key>title_sub_transport_foundation</key>
-    <text xml:space="preserve">拠点の礎</text>
+    <text xml:space="preserve">Warp Crystal</text>
   </message>
   <message>
     <key>heading_current_place</key>
-    <text xml:space="preserve">現在地</text>
+    <text xml:space="preserve">You are here.</text>
   </message>
   <message>
     <key>option_transport_other</key>
-    <text xml:space="preserve">他の礎へ転移</text>
+    <text xml:space="preserve">Warp to Warp Crystal</text>
   </message>
   <message>
     <key>option_registration</key>
-    <text xml:space="preserve">マイ拠点に登録</text>
+    <text xml:space="preserve">Register as My Base</text>
   </message>
   <message>
     <key>title_choice</key>
-    <text xml:space="preserve">転移先の礎を選択</text>
+    <text xml:space="preserve">Select Warp Crystal Destination</text>
   </message>
   <message>
     <key>heading_pay_rim</key>
-    <text xml:space="preserve">消費リム</text>
+    <text xml:space="preserve">Rift Crystals Consumed</text>
   </message>
   <message>
     <key>dialog_transport_check</key>
-    <text xml:space="preserve">選択した礎にリム転移します
-よろしいですか？</text>
+    <text xml:space="preserve">You will rift warp to the selected location.
+Are you sure?</text>
   </message>
   <message>
     <key>dialog_registration_check</key>
-    <text xml:space="preserve">この礎をマイ拠点に登録します
-よろしいですか？</text>
+    <text xml:space="preserve">You will register this warp crystal as a base.
+Are you sure?</text>
   </message>
   <message>
     <key>dialog_overwrite_check</key>
-    <text xml:space="preserve">この礎をマイ拠点として上書き登録します
-よろしいですか？</text>
+    <text xml:space="preserve">You will overwrite this warp crystal as your base.
+Are you sure?</text>
   </message>
   <message>
     <key>option_not_registration</key>
@@ -56,53 +56,53 @@
   </message>
   <message>
     <key>heading_registered</key>
-    <text xml:space="preserve">登録済の礎</text>
+    <text xml:space="preserve">Registered Warp Crystals</text>
   </message>
   <message>
     <key>option_transport_rim</key>
-    <text xml:space="preserve">リムストーンへ転移</text>
+    <text xml:space="preserve">Warp to Riftstone</text>
   </message>
   <message>
     <key>diarog_transport_rim_check</key>
-    <text xml:space="preserve">選択したリムストーンへ転移します
-よろしいですか？</text>
+    <text xml:space="preserve">You will warp to the selected Riftstone.
+Are you sure?</text>
   </message>
   <message>
     <key>announce_registration_myposition</key>
-    <text xml:space="preserve">&lt;NAME SPOT&gt;をマイ拠点に登録しました</text>
+    <text xml:space="preserve">&lt;NAME SPOT&gt; was registered as a base.</text>
   </message>
   <message>
     <key>announce_cannot_use</key>
-    <text xml:space="preserve">転移可能な礎がありません</text>
+    <text xml:space="preserve">There is no possible place to warp.</text>
   </message>
   <message>
     <key>notice_pt_warp_over</key>
-    <text xml:space="preserve">パーティー同行リム転移の期限が切れました</text>
+    <text xml:space="preserve">The time limit to warp with the party has expired.</text>
   </message>
   <message>
     <key>list_name_pt_warp</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;パーティー同行リム転移&lt;/COL&gt;</text>
+    <text xml:space="preserve">&lt;COL ffdc78&gt; Warp with Party&lt;/COL&gt;</text>
   </message>
   <message>
     <key>dialog_pt_warp_check</key>
-    <text xml:space="preserve">パーティーリーダーのいるところへ転移します
-よろしいですか？</text>
+    <text xml:space="preserve">You will warp to the location of the party leader.
+Are you sure?</text>
   </message>
   <message>
     <key>notice_pt_warp_limit</key>
-    <text xml:space="preserve">パーティー同行リム転移残り時間 &lt;VAL&gt;秒です</text>
+    <text xml:space="preserve">There are &lt;VAL&gt; seconds remaining to warp with the party.</text>
   </message>
   <message>
     <key>error_warp_fail</key>
-    <text xml:space="preserve">転移に失敗しました</text>
+    <text xml:space="preserve">Failed to warp.</text>
   </message>
   <message>
     <key>error_regist_fail</key>
-    <text xml:space="preserve">マイ拠点の登録に失敗しました</text>
+    <text xml:space="preserve">Failed to register My Base.</text>
   </message>
   <message>
     <key>error_get_list_fail</key>
-    <text xml:space="preserve">拠点リストの取得に失敗しました</text>
+    <text xml:space="preserve">Failed to get My Base list.</text>
   </message>
   <message>
     <key>title_rim_transport</key>

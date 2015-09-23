@@ -1,35 +1,35 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>item_name</key>
-    <text xml:space="preserve">名称</text>
+    <text xml:space="preserve">Name</text>
   </message>
   <message>
     <key>item_category</key>
-    <text xml:space="preserve">カテゴリ</text>
+    <text xml:space="preserve">Category</text>
   </message>
   <message>
     <key>item_max_possess</key>
-    <text xml:space="preserve">所持最大数</text>
+    <text xml:space="preserve">Stack Size</text>
   </message>
   <message>
     <key>iitem_con</key>
-    <text xml:space="preserve">アイコン</text>
+    <text xml:space="preserve">Icon</text>
   </message>
   <message>
     <key>item_caption</key>
-    <text xml:space="preserve">説明</text>
+    <text xml:space="preserve">Description</text>
   </message>
   <message>
     <key>item_grade</key>
-    <text xml:space="preserve">グレード</text>
+    <text xml:space="preserve">Grade</text>
   </message>
   <message>
     <key>item_rank</key>
-    <text xml:space="preserve">アイテムランク</text>
+    <text xml:space="preserve">Item Rank</text>
   </message>
   <message>
     <key>item_effect</key>
-    <text xml:space="preserve">効能</text>
+    <text xml:space="preserve">Effect</text>
   </message>
   <message>
     <key>item_use_limit</key>
@@ -37,11 +37,11 @@
   </message>
   <message>
     <key>item_purchase_price</key>
-    <text xml:space="preserve">購入額</text>
+    <text xml:space="preserve">Purchase Price</text>
   </message>
   <message>
     <key>item_sell_price</key>
-    <text xml:space="preserve">売却額</text>
+    <text xml:space="preserve">Sell</text>
   </message>
   <message>
     <key>item_max_price</key>
@@ -81,463 +81,463 @@
   </message>
   <message>
     <key>item_weapon_type</key>
-    <text xml:space="preserve">武器タイプ</text>
+    <text xml:space="preserve">Weapon Type</text>
   </message>
   <message>
     <key>physical_attack</key>
-    <text xml:space="preserve">物理攻撃力</text>
+    <text xml:space="preserve">Physical Attack</text>
   </message>
   <message>
     <key>magic_attack</key>
-    <text xml:space="preserve">魔法攻撃力</text>
+    <text xml:space="preserve">Magick Attack</text>
   </message>
   <message>
     <key>item_phisical_property</key>
-    <text xml:space="preserve">物理属性</text>
+    <text xml:space="preserve">Physical Attribute</text>
   </message>
   <message>
     <key>item_magic_property</key>
-    <text xml:space="preserve">魔法属性</text>
+    <text xml:space="preserve">Magick Attribute</text>
   </message>
   <message>
     <key>item_strength</key>
-    <text xml:space="preserve">吹き飛ばし力</text>
+    <text xml:space="preserve">Blow Power</text>
   </message>
   <message>
     <key>item_faint</key>
-    <text xml:space="preserve">気絶攻力</text>
+    <text xml:space="preserve">Knockout Power</text>
   </message>
   <message>
     <key>item_chance</key>
-    <text xml:space="preserve">チャンス攻力</text>
+    <text xml:space="preserve">Chance Attack</text>
   </message>
   <message>
     <key>item_stagger</key>
-    <text xml:space="preserve">盾ガード値</text>
+    <text xml:space="preserve">Guard Power</text>
   </message>
   <message>
     <key>item_num_of_load</key>
-    <text xml:space="preserve">矢装填数</text>
+    <text xml:space="preserve">Max Loaded Arrows</text>
   </message>
   <message>
     <key>weakness_attack_subhuman</key>
-    <text xml:space="preserve">対敵特効【亜人】</text>
+    <text xml:space="preserve">Demihuman Slayer</text>
   </message>
   <message>
     <key>weakness_attack_beast</key>
-    <text xml:space="preserve">対敵特効【獣】</text>
+    <text xml:space="preserve">Beast Slayer</text>
   </message>
   <message>
     <key>weakness_attack_ogre</key>
-    <text xml:space="preserve">対敵特効【鬼人】</text>
+    <text xml:space="preserve">Ogre Slayer</text>
   </message>
   <message>
     <key>weakness_attack_undead</key>
-    <text xml:space="preserve">対敵特効【腐死】</text>
+    <text xml:space="preserve">Undead Slayer</text>
   </message>
   <message>
     <key>weakness_attack_skeleton</key>
-    <text xml:space="preserve">対敵特効【骸骨】</text>
+    <text xml:space="preserve">Skeleton Slayer</text>
   </message>
   <message>
     <key>weakness_attack_winged</key>
-    <text xml:space="preserve">対敵特効【有翼】</text>
+    <text xml:space="preserve">Winged Slayer</text>
   </message>
   <message>
     <key>weakness_attack_giant</key>
-    <text xml:space="preserve">対敵特効【巨人】</text>
+    <text xml:space="preserve">Giant Slayer</text>
   </message>
   <message>
     <key>weakness_attack_softbody</key>
-    <text xml:space="preserve">対敵特効【軟体】</text>
+    <text xml:space="preserve">Formless Slayer</text>
   </message>
   <message>
     <key>weakness_attack_soul</key>
-    <text xml:space="preserve">対敵特効【霊体】</text>
+    <text xml:space="preserve">Spirit Slayer</text>
   </message>
   <message>
     <key>weakness_attack_curse</key>
-    <text xml:space="preserve">対敵特効【呪詛】</text>
+    <text xml:space="preserve">Cursed Slayer</text>
   </message>
   <message>
     <key>weakness_attack_golem</key>
-    <text xml:space="preserve">対敵特効【造魔】</text>
+    <text xml:space="preserve">Golem Slayer</text>
   </message>
   <message>
     <key>weakness_attack_human</key>
-    <text xml:space="preserve">対敵特効【人間】</text>
+    <text xml:space="preserve">Human Slayer</text>
   </message>
   <message>
     <key>weakness_attack_alchemy</key>
-    <text xml:space="preserve">対敵特効【錬金】</text>
+    <text xml:space="preserve">Alchemy Slayer</text>
   </message>
   <message>
     <key>weakness_attack_dragon</key>
-    <text xml:space="preserve">対敵特効【竜族】</text>
+    <text xml:space="preserve">Dragon Slayer</text>
   </message>
   <message>
     <key>weakness_attack_demonic</key>
-    <text xml:space="preserve">対敵特効【魔族】</text>
+    <text xml:space="preserve">Demon Slayer</text>
   </message>
   <message>
     <key>give_poison</key>
-    <text xml:space="preserve">与【毒】蓄積値</text>
+    <text xml:space="preserve">Inflicts Poison</text>
   </message>
   <message>
     <key>give_torpor</key>
-    <text xml:space="preserve">与【遅延】蓄積値</text>
+    <text xml:space="preserve">Inflicts Torpor</text>
   </message>
   <message>
     <key>give_sleep</key>
-    <text xml:space="preserve">与【睡眠】蓄積値</text>
+    <text xml:space="preserve">Inflicts Sleep</text>
   </message>
   <message>
     <key>give_drenching</key>
-    <text xml:space="preserve">与【水濡れ】蓄積値</text>
+    <text xml:space="preserve">Inflicts Drench</text>
   </message>
   <message>
     <key>give_tarring</key>
-    <text xml:space="preserve">与【油濡れ】蓄積値</text>
+    <text xml:space="preserve">Inflicts Tar</text>
   </message>
   <message>
     <key>give_stifling</key>
-    <text xml:space="preserve">与【封印】蓄積値</text>
+    <text xml:space="preserve">Inflicts Skill Stifling</text>
   </message>
   <message>
     <key>give_softener</key>
-    <text xml:space="preserve">与【軟化】蓄積値</text>
+    <text xml:space="preserve">Inflicts Frail</text>
   </message>
   <message>
     <key>give_petrify</key>
-    <text xml:space="preserve">与【石化】蓄積値</text>
+    <text xml:space="preserve">Inflicts Petrify</text>
   </message>
   <message>
     <key>give_cought_fire</key>
-    <text xml:space="preserve">与【延焼】蓄積値</text>
+    <text xml:space="preserve">Inflicts Burn</text>
   </message>
   <message>
     <key>give_frozen</key>
-    <text xml:space="preserve">与【凍結】蓄積値</text>
+    <text xml:space="preserve">Inflicts Freeze</text>
   </message>
   <message>
     <key>give_thundershock</key>
-    <text xml:space="preserve">与【感電】蓄積値</text>
+    <text xml:space="preserve">Inflicts Shock</text>
   </message>
   <message>
     <key>give_holy_drain</key>
-    <text xml:space="preserve">与【聖吸】蓄積値</text>
+    <text xml:space="preserve">Inflicts Holy Drain</text>
   </message>
   <message>
     <key>give_darkness_mist</key>
-    <text xml:space="preserve">与【闇霧】蓄積値</text>
+    <text xml:space="preserve">Inflicts Blind</text>
   </message>
   <message>
     <key>give_fire_resist_down</key>
-    <text xml:space="preserve">与【炎防低下】蓄積値</text>
+    <text xml:space="preserve">Inflicts Fire Resist Down</text>
   </message>
   <message>
     <key>give_ice_resist_down</key>
-    <text xml:space="preserve">与【氷防低下】蓄積値</text>
+    <text xml:space="preserve">Inflicts Ice Resist Down</text>
   </message>
   <message>
     <key>give_thunder_resist_down</key>
-    <text xml:space="preserve">与【雷防低下】蓄積値</text>
+    <text xml:space="preserve">Inflicts Thunder Resist Down</text>
   </message>
   <message>
     <key>give_holy_resist_down</key>
-    <text xml:space="preserve">与【聖防低下】蓄積値</text>
+    <text xml:space="preserve">Inflicts Holy Resist Down</text>
   </message>
   <message>
     <key>give_dark_resist_down</key>
-    <text xml:space="preserve">与【闇防低下】蓄積値</text>
+    <text xml:space="preserve">Inflicts Dark Resist Down</text>
   </message>
   <message>
     <key>give_physical_attack_down</key>
-    <text xml:space="preserve">与【物攻低下】蓄積値</text>
+    <text xml:space="preserve">Inflicts Physical Attack Down</text>
   </message>
   <message>
     <key>give_physical_difense_down</key>
-    <text xml:space="preserve">与【物防低下】蓄積値</text>
+    <text xml:space="preserve">Inflicts Physical Defense Down</text>
   </message>
   <message>
     <key>give_magic_attack_down</key>
-    <text xml:space="preserve">与【魔攻低下】蓄積値</text>
+    <text xml:space="preserve">Inflicts Magick Attack Down</text>
   </message>
   <message>
     <key>give_magic_difense_down</key>
-    <text xml:space="preserve">与【魔防低下】蓄積値</text>
+    <text xml:space="preserve">Inflicts Magick Defense Down</text>
   </message>
   <message>
     <key>phisical_difence</key>
-    <text xml:space="preserve">物理防御力</text>
+    <text xml:space="preserve">Physical Defense</text>
   </message>
   <message>
     <key>magic_difence</key>
-    <text xml:space="preserve">魔法防御力</text>
+    <text xml:space="preserve">Magick Defense</text>
   </message>
   <message>
     <key>endurance</key>
-    <text xml:space="preserve">耐久力</text>
+    <text xml:space="preserve">Endurance</text>
   </message>
   <message>
     <key>healing</key>
-    <text xml:space="preserve">生命治癒力</text>
+    <text xml:space="preserve">Healing Power</text>
   </message>
   <message>
     <key>max_health</key>
-    <text xml:space="preserve">最大体力</text>
+    <text xml:space="preserve">Max Health</text>
   </message>
   <message>
     <key>max_stamina</key>
-    <text xml:space="preserve">最大スタミナ</text>
+    <text xml:space="preserve">Max Stamina</text>
   </message>
   <message>
     <key>resist_fire</key>
-    <text xml:space="preserve">炎耐性</text>
+    <text xml:space="preserve">Fire Resist</text>
   </message>
   <message>
     <key>resist_ice</key>
-    <text xml:space="preserve">氷耐性</text>
+    <text xml:space="preserve">Ice Resist</text>
   </message>
   <message>
     <key>resist_thunder</key>
-    <text xml:space="preserve">雷耐性</text>
+    <text xml:space="preserve">Thunder Resist</text>
   </message>
   <message>
     <key>resist_holy</key>
-    <text xml:space="preserve">聖耐性</text>
+    <text xml:space="preserve">Holy Resist</text>
   </message>
   <message>
     <key>resist_dark</key>
-    <text xml:space="preserve">闇耐性</text>
+    <text xml:space="preserve">Dark Resist</text>
   </message>
   <message>
     <key>resist_cought_fire</key>
-    <text xml:space="preserve">延焼耐性</text>
+    <text xml:space="preserve">Resist Burn</text>
   </message>
   <message>
     <key>resist_frozen</key>
-    <text xml:space="preserve">凍結耐性</text>
+    <text xml:space="preserve">Resist Freeze</text>
   </message>
   <message>
     <key>resist_thundershock</key>
-    <text xml:space="preserve">感電耐性</text>
+    <text xml:space="preserve">Resist Shock</text>
   </message>
   <message>
     <key>resist_holy_drain</key>
-    <text xml:space="preserve">聖吸耐性</text>
+    <text xml:space="preserve">Resist Holy Drain</text>
   </message>
   <message>
     <key>resist_darkness_mist</key>
-    <text xml:space="preserve">闇霧耐性</text>
+    <text xml:space="preserve">Resist Blind</text>
   </message>
   <message>
     <key>resist_poison</key>
-    <text xml:space="preserve">毒耐性</text>
+    <text xml:space="preserve">Resist Poison</text>
   </message>
   <message>
     <key>resist_torpor</key>
-    <text xml:space="preserve">遅延耐性</text>
+    <text xml:space="preserve">Resist Torpor</text>
   </message>
   <message>
     <key>resist_sleep</key>
-    <text xml:space="preserve">睡眠耐性</text>
+    <text xml:space="preserve">Resist Sleep</text>
   </message>
   <message>
     <key>resist_faint</key>
-    <text xml:space="preserve">気絶耐性</text>
+    <text xml:space="preserve">Resist Knockout</text>
   </message>
   <message>
     <key>resist_drenching</key>
-    <text xml:space="preserve">水濡れ耐性</text>
+    <text xml:space="preserve">Resist Drench</text>
   </message>
   <message>
     <key>resist_tarring</key>
-    <text xml:space="preserve">油濡れ耐性</text>
+    <text xml:space="preserve">Resist Tar</text>
   </message>
   <message>
     <key>resist_stifling</key>
-    <text xml:space="preserve">封印耐性</text>
+    <text xml:space="preserve">Resist Skill Stifling</text>
   </message>
   <message>
     <key>resist_curse</key>
-    <text xml:space="preserve">呪い耐性</text>
+    <text xml:space="preserve">Resist Curse</text>
   </message>
   <message>
     <key>resist_softener</key>
-    <text xml:space="preserve">軟化耐性</text>
+    <text xml:space="preserve">Resist Frail</text>
   </message>
   <message>
     <key>resist_petrify</key>
-    <text xml:space="preserve">石化耐性</text>
+    <text xml:space="preserve">Resist Petrify</text>
   </message>
   <message>
     <key>resist_fire_resist_down</key>
-    <text xml:space="preserve">炎防低下耐性</text>
+    <text xml:space="preserve">Resist Fire Resist Down</text>
   </message>
   <message>
     <key>resist_ice_resist_down</key>
-    <text xml:space="preserve">氷防低下耐性</text>
+    <text xml:space="preserve">Resist Ice Resist Down</text>
   </message>
   <message>
     <key>resist_thunder_resist_down</key>
-    <text xml:space="preserve">雷防低下耐性</text>
+    <text xml:space="preserve">Resist Thunder Resist Down</text>
   </message>
   <message>
     <key>resist_holy_resist_down</key>
-    <text xml:space="preserve">聖防低下耐性</text>
+    <text xml:space="preserve">Resist Holy Resist Down</text>
   </message>
   <message>
     <key>resist_dark_resist_down</key>
-    <text xml:space="preserve">闇防低下耐性</text>
+    <text xml:space="preserve">Resist Dark Resist Down</text>
   </message>
   <message>
     <key>resist_physical_attack_down</key>
-    <text xml:space="preserve">物攻低下耐性</text>
+    <text xml:space="preserve">Resist Physical Attack Down</text>
   </message>
   <message>
     <key>resist_physical_difense_down</key>
-    <text xml:space="preserve">物防低下耐性</text>
+    <text xml:space="preserve">Resist Physical Defense Down</text>
   </message>
   <message>
     <key>resist_magic_attack_down</key>
-    <text xml:space="preserve">魔攻低下耐性</text>
+    <text xml:space="preserve">Resist Magick Attack Down</text>
   </message>
   <message>
     <key>resist_magic_difense_down</key>
-    <text xml:space="preserve">魔防低下耐性</text>
+    <text xml:space="preserve">Resist Magick Defense Down</text>
   </message>
   <message>
     <key>item_categoryname_use</key>
-    <text xml:space="preserve">消費</text>
+    <text xml:space="preserve">Consumable</text>
   </message>
   <message>
     <key>item_categoryname_material</key>
-    <text xml:space="preserve">素材</text>
+    <text xml:space="preserve">Material</text>
   </message>
   <message>
     <key>item_categoryname_weapon</key>
-    <text xml:space="preserve">装備品</text>
+    <text xml:space="preserve">Weapon</text>
   </message>
   <message>
     <key>item_categoryname_key</key>
-    <text xml:space="preserve">キーアイテム</text>
+    <text xml:space="preserve">Key Item</text>
   </message>
   <message>
     <key>item_categoryname_special</key>
-    <text xml:space="preserve">ジョブ専用</text>
+    <text xml:space="preserve">Job Item</text>
   </message>
   <message>
     <key>material_cateforyname_metal</key>
-    <text xml:space="preserve">金属</text>
+    <text xml:space="preserve">Metal</text>
   </message>
   <message>
     <key>material_cateforyname_mineral</key>
-    <text xml:space="preserve">鉱石</text>
+    <text xml:space="preserve">Mineral</text>
   </message>
   <message>
     <key>material_cateforyname_sand</key>
-    <text xml:space="preserve">砂材</text>
+    <text xml:space="preserve">Sand</text>
   </message>
   <message>
     <key>material_cateforyname_cloth</key>
-    <text xml:space="preserve">布</text>
+    <text xml:space="preserve">Cloth</text>
   </message>
   <message>
     <key>material_cateforyname_string</key>
-    <text xml:space="preserve">糸</text>
+    <text xml:space="preserve">String</text>
   </message>
   <message>
     <key>material_cateforyname_fur</key>
-    <text xml:space="preserve">毛</text>
+    <text xml:space="preserve">Fur</text>
   </message>
   <message>
     <key>material_cateforyname_pelt</key>
-    <text xml:space="preserve">皮</text>
+    <text xml:space="preserve">Pelt</text>
   </message>
   <message>
     <key>material_cateforyname_bone</key>
-    <text xml:space="preserve">骨</text>
+    <text xml:space="preserve">Bone</text>
   </message>
   <message>
     <key>material_cateforyname_fang</key>
-    <text xml:space="preserve">牙</text>
+    <text xml:space="preserve">Fang</text>
   </message>
   <message>
     <key>material_cateforyname_horn</key>
-    <text xml:space="preserve">角</text>
+    <text xml:space="preserve">Horn</text>
   </message>
   <message>
     <key>material_cateforyname_shell</key>
-    <text xml:space="preserve">貝</text>
+    <text xml:space="preserve">Shell</text>
   </message>
   <message>
     <key>material_cateforyname_feather</key>
-    <text xml:space="preserve">羽</text>
+    <text xml:space="preserve">Feather</text>
   </message>
   <message>
     <key>material_cateforyname_jewel</key>
-    <text xml:space="preserve">宝石</text>
+    <text xml:space="preserve">Jewel</text>
   </message>
   <message>
     <key>material_cateforyname_grass</key>
-    <text xml:space="preserve">草</text>
+    <text xml:space="preserve">Grass</text>
   </message>
   <message>
     <key>material_cateforyname_flower</key>
-    <text xml:space="preserve">花</text>
+    <text xml:space="preserve">Flower</text>
   </message>
   <message>
     <key>material_cateforyname_seed</key>
-    <text xml:space="preserve">実</text>
+    <text xml:space="preserve">Seed</text>
   </message>
   <message>
     <key>material_cateforyname_mushroom</key>
-    <text xml:space="preserve">キノコ</text>
+    <text xml:space="preserve">Mushroom</text>
   </message>
   <message>
     <key>material_cateforyname_wood</key>
-    <text xml:space="preserve">木片</text>
+    <text xml:space="preserve">Wood</text>
   </message>
   <message>
     <key>material_cateforyname_liquid</key>
-    <text xml:space="preserve">液体</text>
+    <text xml:space="preserve">Liquid</text>
   </message>
   <message>
     <key>material_cateforyname_scroll</key>
-    <text xml:space="preserve">巻物</text>
+    <text xml:space="preserve">Scroll</text>
   </message>
   <message>
     <key>material_cateforyname_alchemy</key>
-    <text xml:space="preserve">錬金材</text>
+    <text xml:space="preserve">Alchemy</text>
   </message>
   <message>
     <key>material_cateforyname_meat</key>
-    <text xml:space="preserve">肉</text>
+    <text xml:space="preserve">Meat</text>
   </message>
   <message>
     <key>material_cateforyname_etc</key>
-    <text xml:space="preserve">その他</text>
+    <text xml:space="preserve">Etc</text>
   </message>
   <message>
     <key>material_cateforyname_crest_for_wea</key>
-    <text xml:space="preserve">クレスト：武器</text>
+    <text xml:space="preserve">Weapon Crest</text>
   </message>
   <message>
     <key>material_cateforyname_crest_for_gua</key>
-    <text xml:space="preserve">クレスト：防具</text>
+    <text xml:space="preserve">Armor Crest</text>
   </message>
   <message>
     <key>material_cateforyname_special_for_w</key>
-    <text xml:space="preserve">精錬材：武器</text>
+    <text xml:space="preserve">Weapon Refine Material</text>
   </message>
   <message>
     <key>material_cateforyname_special_for_g</key>
-    <text xml:space="preserve">精錬材：防具</text>
+    <text xml:space="preserve">Armor Refine Material</text>
   </message>
   <message>
     <key>material_cateforyname_dyes</key>
-    <text xml:space="preserve">染料</text>
+    <text xml:space="preserve">Dye</text>
   </message>
   <message>
     <key>material_large_cateforyname_inorgan</key>
@@ -597,15 +597,15 @@
   </message>
   <message>
     <key>parts_jewelry</key>
-    <text xml:space="preserve">ジュエリー</text>
+    <text xml:space="preserve">Jewelry</text>
   </message>
   <message>
     <key>item_tower_shield_collect_point</key>
-    <text xml:space="preserve">フォースストック数</text>
+    <text xml:space="preserve">Max Force Stock</text>
   </message>
   <message>
     <key>item_craft_gained_exp</key>
-    <text xml:space="preserve">装備強化ポイント</text>
+    <text xml:space="preserve">Enhancement Points</text>
   </message>
   <message>
     <key>character_name</key>
@@ -669,23 +669,23 @@
   </message>
   <message>
     <key>pawn_craftskill_time</key>
-    <text xml:space="preserve">クラフトスキル：生産作業スピード</text>
+    <text xml:space="preserve">Craft Skill: Craft Speed</text>
   </message>
   <message>
     <key>pawn_craftskill_powerup</key>
-    <text xml:space="preserve">クラフトスキル：装備の強化技術</text>
+    <text xml:space="preserve">Craft Skill: Equipment Enhancement</text>
   </message>
   <message>
     <key>pawn_craftskill_quality</key>
-    <text xml:space="preserve">クラフトスキル：高品質装備の作成力</text>
+    <text xml:space="preserve">Craft Skill: Equipment Quality</text>
   </message>
   <message>
     <key>pawn_craftskill_number</key>
-    <text xml:space="preserve">クラフトスキル：消耗品の生産数アップ</text>
+    <text xml:space="preserve">Craft Skill: Consumable Production Rate</text>
   </message>
   <message>
     <key>pawn_craftskill_cost</key>
-    <text xml:space="preserve">クラフトスキル：コストパフォーマンス</text>
+    <text xml:space="preserve">Craft Skill: Crafting Cost</text>
   </message>
   <message>
     <key>pawn_craft_promote</key>
@@ -785,11 +785,11 @@
   </message>
   <message>
     <key>param_msg_healing</key>
-    <text xml:space="preserve">体力回復</text>
+    <text xml:space="preserve">Health Recovery</text>
   </message>
   <message>
     <key>param_msg_stamina_recovery</key>
-    <text xml:space="preserve">スタミナ回復</text>
+    <text xml:space="preserve">Stamina Recovery</text>
   </message>
   <message>
     <key>param_msg_bazaar_ok</key>
@@ -797,7 +797,7 @@
   </message>
   <message>
     <key>param_msg_bazaar_ng</key>
-    <text xml:space="preserve">NG</text>
+    <text xml:space="preserve">NO</text>
   </message>
   <message>
     <key>param_msg_alljob_equip</key>
@@ -841,7 +841,7 @@
   </message>
   <message>
     <key>parts_lantern</key>
-    <text xml:space="preserve">ランタン</text>
+    <text xml:space="preserve">Lantern</text>
   </message>
   <message>
     <key>param_msg_posnum_ticket</key>
