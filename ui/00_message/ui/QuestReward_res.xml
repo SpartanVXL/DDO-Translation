@@ -5,7 +5,7 @@
   </message>
   <message>
     <key>REWARD_MSG_LB_REWARD_NUMBER</key>
-    <text xml:space="preserve">報酬件数：</text>
+    <text xml:space="preserve">Reward Total:</text>
   </message>
   <message>
     <key>REWARD_MSG_LB_POCKET_G</key>
@@ -49,99 +49,99 @@
   </message>
   <message>
     <key>REWARD_MSG_NOTION_PLZ_PICK</key>
-    <text xml:space="preserve">選択報酬を選んでください</text>
+    <text xml:space="preserve">Please choose a Select Reward.</text>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_PLZ_ONE</key>
-    <text xml:space="preserve">１つ選んでください</text>
+    <text xml:space="preserve">Please choose one.</text>
   </message>
   <message>
     <key>REWARD_MSG_REWARD_COMMON</key>
-    <text xml:space="preserve">基本報酬</text>
+    <text xml:space="preserve">Basic Reward</text>
   </message>
   <message>
     <key>REWARD_MSG_REWARD_PREMIAM</key>
-    <text xml:space="preserve">&lt;OPCS&gt;報酬</text>
+    <text xml:space="preserve">&lt;OPCS&gt; Reward</text>
   </message>
   <message>
     <key>REWARD_MSG_BUTTON_ALLGET</key>
-    <text xml:space="preserve">全て受け取る</text>
+    <text xml:space="preserve">Receive All</text>
   </message>
   <message>
     <key>REWARD_MSG_BUTTON_END</key>
-    <text xml:space="preserve">一部受け取る</text>
+    <text xml:space="preserve">Receive Partial</text>
   </message>
   <message>
     <key>REWARD_MSG_BUTTON_CANCEL</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_ALLGET</key>
-    <text xml:space="preserve">全ての報酬を受け取りますか？</text>
+    <text xml:space="preserve">Do you want to receive all the rewards?</text>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_BUY</key>
-    <text xml:space="preserve">チェックを付けていない報酬は売却されます
-(未選択の選択報酬は破棄されます)
-よろしいですか？
-売却合計額：&lt;VAL G&gt;</text>
+    <text xml:space="preserve">Random Rewards that were not checked will be sold.
+(Select Rewards not checked will be discarded.)
+Are you sure?
+Total Sale: &lt;VAL G&gt;</text>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_CANCEL</key>
-    <text xml:space="preserve">報酬受け取りをやめます</text>
+    <text xml:space="preserve">Receive reward canceled.</text>
   </message>
   <message>
     <key>REWARD_MSG_YES</key>
-    <text xml:space="preserve">はい</text>
+    <text xml:space="preserve">Yes</text>
   </message>
   <message>
     <key>REWARD_MSG_NO</key>
-    <text xml:space="preserve">いいえ</text>
+    <text xml:space="preserve">No</text>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_FAILURE</key>
-    <text xml:space="preserve">報酬受け取りに失敗しました</text>
+    <text xml:space="preserve">Failed to accept rewards.</text>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_FINISH</key>
-    <text xml:space="preserve">報酬を保管ボックスに受け取りました</text>
+    <text xml:space="preserve">Received rewards into your storage box.</text>
   </message>
   <message>
     <key>REWARD_MSG_ANNOUNCE_QCLEAR</key>
-    <text xml:space="preserve">クエスト報酬が報酬ボックスに入りました</text>
+    <text xml:space="preserve">Quest rewards have been placed into your storage box.</text>
   </message>
   <message>
     <key>REWARD_MSG_REWARD_BONUS</key>
-    <text xml:space="preserve">ボーナス報酬</text>
+    <text xml:space="preserve">Bonus Reward</text>
   </message>
   <message>
     <key>REWARD_MSG_STOP_PLZ_PICK</key>
-    <text xml:space="preserve">選択報酬が選ばれていないため
-「全て受け取り」ができません</text>
+    <text xml:space="preserve">Some Select Rewards were not checked.
+Not all items will be received.</text>
   </message>
   <message>
     <key>REWARD_MSG_STOP_ITEMOVER</key>
-    <text xml:space="preserve">保管ボックスが入りきらないため
-「全て受け取り」ができません</text>
+    <text xml:space="preserve">The storage box is full.
+Not all items will be received.</text>
   </message>
   <message>
     <key>REWARD_MSG_KIND_RANKING</key>
-    <text xml:space="preserve">ランキング報酬</text>
+    <text xml:space="preserve">Ranking Reward</text>
   </message>
   <message>
     <key>REWARD_MSG_KIND_BORDER</key>
-    <text xml:space="preserve">累計スコア報酬</text>
+    <text xml:space="preserve">Total Score Reward</text>
   </message>
   <message>
     <key>REWARD_MSG_KIND_QUEST</key>
-    <text xml:space="preserve">クエスト報酬</text>
+    <text xml:space="preserve">Quest Reward</text>
   </message>
   <message>
     <key>REWARD_MSG_NOTICE_SELL</key>
-    <text xml:space="preserve">チェックを付けていない報酬は売却されます
-(未選択の選択報酬は破棄されます)
-よろしいですか？
-売却合計額：&lt;VAL GOLD&gt;</text>
+    <text xml:space="preserve">Random Rewards that were not checked will be sold.
+(Select Rewards not checked will be discarded.)
+Are you sure?
+Total Sale: &lt;VAL G&gt;</text>
   </message>
   <message>
     <key>REWARD_MSG_TITLE</key>
@@ -149,18 +149,18 @@
   </message>
   <message>
     <key>REWARD_MSG_TITLE_SUB</key>
-    <text xml:space="preserve">報酬受け取り</text>
+    <text xml:space="preserve">Rewards Received</text>
   </message>
   <message>
     <key>REWARD_MSG_KIND_SUPPORT</key>
-    <text xml:space="preserve">アシスト報酬</text>
+    <text xml:space="preserve">Assist Reward</text>
   </message>
   <message>
     <key>REWARD_MSG_NO_REWOARD</key>
-    <text xml:space="preserve">報酬はありません</text>
+    <text xml:space="preserve">There are currently no rewards.</text>
   </message>
   <message>
     <key>REWARD_MSG_ALL_DELETE</key>
-    <text xml:space="preserve">報酬を売却しました</text>
+    <text xml:space="preserve">Rewards have been sold.</text>
   </message>
 </resource>
