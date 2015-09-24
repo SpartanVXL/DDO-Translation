@@ -105,7 +105,7 @@
   </message>
   <message>
     <key>QUEST_MSG_LB_AREAP</key>
-    <text xml:space="preserve">エリア名声度：&lt;NAME AREA_NAME&gt;</text>
+    <text xml:space="preserve">Area Reputation: &lt;NAME AREA_NAME&gt;</text>
   </message>
   <message>
     <key>QUEST_MSG_NAME_AREA</key>
@@ -169,11 +169,11 @@
   </message>
   <message>
     <key>QUEST_MSG_BUTTON_ACCEPT</key>
-    <text xml:space="preserve">受注する</text>
+    <text xml:space="preserve">Accept</text>
   </message>
   <message>
     <key>QUEST_MSG_BUTTON_CANCEL</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_SPBONUS</key>
@@ -181,11 +181,11 @@
   </message>
   <message>
     <key>QUEST_MSG_SUBMENU</key>
-    <text xml:space="preserve">サブメニュー</text>
+    <text xml:space="preserve">Sub-Menu</text>
   </message>
   <message>
     <key>QUEST_MSG_AREAPOINT</key>
-    <text xml:space="preserve">エリア名声度 &lt;VAL AREA_POINT&gt;</text>
+    <text xml:space="preserve">Area Reputation &lt;VAL AREA_POINT&gt;</text>
   </message>
   <message>
     <key>QUEST_MSG_TAB_ALL</key>
@@ -371,7 +371,7 @@
   </message>
   <message>
     <key>QUEST_MSG_TIME_LIMIT</key>
-    <text xml:space="preserve">配信終了まで</text>
+    <text xml:space="preserve">Time Limit</text>
   </message>
   <message>
     <key>QUEST_MSG_NOTHING_0</key>
