@@ -1,15 +1,15 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>syslog_battle_danger_tg</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が行動不能になりました</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has become incapacitated.</text>
   </message>
   <message>
     <key>syslog_battle_danger</key>
-    <text xml:space="preserve">&lt;VAL&gt; 秒で最後に立ち寄った拠点から再開されます</text>
+    <text xml:space="preserve">You will be returned home in &lt;VAL&gt; seconds.</text>
   </message>
   <message>
     <key>syslog_battle_die</key>
-    <text xml:space="preserve">あと&lt;VAL&gt;秒で最後に立ち寄った拠点から再開されます</text>
+    <text xml:space="preserve">After &lt;VAL&gt; seconds, you will be returned home.</text>
   </message>
   <message>
     <key>syslog_tail_on</key>
