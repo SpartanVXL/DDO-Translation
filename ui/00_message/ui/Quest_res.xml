@@ -25,7 +25,7 @@
   </message>
   <message>
     <key>QUEST_MSG_LB_G</key>
-    <text xml:space="preserve">ゴールド</text>
+    <text xml:space="preserve">Gold</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_RIM</key>
@@ -57,39 +57,39 @@
   </message>
   <message>
     <key>QUEST_MSG_ACCEPTED</key>
-    <text xml:space="preserve">受注数：</text>
+    <text xml:space="preserve">Accepted:</text>
   </message>
   <message>
     <key>QUEST_MSG_MENU</key>
-    <text xml:space="preserve">メニュー</text>
+    <text xml:space="preserve">Menu</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_ABS</key>
-    <text xml:space="preserve">概要</text>
+    <text xml:space="preserve">Overview</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_PROG</key>
-    <text xml:space="preserve">進行</text>
+    <text xml:space="preserve">Progress</text>
   </message>
   <message>
     <key>QUEST_MSG_TAB_MYQ</key>
-    <text xml:space="preserve">マイクエスト</text>
+    <text xml:space="preserve">My Quest</text>
   </message>
   <message>
     <key>QUEST_MSG_TAB_PTQ</key>
-    <text xml:space="preserve">パーティークエスト情報</text>
+    <text xml:space="preserve">Party Quest Information</text>
   </message>
   <message>
     <key>QUEST_MSG_CG_MAIN</key>
-    <text xml:space="preserve">メインクエスト</text>
+    <text xml:space="preserve">Main Quest</text>
   </message>
   <message>
     <key>QUEST_MSG_CG_GRAND</key>
-    <text xml:space="preserve">ワールドクエスト</text>
+    <text xml:space="preserve">World Quest</text>
   </message>
   <message>
     <key>QUEST_MSG_CG_SOLO</key>
-    <text xml:space="preserve">パーソナルクエスト</text>
+    <text xml:space="preserve">Personal Quest</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_NSTEP</key>
@@ -105,7 +105,7 @@
   </message>
   <message>
     <key>QUEST_MSG_LB_AREAP</key>
-    <text xml:space="preserve">エリア名声度：&lt;NAME AREA_NAME&gt;</text>
+    <text xml:space="preserve">Area Reputation: &lt;NAME AREA_NAME&gt;</text>
   </message>
   <message>
     <key>QUEST_MSG_NAME_AREA</key>
@@ -169,11 +169,11 @@
   </message>
   <message>
     <key>QUEST_MSG_BUTTON_ACCEPT</key>
-    <text xml:space="preserve">受注する</text>
+    <text xml:space="preserve">Accept</text>
   </message>
   <message>
     <key>QUEST_MSG_BUTTON_CANCEL</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_SPBONUS</key>
@@ -181,23 +181,23 @@
   </message>
   <message>
     <key>QUEST_MSG_SUBMENU</key>
-    <text xml:space="preserve">サブメニュー</text>
+    <text xml:space="preserve">Sub-Menu</text>
   </message>
   <message>
     <key>QUEST_MSG_AREAPOINT</key>
-    <text xml:space="preserve">エリア名声度 &lt;VAL AREA_POINT&gt;</text>
+    <text xml:space="preserve">Area Reputation &lt;VAL AREA_POINT&gt;</text>
   </message>
   <message>
     <key>QUEST_MSG_TAB_ALL</key>
-    <text xml:space="preserve">すべて</text>
+    <text xml:space="preserve">All</text>
   </message>
   <message>
     <key>QUEST_MSG_TAB_HUNT</key>
-    <text xml:space="preserve">討伐</text>
+    <text xml:space="preserve">Hunt</text>
   </message>
   <message>
     <key>QUEST_MSG_TAB_COLLECT</key>
-    <text xml:space="preserve">採取</text>
+    <text xml:space="preserve">Collect</text>
   </message>
   <message>
     <key>QUEST_MSG_CAUTION_FULL</key>
@@ -242,7 +242,7 @@
   </message>
   <message>
     <key>QUEST_MSG_NOTHING</key>
-    <text xml:space="preserve">現在受注しているクエストはありません</text>
+    <text xml:space="preserve">There are currrently no quests available.</text>
   </message>
   <message>
     <key>QUEST_MSG_NUMBER</key>
@@ -250,19 +250,19 @@
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_XP_UP</key>
-    <text xml:space="preserve">経験値アップ</text>
+    <text xml:space="preserve">Experience Points Up</text>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_AP_UP</key>
-    <text xml:space="preserve">エリアポイントアップ</text>
+    <text xml:space="preserve">Area Points Up</text>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_RIM_UP</key>
-    <text xml:space="preserve">リムアップ</text>
+    <text xml:space="preserve">Rift Crystals Up</text>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_GOLD_UP</key>
-    <text xml:space="preserve">ゴールドアップ</text>
+    <text xml:space="preserve">Gold Up</text>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_SLOT_UP</key>
@@ -282,11 +282,11 @@
   </message>
   <message>
     <key>QUEST_MSG_MENU_ORDER</key>
-    <text xml:space="preserve">クエスト受注</text>
+    <text xml:space="preserve">Quest Order</text>
   </message>
   <message>
     <key>QUEST_MSG_SUPPORT_REWARD</key>
-    <text xml:space="preserve">アシスト報酬</text>
+    <text xml:space="preserve">Assist Reward</text>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_XP</key>
@@ -306,15 +306,15 @@
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_RANDOM</key>
-    <text xml:space="preserve">ランダム報酬枠が%d増加（%s）</text>
+    <text xml:space="preserve">Random rewards increased by %d (%s)</text>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_CHANCE_NUMBER</key>
-    <text xml:space="preserve">ボーナス発生まで%d回</text>
+    <text xml:space="preserve">Bonus available after %d clears</text>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_TIME</key>
-    <text xml:space="preserve">ボーナス発生中</text>
+    <text xml:space="preserve">Bonus currently active</text>
   </message>
   <message>
     <key>QUEST_MSG_OPTION_COURSE</key>
@@ -367,11 +367,11 @@
   </message>
   <message>
     <key>QUEST_MSG_RANDOM_REWARD</key>
-    <text xml:space="preserve">ランダム報酬</text>
+    <text xml:space="preserve">Random Reward</text>
   </message>
   <message>
     <key>QUEST_MSG_TIME_LIMIT</key>
-    <text xml:space="preserve">配信終了まで</text>
+    <text xml:space="preserve">Time Limit</text>
   </message>
   <message>
     <key>QUEST_MSG_NOTHING_0</key>
@@ -379,7 +379,7 @@
   </message>
   <message>
     <key>QUEST_MSG_LEADER_CONDITION</key>
-    <text xml:space="preserve">リーダーが受注条件を満たしていません</text>
+    <text xml:space="preserve">Leader does not meet the conditions.</text>
   </message>
   <message>
     <key>QUEST_MSG_AREA_BONUS</key>
