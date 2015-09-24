@@ -1,5 +1,7 @@
 # DDO-Translation
 
+UPDATE: When doing translation please open up your own branch for your changes. When you feel that your edits are ready for review please open a pull request to have your branch merged into master. This lets people see your request, the changes it makes as well as allowing them to comment/feedback on it before merging. If you are unsure of how branching works please read the github wiki or other guides on git branching.
+
 This is a repository for the translation of Dragon's Dogma Online.
 
 To collaborate: PM me on reddit (/u/SpartanVXL) with your Github username or email address and I will add you to the repo
