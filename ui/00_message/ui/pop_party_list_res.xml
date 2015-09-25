@@ -109,55 +109,55 @@
   </message>
   <message>
     <key>pop_prof_quickparty_title00</key>
-    <text xml:space="preserve">設定の編集</text>
+    <text xml:space="preserve">Edit Settings</text>
   </message>
   <message>
     <key>pop_prof_quickparty_name</key>
-    <text xml:space="preserve">セット名</text>
+    <text xml:space="preserve">Name</text>
   </message>
   <message>
     <key>pop_prof_main_purpose</key>
-    <text xml:space="preserve">冒険目的</text>
+    <text xml:space="preserve">Main Purpose</text>
   </message>
   <message>
     <key>pop_prof_sub_purpose</key>
-    <text xml:space="preserve">小目的</text>
+    <text xml:space="preserve">Sub Purpose</text>
   </message>
   <message>
     <key>pop_prof_quickparty_pawn</key>
-    <text xml:space="preserve">ポーン：</text>
+    <text xml:space="preserve">Pawns:</text>
   </message>
   <message>
     <key>pop_prof_quickparty_pawn_allow</key>
-    <text xml:space="preserve">許可する</text>
+    <text xml:space="preserve">Allow</text>
   </message>
   <message>
     <key>pop_prof_quickparty_pawn_disallow</key>
-    <text xml:space="preserve">許可しない</text>
+    <text xml:space="preserve">Disallow</text>
   </message>
   <message>
     <key>pop_prof_quickparty_continue</key>
-    <text xml:space="preserve">続ける</text>
+    <text xml:space="preserve">Continue</text>
   </message>
   <message>
     <key>pop_prof_quickparty_end</key>
-    <text xml:space="preserve">終了</text>
+    <text xml:space="preserve">End</text>
   </message>
   <message>
     <key>pop_prof_quickparty</key>
-    <text xml:space="preserve">クイックパーティー</text>
+    <text xml:space="preserve">Quick Party</text>
   </message>
   <message>
     <key>pop_prof_quickparty_retry</key>
-    <text xml:space="preserve">リトライ</text>
+    <text xml:space="preserve">Retry</text>
   </message>
   <message>
     <key>pop_prof_quickparty_fail</key>
-    <text xml:space="preserve">マッチング失敗</text>
+    <text xml:space="preserve">Match failed.</text>
   </message>
   <message>
     <key>pop_prof_quickparty_time</key>
-    <text xml:space="preserve">あと &lt;VAL&gt; 秒後に終了します</text>
+    <text xml:space="preserve">Quick party will quit after &lt;VAL&gt; seconds.</text>
   </message>
   <message>
     <key>pop_prof_level_wavedash</key>
@@ -185,52 +185,52 @@
   </message>
   <message>
     <key>PopPartyList_PlayerSearch_LevelMin</key>
-    <text xml:space="preserve">以上</text>
+    <text xml:space="preserve">Minimum</text>
   </message>
   <message>
     <key>PopPartyList_PlayerSearch_LevelMax</key>
-    <text xml:space="preserve">以下</text>
+    <text xml:space="preserve">Maximum</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_Title</key>
-    <text xml:space="preserve">クイックパーティー条件編集</text>
+    <text xml:space="preserve">Edit Quick Party Conditions</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_JobBalance</key>
-    <text xml:space="preserve">ジョブバランスを取る</text>
+    <text xml:space="preserve">Job Balance</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_JobBalanceBrief</key>
-    <text xml:space="preserve">(タンク1人/アタッカー2人/ヒーラー1人でバランスを取ります）</text>
+    <text xml:space="preserve">(Party will be balanced with 1 Tank / 2 Attackers / 1 Healer)</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_LevelBalance</key>
-    <text xml:space="preserve">レベルバランスを取る</text>
+    <text xml:space="preserve">Level Balance</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_LevelBalanceBrief</key>
-    <text xml:space="preserve">(±4以内で検索します)</text>
+    <text xml:space="preserve">(Search for levels within ±4)</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_Warning</key>
-    <text xml:space="preserve">※進行に変化があった場合は、クイックパーティーの登録が解除されます
-※パーティーにポーンがいる場合は、クイックパーティー合流時に
-　パーティーから外れます</text>
+    <text xml:space="preserve">※If there is a change in quest progress, the registration will be canceled.
+※If there are pawns in party when the quick party forms,
+they will be dismissed.</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_MainPurpose_Main</key>
-    <text xml:space="preserve">メインクエストで遊ぶ</text>
+    <text xml:space="preserve">Play Main Quest</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_MainPurpose_Area</key>
-    <text xml:space="preserve">エリアで遊ぶ</text>
+    <text xml:space="preserve">Play in an Area</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_MainPurpose_News</key>
-    <text xml:space="preserve">レスタニアニュースで遊ぶ</text>
+    <text xml:space="preserve">Play Lestania News</text>
   </message>
   <message>
     <key>PopPartyList_Simple_Req_Title</key>
-    <text xml:space="preserve">簡易パーティー要請条件設定</text>
+    <text xml:space="preserve">Set Simple Party Conditions</text>
   </message>
 </resource>
