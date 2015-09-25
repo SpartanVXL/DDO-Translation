@@ -5,36 +5,36 @@
   </message>
   <message>
     <key>EDIT_MSG_JOB_FIGHTER</key>
-    <text xml:space="preserve">ファイター</text>
+    <text xml:space="preserve">Fighter</text>
   </message>
   <message>
     <key>EDIT_MSG_JOB_HUNTER</key>
-    <text xml:space="preserve">ハンター</text>
+    <text xml:space="preserve">Hunter</text>
   </message>
   <message>
     <key>EDIT_MSG_JOB_PRIEST</key>
-    <text xml:space="preserve">プリースト</text>
+    <text xml:space="preserve">Priest</text>
   </message>
   <message>
     <key>EDIT_MSG_JOB_SEALEDSAGE</key>
-    <text xml:space="preserve">シールドセージ</text>
+    <text xml:space="preserve">Shield Sage</text>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_JOB_SELECT</key>
-    <text xml:space="preserve">ジョブの設定をします</text>
+    <text xml:space="preserve">Set Job</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_SELECT</key>
-    <text xml:space="preserve">このジョブでよろしいですか？
-(ジョブはゲーム内の施設からいつでも転職できます)</text>
+    <text xml:space="preserve">Set this job as your current?
+(You can change your job at any time)</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_REPLY_YES</key>
-    <text xml:space="preserve">はい</text>
+    <text xml:space="preserve">Yes</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_REPLY_NO</key>
-    <text xml:space="preserve">いいえ</text>
+    <text xml:space="preserve">No</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_REPLY_OK</key>
@@ -56,28 +56,28 @@
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_ALL</key>
-    <text xml:space="preserve">誰でも</text>
+    <text xml:space="preserve">Anyone</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_FRIEND_CLAN</key>
-    <text xml:space="preserve">クランとフレンド</text>
+    <text xml:space="preserve">Clan and Friends</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_FRIEND</key>
-    <text xml:space="preserve">フレンド</text>
+    <text xml:space="preserve">Friends</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_CLAN</key>
-    <text xml:space="preserve">クラン</text>
+    <text xml:space="preserve">Clan</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_NOT</key>
-    <text xml:space="preserve">非公開</text>
+    <text xml:space="preserve">Private</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_ERROR_NAME_USED2</key>
-    <text xml:space="preserve">&lt;NAME&gt;は
-すでに使用されている名前です
-違う名前に変更してください</text>
+    <text xml:space="preserve">The name&lt;NAME&gt;
+is not available.
+Please use another name</text>
   </message>
 </resource>
