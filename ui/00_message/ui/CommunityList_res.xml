@@ -1,39 +1,39 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>COMLIST_MSG_BLACK_LIST</key>
-    <text xml:space="preserve">ブラックリスト</text>
+    <text xml:space="preserve">Blacklist</text>
   </message>
   <message>
     <key>COMLIST_MSG_FRIEND</key>
-    <text xml:space="preserve">フレンド</text>
+    <text xml:space="preserve">Friend</text>
   </message>
   <message>
     <key>COMLIST_MSG_CLAN</key>
-    <text xml:space="preserve">クラン</text>
+    <text xml:space="preserve">Clan</text>
   </message>
   <message>
     <key>COMLIST_MSG_REGIST_NUMOFPEAPLE</key>
-    <text xml:space="preserve">登録人数</text>
+    <text xml:space="preserve">Number</text>
   </message>
   <message>
     <key>COMLIST_MSG_BETWEEN_APPLICATION</key>
-    <text xml:space="preserve">申請中</text>
+    <text xml:space="preserve">Pending Request</text>
   </message>
   <message>
     <key>COMLIST_MSG_WAIT_APPROVAL</key>
-    <text xml:space="preserve">承認待</text>
+    <text xml:space="preserve">Pending Approval</text>
   </message>
   <message>
     <key>COMLIST_MSG_PLAYER_NAME</key>
-    <text xml:space="preserve">名前</text>
+    <text xml:space="preserve">Name</text>
   </message>
   <message>
     <key>COMLIST_MSG_JOB_LV</key>
-    <text xml:space="preserve">ジョブレベル</text>
+    <text xml:space="preserve">Job Level</text>
   </message>
   <message>
     <key>COMLIST_MSG_LOBBY_ID</key>
-    <text xml:space="preserve">ロビー</text>
+    <text xml:space="preserve">Lobby</text>
   </message>
   <message>
     <key>COMLIST_MSG_PARTY_PL_NUM</key>
@@ -41,7 +41,7 @@
   </message>
   <message>
     <key>COMLIST_MSG_COMMENT</key>
-    <text xml:space="preserve">コメント</text>
+    <text xml:space="preserve">Comment</text>
   </message>
   <message>
     <key>COMLIST_MSG_COMMUNITY_LIST</key>
@@ -49,34 +49,34 @@
   </message>
   <message>
     <key>COMLIST_MSG_COMM_LIST_JP</key>
-    <text xml:space="preserve">コミュニティリスト</text>
+    <text xml:space="preserve">Community List</text>
   </message>
   <message>
     <key>COMLIST_MSG_FRIEND_LIST</key>
-    <text xml:space="preserve">フレンドリスト</text>
+    <text xml:space="preserve">Friends</text>
   </message>
   <message>
     <key>COMLIST_MSG_ACTIVE_LIST</key>
-    <text xml:space="preserve">オンラインメンバー</text>
+    <text xml:space="preserve">Online</text>
   </message>
   <message>
     <key>COMLIST_MSG_RECENT_LIST</key>
-    <text xml:space="preserve">最近遊んだプレイヤー</text>
+    <text xml:space="preserve">Recent</text>
   </message>
   <message>
     <key>COMLIST_MSG_ANA_0_FRIEND</key>
-    <text xml:space="preserve">フレンドがいません</text>
+    <text xml:space="preserve">No friends</text>
   </message>
   <message>
     <key>COMLIST_MSG_ANA_0_ACTIVE</key>
-    <text xml:space="preserve">オンライン中のフレンド、クランメンバーがいません</text>
+    <text xml:space="preserve">No online friends or clanmates</text>
   </message>
   <message>
     <key>COMLIST_MSG_ANA_0_RECENT</key>
-    <text xml:space="preserve">最近遊んだ人はいません</text>
+    <text xml:space="preserve">No recent players</text>
   </message>
   <message>
     <key>COMLIST_MSG_ANA_0_BLACK</key>
-    <text xml:space="preserve">ブラックリストに登録されている人はいません</text>
+    <text xml:space="preserve">Nobody has been blacklisted</text>
   </message>
 </resource>

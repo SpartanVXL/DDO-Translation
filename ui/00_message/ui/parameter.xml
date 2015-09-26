@@ -41,7 +41,7 @@
   </message>
   <message>
     <key>item_sell_price</key>
-    <text xml:space="preserve">Sell</text>
+    <text xml:space="preserve">Sell Value</text>
   </message>
   <message>
     <key>item_max_price</key>
@@ -73,7 +73,7 @@
   </message>
   <message>
     <key>weight</key>
-    <text xml:space="preserve">重量</text>
+    <text xml:space="preserve">Weight</text>
   </message>
   <message>
     <key>item_max_equip</key>
@@ -193,11 +193,11 @@
   </message>
   <message>
     <key>give_drenching</key>
-    <text xml:space="preserve">Inflicts Drench</text>
+    <text xml:space="preserve">Inflicts Drenching</text>
   </message>
   <message>
     <key>give_tarring</key>
-    <text xml:space="preserve">Inflicts Tar</text>
+    <text xml:space="preserve">Inflicts Tarring</text>
   </message>
   <message>
     <key>give_stifling</key>
@@ -209,15 +209,15 @@
   </message>
   <message>
     <key>give_petrify</key>
-    <text xml:space="preserve">Inflicts Petrify</text>
+    <text xml:space="preserve">Inflicts Petrifaction</text>
   </message>
   <message>
     <key>give_cought_fire</key>
-    <text xml:space="preserve">Inflicts Burn</text>
+    <text xml:space="preserve">Inflicts Catching Fire</text>
   </message>
   <message>
     <key>give_frozen</key>
-    <text xml:space="preserve">Inflicts Freeze</text>
+    <text xml:space="preserve">Inflicts Frozen Solid</text>
   </message>
   <message>
     <key>give_thundershock</key>
@@ -313,11 +313,11 @@
   </message>
   <message>
     <key>resist_cought_fire</key>
-    <text xml:space="preserve">Resist Burn</text>
+    <text xml:space="preserve">Resiset Catching Fire</text>
   </message>
   <message>
     <key>resist_frozen</key>
-    <text xml:space="preserve">Resist Freeze</text>
+    <text xml:space="preserve">Resist Frozen Solid</text>
   </message>
   <message>
     <key>resist_thundershock</key>
@@ -349,11 +349,11 @@
   </message>
   <message>
     <key>resist_drenching</key>
-    <text xml:space="preserve">Resist Drench</text>
+    <text xml:space="preserve">Resist Drenching</text>
   </message>
   <message>
     <key>resist_tarring</key>
-    <text xml:space="preserve">Resist Tar</text>
+    <text xml:space="preserve">Resist Tarring</text>
   </message>
   <message>
     <key>resist_stifling</key>
@@ -369,7 +369,7 @@
   </message>
   <message>
     <key>resist_petrify</key>
-    <text xml:space="preserve">Resist Petrify</text>
+    <text xml:space="preserve">Resist Petrifaction</text>
   </message>
   <message>
     <key>resist_fire_resist_down</key>
@@ -417,7 +417,7 @@
   </message>
   <message>
     <key>item_categoryname_weapon</key>
-    <text xml:space="preserve">Weapon</text>
+    <text xml:space="preserve">Equipment</text>
   </message>
   <message>
     <key>item_categoryname_key</key>
@@ -433,7 +433,7 @@
   </message>
   <message>
     <key>material_cateforyname_mineral</key>
-    <text xml:space="preserve">Mineral</text>
+    <text xml:space="preserve">Ore</text>
   </message>
   <message>
     <key>material_cateforyname_sand</key>
@@ -453,7 +453,7 @@
   </message>
   <message>
     <key>material_cateforyname_pelt</key>
-    <text xml:space="preserve">Pelt</text>
+    <text xml:space="preserve">Skin</text>
   </message>
   <message>
     <key>material_cateforyname_bone</key>
@@ -477,7 +477,7 @@
   </message>
   <message>
     <key>material_cateforyname_jewel</key>
-    <text xml:space="preserve">Jewel</text>
+    <text xml:space="preserve">Gem</text>
   </message>
   <message>
     <key>material_cateforyname_grass</key>
@@ -509,7 +509,7 @@
   </message>
   <message>
     <key>material_cateforyname_alchemy</key>
-    <text xml:space="preserve">Alchemy</text>
+    <text xml:space="preserve">Alchemy Material</text>
   </message>
   <message>
     <key>material_cateforyname_meat</key>
@@ -517,23 +517,23 @@
   </message>
   <message>
     <key>material_cateforyname_etc</key>
-    <text xml:space="preserve">Etc</text>
+    <text xml:space="preserve">Other</text>
   </message>
   <message>
     <key>material_cateforyname_crest_for_wea</key>
-    <text xml:space="preserve">Weapon Crest</text>
+    <text xml:space="preserve">Crest: Weapon</text>
   </message>
   <message>
     <key>material_cateforyname_crest_for_gua</key>
-    <text xml:space="preserve">Armor Crest</text>
+    <text xml:space="preserve">Crest: Armor</text>
   </message>
   <message>
     <key>material_cateforyname_special_for_w</key>
-    <text xml:space="preserve">Weapon Refine Material</text>
+    <text xml:space="preserve">Refining Material: Weapon</text>
   </message>
   <message>
     <key>material_cateforyname_special_for_g</key>
-    <text xml:space="preserve">Armor Refine Material</text>
+    <text xml:space="preserve">Refining Material: Armor</text>
   </message>
   <message>
     <key>material_cateforyname_dyes</key>
@@ -541,59 +541,59 @@
   </message>
   <message>
     <key>material_large_cateforyname_inorgan</key>
-    <text xml:space="preserve">無機物</text>
+    <text xml:space="preserve">Inorganic</text>
   </message>
   <message>
     <key>material_large_cateforyname_plant</key>
-    <text xml:space="preserve">植物</text>
+    <text xml:space="preserve">Plant</text>
   </message>
   <message>
     <key>material_large_cateforyname_animal</key>
-    <text xml:space="preserve">動物</text>
+    <text xml:space="preserve">Animal</text>
   </message>
   <message>
     <key>material_large_cateforyname_sewing</key>
-    <text xml:space="preserve">裁縫</text>
+    <text xml:space="preserve">Sewing</text>
   </message>
   <message>
     <key>material_large_cateforyname_artifac</key>
-    <text xml:space="preserve">人工物</text>
+    <text xml:space="preserve">Artifact</text>
   </message>
   <message>
     <key>parts_main_weapon</key>
-    <text xml:space="preserve">メイン武器</text>
+    <text xml:space="preserve">Main Weapon</text>
   </message>
   <message>
     <key>parts_sub_weapon</key>
-    <text xml:space="preserve">サブ武器</text>
+    <text xml:space="preserve">Sub Weapon</text>
   </message>
   <message>
     <key>parts_head_armor</key>
-    <text xml:space="preserve">頭防具</text>
+    <text xml:space="preserve">Head Armor</text>
   </message>
   <message>
     <key>parts_body_armor</key>
-    <text xml:space="preserve">胴アーマー</text>
+    <text xml:space="preserve">Torso Armor</text>
   </message>
   <message>
     <key>parts_body_wear</key>
-    <text xml:space="preserve">胴ウェア</text>
+    <text xml:space="preserve">Chest Clothing</text>
   </message>
   <message>
     <key>parts_arm_armor</key>
-    <text xml:space="preserve">腕防具</text>
+    <text xml:space="preserve">Arm Armor</text>
   </message>
   <message>
     <key>parts_leg_armor</key>
-    <text xml:space="preserve">脚アーマー</text>
+    <text xml:space="preserve">Leg Armor</text>
   </message>
   <message>
     <key>parts_leg_wear</key>
-    <text xml:space="preserve">脚ウェア</text>
+    <text xml:space="preserve">Leg Clothing</text>
   </message>
   <message>
     <key>parts_overwear</key>
-    <text xml:space="preserve">オーバーウェア</text>
+    <text xml:space="preserve">Outerwear</text>
   </message>
   <message>
     <key>parts_jewelry</key>
@@ -609,23 +609,23 @@
   </message>
   <message>
     <key>character_name</key>
-    <text xml:space="preserve">名前</text>
+    <text xml:space="preserve">Name</text>
   </message>
   <message>
     <key>character_sex</key>
-    <text xml:space="preserve">性別</text>
+    <text xml:space="preserve">Gender</text>
   </message>
   <message>
     <key>character_height</key>
-    <text xml:space="preserve">身長</text>
+    <text xml:space="preserve">Height</text>
   </message>
   <message>
     <key>character_hp</key>
-    <text xml:space="preserve">体力</text>
+    <text xml:space="preserve">Health Points</text>
   </message>
   <message>
     <key>character_st</key>
-    <text xml:space="preserve">スタミナ</text>
+    <text xml:space="preserve">Stamina</text>
   </message>
   <message>
     <key>character_number_of_ability_set</key>
@@ -657,19 +657,19 @@
   </message>
   <message>
     <key>pawn_craft_rank</key>
-    <text xml:space="preserve">クラフトレベル</text>
+    <text xml:space="preserve">Craft Level</text>
   </message>
   <message>
     <key>pawn_craft_xp</key>
-    <text xml:space="preserve">クラフト経験値</text>
+    <text xml:space="preserve">Craft Experience</text>
   </message>
   <message>
     <key>pawn_craft_point</key>
-    <text xml:space="preserve">クラフトポイント</text>
+    <text xml:space="preserve">Craft Point</text>
   </message>
   <message>
     <key>pawn_craftskill_time</key>
-    <text xml:space="preserve">Craft Skill: Craft Speed</text>
+    <text xml:space="preserve">Craft Skill: Production Speed</text>
   </message>
   <message>
     <key>pawn_craftskill_powerup</key>
@@ -681,11 +681,11 @@
   </message>
   <message>
     <key>pawn_craftskill_number</key>
-    <text xml:space="preserve">Craft Skill: Consumable Production Rate</text>
+    <text xml:space="preserve">Craft Skill: Consumable Production Quantity</text>
   </message>
   <message>
     <key>pawn_craftskill_cost</key>
-    <text xml:space="preserve">Craft Skill: Crafting Cost</text>
+    <text xml:space="preserve">Craft Skill: Cost Performance</text>
   </message>
   <message>
     <key>pawn_craft_promote</key>
@@ -705,11 +705,11 @@
   </message>
   <message>
     <key>character_job_level</key>
-    <text xml:space="preserve">ジョブレベル</text>
+    <text xml:space="preserve">Job Level</text>
   </message>
   <message>
     <key>character_job_xp</key>
-    <text xml:space="preserve">ジョブ経験値</text>
+    <text xml:space="preserve">Job Experience</text>
   </message>
   <message>
     <key>character_tiredness</key>
@@ -717,47 +717,47 @@
   </message>
   <message>
     <key>character_jp</key>
-    <text xml:space="preserve">ジョブポイント</text>
+    <text xml:space="preserve">Job Point</text>
   </message>
   <message>
     <key>character_phisical_attack</key>
-    <text xml:space="preserve">筋力</text>
+    <text xml:space="preserve">Strength</text>
   </message>
   <message>
     <key>character_magic_attack</key>
-    <text xml:space="preserve">魔力</text>
+    <text xml:space="preserve">Magick</text>
   </message>
   <message>
     <key>dye_color_black</key>
-    <text xml:space="preserve">黒</text>
+    <text xml:space="preserve">Black</text>
   </message>
   <message>
     <key>dye_color_all</key>
-    <text xml:space="preserve">オールマイティ</text>
+    <text xml:space="preserve">Almighty</text>
   </message>
   <message>
     <key>dye_color_default</key>
-    <text xml:space="preserve">デフォルト</text>
+    <text xml:space="preserve">Default</text>
   </message>
   <message>
     <key>dye_color_red</key>
-    <text xml:space="preserve">赤</text>
+    <text xml:space="preserve">Red</text>
   </message>
   <message>
     <key>dye_color_green</key>
-    <text xml:space="preserve">緑</text>
+    <text xml:space="preserve">Green</text>
   </message>
   <message>
     <key>dye_color_blue</key>
-    <text xml:space="preserve">青</text>
+    <text xml:space="preserve">Blue</text>
   </message>
   <message>
     <key>dye_color_yellow</key>
-    <text xml:space="preserve">黄</text>
+    <text xml:space="preserve">Yellow</text>
   </message>
   <message>
     <key>dye_color_pink</key>
-    <text xml:space="preserve">桃</text>
+    <text xml:space="preserve">Pink</text>
   </message>
   <message>
     <key>item_shield_stamina_resist</key>
@@ -765,7 +765,7 @@
   </message>
   <message>
     <key>param_msg_item_use</key>
-    <text xml:space="preserve">消費アイテム</text>
+    <text xml:space="preserve">Usable Item</text>
   </message>
   <message>
     <key>param_msg_posnum</key>
@@ -801,19 +801,19 @@
   </message>
   <message>
     <key>param_msg_alljob_equip</key>
-    <text xml:space="preserve">全ジョブ装備可能</text>
+    <text xml:space="preserve">All jobs can equip</text>
   </message>
   <message>
     <key>param_msg_only_m</key>
-    <text xml:space="preserve">男性専用</text>
+    <text xml:space="preserve">Male Only</text>
   </message>
   <message>
     <key>param_msg_only_f</key>
-    <text xml:space="preserve">女性専用</text>
+    <text xml:space="preserve">Female Only</text>
   </message>
   <message>
     <key>param_msg_item_money</key>
-    <text xml:space="preserve">通貨</text>
+    <text xml:space="preserve">Currency</text>
   </message>
   <message>
     <key>param_msg_item_rental</key>
@@ -821,23 +821,23 @@
   </message>
   <message>
     <key>param_msg_item_sample</key>
-    <text xml:space="preserve">試供品</text>
+    <text xml:space="preserve">Sample</text>
   </message>
   <message>
     <key>param_msg_posnum_gs</key>
-    <text xml:space="preserve">所持数：&lt;VAL GS&gt;</text>
+    <text xml:space="preserve">Amount: &lt;VAL GS&gt;</text>
   </message>
   <message>
     <key>param_msg_posnum_gold</key>
-    <text xml:space="preserve">所持数：&lt;VAL GOLD&gt;</text>
+    <text xml:space="preserve">Amount: &lt;VAL GOLD&gt;</text>
   </message>
   <message>
     <key>param_msg_posnum_rim</key>
-    <text xml:space="preserve">所持数：&lt;VAL RIM&gt;</text>
+    <text xml:space="preserve">Amount: &lt;VAL RIM&gt;</text>
   </message>
   <message>
     <key>param_msg_posnum_bo</key>
-    <text xml:space="preserve">所持数：&lt;VAL BO&gt;</text>
+    <text xml:space="preserve">Amount: &lt;VAL BO&gt;</text>
   </message>
   <message>
     <key>parts_lantern</key>
@@ -845,6 +845,6 @@
   </message>
   <message>
     <key>param_msg_posnum_ticket</key>
-    <text xml:space="preserve">所持数：&lt;VAL&gt;枚</text>
+    <text xml:space="preserve">Amount: &lt;VAL&gt;枚</text>
   </message>
 </resource>

@@ -105,7 +105,7 @@
   </message>
   <message>
     <key>common_edit</key>
-    <text xml:space="preserve">編集</text>
+    <text xml:space="preserve">Edit</text>
   </message>
   <message>
     <key>common_clan_s_begin</key>
@@ -117,11 +117,11 @@
   </message>
   <message>
     <key>common_unitname_gs</key>
-    <text xml:space="preserve">黄金石</text>
+    <text xml:space="preserve">Golden Gemstone</text>
   </message>
   <message>
     <key>common_name</key>
-    <text xml:space="preserve">名前</text>
+    <text xml:space="preserve">Name</text>
   </message>
   <message>
     <key>common_level</key>
@@ -129,7 +129,7 @@
   </message>
   <message>
     <key>common_mymsg</key>
-    <text xml:space="preserve">マイ定型文セット</text>
+    <text xml:space="preserve">My Phrase </text>
   </message>
   <message>
     <key>common_above</key>
@@ -177,7 +177,7 @@
   </message>
   <message>
     <key>common_select_clan_motto</key>
-    <text xml:space="preserve">モットーを１つ以上選択してください</text>
+    <text xml:space="preserve">Please select one or more mottos</text>
   </message>
   <message>
     <key>common_select_clan_day</key>
@@ -209,15 +209,15 @@
   </message>
   <message>
     <key>common_guide_decide</key>
-    <text xml:space="preserve">決定</text>
+    <text xml:space="preserve">OK</text>
   </message>
   <message>
     <key>common_guide_execute</key>
-    <text xml:space="preserve">実行</text>
+    <text xml:space="preserve">Execute</text>
   </message>
   <message>
     <key>common_guide_end</key>
-    <text xml:space="preserve">終了</text>
+    <text xml:space="preserve">Exit</text>
   </message>
   <message>
     <key>common_guide_change_page</key>
@@ -225,7 +225,7 @@
   </message>
   <message>
     <key>common_guide_return</key>
-    <text xml:space="preserve">戻る</text>
+    <text xml:space="preserve">Back</text>
   </message>
   <message>
     <key>common_date_format</key>
@@ -233,23 +233,23 @@
   </message>
   <message>
     <key>common_guide_open</key>
-    <text xml:space="preserve">開く</text>
+    <text xml:space="preserve">Open</text>
   </message>
   <message>
     <key>common_delete</key>
-    <text xml:space="preserve">削除</text>
+    <text xml:space="preserve">Delete</text>
   </message>
   <message>
     <key>common_rest_time</key>
-    <text xml:space="preserve">時間</text>
+    <text xml:space="preserve">h</text>
   </message>
   <message>
     <key>common_rest_day</key>
-    <text xml:space="preserve">日</text>
+    <text xml:space="preserve">d</text>
   </message>
   <message>
     <key>common_unit_gs</key>
-    <text xml:space="preserve">個</text>
+    <text xml:space="preserve">Number</text>
   </message>
   <message>
     <key>common_indicator_lestania</key>
@@ -273,7 +273,7 @@
   </message>
   <message>
     <key>common_indicator_saving</key>
-    <text xml:space="preserve">セーブ中</text>
+    <text xml:space="preserve">Saving</text>
   </message>
   <message>
     <key>common_guide_replacement</key>
@@ -285,35 +285,35 @@
   </message>
   <message>
     <key>common_guide_drag</key>
-    <text xml:space="preserve">つかむ</text>
+    <text xml:space="preserve">Drag</text>
   </message>
   <message>
     <key>common_guide_goto_itembag</key>
-    <text xml:space="preserve">Move to Item Pack</text>
+    <text xml:space="preserve">Move to Item Bag</text>
   </message>
   <message>
     <key>common_rest_minute</key>
-    <text xml:space="preserve">分</text>
+    <text xml:space="preserve">m</text>
   </message>
   <message>
     <key>common_time_limit</key>
-    <text xml:space="preserve">left</text>
+    <text xml:space="preserve">あと</text>
   </message>
   <message>
     <key>common_time_after</key>
-    <text xml:space="preserve">後</text>
+    <text xml:space="preserve">After</text>
   </message>
   <message>
     <key>common_time_before</key>
-    <text xml:space="preserve">前</text>
+    <text xml:space="preserve"> ago</text>
   </message>
   <message>
     <key>common_unit_turn</key>
-    <text xml:space="preserve">回</text>
+    <text xml:space="preserve">Time</text>
   </message>
   <message>
     <key>common_unit_body</key>
-    <text xml:space="preserve">体</text>
+    <text xml:space="preserve">Body</text>
   </message>
   <message>
     <key>common_switch_expand</key>
@@ -333,7 +333,7 @@
   </message>
   <message>
     <key>common_switch_itembag</key>
-    <text xml:space="preserve">Item Pack</text>
+    <text xml:space="preserve">Item Bag</text>
   </message>
   <message>
     <key>common_guide_shortcut_set</key>
@@ -373,19 +373,19 @@
   </message>
   <message>
     <key>common_unitname_silverticket</key>
-    <text xml:space="preserve">シルバーチケット</text>
+    <text xml:space="preserve">Silver Ticket</text>
   </message>
   <message>
     <key>common_titlename_jp</key>
-    <text xml:space="preserve">ドラゴンズドグマ オンライン</text>
+    <text xml:space="preserve">Dragon's Dogma Online</text>
   </message>
   <message>
     <key>common_clan_search_on</key>
-    <text xml:space="preserve">クラン情報公開</text>
+    <text xml:space="preserve">Clan information public</text>
   </message>
   <message>
     <key>common_clan_search_off</key>
-    <text xml:space="preserve">クラン情報非公開</text>
+    <text xml:space="preserve">Clan information private</text>
   </message>
   <message>
     <key>common_select_clan_motto_search</key>

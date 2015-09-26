@@ -9,15 +9,15 @@
   </message>
   <message>
     <key>areamaster_msg_questhint_j</key>
-    <text xml:space="preserve">クエストヒント</text>
+    <text xml:space="preserve">Quest Hint</text>
   </message>
   <message>
     <key>areamaster_msg_abstraction</key>
-    <text xml:space="preserve">概要</text>
+    <text xml:space="preserve">Summary</text>
   </message>
   <message>
     <key>areamaster_msg_reward</key>
-    <text xml:space="preserve">報酬</text>
+    <text xml:space="preserve">Rewards</text>
   </message>
   <message>
     <key>areamaster_msg_bought</key>
@@ -29,7 +29,7 @@
   </message>
   <message>
     <key>areamaster_msg_enemyinfo</key>
-    <text xml:space="preserve">魔物情報</text>
+    <text xml:space="preserve">Monster Information</text>
   </message>
   <message>
     <key>areamaster_msg_masking</key>
@@ -66,15 +66,15 @@
   </message>
   <message>
     <key>areamaster_msg_populator</key>
-    <text xml:space="preserve">入手可能アイテム</text>
+    <text xml:space="preserve">Available Items</text>
   </message>
   <message>
     <key>areamaster_msg_title_j</key>
-    <text xml:space="preserve">エリア説明</text>
+    <text xml:space="preserve">Area Status</text>
   </message>
   <message>
     <key>areamaster_msg_areacontribution_e</key>
-    <text xml:space="preserve">エリア名声度</text>
+    <text xml:space="preserve">Area Reputation</text>
   </message>
   <message>
     <key>areamaster_msg_areacontribution_j</key>
@@ -86,15 +86,15 @@
   </message>
   <message>
     <key>areamaster_msg_contribution</key>
-    <text xml:space="preserve">名声度</text>
+    <text xml:space="preserve">Reputation</text>
   </message>
   <message>
     <key>areamaster_msg_next</key>
-    <text xml:space="preserve">Next rank up</text>
+    <text xml:space="preserve">Next Rank</text>
   </message>
   <message>
     <key>areamaster_msg_ap_thisweek</key>
-    <text xml:space="preserve">Points this week</text>
+    <text xml:space="preserve">Points This Week</text>
   </message>
   <message>
     <key>areamaster_msg_weekly</key>
@@ -150,11 +150,11 @@
   </message>
   <message>
     <key>areamaster_msg_area_point_title</key>
-    <text xml:space="preserve">エリア名声度：&lt;NAME AREA_NAME&gt;</text>
+    <text xml:space="preserve">Area Reputation：&lt;NAME AREA_NAME&gt;</text>
   </message>
   <message>
     <key>areamaster_msg_checkmap</key>
-    <text xml:space="preserve">地図で確認</text>
+    <text xml:space="preserve">Check Map</text>
   </message>
   <message>
     <key>areamaster_msg_spotmask</key>
@@ -162,15 +162,15 @@
   </message>
   <message>
     <key>areamaster_msg_detectedquest</key>
-    <text xml:space="preserve">公開クエスト</text>
+    <text xml:space="preserve">Discovered Quests</text>
   </message>
   <message>
     <key>areamaster_msg_undetectedquest</key>
-    <text xml:space="preserve">未公開クエスト</text>
+    <text xml:space="preserve">Undiscovered Quests</text>
   </message>
   <message>
     <key>areamaster_msg_no_watch</key>
-    <text xml:space="preserve">今のところ警戒情報はない</text>
+    <text xml:space="preserve">There is no warning information so far</text>
   </message>
   <message>
     <key>areamaster_msg_close</key>
@@ -198,11 +198,11 @@
   </message>
   <message>
     <key>areamaster_msg_tab_rewardlist</key>
-    <text xml:space="preserve">支援品　一覧</text>
+    <text xml:space="preserve">Support Goods List</text>
   </message>
   <message>
     <key>areamaster_msg_tab_bonus</key>
-    <text xml:space="preserve">名声度</text>
+    <text xml:space="preserve">Reputation</text>
   </message>
   <message>
     <key>areamaster_msg_point_first</key>
@@ -218,6 +218,6 @@
   </message>
   <message>
     <key>areamaster_msg_area_trial</key>
-    <text xml:space="preserve">エリア試練</text>
+    <text xml:space="preserve">Area Trial</text>
   </message>
 </resource>

@@ -1,43 +1,43 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>RIM_POP_MSG_HEADER_M_HEADER</key>
-    <text xml:space="preserve">検索条件</text>
+    <text xml:space="preserve">Search Criteria</text>
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_JOB</key>
-    <text xml:space="preserve">ジョブ</text>
+    <text xml:space="preserve">Job</text>
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_LV</key>
-    <text xml:space="preserve">レベル</text>
+    <text xml:space="preserve">Level</text>
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_SKILL</key>
-    <text xml:space="preserve">スキル</text>
+    <text xml:space="preserve">Skill</text>
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_CHARACTER</key>
-    <text xml:space="preserve">性別</text>
+    <text xml:space="preserve">Gender</text>
   </message>
   <message>
     <key>RIM_POP_MSG_M_ALL</key>
-    <text xml:space="preserve">全て</text>
+    <text xml:space="preserve">All</text>
   </message>
   <message>
     <key>RIM_POP_MSG_M_UP</key>
-    <text xml:space="preserve">以上</text>
+    <text xml:space="preserve">Minimum</text>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_LV</key>
-    <text xml:space="preserve">クラフトレベル</text>
+    <text xml:space="preserve">Craft Level</text>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL00</key>
-    <text xml:space="preserve">クラフトスキル</text>
+    <text xml:space="preserve">Craft Skills</text>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL01</key>
-    <text xml:space="preserve">Craft Speed</text>
+    <text xml:space="preserve">Production Speed</text>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL02</key>
@@ -49,15 +49,15 @@
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL04</key>
-    <text xml:space="preserve">Consumable Production Rate</text>
+    <text xml:space="preserve">onsumable Production Quantity</text>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL05</key>
-    <text xml:space="preserve">Crafting Cost</text>
+    <text xml:space="preserve">Cost Performance</text>
   </message>
   <message>
     <key>RIM_POP_MSG_OWNER_M_OWNER</key>
-    <text xml:space="preserve">オーナー名の指定</text>
+    <text xml:space="preserve">Owner Name</text>
   </message>
   <message>
     <key>RIM_POP_MSG_OWNER_M_FIRST</key>
@@ -65,30 +65,30 @@
   </message>
   <message>
     <key>RIM_POP_MSG_OWNER_M_FAMILY</key>
-    <text xml:space="preserve">Family Name</text>
+    <text xml:space="preserve">Last Name</text>
   </message>
   <message>
     <key>RIM_POP_MSG_OWNER_M_PAWN</key>
-    <text xml:space="preserve">ポーンの名前を指定</text>
+    <text xml:space="preserve">Pawn Name</text>
   </message>
   <message>
     <key>RIM_POP_MSG_BTN_SEARCH</key>
-    <text xml:space="preserve">検索する</text>
+    <text xml:space="preserve">Search</text>
   </message>
   <message>
     <key>RIM_POP_MSG_M_DOWN</key>
-    <text xml:space="preserve">以下</text>
+    <text xml:space="preserve">Maximum</text>
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_ALL</key>
-    <text xml:space="preserve">指定なし</text>
+    <text xml:space="preserve">Any</text>
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_MALE</key>
-    <text xml:space="preserve">男</text>
+    <text xml:space="preserve">Male</text>
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_FEMALE</key>
-    <text xml:space="preserve">女</text>
+    <text xml:space="preserve">Female</text>
   </message>
 </resource>

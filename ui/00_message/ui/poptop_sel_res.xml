@@ -1,31 +1,31 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>poptop_bazaar_disp_exhibit_warehouse</key>
-    <text xml:space="preserve">保管ボックスから出品</text>
+    <text xml:space="preserve">Exhibit from Storage Box</text>
   </message>
   <message>
     <key>poptop_bazaar_disp_exhibit_item</key>
-    <text xml:space="preserve">アイテムバッグから出品</text>
+    <text xml:space="preserve">Exhibit from Item Bag</text>
   </message>
   <message>
     <key>poptop_bazaar_disp_exhibit</key>
-    <text xml:space="preserve">出品</text>
+    <text xml:space="preserve">Exhibit</text>
   </message>
   <message>
     <key>poptop_bazaar_situation</key>
-    <text xml:space="preserve">出品状況</text>
+    <text xml:space="preserve">Exhibit Status</text>
   </message>
   <message>
     <key>poptop_bazaar_exhibit</key>
-    <text xml:space="preserve">出品</text>
+    <text xml:space="preserve">Exhibit</text>
   </message>
   <message>
     <key>poptop_bazaar_buy</key>
-    <text xml:space="preserve">購入</text>
+    <text xml:space="preserve">Buy</text>
   </message>
   <message>
     <key>poptop_bazaar_jp</key>
-    <text xml:space="preserve">メニュー</text>
+    <text xml:space="preserve">Menu</text>
   </message>
   <message>
     <key>poptop_bazaar_en</key>
@@ -37,19 +37,19 @@
   </message>
   <message>
     <key>poptop_contriinfo</key>
-    <text xml:space="preserve">名声度確認</text>
+    <text xml:space="preserve">View Reputation</text>
   </message>
   <message>
     <key>poptop_spotinfo</key>
-    <text xml:space="preserve">スポット情報</text>
+    <text xml:space="preserve">Spot Info</text>
   </message>
   <message>
     <key>poptop_questinfo</key>
-    <text xml:space="preserve">ワールドクエスト情報</text>
+    <text xml:space="preserve">World Quest Info</text>
   </message>
   <message>
     <key>poptop_areamaster_jp</key>
-    <text xml:space="preserve">エリアマスター</text>
+    <text xml:space="preserve">Area Master</text>
   </message>
   <message>
     <key>poptop_areamaster_en</key>
@@ -69,15 +69,15 @@
   </message>
   <message>
     <key>poptop_rim_stone_support_pawn</key>
-    <text xml:space="preserve">サポートポーン</text>
+    <text xml:space="preserve">Hired Pawns</text>
   </message>
   <message>
     <key>poptop_rim_stone_main_pawn</key>
-    <text xml:space="preserve">メインポーン</text>
+    <text xml:space="preserve">Main Pawns</text>
   </message>
   <message>
     <key>poptop_rim_stone_pawn_search</key>
-    <text xml:space="preserve">ポーン検索</text>
+    <text xml:space="preserve">Pawn Search</text>
   </message>
   <message>
     <key>poptop_entryboard_extend</key>
@@ -113,11 +113,11 @@
   </message>
   <message>
     <key>poptop_clan_invite_list</key>
-    <text xml:space="preserve">招待リスト</text>
+    <text xml:space="preserve">View Invites</text>
   </message>
   <message>
     <key>poptop_clan_join_list</key>
-    <text xml:space="preserve">加入希望者リスト</text>
+    <text xml:space="preserve">View Applications</text>
   </message>
   <message>
     <key>poptop_pawn_join</key>
@@ -133,23 +133,23 @@
   </message>
   <message>
     <key>poptop_color_change</key>
-    <text xml:space="preserve">カラー変更</text>
+    <text xml:space="preserve">Change Color</text>
   </message>
   <message>
     <key>poptop_crest_attach</key>
-    <text xml:space="preserve">クレスト装着</text>
+    <text xml:space="preserve">Equip Crest</text>
   </message>
   <message>
     <key>poptop_equip_build</key>
-    <text xml:space="preserve">装備の強化</text>
+    <text xml:space="preserve">Enhance Equipment</text>
   </message>
   <message>
     <key>poptop_item_create</key>
-    <text xml:space="preserve">アイテム生産</text>
+    <text xml:space="preserve">Create Item</text>
   </message>
   <message>
     <key>poptop_craft_jp</key>
-    <text xml:space="preserve">メニュー</text>
+    <text xml:space="preserve">Menu</text>
   </message>
   <message>
     <key>poptop_craft_en</key>
@@ -185,11 +185,11 @@
   </message>
   <message>
     <key>poptop_item_state</key>
-    <text xml:space="preserve">アイテム作成状況</text>
+    <text xml:space="preserve">Production Status</text>
   </message>
   <message>
     <key>poptop_point_sep</key>
-    <text xml:space="preserve">ステータス確認</text>
+    <text xml:space="preserve">Pawn Status</text>
   </message>
   <message>
     <key>poptop_clan_en</key>
@@ -197,7 +197,7 @@
   </message>
   <message>
     <key>poptop_party_jp</key>
-    <text xml:space="preserve">パーティー管理</text>
+    <text xml:space="preserve">Party</text>
   </message>
   <message>
     <key>poptop_party_en</key>
@@ -209,11 +209,11 @@
   </message>
   <message>
     <key>poptop_clan_reave</key>
-    <text xml:space="preserve">クラン脱退</text>
+    <text xml:space="preserve">Leave</text>
   </message>
   <message>
     <key>poptop_clan_management</key>
-    <text xml:space="preserve">クラン管理</text>
+    <text xml:space="preserve">View Status</text>
   </message>
   <message>
     <key>poptop_clan_entry_now</key>
@@ -221,35 +221,35 @@
   </message>
   <message>
     <key>poptop_clan_not_join</key>
-    <text xml:space="preserve">未加入</text>
+    <text xml:space="preserve">None</text>
   </message>
   <message>
     <key>poptop_clan_invite</key>
-    <text xml:space="preserve">クランからの招待</text>
+    <text xml:space="preserve">View Invites</text>
   </message>
   <message>
     <key>poptop_clan_join</key>
-    <text xml:space="preserve">加入申請中クラン</text>
+    <text xml:space="preserve">View Applications</text>
   </message>
   <message>
     <key>poptop_clan_scout_entry</key>
-    <text xml:space="preserve">スカウトエントリー</text>
+    <text xml:space="preserve">Scout</text>
   </message>
   <message>
     <key>poptop_clan_search</key>
-    <text xml:space="preserve">クラン検索</text>
+    <text xml:space="preserve">Clan Search</text>
   </message>
   <message>
     <key>poptop_clan_create</key>
-    <text xml:space="preserve">クラン設立</text>
+    <text xml:space="preserve">Found Clan</text>
   </message>
   <message>
     <key>poptop_clan_jp</key>
-    <text xml:space="preserve">クラン</text>
+    <text xml:space="preserve">Clan</text>
   </message>
   <message>
     <key>poptop_issue</key>
-    <text xml:space="preserve">支援品</text>
+    <text xml:space="preserve">Support Goods</text>
   </message>
   <message>
     <key>poptop_bazaar_exhibit_en</key>
@@ -261,7 +261,7 @@
   </message>
   <message>
     <key>poptop_clan_entry_check</key>
-    <text xml:space="preserve">スカウトエントリー確認</text>
+    <text xml:space="preserve">View Recruits</text>
   </message>
   <message>
     <key>poptop_warehouse_en</key>
@@ -269,7 +269,7 @@
   </message>
   <message>
     <key>poptop_warehouse_jp</key>
-    <text xml:space="preserve">メニュー</text>
+    <text xml:space="preserve">Menu</text>
   </message>
   <message>
     <key>poptop_entryboard_reentry</key>
@@ -281,10 +281,10 @@
   </message>
   <message>
     <key>poptop_clan_member_num</key>
-    <text xml:space="preserve">&lt;VAL&gt;名</text>
+    <text xml:space="preserve">&lt;VAL&gt; members</text>
   </message>
   <message>
     <key>poptop_rim_stone_lost_pawn</key>
-    <text xml:space="preserve">ポーンの救出</text>
+    <text xml:space="preserve">Lost Pawns</text>
   </message>
 </resource>

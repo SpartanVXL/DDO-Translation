@@ -81,19 +81,19 @@
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_DEFAULT</key>
-    <text xml:space="preserve">デフォルトに戻す</text>
+    <text xml:space="preserve">Reset to Default</text>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_SAVE_LOAD</key>
-    <text xml:space="preserve">セーブ / ロード</text>
+    <text xml:space="preserve">Save / Load</text>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CAMERA_ZOOM</key>
-    <text xml:space="preserve">モデル回転 / ズーム</text>
+    <text xml:space="preserve">Rotate / Zoom</text>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CAMERA_ROTA</key>
-    <text xml:space="preserve">カメラ操作</text>
+    <text xml:space="preserve">Camera</text>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CHANGE_EQUIP</key>
@@ -101,18 +101,18 @@
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CHANGE_LOCATION</key>
-    <text xml:space="preserve">背景切替</text>
+    <text xml:space="preserve">Background</text>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_TRIAL_MOTION</key>
-    <text xml:space="preserve">ポーズの確認</text>
+    <text xml:space="preserve">Change Pose</text>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_TRIAL_FACE</key>
-    <text xml:space="preserve">表情の確認</text>
+    <text xml:space="preserve">Change Expression</text>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_TRIAL_VOICE</key>
-    <text xml:space="preserve">ボイスの試聴</text>
+    <text xml:space="preserve">Listen to Voice</text>
   </message>
 </resource>

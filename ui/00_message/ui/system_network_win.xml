@@ -40,12 +40,12 @@
   </message>
   <message>
     <key>net_server_error_common</key>
-    <text xml:space="preserve">サーバーとの接続に失敗しました</text>
+    <text xml:space="preserve">Failed to connect to the server</text>
   </message>
   <message>
     <key>net_server_error_return_l_common</key>
-    <text xml:space="preserve">サーバーとの接続に失敗しました
-ランチャーに戻ります</text>
+    <text xml:space="preserve">Failed to connect to the server
+Exiting to launcher</text>
   </message>
   <message>
     <key>net_server_error_return_t_common</key>

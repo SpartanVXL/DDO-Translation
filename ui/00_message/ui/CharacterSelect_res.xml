@@ -5,7 +5,7 @@
   </message>
   <message>
     <key>char_sel_index_jp</key>
-    <text xml:space="preserve">キャラクター選択</text>
+    <text xml:space="preserve">Character Select</text>
   </message>
   <message>
     <key>char_sel_status</key>
@@ -17,11 +17,11 @@
   </message>
   <message>
     <key>char_sel_delete</key>
-    <text xml:space="preserve">キャラクターの削除</text>
+    <text xml:space="preserve">Delete</text>
   </message>
   <message>
     <key>char_sel_del_chara_select</key>
-    <text xml:space="preserve">削除するキャラクターを選択してください</text>
+    <text xml:space="preserve">Please select the character to be deleted</text>
   </message>
   <message>
     <key>char_sel_del_info</key>
@@ -37,19 +37,19 @@
   </message>
   <message>
     <key>char_sel_decide</key>
-    <text xml:space="preserve">決定</text>
+    <text xml:space="preserve">OK</text>
   </message>
   <message>
     <key>char_sel_cancel</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>char_sel_del</key>
-    <text xml:space="preserve">削除</text>
+    <text xml:space="preserve">Delete</text>
   </message>
   <message>
     <key>char_sel_plz_wait</key>
-    <text xml:space="preserve">しばらくお待ちください</text>
+    <text xml:space="preserve">Please wait</text>
   </message>
   <message>
     <key>char_sel_del_alert</key>
@@ -81,14 +81,14 @@
   </message>
   <message>
     <key>char_sel_add_newchar</key>
-    <text xml:space="preserve">新規作成</text>
+    <text xml:space="preserve">Create</text>
   </message>
   <message>
     <key>char_sel_button_zoom</key>
-    <text xml:space="preserve">モデル回転 / ズーム</text>
+    <text xml:space="preserve">Rotate / Zoom</text>
   </message>
   <message>
     <key>char_sel_button_rota</key>
-    <text xml:space="preserve">カメラ操作</text>
+    <text xml:space="preserve">Camera</text>
   </message>
 </resource>

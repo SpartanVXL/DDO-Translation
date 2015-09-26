@@ -5,7 +5,7 @@
   </message>
   <message>
     <key>CRAFT_MSG_TITLE02</key>
-    <text xml:space="preserve">クラフト</text>
+    <text xml:space="preserve">Craft</text>
   </message>
   <message>
     <key>MENU_OPT_POINT_ASSIGN</key>
@@ -13,23 +13,23 @@
   </message>
   <message>
     <key>MENU_OPT_PRODUCT</key>
-    <text xml:space="preserve">アイテム生産</text>
+    <text xml:space="preserve">Craft Item</text>
   </message>
   <message>
     <key>MENU_OPT_UPGRADE</key>
-    <text xml:space="preserve">装備の強化</text>
+    <text xml:space="preserve">Upgrade Equipment</text>
   </message>
   <message>
     <key>MENU_OPT_CREST</key>
-    <text xml:space="preserve">クレスト装備</text>
+    <text xml:space="preserve">Equip Crest</text>
   </message>
   <message>
     <key>MENU_OPT_CHANGE_COLOR</key>
-    <text xml:space="preserve">カラー変更</text>
+    <text xml:space="preserve">Change Color</text>
   </message>
   <message>
     <key>MENU_OPT_CRAFT_STATUS</key>
-    <text xml:space="preserve">アイテム作成状況</text>
+    <text xml:space="preserve">Item Craft Status</text>
   </message>
   <message>
     <key>TITLE_PAWN_STATUS</key>
@@ -37,15 +37,15 @@
   </message>
   <message>
     <key>ROW_PAWN_NAME</key>
-    <text xml:space="preserve">名前</text>
+    <text xml:space="preserve">Name</text>
   </message>
   <message>
     <key>ROW_PAWN_STATUS</key>
-    <text xml:space="preserve">状態</text>
+    <text xml:space="preserve">Status</text>
   </message>
   <message>
     <key>PAWN_STATUS_STAND_BY</key>
-    <text xml:space="preserve">待機</text>
+    <text xml:space="preserve">Standby</text>
   </message>
   <message>
     <key>PAWN_STATUS_WORKING</key>
@@ -57,15 +57,15 @@
   </message>
   <message>
     <key>PAWN_STATUS_PARTY</key>
-    <text xml:space="preserve">パーティー</text>
+    <text xml:space="preserve">Party</text>
   </message>
   <message>
     <key>PAWN_STATUS_LOST</key>
-    <text xml:space="preserve">ロスト</text>
+    <text xml:space="preserve">Lost</text>
   </message>
   <message>
     <key>BUTTON_CANCEL</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>TITLE_ITEM_LIST</key>
@@ -77,7 +77,7 @@
   </message>
   <message>
     <key>HEADING_MAKE_ITEM</key>
-    <text xml:space="preserve">作成アイテム</text>
+    <text xml:space="preserve">Creating Item</text>
   </message>
   <message>
     <key>HEADING_CRAFT_MEMBER</key>
@@ -85,11 +85,11 @@
   </message>
   <message>
     <key>HEADING_LEADER</key>
-    <text xml:space="preserve">リーダー</text>
+    <text xml:space="preserve">Leader</text>
   </message>
   <message>
     <key>HEADING_ASSISTANT</key>
-    <text xml:space="preserve">アシスタント</text>
+    <text xml:space="preserve">Assistant</text>
   </message>
   <message>
     <key>HEADING_ADDITION</key>
@@ -97,7 +97,7 @@
   </message>
   <message>
     <key>BUTTON_START</key>
-    <text xml:space="preserve">作成開始</text>
+    <text xml:space="preserve">Start</text>
   </message>
   <message>
     <key>TITLE_PAWN_LIST</key>
@@ -133,7 +133,7 @@
   </message>
   <message>
     <key>HEADING_SPEED</key>
-    <text xml:space="preserve">Craft Speed</text>
+    <text xml:space="preserve">Production Speed</text>
   </message>
   <message>
     <key>HEADING_TECHNOLOGY</key>
@@ -145,11 +145,11 @@
   </message>
   <message>
     <key>HEADING_CAPACITY</key>
-    <text xml:space="preserve">Consumable Production Rate</text>
+    <text xml:space="preserve">Consumable Production Quantity</text>
   </message>
   <message>
     <key>HEADING_COST_PERFORMANCE</key>
-    <text xml:space="preserve">Crafting Cost</text>
+    <text xml:space="preserve">Cost Performance</text>
   </message>
   <message>
     <key>TITLE_STATUS</key>
@@ -193,11 +193,11 @@
   </message>
   <message>
     <key>TAB_WEAPON</key>
-    <text xml:space="preserve">武器</text>
+    <text xml:space="preserve">Weapons</text>
   </message>
   <message>
     <key>TAB_PROTECTOR</key>
-    <text xml:space="preserve">防具</text>
+    <text xml:space="preserve">Armor</text>
   </message>
   <message>
     <key>BALLOON_LITTLE_LONGER</key>
@@ -237,7 +237,7 @@
   </message>
   <message>
     <key>BUTTON_GET_ITEM_FOR_STORAGE</key>
-    <text xml:space="preserve">保管ボックスに受け取る</text>
+    <text xml:space="preserve">Put in Storage</text>
   </message>
   <message>
     <key>SUCCESS</key>
@@ -245,11 +245,11 @@
   </message>
   <message>
     <key>TITLE_RECEIPT</key>
-    <text xml:space="preserve">アイテムを作成しました</text>
+    <text xml:space="preserve">Created an item</text>
   </message>
   <message>
     <key>BUTTON_GET_ITEM</key>
-    <text xml:space="preserve">受け取る</text>
+    <text xml:space="preserve">Accept</text>
   </message>
   <message>
     <key>DIALOG_RECEIPT_SUCCESS</key>
@@ -257,8 +257,8 @@
   </message>
   <message>
     <key>DIALOG_GET_XP</key>
-    <text xml:space="preserve">クラフトを指揮していた&lt;NAME PAWN&gt;が
-クラフト経験値を&lt;VAL XP&gt;入手しました</text>
+    <text xml:space="preserve">For being the craft leader, &lt;NAME PAWN&gt;
+has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>HEADING_REMAIN</key>
@@ -542,11 +542,11 @@
   </message>
   <message>
     <key>TAB_MATERIAL_ITEM</key>
-    <text xml:space="preserve">素材</text>
+    <text xml:space="preserve">Materials</text>
   </message>
   <message>
     <key>TAB_USE_ITEM</key>
-    <text xml:space="preserve">消耗品</text>
+    <text xml:space="preserve">Usable</text>
   </message>
   <message>
     <key>GUIDE_SELECT_ADD_ITEM</key>
@@ -763,7 +763,7 @@
   </message>
   <message>
     <key>CRAFT_COLOR_EQUIP_NOTHING</key>
-    <text xml:space="preserve">カラー変更できる装備がありません</text>
+    <text xml:space="preserve">There is no equipment that can have its color changed</text>
   </message>
   <message>
     <key>CRAFT_CREST_EQUIP_NOTHING</key>

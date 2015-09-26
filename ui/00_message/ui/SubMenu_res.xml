@@ -1,47 +1,47 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>msg_SUB_MENU_PROFILE</key>
-    <text xml:space="preserve">覚者プロフィールを見る</text>
+    <text xml:space="preserve">View Arisen Profile</text>
   </message>
   <message>
     <key>msg_SUB_MENU_STATUS</key>
-    <text xml:space="preserve">ステータス・装備を確認する</text>
+    <text xml:space="preserve">View Status and Equipment</text>
   </message>
   <message>
     <key>msg_SUB_MENU_TELL</key>
-    <text xml:space="preserve">話しかける(Tell)</text>
+    <text xml:space="preserve">Send Tell</text>
   </message>
   <message>
     <key>msg_SUB_MENU_FRIEND</key>
-    <text xml:space="preserve">フレンド申請をする</text>
+    <text xml:space="preserve">Send Friend Request</text>
   </message>
   <message>
     <key>msg_SUB_MENU_KICK</key>
-    <text xml:space="preserve">パーティーから外す</text>
+    <text xml:space="preserve">Kick from Party</text>
   </message>
   <message>
     <key>msg_SUB_MENU_LEADER</key>
-    <text xml:space="preserve">パーティーリーダーに任命する</text>
+    <text xml:space="preserve">Promote to Party Leader</text>
   </message>
   <message>
     <key>msg_SUB_MENU_CANCEL_INVITE</key>
-    <text xml:space="preserve">パーティー勧誘をやめる</text>
+    <text xml:space="preserve">Cancel Party Invite</text>
   </message>
   <message>
     <key>msg_SUB_MENU_INVITE</key>
-    <text xml:space="preserve">パーティーに誘う</text>
+    <text xml:space="preserve">Invite to Party</text>
   </message>
   <message>
     <key>msg_SUB_MENU_PARTY_DETAIL</key>
-    <text xml:space="preserve">パーティーメンバーの確認</text>
+    <text xml:space="preserve">View Party List</text>
   </message>
   <message>
     <key>msg_SUB_MENU_PARTY_JOIN</key>
-    <text xml:space="preserve">パーティーに参加する</text>
+    <text xml:space="preserve">Accept Party Invite</text>
   </message>
   <message>
     <key>msg_SUB_MENU_PARTY_DECLINE</key>
-    <text xml:space="preserve">パーティー勧誘を断る</text>
+    <text xml:space="preserve">Decline Party Invite</text>
   </message>
   <message>
     <key>msg_SUB_MENU_APPLY_CLAN</key>
@@ -97,79 +97,79 @@
   </message>
   <message>
     <key>msg_SUB_MENU_CANCEL_FRIEND</key>
-    <text xml:space="preserve">フレンド申請を取り消す</text>
+    <text xml:space="preserve">Cancel Friend Request</text>
   </message>
   <message>
     <key>msg_SUB_MENU_ALLOW_APPLY_FRIEND</key>
-    <text xml:space="preserve">フレンド申請を許可する</text>
+    <text xml:space="preserve">Accept Friend Request</text>
   </message>
   <message>
     <key>msg_SUB_MENU_DENY_APPLY_FRIEND</key>
-    <text xml:space="preserve">フレンド申請を拒否する</text>
+    <text xml:space="preserve">Decline Friend Request</text>
   </message>
   <message>
     <key>msg_SUB_MENU_REMOVE_FRIEND</key>
-    <text xml:space="preserve">フレンドを解除する</text>
+    <text xml:space="preserve">Remove from Friends</text>
   </message>
   <message>
     <key>msg_SUB_MENU_FAVORITE_FRIEND</key>
-    <text xml:space="preserve">フレンドお気に入り登録</text>
+    <text xml:space="preserve">Add Friend to Favorites</text>
   </message>
   <message>
     <key>msg_SUB_MENU_FAVORITE_PAWN</key>
-    <text xml:space="preserve">ポーンお気に入り登録</text>
+    <text xml:space="preserve">Add Pawn to Favorites</text>
   </message>
   <message>
     <key>msg_SUB_MENU_FAVORITE_OFF</key>
-    <text xml:space="preserve">お気に入り登録解除</text>
+    <text xml:space="preserve">Remove from Favorites</text>
   </message>
   <message>
     <key>msg_SUB_MENU_RENTAL_PAWN</key>
-    <text xml:space="preserve">ポーンを雇用する</text>
+    <text xml:space="preserve">Hire Pawn</text>
   </message>
   <message>
     <key>msg_SUB_MENU_CUSTOMIZE_PAWN</key>
-    <text xml:space="preserve">ポーンのリアクション設定</text>
+    <text xml:space="preserve">Customize Pawn Reactions</text>
   </message>
   <message>
     <key>msg_SUB_MENU_PAWN_DELETE</key>
-    <text xml:space="preserve">ポーンの削除</text>
+    <text xml:space="preserve">Delete Pawn</text>
   </message>
   <message>
     <key>msg_SUB_MENU_PAWN_REG_SETTING</key>
-    <text xml:space="preserve">ポーンの貸し出し制限</text>
+    <text xml:space="preserve">Set Pawn Privacy</text>
   </message>
   <message>
     <key>msg_SUB_MENU_PAWN_HISTORY</key>
-    <text xml:space="preserve">ポーンのレンタル履歴</text>
+    <text xml:space="preserve">View Pawn Rental History</text>
   </message>
   <message>
     <key>msg_SUB_MENU_PAWN_RETURN</key>
-    <text xml:space="preserve">ポーンを返却する</text>
+    <text xml:space="preserve">Return Pawn</text>
   </message>
   <message>
     <key>msg_SUB_MENU_CARD</key>
-    <text xml:space="preserve">覚者プロフィールを見る</text>
+    <text xml:space="preserve">View Arisen Profile</text>
   </message>
   <message>
     <key>msg_SUB_MENU_GROUP_CHAT</key>
-    <text xml:space="preserve">グループチャットに誘う</text>
+    <text xml:space="preserve">Invite to Group Chat</text>
   </message>
   <message>
     <key>msg_SUB_MENU_GROUP_CHAT_KICK</key>
-    <text xml:space="preserve">グループチャットから外す</text>
+    <text xml:space="preserve">Kick from Group Chat</text>
   </message>
   <message>
     <key>msg_SUB_MENU_AUTORUN</key>
-    <text xml:space="preserve">追従オートラン</text>
+    <text xml:space="preserve">Follow with Autorun</text>
   </message>
   <message>
     <key>msg_SUB_MENU_ADD_BLACKLIST</key>
-    <text xml:space="preserve">ブラックリスト登録</text>
+    <text xml:space="preserve">Add to Blacklist</text>
   </message>
   <message>
     <key>msg_SUB_MENU_REMOVE_BLACKLIST</key>
-    <text xml:space="preserve">ブラックリスト登録解除</text>
+    <text xml:space="preserve">Remove from Blacklist</text>
   </message>
   <message>
     <key>msg_SUB_MENU_DELETE_MAIL</key>
@@ -177,7 +177,7 @@
   </message>
   <message>
     <key>msg_SUB_MENU_PARTY_BREAKUP</key>
-    <text xml:space="preserve">パーティー解散</text>
+    <text xml:space="preserve">Disband Party</text>
   </message>
   <message>
     <key>msg_SUB_MENU_START_QUICKPARTY</key>
@@ -189,15 +189,15 @@
   </message>
   <message>
     <key>msg_SUB_MENU_PAWN_CARD</key>
-    <text xml:space="preserve">ポーンプロフィールを見る</text>
+    <text xml:space="preserve">View Pawn Profile</text>
   </message>
   <message>
     <key>msg_SUB_MENU_FAVORITE_FRIEND_OFF</key>
-    <text xml:space="preserve">フレンドお気に入り登録解除</text>
+    <text xml:space="preserve">Remove Friend from Favorites</text>
   </message>
   <message>
     <key>msg_SUB_MENU_FAVORITE_PAWN_OFF</key>
-    <text xml:space="preserve">ポーンお気に入り登録解除</text>
+    <text xml:space="preserve">Remove Pawn from Favorites</text>
   </message>
   <message>
     <key>msg_SUB_MENU_LOST_PAWN_RESCUE</key>

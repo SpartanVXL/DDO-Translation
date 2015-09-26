@@ -29,11 +29,11 @@
   </message>
   <message>
     <key>pop_prof_decide</key>
-    <text xml:space="preserve">決定</text>
+    <text xml:space="preserve">OK</text>
   </message>
   <message>
     <key>pop_prof_cancel</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>pop_prof_pt_ok</key>
@@ -89,7 +89,7 @@
   </message>
   <message>
     <key>pop_prof_all</key>
-    <text xml:space="preserve">すべて</text>
+    <text xml:space="preserve">All</text>
   </message>
   <message>
     <key>pop_prof_level</key>
@@ -153,11 +153,11 @@
   </message>
   <message>
     <key>pop_prof_quickparty_fail</key>
-    <text xml:space="preserve">Match failed.</text>
+    <text xml:space="preserve">Match failed</text>
   </message>
   <message>
     <key>pop_prof_quickparty_time</key>
-    <text xml:space="preserve">Quick party will quit after &lt;VAL&gt; seconds.</text>
+    <text xml:space="preserve">Quick party will quit after &lt;VAL&gt; seconds</text>
   </message>
   <message>
     <key>pop_prof_level_wavedash</key>
@@ -165,23 +165,23 @@
   </message>
   <message>
     <key>PopPartyList_PlayerSearch_Title</key>
-    <text xml:space="preserve">プレイヤー検索条件設定</text>
+    <text xml:space="preserve">Player Search Criteria</text>
   </message>
   <message>
     <key>PopPartyList_PlayerSearch_MainPurpose</key>
-    <text xml:space="preserve">冒険目的を設定して探す</text>
+    <text xml:space="preserve">Search by adventure objective</text>
   </message>
   <message>
     <key>PopPartyList_PlayerSearch_PlayStyle</key>
-    <text xml:space="preserve">プレイスタイルを指定して探す</text>
+    <text xml:space="preserve">Search by play style</text>
   </message>
   <message>
     <key>PopPartyList_PlayerSearch_Job</key>
-    <text xml:space="preserve">ジョブを設定して探す</text>
+    <text xml:space="preserve">Search by job</text>
   </message>
   <message>
     <key>PopPartyList_PlayerSearch_Level</key>
-    <text xml:space="preserve">レベルを設定して探す</text>
+    <text xml:space="preserve">Search by level</text>
   </message>
   <message>
     <key>PopPartyList_PlayerSearch_LevelMin</key>
@@ -213,9 +213,9 @@
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_Warning</key>
-    <text xml:space="preserve">※If there is a change in quest progress, the registration will be canceled.
+    <text xml:space="preserve">※If there is a change in quest progress, the registration will be canceled
 ※If there are pawns in party when the quick party forms,
-they will be dismissed.</text>
+they will be dismissed</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_MainPurpose_Main</key>

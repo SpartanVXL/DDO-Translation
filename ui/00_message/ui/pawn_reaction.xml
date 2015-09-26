@@ -1,54 +1,54 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>PAWNREACTION_MSG_IF_PARTY</key>
-    <text xml:space="preserve">パーティメンバーと出会った時</text>
+    <text xml:space="preserve">Met Party Members</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_QCLEAR</key>
-    <text xml:space="preserve">クエスト成功時</text>
+    <text xml:space="preserve">Quest Clear</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_LVUP</key>
-    <text xml:space="preserve">レベルアップ時</text>
+    <text xml:space="preserve">Level Up</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_ADEATH</key>
-    <text xml:space="preserve">プレイヤー死亡時</text>
+    <text xml:space="preserve">Player Death</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_WAIT_LOBBY</key>
-    <text xml:space="preserve">ロビー待機時</text>
+    <text xml:space="preserve">Waiting on Lobby</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_WAIT_FIELD</key>
-    <text xml:space="preserve">冒険待機時</text>
+    <text xml:space="preserve">Waiting on Adventure</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_WAIT_LAB</key>
-    <text xml:space="preserve">クラフトルーム待機時</text>
+    <text xml:space="preserve">Waiting on Craft</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_ENDBATTLE</key>
-    <text xml:space="preserve">戦闘終了時</text>
+    <text xml:space="preserve">End of Combat</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_TITLE</key>
-    <text xml:space="preserve">ポーンリアクションを設定して下さい</text>
+    <text xml:space="preserve">Customize Pawn Reactions</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_CAPTION_CHARACTAR</key>
-    <text xml:space="preserve">口調：</text>
+    <text xml:space="preserve">Personality：</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_BUTTON_DECIDE</key>
-    <text xml:space="preserve">決定</text>
+    <text xml:space="preserve">OK</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_BUTTON_CANCEL</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>PAWNREACTION_MSG_NONE</key>
-    <text xml:space="preserve">なし</text>
+    <text xml:space="preserve">None</text>
   </message>
 </resource>
