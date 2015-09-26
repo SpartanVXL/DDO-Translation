@@ -605,7 +605,7 @@
   </message>
   <message>
     <key>item_craft_gained_exp</key>
-    <text xml:space="preserve">Enhancement Points</text>
+    <text xml:space="preserve">Enhancement</text>
   </message>
   <message>
     <key>character_name</key>
@@ -637,23 +637,23 @@
   </message>
   <message>
     <key>character_number_of_material</key>
-    <text xml:space="preserve">素材アイテム枠</text>
+    <text xml:space="preserve">Material Bag Slot</text>
   </message>
   <message>
     <key>character_number_of_weapon</key>
-    <text xml:space="preserve">装備品アイテム枠</text>
+    <text xml:space="preserve">Equipment Bag Slot</text>
   </message>
   <message>
     <key>character_number_of_key_item</key>
-    <text xml:space="preserve">キーアイテム</text>
+    <text xml:space="preserve">Key Item Bag Slot</text>
   </message>
   <message>
     <key>character_number_of_special_item</key>
-    <text xml:space="preserve">ジョブ専用アイテム枠</text>
+    <text xml:space="preserve">Job Item Bag Slot</text>
   </message>
   <message>
     <key>character_total_bo</key>
-    <text xml:space="preserve">ブラッドオーブ総献上量</text>
+    <text xml:space="preserve">Blood Orb Total</text>
   </message>
   <message>
     <key>pawn_craft_rank</key>
@@ -713,7 +713,7 @@
   </message>
   <message>
     <key>character_tiredness</key>
-    <text xml:space="preserve">疲労攻力</text>
+    <text xml:space="preserve">Exhaust Attack</text>
   </message>
   <message>
     <key>character_jp</key>
@@ -761,7 +761,7 @@
   </message>
   <message>
     <key>item_shield_stamina_resist</key>
-    <text xml:space="preserve">盾スタミナ軽減値</text>
+    <text xml:space="preserve">Blocking Stamina Reduction</text>
   </message>
   <message>
     <key>param_msg_item_use</key>
@@ -817,7 +817,7 @@
   </message>
   <message>
     <key>param_msg_item_rental</key>
-    <text xml:space="preserve">レンタルチケット</text>
+    <text xml:space="preserve">Rental Ticket</text>
   </message>
   <message>
     <key>param_msg_item_sample</key>

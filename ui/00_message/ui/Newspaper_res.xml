@@ -77,43 +77,43 @@
   </message>
   <message>
     <key>np_msg_decision_decide</key>
-    <text xml:space="preserve">決定</text>
+    <text xml:space="preserve">OK</text>
   </message>
   <message>
     <key>np_msg_decision_cansel</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>np_msg_article_event</key>
-    <text xml:space="preserve">イベント情報</text>
+    <text xml:space="preserve">Event Information</text>
   </message>
   <message>
     <key>np_msg_title</key>
-    <text xml:space="preserve">レスタニアニュース</text>
+    <text xml:space="preserve">Lestania News</text>
   </message>
   <message>
     <key>np_msg_guid_others</key>
-    <text xml:space="preserve">他のイベント情報</text>
+    <text xml:space="preserve">Other Event Information</text>
   </message>
   <message>
     <key>np_msg_state_partin</key>
-    <text xml:space="preserve">参加中</text>
+    <text xml:space="preserve">Participating</text>
   </message>
   <message>
     <key>np_msg_state_nopartin</key>
-    <text xml:space="preserve">参加受付中</text>
+    <text xml:space="preserve">Accepting Participants</text>
   </message>
   <message>
     <key>np_msg_subtitle_event</key>
-    <text xml:space="preserve">イベント情報</text>
+    <text xml:space="preserve">Event Information</text>
   </message>
   <message>
     <key>np_msg_tab_ranking</key>
-    <text xml:space="preserve">ランキング</text>
+    <text xml:space="preserve">Ranking</text>
   </message>
   <message>
     <key>np_msg_rab_reward</key>
-    <text xml:space="preserve">リワード</text>
+    <text xml:space="preserve">Reward</text>
   </message>
   <message>
     <key>np_msg_pt</key>
@@ -121,7 +121,7 @@
   </message>
   <message>
     <key>np_msg_ranking</key>
-    <text xml:space="preserve">ランキング</text>
+    <text xml:space="preserve">Ranking</text>
   </message>
   <message>
     <key>np_msg_name</key>
@@ -129,15 +129,15 @@
   </message>
   <message>
     <key>np_msg_clan</key>
-    <text xml:space="preserve">クラン</text>
+    <text xml:space="preserve">Clan</text>
   </message>
   <message>
     <key>np_msg_reward_boarder</key>
-    <text xml:space="preserve">累計スコア報酬</text>
+    <text xml:space="preserve">Total Score Rewards</text>
   </message>
   <message>
     <key>np_msg_reward_ranking</key>
-    <text xml:space="preserve">ランキング報酬</text>
+    <text xml:space="preserve">Ranking Reward</text>
   </message>
   <message>
     <key>np_msg_rate</key>
@@ -193,15 +193,15 @@
   </message>
   <message>
     <key>np_msg_period</key>
-    <text xml:space="preserve">配信期間</text>
+    <text xml:space="preserve">Event Time</text>
   </message>
   <message>
     <key>np_msg_period_start</key>
-    <text xml:space="preserve">&lt;DATE&gt; から</text>
+    <text xml:space="preserve">From &lt;DATE&gt;</text>
   </message>
   <message>
     <key>np_msg_period_end</key>
-    <text xml:space="preserve">&lt;DATE&gt; まで</text>
+    <text xml:space="preserve">until &lt;DATE&gt;</text>
   </message>
   <message>
     <key>np_msg_rank</key>
@@ -225,7 +225,7 @@
   </message>
   <message>
     <key>np_msg_ability_reward</key>
-    <text xml:space="preserve">アビリティ：</text>
+    <text xml:space="preserve">Ability: </text>
   </message>
   <message>
     <key>np_msg_total</key>
@@ -276,7 +276,7 @@
   </message>
   <message>
     <key>np_msg_guide_partybonus</key>
-    <text xml:space="preserve">パーティーボーナス情報</text>
+    <text xml:space="preserve">Party Bonus Information</text>
   </message>
   <message>
     <key>np_msg_just</key>
@@ -284,7 +284,7 @@
   </message>
   <message>
     <key>np_msg_pt_period_more</key>
-    <text xml:space="preserve">&lt;VAL&gt;pt 以上</text>
+    <text xml:space="preserve">&lt;VAL&gt;pt or more</text>
   </message>
   <message>
     <key>np_msg_state_preparation</key>

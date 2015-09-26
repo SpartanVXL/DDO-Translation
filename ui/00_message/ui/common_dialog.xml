@@ -259,7 +259,8 @@ the friend request from &lt;NAME TARGET&gt;?</text>
   </message>
   <message>
     <key>ana_entryb_join_cancel</key>
-    <text xml:space="preserve">You will cancel your entryboard participation. Are you sure?</text>
+    <text xml:space="preserve">You will cancel your entryboard participation.
+	Are you sure?</text>
   </message>
   <message>
     <key>ana_member_ready_wait</key>
@@ -408,7 +409,7 @@ Are you sure?</text>
   </message>
   <message>
     <key>ana_entryb_kicked</key>
-    <text xml:space="preserve">You have been kicked from the entryboard</text>
+    <text xml:space="preserve">You have been removed from the entryboard</text>
   </message>
   <message>
     <key>ana_entryb_dissolution</key>
