@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>JMMH_MSG_ALLTASK_CLEAR_STR</key>
-    <text xml:space="preserve">課題を達成し、ジョブマスターに報告しました</text>
+    <text xml:space="preserve">The challenge was finished and reported to the Job Master</text>
   </message>
   <message>
     <key>JMMH_MSG_LV_STR</key>
@@ -9,7 +9,7 @@
   </message>
   <message>
     <key>JMMH_MSG_TASK_STR</key>
-    <text xml:space="preserve">&lt;VAL&gt;で課題を達成し、ジョブマスターに報告せよ</text>
+    <text xml:space="preserve">Report to the &lt;VAL&gt; Job Master to finish training</text>
   </message>
   <message>
     <key>JMMH_MSG_SLASH_STR</key>
@@ -37,7 +37,7 @@
   </message>
   <message>
     <key>JMMH_MSG_MASTER_HB_STR_JP</key>
-    <text xml:space="preserve">ジョブ修練ログ</text>
+    <text xml:space="preserve">Job Training Log</text>
   </message>
   <message>
     <key>JMMH_MSG_LV_STR_2</key>
@@ -61,15 +61,15 @@
   </message>
   <message>
     <key>JOBEXAM_MSG_SKILLGET_STR</key>
-    <text xml:space="preserve">&lt;NAME SKILL&gt;の習得を認められた</text>
+    <text xml:space="preserve">&lt;NAME SKILL&gt; is ready to learn</text>
   </message>
   <message>
     <key>JOBEXAM_MSG_ABILITYGET_STR</key>
-    <text xml:space="preserve">&lt;NAME ABILITY&gt;の習得を認められた</text>
+    <text xml:space="preserve">&lt;NAME ABILITY&gt; is ready to learn</text>
   </message>
   <message>
     <key>JMMH_MSG_ENEMY_LEVEL_STR</key>
-    <text xml:space="preserve">以上のオーブエネミーを倒せ！</text>
+    <text xml:space="preserve">Defeat blood orb enemies!</text>
   </message>
   <message>
     <key>JMMH_MSG_MASTER_HB_STR</key>
@@ -77,7 +77,7 @@
   </message>
   <message>
     <key>JMMH_MSG_TASK_EXAM_STR</key>
-    <text xml:space="preserve">課題を達成し、ジョブマスターに報告せよ</text>
+    <text xml:space="preserve">Report to the Job Master to finish training</text>
   </message>
   <message>
     <key>JMMH_MSG_JOB_STR</key>
@@ -85,6 +85,6 @@
   </message>
   <message>
     <key>JMMH_MSG_NO_ORDER_STR</key>
-    <text xml:space="preserve">課題はありません</text>
+    <text xml:space="preserve">No orders</text>
   </message>
 </resource>
