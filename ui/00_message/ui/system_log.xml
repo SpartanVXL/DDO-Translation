@@ -536,7 +536,7 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_item_get</key>
-    <text xml:space="preserve"&lt;NAME ITEM&gt; x&lt;VAL&gt; obtained</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; obtained</text>
   </message>
   <message>
     <key>syslog_bazaar_put</key>
