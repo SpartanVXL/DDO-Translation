@@ -1,14 +1,14 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>LIGHT_QUEST_PURPOSE_1001</key>
-    <text xml:space="preserve">&lt;LQEM&gt;を討伐：&lt;VAL&gt; / &lt;VAL&gt;</text>
+    <text xml:space="preserve">&lt;LQEM&gt; Defeat: &lt;VAL&gt; / &lt;VAL&gt;</text>
   </message>
   <message>
     <key>LIGHT_QUEST_PURPOSE_1002</key>
-    <text xml:space="preserve">&lt;LQIM&gt;を入手：&lt;VAL&gt; / &lt;VAL&gt;</text>
+    <text xml:space="preserve">&lt;LQIM&gt; Obtain: &lt;VAL&gt; / &lt;VAL&gt;</text>
   </message>
   <message>
     <key>LIGHT_QUEST_PURPOSE_1006</key>
-    <text xml:space="preserve">&lt;LQIM&gt;を納品</text>
+    <text xml:space="preserve">&lt;LQIM&gt; delivered</text>
   </message>
 </resource>

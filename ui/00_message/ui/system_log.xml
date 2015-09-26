@@ -340,7 +340,7 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_content_end_by_escape</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;を離脱により終了します</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; ended by leaving</text>
   </message>
   <message>
     <key>syslog_content_end_by_friends_down</key>
@@ -348,7 +348,7 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_content_end_by_timeup</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;をタイムアップにより終了します</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; ended due to the time limit</text>
   </message>
   <message>
     <key>syslog_content_anounce_prepare</key>
@@ -738,27 +738,27 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_mission_jp_get</key>
-    <text xml:space="preserve">You have gained &lt;VAL JP&gt;</text>
+    <text xml:space="preserve">Gained &lt;VAL JP&gt;</text>
   </message>
   <message>
     <key>syslog_mission_jp_get_ex</key>
-    <text xml:space="preserve">You have gained &lt;VAL JP&gt;(+&lt;VAL&gt;)</text>
+    <text xml:space="preserve">Gained &lt;VAL JP&gt;(+&lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_quest_pawn_xp_get</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has gained &lt;VAL XP&gt;</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL XP&gt;</text>
   </message>
   <message>
     <key>syslog_quest_pawn_xp_get_ex</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has gained &lt;VAL XP&gt; (+&lt;VAL&gt;)</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL XP&gt; (+&lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_mission_pawn_jp</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has gained &lt;VAL JP&gt;</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL JP&gt;</text>
   </message>
   <message>
     <key>syslog_mission_pawn_jp_ex</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has gained &lt;VAL JP&gt; (+&lt;VAL&gt;)</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL JP&gt; (+&lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_goldstone_get</key>
@@ -802,15 +802,15 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_bo_lost</key>
-    <text xml:space="preserve">&lt;VAL BO&gt; has been spent</text>
+    <text xml:space="preserve">&lt;VAL BO&gt; spent</text>
   </message>
   <message>
     <key>syslog_rim_lost</key>
-    <text xml:space="preserve">&lt;VAL R&gt; has been spent</text>
+    <text xml:space="preserve">&lt;VAL R&gt; spent</text>
   </message>
   <message>
     <key>syslog_money_lost</key>
-    <text xml:space="preserve">&lt;VAL G&gt; has been spent</text>
+    <text xml:space="preserve">&lt;VAL G&gt; spent</text>
   </message>
   <message>
     <key>syslog_login_unclaimed_qreward</key>

@@ -561,11 +561,11 @@ from the group chat?</text>
   </message>
   <message>
     <key>ana_dialog_retire_noreply</key>
-    <text xml:space="preserve">Closed due to no reply</text>
+    <text xml:space="preserve">Close with no reply</text>
   </message>
   <message>
     <key>ana_dialog_retire_inform</key>
-    <text xml:space="preserve">A proposal to withdraw from the content has begun</text>
+    <text xml:space="preserve">Withdraw from the content?</text>
   </message>
   <message>
     <key>ana_dialog_item_get</key>
@@ -617,7 +617,7 @@ you cannot unlock the Warp Crystal</text>
     <text xml:space="preserve">Are you sure you want to skip the event?
  
 If you are in a party, 
-everyone must approve in order to skip</text>
+everyone must approve in order to skip.</text>
   </message>
   <message>
     <key>ana_KICK_ERR_NOT_OWNER_PAWN</key>
@@ -1362,7 +1362,7 @@ The effect of ＜&lt;OPCS&gt;＞ will allow this</text>
   </message>
   <message>
     <key>CRAFT_NG_CRAFTRANK</key>
-    <text xml:space="preserve">The pawn's craft level is not high enough</text>
+    <text xml:space="preserve">This pawn's craft level is not high enough</text>
   </message>
   <message>
     <key>CRAFT_NG_NON_POSSIBLE_PAWN</key>
@@ -1509,7 +1509,7 @@ Are you sure?</text>
   </message>
   <message>
     <key>ana_entryb_ready_alert</key>
-    <text xml:space="preserve">The party members have assembled. Please select "Ready" at the NPC</text>
+    <text xml:space="preserve">The party members have assembled. Please select "Rally" at the NPC</text>
   </message>
   <message>
     <key>ana_entryb_ready_wait_alert</key>
