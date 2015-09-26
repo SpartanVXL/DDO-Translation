@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>hud_job_hunter_normal_arrow</key>
-    <text xml:space="preserve">通常矢</text>
+    <text xml:space="preserve">Normal Arrow</text>
   </message>
   <message>
     <key>hud_disp_level</key>
@@ -17,11 +17,11 @@
   </message>
   <message>
     <key>hud_job_hunter_change_arrow</key>
-    <text xml:space="preserve">矢切替</text>
+    <text xml:space="preserve">Change Arrow</text>
   </message>
   <message>
     <key>hud_job_sealedsage_change_attribution</key>
-    <text xml:space="preserve">属性切替</text>
+    <text xml:space="preserve">Change Attribute</text>
   </message>
   <message>
     <key>hud_job_unequipped</key>
@@ -33,11 +33,11 @@
   </message>
   <message>
     <key>hud_status_away</key>
-    <text xml:space="preserve">離席中</text>
+    <text xml:space="preserve">Away</text>
   </message>
   <message>
     <key>hud_status_event</key>
-    <text xml:space="preserve">イベント</text>
+    <text xml:space="preserve">Event</text>
   </message>
   <message>
     <key>hud_quest_qg_time</key>
@@ -57,11 +57,11 @@
   </message>
   <message>
     <key>hud_status_ailment_sec</key>
-    <text xml:space="preserve">秒</text>
+    <text xml:space="preserve">sec</text>
   </message>
   <message>
     <key>hud_status_ailment_stamina</key>
-    <text xml:space="preserve">スタミナ回復</text>
+    <text xml:space="preserve">Stamina Recovery</text>
   </message>
   <message>
     <key>hud_get_announce_bo</key>
@@ -81,7 +81,7 @@
   </message>
   <message>
     <key>hud_quest_ann_caution_deco</key>
-    <text xml:space="preserve">Defeat the enemy !</text>
+    <text xml:space="preserve">Defeat the enemy!</text>
   </message>
   <message>
     <key>hud_pawn_ann_lost</key>
@@ -117,7 +117,7 @@
   </message>
   <message>
     <key>hud_enemy_engage</key>
-    <text xml:space="preserve">In Battle !</text>
+    <text xml:space="preserve">In Combat!</text>
   </message>
   <message>
     <key>hud_gauge_sorcery_bonus</key>
@@ -129,15 +129,15 @@
   </message>
   <message>
     <key>hud_status_disconnect</key>
-    <text xml:space="preserve">回線切断中</text>
+    <text xml:space="preserve">Disconnected</text>
   </message>
   <message>
     <key>hud_skill_move</key>
-    <text xml:space="preserve">発動</text>
+    <text xml:space="preserve">Activate</text>
   </message>
   <message>
     <key>hud_charges_others</key>
-    <text xml:space="preserve"> その他×&lt;VAL&gt;</text>
+    <text xml:space="preserve">Other×&lt;VAL&gt;</text>
   </message>
   <message>
     <key>hud_recommend_level</key>
@@ -181,27 +181,27 @@
   </message>
   <message>
     <key>hud_map_guide_lock</key>
-    <text xml:space="preserve">ロック</text>
+    <text xml:space="preserve">Lock</text>
   </message>
   <message>
     <key>hud_map_guide_scaling</key>
-    <text xml:space="preserve">拡縮</text>
+    <text xml:space="preserve">Scale</text>
   </message>
   <message>
     <key>hud_map_guide_freemarker</key>
-    <text xml:space="preserve">フリーマーカー</text>
+    <text xml:space="preserve">Waypoint</text>
   </message>
   <message>
     <key>hud_map_guide_cursor</key>
-    <text xml:space="preserve">カーソル移動</text>
+    <text xml:space="preserve">Move Cursor</text>
   </message>
   <message>
     <key>hud_map_guide_operation</key>
-    <text xml:space="preserve">ミニマップ操作</text>
+    <text xml:space="preserve">Expand</text>
   </message>
   <message>
     <key>hud_map_guide_zoom</key>
-    <text xml:space="preserve">ズームイン/アウト</text>
+    <text xml:space="preserve">Zoom In/Out</text>
   </message>
   <message>
     <key>hud_get_announce_rp</key>

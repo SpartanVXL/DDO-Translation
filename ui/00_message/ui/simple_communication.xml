@@ -17,11 +17,11 @@
   </message>
   <message>
     <key>SC_MSG_SPEAK_J</key>
-    <text xml:space="preserve">発言</text>
+    <text xml:space="preserve">Speak</text>
   </message>
   <message>
     <key>SC_MSG_EXECMOTION_J</key>
-    <text xml:space="preserve">実行</text>
+    <text xml:space="preserve">Perform</text>
   </message>
   <message>
     <key>SC_MSG_EXECMOTIONNC_J</key>
@@ -33,23 +33,23 @@
   </message>
   <message>
     <key>SC_MSG_MYPHRASE_J</key>
-    <text xml:space="preserve">マイ定型文</text>
+    <text xml:space="preserve">My Phrases</text>
   </message>
   <message>
     <key>SC_MSG_TMPPHRASE_J</key>
-    <text xml:space="preserve">定型文</text>
+    <text xml:space="preserve">Phrases</text>
   </message>
   <message>
     <key>SC_MSG_EMOTION_J</key>
-    <text xml:space="preserve">エモート</text>
+    <text xml:space="preserve">Emotes</text>
   </message>
   <message>
     <key>SC_MSG_EDITCTGR_J</key>
-    <text xml:space="preserve">カテゴリー名の編集</text>
+    <text xml:space="preserve">Edit Category</text>
   </message>
   <message>
     <key>SC_MSG_EDITSC_MSG_J</key>
-    <text xml:space="preserve">メッセージの編集</text>
+    <text xml:space="preserve">Edit Phrase</text>
   </message>
   <message>
     <key>SC_MSG_ADDSCM_J</key>
@@ -57,11 +57,11 @@
   </message>
   <message>
     <key>SC_MSG_DECIDE_J</key>
-    <text xml:space="preserve">決定</text>
+    <text xml:space="preserve">OK</text>
   </message>
   <message>
     <key>SC_MSG_CANCEL_J</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>SC_MSG_MESSAGE_J</key>
@@ -73,7 +73,7 @@
   </message>
   <message>
     <key>SC_MSG_NOSC_MSG_J</key>
-    <text xml:space="preserve">（なし）</text>
+    <text xml:space="preserve">(None)</text>
   </message>
   <message>
     <key>SC_MSG_TITLE</key>
@@ -81,6 +81,6 @@
   </message>
   <message>
     <key>SC_MSG_TITLE_J</key>
-    <text xml:space="preserve">コミュニケーション</text>
+    <text xml:space="preserve">Communication</text>
   </message>
 </resource>

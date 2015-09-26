@@ -1,11 +1,11 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SPOT_CATEGORY_1</key>
-    <text xml:space="preserve">エリア概要</text>
+    <text xml:space="preserve">General</text>
   </message>
   <message>
     <key>SPOT_CATEGORY_2</key>
-    <text xml:space="preserve">拠点・施設スポット</text>
+    <text xml:space="preserve">Settlements &amp; Structures</text>
   </message>
   <message>
     <key>SPOT_CATEGORY_3</key>
@@ -13,6 +13,6 @@
   </message>
   <message>
     <key>SPOT_CATEGORY_4</key>
-    <text xml:space="preserve">冒険スポット</text>
+    <text xml:space="preserve">Adventure Spots</text>
   </message>
 </resource>

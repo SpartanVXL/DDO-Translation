@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>QUEST_MSG_LB_REC</key>
-    <text xml:space="preserve">推奨</text>
+    <text xml:space="preserve">Recommend</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_PROV</key>
@@ -9,7 +9,7 @@
   </message>
   <message>
     <key>QUEST_MSG_LB_NOTHING</key>
-    <text xml:space="preserve">なし</text>
+    <text xml:space="preserve">None</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_REQ</key>
@@ -17,11 +17,11 @@
   </message>
   <message>
     <key>QUEST_MSG_LB_REWARD</key>
-    <text xml:space="preserve">報酬</text>
+    <text xml:space="preserve">Reward</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_EXP</key>
-    <text xml:space="preserve">経験値</text>
+    <text xml:space="preserve">Experience points</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_G</key>
@@ -33,11 +33,11 @@
   </message>
   <message>
     <key>QUEST_MSG_PRIOD</key>
-    <text xml:space="preserve">&lt;VAL&gt;まで</text>
+    <text xml:space="preserve">Until &lt;VAL&gt;</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_NOREWARD</key>
-    <text xml:space="preserve">報酬アイテムなし</text>
+    <text xml:space="preserve">No rewards</text>
   </message>
   <message>
     <key>QUEST_MSG_MASK</key>
@@ -49,15 +49,15 @@
   </message>
   <message>
     <key>QUEST_MSG_TITLE02</key>
-    <text xml:space="preserve">クエストログ</text>
+    <text xml:space="preserve">Quest Log</text>
   </message>
   <message>
     <key>QUEST_MSG_MENU_ENPRI</key>
-    <text xml:space="preserve">優先クエストに設定</text>
+    <text xml:space="preserve">Set as priority quest</text>
   </message>
   <message>
     <key>QUEST_MSG_ACCEPTED</key>
-    <text xml:space="preserve">Accepted:</text>
+    <text xml:space="preserve">Accepted: </text>
   </message>
   <message>
     <key>QUEST_MSG_MENU</key>
@@ -73,11 +73,11 @@
   </message>
   <message>
     <key>QUEST_MSG_TAB_MYQ</key>
-    <text xml:space="preserve">My Quest</text>
+    <text xml:space="preserve">My Quests</text>
   </message>
   <message>
     <key>QUEST_MSG_TAB_PTQ</key>
-    <text xml:space="preserve">Party Quest Information</text>
+    <text xml:space="preserve">Party Quests</text>
   </message>
   <message>
     <key>QUEST_MSG_CG_MAIN</key>
@@ -93,7 +93,7 @@
   </message>
   <message>
     <key>QUEST_MSG_LB_NSTEP</key>
-    <text xml:space="preserve">次の目的</text>
+    <text xml:space="preserve">Next Step</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_CLEARED</key>
@@ -117,7 +117,7 @@
   </message>
   <message>
     <key>QUEST_MSG_LB_BONUS</key>
-    <text xml:space="preserve">ボーナス</text>
+    <text xml:space="preserve">Bonus</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_CHARGINFO</key>
@@ -214,7 +214,7 @@
   </message>
   <message>
     <key>QUEST_MSG_BN_REPLAY</key>
-    <text xml:space="preserve">繰り返しボーナス</text>
+    <text xml:space="preserve">Repeat Bonus</text>
   </message>
   <message>
     <key>QUEST_MSG_ACCIDENTAL</key>
@@ -238,11 +238,11 @@
   </message>
   <message>
     <key>QUEST_MSG_SELECT_REWARD</key>
-    <text xml:space="preserve">選択報酬 (1つ選択)</text>
+    <text xml:space="preserve">Select Reward (1)</text>
   </message>
   <message>
     <key>QUEST_MSG_NOTHING</key>
-    <text xml:space="preserve">There are currrently no quests available.</text>
+    <text xml:space="preserve">There are currrently no quests available</text>
   </message>
   <message>
     <key>QUEST_MSG_NUMBER</key>
@@ -290,19 +290,19 @@
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_XP</key>
-    <text xml:space="preserve">経験値報酬が%2.1f倍（%s）</text>
+    <text xml:space="preserve">%2.1f experience point multiplier（%s）</text>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_AP</key>
-    <text xml:space="preserve">エリアポイント報酬が%2.1f倍（%s）</text>
+    <text xml:space="preserve">%2.1f area point multiplier（%s）</text>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_RIM</key>
-    <text xml:space="preserve">リム報酬が%2.1f倍（%s）</text>
+    <text xml:space="preserve">%2.1f rift reward multiplier（%s）</text>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_GOLD</key>
-    <text xml:space="preserve">ゴールド報酬が%2.1f倍（%s）</text>
+    <text xml:space="preserve">%2.1f gold reward multiplier（%s）</text>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_RANDOM</key>
@@ -314,7 +314,7 @@
   </message>
   <message>
     <key>QUEST_MSG_BONUS_TIME</key>
-    <text xml:space="preserve">Bonus currently active</text>
+    <text xml:space="preserve">ボーナス発生中</text>
   </message>
   <message>
     <key>QUEST_MSG_OPTION_COURSE</key>
@@ -338,11 +338,11 @@
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_ON1</key>
-    <text xml:space="preserve">パーティークリアボーナス対象</text>
+    <text xml:space="preserve">Party clear bonus target</text>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_OFF1</key>
-    <text xml:space="preserve">パーティークリアボーナス対象(取得済)</text>
+    <text xml:space="preserve">Party clear bonus target (already acquired)</text>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_ON2</key>
@@ -379,7 +379,7 @@
   </message>
   <message>
     <key>QUEST_MSG_LEADER_CONDITION</key>
-    <text xml:space="preserve">Leader does not meet the conditions.</text>
+    <text xml:space="preserve">Leader does not meet the conditions</text>
   </message>
   <message>
     <key>QUEST_MSG_AREA_BONUS</key>

@@ -1,11 +1,11 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_YES</key>
-    <text xml:space="preserve">はい</text>
+    <text xml:space="preserve">Yes</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_NO</key>
-    <text xml:space="preserve">いいえ</text>
+    <text xml:space="preserve">No</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_OK</key>
@@ -13,19 +13,19 @@
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_DECISION</key>
-    <text xml:space="preserve">はい</text>
+    <text xml:space="preserve">OK</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_CONTINUE</key>
-    <text xml:space="preserve">いいえ</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_BACKSPACE</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_BACK</key>
-    <text xml:space="preserve">いいえ</text>
+    <text xml:space="preserve">Back</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_ONLINESHOP</key>
@@ -37,11 +37,11 @@
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CHOICE_SAVE</key>
-    <text xml:space="preserve">セーブ</text>
+    <text xml:space="preserve">Save</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CHOICE_LOAD</key>
-    <text xml:space="preserve">ロード</text>
+    <text xml:space="preserve">Load</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_EDIT_CANCEL</key>
@@ -127,27 +127,27 @@
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD</key>
-    <text xml:space="preserve">セーブするスロットを選択してください</text>
+    <text xml:space="preserve">Please select the slot to save</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD</key>
-    <text xml:space="preserve">ロードするスロットを選択してください</text>
+    <text xml:space="preserve">Please select the slot to load</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_DATE</key>
-    <text xml:space="preserve">作成日時</text>
+    <text xml:space="preserve">Creation Time</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR</key>
-    <text xml:space="preserve">作成者</text>
+    <text xml:space="preserve">Author</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_SEX</key>
-    <text xml:space="preserve">性別</text>
+    <text xml:space="preserve">Gender</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT</key>
-    <text xml:space="preserve">コメント</text>
+    <text xml:space="preserve">Comment</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVE_OVERWRITE</key>
@@ -250,11 +250,11 @@ PC本体の電源を
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA</key>
-    <text xml:space="preserve">ロードをキャンセルしますか？</text>
+    <text xml:space="preserve">Are you sure you want to cancel the load?</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA</key>
-    <text xml:space="preserve">セーブをキャンセルしますか？</text>
+    <text xml:space="preserve">Are you sure you want to cancel the save?</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_NODATA</key>
@@ -262,11 +262,11 @@ PC本体の電源を
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_SEX_F</key>
-    <text xml:space="preserve">女性</text>
+    <text xml:space="preserve">Female</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_SEX_M</key>
-    <text xml:space="preserve">男性</text>
+    <text xml:space="preserve">Male</text>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_FIRST_PUSH_DEFAULT</key>

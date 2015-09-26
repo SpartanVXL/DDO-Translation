@@ -1,11 +1,11 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>arisenpop_bg_change</key>
-    <text xml:space="preserve">背景の設定</text>
+    <text xml:space="preserve">Change Background</text>
   </message>
   <message>
     <key>arisenpop_title_change</key>
-    <text xml:space="preserve">称号の設定</text>
+    <text xml:space="preserve">Change Title</text>
   </message>
   <message>
     <key>arisenpop_category01</key>
@@ -17,7 +17,7 @@
   </message>
   <message>
     <key>arisenpop_pose_change</key>
-    <text xml:space="preserve">ポーズの設定</text>
+    <text xml:space="preserve">Change Pose</text>
   </message>
   <message>
     <key>arisenpop_category02</key>
@@ -29,6 +29,6 @@
   </message>
   <message>
     <key>arisenpop_frame_change</key>
-    <text xml:space="preserve">フレームの設定</text>
+    <text xml:space="preserve">Change Frame</text>
   </message>
 </resource>

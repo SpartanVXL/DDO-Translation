@@ -1,11 +1,11 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>FUNC_CLASS_NAME_3</key>
-    <text xml:space="preserve">よろず屋</text>
+    <text xml:space="preserve">General Shop</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_4</key>
-    <text xml:space="preserve">道具屋</text>
+    <text xml:space="preserve">Item Shop</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_5</key>
@@ -13,19 +13,19 @@
   </message>
   <message>
     <key>FUNC_CLASS_NAME_6</key>
-    <text xml:space="preserve">素材屋</text>
+    <text xml:space="preserve">Material Shop</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_7</key>
-    <text xml:space="preserve">宿屋</text>
+    <text xml:space="preserve">Inn</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_8</key>
-    <text xml:space="preserve">武器屋</text>
+    <text xml:space="preserve">Weapon Shop</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_9</key>
-    <text xml:space="preserve">防具屋</text>
+    <text xml:space="preserve">Armor Shop</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_10</key>
@@ -37,7 +37,7 @@
   </message>
   <message>
     <key>FUNC_CLASS_NAME_12</key>
-    <text xml:space="preserve">グランドミッション</text>
+    <text xml:space="preserve">Grand Mission</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_13</key>
@@ -45,15 +45,15 @@
   </message>
   <message>
     <key>FUNC_CLASS_NAME_14</key>
-    <text xml:space="preserve">クラン酒場</text>
+    <text xml:space="preserve">Clan Tavern</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_15</key>
-    <text xml:space="preserve">クラフト係官</text>
+    <text xml:space="preserve">Craft Officer</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_16</key>
-    <text xml:space="preserve">美容院</text>
+    <text xml:space="preserve">Beauty Salon</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_17</key>
@@ -81,35 +81,35 @@
   </message>
   <message>
     <key>FUNC_CLASS_NAME_24</key>
-    <text xml:space="preserve">バザー</text>
+    <text xml:space="preserve">Bazaar</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_25</key>
-    <text xml:space="preserve">保管ボックス</text>
+    <text xml:space="preserve">Storage Box</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_26</key>
-    <text xml:space="preserve">納品ボックス</text>
+    <text xml:space="preserve">Delivery Box</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_27</key>
-    <text xml:space="preserve">リムストーン</text>
+    <text xml:space="preserve">Rift Stone</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_28</key>
-    <text xml:space="preserve">竜の礎</text>
+    <text xml:space="preserve">Dragon Crystal</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_29</key>
-    <text xml:space="preserve">拠点の礎</text>
+    <text xml:space="preserve">Warp Crystal</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_30</key>
-    <text xml:space="preserve">竜の礎</text>
+    <text xml:space="preserve">Dragon Crystal</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_31</key>
-    <text xml:space="preserve">クエストボード</text>
+    <text xml:space="preserve">Quest Board</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_32</key>
@@ -129,7 +129,7 @@
   </message>
   <message>
     <key>FUNC_CLASS_NAME_36</key>
-    <text xml:space="preserve">記録官</text>
+    <text xml:space="preserve">Historian</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_37</key>
@@ -141,7 +141,7 @@
   </message>
   <message>
     <key>FUNC_CLASS_NAME_41</key>
-    <text xml:space="preserve">拠点用保管ボックス</text>
+    <text xml:space="preserve">拠点用 Storage Box</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_42</key>
@@ -153,7 +153,7 @@
   </message>
   <message>
     <key>FUNC_CLASS_NAME_44</key>
-    <text xml:space="preserve">トレジャーズロット</text>
+    <text xml:space="preserve">Treasure Lot</text>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_45</key>

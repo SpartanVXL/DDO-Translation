@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>PLAY_PURPOSE_MAIN_001</key>
-    <text xml:space="preserve">とくになし</text>
+    <text xml:space="preserve">None</text>
   </message>
   <message>
     <key>PLAY_PURPOSE_MAIN_002</key>
@@ -13,7 +13,7 @@
   </message>
   <message>
     <key>PLAY_PURPOSE_MAIN_004</key>
-    <text xml:space="preserve">素材集め</text>
+    <text xml:space="preserve">Gather materials</text>
   </message>
   <message>
     <key>PLAY_PURPOSE_MAIN_005</key>
@@ -21,7 +21,7 @@
   </message>
   <message>
     <key>PLAY_PURPOSE_MAIN_006</key>
-    <text xml:space="preserve">イベントで遊ぶ</text>
+    <text xml:space="preserve">Play in the events</text>
   </message>
   <message>
     <key>PLAY_PURPOSE_MAIN_007</key>
@@ -45,15 +45,15 @@
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_001</key>
-    <text xml:space="preserve">冒険エリア＜ハイデル平原＞</text>
+    <text xml:space="preserve">Adventure Area ＜Hidell Plains＞</text>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_002</key>
-    <text xml:space="preserve">冒険エリア＜ブリア海岸＞</text>
+    <text xml:space="preserve">Adventure Area ＜Breya Coast＞</text>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_003</key>
-    <text xml:space="preserve">冒険エリア＜ミスリウ森林＞</text>
+    <text xml:space="preserve">Adventure Area ＜Mysree Forest＞</text>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_004</key>
@@ -73,7 +73,7 @@
   </message>
   <message>
     <key>PLAY_STYLE_001</key>
-    <text xml:space="preserve">指定なし</text>
+    <text xml:space="preserve">Unspecified</text>
   </message>
   <message>
     <key>PLAY_STYLE_002</key>
@@ -81,11 +81,11 @@
   </message>
   <message>
     <key>PLAY_STYLE_003</key>
-    <text xml:space="preserve">戦闘大好き</text>
+    <text xml:space="preserve">I love fighting</text>
   </message>
   <message>
     <key>PLAY_STYLE_004</key>
-    <text xml:space="preserve">お金大好き</text>
+    <text xml:space="preserve">I love money</text>
   </message>
   <message>
     <key>PLAY_STYLE_005</key>
@@ -105,7 +105,7 @@
   </message>
   <message>
     <key>PLAY_STYLE_009</key>
-    <text xml:space="preserve">クラフト大好き</text>
+    <text xml:space="preserve">I love crafting</text>
   </message>
   <message>
     <key>PLAY_STYLE_010</key>

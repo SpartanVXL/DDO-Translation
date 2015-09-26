@@ -17,7 +17,7 @@
   </message>
   <message>
     <key>JMMH_MSG_BEAT_STR</key>
-    <text xml:space="preserve">&lt;VAL LV&gt;以上の&lt;NAME ENEMY&gt;を倒せ！</text>
+    <text xml:space="preserve">Defeat at minimum &lt;VAL LV&gt; &lt;NAME ENEMY&gt;!</text>
   </message>
   <message>
     <key>JMMH_MSG_EQUIP_STR</key>
@@ -33,7 +33,7 @@
   </message>
   <message>
     <key>JMMH_MSG_JOB_MASTER_STR_JP</key>
-    <text xml:space="preserve">ジョブマスター</text>
+    <text xml:space="preserve">Job Master</text>
   </message>
   <message>
     <key>JMMH_MSG_MASTER_HB_STR_JP</key>
@@ -45,11 +45,11 @@
   </message>
   <message>
     <key>JMMH_MSG_CUSTOM_SKILL_STR</key>
-    <text xml:space="preserve">カスタムスキル</text>
+    <text xml:space="preserve">Custom Skills</text>
   </message>
   <message>
     <key>JMMH_MSG_ABILITY_STR</key>
-    <text xml:space="preserve">アビリティ</text>
+    <text xml:space="preserve">Abilities</text>
   </message>
   <message>
     <key>JMMH_MSG_NEXT_STR</key>
@@ -81,7 +81,7 @@
   </message>
   <message>
     <key>JMMH_MSG_JOB_STR</key>
-    <text xml:space="preserve">ジョブ</text>
+    <text xml:space="preserve">Jobs</text>
   </message>
   <message>
     <key>JMMH_MSG_NO_ORDER_STR</key>

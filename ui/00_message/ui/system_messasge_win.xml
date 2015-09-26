@@ -5,7 +5,7 @@
   </message>
   <message>
     <key>sys_announce_check_strage</key>
-    <text xml:space="preserve">ハードディスクドライブの容量をチェックしています</text>
+    <text xml:space="preserve">Checking HDD capacity</text>
   </message>
   <message>
     <key>sys_announce_notenoughstorage</key>
@@ -53,8 +53,8 @@ PCの電源を切らないでください</text>
   </message>
   <message>
     <key>sys_announce_checkingsave</key>
-    <text xml:space="preserve">セーブデータをチェックしています
-PCの電源を切らないでください</text>
+    <text xml:space="preserve">Checking save data
+Please do not turn off your PC</text>
   </message>
   <message>
     <key>sys_announce_check_strage_fail</key>
@@ -92,10 +92,10 @@ PCの電源を切らないでください</text>
   </message>
   <message>
     <key>sys_announce_exit</key>
-    <text xml:space="preserve">Dragon's Dogma Online を終了しますか？</text>
+    <text xml:space="preserve">Are you sure you want to exit Dragon's Dogma Online?</text>
   </message>
   <message>
     <key>sys_announce_connecting</key>
-    <text xml:space="preserve">サーバーと通信中です</text>
+    <text xml:space="preserve">Connecting to server</text>
   </message>
 </resource>

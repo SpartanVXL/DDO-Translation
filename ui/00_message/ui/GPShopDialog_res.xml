@@ -9,7 +9,7 @@
   </message>
   <message>
     <key>OSD_tab_goldstone</key>
-    <text xml:space="preserve">黄金石</text>
+    <text xml:space="preserve">Golden Gemstones</text>
   </message>
   <message>
     <key>OSD_tab_effectivedate</key>
@@ -65,27 +65,27 @@
   </message>
   <message>
     <key>OSD_eventcode_index_jp</key>
-    <text xml:space="preserve">イベントコードの入力</text>
+    <text xml:space="preserve">Input event code</text>
   </message>
   <message>
     <key>OSD_eventcode_title</key>
-    <text xml:space="preserve">16ケタのイベントコードを入力してください</text>
+    <text xml:space="preserve">Please enter your 16-digit event code</text>
   </message>
   <message>
     <key>OSD_eventcode_ok</key>
-    <text xml:space="preserve">決定</text>
+    <text xml:space="preserve">OK</text>
   </message>
   <message>
     <key>OSD_eventcode_warning</key>
-    <text xml:space="preserve">イベントコードに関する注意</text>
+    <text xml:space="preserve">Note about the event codes</text>
   </message>
   <message>
     <key>OSD_eventcode_warning_text</key>
-    <text xml:space="preserve">イベントコード入力を5回失敗すると、
-3時間イベントコードの入力ができなくなります
+    <text xml:space="preserve">When you fail to input an event code 5 times,
+you will not be able to enter event codes for 3 hours.
 
-コード特典は現在ログイン中の
-キャラクターのみに適用されます</text>
+The code benefits are only applied to the
+currently logged in character.</text>
   </message>
   <message>
     <key>OSD_histry_information</key>

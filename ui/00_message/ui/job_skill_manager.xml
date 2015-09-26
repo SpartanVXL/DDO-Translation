@@ -21,19 +21,19 @@
   </message>
   <message>
     <key>heading_change_skill_ability</key>
-    <text xml:space="preserve">スキル・アビリティ習得/装備</text>
+    <text xml:space="preserve">Learn/Equip Skills and Abilities</text>
   </message>
   <message>
     <key>tab_normal_skill</key>
-    <text xml:space="preserve">ノーマルスキル</text>
+    <text xml:space="preserve">Normal Skills</text>
   </message>
   <message>
     <key>tab_custom_skill</key>
-    <text xml:space="preserve">カスタムスキル</text>
+    <text xml:space="preserve">Custom Skills</text>
   </message>
   <message>
     <key>tab_ability</key>
-    <text xml:space="preserve">アビリティ</text>
+    <text xml:space="preserve">Abilities</text>
   </message>
   <message>
     <key>button_get</key>
@@ -57,23 +57,23 @@
   </message>
   <message>
     <key>option_filter</key>
-    <text xml:space="preserve">フィルタ</text>
+    <text xml:space="preserve">Filter</text>
   </message>
   <message>
     <key>option_preset</key>
-    <text xml:space="preserve">プリセットリスト</text>
+    <text xml:space="preserve">Preset List</text>
   </message>
   <message>
     <key>option_apply</key>
-    <text xml:space="preserve">プリセットの装備</text>
+    <text xml:space="preserve">Equip Preset</text>
   </message>
   <message>
     <key>option_overwrite</key>
-    <text xml:space="preserve">装備中のアビリティを登録</text>
+    <text xml:space="preserve">Register Equipped Abilities</text>
   </message>
   <message>
     <key>option_rename</key>
-    <text xml:space="preserve">プリセット名の編集</text>
+    <text xml:space="preserve">Rename Preset</text>
   </message>
   <message>
     <key>error_joblevel</key>
@@ -147,7 +147,7 @@
   </message>
   <message>
     <key>ability_type_secret</key>
-    <text xml:space="preserve">シークレットアビリティ</text>
+    <text xml:space="preserve">Secret Abilities</text>
   </message>
   <message>
     <key>heading_change_skill_ability_eng</key>
@@ -159,11 +159,11 @@
   </message>
   <message>
     <key>custom_skill_cmd_remove</key>
-    <text xml:space="preserve">はずす</text>
+    <text xml:space="preserve">Remove</text>
   </message>
   <message>
     <key>btn_guide_set_ability</key>
-    <text xml:space="preserve">アビリティの装備</text>
+    <text xml:space="preserve">Set Ability</text>
   </message>
   <message>
     <key>btn_guide_sub_menu</key>
@@ -171,7 +171,7 @@
   </message>
   <message>
     <key>ability_search_check_all</key>
-    <text xml:space="preserve">全て</text>
+    <text xml:space="preserve">All</text>
   </message>
   <message>
     <key>title_preset_ability</key>
@@ -179,7 +179,7 @@
   </message>
   <message>
     <key>need_level_to_get</key>
-    <text xml:space="preserve">ジョブレベル：&lt;VAL&gt;</text>
+    <text xml:space="preserve">Job level: &lt;VAL&gt;</text>
   </message>
   <message>
     <key>error_server_request_fail</key>
@@ -191,7 +191,7 @@
   </message>
   <message>
     <key>need_jp_to_get</key>
-    <text xml:space="preserve">ジョブポイント：&lt;VAL&gt;</text>
+    <text xml:space="preserve">Job points: &lt;VAL&gt;</text>
   </message>
   <message>
     <key>level_up_conditions</key>
@@ -203,11 +203,11 @@
   </message>
   <message>
     <key>preset_default_name</key>
-    <text xml:space="preserve">プリセット</text>
+    <text xml:space="preserve">Preset #</text>
   </message>
   <message>
     <key>preset_unregist</key>
-    <text xml:space="preserve">未登録</text>
+    <text xml:space="preserve">Unregistered</text>
   </message>
   <message>
     <key>job_change_error_capacity_over</key>
@@ -227,11 +227,11 @@
   </message>
   <message>
     <key>job_msg_job</key>
-    <text xml:space="preserve">ジョブ</text>
+    <text xml:space="preserve">Job</text>
   </message>
   <message>
     <key>job_msg_category</key>
-    <text xml:space="preserve">カテゴリー</text>
+    <text xml:space="preserve">Category</text>
   </message>
   <message>
     <key>job_msg_normal_skill_j</key>

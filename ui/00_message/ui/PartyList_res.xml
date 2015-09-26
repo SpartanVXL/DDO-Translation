@@ -17,19 +17,19 @@
   </message>
   <message>
     <key>party_list_member</key>
-    <text xml:space="preserve">パーティーメンバー</text>
+    <text xml:space="preserve">Party Members</text>
   </message>
   <message>
     <key>party_list_mpawn</key>
-    <text xml:space="preserve">メインポーン</text>
+    <text xml:space="preserve">Main Pawns</text>
   </message>
   <message>
     <key>party_list_spawn</key>
-    <text xml:space="preserve">サポートポーン</text>
+    <text xml:space="preserve">Hired Pawns</text>
   </message>
   <message>
     <key>party_list_pl_search</key>
-    <text xml:space="preserve">プレイヤー検索</text>
+    <text xml:space="preserve">Player Search</text>
   </message>
   <message>
     <key>party_list_q_party</key>
@@ -37,11 +37,11 @@
   </message>
   <message>
     <key>party_list_leave</key>
-    <text xml:space="preserve">パーティーから抜ける</text>
+    <text xml:space="preserve">Leave</text>
   </message>
   <message>
     <key>party_list_dissolution</key>
-    <text xml:space="preserve">パーティーを解散する</text>
+    <text xml:space="preserve">Disband</text>
   </message>
   <message>
     <key>party_list_submenu</key>
@@ -57,15 +57,15 @@
   </message>
   <message>
     <key>party_list_name</key>
-    <text xml:space="preserve">名前</text>
+    <text xml:space="preserve">Name</text>
   </message>
   <message>
     <key>party_list_job</key>
-    <text xml:space="preserve">ジョブレベル</text>
+    <text xml:space="preserve">Job Level</text>
   </message>
   <message>
     <key>party_list_lobby</key>
-    <text xml:space="preserve">ロビー</text>
+    <text xml:space="preserve">Lobby</text>
   </message>
   <message>
     <key>party_list_location</key>
@@ -73,19 +73,19 @@
   </message>
   <message>
     <key>party_list_clan</key>
-    <text xml:space="preserve">クラン</text>
+    <text xml:space="preserve">Clan</text>
   </message>
   <message>
     <key>party_list_state</key>
-    <text xml:space="preserve">状態</text>
+    <text xml:space="preserve">Status</text>
   </message>
   <message>
     <key>party_list_comment</key>
-    <text xml:space="preserve">コメント</text>
+    <text xml:space="preserve">Comment</text>
   </message>
   <message>
     <key>party_list_search</key>
-    <text xml:space="preserve">検索する</text>
+    <text xml:space="preserve">Search</text>
   </message>
   <message>
     <key>party_list_object</key>
@@ -105,7 +105,7 @@
   </message>
   <message>
     <key>party_list_settings_err</key>
-    <text xml:space="preserve">条件を設定してください</text>
+    <text xml:space="preserve">Please enter search criteria</text>
   </message>
   <message>
     <key>party_list_notfound_player</key>
@@ -125,11 +125,11 @@
   </message>
   <message>
     <key>party_list_count</key>
-    <text xml:space="preserve">冒険／クラフト残り回数</text>
+    <text xml:space="preserve">Adventure / Craft Left</text>
   </message>
   <message>
     <key>party_list_pawn_joblv</key>
-    <text xml:space="preserve">ジョブ／クラフトレベル</text>
+    <text xml:space="preserve">Job / Craft Level</text>
   </message>
   <message>
     <key>party_list_main_pawn_count</key>
@@ -141,11 +141,11 @@
   </message>
   <message>
     <key>party_list_notfound_main_pawn</key>
-    <text xml:space="preserve">ポーンと契約していません</text>
+    <text xml:space="preserve">You have not made a contract with any pawns</text>
   </message>
   <message>
     <key>party_list_notfound_support_pawn</key>
-    <text xml:space="preserve">ポーンを雇用していません</text>
+    <text xml:space="preserve">You have not hired any pawns</text>
   </message>
   <message>
     <key>party_list_party_link</key>

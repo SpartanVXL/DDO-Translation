@@ -1,27 +1,27 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>map_menumap_titlee</key>
-    <text xml:space="preserve">MAP</text>
+    <text xml:space="preserve">Map</text>
   </message>
   <message>
     <key>map_menumap_titlej</key>
-    <text xml:space="preserve">マップ</text>
+    <text xml:space="preserve">Map</text>
   </message>
   <message>
     <key>map_menumap_maptypes</key>
-    <text xml:space="preserve">詳細マップ</text>
+    <text xml:space="preserve">Local</text>
   </message>
   <message>
     <key>map_menumap_maptypem</key>
-    <text xml:space="preserve">フィールドマップ</text>
+    <text xml:space="preserve">Field</text>
   </message>
   <message>
     <key>map_menumap_maptypel</key>
-    <text xml:space="preserve">広域マップ</text>
+    <text xml:space="preserve">Global</text>
   </message>
   <message>
     <key>map_menumap_guide_zoom</key>
-    <text xml:space="preserve">ズームイン/アウト</text>
+    <text xml:space="preserve">Zoom In/Out</text>
   </message>
   <message>
     <key>map_menumap_guide_filter</key>
@@ -29,7 +29,7 @@
   </message>
   <message>
     <key>map_menumap_guide_movecursor</key>
-    <text xml:space="preserve">カーソル移動</text>
+    <text xml:space="preserve">Move Cursor</text>
   </message>
   <message>
     <key>map_menumap_guide_moveplayer</key>
@@ -45,11 +45,11 @@
   </message>
   <message>
     <key>map_menumap_guide_freemarker</key>
-    <text xml:space="preserve">フリーマーカー (長押しで消去)</text>
+    <text xml:space="preserve">Place Waypoint (hold to remove)</text>
   </message>
   <message>
     <key>map_menumap_guide_close</key>
-    <text xml:space="preserve">閉じる</text>
+    <text xml:space="preserve">Change Opacity</text>
   </message>
   <message>
     <key>map_menumap_guide_transparent</key>

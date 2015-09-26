@@ -1,4 +1,4 @@
-<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>title_item</key>
     <text xml:space="preserve">Possessed Items</text>
@@ -9,7 +9,7 @@
   </message>
   <message>
     <key>option_disposal</key>
-    <text xml:space="preserve">Throw Away</text>
+    <text xml:space="preserve">Discard</text>
   </message>
   <message>
     <key>option_use</key>
@@ -21,11 +21,11 @@
   </message>
   <message>
     <key>option_sheathe</key>
-    <text xml:space="preserve">Put Away</text>
+    <text xml:space="preserve">Stash</text>
   </message>
   <message>
     <key>heading_howmany_disposal</key>
-    <text xml:space="preserve">How Many Discard?</text>
+    <text xml:space="preserve">How many to discard?</text>
   </message>
   <message>
     <key>option_equip</key>
@@ -53,19 +53,19 @@
   </message>
   <message>
     <key>submenu_sort_better</key>
-    <text xml:space="preserve">Sort (Better)</text>
+    <text xml:space="preserve">Sort</text>
   </message>
   <message>
     <key>submenu_sort_buy_ascending</key>
-    <text xml:space="preserve">Sort (Up)</text>
+    <text xml:space="preserve">Sort (Equipment)</text>
   </message>
   <message>
     <key>submenu_sort_buy_descending</key>
-    <text xml:space="preserve">Sort (Down)</text>
+    <text xml:space="preserve">Sort (Materials)</text>
   </message>
   <message>
     <key>submenu_buy</key>
-    <text xml:space="preserve">Buy</text>
+    <text xml:space="preserve">Sell</text>
   </message>
   <message>
     <key>submenu_select_all</key>
@@ -93,19 +93,19 @@
   </message>
   <message>
     <key>option_send_bag</key>
-    <text xml:space="preserve">Send To Bag</text>
+    <text xml:space="preserve">Send to Bag</text>
   </message>
   <message>
     <key>option_send_box</key>
-    <text xml:space="preserve">Send To Box</text>
+    <text xml:space="preserve">Send to Storage Box</text>
   </message>
   <message>
     <key>option_send_exbox</key>
-    <text xml:space="preserve">Send To Extra Box</text>
+    <text xml:space="preserve">Send to Extra Box</text>
   </message>
   <message>
     <key>option_send_num_specified</key>
-    <text xml:space="preserve">Send To (Number Specified)</text>
+    <text xml:space="preserve"> (Amount)</text>
   </message>
   <message>
     <key>option_drag</key>
@@ -113,7 +113,7 @@
   </message>
   <message>
     <key>item_msg_pop_put</key>
-    <text xml:space="preserve">Put</text>
+    <text xml:space="preserve">Putく</text>
   </message>
   <message>
     <key>item_msg_pop_switch</key>
@@ -121,7 +121,7 @@
   </message>
   <message>
     <key>item_msg_pop_sum</key>
-    <text xml:space="preserve">Adding up</text>
+    <text xml:space="preserve">Sum</text>
   </message>
   <message>
     <key>item_msg_pop_exchange</key>
@@ -129,7 +129,7 @@
   </message>
   <message>
     <key>item_msg_pop_unexchangeable</key>
-    <text xml:space="preserve">Can Not Be Replaced</text>
+    <text xml:space="preserve">Cannot be exchanged</text>
   </message>
   <message>
     <key>item_msg_pop_move</key>
@@ -149,7 +149,7 @@
   </message>
   <message>
     <key>item_msg_guid_tostorage</key>
-    <text xml:space="preserve">Storage Box</text>
+    <text xml:space="preserve">Move to storage box</text>
   </message>
   <message>
     <key>item_btnguide_buy</key>

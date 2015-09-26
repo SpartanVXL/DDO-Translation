@@ -1,4 +1,4 @@
-<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>button_guide_touch_catch</key>
     <text xml:space="preserve">Grab</text>
@@ -9,7 +9,7 @@
   </message>
   <message>
     <key>button_guide_touch_talk</key>
-    <text xml:space="preserve">Speak</text>
+    <text xml:space="preserve">Talk</text>
   </message>
   <message>
     <key>button_guide_touch_rescue</key>
@@ -21,23 +21,23 @@
   </message>
   <message>
     <key>button_guide_touch_sitdown</key>
-    <text xml:space="preserve">Sit Down</text>
+    <text xml:space="preserve">Sit</text>
   </message>
   <message>
     <key>button_guide_touch_standup</key>
-    <text xml:space="preserve">Stand Up</text>
+    <text xml:space="preserve">Stand</text>
   </message>
   <message>
     <key>button_guide_touch_bathin</key>
-    <text xml:space="preserve">Bath In</text>
+    <text xml:space="preserve">Get In Bath</text>
   </message>
   <message>
     <key>button_guide_touch_bathout</key>
-    <text xml:space="preserve">Bath Out</text>
+    <text xml:space="preserve">Get Out Of Bath</text>
   </message>
   <message>
     <key>button_guide_lr_endure</key>
-    <text xml:space="preserve">Withstand</text>
+    <text xml:space="preserve">Resist</text>
   </message>
   <message>
     <key>button_guide_circle_dismount</key>
@@ -89,11 +89,11 @@
   </message>
   <message>
     <key>button_guide_r2_multi</key>
-    <text xml:space="preserve">Multi</text>
+    <text xml:space="preserve">Multi Shortcut Palette</text>
   </message>
   <message>
     <key>button_guide_circle_breakaway</key>
-    <text xml:space="preserve">Breakaway</text>
+    <text xml:space="preserve">Withdraw</text>
   </message>
   <message>
     <key>button_guide_fire_hunter</key>
@@ -105,7 +105,7 @@
   </message>
   <message>
     <key>button_guide_decide</key>
-    <text xml:space="preserve">Decide</text>
+    <text xml:space="preserve">OK</text>
   </message>
   <message>
     <key>button_guide_cancel</key>
@@ -113,7 +113,7 @@
   </message>
   <message>
     <key>button_guide_move</key>
-    <text xml:space="preserve">Invocation</text>
+    <text xml:space="preserve">Move</text>
   </message>
   <message>
     <key>button_guide_change_stance</key>
@@ -121,11 +121,11 @@
   </message>
   <message>
     <key>button_guide_stance_bow</key>
-    <text xml:space="preserve">Bow Stance</text>
+    <text xml:space="preserve">Ready</text>
   </message>
   <message>
     <key>button_guide_cancel_magic</key>
-    <text xml:space="preserve">Cancel</text>
+    <text xml:space="preserve">Release</text></text>
   </message>
   <message>
     <key>button_guide_put</key>

@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pawn_command_category_640</key>
-    <text xml:space="preserve">基本命令</text>
+    <text xml:space="preserve">Basic Orders</text>
   </message>
   <message>
     <key>pawn_command_category_641</key>
-    <text xml:space="preserve">詳細命令</text>
+    <text xml:space="preserve">Advanced Orders</text>
   </message>
   <message>
     <key>pawn_command_category_642</key>
-    <text xml:space="preserve">属性指定命令</text>
+    <text xml:space="preserve">Attribute Orders</text>
   </message>
   <message>
     <key>pawn_command_category_643</key>
-    <text xml:space="preserve">特殊命令</text>
+    <text xml:space="preserve">Special Orders</text>
   </message>
 </resource>
