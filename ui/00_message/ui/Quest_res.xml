@@ -330,7 +330,7 @@
   </message>
   <message>
     <key>QUEST_MSG_NOTE_COLLISION_PROC</key>
-    <text xml:space="preserve">リーダーとクエスト進行状況が一致していないため進行不可</text>
+    <text xml:space="preserve">You cannot continue because your progress is different than the party leader</text>
   </message>
   <message>
     <key>QUEST_MSG_ORDERED_OVER</key>
