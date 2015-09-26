@@ -133,23 +133,23 @@
   </message>
   <message>
     <key>QUEST_MSG_MENU_CANCELLATION</key>
-    <text xml:space="preserve">優先解除</text>
+    <text xml:space="preserve">Cancel Priority</text>
   </message>
   <message>
     <key>QUEST_MSG_MENU_PROORITY</key>
-    <text xml:space="preserve">優先クエスト</text>
+    <text xml:space="preserve">Priority Quest</text>
   </message>
   <message>
     <key>QUEST_MSG_MENU_CANCEL</key>
-    <text xml:space="preserve">クエスト破棄</text>
+    <text xml:space="preserve">Cancel Quest</text>
   </message>
   <message>
     <key>QUEST_MSG_MENU_MAP</key>
-    <text xml:space="preserve">地図で確認</text>
+    <text xml:space="preserve">Check Map</text>
   </message>
   <message>
     <key>QUEST_MSG_QUESTMENU</key>
-    <text xml:space="preserve">クエストメニュー</text>
+    <text xml:space="preserve">Quest Menu</text>
   </message>
   <message>
     <key>QUEST_MSG_QUESTLIST</key>
@@ -161,7 +161,7 @@
   </message>
   <message>
     <key>QUEST_MSG_BOARD_TITLE02</key>
-    <text xml:space="preserve">クエストボード</text>
+    <text xml:space="preserve">Quest Board</text>
   </message>
   <message>
     <key>QUEST_MSG_LB_REQ2</key>
@@ -346,11 +346,11 @@
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_ON2</key>
-    <text xml:space="preserve">クリア報酬（アイテム以外）が最大&lt;VAL&gt;倍！</text>
+    <text xml:space="preserve">Clear rewards (other than items) increased by &lt;VAL&gt; times!</text>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_OFF2</key>
-    <text xml:space="preserve">クリア報酬（アイテム以外）が最大&lt;VAL&gt;倍！
+    <text xml:space="preserve">Clear rewards (other than items) increased by &lt;VAL&gt; times!
 ブラッドオーブが&lt;VAL&gt;個獲得！</text>
   </message>
   <message>
