@@ -85,8 +85,9 @@ Are you sure?</text>
   </message>
   <message>
     <key>dialog_pt_warp_check</key>
-    <text xml:space="preserve">You will warp to the location of the party leader.
-Are you sure?</text>
+							   You will rift warp to the selected location.
+    <text xml:space="preserve">Are you sure you want to warp with
+the party leader?</text>
   </message>
   <message>
     <key>notice_pt_warp_limit</key>
