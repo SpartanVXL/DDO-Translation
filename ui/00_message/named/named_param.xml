@@ -101,12 +101,12 @@
   <message>
     <key>namedparam_134</key>
     <!-- Replace -->
-    <text xml:space="preserve">囚われし</text>
+    <text xml:space="preserve">Captive</text>
   </message>
   <message>
     <key>namedparam_135</key>
     <!-- Replace -->
-    <text xml:space="preserve">囚われし</text>
+    <text xml:space="preserve">Captive</text>
   </message>
   <message>
     <key>namedparam_136</key>
@@ -296,12 +296,12 @@
   <message>
     <key>namedparam_217</key>
     <!-- Suffix -->
-    <text xml:space="preserve">盗掘種</text>
+    <text xml:space="preserve"> Grave Robber</text>
   </message>
   <message>
     <key>namedparam_218</key>
-    <!-- Suffix -->
-    <text xml:space="preserve">奇種</text>
+    <!-- Suffix (requires to be Prefix))-->
+    <text xml:space="preserve">Strange</text>
   </message>
   <message>
     <key>namedparam_219</key>
@@ -366,7 +366,7 @@
   <message>
     <key>namedparam_285</key>
     <!-- Suffix -->
-    <text xml:space="preserve"> Vanguard Soldider</text>
+    <text xml:space="preserve"> Vanguard Soldier</text>
   </message>
   <message>
     <key>namedparam_298</key>
@@ -396,12 +396,12 @@
   <message>
     <key>namedparam_305</key>
     <!-- Prefix -->
-    <text xml:space="preserve">路番の</text>
+    <text xml:space="preserve">Path-Guard </text>
   </message>
   <message>
     <key>namedparam_306</key>
     <!-- Prefix -->
-    <text xml:space="preserve">路番の</text>
+    <text xml:space="preserve">Path-Guard </text>
   </message>
   <message>
     <key>namedparam_307</key>
@@ -441,7 +441,7 @@
   <message>
     <key>namedparam_314</key>
     <!-- Replace -->
-    <text xml:space="preserve">ブリア宝奪団</text>
+    <text xml:space="preserve">Breya Treasure Bandit</text>
   </message>
   <message>
     <key>namedparam_316</key>
@@ -541,7 +541,7 @@
   <message>
     <key>namedparam_400</key>
     <!-- Replace -->
-    <text xml:space="preserve">さまよえる戦徒</text>
+    <text xml:space="preserve">Corrupted Pawn</text>
   </message>
   <message>
     <key>namedparam_401</key>
@@ -641,7 +641,7 @@
   <message>
     <key>namedparam_449</key>
     <!-- Prefix -->
-    <text xml:space="preserve">時番</text>
+    <text xml:space="preserve">Time Mob</text>
   </message>
   <message>
     <key>namedparam_451</key>
@@ -686,22 +686,22 @@
   <message>
     <key>namedparam_462</key>
     <!-- Prefix -->
-    <text xml:space="preserve">Magic Wall Warrior </text>
+    <text xml:space="preserve">Magic-Wall Time Mob </text>
   </message>
   <message>
     <key>namedparam_463</key>
     <!-- Prefix -->
-    <text xml:space="preserve">Iron-Clad Warrior </text>
+    <text xml:space="preserve">Iron-Clad Time Mob </text>
   </message>
   <message>
     <key>namedparam_464</key>
     <!-- Prefix -->
-    <text xml:space="preserve">Super Strong Warrior </text>
+    <text xml:space="preserve">Super Strong Time Mob </text>
   </message>
   <message>
     <key>namedparam_465</key>
     <!-- Prefix -->
-    <text xml:space="preserve">Super Magical Warrior </text>
+    <text xml:space="preserve">Super Magical Time Mob </text>
   </message>
   <message>
     <key>namedparam_466</key>
