@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>JMMH_MSG_ALLTASK_CLEAR_STR</key>
-    <text xml:space="preserve">The challenge was finished and reported to the Job Master</text>
+    <text xml:space="preserve">Challenge finished and reported to the Job Master.</text>
   </message>
   <message>
     <key>JMMH_MSG_LV_STR</key>
@@ -9,7 +9,7 @@
   </message>
   <message>
     <key>JMMH_MSG_TASK_STR</key>
-    <text xml:space="preserve">Report to the &lt;VAL&gt; Job Master to finish training</text>
+    <text xml:space="preserve">Report to the &lt;VAL&gt; Job Master to finish training.</text>
   </message>
   <message>
     <key>JMMH_MSG_SLASH_STR</key>
@@ -77,7 +77,7 @@
   </message>
   <message>
     <key>JMMH_MSG_TASK_EXAM_STR</key>
-    <text xml:space="preserve">Report to the Job Master to finish training</text>
+    <text xml:space="preserve">Report to the Job Master to finish training.</text>
   </message>
   <message>
     <key>JMMH_MSG_JOB_STR</key>
