@@ -504,15 +504,15 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_levelup_job_me</key>
-    <text xml:space="preserve">&lt;NAME PLAYER&gt; has reached level &lt;VAL LV&gt;</text>
+    <text xml:space="preserve">&lt;NAME PLAYER&gt; has reached &lt;VAL LV&gt;</text>
   </message>
   <message>
     <key>syslog_levelup_job_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has reached level &lt;VAL LV&gt;</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has reached &lt;VAL LV&gt;</text>
   </message>
   <message>
     <key>syslog_levelup_job_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has reached level &lt;VAL LV&gt;</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has reached &lt;VAL LV&gt;</text>
   </message>
   <message>
     <key>syslog_money_get</key>
