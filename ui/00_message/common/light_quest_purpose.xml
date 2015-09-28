@@ -1,14 +1,14 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>LIGHT_QUEST_PURPOSE_1001</key>
-    <text xml:space="preserve">&lt;LQEM&gt; Defeat: &lt;VAL&gt; / &lt;VAL&gt;</text>
+    <text xml:space="preserve">Defeat &lt;LQEM&gt;: &lt;VAL&gt; / &lt;VAL&gt;</text>
   </message>
   <message>
     <key>LIGHT_QUEST_PURPOSE_1002</key>
-    <text xml:space="preserve">&lt;LQIM&gt; Obtain: &lt;VAL&gt; / &lt;VAL&gt;</text>
+    <text xml:space="preserve">Obtain &lt;LQIM&gt;: &lt;VAL&gt; / &lt;VAL&gt;</text>
   </message>
   <message>
     <key>LIGHT_QUEST_PURPOSE_1006</key>
-    <text xml:space="preserve">&lt;LQIM&gt; delivered</text>
+    <text xml:space="preserve">&lt;LQIM&gt; is ready to be delivered.</text>
   </message>
 </resource>
