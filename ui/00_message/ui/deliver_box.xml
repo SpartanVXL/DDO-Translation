@@ -5,7 +5,7 @@
   </message>
   <message>
     <key>DELIVER_MSG_TITLE02</key>
-    <text xml:space="preserve">クエストリスト</text>
+    <text xml:space="preserve">Quest List</text>
   </message>
   <message>
     <key>DELIVER_MSG_CAPTION_EN</key>
@@ -17,27 +17,26 @@
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_NOQUEST</key>
-    <text xml:space="preserve">納品が必要なボードクエストを受注していません</text>
+    <text xml:space="preserve">There are no quest board orders that require a delivery</text>
   </message>
   <message>
     <key>DELIVER_MSG_LB_GOAL</key>
-    <text xml:space="preserve">目標納品数</text>
+    <text xml:space="preserve">Required Amount</text>
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_DELIVER</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; × &lt;VAL&gt; を納品しました</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; has been delivered</text>
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_FINISH</key>
-    <text xml:space="preserve">「&lt;NAME QUEST&gt;」
-納品目標を全て達成しました</text>
+    <text xml:space="preserve">「&lt;NAME QUEST&gt;」 has met its delivery requirement</text>
   </message>
   <message>
     <key>DELIVER_MSG_BUTTON_FINISH</key>
-    <text xml:space="preserve">完了</text>
+    <text xml:space="preserve">Finish</text>
   </message>
   <message>
     <key>DELIVER_MSG_BUTTON_END</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
 </resource>

@@ -762,13 +762,11 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_goldstone_get</key>
-    <text xml:space="preserve">You have received &lt;VAL&gt; golden gemstones
-(You have: &lt;VAL&gt;)</text>
+    <text xml:space="preserve">Received &lt;VAL&gt; golden gemstones (You have: &lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_silvertickets_get</key>
-    <text xml:space="preserve">You have received &lt;VAL&gt; silver tickets
-(You have: &lt;VAL&gt;)</text>
+    <text xml:space="preserve">Received &lt;VAL&gt; silver tickets (You have: &lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_success_input_eventcode</key>
@@ -796,13 +794,11 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_silvertichet_lost</key>
-    <text xml:space="preserve">You have used &lt;VAL&gt; silver tickets
-(You have: &lt;VAL&gt;)</text>
+    <text xml:space="preserve">Used &lt;VAL&gt; silver tickets (You have: &lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_goldstone_lost</key>
-    <text xml:space="preserve">You have used &lt;VAL&gt; golden gemstones
-(You have: &lt;VAL&gt;)</text>
+    <text xml:space="preserve">Used &lt;VAL&gt; golden gemstones (You have: &lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_bo_lost</key>

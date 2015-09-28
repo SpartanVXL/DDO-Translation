@@ -74,7 +74,7 @@ the party of &lt;NAME TARGET&gt;?</text>
   </message>
   <message>
     <key>ana_party_join_error</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;のパーティーに参加できませんでした</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; could not join the party</text>
   </message>
   <message>
     <key>ana_party_dissolution_q</key>
