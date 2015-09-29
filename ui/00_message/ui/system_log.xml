@@ -29,11 +29,11 @@
   </message>
   <message>
     <key>syslog_error_clan</key>
-    <text xml:space="preserve">クランに加入していません</text>
+    <text xml:space="preserve">You are not a member of that clan</text>
   </message>
   <message>
     <key>syslog_error_entryb</key>
-    <text xml:space="preserve">エントリーボードに登録していません</text>
+    <text xml:space="preserve">You are not registered at the entry board</text>
   </message>
   <message>
     <key>syslog_error_party_member_0</key>
@@ -181,23 +181,23 @@
   </message>
   <message>
     <key>syslog_quest_happen</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;に異常事態が発生しました</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has updated</text>
   </message>
   <message>
     <key>syslog_quest_dog_solo</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;×&lt;VAL&gt;を納品しました</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; delivered</text>
   </message>
   <message>
     <key>syslog_quest_dog_party</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が&lt;NAME ITEM&gt;×&lt;VAL&gt;を納品しました</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; delivered &lt;NAME ITEM&gt; x&lt;VAL&gt;</text>
   </message>
   <message>
     <key>syslog_quest_dog_clear</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;の納品が完了しました</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; delivery completed</text>
   </message>
   <message>
     <key>syslog_quest_order_wait</key>
-    <text xml:space="preserve">パーティーリーダーが&lt;NAME QUEST&gt;を受注待ちです</text>
+    <text xml:space="preserve">Wait for the party leader to accept &lt;NAME QUEST&gt;</text>
   </message>
   <message>
     <key>syslog_quest_order</key>
@@ -205,7 +205,7 @@
   </message>
   <message>
     <key>syslog_quest_discontinue</key>
-    <text xml:space="preserve">進行不可能になったクエストがあります</text>
+    <text xml:space="preserve">This quest is not able to progress</text>
   </message>
   <message>
     <key>syslog_reward_box_limit_notion</key>
@@ -376,19 +376,19 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_pawnrestore_start</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;を救出せよ</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; rescue started</text>
   </message>
   <message>
     <key>syslog_pawnrestore_success</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;の救出に成功しました</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; rescue suceeded</text>
   </message>
   <message>
     <key>syslog_pawnrestore_failure</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;の救出に失敗しました</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; rescue failed</text>
   </message>
   <message>
     <key>syslog_pawnrestore_restore</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が復活しました</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; resurrected</text>
   </message>
   <message>
     <key>syslog_craft_consume_item</key>
@@ -424,7 +424,7 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_craft_complete</key>
-    <text xml:space="preserve">Craft has been completed</text>
+    <text xml:space="preserve">Crafting has been completed</text>
   </message>
   <message>
     <key>syslog_om_door_open_by_key</key>
@@ -528,7 +528,7 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_bless_get</key>
-    <text xml:space="preserve">復活力 が回復しました</text>
+    <text xml:space="preserve">Revival power recovered</text>
   </message>
   <message>
     <key>syslog_item_consume</key>
