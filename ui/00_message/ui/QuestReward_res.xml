@@ -17,19 +17,19 @@
   </message>
   <message>
     <key>REWARD_MSG_LB_POCKET_BO</key>
-    <text xml:space="preserve">所持ブラッドオーブ</text>
+    <text xml:space="preserve">Blood Orbs</text>
   </message>
   <message>
     <key>REWARD_MSG_LB_SOUKO</key>
-    <text xml:space="preserve">保管ボックス</text>
+    <text xml:space="preserve">Storage Box</text>
   </message>
   <message>
     <key>REWARD_MSG_TAB_COMSUME</key>
-    <text xml:space="preserve">消費アイテム</text>
+    <text xml:space="preserve">Consume Item</text>
   </message>
   <message>
     <key>REWARD_MSG_TAB_MATERIAL</key>
-    <text xml:space="preserve">素材</text>
+    <text xml:space="preserve">Raw Material</text>
   </message>
   <message>
     <key>REWARD_MSG_TAB_EQUIPMENT</key>
@@ -37,7 +37,7 @@
   </message>
   <message>
     <key>REWARD_MSG_TAB_JOB</key>
-    <text xml:space="preserve">特殊アイテム</text>
+    <text xml:space="preserve">Special Item</text>
   </message>
   <message>
     <key>REWARD_MSG_LB_STUFF</key>
@@ -49,11 +49,11 @@
   </message>
   <message>
     <key>REWARD_MSG_NOTION_PLZ_PICK</key>
-    <text xml:space="preserve">Please choose a Select Reward.</text>
+    <text xml:space="preserve">Please select a reward</text>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_PLZ_ONE</key>
-    <text xml:space="preserve">Please choose one.</text>
+    <text xml:space="preserve">Please choose one</text>
   </message>
   <message>
     <key>REWARD_MSG_REWARD_COMMON</key>
@@ -157,10 +157,10 @@ Total Sale: &lt;VAL GOLD&gt;</text>
   </message>
   <message>
     <key>REWARD_MSG_NO_REWOARD</key>
-    <text xml:space="preserve">There are currently no rewards.</text>
+    <text xml:space="preserve">There are currently no rewards</text>
   </message>
   <message>
     <key>REWARD_MSG_ALL_DELETE</key>
-    <text xml:space="preserve">Rewards have been sold.</text>
+    <text xml:space="preserve">Rewards have been sold</text>
   </message>
 </resource>
