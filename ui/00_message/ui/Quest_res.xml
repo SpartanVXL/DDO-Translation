@@ -234,7 +234,7 @@
   </message>
   <message>
     <key>QUEST_MSG_LIST_UPDATE_ERROR</key>
-    <text xml:space="preserve">リストの更新に失敗しました</text>
+    <text xml:space="preserve">Failed to update the quest list.</text>
   </message>
   <message>
     <key>QUEST_MSG_SELECT_REWARD</key>
@@ -266,11 +266,11 @@
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_SLOT_UP</key>
-    <text xml:space="preserve">ランダム報酬枠増加</text>
+    <text xml:space="preserve">Random Reward Up</text>
   </message>
   <message>
     <key>QUEST_MSG_CONFIRM_QUEST_CANCEL</key>
-    <text xml:space="preserve">クエストを破棄しますか？
+    <text xml:space="preserve">Are you sure you want to cancel this quest?
 
 ※破棄したクエストは白竜神殿などの
 　拠点に入りなおすと再受注可能になります</text>
@@ -334,7 +334,7 @@
   </message>
   <message>
     <key>QUEST_MSG_ORDERED_OVER</key>
-    <text xml:space="preserve">クエスト受注数オーバー（クエストクリア/破棄で受注可）</text>
+    <text xml:space="preserve">You have reached your limit on quests (you must clear/cancel quests).</text>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_ON1</key>

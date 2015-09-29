@@ -5,19 +5,19 @@
   </message>
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE01</key>
-    <text xml:space="preserve">受け取り</text>
+    <text xml:space="preserve">Receive</text>
   </message>
   <message>
     <key>HANDOVER_MSG_BTN_ALL</key>
-    <text xml:space="preserve">すべて受け取る</text>
+    <text xml:space="preserve">Receive All</text>
   </message>
   <message>
     <key>HANDOVER_MSG_BTN_NONE</key>
-    <text xml:space="preserve">すべて破棄</text>
+    <text xml:space="preserve">Destroy All</text>
   </message>
   <message>
     <key>HANDOVER_MSG_BTN_CANCEL</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE02</key>
@@ -25,7 +25,7 @@
   </message>
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE03</key>
-    <text xml:space="preserve">プレゼント</text>
+    <text xml:space="preserve">Present</text>
   </message>
   <message>
     <key>HANDOVER_MSG_TAB_CONSUME</key>
@@ -62,11 +62,11 @@
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_YES</key>
-    <text xml:space="preserve">はい</text>
+    <text xml:space="preserve">Yes</text>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_NO</key>
-    <text xml:space="preserve">いいえ</text>
+    <text xml:space="preserve">No</text>
   </message>
   <message>
     <key>HANDOVER_MSG_ANNOUCE_00</key>
@@ -83,13 +83,13 @@
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_02</key>
-    <text xml:space="preserve">アイテムの納品をキャンセルします
-よろしいですか？</text>
+    <text xml:space="preserve">Are you sure you want to cancel
+item delivery?</text>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_03</key>
-    <text xml:space="preserve">選択したアイテムを渡します
-よろしいですか？</text>
+    <text xml:space="preserve">Are you sure you want to deliver
+the selected items?</text>
   </message>
   <message>
     <key>HANDOVER_MSG_ANNOUCE_02</key>

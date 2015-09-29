@@ -81,15 +81,16 @@
   </message>
   <message>
     <key>error_jp</key>
-    <text xml:space="preserve">所持&lt;UNIT JP&gt;が不足しています</text>
+    <text xml:space="preserve">You do not have enough &lt;UNIT JP&gt;.</text>
   </message>
   <message>
     <key>error_both</key>
-    <text xml:space="preserve">ジョブレベル・所持&lt;UNIT JP&gt;が不足しています</text>
+    <text xml:space="preserve">Your job level and &lt;UNIT JP&gt; are insufficient.</text>
   </message>
   <message>
     <key>dialog_job_change</key>
-    <text xml:space="preserve">Are you sure you want to job change to &lt;NAME JOB&gt;?</text>
+    <text xml:space="preserve">Are you sure you want to job change
+to &lt;NAME JOB&gt;?</text>
   </message>
   <message>
     <key>dialog_learn</key>

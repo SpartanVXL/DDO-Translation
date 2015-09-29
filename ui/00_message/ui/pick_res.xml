@@ -25,14 +25,14 @@
   </message>
   <message>
     <key>pick_item_limit</key>
-    <text xml:space="preserve">所持数が上限に達しました</text>
+    <text xml:space="preserve">You cannot hold more of this item</text>
   </message>
   <message>
     <key>pick_item_not_get</key>
-    <text xml:space="preserve">アイテムバッグがいっぱいのため、すべてを受け取ることができません</text>
+    <text xml:space="preserve">Your item bag is full and you cannot receive all the items</text>
   </message>
   <message>
     <key>pick_item_limit_max</key>
-    <text xml:space="preserve">アイテムバッグがいっぱいのため、受け取ることができません</text>
+    <text xml:space="preserve">Your item bag is full</text>
   </message>
 </resource>
