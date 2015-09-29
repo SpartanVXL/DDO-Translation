@@ -65,15 +65,15 @@
   </message>
   <message>
     <key>np_msg_dialog_jump_check</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt; に転移します
-必要リム：&lt;VAL RIM&gt;
-所持リム：&lt;VAL RIM&gt;</text>
+    <text xml:space="preserve">You will warp to &lt;NAME AREA&gt;.
+Rift Crystal Cost: &lt;VAL RIM&gt;
+Rift Crystal Total: &lt;VAL RIM&gt;</text>
   </message>
   <message>
     <key>np_msg_dialoig_jump_norim</key>
-    <text xml:space="preserve">リムが不足しています
-必要リム：&lt;VAL RIM&gt;
-所持リム：&lt;VAL RIM&gt;</text>
+    <text xml:space="preserve">You do not have enough Rift Crystals.
+Rift Crystal Cost: &lt;VAL RIM&gt;
+Rift Crystal Total: &lt;VAL RIM&gt;</text>
   </message>
   <message>
     <key>np_msg_decision_decide</key>
