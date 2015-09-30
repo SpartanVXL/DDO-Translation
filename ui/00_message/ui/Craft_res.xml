@@ -9,7 +9,7 @@
   </message>
   <message>
     <key>MENU_OPT_POINT_ASSIGN</key>
-    <text xml:space="preserve">クラフトステータス</text>
+    <text xml:space="preserve">Craft Status</text>
   </message>
   <message>
     <key>MENU_OPT_PRODUCT</key>
@@ -49,11 +49,11 @@
   </message>
   <message>
     <key>PAWN_STATUS_WORKING</key>
-    <text xml:space="preserve">クラフト中</text>
+    <text xml:space="preserve">Crafting</text>
   </message>
   <message>
     <key>PAWN_STATUS_COMPLETE</key>
-    <text xml:space="preserve">クラフト中（完成）</text>
+    <text xml:space="preserve">Crafting (Completed)</text>
   </message>
   <message>
     <key>PAWN_STATUS_PARTY</key>
@@ -73,15 +73,15 @@
   </message>
   <message>
     <key>TITLE_MAKE_ITEM</key>
-    <text xml:space="preserve">アイテム作成</text>
+    <text xml:space="preserve">Created Item</text>
   </message>
   <message>
     <key>HEADING_MAKE_ITEM</key>
-    <text xml:space="preserve">Creating Item</text>
+    <text xml:space="preserve">Created Item</text>
   </message>
   <message>
     <key>HEADING_CRAFT_MEMBER</key>
-    <text xml:space="preserve">クラフトメンバー</text>
+    <text xml:space="preserve">Craft Member</text>
   </message>
   <message>
     <key>HEADING_LEADER</key>
@@ -93,7 +93,7 @@
   </message>
   <message>
     <key>HEADING_ADDITION</key>
-    <text xml:space="preserve">精錬材</text>
+    <text xml:space="preserve">Refining Material</text>
   </message>
   <message>
     <key>BUTTON_START</key>
@@ -105,11 +105,11 @@
   </message>
   <message>
     <key>TAB_MAIN</key>
-    <text xml:space="preserve">メイン</text>
+    <text xml:space="preserve">Main</text>
   </message>
   <message>
     <key>TAB_SURPPORT</key>
-    <text xml:space="preserve">サポート</text>
+    <text xml:space="preserve">Support</text>
   </message>
   <message>
     <key>ROW_NAME</key>
@@ -161,35 +161,35 @@
   </message>
   <message>
     <key>ROW_REQUIRED</key>
-    <text xml:space="preserve">必要数</text>
+    <text xml:space="preserve">Required</text>
   </message>
   <message>
     <key>HEADING_COST</key>
-    <text xml:space="preserve">作業費用</text>
+    <text xml:space="preserve">Crafting Cost</text>
   </message>
   <message>
     <key>HEADING_TIME</key>
-    <text xml:space="preserve">作業時間</text>
+    <text xml:space="preserve">Crafting Time</text>
   </message>
   <message>
     <key>HEADING_XP</key>
-    <text xml:space="preserve">取得経験値</text>
+    <text xml:space="preserve">Acquired Experience</text>
   </message>
   <message>
     <key>HEADING_NUMBER</key>
-    <text xml:space="preserve">生産個数</text>
+    <text xml:space="preserve">Crafted Quantity</text>
   </message>
   <message>
     <key>ROW_MATERIAL</key>
-    <text xml:space="preserve">素材名</text>
+    <text xml:space="preserve">Material Name</text>
   </message>
   <message>
     <key>DIALOG_CONFIRM_START</key>
-    <text xml:space="preserve">このアイテムを作成しますか？</text>
+    <text xml:space="preserve">Are you sure you want to craft this item?</text>
   </message>
   <message>
     <key>DIALOG_START</key>
-    <text xml:space="preserve">アイテムの作成を開始しました</text>
+    <text xml:space="preserve">Crafting has begun.</text>
   </message>
   <message>
     <key>TAB_WEAPON</key>
@@ -201,23 +201,23 @@
   </message>
   <message>
     <key>BALLOON_LITTLE_LONGER</key>
-    <text xml:space="preserve">もう少しです</text>
+    <text xml:space="preserve">Almost Finished</text>
   </message>
   <message>
     <key>GUIDE_PRODUCT</key>
-    <text xml:space="preserve">作成するアイテムを選択してください</text>
+    <text xml:space="preserve">Please select the item to create.</text>
   </message>
   <message>
     <key>GUIDE_UPGRADE</key>
-    <text xml:space="preserve">強化する装備を選択してください</text>
+    <text xml:space="preserve">Please select the equipment to enhance.</text>
   </message>
   <message>
     <key>GUIDE_CREST</key>
-    <text xml:space="preserve">クレスト装着する装備を選択してください</text>
+    <text xml:space="preserve">Please select the equipment to mount a crest onto.</text>
   </message>
   <message>
     <key>GUIDE_CHANGE_COLOR</key>
-    <text xml:space="preserve">カラー変更する装備を選択してください</text>
+    <text xml:space="preserve">Please select the equipment you want to change the color of.</text>
   </message>
   <message>
     <key>TITLE_PROGRESS_LIST</key>
@@ -229,11 +229,11 @@
   </message>
   <message>
     <key>BALLOON_FINISH</key>
-    <text xml:space="preserve">できました！</text>
+    <text xml:space="preserve">Finished!</text>
   </message>
   <message>
     <key>CATEGORY_ALL</key>
-    <text xml:space="preserve">すべて</text>
+    <text xml:space="preserve">All</text>
   </message>
   <message>
     <key>BUTTON_GET_ITEM_FOR_STORAGE</key>
@@ -258,7 +258,7 @@
   <message>
     <key>DIALOG_GET_XP</key>
     <text xml:space="preserve">For being the craft leader, &lt;NAME PAWN&gt;
-has gained &lt;VAL XP&gt; craft experience</text>
+has gained &lt;VAL XP&gt; craft experience.</text>
   </message>
   <message>
     <key>HEADING_REMAIN</key>
@@ -266,53 +266,53 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>TITLE_POINT_ASSIGN</key>
-    <text xml:space="preserve">クラフトステータス</text>
+    <text xml:space="preserve">Craft Status</text>
   </message>
   <message>
     <key>DIALOG_BREAKUP</key>
-    <text xml:space="preserve">クラフトラインを解散しました</text>
+    <text xml:space="preserve">Crafters have returned to standby.</text>
   </message>
   <message>
     <key>DIALOG_CONFIRM_STOP</key>
-    <text xml:space="preserve">クラフトを中止しますか？
-&lt;COL aa1414&gt;※素材・費用・クラフト回数は消費されます&lt;/COL&gt;</text>
+    <text xml:space="preserve">Are you sure you want to stop crafting?
+&lt;COL aa1414&gt;※Materials and crafting cost will be lost.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>DIALOG_STOP</key>
-    <text xml:space="preserve">クラフトを中止しました</text>
+    <text xml:space="preserve">The craft was canceled.</text>
   </message>
   <message>
     <key>ANNOUNCE_LV_UP</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;のクラフトレベルが&lt;VAL&gt;になりました
-クラフトスキルポイントを&lt;VAL&gt;取得しました</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has reached craft level &lt;VAL&gt;.
+They acquired &lt;VAL&gt; crafting skill points.</text>
   </message>
   <message>
     <key>DIALOG_CONFIRM_POINT_ASSIGN</key>
-    <text xml:space="preserve">ポイントの割り振りを行いますか？</text>
+    <text xml:space="preserve">Do you want to allocate the crafting skill points?</text>
   </message>
   <message>
     <key>DIALOG_POINT_ASSIGN</key>
-    <text xml:space="preserve">ポイントの割り振りを行いました</text>
+    <text xml:space="preserve">Crafting skill points allocated.</text>
   </message>
   <message>
     <key>HEADING_REINFORCE_TARGET</key>
-    <text xml:space="preserve">強化アイテム</text>
+    <text xml:space="preserve">Enhanced Item</text>
   </message>
   <message>
     <key>HEADING_REINFORCE_POINT</key>
-    <text xml:space="preserve">強化ポイント</text>
+    <text xml:space="preserve">Enhancement Points</text>
   </message>
   <message>
     <key>BUTTON_REINFOECE</key>
-    <text xml:space="preserve">強化</text>
+    <text xml:space="preserve">Enhance</text>
   </message>
   <message>
     <key>DIALOG_CONFIRM_REINFORCE</key>
-    <text xml:space="preserve">このアイテムを強化しますか？</text>
+    <text xml:space="preserve">Are you sure you want to enhance this item?</text>
   </message>
   <message>
     <key>TITLE_REINFORCE</key>
-    <text xml:space="preserve">アイテムを強化しました</text>
+    <text xml:space="preserve">Item has been enhanced.</text>
   </message>
   <message>
     <key>POPUP_GRADE_UP</key>
@@ -332,44 +332,44 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>BUTTON_EQUIP_CREST</key>
-    <text xml:space="preserve">クレスト装備</text>
+    <text xml:space="preserve">Equip Crest</text>
   </message>
   <message>
     <key>HEADING_SLOT1</key>
-    <text xml:space="preserve">スロット１</text>
+    <text xml:space="preserve">Slot 1</text>
   </message>
   <message>
     <key>HEADING_SLOT2</key>
-    <text xml:space="preserve">スロット２</text>
+    <text xml:space="preserve">Slot 2</text>
   </message>
   <message>
     <key>HEADING_SLOT3</key>
-    <text xml:space="preserve">スロット３</text>
+    <text xml:space="preserve">Slot 3</text>
   </message>
   <message>
     <key>HEADING_SLOT4</key>
-    <text xml:space="preserve">スロット４</text>
+    <text xml:space="preserve">Slot 4</text>
   </message>
   <message>
     <key>GUIDE_SERECT_CREST</key>
-    <text xml:space="preserve">クレスト選択</text>
+    <text xml:space="preserve">Select Crest</text>
   </message>
   <message>
     <key>DIALOG_CONFIRM_SET_CREST</key>
-    <text xml:space="preserve">クレスト装備を行いますか？</text>
+    <text xml:space="preserve">Are you sure you want to equip the crests?</text>
   </message>
   <message>
     <key>CREST_SET</key>
-    <text xml:space="preserve">Crest Set！</text>
+    <text xml:space="preserve">Crest Set!</text>
   </message>
   <message>
     <key>TITLE_CREST_SET</key>
-    <text xml:space="preserve">クレストを装備しました</text>
+    <text xml:space="preserve">The crest has been equipped.</text>
   </message>
   <message>
     <key>DIALOG_CONFIRM_CREST_BREAK</key>
-    <text xml:space="preserve">選択したスロットのクレストを破壊します
-よろしいですか？</text>
+    <text xml:space="preserve">Are you sure you want to destroy
+the crest in this slot?</text>
   </message>
   <message>
     <key>CREST_BREAK</key>
@@ -377,27 +377,27 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>TITLE_CREST_BREAK</key>
-    <text xml:space="preserve">クレストを破壊しました</text>
+    <text xml:space="preserve">The crest has been destroyed.</text>
   </message>
   <message>
     <key>HEADING_CURRENT_COLOR</key>
-    <text xml:space="preserve">現在のカラー</text>
+    <text xml:space="preserve">Current Color</text>
   </message>
   <message>
     <key>HEADING_DYES</key>
-    <text xml:space="preserve">染料</text>
+    <text xml:space="preserve">Dye</text>
   </message>
   <message>
     <key>HEADING_CHANGE_COLOR</key>
-    <text xml:space="preserve">変更するカラー</text>
+    <text xml:space="preserve">New Color</text>
   </message>
   <message>
     <key>BUTTON_CHANGE_COLOR</key>
-    <text xml:space="preserve">カラー変更</text>
+    <text xml:space="preserve">Change Color</text>
   </message>
   <message>
     <key>DIALOG_CONFIRM_CHANGE_COLOR</key>
-    <text xml:space="preserve">カラー変更を行いますか？</text>
+    <text xml:space="preserve">Are you sure you want to change the color?</text>
   </message>
   <message>
     <key>CHANGE_COLOR</key>
@@ -405,23 +405,23 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>TITLE_CHANGE_COLOR</key>
-    <text xml:space="preserve">カラーを変更しました</text>
+    <text xml:space="preserve">The color has been changed.</text>
   </message>
   <message>
     <key>TITLE_REMOVES_PARTY</key>
-    <text xml:space="preserve">選択したポーンはクラフト作業を行うため
-パーティーを離脱しますがよろしいですか？
+    <text xml:space="preserve">A selected pawn is in your party.
+Are you sure you want them to leave the party in order to craft?
 
-&lt;COL aa1414&gt;※パーティーからメインポーンがいなくなると
-　サポートポーンも自動的に離脱します&lt;/COL&gt;</text>
+&lt;COL aa1414&gt;If there is no main pawns in the party,
+　support pawns will automatically leave as well.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>TITLE_REMOVES_PARTY_FAILURE</key>
-    <text xml:space="preserve">パーティーからの離脱に失敗しました</text>
+    <text xml:space="preserve">Failed to leave the party.</text>
   </message>
   <message>
     <key>TITLE_RECEIPT_FAILURE</key>
-    <text xml:space="preserve">アイテム作成に失敗しました</text>
+    <text xml:space="preserve">Failed to craft item.</text>
   </message>
   <message>
     <key>TITLE_EMPTY_ITEM_PLACE</key>
@@ -429,7 +429,7 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>TITLE_REINFORCE_FAILURE</key>
-    <text xml:space="preserve">装備の強化に失敗しました</text>
+    <text xml:space="preserve">Failed to enhance the equipment.</text>
   </message>
   <message>
     <key>DIALOG_GET_ARMS_POINT</key>
@@ -550,7 +550,7 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>GUIDE_SELECT_ADD_ITEM</key>
-    <text xml:space="preserve">追加する素材を選択してください</text>
+    <text xml:space="preserve">Please select the material you want to add.</text>
   </message>
   <message>
     <key>ROW_HAVE</key>
@@ -566,7 +566,7 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>CRAFT_BUTTON_COMPLETE</key>
-    <text xml:space="preserve">完了</text>
+    <text xml:space="preserve">Complete</text>
   </message>
   <message>
     <key>NOTICE_GRADE_MAX</key>
@@ -595,7 +595,7 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>HEADING_CUSTOMIZE_TARGET</key>
-    <text xml:space="preserve">アイテム</text>
+    <text xml:space="preserve">Item</text>
   </message>
   <message>
     <key>HEADING_CUSTOMIZE_PAWN</key>
@@ -627,11 +627,11 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>GUIDE_SELECT_LEADER_PAWN</key>
-    <text xml:space="preserve">リーダーをメインポーンから選択してください</text>
+    <text xml:space="preserve">Please select a craft leader from main pawns.</text>
   </message>
   <message>
     <key>GUIDE_SELECT_ASSISTANT_PAWN</key>
-    <text xml:space="preserve">アシスタントを選択してください</text>
+    <text xml:space="preserve">Please select an assistant.</text>
   </message>
   <message>
     <key>GUIDE_SELECT_ADD_POINT_PAWN</key>
@@ -655,11 +655,11 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>CRAFT_DETAIL_BAZAAR</key>
-    <text xml:space="preserve">バザー</text>
+    <text xml:space="preserve">Bazaar</text>
   </message>
   <message>
     <key>CRAFT_DETAIL_ENABLE_CREST</key>
-    <text xml:space="preserve">装着可能</text>
+    <text xml:space="preserve">Crest Slot Available</text>
   </message>
   <message>
     <key>ROW_LIST_CATEGORY</key>
@@ -667,55 +667,55 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_HP</key>
-    <text xml:space="preserve">体力回復</text>
+    <text xml:space="preserve">Health Recovery</text>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_ST</key>
-    <text xml:space="preserve">スタミナ回復</text>
+    <text xml:space="preserve">Stamina Recovery</text>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_REPAIR</key>
-    <text xml:space="preserve">状態異常解消</text>
+    <text xml:space="preserve">Cure Debilitation</text>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_ENCHANT</key>
-    <text xml:space="preserve">能力上昇</text>
+    <text xml:space="preserve">Stat Increase</text>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_THROW</key>
-    <text xml:space="preserve">投擲道具</text>
+    <text xml:space="preserve">Throwing Item</text>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_KEY</key>
-    <text xml:space="preserve">鍵・採集・探索</text>
+    <text xml:space="preserve">Key / Gathering / Exploration</text>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_JOB</key>
-    <text xml:space="preserve">ジョブ専用道具</text>
+    <text xml:space="preserve">Job Item</text>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_INGOT</key>
-    <text xml:space="preserve">インゴット</text>
+    <text xml:space="preserve">Ingot</text>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_CLOTH</key>
-    <text xml:space="preserve">布</text>
+    <text xml:space="preserve">Cloth</text>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_THREAD</key>
-    <text xml:space="preserve">糸</text>
+    <text xml:space="preserve">Thread</text>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_SCROLL</key>
-    <text xml:space="preserve">スクロール</text>
+    <text xml:space="preserve">Scroll</text>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_STRENGTH_WEP</key>
-    <text xml:space="preserve">精錬材（武器）</text>
+    <text xml:space="preserve">Refining Material (Weapons)</text>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_STRENGTH_ARMOR</key>
-    <text xml:space="preserve">精錬材（防具）</text>
+    <text xml:space="preserve">Refining Material (Armor)</text>
   </message>
   <message>
     <key>ROW_MAKE</key>
@@ -727,7 +727,7 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>CRAFT_NUM_CRAFTLV</key>
-    <text xml:space="preserve">クラフトレベル&lt;VAL&gt;</text>
+    <text xml:space="preserve">Craft Level &lt;VAL&gt;</text>
   </message>
   <message>
     <key>CRAFT_OVERUP_CRAFTLV</key>
@@ -763,7 +763,7 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>CRAFT_COLOR_EQUIP_NOTHING</key>
-    <text xml:space="preserve">There is no equipment that can have its color changed</text>
+    <text xml:space="preserve">There is no equipment that can have its color changed.</text>
   </message>
   <message>
     <key>CRAFT_CREST_EQUIP_NOTHING</key>
@@ -803,7 +803,7 @@ has gained &lt;VAL XP&gt; craft experience</text>
   </message>
   <message>
     <key>CRAFT_MAKING_CONTINUE</key>
-    <text xml:space="preserve">同じ装備アイテムを強化しますか？</text>
+    <text xml:space="preserve">Do you want to enhance the same item again?</text>
   </message>
   <message>
     <key>CRAFT_FINISHED</key>
