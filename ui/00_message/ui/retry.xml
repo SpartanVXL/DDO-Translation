@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>RETRY_MSG_REVIVE_MENU_STOCK</key>
-    <text xml:space="preserve">Revive with Life Force</text>
+    <text xml:space="preserve">Revive with Revival Force</text>
   </message>
   <message>
     <key>RETRY_MSG_SELECT_ANNOUNCE</key>
@@ -18,7 +18,7 @@
   </message>
   <message>
     <key>RETRY_MSG_STOCK_EXP</key>
-    <text xml:space="preserve">Use a life force and recover full health.</text>
+    <text xml:space="preserve">Use a revival force and recover full health.</text>
   </message>
   <message>
     <key>RETRY_MSG_GOLD_STONE_EXP</key>
@@ -34,7 +34,7 @@ You will also receive an Invulnerability effect.
   <message>
     <key>RETRY_MSG_DIALOG_STOCK</key>
     <text xml:space="preserve">Are you sure you want to resurrect using
-a &lt;COL FFFF00&gt;life force?&lt;/COL&gt;</text>
+a &lt;COL FFFF00&gt;revival force?&lt;/COL&gt;</text>
   </message>
   <message>
     <key>RETRY_MSG_DIALOG_GPSHOP_OPEN</key>
