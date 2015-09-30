@@ -1,19 +1,19 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>rsp_msg_000</key>
-    <text xml:space="preserve">レンタルポイントの割り振り</text>
+    <text xml:space="preserve">Rental Point Allotment</text>
   </message>
   <message>
     <key>rsp_msg_001</key>
-    <text xml:space="preserve">残りレンタルポイント</text>
+    <text xml:space="preserve">Left over Rental Points</text>
   </message>
   <message>
     <key>rsp_msg_002</key>
-    <text xml:space="preserve">ジョブポイントに変換</text>
+    <text xml:space="preserve">Convert to Job Points</text>
   </message>
   <message>
     <key>rsp_msg_003</key>
-    <text xml:space="preserve">※変換レート：1 JP = &lt;VAL RP&gt;</text>
+    <text xml:space="preserve">Conversion Rate：1 JP = &lt;VAL RP&gt;</text>
   </message>
   <message>
     <key>rsp_msg_004</key>
@@ -21,8 +21,8 @@
   </message>
   <message>
     <key>rsp_msg_005</key>
-    <text xml:space="preserve">レンタルポイントの割り振りを行います
-よろしいですか？
+    <text xml:space="preserve">Are you sure you want to
+convert these Rental Points?
 
 </text>
   </message>
@@ -38,7 +38,7 @@
   </message>
   <message>
     <key>rsp_msg_008</key>
-    <text xml:space="preserve">レンタルポイントの割り振りを行いました
+    <text xml:space="preserve">Rental Points converted
 
 </text>
   </message>

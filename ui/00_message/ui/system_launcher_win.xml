@@ -92,8 +92,8 @@ Please do not turn off your PC.</text>
   </message>
   <message>
     <key>lnc_ng_hdd_error_return_l_common</key>
-    <text xml:space="preserve">ハードディスクドライブ容量のチェックに失敗しました。
-ランチャーに戻ります。</text>
+    <text xml:space="preserve">Hard Drive capacity check failed.
+Returning to launcher.</text>
   </message>
   <message>
     <key>lnc_ng_trophy_error_return_l_common</key>
@@ -116,7 +116,7 @@ Please do not turn off your PC.</text>
   </message>
   <message>
     <key>lnc_server_timeout</key>
-    <text xml:space="preserve">サーバーとの通信がタイムアウトになりました。</text>
+    <text xml:space="preserve">Connection to the server timed out.</text>
   </message>
   <message>
     <key>lnc_server_communication</key>
