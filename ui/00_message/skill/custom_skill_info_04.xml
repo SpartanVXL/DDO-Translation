@@ -5,7 +5,7 @@
 Applies a temporary increase to nearby allies.
 Can be used with Field Shift.
 &lt;COL ffdc78&gt;LV UP: Increases duration after leaving the aura.
-LV.6: Increases the size of the area of effect.&lt;/COL&gt;</text>
+LV.6: Increases the size of the effect.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_49</key>
@@ -13,7 +13,7 @@ LV.6: Increases the size of the area of effect.&lt;/COL&gt;</text>
 Applies a temporary increase to nearby allies.
 Can be used with Field Shift.
 &lt;COL ffdc78&gt;LV UP: Increases duration after leaving the aura.
-LV.6: Increases the size of the area of effect.&lt;/COL&gt;</text>
+LV.6: Increases the size of the effect.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_46</key>
@@ -24,24 +24,27 @@ LV.6: Increases number of magic spheres (3→5).&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_50</key>
-    <text xml:space="preserve">Generates magic spheres that revolve around oneself.
-The spheres will each nullify one attack.
+    <text xml:space="preserve">Generates magic spheres that revolve
+around oneself. The spheres will each
+nullify one attack.
 &lt;COL ffdc78&gt;LV UP: Increases duration of the effect.
 LV.6: Increases number of magic spheres (3→5).&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_44</key>
     <text xml:space="preserve">Creates a magic area that rapidly regenerates health.
-(Maximum healing limited to grey health)(Damages undead)
+(Maximum healing limited to grey health)
+(Inflicts damage to undead)
 &lt;COL ffdc78&gt;LV UP: Increases duration of the effect.
-LV.6: Increases the size of the area of effect.&lt;/COL&gt;</text>
+LV.6: Increases the size of the effect.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_45</key>
     <text xml:space="preserve">Creates a magic area that instantly
-cures debilitations. (Damages undead)
+cures debilitations.
+(Inflicts damage to undead)
 &lt;COL ffdc78&gt;LV UP: Increases duration of the effect.
-LV.6: Increases the size of the area of effect.&lt;/COL&gt;</text>
+LV.6: Increases the size of the effect.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_47</key>
@@ -54,7 +57,7 @@ LV.6: Increases range of the effect.&lt;/COL&gt;</text>
     <key>CUSTOM_SKILL_INFO_04_54</key>
     <text xml:space="preserve">Charge magic within your body. When your health is exhausted,
 create a large explosion dealing large damage to enemies.
-&lt;COL ffdc78&gt;LV UP: Decreases stamina consumption of the effect.
+&lt;COL ffdc78&gt;LV UP: Decreases stamina consumption.
 LV.6: Increases damage and range of the effect.&lt;/COL&gt;</text>
   </message>
 </resource>

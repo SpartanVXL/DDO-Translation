@@ -18,7 +18,8 @@ LV.6: Increases range of the effect.&lt;/COL&gt;</text>
     <text xml:space="preserve">After charging magic, generate a dark fog.
 The fog will cling to enemies, dealing damage over time.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases duration of the effect and the number of hits.&lt;/COL&gt;</text>
+LV.6: Increases duration of the effect.
+Increases the number of hits.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_71</key>
@@ -46,7 +47,7 @@ LV.6: Shockwave will fire in 3 directions.&lt;/COL&gt;</text>
   <message>
     <key>CUSTOM_SKILL_INFO_06_75</key>
     <text xml:space="preserve">After charging magic, shake the earth,
-sending eruptions of stone high into the air, 
+sending eruptions of stone high into the air.
 Inflicts damage of the Darkness attribute.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases number of rocks (1→2).&lt;/COL&gt;</text>
