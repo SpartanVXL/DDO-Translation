@@ -1,59 +1,61 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_INFO_06_68</key>
-    <text xml:space="preserve">魔力を溜めた後、
-広範囲に向けてブレス状の炎を放つ
-&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で動作終了間際に追加入力することで
-往復攻撃可能&lt;/COL&gt;</text>
+    <text xml:space="preserve">After charging magic,
+release a breath-like flame in front of you.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Press the button right before the end
+to repeat the spell.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_72</key>
-    <text xml:space="preserve">自身を中心に、一定範囲をカバーする
-雷属性の魔法を放つ
-&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で攻撃範囲拡大&lt;/COL&gt;</text>
+    <text xml:space="preserve">Emit lightning in a range outwards from you.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases range of the effect.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_74</key>
-    <text xml:space="preserve">魔力を溜めた後、闇の霧を発生させる
-霧は敵にまとわりつき、継続ダメージを与える
-&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で継続時間延長／攻撃ヒット数増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">After charging magic, generate a dark fog.
+The fog will cling to enemies, dealing damage over time.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases duration of the effect and the number of hits.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_71</key>
-    <text xml:space="preserve">魔力を溜めた後、
-敵の足元から巨大な氷の塊を出現させる
-&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で術始動時に範囲攻撃追加&lt;/COL&gt;</text>
+    <text xml:space="preserve">After charging magic,
+generate a giant spire of ice at the enemy's feet.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Adds an additional attack at the start
+of the effect.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_69</key>
-    <text xml:space="preserve">魔力を溜めた後、
-高い炎の壁を作り出す
-&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で攻撃範囲拡大&lt;/COL&gt;</text>
+    <text xml:space="preserve">After charging magic,
+generate a towering wall of flame.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases range of the effect.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_73</key>
-    <text xml:space="preserve">魔力を溜めた後、大杖を振りかざして
-雷・斬属性を持つ円月状の衝撃波を放つ
-&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で衝撃波が３方向化&lt;/COL&gt;</text>
+    <text xml:space="preserve">After charging magic, brandish your archistaff,
+releasing a blade-shaped shockwave with
+Lightning/Slash attributes.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Shockwave will fire in 3 directions.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_75</key>
-    <text xml:space="preserve">魔力を溜めた後、地を揺らし岩塊を隆起させ、
-闇・打属性によるダメージを与える
-&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で岩塊数が増加（１→２）&lt;/COL&gt;</text>
+    <text xml:space="preserve">After charging magic, shake the earth,
+sending eruptions of stone high into the air, 
+Inflicts damage of the Darkness attribute.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases number of rocks (1→2).&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_70</key>
-    <text xml:space="preserve">魔力を溜めた後、
-敵の頭上に燃え盛る隕石を落下させる
-&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で隕石弾数が増加（４→７）&lt;/COL&gt;</text>
+    <text xml:space="preserve">After charging magic, call meteors down from
+the heavens to land around the enemy.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases number of meteors (4→7).&lt;/COL&gt;</text>
   </message>
 </resource>
