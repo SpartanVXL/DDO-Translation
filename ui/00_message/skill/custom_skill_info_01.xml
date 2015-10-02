@@ -1,7 +1,8 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_INFO_01_8</key>
-    <text xml:space="preserve">Rushes at the target and visits a powerful blow upon them.
+    <text xml:space="preserve">Rushes at the target and visits
+a powerful blow upon them.
 Damage increases the further you dash.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases maximum rush distance.&lt;/COL&gt;</text>
@@ -45,8 +46,8 @@ LV.6: Motion changes. Increases number of hits.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_11</key>
-    <text xml:space="preserve">Unleashes a flurry of stabbing attacks while maintaining
-the user's guard. Can be used continously.
+    <text xml:space="preserve">Unleashes a flurry of stabbing attacks while
+maintaining the user's guard. Can be used continously.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases attack speed.
 Increases maximum number of strikes (5→8).&lt;/COL&gt;</text>
