@@ -19,11 +19,11 @@
   </message>
   <message>
     <key>ana_party_remove_tg</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; was removed from the party</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; was removed from the party.</text>
   </message>
   <message>
     <key>ana_party_remove_error_tg</key>
-    <text xml:space="preserve">Could not remove &lt;NAME TARGET&gt; from the party</text>
+    <text xml:space="preserve">Could not remove &lt;NAME TARGET&gt; from the party.</text>
   </message>
   <message>
     <key>ana_party_leader_q</key>
@@ -32,19 +32,19 @@
   </message>
   <message>
     <key>ana_party_leader_tg</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; is now party leader</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; is now party leader.</text>
   </message>
   <message>
     <key>ana_party_leader</key>
-    <text xml:space="preserve">You are now party leader</text>
+    <text xml:space="preserve">You are now party leader.</text>
   </message>
   <message>
     <key>ana_party_leader_error</key>
-    <text xml:space="preserve">Could not promote you to party leader</text>
+    <text xml:space="preserve">Could not promote you to party leader.</text>
   </message>
   <message>
     <key>ana_party_leader_error_tg</key>
-    <text xml:space="preserve">Could not promote &lt;NAME TARGET&gt; to party leader</text>
+    <text xml:space="preserve">Could not promote &lt;NAME TARGET&gt; to party leader.</text>
   </message>
   <message>
     <key>ana_party_invite_q</key>
@@ -53,11 +53,11 @@
   </message>
   <message>
     <key>ana_party_invite</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; was invited to the party</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; was invited to the party.</text>
   </message>
   <message>
     <key>ana_party_invite_error</key>
-    <text xml:space="preserve">Could not invite &lt;NAME TARGET&gt; to the party</text>
+    <text xml:space="preserve">Could not invite &lt;NAME TARGET&gt; to the party.</text>
   </message>
   <message>
     <key>ana_party_join_q</key>
@@ -541,7 +541,8 @@ from the group chat?</text>
   </message>
   <message>
     <key>ana_dialog_retire_ispropose</key>
-    <text xml:space="preserve">Do you want to propose to withdraw from the content?</text>
+    <text xml:space="preserve">Do you want to propose to withdraw
+from the content?</text>
   </message>
   <message>
     <key>ana_dialog_retire_agree</key>
@@ -549,11 +550,11 @@ from the group chat?</text>
   </message>
   <message>
     <key>ana_dialog_retire_re_agree</key>
-    <text xml:space="preserve">You replied "agree"</text>
+    <text xml:space="preserve">You replied "agree."</text>
   </message>
   <message>
     <key>ana_dialog_retire_re_disagree</key>
-    <text xml:space="preserve">You replied "disagree"</text>
+    <text xml:space="preserve">You replied "disagree."</text>
   </message>
   <message>
     <key>ana_dialog_retire_disagree</key>
@@ -569,48 +570,48 @@ from the group chat?</text>
   </message>
   <message>
     <key>ana_dialog_item_get</key>
-    <text xml:space="preserve">&lt;ITEM n&gt; was obtained</text>
+    <text xml:space="preserve">&lt;ITEM n&gt; was obtained.</text>
   </message>
   <message>
     <key>ana_dialog_shortage_gold</key>
-    <text xml:space="preserve">You do not have enough gold</text>
+    <text xml:space="preserve">You do not have enough gold.</text>
   </message>
   <message>
     <key>ana_warp_regist_error</key>
-    <text xml:space="preserve">Failed to register warp</text>
+    <text xml:space="preserve">Failed to register warp.</text>
   </message>
   <message>
     <key>ana_warp_regist_error_main_quest</key>
     <text xml:space="preserve">Because of your progress in the main quests, 
-you cannot register this warp</text>
+you cannot register this warp.</text>
   </message>
   <message>
     <key>ana_warp_regist_error_area_rank</key>
     <text xml:space="preserve">Because your area rank is too low, 
-you cannot register this warp</text>
+you cannot register this warp.</text>
   </message>
   <message>
     <key>ana_pt_warp_begin</key>
     <text xml:space="preserve">&lt;NAME TARGET&gt; has rift warped to ＜&lt;VAL&gt;＞.
-Within &lt;VAL PARTY_WARP_SEC&gt; seconds, you can warp with them</text>
+Within &lt;VAL PARTY_WARP_SEC&gt; seconds, you can warp with them.</text>
   </message>
   <message>
     <key>ana_warp_point_release</key>
-    <text xml:space="preserve">Warp Crystal 「&lt;NAME SPOT&gt;」 has been unlocked</text>
+    <text xml:space="preserve">Warp Crystal 「&lt;NAME SPOT&gt;」 has been unlocked.</text>
   </message>
   <message>
     <key>ana_warp_regist_error_area_or_quest</key>
     <text xml:space="preserve">Because of your progression in the main quest 
 or your area rank, 
-you cannot unlock the Warp Crystal</text>
+you cannot unlock the Warp Crystal.</text>
   </message>
   <message>
     <key>ana_warp_disable_battle</key>
-    <text xml:space="preserve">You cannot warp during battle</text>
+    <text xml:space="preserve">You cannot warp during battle.</text>
   </message>
   <message>
     <key>ana_warp_disable_large_party</key>
-    <text xml:space="preserve">You cannot warp in an 8 person party</text>
+    <text xml:space="preserve">You cannot warp in an 8 person party.</text>
   </message>
   <message>
     <key>ana_event_skip</key>
@@ -621,7 +622,7 @@ everyone must approve in order to skip.</text>
   </message>
   <message>
     <key>ana_KICK_ERR_NOT_OWNER_PAWN</key>
-    <text xml:space="preserve">You can only kick your own main pawn</text>
+    <text xml:space="preserve">You can only kick your own main pawn.</text>
   </message>
   <message>
     <key>ana_KICK_ERR_NOT_PARTY</key>
@@ -1450,7 +1451,7 @@ The effect of ＜&lt;OPCS&gt;＞ will allow this</text>
   </message>
   <message>
     <key>ana_COMMON_ERR_PAWN</key>
-    <text xml:space="preserve">You cannot do this to Pawns</text>
+    <text xml:space="preserve">You cannot do this to Pawns.</text>
   </message>
   <message>
     <key>ana_job_release_order_start</key>
@@ -1458,15 +1459,15 @@ The effect of ＜&lt;OPCS&gt;＞ will allow this</text>
   </message>
   <message>
     <key>ana_party_full</key>
-    <text xml:space="preserve">The party is full</text>
+    <text xml:space="preserve">The party is full.</text>
   </message>
   <message>
     <key>ana_disparty_in_battle</key>
-    <text xml:space="preserve">The party cannot be disbanded during combat</text>
+    <text xml:space="preserve">The party cannot be disbanded during combat.</text>
   </message>
   <message>
     <key>ana_join_disable_discondition</key>
-    <text xml:space="preserve">You do not meet the party requirements</text>
+    <text xml:space="preserve">You do not meet the party requirements.</text>
   </message>
   <message>
     <key>ana_event_skip_button</key>
@@ -1488,7 +1489,7 @@ please wait for a while.
   </message>
   <message>
     <key>ana_solve_crowded</key>
-    <text xml:space="preserve">The game can now start</text>
+    <text xml:space="preserve">The game can now start.</text>
   </message>
   <message>
     <key>ana_is_backlobby</key>
@@ -1496,28 +1497,28 @@ please wait for a while.
   </message>
   <message>
     <key>ana_box_disable</key>
-    <text xml:space="preserve">This cannot be used</text>
+    <text xml:space="preserve">This cannot be used.</text>
   </message>
   <message>
     <key>ana_nomore_choice</key>
-    <text xml:space="preserve">You cannot select any more</text>
+    <text xml:space="preserve">You cannot select any more.</text>
   </message>
   <message>
     <key>ana_change_cancel</key>
-    <text xml:space="preserve">The changes will be canceled
-Are you sure?</text>
+    <text xml:space="preserve">Are you sure you want to
+cancel the changes?</text>
   </message>
   <message>
     <key>ana_entryb_ready_alert</key>
-    <text xml:space="preserve">The party members have assembled. Please select "Rally" at the NPC</text>
+    <text xml:space="preserve">The party members have assembled. Please select "Rally" at the NPC.</text>
   </message>
   <message>
     <key>ana_entryb_ready_wait_alert</key>
-    <text xml:space="preserve">We are waiting for the other party members to become ready</text>
+    <text xml:space="preserve">Waiting for the other party members to become ready.</text>
   </message>
   <message>
     <key>ana_entryb_reentry_alert</key>
-    <text xml:space="preserve">Party members were not ready. Please re-enter</text>
+    <text xml:space="preserve">Party members are not assembled. Please re-register.</text>
   </message>
   <message>
     <key>ana_areamaster_no_quest</key>
@@ -1605,11 +1606,11 @@ If this continues for &lt;VAL&gt; minutes, you will be disconnected</text>
   </message>
   <message>
     <key>ana_clan_create_err_joinreq</key>
-    <text xml:space="preserve">You cannot create because you currently have an application to a clan</text>
+    <text xml:space="preserve">You cannot create because you currently have an application to a clan.</text>
   </message>
   <message>
     <key>ana_error_party_unassembled</key>
-    <text xml:space="preserve">ou cannot choose this option because the party is not full</text>
+    <text xml:space="preserve">You cannot choose this option because the party has not assembled.</text>
   </message>
   <message>
     <key>ana_pl_num_lobby_in</key>
