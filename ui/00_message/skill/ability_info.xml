@@ -102,8 +102,8 @@ generates enemy attention.
   </message>
   <message>
     <key>ABILITY_INFO_109</key>
-    <text xml:space="preserve">揺さぶりによるスタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases stamina consumed by the "Shake" action.
+&lt;COL ffdc78&gt;LV UP: Decreases stamina consumption further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_137</key>
@@ -176,8 +176,8 @@ Ice attribute attacks.
   </message>
   <message>
     <key>ABILITY_INFO_89</key>
-    <text xml:space="preserve">盾ガード時や武器ヒット時によろめいた際に
-受けるダメージ量が軽減される
+    <text xml:space="preserve">Decreases damage received when staggering
+after your guard is broken.
 &lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
@@ -376,9 +376,8 @@ Ogre enemies.
   </message>
   <message>
     <key>ABILITY_INFO_86</key>
-    <text xml:space="preserve">ガード不能攻撃を防御した際の
-ダメージが軽減される
-&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from overblocking.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_120</key>
