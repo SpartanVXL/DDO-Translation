@@ -1,39 +1,39 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>syslog_battle_danger_tg</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has become incapacitated</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has become incapacitated.</text>
   </message>
   <message>
     <key>syslog_battle_danger</key>
-    <text xml:space="preserve">You will be returned home in &lt;VAL&gt; seconds</text>
+    <text xml:space="preserve">You will be returned home in &lt;VAL&gt; seconds.</text>
   </message>
   <message>
     <key>syslog_battle_die</key>
-    <text xml:space="preserve">After &lt;VAL&gt; seconds, you will be returned home</text>
+    <text xml:space="preserve">After &lt;VAL&gt; seconds, you will be returned home.</text>
   </message>
   <message>
     <key>syslog_tail_on</key>
-    <text xml:space="preserve">You began following &lt;NAME TARGET&gt; with autorun</text>
+    <text xml:space="preserve">You began following &lt;NAME TARGET&gt; with autorun.</text>
   </message>
   <message>
     <key>syslog_tail_off</key>
-    <text xml:space="preserve">Autorun has been canceled</text>
+    <text xml:space="preserve">Autorun has been canceled.</text>
   </message>
   <message>
     <key>syslog_archieve_get</key>
-    <text xml:space="preserve">Achievement "&lt;NAME ACHIEVE&gt;" has been earned</text>
+    <text xml:space="preserve">Achievement "&lt;NAME ACHIEVE&gt;" has been earned.</text>
   </message>
   <message>
     <key>syslog_error_tell</key>
-    <text xml:space="preserve">Could not send message to &lt;NAME TARGET&gt;</text>
+    <text xml:space="preserve">Could not send message to &lt;NAME TARGET&gt;.</text>
   </message>
   <message>
     <key>syslog_error_clan</key>
-    <text xml:space="preserve">You are not a member of that clan</text>
+    <text xml:space="preserve">You are not a member of that clan.</text>
   </message>
   <message>
     <key>syslog_error_entryb</key>
-    <text xml:space="preserve">You are not registered at the entry board</text>
+    <text xml:space="preserve">You are not registered at the entry board.</text>
   </message>
   <message>
     <key>syslog_error_party_member_0</key>
@@ -41,163 +41,163 @@
   </message>
   <message>
     <key>syslog_friend_request</key>
-    <text xml:space="preserve">You sent &lt;NAME TARGET&gt; a friend request</text>
+    <text xml:space="preserve">You sent &lt;NAME TARGET&gt; a friend request.</text>
   </message>
   <message>
     <key>syslog_friend_requested</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has sent you a friend request</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has sent you a friend request.</text>
   </message>
   <message>
     <key>syslog_friend_ok</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; is now your friend</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; is now your friend.</text>
   </message>
   <message>
     <key>syslog_friend_cancel_by_decline</key>
-    <text xml:space="preserve">The friend request from &lt;NAME TARGET&gt; was declined</text>
+    <text xml:space="preserve">The friend request from &lt;NAME TARGET&gt; was declined.</text>
   </message>
   <message>
     <key>syslog_party_request</key>
-    <text xml:space="preserve">You requested &lt;NAME TARGET&gt; to join your party</text>
+    <text xml:space="preserve">Sent &lt;NAME TARGET&gt; a party request.</text>
   </message>
   <message>
     <key>syslog_party_requested</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has sent you a party request</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has sent you a party request.</text>
   </message>
   <message>
     <key>syslog_party_decline</key>
-    <text xml:space="preserve">You declined the party request from &lt;NAME TARGET&gt;</text>
+    <text xml:space="preserve">You declined the party request from &lt;NAME TARGET&gt;.</text>
   </message>
   <message>
     <key>syslog_party_declined</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has declined your party request</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has declined your party request.</text>
   </message>
   <message>
     <key>syslog_party_takeback</key>
-    <text xml:space="preserve">The party request from &lt;NAME TARGET&gt; has been canceled</text>
+    <text xml:space="preserve">The party request from &lt;NAME TARGET&gt; has been canceled.</text>
   </message>
   <message>
     <key>syslog_party_join_me</key>
-    <text xml:space="preserve">You joined &lt;NAME TARGET&gt;'s party</text>
+    <text xml:space="preserve">You joined &lt;NAME TARGET&gt;'s party.</text>
   </message>
   <message>
     <key>syslog_party_join_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has joined the party</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has joined the party.</text>
   </message>
   <message>
     <key>syslog_party_join_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has joined the party</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has joined the party.</text>
   </message>
   <message>
     <key>syslog_party_leave_me</key>
-    <text xml:space="preserve">You have left the party</text>
+    <text xml:space="preserve">You have left the party.</text>
   </message>
   <message>
     <key>syslog_party_leave_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has left the party</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has left the party.</text>
   </message>
   <message>
     <key>syslog_party_leave_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has left the party</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has left the party.</text>
   </message>
   <message>
     <key>syslog_status_down_me</key>
-    <text xml:space="preserve">&lt;NAME PLAYER&gt; has been incapacitated</text>
+    <text xml:space="preserve">&lt;NAME PLAYER&gt; has been incapacitated.</text>
   </message>
   <message>
     <key>syslog_status_down_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has been incapacitated</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has been incapacitated.</text>
   </message>
   <message>
     <key>syslog_status_down_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has been incapacitated</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has been incapacitated.</text>
   </message>
   <message>
     <key>syslog_status_die_me</key>
-    <text xml:space="preserve">&lt;NAME PLAYER&gt; has died</text>
+    <text xml:space="preserve">&lt;NAME PLAYER&gt; has died.</text>
   </message>
   <message>
     <key>syslog_status_die_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has died</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has died.</text>
   </message>
   <message>
     <key>syslog_status_die_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has died</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has died.</text>
   </message>
   <message>
     <key>syslog_status_resurrection_me</key>
-    <text xml:space="preserve">&lt;NAME PLAYER&gt; has been resurrected</text>
+    <text xml:space="preserve">&lt;NAME PLAYER&gt; has been resurrected.</text>
   </message>
   <message>
     <key>syslog_status_resurrection_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has been resurrected</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has been resurrected.</text>
   </message>
   <message>
     <key>syslog_status_resurrection_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has been resurrected</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has been resurrected.</text>
   </message>
   <message>
     <key>syslog_favorite_login</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has logged in</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has logged in.</text>
   </message>
   <message>
     <key>syslog_pawn_rescue_start</key>
-    <text xml:space="preserve">Please rescue &lt;NAME PAWN&gt;</text>
+    <text xml:space="preserve">Please rescue &lt;NAME PAWN&gt;.</text>
   </message>
   <message>
     <key>syslog_pawn_rescue_faild</key>
-    <text xml:space="preserve">You failed the rescue mission for &lt;NAME PAWN&gt;</text>
+    <text xml:space="preserve">You failed the rescue mission for &lt;NAME PAWN&gt;.</text>
   </message>
   <message>
     <key>syslog_pawn_rescue_success</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; was successfully rescued. Proceed to the end to finish the mission</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; was successfully rescued. Proceed to the end to finish the mission.</text>
   </message>
   <message>
     <key>syslog_pawn_rescue_resurrection</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has been rescued and returned to standby state</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has been rescued and returned to standby state.</text>
   </message>
   <message>
     <key>syslog_quest_accept_solo</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; has been accepted</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has been accepted.</text>
   </message>
   <message>
     <key>syslog_quest_accept_party</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has accepted &lt;NAME QUEST&gt;</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has accepted &lt;NAME QUEST&gt;.</text>
   </message>
   <message>
     <key>syslog_quest_discover_solo</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; has been discovered</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has been discovered.</text>
   </message>
   <message>
     <key>syslog_quest_discover_party</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has discovered &lt;NAME QUEST&gt;</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has discovered &lt;NAME QUEST&gt;.</text>
   </message>
   <message>
     <key>syslog_quest_clear</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; has been completed</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has been completed.</text>
   </message>
   <message>
     <key>syslog_quest_assist</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; has been completed with your assistance</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has been completed with your assistance.</text>
   </message>
   <message>
     <key>syslog_quest_happen</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; has updated</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has updated.</text>
   </message>
   <message>
     <key>syslog_quest_dog_solo</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; delivered</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; delivered.</text>
   </message>
   <message>
     <key>syslog_quest_dog_party</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; delivered &lt;NAME ITEM&gt; x&lt;VAL&gt;</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; delivered &lt;NAME ITEM&gt; x&lt;VAL&gt;.</text>
   </message>
   <message>
     <key>syslog_quest_dog_clear</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; delivery completed</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; delivery completed.</text>
   </message>
   <message>
     <key>syslog_quest_order_wait</key>
-    <text xml:space="preserve">Wait for the party leader to accept &lt;NAME QUEST&gt;</text>
+    <text xml:space="preserve">Wait for the party leader to accept &lt;NAME QUEST&gt;.</text>
   </message>
   <message>
     <key>syslog_quest_order</key>
@@ -205,7 +205,7 @@
   </message>
   <message>
     <key>syslog_quest_discontinue</key>
-    <text xml:space="preserve">This quest is not able to progress</text>
+    <text xml:space="preserve">This quest is not able to progress.</text>
   </message>
   <message>
     <key>syslog_reward_box_limit_notion</key>
@@ -246,32 +246,32 @@
   </message>
   <message>
     <key>syslog_quest_cancel</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; has been canceled</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has been canceled.</text>
   </message>
   <message>
     <key>syslog_quest_accept_max</key>
-    <text xml:space="preserve">Your quest log has reached the maximum and you cannot accept more</text>
+    <text xml:space="preserve">Your quest log has reached the maximum and you cannot accept more.</text>
   </message>
   <message>
     <key>syslog_areamaster_ap_get</key>
-    <text xml:space="preserve">Area points for &lt;NAME AREA&gt;
-Gained &lt;VAL AP&gt;</text>
+    <text xml:space="preserve">Area points for &lt;NAME AREA&gt;:
+Gained &lt;VAL AP&gt;.</text>
   </message>
   <message>
     <key>syslog_areamaster_rankup_ready</key>
-    <text xml:space="preserve">Area rank up is now available for &lt;NAME AREA&gt;</text>
+    <text xml:space="preserve">Area rank up is now available for &lt;NAME AREA&gt;.</text>
   </message>
   <message>
     <key>syslog_areamaster_spot_open</key>
-    <text xml:space="preserve">&lt;NAME SPOT&gt; is now open</text>
+    <text xml:space="preserve">&lt;NAME SPOT&gt; is now open.</text>
   </message>
   <message>
     <key>syslog_jobmaster_job_get</key>
-    <text xml:space="preserve">Job "&lt;NAME JOB&gt;" has been unlocked</text>
+    <text xml:space="preserve">Job "&lt;NAME JOB&gt;" has been unlocked.</text>
   </message>
   <message>
     <key>syslog_jobmaster_skill_get</key>
-    <text xml:space="preserve">"&lt;NAME SKILL&gt; &lt;VAL LV&gt;" can now be learned</text>
+    <text xml:space="preserve">"&lt;NAME SKILL&gt; &lt;VAL LV&gt;" can now be learned.</text>
   </message>
   <message>
     <key>syslog_jobmaster_order_clear</key>
@@ -280,19 +280,19 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_entryboard_creat</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; entry board has been created</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; entry board has been created.</text>
   </message>
   <message>
     <key>syslog_entryboard_entry</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; has been applied for entry</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has been applied for entry.</text>
   </message>
   <message>
     <key>syslog_entryboard_cancel</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; entry has been canceled</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; entry has been canceled.</text>
   </message>
   <message>
     <key>syslog_content_start</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; has begun</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has begun.</text>
   </message>
   <message>
     <key>syslog_content_update</key>
@@ -336,11 +336,11 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_content_end_by_clear</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; has been cleared</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has been cleared.</text>
   </message>
   <message>
     <key>syslog_content_end_by_escape</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; ended by leaving</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; ended by leaving.</text>
   </message>
   <message>
     <key>syslog_content_end_by_friends_down</key>
@@ -348,7 +348,7 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_content_end_by_timeup</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; ended due to the time limit</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; ended due to the time limit.</text>
   </message>
   <message>
     <key>syslog_content_anounce_prepare</key>
@@ -364,83 +364,83 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_content_anounce_reward</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; has a reward available to claim</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; has a reward available to claim.</text>
   </message>
   <message>
     <key>syslog_content_reward_get_boarder</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; total score reward has been placed into the storage box</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; total score reward has been placed into the storage box.</text>
   </message>
   <message>
     <key>syslog_content_reward_get_ranked</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt; ranking reward has been placed into the storage box</text>
+    <text xml:space="preserve">&lt;NAME QUEST&gt; ranking reward has been placed into the storage box.</text>
   </message>
   <message>
     <key>syslog_pawnrestore_start</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; rescue started</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; rescue started.</text>
   </message>
   <message>
     <key>syslog_pawnrestore_success</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; rescue suceeded</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; rescue suceeded.</text>
   </message>
   <message>
     <key>syslog_pawnrestore_failure</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; rescue failed</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; rescue failed.</text>
   </message>
   <message>
     <key>syslog_pawnrestore_restore</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; resurrected</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; resurrected.</text>
   </message>
   <message>
     <key>syslog_craft_consume_item</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; was consumed</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; was consumed.</text>
   </message>
   <message>
     <key>syslog_craft_consume_gold</key>
-    <text xml:space="preserve">&lt;VAL GOLD&gt; has been spent</text>
+    <text xml:space="preserve">&lt;VAL GOLD&gt; has been spent.</text>
   </message>
   <message>
     <key>syslog_craft_start</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has begun crafting &lt;NAME ITEM&gt;</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has begun crafting &lt;NAME ITEM&gt;.</text>
   </message>
   <message>
     <key>syslog_craft_recieve</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has been received from crafting</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; has been received from crafting.</text>
   </message>
   <message>
     <key>syslog_craft_exp_get</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has gained &lt;VAL XP&gt; for crafting</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has gained &lt;VAL XP&gt; for crafting.</text>
   </message>
   <message>
     <key>syslog_craft_sophistcate</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has been enhanced</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; has been enhanced.</text>
   </message>
   <message>
     <key>syslog_craft_crest_break</key>
-    <text xml:space="preserve">The crest has been broken</text>
+    <text xml:space="preserve">The crest has been broken.</text>
   </message>
   <message>
     <key>syslog_craft_levelup</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has reached craft level &lt;VAL&gt;</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has reached craft level &lt;VAL&gt;.</text>
   </message>
   <message>
     <key>syslog_craft_complete</key>
-    <text xml:space="preserve">Crafting has been completed</text>
+    <text xml:space="preserve">Crafting has been completed.</text>
   </message>
   <message>
     <key>syslog_om_door_open_by_key</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has opened the door using a key</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has opened the door using a key.</text>
   </message>
   <message>
     <key>syslog_om_door_open_by_enemy</key>
-    <text xml:space="preserve">The door has been opened by the enemy</text>
+    <text xml:space="preserve">The door has been opened by the enemy.</text>
   </message>
   <message>
     <key>syslog_om_door_open_by_gimmik</key>
-    <text xml:space="preserve">The door has been opened by the gimmick</text>
+    <text xml:space="preserve">The door has been opened by the gimmick.</text>
   </message>
   <message>
     <key>syslog_om_rock_remove</key>
-    <text xml:space="preserve">Rock wall has been blown open</text>
+    <text xml:space="preserve">Rock wall has been blown open.</text>
   </message>
   <message>
     <key>syslog_om_rock_fall</key>
@@ -452,19 +452,19 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_om_warp</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has warped through the rift</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has warped through the rift.</text>
   </message>
   <message>
     <key>syslog_om_crank</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has moved the lever</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has moved the lever.</text>
   </message>
   <message>
     <key>syslog_om_gimmik</key>
-    <text xml:space="preserve">Gimmick has been activated</text>
+    <text xml:space="preserve">Gimmick has been activated.</text>
   </message>
   <message>
     <key>syslog_om_waterfall</key>
-    <text xml:space="preserve">The waterfall's flow has stopped</text>
+    <text xml:space="preserve">The waterfall's flow has stopped.</text>
   </message>
   <message>
     <key>syslog_om_treasure_trap</key>
@@ -472,11 +472,11 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_om_treasure_untrap</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has released the treasure chest's trap</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has released the treasure chest's trap.</text>
   </message>
   <message>
     <key>syslog_achieve_open</key>
-    <text xml:space="preserve">&lt;NAME ACHIEVE&gt; is now available</text>
+    <text xml:space="preserve">&lt;NAME ACHIEVE&gt; is now available.</text>
   </message>
   <message>
     <key>syslog_achieve_unlock</key>
@@ -484,297 +484,297 @@ Report to the Job Master.</text>
   </message>
   <message>
     <key>syslog_tutorial_open</key>
-    <text xml:space="preserve">&lt;NAME TUTORIAL&gt; has been added to the tutorial guide</text>
+    <text xml:space="preserve">&lt;NAME TUTORIAL&gt; has been added to the tutorial guide.</text>
   </message>
   <message>
     <key>syslog_map_freemarker_on</key>
-    <text xml:space="preserve">Place the free marker on the map</text>
+    <text xml:space="preserve">Place the free marker on the map.</text>
   </message>
   <message>
     <key>syslog_map_freemarker_off</key>
-    <text xml:space="preserve">Erase the free marker from the map</text>
+    <text xml:space="preserve">Erase the free marker from the map.</text>
   </message>
   <message>
     <key>syslog_map_freemarker_described</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has placed a free marker on the map</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has placed a free marker on the map.</text>
   </message>
   <message>
     <key>syslog_map_freemarker_removed</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has erased the free marker from the map</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has erased the free marker from the map.</text>
   </message>
   <message>
     <key>syslog_levelup_job_me</key>
-    <text xml:space="preserve">&lt;NAME PLAYER&gt; has reached &lt;VAL LV&gt;</text>
+    <text xml:space="preserve">&lt;NAME PLAYER&gt; has reached &lt;VAL LV&gt;.</text>
   </message>
   <message>
     <key>syslog_levelup_job_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has reached &lt;VAL LV&gt;</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has reached &lt;VAL LV&gt;.</text>
   </message>
   <message>
     <key>syslog_levelup_job_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has reached &lt;VAL LV&gt;</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has reached &lt;VAL LV&gt;.</text>
   </message>
   <message>
     <key>syslog_money_get</key>
-    <text xml:space="preserve">Obtained &lt;VAL G&gt;</text>
+    <text xml:space="preserve">Obtained &lt;VAL G&gt;.</text>
   </message>
   <message>
     <key>syslog_rim_get</key>
-    <text xml:space="preserve">Obtained &lt;VAL R&gt;</text>
+    <text xml:space="preserve">Obtained &lt;VAL R&gt;.</text>
   </message>
   <message>
     <key>syslog_bo_get</key>
-    <text xml:space="preserve">Obtained &lt;VAL BO&gt;</text>
+    <text xml:space="preserve">Obtained &lt;VAL BO&gt;.</text>
   </message>
   <message>
     <key>syslog_bless_get</key>
-    <text xml:space="preserve">Revival power recovered</text>
+    <text xml:space="preserve">Revival power recovered.</text>
   </message>
   <message>
     <key>syslog_item_consume</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; was used</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; was used.</text>
   </message>
   <message>
     <key>syslog_item_get</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; obtained</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; obtained.</text>
   </message>
   <message>
     <key>syslog_bazaar_put</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has been put up for sale in the bazaar</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; has been put up for sale in the bazaar.</text>
   </message>
   <message>
     <key>syslog_bazaar_reput</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has been republished in the bazaar</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; has been republished in the bazaar.</text>
   </message>
   <message>
     <key>syslog_bazaar_cancel</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has been taken down from sale in the bazaar</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; has been taken down from sale in the bazaar.</text>
   </message>
   <message>
     <key>syslog_bazaar_sell</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has sold on the bazaar</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; has sold on the bazaar.</text>
   </message>
   <message>
     <key>syslog_item_lost</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; was lost</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; was lost.</text>
   </message>
   <message>
     <key>syslog_item_fortify</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has been enhanced</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; has been enhanced.</text>
   </message>
   <message>
     <key>syslog_item_sold</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; was sold</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; was sold.</text>
   </message>
   <message>
     <key>system_chat_renzoku</key>
-    <text xml:space="preserve">Please wait a moment before speaking again</text>
+    <text xml:space="preserve">Please wait a moment before speaking again.</text>
   </message>
   <message>
     <key>syslog_item_error</key>
-    <text xml:space="preserve">Item failed to process</text>
+    <text xml:space="preserve">Item failed to process.</text>
   </message>
   <message>
     <key>syslog_chatmacro_error</key>
-    <text xml:space="preserve">Command failed to execute</text>
+    <text xml:space="preserve">Command failed to execute.</text>
   </message>
   <message>
     <key>syslog_clan_create</key>
-    <text xml:space="preserve">The clan has been created</text>
+    <text xml:space="preserve">The clan has been created.</text>
   </message>
   <message>
     <key>syslog_clan_invite</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has been invited to the clan</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has been invited to the clan.</text>
   </message>
   <message>
     <key>syslog_clan_req</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has requested to join the clan</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has requested to join the clan.</text>
   </message>
   <message>
     <key>syslog_clan_join_other</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has joined the clan</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has joined the clan.</text>
   </message>
   <message>
     <key>syslog_clan_join</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has joined the clan</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; has joined the clan.</text>
   </message>
   <message>
     <key>syslog_clan_chg_master</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; is now the clan master</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; is now the clan master.</text>
   </message>
   <message>
     <key>syslog_clan_chg_leader</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; is now the clan leader</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; is now the clan leader.</text>
   </message>
   <message>
     <key>syslog_party_chg_leader</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; is now the party leader</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt; is now the party leader.</text>
   </message>
   <message>
     <key>syslog_party_kicked</key>
-    <text xml:space="preserve">You have been kicked from the party</text>
+    <text xml:space="preserve">You have been kicked from the party.</text>
   </message>
   <message>
     <key>syslog_party_request_ok</key>
-    <text xml:space="preserve">Party request has been accepted</text>
+    <text xml:space="preserve">Party request has been accepted.</text>
   </message>
   <message>
     <key>syslog_pawn_lost_escape</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has been lost and sent to the riftstone</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has been lost and sent to the riftstone.</text>
   </message>
   <message>
     <key>syslog_charge_course_start</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; has been activated</text>
+    <text xml:space="preserve">&lt;NAME ETC&gt; has been activated.</text>
   </message>
   <message>
     <key>syslog_charge_course_limit_1h</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; has only 1 hour remaining</text>
+    <text xml:space="preserve">&lt;NAME ETC&gt; has only 1 hour remaining.</text>
   </message>
   <message>
     <key>syslog_charge_course_limit_24h</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; has only 24 hours remaining</text>
+    <text xml:space="preserve">&lt;NAME ETC&gt; has only 24 hours remaining.</text>
   </message>
   <message>
     <key>syslog_charge_course_end</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; has expired</text>
+    <text xml:space="preserve">&lt;NAME ETC&gt; has expired.</text>
   </message>
   <message>
     <key>syslog_content_entry</key>
-    <text xml:space="preserve">You have applied for the Extreme Mission</text>
+    <text xml:space="preserve">You have applied for the Extreme Mission.</text>
   </message>
   <message>
     <key>syslog_mission_quit_reject</key>
-    <text xml:space="preserve">Mission did not end because the request was rejected</text>
+    <text xml:space="preserve">Mission did not end because the request was rejected.</text>
   </message>
   <message>
     <key>syslog_mission_end</key>
-    <text xml:space="preserve">Mission has ended</text>
+    <text xml:space="preserve">Mission has ended.</text>
   </message>
   <message>
     <key>syslog_mission_result_guid</key>
-    <text xml:space="preserve">You will be returned to &lt;NAME SPOT&gt; after confirming the results</text>
+    <text xml:space="preserve">You will be returned to &lt;NAME SPOT&gt; after confirming the results.</text>
   </message>
   <message>
     <key>syslog_mission_npc_dying</key>
-    <text xml:space="preserve">The escort target only has little health remaining</text>
+    <text xml:space="preserve">The escort target only has little health remaining.</text>
   </message>
   <message>
     <key>syslog_mission_time_add</key>
-    <text xml:space="preserve">Remaining time extended by &lt;VAL&gt; seconds</text>
+    <text xml:space="preserve">Remaining time extended by &lt;VAL&gt; seconds.</text>
   </message>
   <message>
     <key>syslog_mission_time_less_60sec</key>
-    <text xml:space="preserve">Less than 60 seconds remain in the mission</text>
+    <text xml:space="preserve">Less than 60 seconds remain in the mission.</text>
   </message>
   <message>
     <key>syslog_mission_time_less_30sec</key>
-    <text xml:space="preserve">Less than 30 seconds remain in the mission</text>
+    <text xml:space="preserve">Less than 30 seconds remain in the mission.</text>
   </message>
   <message>
     <key>syslog_mission_time_less_10sec</key>
-    <text xml:space="preserve">Less than 10 seconds remain in the mission</text>
+    <text xml:space="preserve">Less than 10 seconds remain in the mission.</text>
   </message>
   <message>
     <key>syslog_mission_time_over</key>
-    <text xml:space="preserve">Time is up</text>
+    <text xml:space="preserve">Time is up.</text>
   </message>
   <message>
     <key>syslog_mission_quit_suggest</key>
-    <text xml:space="preserve">A request has been made to end the mission</text>
+    <text xml:space="preserve">A request has been made to end the mission.</text>
   </message>
   <message>
     <key>syslog_mission_quit_receive</key>
-    <text xml:space="preserve">You have received a request to end the mission</text>
+    <text xml:space="preserve">You have received a request to end the mission.</text>
   </message>
   <message>
     <key>syslog_mission_quit_decide</key>
-    <text xml:space="preserve">The request to end the mission was successful</text>
+    <text xml:space="preserve">The request to end the mission was successful.</text>
   </message>
   <message>
     <key>syslog_pawn_adventure_dec</key>
-    <text xml:space="preserve">The remaining adventures of &lt;NAME PAWN&gt; has been reduced by 1</text>
+    <text xml:space="preserve">The remaining adventures of &lt;NAME PAWN&gt; has been reduced by 1.</text>
   </message>
   <message>
     <key>syslog_pawn_adventure_zero</key>
-    <text xml:space="preserve">The remaining adventures of &lt;NAME PAWN&gt; is now 0
-They will now leave the party</text>
+    <text xml:space="preserve">The remaining adventures of &lt;NAME PAWN&gt; is now 0.
+They will leave the party.</text>
   </message>
   <message>
     <key>syslog_pawn_crafter_dec</key>
-    <text xml:space="preserve">The remaining crafts of &lt;NAME PAWN&gt; has been reduced by 1</text>
+    <text xml:space="preserve">The remaining crafts of &lt;NAME PAWN&gt; has been reduced by 1.</text>
   </message>
   <message>
     <key>syslog_pawn_crafter_zero</key>
-    <text xml:space="preserve">The remaining crafts of &lt;NAME PAWN&gt; is now 0</text>
+    <text xml:space="preserve">The remaining crafts of &lt;NAME PAWN&gt; is now 0.</text>
   </message>
   <message>
     <key>syslog_item_deliver</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; has been delivered</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; has been delivered.</text>
   </message>
   <message>
     <key>syslog_stamp_bonus_day</key>
-    <text xml:space="preserve">There is a continuous stamp bonus you have not claimed</text>
+    <text xml:space="preserve">There is a continuous stamp bonus you have not claimed.</text>
   </message>
   <message>
     <key>syslog_stamp_bonus_cumulative</key>
-    <text xml:space="preserve">There is a total stamp bonus you have not claimed</text>
+    <text xml:space="preserve">There is a total stamp bonus you have not claimed.</text>
   </message>
   <message>
     <key>syslog_mission_interruption</key>
-    <text xml:space="preserve">The mission has been interrupted</text>
+    <text xml:space="preserve">The mission has been interrupted.</text>
   </message>
   <message>
     <key>syslog_touchom_areamaster_lock</key>
-    <text xml:space="preserve">This has been blocked by the Area Master</text>
+    <text xml:space="preserve">This has been blocked by the Area Master.</text>
   </message>
   <message>
     <key>syslog_soloquest_lock</key>
-    <text xml:space="preserve">You cannot accept personal quests at the moment. Please progress through the main quest by speaking to Leo</text>
+    <text xml:space="preserve">You cannot accept personal quests at the moment. Please progress through the main quest by speaking to Leo.</text>
   </message>
   <message>
     <key>syslog_areamaster_ap_get_ex</key>
-    <text xml:space="preserve">Area points for &lt;NAME AREA&gt;
-Gained &lt;VAL AP&gt; (+&lt;VAL&gt;)</text>
+    <text xml:space="preserve">Area points for &lt;NAME AREA&gt;:
+Gained &lt;VAL AP&gt; (+&lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_mission_jp_get</key>
-    <text xml:space="preserve">Gained &lt;VAL JP&gt;</text>
+    <text xml:space="preserve">Gained &lt;VAL JP&gt;.</text>
   </message>
   <message>
     <key>syslog_mission_jp_get_ex</key>
-    <text xml:space="preserve">Gained &lt;VAL JP&gt;(+&lt;VAL&gt;)</text>
+    <text xml:space="preserve">Gained &lt;VAL JP&gt;(+&lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_quest_pawn_xp_get</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL XP&gt;</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL XP&gt;.</text>
   </message>
   <message>
     <key>syslog_quest_pawn_xp_get_ex</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL XP&gt; (+&lt;VAL&gt;)</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL XP&gt; (+&lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_mission_pawn_jp</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL JP&gt;</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL JP&gt;.</text>
   </message>
   <message>
     <key>syslog_mission_pawn_jp_ex</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL JP&gt; (+&lt;VAL&gt;)</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL JP&gt; (+&lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_goldstone_get</key>
-    <text xml:space="preserve">Received &lt;VAL&gt; golden gemstones (You have: &lt;VAL&gt;)</text>
+    <text xml:space="preserve">Received &lt;VAL&gt; golden gemstones (You have: &lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_silvertickets_get</key>
-    <text xml:space="preserve">Received &lt;VAL&gt; silver tickets (You have: &lt;VAL&gt;)</text>
+    <text xml:space="preserve">Received &lt;VAL&gt; silver tickets (You have: &lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_success_input_eventcode</key>
-    <text xml:space="preserve">Event code input was successful</text>
+    <text xml:space="preserve">Event code input was successful.</text>
   </message>
   <message>
     <key>syslog_receipt_mailitem</key>
-    <text xml:space="preserve">Please check your mail to receive the items</text>
+    <text xml:space="preserve">Please check your mail to receive the items.</text>
   </message>
   <message>
     <key>syslog_party_num_talk</key>
@@ -782,7 +782,7 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_quest_end_dist_cancel</key>
-    <text xml:space="preserve">Quest ＜&lt;VAL&gt;＞ has expired</text>
+    <text xml:space="preserve">Quest ＜&lt;VAL&gt;＞ has expired.</text>
   </message>
   <message>
     <key>syslog_awaitquest_auto_cancel</key>
@@ -790,75 +790,75 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_craft_recieve2</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; obtained</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; obtained.</text>
   </message>
   <message>
     <key>syslog_silvertichet_lost</key>
-    <text xml:space="preserve">Used &lt;VAL&gt; silver tickets (You have: &lt;VAL&gt;)</text>
+    <text xml:space="preserve">Used &lt;VAL&gt; silver tickets (You have: &lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_goldstone_lost</key>
-    <text xml:space="preserve">Used &lt;VAL&gt; golden gemstones (You have: &lt;VAL&gt;)</text>
+    <text xml:space="preserve">Used &lt;VAL&gt; golden gemstones (You have: &lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_bo_lost</key>
-    <text xml:space="preserve">&lt;VAL BO&gt; spent</text>
+    <text xml:space="preserve">&lt;VAL BO&gt; spent.</text>
   </message>
   <message>
     <key>syslog_rim_lost</key>
-    <text xml:space="preserve">&lt;VAL R&gt; spent</text>
+    <text xml:space="preserve">&lt;VAL R&gt; spent.</text>
   </message>
   <message>
     <key>syslog_money_lost</key>
-    <text xml:space="preserve">&lt;VAL G&gt; spent</text>
+    <text xml:space="preserve">&lt;VAL G&gt; spent.</text>
   </message>
   <message>
     <key>syslog_login_unclaimed_qreward</key>
-    <text xml:space="preserve">There are quest rewards awaiting claim at the storage box</text>
+    <text xml:space="preserve">There are quest rewards awaiting claim at the storage box.</text>
   </message>
   <message>
     <key>syslog_quest_repeat_reward</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞ has received a bonus for being repeated</text>
+    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞ has received a bonus for being repeated.</text>
   </message>
   <message>
     <key>syslog_quest_undiscover_reward</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞ has received a bonus reward for being finished for the first time</text>
+    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞ has received a bonus reward for being finished for the first time.</text>
   </message>
   <message>
     <key>syslog_quest_help_reward</key>
-    <text xml:space="preserve">Party leader has completed ＜&lt;NAME QUEST&gt;＞ and you have received a reward for assisting</text>
+    <text xml:space="preserve">Party leader has completed ＜&lt;NAME QUEST&gt;＞ and you have received a reward for assisting.</text>
   </message>
   <message>
     <key>syslog_quest_party_bonus</key>
-    <text xml:space="preserve">Party has completed ＜&lt;NAME QUEST&gt;＞ and you have received a party bonus</text>
+    <text xml:space="preserve">Party has completed ＜&lt;NAME QUEST&gt;＞ and you have received a party bonus.</text>
   </message>
   <message>
     <key>syslog_quest_cannot_progress_party</key>
-    <text xml:space="preserve">The quest progress between the party leader and &lt;NAME TARGET&gt; for ＜&lt;NAME QUEST&gt;＞ is different</text>
+    <text xml:space="preserve">The quest progress between the party leader and &lt;NAME TARGET&gt; for ＜&lt;NAME QUEST&gt;＞ is different.</text>
   </message>
   <message>
     <key>syslog_quest_can_progress_party</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;'s quest ＜&lt;NAME QUEST&gt;＞ can now progress</text>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;'s quest ＜&lt;NAME QUEST&gt;＞ can now progress.</text>
   </message>
   <message>
     <key>syslog_quest_wait_order</key>
-    <text xml:space="preserve">The party leader's quest ＜&lt;NAME QUEST&gt;＞ has orders waiting</text>
+    <text xml:space="preserve">The party leader's quest ＜&lt;NAME QUEST&gt;＞ has orders waiting.</text>
   </message>
   <message>
     <key>syslog_quest_can_progress_leader</key>
-    <text xml:space="preserve">Because of the party leader, ＜&lt;NAME QUEST&gt;＞ can now progress</text>
+    <text xml:space="preserve">Because of the party leader, ＜&lt;NAME QUEST&gt;＞ can now progress.</text>
   </message>
   <message>
     <key>syslog_quest_can_progress</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞ can now progress</text>
+    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞ can now progress.</text>
   </message>
   <message>
     <key>syslog_quest_cannot_progress_leader</key>
-    <text xml:space="preserve">Because of the party leader, ＜&lt;NAME QUEST&gt;＞ can no longer progress</text>
+    <text xml:space="preserve">Because of the party leader, ＜&lt;NAME QUEST&gt;＞ can no longer progress.</text>
   </message>
   <message>
     <key>syslog_quest_cannot_progress</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞ can no longer progress</text>
+    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞ can no longer progress.</text>
   </message>
   <message>
     <key>syslog_quest_party_progress_myself</key>
@@ -878,62 +878,62 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;)</text>
   </message>
   <message>
     <key>syslog_reward_box_limit_over</key>
-    <text xml:space="preserve">The reward box is full
-When it exceeds capacity, the oldest reward will be lost</text>
+    <text xml:space="preserve">Your reward box is full.
+When it exceeds capacity, the oldest reward will be lost.</text>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_stone</key>
-    <text xml:space="preserve">&lt;VAL&gt; golden gemstones will be consumed to lot 1 time</text>
+    <text xml:space="preserve">&lt;VAL&gt; golden gemstones will be consumed to lot 1 time.</text>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_stones</key>
-    <text xml:space="preserve">&lt;VAL&gt; golden gemstones will be consumed to lot &lt;VAL&gt; times in succession</text>
+    <text xml:space="preserve">&lt;VAL&gt; golden gemstones will be consumed to lot &lt;VAL&gt; times in succession.</text>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_ticket</key>
-    <text xml:space="preserve">&lt;VAL&gt; tickets will be consumed to lot 1 time</text>
+    <text xml:space="preserve">&lt;VAL&gt; tickets will be consumed to lot 1 time.</text>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_tickets</key>
-    <text xml:space="preserve">&lt;VAL&gt; tickets will be consumed to lot &lt;VAL&gt; times in succession</text>
+    <text xml:space="preserve">&lt;VAL&gt; tickets will be consumed to lot &lt;VAL&gt; times in succession.</text>
   </message>
   <message>
     <key>syslog_pawn_instruction_others</key>
     <text xml:space="preserve">&lt;NAME TARGET&gt; has given the pawn order of 
-&lt;PORD&gt; to their pawns</text>
+&lt;PORD&gt; to their pawns.</text>
   </message>
   <message>
     <key>syslog_quest_decide_deliver</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞ has reached the required item delivery amount</text>
+    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞ has reached the required item delivery amount.</text>
   </message>
   <message>
     <key>syslog_jp_possession_max_notice</key>
     <text xml:space="preserve">You are almost maxed out on job points 
-( &lt;VAL&gt; / &lt;VAL JP&gt; )</text>
+( &lt;VAL&gt; / &lt;VAL JP&gt; ).</text>
   </message>
   <message>
     <key>syslog_jp_possession_max</key>
-    <text xml:space="preserve">You have reached the maximum amount of job points and cannot earn any more</text>
+    <text xml:space="preserve">You have reached the maximum amount of job points and cannot earn any more.</text>
   </message>
   <message>
     <key>syslog_jp_possession_max_notice_pawn</key>
     <text xml:space="preserve">&lt;NAME PAWN&gt; is almost maxed out on job points 
-( &lt;VAL&gt; / &lt;VAL JP&gt; )</text>
+( &lt;VAL&gt; / &lt;VAL JP&gt; ).</text>
   </message>
   <message>
     <key>syslog_jp_possession_max_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt; has reached the maximum amount of job points and cannot earn any more</text>
+    <text xml:space="preserve">&lt;NAME PAWN&gt; has reached the maximum amount of job points and cannot earn any more.</text>
   </message>
   <message>
     <key>syslog_rentalpoint_get</key>
-    <text xml:space="preserve">You have received &lt;VAL RP&gt; rental points</text>
+    <text xml:space="preserve">You have received &lt;VAL RP&gt; rental points.</text>
   </message>
   <message>
     <key>syslog_rentalpoint_get_ex</key>
-    <text xml:space="preserve">You have received &lt;VAL RP&gt;(+&lt;VAL&gt;) rental points</text>
+    <text xml:space="preserve">You have received &lt;VAL RP&gt;(+&lt;VAL&gt;) rental points.</text>
   </message>
   <message>
     <key>syslog_rentalpoint_lost</key>
-    <text xml:space="preserve">You have used &lt;VAL RP&gt; rental points</text>
+    <text xml:space="preserve">You have used &lt;VAL RP&gt; rental points.</text>
   </message>
 </resource>
