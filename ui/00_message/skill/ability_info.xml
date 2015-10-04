@@ -1,30 +1,33 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ABILITY_INFO_27</key>
-    <text xml:space="preserve">弓の移動射ちの際、矢が照準からぶれなくなる
-&lt;COL ffdc78&gt;LV UP毎にぶれ幅がさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Keeps your arrows from flying off mark
+when you loose them whilst in motion.
+&lt;COL ffdc78&gt;LV UP: Decreases shaking width further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_62</key>
-    <text xml:space="preserve">炎属性魔法によって受けるダメージ量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from
+Fire attribute attacks.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_82</key>
-    <text xml:space="preserve">盾に付与した属性と防御した敵攻撃の属性が同じとき
-攻力の吸収量がさらに増加する
-&lt;COL ffdc78&gt;LV UP毎に攻力吸収量がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases Force Gauge when a blocked attack
+matches the element enchanted to your rod.
+&lt;COL ffdc78&gt;LV UP: Increases Force Gauge further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_111</key>
-    <text xml:space="preserve">しがみつき時にダメージを受けても
-体勢を崩されにくくなる
-&lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</text>
+    <text xml:space="preserve">Makes it harder for an enemy to throw
+you off whilst you're clinging to it.
+&lt;COL ffdc78&gt;LV UP: Decreases likelihood of stagger further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_126</key>
-    <text xml:space="preserve">Magical trap has a higher chance to stun enemies.
-&lt;COL ffdc78&gt;LV UP Increases stun chance&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases the Blow Power of Magic Trap,
+allowing it to break enemy posture more easily.
+&lt;COL ffdc78&gt;LV UP: Increases Blow Power further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_231</key>
@@ -34,35 +37,38 @@
   </message>
   <message>
     <key>ABILITY_INFO_4</key>
-    <text xml:space="preserve">盾弾きの発動時に敵を気絶させやすくなる
-&lt;COL ffdc78&gt;LV UP毎に気絶攻力がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases the Knockout Power of perfect blocks.
+&lt;COL ffdc78&gt;LV UP: Increases Knockout Power further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_34</key>
-    <text xml:space="preserve">仕込み爆矢射ちの起爆までの時間が延長される
-&lt;COL ffdc78&gt;LV UP毎に時間がより延長&lt;/COL&gt;</text>
+    <text xml:space="preserve">Extends the time period that explosive
+arrows will linger before exploding.
+&lt;COL ffdc78&gt;LV UP: Extends time further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_67</key>
-    <text xml:space="preserve">炎属性攻撃を受けても
-延焼の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases the rate at which you receive
+the debilitation "Catching Fire" when
+struck by Fire attribute attacks.
+&lt;COL ffdc78&gt;LV UP: Increases resistance further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_85</key>
-    <text xml:space="preserve">盾ガード時のスタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費量さらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases the Stamina consumed when
+you block attacks with your shield.
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_116</key>
-    <text xml:space="preserve">回避行動時にダメージを受けても
-体勢を崩されにくくなる
-&lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases likelihood of being
+staggered while rolling.
+&lt;COL ffdc78&gt;LV UP: Decreases likelihood further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_142</key>
-    <text xml:space="preserve">Reduces Stamina consumption while using levitate.
-&lt;COL ffdc78&gt;LV UP Reduces Stamina consumption&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases Stamina consumption while using Levitate.
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_232</key>
@@ -72,36 +78,37 @@
   </message>
   <message>
     <key>ABILITY_INFO_15</key>
-    <text xml:space="preserve">押さえ込み時のスタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases the Stamina consumed when
+you grapple-hold opponents.
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_42</key>
-    <text xml:space="preserve">瀕死状態中に、吹き飛ばし力が上昇し
-敵の体勢を崩しやすくなる
-&lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases your Blow Power
+when you stand at death's door.
+&lt;COL ffdc78&gt;LV UP: Increases Blow Power further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_57</key>
-    <text xml:space="preserve">助け起こしたパーティーメンバーの
-物理ダメージが一定時間軽減される
-&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</text>
+    <text xml:space="preserve">Provides allies with increased Defense
+after picking them up from incapacitation.
+&lt;COL ffdc78&gt;LV UP: Increases duration of the effect.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_79</key>
-    <text xml:space="preserve">アトラクト発動時に
-より敵の注目を集めるようになる
-&lt;COL ffdc78&gt;LV UP毎に敵からの注目度がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases the rate at which Attract
+generates enemy attention.
+&lt;COL ffdc78&gt;LV UP: Increases attention further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_109</key>
-    <text xml:space="preserve">揺さぶりによるスタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases stamina consumed by the "Shake" action.
+&lt;COL ffdc78&gt;LV UP: Decreases stamina consumption further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_137</key>
-    <text xml:space="preserve">Increases Magic attack while in a dying state.
-&lt;COL ffdc78&gt;LV UP Increases Magic attack&lt;/COL&gt;</text>
+    <text xml:space="preserve">Amplifies your Magick when you stand at death's door.
+&lt;COL ffdc78&gt;LV UP: Increases Magick further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_236</key>
@@ -111,35 +118,39 @@
   </message>
   <message>
     <key>ABILITY_INFO_5</key>
-    <text xml:space="preserve">盾弾きの攻撃範囲が拡張される
-&lt;COL ffdc78&gt;LV UP毎に攻撃範囲がより拡張&lt;/COL&gt;</text>
+    <text xml:space="preserve">Extends the attack range of
+perfect block counters.
+&lt;COL ffdc78&gt;LV UP: Extends the range further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_26</key>
-    <text xml:space="preserve">弓を放った後の反動を抑える
-&lt;COL ffdc78&gt;LV UP毎に反動がさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases recoil after firing your bow.
+&lt;COL ffdc78&gt;LV UP: Decreases recoil further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_52</key>
-    <text xml:space="preserve">フィールドシフト時に
-敵の注目を集めにくくする
-&lt;COL ffdc78&gt;LV UP毎に敵からの注目度がさらに減少&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases the attention of 
+enemies while using Field Shift.
+&lt;COL ffdc78&gt;LV UP: Decreases attention further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_81</key>
-    <text xml:space="preserve">フォースエンチャントの効果持続時間が延長される
-&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases the effect duration
+of Force Enchantment.
+&lt;COL ffdc78&gt;LV UP: Increases duration further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_101</key>
-    <text xml:space="preserve">シーカーロープの飛距離が延長される
-&lt;COL ffdc78&gt;LV UP毎に飛距離がより延長&lt;/COL&gt;</text>
+    <text xml:space="preserve">Extends the flying distance of the Seeker Rope.
+&lt;COL ffdc78&gt;LV UP: Extends the distance further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_129</key>
-    <text xml:space="preserve">Can backdash while chanting, suffering a
-penalty to the chant gauge.
-&lt;COL ffdc78&gt;LV UP Decreases chant gauge penalty&lt;/COL&gt;</text>
+    <text xml:space="preserve">Allows use of Back Move while charging magic.
+The charge will continue, but you will suffer
+a penalty to the chant gauge.
+&lt;COL ffdc78&gt;LV UP: Decreases penalty to the
+chant gauge further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_228</key>
@@ -148,36 +159,37 @@ penalty to the chant gauge.
   </message>
   <message>
     <key>ABILITY_INFO_1</key>
-    <text xml:space="preserve">斬り崩しの予備動作が短縮され
-より素早く剣を振り下ろすことができる
-&lt;COL ffdc78&gt;LV UP毎に予備動作さらに短縮&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases the charge time of Guard Break,
+allowing you to swing the sword more quickly.
+&lt;COL ffdc78&gt;LV UP: Decreases charge time further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_30</key>
-    <text xml:space="preserve">達人装填が成功する受付時間が延長され
-より成功率が上昇する
-&lt;COL ffdc78&gt;LV UP毎に受付時間がより延長&lt;/COL&gt;</text>
+    <text xml:space="preserve">Extends the time period for active reload.
+&lt;COL ffdc78&gt;LV UP: Extends time further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_63</key>
-    <text xml:space="preserve">氷属性魔法によって受けるダメージ量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from
+Ice attribute attacks.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_89</key>
-    <text xml:space="preserve">盾ガード時や武器ヒット時によろめいた際に
-受けるダメージ量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received when staggering
+after your guard is broken.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_123</key>
-    <text xml:space="preserve">連携投げによるジャンプ高度が上昇する
-&lt;COL ffdc78&gt;LV UP毎に高度がより上昇&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases jump height when assisted
+by another person.
+&lt;COL ffdc78&gt;LV UP: Increases jump height further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_130</key>
-    <text xml:space="preserve">Increases damage dealt with Fire attribute.
-&lt;COL ffdc78&gt;LV UP Increased damage amount&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt with the Fire attribute.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_235</key>
@@ -187,34 +199,40 @@ penalty to the chant gauge.
   </message>
   <message>
     <key>ABILITY_INFO_9</key>
-    <text xml:space="preserve">瀕死状態中の筋力が増加する
-&lt;COL ffdc78&gt;LV UP毎に筋力がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Provides a surge in strength
+when you stand at death's door.
+&lt;COL ffdc78&gt;LV UP: Increases Strength further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_36</key>
-    <text xml:space="preserve">弓構え中のスタミナ回復速度が上昇する
-&lt;COL ffdc78&gt;LV UP毎にスタミナ回復速度がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases Stamina recovery speed while
+your bow is ready to fire.
+&lt;COL ffdc78&gt;LV UP: Increases Stamina recovery further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_68</key>
-    <text xml:space="preserve">氷属性攻撃を受けても
-凍結の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases the rate at which you receive
+the debilitation "Frozen Solid" when
+struck by Ice attribute attacks.
+&lt;COL ffdc78&gt;LV UP: Increases resistance further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_93</key>
-    <text xml:space="preserve">瀕死状態中、物理防御力と魔法防御力が増加する
-&lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Improves your Defense and Magick Defense
+when you stand at death's door.
+&lt;COL ffdc78&gt;LV UP: Increases Defense and
+Magick Defense further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_124</key>
-    <text xml:space="preserve">巨人系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decrease damage received from
+Giant enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
-    <key>ABILITY_INFO_131</key>
-    <text xml:space="preserve">Increase damage dealt with Ice attribute.
-&lt;COL ffdc78&gt;LV UP Increased damage amount&lt;/COL&gt;</text>
+    <key>ABILITY_INFO_131</key> 
+    <text xml:space="preserve">Increases damage dealt with the Ice attribute.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_237</key>
@@ -224,38 +242,38 @@ penalty to the chant gauge.
   </message>
   <message>
     <key>ABILITY_INFO_16</key>
-    <text xml:space="preserve">敵に拘束された状態からの脱出が
-通常よりも容易になる
-&lt;COL ffdc78&gt;LV UP毎に拘束からの脱出がさらに緩和&lt;/COL&gt;</text>
+    <text xml:space="preserve">Facilitates easier escapes from
+enemy grapple-holds.
+&lt;COL ffdc78&gt;LV UP: Increases escape ease further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_33</key>
-    <text xml:space="preserve">達人装填のジャストタイミングの受付時間が延長され
-より成功率が上昇する
-&lt;COL ffdc78&gt;LV UP毎に受付時間がより延長&lt;/COL&gt;</text>
+    <text xml:space="preserve">Extends the time window for a master
+reload, making it easier to perform.
+&lt;COL ffdc78&gt;LV UP: Extends time window further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_58</key>
-    <text xml:space="preserve">助け起こしたパーティーメンバーの
-魔法攻撃ダメージが一定時間軽減される
-&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</text>
+    <text xml:space="preserve">Provides allies with increased Magick Defense
+after picking them up from incapacitation.
+&lt;COL ffdc78&gt;LV UP: Increases duration of the effect.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_99</key>
-    <text xml:space="preserve">白竜神殿から出てしばらくの間
-最大体力が増加する
-&lt;COL ffdc78&gt;LV UP毎に最大体力がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases your Strength after leaving
+White Dragon Temple for a period of time.
+&lt;COL ffdc78&gt;LV UP: Increases Strength further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_106</key>
-    <text xml:space="preserve">しがみつき時、耐えるアクション中の
-スタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases Stamina consumption when resisting
+an enemy's attempt to shake you off.
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_132</key>
-    <text xml:space="preserve">Increased damage dealt with lightning attribute.
-&lt;COL ffdc78&gt;LV UP Increased damage amount&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt with the Thunder attribute.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_240</key>
@@ -264,34 +282,37 @@ penalty to the chant gauge.
   </message>
   <message>
     <key>ABILITY_INFO_6</key>
-    <text xml:space="preserve">盾弾きの発動時にスタミナが一定量回復する
-&lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Relax your blocking, allowing recovery
+of Stamina upon performing perfect blocks.
+&lt;COL ffdc78&gt;LV UP: Increases Stamina recovery further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_50</key>
-    <text xml:space="preserve">鬼人系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt to Ogre enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_64</key>
-    <text xml:space="preserve">雷属性魔法によって受けるダメージ量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from
+Thunder attribute attacks.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_84</key>
-    <text xml:space="preserve">フォースゲージの消費時に少しゲージが残る
-&lt;COL ffdc78&gt;LV UP毎にゲージ残量が増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Allows some Force Gauge to remain after
+your gauge is consumed.
+&lt;COL ffdc78&gt;LV UP: Increases the amount further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_102</key>
-    <text xml:space="preserve">シーカーロープでの移動後、接触時に繰り出す
-打撃攻撃で敵の体勢を崩しやすくなる
-&lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases the Blow Power of your Seeker Rope,
+increasing the likelihood it will break enemy posture.
+&lt;COL ffdc78&gt;LV UP: Increases Blow Power further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_146</key>
-    <text xml:space="preserve">Deal more damage to Demon type enemies.
-&lt;COL ffdc78&gt;LV UP Increased damage amount&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt to Demon enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_241</key>
@@ -300,35 +321,37 @@ penalty to the chant gauge.
   </message>
   <message>
     <key>ABILITY_INFO_25</key>
-    <text xml:space="preserve">軟体系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt to Soft enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_48</key>
-    <text xml:space="preserve">有翼系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt to Winged enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_69</key>
-    <text xml:space="preserve">雷属性攻撃を受けても
-感電の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases the rate at which you receive
+the debilitation "Shock" when
+struck by Thunder attribute attacks.
+&lt;COL ffdc78&gt;LV UP: Increases resistance further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_87</key>
-    <text xml:space="preserve">敵からの攻撃を直前防御（引きつけて防御）
-しやすくなる
-&lt;COL ffdc78&gt;LV UP毎に直前防御受付時間がより延長&lt;/COL&gt;</text>
+    <text xml:space="preserve">Allows you to more easily perform 
+perfect blocks, just as foes strike.
+&lt;COL ffdc78&gt;LV UP: Extends the perfect block
+time window further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_125</key>
-    <text xml:space="preserve">巨人系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt to Giant enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_148</key>
-    <text xml:space="preserve">Deal more damage to Cursed enemies.
-&lt;COL ffdc78&gt;LV UP Increased damage amount&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt to Cursed enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_244</key>
@@ -337,35 +360,36 @@ penalty to the chant gauge.
   </message>
   <message>
     <key>ABILITY_INFO_23</key>
-    <text xml:space="preserve">亜人系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt to Demihuman enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_49</key>
-    <text xml:space="preserve">鬼人系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from
+Ogre enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_75</key>
-    <text xml:space="preserve">骸骨系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt to Skeleton enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_86</key>
-    <text xml:space="preserve">ガード不能攻撃を防御した際の
-ダメージが軽減される
-&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from overblocking.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_120</key>
-    <text xml:space="preserve">空中でダメージを受けても
-体勢を崩されにくくなる
-&lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases likelihood of being staggered
+when damaged in the air.
+&lt;COL ffdc78&gt;LV UP: Decreases likelihood further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_145</key>
-    <text xml:space="preserve">Decrease damage received from Demon type enemies.
-&lt;COL ffdc78&gt;LV UP Futher decrease&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decrease damage received from
+Demon enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_245</key>
@@ -374,108 +398,116 @@ penalty to the chant gauge.
   </message>
   <message>
     <key>ABILITY_INFO_24</key>
-    <text xml:space="preserve">軟体系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from
+Soft enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_47</key>
-    <text xml:space="preserve">有翼系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from
+Winged enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_73</key>
-    <text xml:space="preserve">腐死系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases damage dealt to Undead enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_88</key>
-    <text xml:space="preserve">盾の防御性能が向上し
-より強い攻撃を防ぎやすくなる
-&lt;COL ffdc78&gt;LV UP毎に盾ガード値がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Improves the effectiveness of your shield,
+allowing you to easily prevent stronger attacks.
+&lt;COL ffdc78&gt;LV UP: Increases Guard Power further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_121</key>
-    <text xml:space="preserve">空中でのスタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases Stamina consumption while in the air.
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_147</key>
-    <text xml:space="preserve">Decrease damage received from Cursed enemies.
-&lt;COL ffdc78&gt;LV UP Futher decrease&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decrease damage received from
+Cursed enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_22</key>
-    <text xml:space="preserve">亜人系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from
+Demihuman enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_31</key>
-    <text xml:space="preserve">達人装填の成功時にスタミナが回復する
-&lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Restores Stamina when performing a master reload.
+&lt;COL ffdc78&gt;LV UP: Increases Stamina restoration further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_74</key>
-    <text xml:space="preserve">骸骨系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from
+Skeleton enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_77</key>
-    <text xml:space="preserve">フォースゲインの攻力吸収量が増加する
-&lt;COL ffdc78&gt;LV UP毎に攻力吸収量がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases the rate at which you
+gain Force Gauge.
+&lt;COL ffdc78&gt;LV UP: Increases gain further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_117</key>
-    <text xml:space="preserve">空中攻撃の威力が増加する
-&lt;COL ffdc78&gt;LV UP毎に威力がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases the damage of aerial attacks.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_127</key>
-    <text xml:space="preserve">Stamina recovers after a successful spell input.
-&lt;COL ffdc78&gt;LV UP Increases stamina recovered&lt;/COL&gt;</text>
+    <text xml:space="preserve">Restores Stamina upon successful spell inputs.
+&lt;COL ffdc78&gt;LV UP: Increases Stamina restored further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_10</key>
-    <text xml:space="preserve">スタミナが一定量以上のとき
-筋力が増加する
-&lt;COL ffdc78&gt;LV UP毎に筋力がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases Strength when your Stamina
+is above a certain amount.
+&lt;COL ffdc78&gt;LV UP: Increases Strength further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_29</key>
-    <text xml:space="preserve">一度に矢筒に補充できる矢の本数が増加する
-&lt;COL ffdc78&gt;LV UP毎に矢の装填数がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases the number of arrows that can
+be loaded into the quiver at a time.
+&lt;COL ffdc78&gt;LV UP: Increases arrow count further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_72</key>
-    <text xml:space="preserve">腐死系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases damage received from
+Undead enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_80</key>
-    <text xml:space="preserve">フォースバーストで
-より敵を状態異常にかかりやすくする
-&lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases the rate at which Force Burst
+applies elemental debilitations.
+&lt;COL ffdc78&gt;LV UP: Increases debilitation rate further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_104</key>
-    <text xml:space="preserve">二段跳びの高度が上昇する
-&lt;COL ffdc78&gt;LV UP毎に高度がより上昇&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases the jump height of your Double Jump.
+&lt;COL ffdc78&gt;LV UP: Increases jump height further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_128</key>
-    <text xml:space="preserve">Spell input difficulty is decreased, magic effects
-are increased, and spells become easier to aim.
-&lt;COL ffdc78&gt;LV UP Enhances all&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases the difficulty of doing Chanting inputs,
+making it easier to increase the magic's power.
+&lt;COL ffdc78&gt;LV UP: Decreases difficulty further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_2</key>
-    <text xml:space="preserve">えぐり突き時の攻撃速度が上昇する
-&lt;COL ffdc78&gt;LV UP毎に攻撃速度がより上昇&lt;/COL&gt;</text>
+    <text xml:space="preserve">Increases attack speed when using Gouge.
+&lt;COL ffdc78&gt;LV UP: Increases attack speed further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_51</key>
-    <text xml:space="preserve">ヒールオーラ、セイントオーラ展開時の
-スタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</text>
+    <text xml:space="preserve">Decreases Stamina consumption while
+channeling Heal Aura and Holy Aura.
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>ABILITY_INFO_258</key>

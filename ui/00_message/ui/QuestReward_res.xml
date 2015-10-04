@@ -49,11 +49,11 @@
   </message>
   <message>
     <key>REWARD_MSG_NOTION_PLZ_PICK</key>
-    <text xml:space="preserve">Please select a reward</text>
+    <text xml:space="preserve">Please select a reward.</text>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_PLZ_ONE</key>
-    <text xml:space="preserve">Please choose one</text>
+    <text xml:space="preserve">Please choose one.</text>
   </message>
   <message>
     <key>REWARD_MSG_REWARD_COMMON</key>
@@ -139,7 +139,7 @@ Not all items will be received.</text>
   <message>
     <key>REWARD_MSG_NOTICE_SELL</key>
     <text xml:space="preserve">Random Rewards that were not checked will be sold.
-(Select Rewards not checked will be discarded.)
+(Select Rewards not checked will be lost.)
 Are you sure?
 Total Sale: &lt;VAL GOLD&gt;</text>
   </message>
@@ -157,10 +157,10 @@ Total Sale: &lt;VAL GOLD&gt;</text>
   </message>
   <message>
     <key>REWARD_MSG_NO_REWOARD</key>
-    <text xml:space="preserve">There are currently no rewards</text>
+    <text xml:space="preserve">There are currently no rewards.</text>
   </message>
   <message>
     <key>REWARD_MSG_ALL_DELETE</key>
-    <text xml:space="preserve">Rewards have been sold</text>
+    <text xml:space="preserve">Rewards have been sold.</text>
   </message>
 </resource>

@@ -217,7 +217,7 @@ Total Price: &lt;VAL GOLD&gt;</text>
   </message>
   <message>
     <key>bazaar_msg_info_disp_tradingday</key>
-    <text xml:space="preserve">日付</text>
+    <text xml:space="preserve">Date</text>
   </message>
   <message>
     <key>bazaar_msg_info_disp_number</key>
@@ -250,7 +250,7 @@ Sales Tax(&lt;VAL&gt;%): &lt;VAL GOLD&gt;</text>
   </message>
   <message>
     <key>bazaar_msg_announce_exhibited</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; is now being exhibited</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; is now being exhibited.</text>
   </message>
   <message>
     <key>bazaar_msg_situation_en</key>
@@ -294,7 +294,7 @@ Sales Tax(&lt;VAL&gt;%): &lt;VAL GOLD&gt;</text>
   </message>
   <message>
     <key>bazaar_msg_announce_get_money</key>
-    <text xml:space="preserve">Received &lt;VAL GOLD&gt; from bazaar sales</text>
+    <text xml:space="preserve">Received &lt;VAL GOLD&gt; from bazaar sales.</text>
   </message>
   <message>
     <key>bazaar_msg_bt_stop</key>
@@ -315,7 +315,7 @@ Price: &lt;VAL GOLD&gt;</text>
   </message>
   <message>
     <key>bazaar_msg_announce_stop</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has been moved to storage</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; has been moved to storage.</text>
   </message>
   <message>
     <key>bazaar_msg_re_exhibit_set_unitprice</key>
@@ -332,15 +332,15 @@ Sales Tax(&lt;VAL&gt;%): &lt;VAL GOLD&gt;</text>
   </message>
   <message>
     <key>bazaar_msg_announce_re_exhibited</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has been re-exhibited</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; has been re-exhibited.</text>
   </message>
   <message>
     <key>bazaar_msg_announce_buy</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has been purchased</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; has been purchased.</text>
   </message>
   <message>
     <key>bazaar_msg_disp_search_info</key>
-    <text xml:space="preserve">左のメニューから検索してください</text>
+    <text xml:space="preserve">Please search using the menu to the left.</text>
   </message>
   <message>
     <key>bazaar_msg_disp_search_notfound</key>
@@ -348,31 +348,31 @@ Sales Tax(&lt;VAL&gt;%): &lt;VAL GOLD&gt;</text>
   </message>
   <message>
     <key>bazaar_msg_announce_error_buy</key>
-    <text xml:space="preserve">Failed to purchase</text>
+    <text xml:space="preserve">Failed to purchase.</text>
   </message>
   <message>
     <key>bazaar_msg_announce_error_exhibit</key>
-    <text xml:space="preserve">Failed to exhibit</text>
+    <text xml:space="preserve">Failed to exhibit.</text>
   </message>
   <message>
     <key>bazaar_msg_announce_error_stop</key>
-    <text xml:space="preserve">Failed to cancel</text>
+    <text xml:space="preserve">Failed to cancel.</text>
   </message>
   <message>
     <key>bazaar_msg_announce_error_info</key>
-    <text xml:space="preserve">Failed to get information</text>
+    <text xml:space="preserve">Failed to get information.</text>
   </message>
   <message>
     <key>bazaar_msg_announce_error_exhibit_over</key>
-    <text xml:space="preserve">You have 0 available exhibitions</text>
+    <text xml:space="preserve">You have 0 available exhibitions.</text>
   </message>
   <message>
     <key>bazaar_msg_announce_error_possession_full </key>
-    <text xml:space="preserve">You cannot purchase because there is no free space in the item bag or storage</text>
+    <text xml:space="preserve">You cannot purchase it because there is no free space in the item bag or storage.</text>
   </message>
   <message>
     <key>bazaar_msg_announce_error_stop_storage_full</key>
-    <text xml:space="preserve">You cannot purchase because there is no free space in storage</text>
+    <text xml:space="preserve">You cannot purchase it because there is no free space in storage.</text>
   </message>
   <message>
     <key>bazaar_msg_shortcut_exhibit</key>
@@ -380,7 +380,7 @@ Sales Tax(&lt;VAL&gt;%): &lt;VAL GOLD&gt;</text>
   </message>
   <message>
     <key>bazaar_msg_announce_error_bazaaritem0</key>
-    <text xml:space="preserve">There are no items that can be exhibited</text>
+    <text xml:space="preserve">There are no items that can be exhibited.</text>
   </message>
   <message>
     <key>bazaar_msg_disp_snatching_notfound</key>
@@ -392,6 +392,6 @@ or the exhibition was canceled)</text>
   </message>
   <message>
     <key>bazaar_msg_announce_many_search</key>
-    <text xml:space="preserve">There were too many results</text>
+    <text xml:space="preserve">There were too many results.</text>
   </message>
 </resource>

@@ -288,14 +288,14 @@ Rift Crystal Total: &lt;VAL RIM&gt;</text>
   </message>
   <message>
     <key>np_msg_state_preparation</key>
-    <text xml:space="preserve">開戦準備中</text>
+    <text xml:space="preserve">Preparing</text>
   </message>
   <message>
     <key>np_msg_state_ranking</key>
-    <text xml:space="preserve">戦果分析中</text>
+    <text xml:space="preserve">Veteran Analysis</text>
   </message>
   <message>
     <key>np_msg_state_receiving</key>
-    <text xml:space="preserve">報酬配分中</text>
+    <text xml:space="preserve">Reward Claim</text>
   </message>
 </resource>

@@ -173,7 +173,7 @@
   </message>
   <message>
     <key>HEADING_XP</key>
-    <text xml:space="preserve">Acquired Experience</text>
+    <text xml:space="preserve">Experience</text>
   </message>
   <message>
     <key>HEADING_NUMBER</key>
@@ -288,7 +288,8 @@ They acquired &lt;VAL&gt; crafting skill points.</text>
   </message>
   <message>
     <key>DIALOG_CONFIRM_POINT_ASSIGN</key>
-    <text xml:space="preserve">Do you want to allocate the crafting skill points?</text>
+    <text xml:space="preserve">Are you sure you want to allocate the
+crafting skill points?</text>
   </message>
   <message>
     <key>DIALOG_POINT_ASSIGN</key>
@@ -410,10 +411,12 @@ the crest in this slot?</text>
   <message>
     <key>TITLE_REMOVES_PARTY</key>
     <text xml:space="preserve">A selected pawn is in your party.
-Are you sure you want them to leave the party in order to craft?
+Are you sure you want them to leave the party
+in order to craft?
 
-&lt;COL aa1414&gt;If there is no main pawns in the party,
-　support pawns will automatically leave as well.&lt;/COL&gt;</text>
+&lt;COL aa1414&gt;If there are no main pawns in the party,
+support pawns will automatically leave
+as well.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>TITLE_REMOVES_PARTY_FAILURE</key>
@@ -599,7 +602,7 @@ Are you sure you want them to leave the party in order to craft?
   </message>
   <message>
     <key>HEADING_CUSTOMIZE_PAWN</key>
-    <text xml:space="preserve">クラフトポーン</text>
+    <text xml:space="preserve">Craft Pawn</text>
   </message>
   <message>
     <key>HEADING_CREST_ITEM</key>
@@ -791,7 +794,7 @@ Are you sure you want them to leave the party in order to craft?
   </message>
   <message>
     <key>CRAFT_BTGUID_DISPAWN</key>
-    <text xml:space="preserve">ポーンをはずす</text>
+    <text xml:space="preserve">Remove Pawn</text>
   </message>
   <message>
     <key>CRAFT_BTGUID_DISMATERIAL</key>
