@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ana_cmd_error</key>
-    <text xml:space="preserve">そのコマンドは実行できません</text>
+    <text xml:space="preserve">The command could not be executed.</text>
   </message>
   <message>
     <key>ana_mprofile_off</key>
@@ -10,7 +10,7 @@
   </message>
   <message>
     <key>ana_recv_invite_cancel</key>
-    <text xml:space="preserve">受け取ったパーティーの誘いは取り消されます</text>
+    <text xml:space="preserve">The party invite will be canceled.</text>
   </message>
   <message>
     <key>ana_party_remove_q</key>
@@ -746,31 +746,31 @@ everyone must approve in order to skip.</text>
   </message>
   <message>
     <key>ana_CHANGE_CLAN_MASTER_ERR_MYSELF</key>
-    <text xml:space="preserve">クランマスターに変更できません</text>
+    <text xml:space="preserve">You cannot change the Clan Master.</text>
   </message>
   <message>
     <key>ana_SET_CLAN_MEMBER_RANK_ERR_MYSELF</key>
-    <text xml:space="preserve">自分にはクランランクを設定できません</text>
+    <text xml:space="preserve">You cannot change your own clan rank.</text>
   </message>
   <message>
     <key>ana_FRIEND_ERR_MYSELF</key>
-    <text xml:space="preserve">自分にフレンド申請はだせません</text>
+    <text xml:space="preserve">You cannot send a friend request to yourself.</text>
   </message>
   <message>
     <key>ana_TELL_ERR_MYSELF</key>
-    <text xml:space="preserve">Tellは自分にできません</text>
+    <text xml:space="preserve">You cannot send a Tell to yourself.</text>
   </message>
   <message>
     <key>ana_AUTORUN_ERR_PAWN</key>
-    <text xml:space="preserve">ポーンを対象に追従オートランできません</text>
+    <text xml:space="preserve">You cannot use autorun on a pawn.</text>
   </message>
   <message>
     <key>ana_AUTORUN_ERR_MYSELF</key>
-    <text xml:space="preserve">自分を対象に追従オートランできません</text>
+    <text xml:space="preserve">You cannot use autorun on yourself.</text>
   </message>
   <message>
     <key>ana_AUTORUN_ERR_NO_PARTY</key>
-    <text xml:space="preserve">パーティーメンバー以外に追従オートランできません</text>
+    <text xml:space="preserve">You cannot use autorun on non-party members.</text>
   </message>
   <message>
     <key>ana_AUTORUN_ERR_NO_UNIT</key>
