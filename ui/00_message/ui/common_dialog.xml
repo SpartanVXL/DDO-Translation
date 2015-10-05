@@ -111,7 +111,7 @@ party invite for &lt;NAME TARGET&gt;?</text>
   </message>
   <message>
     <key>ana_party_no_mainpawn</key>
-    <text xml:space="preserve">メインポーンがいない状態ではサポートポーンはパーティーに入れられません</text>
+    <text xml:space="preserve">You cannot have a support pawn in the party with no main pawns.</text>
   </message>
   <message>
     <key>ana_party_pawn_invite_q</key>
