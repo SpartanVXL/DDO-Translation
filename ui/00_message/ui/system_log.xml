@@ -742,7 +742,7 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_mission_jp_get_ex</key>
-    <text xml:space="preserve">Gained &lt;VAL JP&gt;(+&lt;VAL&gt;).</text>
+    <text xml:space="preserve">Obtained &lt;VAL JP&gt; (+&lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_quest_pawn_xp_get</key>
@@ -926,14 +926,14 @@ When it exceeds capacity, the oldest reward will be lost.</text>
   </message>
   <message>
     <key>syslog_rentalpoint_get</key>
-    <text xml:space="preserve">You have received &lt;VAL RP&gt; rental points.</text>
+    <text xml:space="preserve">Obtained &lt;VAL RP&gt;.</text>
   </message>
   <message>
     <key>syslog_rentalpoint_get_ex</key>
-    <text xml:space="preserve">You have received &lt;VAL RP&gt;(+&lt;VAL&gt;) rental points.</text>
+    <text xml:space="preserve">Obtained &lt;VAL RP&gt; (+&lt;VAL&gt;).</text>
   </message>
   <message>
     <key>syslog_rentalpoint_lost</key>
-    <text xml:space="preserve">You have used &lt;VAL RP&gt; rental points.</text>
+    <text xml:space="preserve">Used &lt;VAL RP&gt;.</text>
   </message>
 </resource>
