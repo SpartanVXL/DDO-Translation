@@ -9,15 +9,15 @@
   </message>
   <message>
     <key>DELIVER_MSG_CAPTION_EN</key>
-    <text xml:space="preserve">Delivery Item</text>
+    <text xml:space="preserve">Item Delivery</text>
   </message>
   <message>
     <key>DELIVER_MSG_CAPTION_JP</key>
-    <text xml:space="preserve">納品アイテム</text>
+    <text xml:space="preserve">Item Delivery</text>
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_NOQUEST</key>
-    <text xml:space="preserve">There are no quest board orders that require a delivery</text>
+    <text xml:space="preserve">There are no quest board orders that require a delivery.</text>
   </message>
   <message>
     <key>DELIVER_MSG_LB_GOAL</key>
@@ -25,11 +25,11 @@
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_DELIVER</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; has been delivered</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; has been delivered.</text>
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_FINISH</key>
-    <text xml:space="preserve">「&lt;NAME QUEST&gt;」 has met its delivery requirement</text>
+    <text xml:space="preserve">「&lt;NAME QUEST&gt;」 has met its delivery requirement.</text>
   </message>
   <message>
     <key>DELIVER_MSG_BUTTON_FINISH</key>
