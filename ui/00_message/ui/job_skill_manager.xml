@@ -77,7 +77,7 @@
   </message>
   <message>
     <key>error_joblevel</key>
-    <text xml:space="preserve">Your job level is not high enough</text>
+    <text xml:space="preserve">Your job level is not high enough.</text>
   </message>
   <message>
     <key>error_jp</key>
@@ -139,11 +139,11 @@ to level it up?</text>
   </message>
   <message>
     <key>error_cost_over</key>
-    <text xml:space="preserve">You have reached maximum ability cost</text>
+    <text xml:space="preserve">You have reached maximum ability cost.</text>
   </message>
   <message>
     <key>error_set_already</key>
-    <text xml:space="preserve">That ability is already set</text>
+    <text xml:space="preserve">That ability is already set.</text>
   </message>
   <message>
     <key>ability_type_secret</key>
@@ -211,15 +211,15 @@ to level it up?</text>
   </message>
   <message>
     <key>job_change_error_capacity_over</key>
-    <text xml:space="preserve">Storage box is full</text>
+    <text xml:space="preserve">Your storage box is full.</text>
   </message>
   <message>
     <key>job_change_error_no_weapon</key>
-    <text xml:space="preserve">There is no available weapon</text>
+    <text xml:space="preserve">There is no available weapon.</text>
   </message>
   <message>
     <key>job_change_error_certain_reason</key>
-    <text xml:space="preserve">Failed to change job</text>
+    <text xml:space="preserve">Failed to change job.</text>
   </message>
   <message>
     <key>release_condition_master_subject</key>
