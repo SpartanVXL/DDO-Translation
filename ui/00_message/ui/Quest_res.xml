@@ -218,7 +218,7 @@
   </message>
   <message>
     <key>QUEST_MSG_ACCIDENTAL</key>
-    <text xml:space="preserve">エリアボーナス発生中！</text>
+    <text xml:space="preserve">Area bonus currently active!</text>
   </message>
   <message>
     <key>QUEST_MSG_PROGRESS_CONDITION</key>
@@ -383,6 +383,6 @@
   </message>
   <message>
     <key>QUEST_MSG_AREA_BONUS</key>
-    <text xml:space="preserve">＜&lt;VAL&gt;＞のボードクエストクリアで最大&lt;VAL&gt;倍！</text>
+    <text xml:space="preserve">＜&lt;VAL&gt;＞　board quest reward increased by &lt;VAL&gt;x!</text>
   </message>
 </resource>
