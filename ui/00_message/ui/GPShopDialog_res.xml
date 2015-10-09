@@ -5,7 +5,7 @@
   </message>
   <message>
     <key>OSD_index_jp</key>
-    <text xml:space="preserve">黄金石の確認</text>
+    <text xml:space="preserve">Check Stones</text>
   </message>
   <message>
     <key>OSD_tab_goldstone</key>
@@ -13,27 +13,27 @@
   </message>
   <message>
     <key>OSD_tab_effectivedate</key>
-    <text xml:space="preserve">有効期限</text>
+    <text xml:space="preserve">Expiration Date</text>
   </message>
   <message>
     <key>OSD_tab_gethistory</key>
-    <text xml:space="preserve">獲得履歴</text>
+    <text xml:space="preserve">Purchase History</text>
   </message>
   <message>
     <key>OSD_title_goldstone</key>
-    <text xml:space="preserve">所持黄金石</text>
+    <text xml:space="preserve">Golden Gemstone Total</text>
   </message>
   <message>
     <key>OSD_title_goldstone_items</key>
-    <text xml:space="preserve">所持黄金石の内訳</text>
+    <text xml:space="preserve">Breakdown of Gemstones</text>
   </message>
   <message>
     <key>OSD_title_goldstone_pay</key>
-    <text xml:space="preserve">購入分</text>
+    <text xml:space="preserve">Purchased</text>
   </message>
   <message>
     <key>OSD_title_goldstone_free</key>
-    <text xml:space="preserve">無料分</text>
+    <text xml:space="preserve">Free</text>
   </message>
   <message>
     <key>OSD_warning</key>
@@ -41,11 +41,11 @@
   </message>
   <message>
     <key>OSD_effectivedate_text1</key>
-    <text xml:space="preserve">黄金石の有効期限は、獲得から4か月後の月末までです</text>
+    <text xml:space="preserve">Gemstones expire at the end of the month, 4 months after purchase.</text>
   </message>
   <message>
     <key>OSD_effectivedate_text2</key>
-    <text xml:space="preserve">まで有効の黄金石</text>
+    <text xml:space="preserve">Gemstones expire</text>
   </message>
   <message>
     <key>OSD_date</key>
@@ -53,11 +53,11 @@
   </message>
   <message>
     <key>OSD_pay</key>
-    <text xml:space="preserve">購入分</text>
+    <text xml:space="preserve">Purchased</text>
   </message>
   <message>
     <key>OSD_free</key>
-    <text xml:space="preserve">無料分</text>
+    <text xml:space="preserve">Free</text>
   </message>
   <message>
     <key>OSD_eventcode_index_en</key>
@@ -89,7 +89,7 @@ currently logged in character.</text>
   </message>
   <message>
     <key>OSD_histry_information</key>
-    <text xml:space="preserve">最新50件(古い履歴から順に削除されます)</text>
+    <text xml:space="preserve">The last 50 entries are shown (Older entries are deleted)</text>
   </message>
   <message>
     <key>OSD_announce_disbuyable</key>
@@ -97,7 +97,7 @@ currently logged in character.</text>
   </message>
   <message>
     <key>OSD_msg_stampbornus</key>
-    <text xml:space="preserve">スタンプボーナス</text>
+    <text xml:space="preserve">Stamp Bonus</text>
   </message>
   <message>
     <key>OSD_msg_presents</key>
@@ -109,15 +109,15 @@ currently logged in character.</text>
   </message>
   <message>
     <key>OSD_notion_incomplete_input</key>
-    <text xml:space="preserve">全ての入力が終わらないと送信できません</text>
+    <text xml:space="preserve">Please finish entering the entire code.</text>
   </message>
   <message>
     <key>OSD_buy</key>
-    <text xml:space="preserve">オンラインショップで購入</text>
+    <text xml:space="preserve">Online Shop Purchase</text>
   </message>
   <message>
     <key>OSD_buy_by_bonus</key>
-    <text xml:space="preserve">オンラインショップで購入（ボーナス）</text>
+    <text xml:space="preserve">Online Shop Purchase (Bonus)</text>
   </message>
   <message>
     <key>OSD_recieve_by_mail</key>
@@ -125,10 +125,10 @@ currently logged in character.</text>
   </message>
   <message>
     <key>OSD_msg_loginbornus</key>
-    <text xml:space="preserve">ログインボーナス</text>
+    <text xml:space="preserve">Login Bonus</text>
   </message>
   <message>
     <key>OSD_msg_no_history</key>
-    <text xml:space="preserve">履歴はありません</text>
+    <text xml:space="preserve">There is no history.</text>
   </message>
 </resource>

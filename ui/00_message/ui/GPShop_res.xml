@@ -42,11 +42,11 @@
   </message>
   <message>
     <key>OS_status_title</key>
-    <text xml:space="preserve">黄金石ステータス</text>
+    <text xml:space="preserve">Golden Gemstone Status</text>
   </message>
   <message>
     <key>OS_status_bkbtn</key>
-    <text xml:space="preserve">黄金石ショップ</text>
+    <text xml:space="preserve">Golden Gemstone Shop</text>
   </message>
   <message>
     <key>OS_status_ticket</key>
@@ -62,11 +62,11 @@
   </message>
   <message>
     <key>OS_status_time_remaining</key>
-    <text xml:space="preserve">Expires：</text>
+    <text xml:space="preserve">Expires:</text>
   </message>
   <message>
     <key>OS_status_time</key>
-    <text xml:space="preserve">時間</text>
+    <text xml:space="preserve"> hours</text>
   </message>
   <message>
     <key>OS_status_newcourse</key>
@@ -87,20 +87,20 @@
   </message>
   <message>
     <key>OS_buy_goldstone</key>
-    <text xml:space="preserve">黄金石 &lt;VAL&gt; 個を &lt;VAL CAP&gt;で購入します
-よろしいですか？</text>
+    <text xml:space="preserve">Are you sure you want to purchase &lt;VAL&gt;
+Golden Gemstones with &lt;VAL CAP&gt;?</text>
   </message>
   <message>
     <key>OS_btn_ok</key>
-    <text xml:space="preserve">購入</text>
+    <text xml:space="preserve">Buy</text>
   </message>
   <message>
     <key>OS_btn_ng</key>
-    <text xml:space="preserve">キャンセル</text>
+    <text xml:space="preserve">Cancel</text>
   </message>
   <message>
     <key>OS_catalog_pickup</key>
-    <text xml:space="preserve">ピックアップ</text>
+    <text xml:space="preserve">Pickup</text>
   </message>
   <message>
     <key>OS_catalog_option</key>
@@ -112,7 +112,7 @@
   </message>
   <message>
     <key>OS_status_time_remaining_day</key>
-    <text xml:space="preserve">日</text>
+    <text xml:space="preserve"> days</text>
   </message>
   <message>
     <key>OS_date</key>
@@ -124,20 +124,20 @@
   </message>
   <message>
     <key>OS_used_btn</key>
-    <text xml:space="preserve">使用中</text>
+    <text xml:space="preserve">Active</text>
   </message>
   <message>
     <key>OS_use_btn</key>
-    <text xml:space="preserve">使用</text>
+    <text xml:space="preserve">Use</text>
   </message>
   <message>
     <key>OS_use_confirm</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;をいますぐ使用しますか？</text>
+    <text xml:space="preserve">Do you want to use &lt;NAME ITEM&gt; right now?</text>
   </message>
   <message>
     <key>OS_use_item</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;を使用します
-よろしいですか？</text>
+    <text xml:space="preserve">&lt;NAME ITEM&gt; will be used.
+Is this okay?</text>
   </message>
   <message>
     <key>OS_goldstone_num</key>
@@ -145,7 +145,7 @@
   </message>
   <message>
     <key>OS_announce_buy_item</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; を購入しました</text>
+    <text xml:space="preserve">&lt;NAME ETC&gt; has been purchased.</text>
   </message>
   <message>
     <key>OS_announce_buy_use_item</key>
@@ -153,11 +153,11 @@
   </message>
   <message>
     <key>OS_announce_buy_gs</key>
-    <text xml:space="preserve">黄金石 &lt;VAL&gt; 個を購入しました</text>
+    <text xml:space="preserve">Purchased &lt;VAL&gt; Golden Gemstones.</text>
   </message>
   <message>
     <key>OS_announce_use_item</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; を使用しました</text>
+    <text xml:space="preserve">&lt;NAME ETC&gt; has been used.</text>
   </message>
   <message>
     <key>OS_announce_voice</key>
@@ -165,7 +165,7 @@
   </message>
   <message>
     <key>OS_announce_buy</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; を購入しました</text>
+    <text xml:space="preserve">&lt;NAME ETC&gt; has been purchased.</text>
   </message>
   <message>
     <key>OS_announce_buyanduse</key>
@@ -177,19 +177,19 @@
   </message>
   <message>
     <key>OS_announce_use</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; を使用しました</text>
+    <text xml:space="preserve">&lt;NAME ETC&gt; has been used.</text>
   </message>
   <message>
     <key>OS_announce_havingnum</key>
-    <text xml:space="preserve">所持数：&lt;VAL&gt;</text>
+    <text xml:space="preserve">You have: &lt;VAL&gt;</text>
   </message>
   <message>
     <key>OS_announce_gpdialog</key>
-    <text xml:space="preserve">黄金石の確認</text>
+    <text xml:space="preserve">Check Stones</text>
   </message>
   <message>
     <key>OS_catalog_collabo</key>
-    <text xml:space="preserve">コラボレーション装備</text>
+    <text xml:space="preserve">Collaboration Equipment</text>
   </message>
   <message>
     <key>OS_buy_cap</key>
@@ -209,11 +209,11 @@
   </message>
   <message>
     <key>OS_histry_information</key>
-    <text xml:space="preserve">最新50件(古い履歴から順に削除されます)</text>
+    <text xml:space="preserve">The last 50 entries are shown (Older entries are deleted)</text>
   </message>
   <message>
     <key>OS_annnounce_nocap</key>
-    <text xml:space="preserve">戦闘中にCAPの購入はできません</text>
+    <text xml:space="preserve">You cannot purchase CAP while in combat.</text>
   </message>
   <message>
     <key>OS_annnounce_multi_option</key>
@@ -225,21 +225,21 @@
   </message>
   <message>
     <key>OS_annnounce_for_itempost</key>
-    <text xml:space="preserve">装備・アイテムの受け取りは
-アイテムポストをご確認ください</text>
+    <text xml:space="preserve">You have received the equipment/items.
+Please check your item post.</text>
   </message>
   <message>
     <key>OS_annnounce_for_rimstone</key>
-    <text xml:space="preserve">クラフトマスターポーンのご利用は
-リムストーンで行えます</text>
+    <text xml:space="preserve">Craft Master pawns can be used
+from the Rift Stone.</text>
   </message>
   <message>
     <key>OS_annnounce_for_beautyshop</key>
-    <text xml:space="preserve">ポーンボイスの設定は美容院で行えます</text>
+    <text xml:space="preserve">Pawn voice can be changed in the Beauty Salon.</text>
   </message>
   <message>
     <key>OS_activetetimer_remaining</key>
-    <text xml:space="preserve">有効期限：</text>
+    <text xml:space="preserve">Expires:</text>
   </message>
   <message>
     <key>OS_index_category</key>
@@ -251,7 +251,7 @@
   </message>
   <message>
     <key>OS_index_active</key>
-    <text xml:space="preserve">発動中</text>
+    <text xml:space="preserve">Active</text>
   </message>
   <message>
     <key>OS_index_caption</key>
@@ -259,7 +259,7 @@
   </message>
   <message>
     <key>OS_index_price</key>
-    <text xml:space="preserve">価格：</text>
+    <text xml:space="preserve">Price:</text>
   </message>
   <message>
     <key>OS_index_yen</key>
@@ -319,7 +319,7 @@
   </message>
   <message>
     <key>OS_index_none</key>
-    <text xml:space="preserve">なし</text>
+    <text xml:space="preserve">None</text>
   </message>
   <message>
     <key>OS_catalog_pawn2</key>
@@ -343,11 +343,11 @@
   </message>
   <message>
     <key>OS_index_mode_browser</key>
-    <text xml:space="preserve">ブラウザ操作</text>
+    <text xml:space="preserve">Use Browser</text>
   </message>
   <message>
     <key>OS_index_mode_shop</key>
-    <text xml:space="preserve">ショップ操作</text>
+    <text xml:space="preserve">Use Shop</text>
   </message>
   <message>
     <key>OS_annnounce_nocap1</key>
