@@ -245,47 +245,47 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TOTALVALUE</key>
-    <text xml:space="preserve">総合評価</text>
+    <text xml:space="preserve">Comprehensive Evaluation</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_RENTALNUM</key>
-    <text xml:space="preserve">レンタル回数</text>
+    <text xml:space="preserve">Rental Total</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_BATTLENUM</key>
-    <text xml:space="preserve">敵の討伐数</text>
+    <text xml:space="preserve">Enemies Defeated</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CRAFTNUM</key>
-    <text xml:space="preserve">クラフト回数</text>
+    <text xml:space="preserve">Craft Total</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_LOOKSVALUE</key>
-    <text xml:space="preserve">外見平均評価</text>
+    <text xml:space="preserve">Average Appearance Rating</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_BATTLEVALUE</key>
-    <text xml:space="preserve">冒険平均評価</text>
+    <text xml:space="preserve">Average Combat Rating</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CRAFTVALUE</key>
-    <text xml:space="preserve">クラフト平均評価</text>
+    <text xml:space="preserve">Average Craft Rating</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_EDITPROFILE</key>
-    <text xml:space="preserve">プロフィールの編集</text>
+    <text xml:space="preserve">Edit Profile</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANGEBG</key>
-    <text xml:space="preserve">背景の変更</text>
+    <text xml:space="preserve">Change Background</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANGEPOSE</key>
-    <text xml:space="preserve">ポーズの変更</text>
+    <text xml:space="preserve">Change Pose</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANGEMYTITLE</key>
-    <text xml:space="preserve">称号の変更</text>
+    <text xml:space="preserve">Change Title</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HISTORY</key>
@@ -305,11 +305,11 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TITLE</key>
-    <text xml:space="preserve">称号</text>
+    <text xml:space="preserve">Title</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOTITLE</key>
-    <text xml:space="preserve">称号設定なし</text>
+    <text xml:space="preserve">No Title Set</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_INVITEPARTY</key>
@@ -317,7 +317,7 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HISTORYGETACHIEVE</key>
-    <text xml:space="preserve">&lt;VAL&gt; を獲得しました</text>
+    <text xml:space="preserve">Achievement &lt;VAL&gt; was earned.</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ACHIEVEMENT</key>
@@ -329,11 +329,11 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_BATTLEUSENUM</key>
-    <text xml:space="preserve">残り冒険回数</text>
+    <text xml:space="preserve">Remaining Adventures</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CRAFTUSENUM</key>
-    <text xml:space="preserve">残りクラフト回数</text>
+    <text xml:space="preserve">Remaining Crafts</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_RENTALVALUE</key>
@@ -341,7 +341,7 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOWRENTAL</key>
-    <text xml:space="preserve">レンタル中</text>
+    <text xml:space="preserve">Currently Renting</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SENID</key>
@@ -353,11 +353,11 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PT_OK</key>
-    <text xml:space="preserve">許可する</text>
+    <text xml:space="preserve">Allowed</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PT_NG</key>
-    <text xml:space="preserve">許可しない</text>
+    <text xml:space="preserve">Disallowed</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NLV</key>
@@ -369,11 +369,11 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOHISTORY</key>
-    <text xml:space="preserve">履歴はありません</text>
+    <text xml:space="preserve">There is no history.</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_RENTALHISTORY</key>
-    <text xml:space="preserve">レンタル履歴</text>
+    <text xml:space="preserve">Rental History</text>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_DATING</key>

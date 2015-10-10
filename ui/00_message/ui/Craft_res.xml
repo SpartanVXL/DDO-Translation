@@ -177,7 +177,7 @@
   </message>
   <message>
     <key>HEADING_NUMBER</key>
-    <text xml:space="preserve">Crafted Quantity</text>
+    <text xml:space="preserve">Quantity</text>
   </message>
   <message>
     <key>ROW_MATERIAL</key>
@@ -217,7 +217,7 @@
   </message>
   <message>
     <key>GUIDE_CHANGE_COLOR</key>
-    <text xml:space="preserve">Please select the equipment you want to change the color of.</text>
+    <text xml:space="preserve">Please select the equipment you want to color change.</text>
   </message>
   <message>
     <key>TITLE_PROGRESS_LIST</key>
@@ -262,7 +262,7 @@ has gained &lt;VAL XP&gt; craft experience.</text>
   </message>
   <message>
     <key>HEADING_REMAIN</key>
-    <text xml:space="preserve">残りポイント</text>
+    <text xml:space="preserve">Remaining Points</text>
   </message>
   <message>
     <key>TITLE_POINT_ASSIGN</key>
@@ -630,7 +630,7 @@ as well.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>GUIDE_SELECT_LEADER_PAWN</key>
-    <text xml:space="preserve">Please select a craft leader from main pawns.</text>
+    <text xml:space="preserve">Please select a craft leader from your main pawns.</text>
   </message>
   <message>
     <key>GUIDE_SELECT_ASSISTANT_PAWN</key>
@@ -714,11 +714,11 @@ as well.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_STRENGTH_WEP</key>
-    <text xml:space="preserve">Refining Material (Weapons)</text>
+    <text xml:space="preserve">Refine (Weapon)</text>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_STRENGTH_ARMOR</key>
-    <text xml:space="preserve">Refining Material (Armor)</text>
+    <text xml:space="preserve">Refine (Armor)</text>
   </message>
   <message>
     <key>ROW_MAKE</key>
@@ -766,7 +766,7 @@ as well.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CRAFT_COLOR_EQUIP_NOTHING</key>
-    <text xml:space="preserve">There is no equipment that can have its color changed.</text>
+    <text xml:space="preserve">There is no equipment that can be color changed.</text>
   </message>
   <message>
     <key>CRAFT_CREST_EQUIP_NOTHING</key>
@@ -790,7 +790,7 @@ as well.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CRAFT_MAKING_NOTHING</key>
-    <text xml:space="preserve">作成中のアイテムはありません</text>
+    <text xml:space="preserve">There are no items being crafted.</text>
   </message>
   <message>
     <key>CRAFT_BTGUID_DISPAWN</key>
@@ -818,14 +818,14 @@ as well.&lt;/COL&gt;</text>
   </message>
   <message>
     <key>TAB_CLASS_UP_EXAM</key>
-    <text xml:space="preserve">昇格試験</text>
+    <text xml:space="preserve">Promotion</text>
   </message>
   <message>
     <key>CATEGORY_CLASS_UP_EXAM</key>
-    <text xml:space="preserve">試験一覧</text>
+    <text xml:space="preserve">Promotion</text>
   </message>
   <message>
     <key>MSG_NO_CLASS_UP_EXAM</key>
-    <text xml:space="preserve">昇格試験がありません</text>
+    <text xml:space="preserve">There is currently no promotion test.</text>
   </message>
 </resource>

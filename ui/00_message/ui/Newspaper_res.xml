@@ -13,11 +13,11 @@
   </message>
   <message>
     <key>np_msg_menutitle_area</key>
-    <text xml:space="preserve">エリア選択メニュー</text>
+    <text xml:space="preserve">Area Select Menu</text>
   </message>
   <message>
     <key>np_msg_text_area</key>
-    <text xml:space="preserve">エリア選択</text>
+    <text xml:space="preserve">Area Select</text>
   </message>
   <message>
     <key>np_msg_category_news</key>
@@ -241,38 +241,40 @@ Rift Crystal Total: &lt;VAL RIM&gt;</text>
   </message>
   <message>
     <key>np_msg_dailybonus</key>
-    <text xml:space="preserve">■&lt;COL ffdc78&gt;《本日のパーティーボーナス》&lt;/COL&gt;詳細
+    <text xml:space="preserve">■&lt;COL ffdc78&gt;"Today's Party Bonus"&lt;/COL&gt; details
 
-＜ボーナス発生条件＞
-　・対象のワールドクエストを他のプレイヤーと
-　　パーティーを組んで&lt;VAL&gt;回クリア
-　　（ポーンとの混成パーティーＯＫ）
+＜Bonus Condition＞
+　・Complete the target World Quest with other players.
+　　With a full party, clear the quest &lt;VAL&gt; times.
+　　(Hybrid party with players and pawns is OK)
 
-＜ボーナス内容＞
-　・クエスト報酬（XP/G/R/AP）にボーナス倍率
-　・レベルや進行度の差による報酬ペナルティ無効
+＜Bonus Content＞
+　・The quest reward (XP/G/R/AP) will be increased.
+　・The bonus may be penalized/disabled if level difference is high/quests are not
+   on the same progress.
 
-　※対象クエストはデイリーで変化します
-　※各クエストの受注画面、ログの報酬欄にて
-　　ボーナス詳細が確認できます</text>
+　※Target quest will change daily.
+　※Within the quest log, you can check
+　　the details of the bonuses.</text>
   </message>
   <message>
     <key>np_msg_dailybonus_bo</key>
-    <text xml:space="preserve">■&lt;COL ffdc78&gt;《本日のパーティーボーナス》&lt;/COL&gt;詳細
+    <text xml:space="preserve">■&lt;COL ffdc78&gt;"Today's Party Bonus"&lt;/COL&gt; details
 
-＜ボーナス発生条件＞
-　・対象のワールドクエストを他のプレイヤーと
-　　パーティーを組んで&lt;VAL&gt;回クリア
-　　（ポーンとの混成パーティーＯＫ）
+＜Bonus Condition＞
+　・Complete the target World Quest with other players.
+　　With a full party, clear the quest &lt;VAL&gt; times.
+　　(Hybrid party with players and pawns is OK)
 
-＜ボーナス内容＞
-　&lt;COL ffdc78&gt;★本日は《ブラッドオーブ&lt;/COL&gt;&lt;VAL BO&gt;&lt;COL ffdc78&gt;》追加！&lt;/COL&gt;
-　・クエスト報酬（XP/G/R/AP）にボーナス倍率
-　・レベルや進行度の差による報酬ペナルティ無効
+＜Bonus Content＞
+　&lt;COL ffdc78&gt;★Today, 《&lt;/COL&gt;&lt;VAL BO&gt;&lt;COL ffdc78&gt; blood orbs》 will be added!&lt;/COL&gt;
+　・The quest reward (XP/G/R/AP) will be increased.
+　・The bonus may be penalized/disabled if level difference is high/quests are not
+   on the same progress.
 
-　※対象クエストはデイリーで変化します
-　※各クエストの受注画面、ログの報酬欄にて
-　　ボーナス詳細が確認できます</text>
+　※Target quest will change daily.
+　※Within the quest log, you can check
+　　the details of the bonuses.</text>
   </message>
   <message>
     <key>np_msg_guide_partybonus</key>
