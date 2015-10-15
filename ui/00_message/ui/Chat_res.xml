@@ -1,74 +1,89 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>MSG_EDITCHNAME</key>
-    <text xml:space="preserve">Enter channel name</text>
+    <original xml:space="preserve">チャンネル名を入力してください</original>
+    <translation xml:space="preserve">Enter channel name</translation>
   </message>
   <message>
     <key>MSG_RESIZE_J</key>
-    <text xml:space="preserve">Resize</text>
+    <original xml:space="preserve">ウィンドウ拡縮</original>
+    <translation xml:space="preserve">Resize</translation>
   </message>
   <message>
     <key>MSG_FLTRDEL</key>
-    <text xml:space="preserve">Are you sure you want to delete this channel?</text>
+    <original xml:space="preserve">このチャンネルを削除しますか？</original>
+    <translation xml:space="preserve">Are you sure you want to delete this channel?</translation>
   </message>
   <message>
     <key>MSG_NOTABLEADDCH</key>
-    <text xml:space="preserve">You cannot add anymore channels</text>
+    <original xml:space="preserve">これ以上チャンネルを追加できません</original>
+    <translation xml:space="preserve">You cannot add anymore channels</translation>
   </message>
   <message>
     <key>MSG_EDIT</key>
-    <text xml:space="preserve">Edit</text>
+    <original xml:space="preserve">再編集</original>
+    <translation xml:space="preserve">Edit</translation>
   </message>
   <message>
     <key>MSG_DELCH</key>
-    <text xml:space="preserve">Delete Channel</text>
+    <original xml:space="preserve">チャンネルの削除</original>
+    <translation xml:space="preserve">Delete Channel</translation>
   </message>
   <message>
     <key>MSG_GUIDE_EDTICH_J</key>
-    <text xml:space="preserve">チャンネルの編集</text>
+    <original xml:space="preserve">チャンネルの編集</original>
   </message>
   <message>
     <key>MSG_EDITCH</key>
-    <text xml:space="preserve">Edit Channel</text>
+    <original xml:space="preserve">チャンネルの設定変更</original>
+    <translation xml:space="preserve">Edit Channel</translation>
   </message>
   <message>
     <key>MSG_SETFILTER</key>
-    <text xml:space="preserve">Set channel filter</text>
+    <original xml:space="preserve">フィルターを設定してください</original>
+    <translation xml:space="preserve">Set channel filter</translation>
   </message>
   <message>
     <key>MSG_SELECT_J</key>
-    <text xml:space="preserve">Select</text>
+    <original xml:space="preserve">選択</original>
+    <translation xml:space="preserve">Select</translation>
   </message>
   <message>
     <key>MSG_SENDMSG_J</key>
-    <text xml:space="preserve">Send</text>
+    <original xml:space="preserve">発言</original>
+    <translation xml:space="preserve">Send</translation>
   </message>
   <message>
     <key>MSG_RECORD_J</key>
-    <text xml:space="preserve">History</text>
+    <original xml:space="preserve">履歴</original>
+    <translation xml:space="preserve">History</translation>
   </message>
   <message>
     <key>MSG_NONAME</key>
-    <text xml:space="preserve">You must enter a channel name</text>
+    <original xml:space="preserve">名前が入力されていません</original>
+    <translation xml:space="preserve">You must enter a channel name</translation>
   </message>
   <message>
     <key>MSG_VIEWLOG</key>
-    <text xml:space="preserve">View Log</text>
+    <original xml:space="preserve">ログ参照</original>
+    <translation xml:space="preserve">View Log</translation>
   </message>
   <message>
     <key>MSG_INPUTSTART</key>
-    <text xml:space="preserve">Input</text>
+    <original xml:space="preserve">入力</original>
+    <translation xml:space="preserve">Input</translation>
   </message>
   <message>
     <key>MSG_CHEDIT</key>
-    <text xml:space="preserve">チャンネルの編集</text>
+    <original xml:space="preserve">チャンネルの編集</original>
   </message>
   <message>
     <key>MSG_CHATMODE</key>
-    <text xml:space="preserve">Chat Mode</text>
+    <original xml:space="preserve">チャットモード</original>
+    <translation xml:space="preserve">Chat Mode</translation>
   </message>
   <message>
     <key>CHAT_MSG_INPUTMODE_JP</key>
-    <text xml:space="preserve">あ</text>
+    <original xml:space="preserve">あ</original>
   </message>
 </resource>

@@ -1,162 +1,162 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pop_cmd_close</key>
-    <text xml:space="preserve">閉じる</text>
+    <original xml:space="preserve">閉じる</original>
   </message>
   <message>
     <key>pop_cmd_profile</key>
-    <text xml:space="preserve">プロフィール表示</text>
+    <original xml:space="preserve">プロフィール表示</original>
   </message>
   <message>
     <key>pop_cmd_status</key>
-    <text xml:space="preserve">ステータス表示</text>
+    <original xml:space="preserve">ステータス表示</original>
   </message>
   <message>
     <key>pop_cmd_talk</key>
-    <text xml:space="preserve">話しかける</text>
+    <original xml:space="preserve">話しかける</original>
   </message>
   <message>
     <key>pop_cmd_friend_request</key>
-    <text xml:space="preserve">フレンド申請</text>
+    <original xml:space="preserve">フレンド申請</original>
   </message>
   <message>
     <key>pop_cmd_party_kick</key>
-    <text xml:space="preserve">パーティーから外す</text>
+    <original xml:space="preserve">パーティーから外す</original>
   </message>
   <message>
     <key>pop_cmd_party_reader</key>
-    <text xml:space="preserve">パーティーリーダーに設定</text>
+    <original xml:space="preserve">パーティーリーダーに設定</original>
   </message>
   <message>
     <key>pop_cmd_party_request_cancel</key>
-    <text xml:space="preserve">要請取り消し</text>
+    <original xml:space="preserve">要請取り消し</original>
   </message>
   <message>
     <key>pop_cmd_party_request</key>
-    <text xml:space="preserve">パーティー要請</text>
+    <original xml:space="preserve">パーティー要請</original>
   </message>
   <message>
     <key>pop_cmd_party_status</key>
-    <text xml:space="preserve">パーティー詳細表示</text>
+    <original xml:space="preserve">パーティー詳細表示</original>
   </message>
   <message>
     <key>pop_cmd_participation</key>
-    <text xml:space="preserve">参加する</text>
+    <original xml:space="preserve">参加する</original>
   </message>
   <message>
     <key>pop_cmd_refuse</key>
-    <text xml:space="preserve">断る</text>
+    <original xml:space="preserve">断る</original>
   </message>
   <message>
     <key>pop_cmd_subscription_application</key>
-    <text xml:space="preserve">加入申請</text>
+    <original xml:space="preserve">加入申請</original>
   </message>
   <message>
     <key>pop_cmd_subscription_application_cancel</key>
-    <text xml:space="preserve">加入申請取り消し</text>
+    <original xml:space="preserve">加入申請取り消し</original>
   </message>
   <message>
     <key>pop_cmd_join_permit</key>
-    <text xml:space="preserve">加入許可</text>
+    <original xml:space="preserve">加入許可</original>
   </message>
   <message>
     <key>pop_cmd_join_denial</key>
-    <text xml:space="preserve">加入拒否</text>
+    <original xml:space="preserve">加入拒否</original>
   </message>
   <message>
     <key>pop_cmd_clan_status</key>
-    <text xml:space="preserve">クラン詳細情報</text>
+    <original xml:space="preserve">クラン詳細情報</original>
   </message>
   <message>
     <key>pop_cmd_clan_solicitation</key>
-    <text xml:space="preserve">クランに勧誘する</text>
+    <original xml:space="preserve">クランに勧誘する</original>
   </message>
   <message>
     <key>pop_cmd_clan_solicitation_cancel</key>
-    <text xml:space="preserve">クラン勧誘取り消し</text>
+    <original xml:space="preserve">クラン勧誘取り消し</original>
   </message>
   <message>
     <key>pop_cmd_clan_solicitation_receive</key>
-    <text xml:space="preserve">クラン勧誘を受ける</text>
+    <original xml:space="preserve">クラン勧誘を受ける</original>
   </message>
   <message>
     <key>pop_cmd_clan_solicitation_denial</key>
-    <text xml:space="preserve">クラン勧誘を拒否する</text>
+    <original xml:space="preserve">クラン勧誘を拒否する</original>
   </message>
   <message>
     <key>pop_cmd_friend_request_cancel</key>
-    <text xml:space="preserve">フレンド申請キャンセル</text>
+    <original xml:space="preserve">フレンド申請キャンセル</original>
   </message>
   <message>
     <key>pop_cmd_friend_request_permit</key>
-    <text xml:space="preserve">フレンド申請許可</text>
+    <original xml:space="preserve">フレンド申請許可</original>
   </message>
   <message>
     <key>pop_cmd_friend_request_denial</key>
-    <text xml:space="preserve">フレンド申請拒否</text>
+    <original xml:space="preserve">フレンド申請拒否</original>
   </message>
   <message>
     <key>pop_cmd_friend_release</key>
-    <text xml:space="preserve">フレンド解除</text>
+    <original xml:space="preserve">フレンド解除</original>
   </message>
   <message>
     <key>pop_cmd_favorites_friend</key>
-    <text xml:space="preserve">お気に入りフレンド設定/解除</text>
+    <original xml:space="preserve">お気に入りフレンド設定/解除</original>
   </message>
   <message>
     <key>pop_cmd_favorites_register</key>
-    <text xml:space="preserve">お気に入り登録</text>
+    <original xml:space="preserve">お気に入り登録</original>
   </message>
   <message>
     <key>pop_cmd_favorites_release</key>
-    <text xml:space="preserve">お気に入り解除</text>
+    <original xml:space="preserve">お気に入り解除</original>
   </message>
   <message>
     <key>pop_cmd_pawn_employment</key>
-    <text xml:space="preserve">ポーンの雇用</text>
+    <original xml:space="preserve">ポーンの雇用</original>
   </message>
   <message>
     <key>pop_cmd_pawn_reaction</key>
-    <text xml:space="preserve">ポーンのリアクション設定</text>
+    <original xml:space="preserve">ポーンのリアクション設定</original>
   </message>
   <message>
     <key>pop_cmd_pawn_delete</key>
-    <text xml:space="preserve">ポーンの削除</text>
+    <original xml:space="preserve">ポーンの削除</original>
   </message>
   <message>
     <key>pop_cmd_pawn_visibility</key>
-    <text xml:space="preserve">ポーンの公開設定</text>
+    <original xml:space="preserve">ポーンの公開設定</original>
   </message>
   <message>
     <key>pop_cmd_pawn_rental_history</key>
-    <text xml:space="preserve">レンタル履歴</text>
+    <original xml:space="preserve">レンタル履歴</original>
   </message>
   <message>
     <key>pop_cmd_pawn_dismissal</key>
-    <text xml:space="preserve">ポーンの返却</text>
+    <original xml:space="preserve">ポーンの返却</original>
   </message>
   <message>
     <key>pop_cmd_card_pl</key>
-    <text xml:space="preserve">覚者プロフィール</text>
+    <original xml:space="preserve">覚者プロフィール</original>
   </message>
   <message>
     <key>pop_cmd_group_chat_invite</key>
-    <text xml:space="preserve">グループチャットに誘う</text>
+    <original xml:space="preserve">グループチャットに誘う</original>
   </message>
   <message>
     <key>pop_cmd_group_chat_kick</key>
-    <text xml:space="preserve">グループチャットから外す</text>
+    <original xml:space="preserve">グループチャットから外す</original>
   </message>
   <message>
     <key>pop_cmd_keep_up_autorun</key>
-    <text xml:space="preserve">追従オートラン</text>
+    <original xml:space="preserve">追従オートラン</original>
   </message>
   <message>
     <key>pop_cmd_blacklist_add</key>
-    <text xml:space="preserve">ブラックリスト追加</text>
+    <original xml:space="preserve">ブラックリスト追加</original>
   </message>
   <message>
     <key>pop_cmd_blacklist_delete</key>
-    <text xml:space="preserve">ブラックリスト削除</text>
+    <original xml:space="preserve">ブラックリスト削除</original>
   </message>
 </resource>

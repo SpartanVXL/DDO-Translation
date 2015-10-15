@@ -1,90 +1,103 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>JMMH_MSG_ALLTASK_CLEAR_STR</key>
-    <text xml:space="preserve">Challenge finished and reported to the Job Master.</text>
+    <original xml:space="preserve">課題を達成し、ジョブマスターに報告しました</original>
+    <translation xml:space="preserve">Challenge finished and reported to the Job Master.</translation>
   </message>
   <message>
     <key>JMMH_MSG_LV_STR</key>
-    <text xml:space="preserve">LV.</text>
+    <original xml:space="preserve">LV.</original>
   </message>
   <message>
     <key>JMMH_MSG_TASK_STR</key>
-    <text xml:space="preserve">Report to the &lt;VAL&gt; Job Master to finish training.</text>
+    <original xml:space="preserve">&lt;VAL&gt;で課題を達成し、ジョブマスターに報告せよ</original>
+    <translation xml:space="preserve">Report to the &lt;VAL&gt; Job Master to finish training.</translation>
   </message>
   <message>
     <key>JMMH_MSG_SLASH_STR</key>
-    <text xml:space="preserve">/</text>
+    <original xml:space="preserve">/</original>
   </message>
   <message>
     <key>JMMH_MSG_BEAT_STR</key>
-    <text xml:space="preserve">Defeat at minimum &lt;VAL LV&gt; &lt;NAME ENEMY&gt;!</text>
+    <original xml:space="preserve">&lt;VAL LV&gt;以上の&lt;NAME ENEMY&gt;を倒せ！</original>
+    <translation xml:space="preserve">Defeat at minimum &lt;VAL LV&gt; &lt;NAME ENEMY&gt;!</translation>
   </message>
   <message>
     <key>JMMH_MSG_EQUIP_STR</key>
-    <text xml:space="preserve">を装備しろ！</text>
+    <original xml:space="preserve">を装備しろ！</original>
   </message>
   <message>
     <key>JMMH_MSG_MAX_STR</key>
-    <text xml:space="preserve">MAX</text>
+    <original xml:space="preserve">MAX</original>
   </message>
   <message>
     <key>JMMH_MSG_JOB_MASTER_STR</key>
-    <text xml:space="preserve">Job Master</text>
+    <original xml:space="preserve">Job Master</original>
   </message>
   <message>
     <key>JMMH_MSG_JOB_MASTER_STR_JP</key>
-    <text xml:space="preserve">Job Master</text>
+    <original xml:space="preserve">ジョブマスター</original>
+    <translation xml:space="preserve">Job Master</translation>
   </message>
   <message>
     <key>JMMH_MSG_MASTER_HB_STR_JP</key>
-    <text xml:space="preserve">Job Training Log</text>
+    <original xml:space="preserve">ジョブ修練ログ</original>
+    <translation xml:space="preserve">Job Training Log</translation>
   </message>
   <message>
     <key>JMMH_MSG_LV_STR_2</key>
-    <text xml:space="preserve">Level</text>
+    <original xml:space="preserve">Level</original>
   </message>
   <message>
     <key>JMMH_MSG_CUSTOM_SKILL_STR</key>
-    <text xml:space="preserve">Custom Skills</text>
+    <original xml:space="preserve">カスタムスキル</original>
+    <translation xml:space="preserve">Custom Skills</translation>
   </message>
   <message>
     <key>JMMH_MSG_ABILITY_STR</key>
-    <text xml:space="preserve">Abilities</text>
+    <original xml:space="preserve">アビリティ</original>
+    <translation xml:space="preserve">Abilities</translation>
   </message>
   <message>
     <key>JMMH_MSG_NEXT_STR</key>
-    <text xml:space="preserve">Next</text>
+    <original xml:space="preserve">Next</original>
   </message>
   <message>
     <key>JOBEXAM_MSG_DECIDE_STR</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">OK</original>
   </message>
   <message>
     <key>JOBEXAM_MSG_SKILLGET_STR</key>
-    <text xml:space="preserve">&lt;NAME SKILL&gt; is ready to learn</text>
+    <original xml:space="preserve">&lt;NAME SKILL&gt;の習得を認められた</original>
+    <translation xml:space="preserve">&lt;NAME SKILL&gt; is ready to learn</translation>
   </message>
   <message>
     <key>JOBEXAM_MSG_ABILITYGET_STR</key>
-    <text xml:space="preserve">&lt;NAME ABILITY&gt; is ready to learn</text>
+    <original xml:space="preserve">&lt;NAME ABILITY&gt;の習得を認められた</original>
+    <translation xml:space="preserve">&lt;NAME ABILITY&gt; is ready to learn</translation>
   </message>
   <message>
     <key>JMMH_MSG_ENEMY_LEVEL_STR</key>
-    <text xml:space="preserve">Defeat blood orb enemies!</text>
+    <original xml:space="preserve">以上のオーブエネミーを倒せ！</original>
+    <translation xml:space="preserve">Defeat blood orb enemies!</translation>
   </message>
   <message>
     <key>JMMH_MSG_MASTER_HB_STR</key>
-    <text xml:space="preserve">Training Note</text>
+    <original xml:space="preserve">Training Note</original>
   </message>
   <message>
     <key>JMMH_MSG_TASK_EXAM_STR</key>
-    <text xml:space="preserve">Report to the Job Master to finish training.</text>
+    <original xml:space="preserve">課題を達成し、ジョブマスターに報告せよ</original>
+    <translation xml:space="preserve">Report to the Job Master to finish training.</translation>
   </message>
   <message>
     <key>JMMH_MSG_JOB_STR</key>
-    <text xml:space="preserve">Jobs</text>
+    <original xml:space="preserve">ジョブ</original>
+    <translation xml:space="preserve">Jobs</translation>
   </message>
   <message>
     <key>JMMH_MSG_NO_ORDER_STR</key>
-    <text xml:space="preserve">No orders</text>
+    <original xml:space="preserve">課題はありません</original>
+    <translation xml:space="preserve">No orders</translation>
   </message>
 </resource>

@@ -1,42 +1,47 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pu_msg_000</key>
-    <text xml:space="preserve">Post Photo</text>
+    <original xml:space="preserve">写真の投稿</original>
+    <translation xml:space="preserve">Post Photo</translation>
   </message>
   <message>
     <key>pu_msg_001</key>
-    <text xml:space="preserve">Taken at</text>
+    <original xml:space="preserve">撮影場所</original>
+    <translation xml:space="preserve">Taken at</translation>
   </message>
   <message>
     <key>pu_msg_002</key>
-    <text xml:space="preserve">Category</text>
+    <original xml:space="preserve">カテゴリ</original>
+    <translation xml:space="preserve">Category</translation>
   </message>
   <message>
     <key>pu_msg_003</key>
-    <text xml:space="preserve">Comment</text>
+    <original xml:space="preserve">コメント</original>
+    <translation xml:space="preserve">Comment</translation>
   </message>
   <message>
     <key>pu_msg_004</key>
-    <text xml:space="preserve">写真送信中</text>
+    <original xml:space="preserve">写真送信中</original>
   </message>
   <message>
     <key>pu_msg_005</key>
-    <text xml:space="preserve">電源を切らないでください</text>
+    <original xml:space="preserve">電源を切らないでください</original>
   </message>
   <message>
     <key>pu_msg_009</key>
-    <text xml:space="preserve">通信エラーが発生しました</text>
+    <original xml:space="preserve">通信エラーが発生しました</original>
   </message>
   <message>
     <key>pu_msg_006</key>
-    <text xml:space="preserve">送信が完了しました</text>
+    <original xml:space="preserve">送信が完了しました</original>
   </message>
   <message>
     <key>pu_msg_007</key>
-    <text xml:space="preserve">Post</text>
+    <original xml:space="preserve">投稿</original>
+    <translation xml:space="preserve">Post</translation>
   </message>
   <message>
     <key>pu_msg_008</key>
-    <text xml:space="preserve">通信中のため、投稿できません</text>
+    <original xml:space="preserve">通信中のため、投稿できません</original>
   </message>
 </resource>

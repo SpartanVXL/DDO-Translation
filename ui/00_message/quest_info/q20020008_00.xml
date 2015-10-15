@@ -1,37 +1,39 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20020008_00_237</key>
-    <text xml:space="preserve">集う脅威</text>
+    <original xml:space="preserve">集う脅威</original>
   </message>
   <message>
     <key>q20020008_00_237</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-該当場所を調査し敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+該当場所を調査し敵を討伐する</original>
   </message>
   <message>
     <key>q20020008_00_237</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;からの報告では
-問題を抱えた者の救護を求む声が集まっている</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;からの報告では
+問題を抱えた者の救護を求む声が集まっている</original>
   </message>
   <message>
     <key>q20020008_00_237</key>
-    <text xml:space="preserve">覚者のみなさま、毎日のご活躍ごくろうさまです
+    <original xml:space="preserve">覚者のみなさま、毎日のご活躍ごくろうさまです
 さきほどバートランドで、調査隊の報告を
 受けたばかりの覚者隊のかたと話しました
 少し人手に不安があるらしいですね
 手すきの覚者さまがいらっしゃるなら
-応援に行ってさしあげてはいかがですか</text>
+応援に行ってさしあげてはいかがですか</original>
   </message>
   <message>
     <key>q20020008_00_911</key>
-    <text xml:space="preserve">北に向かい周辺の様子を確認する</text>
+    <original xml:space="preserve">北に向かい周辺の様子を確認する</original>
   </message>
   <message>
     <key>q20020008_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20020008_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

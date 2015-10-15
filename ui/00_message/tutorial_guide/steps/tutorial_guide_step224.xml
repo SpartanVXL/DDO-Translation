@@ -1,23 +1,23 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_354</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;ポーンと旅をする上で、特に戦闘時
+    <original xml:space="preserve">&lt;COL ffdc78&gt;ポーンと旅をする上で、特に戦闘時
 とても重要になるのが《ポーン命令》です&lt;/COL&gt;
 
 回復の要請、エンチャントの要請、
 追従指示、待機指示、特定スキルの発動など
 プレイヤーが必要に応じた命令をくだす
 ことで、よりポーンとの共闘を
-有利に運ぶことができます</text>
+有利に運ぶことができます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_355</key>
-    <text xml:space="preserve">ポーン命令は&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー
+    <original xml:space="preserve">ポーン命令は&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー
 《キャラクター》の&lt;COL ffdc78&gt;《ポーン命令》&lt;/COL&gt;から
 行えます
 
 ただし、戦闘時とっさに命令を下すには
 &lt;PADM&gt;【&lt;ICON PAD_R2&gt;ボタン】から&lt;KEYM&gt;【各ファンクションキー】に&lt;/KEYM&gt;ショートカット
-登録しておくことをおすすめします</text>
+登録しておくことをおすすめします</original>
   </message>
 </resource>

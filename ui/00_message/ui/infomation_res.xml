@@ -1,227 +1,277 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>info_party_invite</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has invited you to join a party.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt; からパーティーへの招待があります</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has invited you to join a party.</translation>
   </message>
   <message>
     <key>info_party_invite_list</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has invited you to join a party.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt; からパーティーへの招待があります</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has invited you to join a party.</translation>
   </message>
   <message>
     <key>info_friend_req</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has sent you a friend request.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt; からフレンド申請があります</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has sent you a friend request.</translation>
   </message>
   <message>
     <key>info_friend_req_list</key>
-    <text xml:space="preserve">There is a friend request.</text>
+    <original xml:space="preserve">フレンド申請があります</original>
+    <translation xml:space="preserve">There is a friend request.</translation>
   </message>
   <message>
     <key>info_clan_invite</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has sent you a clan invite.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;からクランへの招待があります</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has sent you a clan invite.</translation>
   </message>
   <message>
     <key>info_clan_invite_list</key>
-    <text xml:space="preserve">There is a clan invitation.</text>
+    <original xml:space="preserve">クランから誘いがあります</original>
+    <translation xml:space="preserve">There is a clan invitation.</translation>
   </message>
   <message>
     <key>info_clan_mission</key>
-    <text xml:space="preserve">&lt;NAME CLANMISSION&gt; was achieved!</text>
+    <original xml:space="preserve">&lt;NAME CLANMISSION&gt; を達成した！</original>
+    <translation xml:space="preserve">&lt;NAME CLANMISSION&gt; was achieved!</translation>
   </message>
   <message>
     <key>info_clan_mission_list</key>
-    <text xml:space="preserve">&lt;NAME CLANMISSION&gt; was achieved!</text>
+    <original xml:space="preserve">&lt;NAME CLANMISSION&gt; を達成した！</original>
+    <translation xml:space="preserve">&lt;NAME CLANMISSION&gt; was achieved!</translation>
   </message>
   <message>
     <key>info_clan_levelup</key>
-    <text xml:space="preserve">The clan level has reached &lt;VAL&gt;!</text>
+    <original xml:space="preserve">クランレベルが&lt;VAL&gt;になった！</original>
+    <translation xml:space="preserve">The clan level has reached &lt;VAL&gt;!</translation>
   </message>
   <message>
     <key>info_clan_levelup_list</key>
-    <text xml:space="preserve">The clan history has been updated.</text>
+    <original xml:space="preserve">クランの歴史が更新されました</original>
+    <translation xml:space="preserve">The clan history has been updated.</translation>
   </message>
   <message>
     <key>info_group_invite</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has invited you to a group chat.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt; からグループチャットへの招待があります</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has invited you to a group chat.</translation>
   </message>
   <message>
     <key>info_group_invite_list</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has invited you to a group chat.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt; からグループチャットへの招待があります</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has invited you to a group chat.</translation>
   </message>
   <message>
     <key>info_mail</key>
-    <text xml:space="preserve">New mail has arrived.</text>
+    <original xml:space="preserve">新着メールが届きました</original>
+    <translation xml:space="preserve">New mail has arrived.</translation>
   </message>
   <message>
     <key>info_mail_list</key>
-    <text xml:space="preserve">There is unread mail.</text>
+    <original xml:space="preserve">未読メールがあります</original>
+    <translation xml:space="preserve">There is unread mail.</translation>
   </message>
   <message>
     <key>info_news</key>
-    <text xml:space="preserve">Lestania News has been updated.</text>
+    <original xml:space="preserve">レスタニアニュースが更新されました</original>
+    <translation xml:space="preserve">Lestania News has been updated.</translation>
   </message>
   <message>
     <key>info_news_list</key>
-    <text xml:space="preserve">Lestania News has been updated.</text>
+    <original xml:space="preserve">レスタニアニュースが更新されました</original>
+    <translation xml:space="preserve">Lestania News has been updated.</translation>
   </message>
   <message>
     <key>info_full_member</key>
-    <text xml:space="preserve">Entry members is now full.</text>
+    <original xml:space="preserve">エントリーメンバーが揃いました</original>
+    <translation xml:space="preserve">Entry members is now full.</translation>
   </message>
   <message>
     <key>info_full_member_list</key>
-    <text xml:space="preserve">Entry members is now full.</text>
+    <original xml:space="preserve">エントリーメンバーが揃いました</original>
+    <translation xml:space="preserve">Entry members is now full.</translation>
   </message>
   <message>
     <key>info_tutorial</key>
-    <text xml:space="preserve">Tutorial: &lt;NAME TUTORIAL&gt;</text>
+    <original xml:space="preserve">チュートリアル：&lt;NAME TUTORIAL&gt;</original>
+    <translation xml:space="preserve">Tutorial: &lt;NAME TUTORIAL&gt;</translation>
   </message>
   <message>
     <key>info_tutorial_list</key>
-    <text xml:space="preserve">Tutorial: &lt;NAME TUTORIAL&gt;</text>
+    <original xml:space="preserve">チュートリアル：&lt;NAME TUTORIAL&gt;</original>
+    <translation xml:space="preserve">Tutorial: &lt;NAME TUTORIAL&gt;</translation>
   </message>
   <message>
     <key>info_wait_quest</key>
-    <text xml:space="preserve">There are quest orders waiting.</text>
+    <original xml:space="preserve">受注待ちのクエストがあります</original>
+    <translation xml:space="preserve">There are quest orders waiting.</translation>
   </message>
   <message>
     <key>info_wait_quest_list</key>
-    <text xml:space="preserve">There are quest orders waiting for quest &lt;VAL&gt;.</text>
+    <original xml:space="preserve">受注待ちのクエストが&lt;VAL&gt;件あります</original>
+    <translation xml:space="preserve">There are quest orders waiting for quest &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>info_achieve</key>
-    <text xml:space="preserve">You have earned an achievement.</text>
+    <original xml:space="preserve">アチーブメントを獲得しました</original>
+    <translation xml:space="preserve">You have earned an achievement.</translation>
   </message>
   <message>
     <key>info_achieve_list</key>
-    <text xml:space="preserve">&lt;NAME ACHIEVE&gt; has been earned.</text>
+    <original xml:space="preserve">&lt;NAME ACHIEVE&gt;を獲得しました</original>
+    <translation xml:space="preserve">&lt;NAME ACHIEVE&gt; has been earned.</translation>
   </message>
   <message>
     <key>info_achieve_unlock</key>
-    <text xml:space="preserve">A new achievement has been unlocked.</text>
+    <original xml:space="preserve">新たなアチーブメントが解放されました</original>
+    <translation xml:space="preserve">A new achievement has been unlocked.</translation>
   </message>
   <message>
     <key>info_achieve_unlock_list</key>
-    <text xml:space="preserve">A new achievement has been unlocked.</text>
+    <original xml:space="preserve">新たなアチーブメントを解放しました</original>
+    <translation xml:space="preserve">A new achievement has been unlocked.</translation>
   </message>
   <message>
     <key>info_craft_finish</key>
-    <text xml:space="preserve">A craft has completed.</text>
+    <original xml:space="preserve">クラフトが完成しました</original>
+    <translation xml:space="preserve">A craft has completed.</translation>
   </message>
   <message>
     <key>info_quest_end</key>
-    <text xml:space="preserve">A quest has been canceled because the delivery time period has ended.</text>
+    <original xml:space="preserve">配信期間が終了したクエストを破棄しました</original>
+    <translation xml:space="preserve">A quest has been canceled because the delivery time period has ended.</translation>
   </message>
   <message>
     <key>info_propose_quit_contents</key>
-    <text xml:space="preserve">There is a proposal to withdraw from the content.</text>
+    <original xml:space="preserve">コンテンツ途中離脱の提案がありました</original>
+    <translation xml:space="preserve">There is a proposal to withdraw from the content.</translation>
   </message>
   <message>
     <key>info_propose_quit_contents_list</key>
-    <text xml:space="preserve">A proposal to withdraw from the content has arrived.</text>
+    <original xml:space="preserve">コンテンツ途中離脱の提案が届いています</original>
+    <translation xml:space="preserve">A proposal to withdraw from the content has arrived.</translation>
   </message>
   <message>
     <key>info_quick_ready_wait_list</key>
-    <text xml:space="preserve">The quick party is ready.</text>
+    <original xml:space="preserve">クイックパーティーの準備完了を受付中</original>
+    <translation xml:space="preserve">The quick party is ready.</translation>
   </message>
   <message>
     <key>info_entry_board_ready_wait_list</key>
-    <text xml:space="preserve">The entryboard is ready.</text>
+    <original xml:space="preserve">エントリーメンバーの準備完了を受付中</original>
+    <translation xml:space="preserve">The entryboard is ready.</translation>
   </message>
   <message>
     <key>info_quest_end_list</key>
-    <text xml:space="preserve">A quest has been canceled because the delivery time period has ended.</text>
+    <original xml:space="preserve">配信期間が終了したクエストを破棄しました</original>
+    <translation xml:space="preserve">A quest has been canceled because the delivery time period has ended.</translation>
   </message>
   <message>
     <key>info_entry_board_time_extension_list</key>
-    <text xml:space="preserve">Entryboard recruitment time can be extended.</text>
+    <original xml:space="preserve">エントリーボードの募集時間を延長できます</original>
+    <translation xml:space="preserve">Entryboard recruitment time can be extended.</translation>
   </message>
   <message>
     <key>info_party_entry_accepted_list</key>
-    <text xml:space="preserve">The leader has accepted the party request.</text>
+    <original xml:space="preserve">リーダーがパーティー要請を受諾しました</original>
+    <translation xml:space="preserve">The leader has accepted the party request.</translation>
   </message>
   <message>
     <key>info_clan_req</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has requested to join the clan.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;からクラン加入申請がありました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has requested to join the clan.</translation>
   </message>
   <message>
     <key>info_clan_req_info</key>
-    <text xml:space="preserve">There is an application to join the clan.</text>
+    <original xml:space="preserve">クランへの加入申請があります</original>
+    <translation xml:space="preserve">There is an application to join the clan.</translation>
   </message>
   <message>
     <key>info_clan_join_other</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has joined the clan.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がクランに加入しました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has joined the clan.</translation>
   </message>
   <message>
     <key>info_clan_join</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has joined the clan.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がクランに加入しました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has joined the clan.</translation>
   </message>
   <message>
     <key>info_clan_chg_master</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has become the new clan master.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がクランマスターになりました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has become the new clan master.</translation>
   </message>
   <message>
     <key>info_clan_chg_leader</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt; has become a new clan leader.</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がクランリーダーになりました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has become a new clan leader.</translation>
   </message>
   <message>
     <key>info_pt_leader_leave_list</key>
-    <text xml:space="preserve">The party leader is missing.</text>
+    <original xml:space="preserve">リーダーが不在です</original>
+    <translation xml:space="preserve">The party leader is missing.</translation>
   </message>
   <message>
     <key>info_pt_leader_leave</key>
-    <text xml:space="preserve">The party leader is missing.
-Please set the party leader in an inn, at the White Dragon Temple, or at a Riftstone.</text>
+    <original xml:space="preserve">リーダーが不在です
+白竜神殿かリムストーンのある拠点施設でリーダーを設定してください</original>
+    <translation xml:space="preserve">The party leader is missing.
+Please set the party leader in an inn, at the White Dragon Temple, or at a Riftstone.</translation>
   </message>
   <message>
     <key>info_bazzar_dealed</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; has sold at the bazaar.</text>
+    <original xml:space="preserve">バザーに出品中の&lt;NAME ITEM&gt;が取引成立しました</original>
+    <translation xml:space="preserve">&lt;NAME ITEM&gt; has sold at the bazaar.</translation>
   </message>
   <message>
     <key>info_party_invite_pop</key>
-    <text xml:space="preserve">There are party invitations.</text>
+    <original xml:space="preserve">パーティーへの招待があります</original>
+    <translation xml:space="preserve">There are party invitations.</translation>
   </message>
   <message>
     <key>info_caplink_chat</key>
-    <text xml:space="preserve">Caplink: There is a new chat.</text>
+    <original xml:space="preserve">カプリンク：新着チャットがあります</original>
+    <translation xml:space="preserve">Caplink: There is a new chat.</translation>
   </message>
   <message>
     <key>info_caplink_maintenance</key>
-    <text xml:space="preserve">Caplink will enter maintenance at &lt;VAL&gt;.</text>
+    <original xml:space="preserve">カプリンクが&lt;VAL&gt;からメンテナンスに入ります</original>
+    <translation xml:space="preserve">Caplink will enter maintenance at &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>info_caplink_friend_online</key>
-    <text xml:space="preserve">Caplink: A friend has come online.</text>
+    <original xml:space="preserve">カプリンク：カプトモがオンラインになりました</original>
+    <translation xml:space="preserve">Caplink: A friend has come online.</translation>
   </message>
   <message>
     <key>info_caplink_friend_request</key>
-    <text xml:space="preserve">Caplink: A friend request has arrived.</text>
+    <original xml:space="preserve">カプリンク：カプトモ申請が届いています</original>
+    <translation xml:space="preserve">Caplink: A friend request has arrived.</translation>
   </message>
   <message>
     <key>info_caplink_friend_consent</key>
-    <text xml:space="preserve">カプリンク：カプトモが増えました</text>
+    <original xml:space="preserve">カプリンク：カプトモが増えました</original>
   </message>
   <message>
     <key>info_caplink_invite</key>
-    <text xml:space="preserve">カプリンク：ゲーム招待メッセージが届いています</text>
+    <original xml:space="preserve">カプリンク：ゲーム招待メッセージが届いています</original>
   </message>
   <message>
     <key>info_caplink_message</key>
-    <text xml:space="preserve">カプリンク：メッセージが届いています</text>
+    <original xml:space="preserve">カプリンク：メッセージが届いています</original>
   </message>
   <message>
     <key>info_caplink_friend_modify</key>
-    <text xml:space="preserve">カプリンク：カプトモがプロフィールを変更しました</text>
+    <original xml:space="preserve">カプリンク：カプトモがプロフィールを変更しました</original>
   </message>
   <message>
     <key>info_caplink_invite_detail</key>
-    <text xml:space="preserve">カプリンク：&lt;VAL&gt;からゲーム招待メッセージが届いています</text>
+    <original xml:space="preserve">カプリンク：&lt;VAL&gt;からゲーム招待メッセージが届いています</original>
   </message>
   <message>
     <key>info_caplink_friend_online_detail</key>
-    <text xml:space="preserve">カプリンク：&lt;VAL&gt;がオンラインになりました</text>
+    <original xml:space="preserve">カプリンク：&lt;VAL&gt;がオンラインになりました</original>
   </message>
   <message>
     <key>info_caplink_friend_content_detail</key>
-    <text xml:space="preserve">カプリンク：&lt;VAL&gt;とカプトモになりました</text>
+    <original xml:space="preserve">カプリンク：&lt;VAL&gt;とカプトモになりました</original>
   </message>
 </resource>

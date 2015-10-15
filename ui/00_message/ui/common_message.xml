@@ -1,414 +1,472 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>common_next</key>
-    <text xml:space="preserve">Next</text>
+    <original xml:space="preserve">次へ</original>
+    <translation xml:space="preserve">Next</translation>
   </message>
   <message>
     <key>common_yes</key>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
     <key>common_no</key>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
     <key>common_decide</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">決定</original>
+    <translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>common_cancel</key>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
     <key>common_back</key>
-    <text xml:space="preserve">Back</text>
+    <original xml:space="preserve">戻る</original>
+    <translation xml:space="preserve">Back</translation>
   </message>
   <message>
     <key>common_end</key>
-    <text xml:space="preserve">End</text>
+    <original xml:space="preserve">終了</original>
+    <translation xml:space="preserve">End</translation>
   </message>
   <message>
     <key>common_serch</key>
-    <text xml:space="preserve">Search</text>
+    <original xml:space="preserve">検索</original>
+    <translation xml:space="preserve">Search</translation>
   </message>
   <message>
     <key>common_entry</key>
-    <text xml:space="preserve">Register</text>
+    <original xml:space="preserve">登録</original>
+    <translation xml:space="preserve">Register</translation>
   </message>
   <message>
     <key>common_ok</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">OK</original>
   </message>
   <message>
     <key>common_unit_g</key>
-    <text xml:space="preserve">G</text>
+    <original xml:space="preserve">G</original>
   </message>
   <message>
     <key>common_unit_r</key>
-    <text xml:space="preserve">R</text>
+    <original xml:space="preserve">R</original>
   </message>
   <message>
     <key>common_unit_bo</key>
-    <text xml:space="preserve">BO</text>
+    <original xml:space="preserve">BO</original>
   </message>
   <message>
     <key>common_unit_gp</key>
-    <text xml:space="preserve">GP</text>
+    <original xml:space="preserve">GP</original>
   </message>
   <message>
     <key>common_unit_xp</key>
-    <text xml:space="preserve">XP</text>
+    <original xml:space="preserve">XP</original>
   </message>
   <message>
     <key>common_unit_jp</key>
-    <text xml:space="preserve">JP</text>
+    <original xml:space="preserve">JP</original>
   </message>
   <message>
     <key>common_unit_cap</key>
-    <text xml:space="preserve">CAP</text>
+    <original xml:space="preserve">CAP</original>
   </message>
   <message>
     <key>common_unit_ap</key>
-    <text xml:space="preserve">AP</text>
+    <original xml:space="preserve">AP</original>
   </message>
   <message>
     <key>common_unit_pt</key>
-    <text xml:space="preserve">pt</text>
+    <original xml:space="preserve">pt</original>
   </message>
   <message>
     <key>common_unit_cp</key>
-    <text xml:space="preserve">CP</text>
+    <original xml:space="preserve">CP</original>
   </message>
   <message>
     <key>common_unit_cr</key>
-    <text xml:space="preserve">CR</text>
+    <original xml:space="preserve">CR</original>
   </message>
   <message>
     <key>common_unit_lv</key>
-    <text xml:space="preserve">LV.</text>
+    <original xml:space="preserve">LV.</original>
   </message>
   <message>
     <key>common_unitname_g</key>
-    <text xml:space="preserve">Gold</text>
+    <original xml:space="preserve">ゴールド</original>
+    <translation xml:space="preserve">Gold</translation>
   </message>
   <message>
     <key>common_unitname_r</key>
-    <text xml:space="preserve">Rift Crystal</text>
+    <original xml:space="preserve">リム</original>
+    <translation xml:space="preserve">Rift Crystal</translation>
   </message>
   <message>
     <key>common_unitname_bo</key>
-    <text xml:space="preserve">Blood Orb</text>
+    <original xml:space="preserve">ブラッドオーブ</original>
+    <translation xml:space="preserve">Blood Orb</translation>
   </message>
   <message>
     <key>common_unitname_jp</key>
-    <text xml:space="preserve">Job Point</text>
+    <original xml:space="preserve">ジョブポイント</original>
+    <translation xml:space="preserve">Job Point</translation>
   </message>
   <message>
     <key>common_edit</key>
-    <text xml:space="preserve">Edit</text>
+    <original xml:space="preserve">編集</original>
+    <translation xml:space="preserve">Edit</translation>
   </message>
   <message>
     <key>common_clan_s_begin</key>
-    <text xml:space="preserve">≪</text>
+    <original xml:space="preserve">≪</original>
   </message>
   <message>
     <key>common_clan_s_end</key>
-    <text xml:space="preserve">≫</text>
+    <original xml:space="preserve">≫</original>
   </message>
   <message>
     <key>common_unitname_gs</key>
-    <text xml:space="preserve">Golden Gemstone</text>
+    <original xml:space="preserve">黄金石</original>
+    <translation xml:space="preserve">Golden Gemstone</translation>
   </message>
   <message>
     <key>common_name</key>
-    <text xml:space="preserve">Name</text>
+    <original xml:space="preserve">名前</original>
+    <translation xml:space="preserve">Name</translation>
   </message>
   <message>
     <key>common_level</key>
-    <text xml:space="preserve">Level</text>
+    <original xml:space="preserve">レベル</original>
+    <translation xml:space="preserve">Level</translation>
   </message>
   <message>
     <key>common_mymsg</key>
-    <text xml:space="preserve">My Phrase </text>
+    <original xml:space="preserve">マイ定型文セット</original>
+    <translation xml:space="preserve">My Phrase </translation>
   </message>
   <message>
     <key>common_above</key>
-    <text xml:space="preserve">～</text>
+    <original xml:space="preserve">～</original>
   </message>
   <message>
     <key>common_open_bracket</key>
-    <text xml:space="preserve">(</text>
+    <original xml:space="preserve">(</original>
   </message>
   <message>
     <key>common_close_bracket</key>
-    <text xml:space="preserve">)</text>
+    <original xml:space="preserve">)</original>
   </message>
   <message>
     <key>common_grade</key>
-    <text xml:space="preserve">★</text>
+    <original xml:space="preserve">★</original>
   </message>
   <message>
     <key>common_up</key>
-    <text xml:space="preserve">UP</text>
+    <original xml:space="preserve">UP</original>
   </message>
   <message>
     <key>common_down</key>
-    <text xml:space="preserve">DOWN</text>
+    <original xml:space="preserve">DOWN</original>
   </message>
   <message>
     <key>common_off</key>
-    <text xml:space="preserve">OFF</text>
+    <original xml:space="preserve">OFF</original>
   </message>
   <message>
     <key>common_max</key>
-    <text xml:space="preserve">/MAX</text>
+    <original xml:space="preserve">/MAX</original>
   </message>
   <message>
     <key>common_hyphen</key>
-    <text xml:space="preserve">-</text>
+    <original xml:space="preserve">-</original>
   </message>
   <message>
     <key>common_plus</key>
-    <text xml:space="preserve">+</text>
+    <original xml:space="preserve">+</original>
   </message>
   <message>
     <key>common_complete</key>
-    <text xml:space="preserve">Complete</text>
+    <original xml:space="preserve">完了</original>
+    <translation xml:space="preserve">Complete</translation>
   </message>
   <message>
     <key>common_select_clan_motto</key>
-    <text xml:space="preserve">Please select one or more mottos</text>
+    <original xml:space="preserve">モットーを１つ以上選択してください</original>
+    <translation xml:space="preserve">Please select one or more mottos</translation>
   </message>
   <message>
     <key>common_select_clan_day</key>
-    <text xml:space="preserve">活動時間帯を選択してください</text>
+    <original xml:space="preserve">活動時間帯を選択してください</original>
   </message>
   <message>
     <key>common_select_clan_hour</key>
-    <text xml:space="preserve">活動時間帯を選択してください</text>
+    <original xml:space="preserve">活動時間帯を選択してください</original>
   </message>
   <message>
     <key>common_select_clan_feature</key>
-    <text xml:space="preserve">特徴を１つ以上選択してください</text>
+    <original xml:space="preserve">特徴を１つ以上選択してください</original>
   </message>
   <message>
     <key>common_guide_blank</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
   <message>
     <key>common_guide_change_info</key>
-    <text xml:space="preserve">Change Info</text>
+    <original xml:space="preserve">情報切り替え</original>
+    <translation xml:space="preserve">Change Info</translation>
   </message>
   <message>
     <key>common_guide_close</key>
-    <text xml:space="preserve">Close</text>
+    <original xml:space="preserve">閉じる</original>
+    <translation xml:space="preserve">Close</translation>
   </message>
   <message>
     <key>common_guide_submenu</key>
-    <text xml:space="preserve">Sub-Menu</text>
+    <original xml:space="preserve">サブメニュー</original>
+    <translation xml:space="preserve">Sub-Menu</translation>
   </message>
   <message>
     <key>common_guide_decide</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">決定</original>
+    <translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>common_guide_execute</key>
-    <text xml:space="preserve">Execute</text>
+    <original xml:space="preserve">実行</original>
+    <translation xml:space="preserve">Execute</translation>
   </message>
   <message>
     <key>common_guide_end</key>
-    <text xml:space="preserve">Exit</text>
+    <original xml:space="preserve">終了</original>
+    <translation xml:space="preserve">Exit</translation>
   </message>
   <message>
     <key>common_guide_change_page</key>
-    <text xml:space="preserve">Change Page</text>
+    <original xml:space="preserve">ページ切り替え</original>
+    <translation xml:space="preserve">Change Page</translation>
   </message>
   <message>
     <key>common_guide_return</key>
-    <text xml:space="preserve">Back</text>
+    <original xml:space="preserve">戻る</original>
+    <translation xml:space="preserve">Back</translation>
   </message>
   <message>
     <key>common_date_format</key>
-    <text xml:space="preserve">%Y/%m/%d</text>
+    <original xml:space="preserve">%Y/%m/%d</original>
   </message>
   <message>
     <key>common_guide_open</key>
-    <text xml:space="preserve">Open</text>
+    <original xml:space="preserve">開く</original>
+    <translation xml:space="preserve">Open</translation>
   </message>
   <message>
     <key>common_delete</key>
-    <text xml:space="preserve">Delete</text>
+    <original xml:space="preserve">削除</original>
+    <translation xml:space="preserve">Delete</translation>
   </message>
   <message>
     <key>common_rest_time</key>
-    <text xml:space="preserve">h</text>
+    <original xml:space="preserve">時間</original>
+    <translation xml:space="preserve">h</translation>
   </message>
   <message>
     <key>common_rest_day</key>
-    <text xml:space="preserve">d</text>
+    <original xml:space="preserve">日</original>
+    <translation xml:space="preserve">d</translation>
   </message>
   <message>
     <key>common_unit_gs</key>
-    <text xml:space="preserve">Number</text>
+    <original xml:space="preserve">個</original>
+    <translation xml:space="preserve">Number</translation>
   </message>
   <message>
     <key>common_indicator_lestania</key>
-    <text xml:space="preserve">GT</text>
+    <original xml:space="preserve">GT</original>
   </message>
   <message>
     <key>common_indicator_local</key>
-    <text xml:space="preserve">LT</text>
+    <original xml:space="preserve">LT</original>
   </message>
   <message>
     <key>common_indicator_server</key>
-    <text xml:space="preserve">ST</text>
+    <original xml:space="preserve">ST</original>
   </message>
   <message>
     <key>common_indicator_lobby</key>
-    <text xml:space="preserve">Lobby</text>
+    <original xml:space="preserve">Lobby</original>
   </message>
   <message>
     <key>common_key_alt</key>
-    <text xml:space="preserve">Alt</text>
+    <original xml:space="preserve">Alt</original>
   </message>
   <message>
     <key>common_indicator_saving</key>
-    <text xml:space="preserve">Saving</text>
+    <original xml:space="preserve">セーブ中</original>
+    <translation xml:space="preserve">Saving</translation>
   </message>
   <message>
     <key>common_guide_replacement</key>
-    <text xml:space="preserve">Replace</text>
+    <original xml:space="preserve">入れ替え</original>
+    <translation xml:space="preserve">Replace</translation>
   </message>
   <message>
     <key>common_guide_set</key>
-    <text xml:space="preserve">Set</text>
+    <original xml:space="preserve">セット</original>
+    <translation xml:space="preserve">Set</translation>
   </message>
   <message>
     <key>common_guide_drag</key>
-    <text xml:space="preserve">Drag</text>
+    <original xml:space="preserve">つかむ</original>
+    <translation xml:space="preserve">Drag</translation>
   </message>
   <message>
     <key>common_guide_goto_itembag</key>
-    <text xml:space="preserve">Move to Item Bag</text>
+    <original xml:space="preserve">アイテムバッグに移動</original>
+    <translation xml:space="preserve">Move to Item Bag</translation>
   </message>
   <message>
     <key>common_rest_minute</key>
-    <text xml:space="preserve">m</text>
+    <original xml:space="preserve">分</original>
+    <translation xml:space="preserve">m</translation>
   </message>
   <message>
     <key>common_time_limit</key>
-    <text xml:space="preserve">Left: </text>
+    <original xml:space="preserve">あと</original>
+    <translation xml:space="preserve">Left: </translation>
   </message>
   <message>
     <key>common_time_after</key>
-    <text xml:space="preserve">After</text>
+    <original xml:space="preserve">後</original>
+    <translation xml:space="preserve">After</translation>
   </message>
   <message>
     <key>common_time_before</key>
-    <text xml:space="preserve"> ago</text>
+    <original xml:space="preserve">前</original>
+    <translation xml:space="preserve"> ago</translation>
   </message>
   <message>
     <key>common_unit_turn</key>
-    <text xml:space="preserve">Time</text>
+    <original xml:space="preserve">回</original>
+    <translation xml:space="preserve">Time</translation>
   </message>
   <message>
     <key>common_unit_body</key>
-    <text xml:space="preserve">Body</text>
+    <original xml:space="preserve">体</original>
+    <translation xml:space="preserve">Body</translation>
   </message>
   <message>
     <key>common_switch_expand</key>
-    <text xml:space="preserve">Expanded Storage</text>
+    <original xml:space="preserve">拡張枠</original>
+    <translation xml:space="preserve">Expanded Storage</translation>
   </message>
   <message>
     <key>common_switch_strage</key>
-    <text xml:space="preserve">Storage</text>
+    <original xml:space="preserve">通常枠</original>
+    <translation xml:space="preserve">Storage</translation>
   </message>
   <message>
     <key>common_numbox</key>
-    <text xml:space="preserve">Direct Input</text>
+    <original xml:space="preserve">直接入力</original>
+    <translation xml:space="preserve">Direct Input</translation>
   </message>
   <message>
     <key>common_switch_storagebox</key>
-    <text xml:space="preserve">Storage Box</text>
+    <original xml:space="preserve">保管ボックス</original>
+    <translation xml:space="preserve">Storage Box</translation>
   </message>
   <message>
     <key>common_switch_itembag</key>
-    <text xml:space="preserve">Item Bag</text>
+    <original xml:space="preserve">アイテムバッグ</original>
+    <translation xml:space="preserve">Item Bag</translation>
   </message>
   <message>
     <key>common_guide_shortcut_set</key>
-    <text xml:space="preserve">Register Shortcut</text>
+    <original xml:space="preserve">ショートカット登録</original>
+    <translation xml:space="preserve">Register Shortcut</translation>
   </message>
   <message>
     <key>common_system_savedata</key>
-    <text xml:space="preserve">System Save Data</text>
+    <original xml:space="preserve">システムセーブデータ</original>
+    <translation xml:space="preserve">System Save Data</translation>
   </message>
   <message>
     <key>common_edit_savedata</key>
-    <text xml:space="preserve">Edit Data</text>
+    <original xml:space="preserve">エディットデータ</original>
+    <translation xml:space="preserve">Edit Data</translation>
   </message>
   <message>
     <key>common_new_edit_savedata</key>
-    <text xml:space="preserve">新しいエディットデータ</text>
+    <original xml:space="preserve">新しいエディットデータ</original>
   </message>
   <message>
     <key>common_edit_savedata_author</key>
-    <text xml:space="preserve">作成者：</text>
+    <original xml:space="preserve">作成者：</original>
   </message>
   <message>
     <key>common_edit_savedata_sex</key>
-    <text xml:space="preserve">性別：</text>
+    <original xml:space="preserve">性別：</original>
   </message>
   <message>
     <key>common_edit_savedata_comment</key>
-    <text xml:space="preserve">Comment: </text>
+    <original xml:space="preserve">コメント：</original>
+    <translation xml:space="preserve">Comment: </translation>
   </message>
   <message>
     <key>common_chat_ch_general</key>
-    <text xml:space="preserve">General</text>
+    <original xml:space="preserve">General</original>
   </message>
   <message>
     <key>common_chat_ch_party</key>
-    <text xml:space="preserve">Party</text>
+    <original xml:space="preserve">Party</original>
   </message>
   <message>
     <key>common_unitname_silverticket</key>
-    <text xml:space="preserve">Silver Ticket</text>
+    <original xml:space="preserve">シルバーチケット</original>
+    <translation xml:space="preserve">Silver Ticket</translation>
   </message>
   <message>
     <key>common_titlename_jp</key>
-    <text xml:space="preserve">Dragon's Dogma Online</text>
+    <original xml:space="preserve">ドラゴンズドグマ オンライン</original>
+    <translation xml:space="preserve">Dragon's Dogma Online</translation>
   </message>
   <message>
     <key>common_clan_search_on</key>
-    <text xml:space="preserve">Clan information public</text>
+    <original xml:space="preserve">クラン情報公開</original>
+    <translation xml:space="preserve">Clan information public</translation>
   </message>
   <message>
     <key>common_clan_search_off</key>
-    <text xml:space="preserve">Clan information private</text>
+    <original xml:space="preserve">クラン情報非公開</original>
+    <translation xml:space="preserve">Clan information private</translation>
   </message>
   <message>
     <key>common_select_clan_motto_search</key>
-    <text xml:space="preserve">モットーを２つまで選択してください</text>
+    <original xml:space="preserve">モットーを２つまで選択してください</original>
   </message>
   <message>
     <key>common_select_clan_day_search</key>
-    <text xml:space="preserve">活動時間帯を選択してください</text>
+    <original xml:space="preserve">活動時間帯を選択してください</original>
   </message>
   <message>
     <key>common_select_clan_hour_search</key>
-    <text xml:space="preserve">活動時間帯を選択してください</text>
+    <original xml:space="preserve">活動時間帯を選択してください</original>
   </message>
   <message>
     <key>common_select_clan_feature_search</key>
-    <text xml:space="preserve">特徴を４つまで選択してください</text>
+    <original xml:space="preserve">特徴を４つまで選択してください</original>
   </message>
   <message>
     <key>common_unitname_rp</key>
-    <text xml:space="preserve">Rental Point</text>
+    <original xml:space="preserve">レンタルポイント</original>
+    <translation xml:space="preserve">Rental Point</translation>
   </message>
   <message>
     <key>common_unit_rp</key>
-    <text xml:space="preserve">RP</text>
+    <original xml:space="preserve">RP</original>
   </message>
 </resource>

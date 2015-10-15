@@ -1,34 +1,40 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>mai_msg_title_e</key>
-    <text xml:space="preserve">Area Rank</text>
+    <original xml:space="preserve">Area Rank</original>
   </message>
   <message>
     <key>mai_msg_nodeta</key>
-    <text xml:space="preserve">There is no data</text>
+    <original xml:space="preserve">データがありません</original>
+    <translation xml:space="preserve">There is no data</translation>
   </message>
   <message>
     <key>mai_msg_title_j</key>
-    <text xml:space="preserve">Area Rank</text>
+    <original xml:space="preserve">エリアランク</original>
+    <translation xml:space="preserve">Area Rank</translation>
   </message>
   <message>
     <key>mai_msg_category_area</key>
-    <text xml:space="preserve">Area</text>
+    <original xml:space="preserve">エリア</original>
+    <translation xml:space="preserve">Area</translation>
   </message>
   <message>
     <key>mai_msg_category_rank</key>
-    <text xml:space="preserve">Rank</text>
+    <original xml:space="preserve">ランク</original>
+    <translation xml:space="preserve">Rank</translation>
   </message>
   <message>
     <key>mai_msg_next</key>
-    <text xml:space="preserve">Next rank up</text>
+    <original xml:space="preserve">次のランクアップまで</original>
+    <translation xml:space="preserve">Next rank up</translation>
   </message>
   <message>
     <key>mai_msg_weekly</key>
-    <text xml:space="preserve">Gained this week</text>
+    <original xml:space="preserve">今週の獲得ポイント</original>
+    <translation xml:space="preserve">Gained this week</translation>
   </message>
   <message>
     <key>mai_msg_rank</key>
-    <text xml:space="preserve">Rank</text>
+    <original xml:space="preserve">Rank</original>
   </message>
 </resource>

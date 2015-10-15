@@ -1,158 +1,191 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>title_item</key>
-    <text xml:space="preserve">Possessed Items</text>
+    <original xml:space="preserve">所持アイテム</original>
+    <translation xml:space="preserve">Possessed Items</translation>
   </message>
   <message>
     <key>title_item_strage</key>
-    <text xml:space="preserve">Key Items</text>
+    <original xml:space="preserve">キーアイテム</original>
+    <translation xml:space="preserve">Key Items</translation>
   </message>
   <message>
     <key>option_disposal</key>
-    <text xml:space="preserve">Discard</text>
+    <original xml:space="preserve">捨てる</original>
+    <translation xml:space="preserve">Discard</translation>
   </message>
   <message>
     <key>option_use</key>
-    <text xml:space="preserve">Use</text>
+    <original xml:space="preserve">使う</original>
+    <translation xml:space="preserve">Use</translation>
   </message>
   <message>
     <key>option_hold</key>
-    <text xml:space="preserve">Hold</text>
+    <original xml:space="preserve">持つ</original>
+    <translation xml:space="preserve">Hold</translation>
   </message>
   <message>
     <key>option_sheathe</key>
-    <text xml:space="preserve">Stash</text>
+    <original xml:space="preserve">しまう</original>
+    <translation xml:space="preserve">Stash</translation>
   </message>
   <message>
     <key>heading_howmany_disposal</key>
-    <text xml:space="preserve">How many to discard?</text>
+    <original xml:space="preserve">いくつ捨てますか？</original>
+    <translation xml:space="preserve">How many to discard?</translation>
   </message>
   <message>
     <key>option_equip</key>
-    <text xml:space="preserve">Equipment</text>
+    <original xml:space="preserve">装備</original>
+    <translation xml:space="preserve">Equipment</translation>
   </message>
   <message>
     <key>title_fee_e</key>
-    <text xml:space="preserve">Reward Box</text>
+    <original xml:space="preserve">Reward Box</original>
   </message>
   <message>
     <key>title_fee</key>
-    <text xml:space="preserve">Compensation Box</text>
+    <original xml:space="preserve">報酬ボックス</original>
+    <translation xml:space="preserve">Compensation Box</translation>
   </message>
   <message>
     <key>title_strage</key>
-    <text xml:space="preserve">Storage Box</text>
+    <original xml:space="preserve">保管ボックス</original>
+    <translation xml:space="preserve">Storage Box</translation>
   </message>
   <message>
     <key>option_move</key>
-    <text xml:space="preserve">Move</text>
+    <original xml:space="preserve">移動</original>
+    <translation xml:space="preserve">Move</translation>
   </message>
   <message>
     <key>submenu_sort_name</key>
-    <text xml:space="preserve">Sort (Name)</text>
+    <original xml:space="preserve">せいとん（名前順）</original>
+    <translation xml:space="preserve">Sort (Name)</translation>
   </message>
   <message>
     <key>submenu_sort_better</key>
-    <text xml:space="preserve">Sort</text>
+    <original xml:space="preserve">せいとん</original>
+    <translation xml:space="preserve">Sort</translation>
   </message>
   <message>
     <key>submenu_sort_buy_ascending</key>
-    <text xml:space="preserve">Sort (Equipment)</text>
+    <original xml:space="preserve">せいとん（装備優先）</original>
+    <translation xml:space="preserve">Sort (Equipment)</translation>
   </message>
   <message>
     <key>submenu_sort_buy_descending</key>
-    <text xml:space="preserve">Sort (Materials)</text>
+    <original xml:space="preserve">せいとん（素材優先）</original>
+    <translation xml:space="preserve">Sort (Materials)</translation>
   </message>
   <message>
     <key>submenu_buy</key>
-    <text xml:space="preserve">Sell</text>
+    <original xml:space="preserve">売却</original>
+    <translation xml:space="preserve">Sell</translation>
   </message>
   <message>
     <key>submenu_select_all</key>
-    <text xml:space="preserve">Select All</text>
+    <original xml:space="preserve">全て選択</original>
+    <translation xml:space="preserve">Select All</translation>
   </message>
   <message>
     <key>submenu_release_all</key>
-    <text xml:space="preserve">Release All</text>
+    <original xml:space="preserve">選択全解除</original>
+    <translation xml:space="preserve">Release All</translation>
   </message>
   <message>
     <key>item_title_item_en</key>
-    <text xml:space="preserve">Item Bag</text>
+    <original xml:space="preserve">Item Bag</original>
   </message>
   <message>
     <key>item_title_item_jp</key>
-    <text xml:space="preserve">Item Bag</text>
+    <original xml:space="preserve">アイテムバッグ</original>
+    <translation xml:space="preserve">Item Bag</translation>
   </message>
   <message>
     <key>itempost_title_itempost_en</key>
-    <text xml:space="preserve">Item Post</text>
+    <original xml:space="preserve">Item Post</original>
   </message>
   <message>
     <key>itempost_title_itempost_jp</key>
-    <text xml:space="preserve">Items Post</text>
+    <original xml:space="preserve">アイテムポスト</original>
+    <translation xml:space="preserve">Items Post</translation>
   </message>
   <message>
     <key>option_send_bag</key>
-    <text xml:space="preserve">Send to Bag</text>
+    <original xml:space="preserve">アイテムバッグに送る</original>
+    <translation xml:space="preserve">Send to Bag</translation>
   </message>
   <message>
     <key>option_send_box</key>
-    <text xml:space="preserve">Send to Storage Box</text>
+    <original xml:space="preserve">保管ボックスに送る</original>
+    <translation xml:space="preserve">Send to Storage Box</translation>
   </message>
   <message>
     <key>option_send_exbox</key>
-    <text xml:space="preserve">Send to Extra Box</text>
+    <original xml:space="preserve">拡張枠に送る</original>
+    <translation xml:space="preserve">Send to Extra Box</translation>
   </message>
   <message>
     <key>option_send_num_specified</key>
-    <text xml:space="preserve"> (Amount)</text>
+    <original xml:space="preserve">（個数指定）</original>
+    <translation xml:space="preserve"> (Amount)</translation>
   </message>
   <message>
     <key>option_drag</key>
-    <text xml:space="preserve">Drag</text>
+    <original xml:space="preserve">つかむ</original>
+    <translation xml:space="preserve">Drag</translation>
   </message>
   <message>
     <key>item_msg_pop_put</key>
-    <text xml:space="preserve">Putく</text>
+    <original xml:space="preserve">置く</original>
+    <translation xml:space="preserve">Putく</translation>
   </message>
   <message>
     <key>item_msg_pop_switch</key>
-    <text xml:space="preserve">Tab Switch</text>
+    <original xml:space="preserve">タブ切り替え</original>
+    <translation xml:space="preserve">Tab Switch</translation>
   </message>
   <message>
     <key>item_msg_pop_sum</key>
-    <text xml:space="preserve">Sum</text>
+    <original xml:space="preserve">合算</original>
+    <translation xml:space="preserve">Sum</translation>
   </message>
   <message>
     <key>item_msg_pop_exchange</key>
-    <text xml:space="preserve">Exchange</text>
+    <original xml:space="preserve">交換</original>
+    <translation xml:space="preserve">Exchange</translation>
   </message>
   <message>
     <key>item_msg_pop_unexchangeable</key>
-    <text xml:space="preserve">Cannot be exchanged</text>
+    <original xml:space="preserve">交換不可</original>
+    <translation xml:space="preserve">Cannot be exchanged</translation>
   </message>
   <message>
     <key>item_msg_pop_move</key>
-    <text xml:space="preserve">Move</text>
+    <original xml:space="preserve">移動</original>
+    <translation xml:space="preserve">Move</translation>
   </message>
   <message>
     <key>item_title_storage_en</key>
-    <text xml:space="preserve">Storage Box</text>
+    <original xml:space="preserve">Storage Box</original>
   </message>
   <message>
     <key>item_title_sell_en</key>
-    <text xml:space="preserve">Sell</text>
+    <original xml:space="preserve">Sell</original>
   </message>
   <message>
     <key>item_title_keyitem_en</key>
-    <text xml:space="preserve">Key Item</text>
+    <original xml:space="preserve">Key Item</original>
   </message>
   <message>
     <key>item_msg_guid_tostorage</key>
-    <text xml:space="preserve">Move to storage box</text>
+    <original xml:space="preserve">保管ボックスに移動</original>
+    <translation xml:space="preserve">Move to storage box</translation>
   </message>
   <message>
     <key>item_btnguide_buy</key>
-    <text xml:space="preserve">Buy</text>
+    <original xml:space="preserve">アイテムを買う</original>
+    <translation xml:space="preserve">Buy</translation>
   </message>
 </resource>

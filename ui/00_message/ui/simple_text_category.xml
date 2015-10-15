@@ -1,26 +1,32 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>simple_text_category_191</key>
-    <text xml:space="preserve">Greetings</text>
+    <original xml:space="preserve">あいさつ</original>
+    <translation xml:space="preserve">Greetings</translation>
   </message>
   <message>
     <key>simple_text_category_192</key>
-    <text xml:space="preserve">Questions</text>
+    <original xml:space="preserve">質問</original>
+    <translation xml:space="preserve">Questions</translation>
   </message>
   <message>
     <key>simple_text_category_193</key>
-    <text xml:space="preserve">Replies</text>
+    <original xml:space="preserve">返答</original>
+    <translation xml:space="preserve">Replies</translation>
   </message>
   <message>
     <key>simple_text_category_194</key>
-    <text xml:space="preserve">Explanations</text>
+    <original xml:space="preserve">説明</original>
+    <translation xml:space="preserve">Explanations</translation>
   </message>
   <message>
     <key>simple_text_category_195</key>
-    <text xml:space="preserve">Organize</text>
+    <original xml:space="preserve">編成</original>
+    <translation xml:space="preserve">Organize</translation>
   </message>
   <message>
     <key>simple_text_category_196</key>
-    <text xml:space="preserve">Tactics</text>
+    <original xml:space="preserve">戦術</original>
+    <translation xml:space="preserve">Tactics</translation>
   </message>
 </resource>

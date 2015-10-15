@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_126</key>
-    <text xml:space="preserve">シーカーは、ダガ―による連撃やシーカーロープを
+    <original xml:space="preserve">シーカーは、ダガ―による連撃やシーカーロープを
 使った空中攻撃などトリッキーで手数豊富な
 軽業の使い手です
 
@@ -9,6 +9,6 @@
 &lt;PADM&gt;　【&lt;ICON STG_ATTACK_0&gt;ボタン】連撃（ダガ―攻撃）&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_L&gt;】連撃（ダガ―攻撃）&lt;/KEYM&gt;
 &lt;PADM&gt;　【&lt;ICON STG_ATTACK_1&gt;ボタン】百裂斬り（ダガ―高速攻撃）&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_R&gt;】百裂斬り（ダガ―高速攻撃）&lt;/KEYM&gt;
 &lt;PADM&gt;　【&lt;ICON PAD_R1&gt;ボタン】＋【&lt;ICON STG_JUMP&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_Q&gt;】転身（回避移動）&lt;/KEYM&gt;
-&lt;PADM&gt;　　　　　　転身（回避移動）</text>
+&lt;PADM&gt;　　　　　　転身（回避移動）</original>
   </message>
 </resource>

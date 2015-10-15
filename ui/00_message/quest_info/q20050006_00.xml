@@ -1,29 +1,31 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050006_00_251</key>
-    <text xml:space="preserve">The Witch of the Forest</text>
+    <original xml:space="preserve">森の魔術師</original>
+    <translation xml:space="preserve">The Witch of the Forest</translation>
   </message>
   <message>
     <key>q20050006_00_251</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-指定の物品を集める</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+指定の物品を集める</original>
   </message>
   <message>
     <key>q20050006_00_251</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;に
-覚者に会って相談に乗ってほしい人物がいるという</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;に
+覚者に会って相談に乗ってほしい人物がいるという</original>
   </message>
   <message>
     <key>q20050006_00_251</key>
-    <text xml:space="preserve">最初に断るけど、これ、ヨタ話だからな
+    <original xml:space="preserve">最初に断るけど、これ、ヨタ話だからな
 リンウッド近くの山小屋に、すげえ美人が住んでる話
 ――あれ？　興味ない？
 まあいいさ、とにかくその彼女が
 何か薬の材料を欲しがっているらしいんだ
-どうよ？　コレ、イケんじゃない？</text>
+どうよ？　コレ、イケんじゃない？</original>
   </message>
   <message>
     <key>q20050006_00_1124</key>
-    <text xml:space="preserve">Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester.</text>
+    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す</original>
+    <translation xml:space="preserve">Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester.</translation>
   </message>
 </resource>

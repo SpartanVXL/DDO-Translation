@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_88</key>
-    <text xml:space="preserve">野外には、登ること&lt;COL ffdc78&gt;《クライミング》&lt;/COL&gt;が
+    <original xml:space="preserve">野外には、登ること&lt;COL ffdc78&gt;《クライミング》&lt;/COL&gt;が
 できる場所があります
 
 はしご、ツタに覆われた岩壁、巨大な樹木
@@ -9,6 +9,6 @@
 ただし、高所落下ダメージには注意が必要です
 
 &lt;PADM&gt;　　クライミング中は【左スティック】で移動&lt;KEYM&gt;　　クライミング中は【&lt;ICON KB_W&gt;&lt;ICON KB_A&gt;&lt;ICON KB_S&gt;&lt;ICON KB_D&gt;】で移動&lt;/KEYM&gt;
-&lt;PADM&gt;　　（移動中【&lt;ICON PAD_L3&gt;ボタン】を押すと一足跳び）&lt;KEYM&gt;　　（同じ移動キーを２回押すと一足跳び）&lt;/KEYM&gt;</text>
+&lt;PADM&gt;　　（移動中【&lt;ICON PAD_L3&gt;ボタン】を押すと一足跳び）&lt;KEYM&gt;　　（同じ移動キーを２回押すと一足跳び）&lt;/KEYM&gt;</original>
   </message>
 </resource>

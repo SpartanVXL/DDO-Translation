@@ -1,734 +1,806 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>STAGE_NAME_1</key>
-    <text xml:space="preserve">Lestania</text>
+    <original xml:space="preserve">レスタニア</original>
+    <translation xml:space="preserve">Lestania</translation>
   </message>
   <message>
     <key>STAGE_NAME_2</key>
-    <text xml:space="preserve">White Dragon Temple Reeze</text>
+    <original xml:space="preserve">白竜神殿レーゼ</original>
+    <translation xml:space="preserve">White Dragon Temple Reeze</translation>
   </message>
   <message>
     <key>STAGE_NAME_3</key>
-    <text xml:space="preserve">Audience Chamber</text>
+    <original xml:space="preserve">謁見の間</original>
+    <translation xml:space="preserve">Audience Chamber</translation>
   </message>
   <message>
     <key>STAGE_NAME_4</key>
-    <text xml:space="preserve">Craft Room</text>
+    <original xml:space="preserve">クラフトルーム</original>
+    <translation xml:space="preserve">Craft Room</translation>
   </message>
   <message>
     <key>STAGE_NAME_5</key>
-    <text xml:space="preserve">Cave Harbor</text>
+    <original xml:space="preserve">港洞</original>
+    <translation xml:space="preserve">Cave Harbor</translation>
   </message>
   <message>
     <key>STAGE_NAME_8</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_9</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_10</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_11</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_12</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_13</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_14</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_15</key>
-    <text xml:space="preserve">Flavell's Shop</text>
+    <original xml:space="preserve">フラベルの店</original>
+    <translation xml:space="preserve">Flavell's Shop</translation>
   </message>
   <message>
     <key>STAGE_NAME_16</key>
-    <text xml:space="preserve">Lone House in the Forest</text>
+    <original xml:space="preserve">森の一軒家</original>
+    <translation xml:space="preserve">Lone House in the Forest</translation>
   </message>
   <message>
     <key>STAGE_NAME_17</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_18</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_19</key>
-    <text xml:space="preserve">Pedro's General Shop</text>
+    <original xml:space="preserve">ペドロ雑貨店</original>
+    <translation xml:space="preserve">Pedro's General Shop</translation>
   </message>
   <message>
     <key>STAGE_NAME_20</key>
-    <text xml:space="preserve">Yanks' General Shop</text>
+    <original xml:space="preserve">ヤンクスのよろず屋</original>
+    <translation xml:space="preserve">Yanks' General Shop</translation>
   </message>
   <message>
     <key>STAGE_NAME_21</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_22</key>
-    <text xml:space="preserve">Ivan's Hut</text>
+    <original xml:space="preserve">イヴァンの山小屋</original>
+    <translation xml:space="preserve">Ivan's Hut</translation>
   </message>
   <message>
     <key>STAGE_NAME_23</key>
-    <text xml:space="preserve">Eterna's Outfitter</text>
+    <original xml:space="preserve">エテルナ装具屋</original>
+    <translation xml:space="preserve">Eterna's Outfitter</translation>
   </message>
   <message>
     <key>STAGE_NAME_24</key>
-    <text xml:space="preserve">White Deer Inn</text>
+    <original xml:space="preserve">リンウッド組合宿　白鹿亭</original>
+    <translation xml:space="preserve">White Deer Inn</translation>
   </message>
   <message>
     <key>STAGE_NAME_25</key>
-    <text xml:space="preserve">Black Grape Inn</text>
+    <original xml:space="preserve">テル組合宿　黒ブドウ亭</original>
+    <translation xml:space="preserve">Black Grape Inn</translation>
   </message>
   <message>
     <key>STAGE_NAME_26</key>
-    <text xml:space="preserve">Sea Dragons Inn</text>
+    <original xml:space="preserve">ローテス組合宿　海竜亭</original>
+    <translation xml:space="preserve">Sea Dragons Inn</translation>
   </message>
   <message>
     <key>STAGE_NAME_27</key>
-    <text xml:space="preserve">食糧庫</text>
+    <original xml:space="preserve">食糧庫</original>
   </message>
   <message>
     <key>STAGE_NAME_28</key>
-    <text xml:space="preserve">森の廃墟地下</text>
+    <original xml:space="preserve">森の廃墟地下</original>
   </message>
   <message>
     <key>STAGE_NAME_29</key>
-    <text xml:space="preserve">Abandoned House Basement</text>
+    <original xml:space="preserve">廃屋の地下室</original>
+    <translation xml:space="preserve">Abandoned House Basement</translation>
   </message>
   <message>
     <key>STAGE_NAME_30</key>
-    <text xml:space="preserve">廃墟の食糧庫</text>
+    <original xml:space="preserve">廃墟の食糧庫</original>
   </message>
   <message>
     <key>STAGE_NAME_31</key>
-    <text xml:space="preserve">崩れかけたワイン庫</text>
+    <original xml:space="preserve">崩れかけたワイン庫</original>
   </message>
   <message>
     <key>STAGE_NAME_33</key>
-    <text xml:space="preserve">Seaside Cellar</text>
+    <original xml:space="preserve">海辺の地下室</original>
+    <translation xml:space="preserve">Seaside Cellar</translation>
   </message>
   <message>
     <key>STAGE_NAME_34</key>
-    <text xml:space="preserve">浜辺の地下保管庫</text>
+    <original xml:space="preserve">浜辺の地下保管庫</original>
   </message>
   <message>
     <key>STAGE_NAME_35</key>
-    <text xml:space="preserve">地下倉庫</text>
+    <original xml:space="preserve">地下倉庫</original>
   </message>
   <message>
     <key>STAGE_NAME_36</key>
-    <text xml:space="preserve">根の独房</text>
+    <original xml:space="preserve">根の独房</original>
   </message>
   <message>
     <key>STAGE_NAME_38</key>
-    <text xml:space="preserve">平原の廃墟地下室</text>
+    <original xml:space="preserve">平原の廃墟地下室</original>
   </message>
   <message>
     <key>STAGE_NAME_39</key>
-    <text xml:space="preserve">廃墟の地下室</text>
+    <original xml:space="preserve">廃墟の地下室</original>
   </message>
   <message>
     <key>STAGE_NAME_40</key>
-    <text xml:space="preserve">乾いた地下倉庫</text>
+    <original xml:space="preserve">乾いた地下倉庫</original>
   </message>
   <message>
     <key>STAGE_NAME_42</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_43</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_44</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_45</key>
-    <text xml:space="preserve">House</text>
+    <original xml:space="preserve">民家</original>
+    <translation xml:space="preserve">House</translation>
   </message>
   <message>
     <key>STAGE_NAME_47</key>
-    <text xml:space="preserve">Lighthouse Keeper's House</text>
+    <original xml:space="preserve">灯台守の家</original>
+    <translation xml:space="preserve">Lighthouse Keeper's House</translation>
   </message>
   <message>
     <key>STAGE_NAME_48</key>
-    <text xml:space="preserve">ジンゲン組合宿　風啼き亭</text>
+    <original xml:space="preserve">ジンゲン組合宿　風啼き亭</original>
   </message>
   <message>
     <key>STAGE_NAME_49</key>
-    <text xml:space="preserve">Raul's Arms and Armor Workshop</text>
+    <original xml:space="preserve">ラウル武具工房</original>
+    <translation xml:space="preserve">Raul's Arms and Armor Workshop</translation>
   </message>
   <message>
     <key>STAGE_NAME_51</key>
-    <text xml:space="preserve">Lone House in the Valley</text>
+    <original xml:space="preserve">渓谷の一軒家</original>
+    <translation xml:space="preserve">Lone House in the Valley</translation>
   </message>
   <message>
     <key>STAGE_NAME_52</key>
-    <text xml:space="preserve">Red Crystal Pavilion</text>
+    <original xml:space="preserve">キノザ組合宿　紅水晶亭</original>
+    <translation xml:space="preserve">Red Crystal Pavilion</translation>
   </message>
   <message>
     <key>STAGE_NAME_66</key>
-    <text xml:space="preserve">Gritten Fort</text>
+    <original xml:space="preserve">グリッテン砦</original>
+    <translation xml:space="preserve">Gritten Fort</translation>
   </message>
   <message>
     <key>STAGE_NAME_67</key>
-    <text xml:space="preserve">Glowworm Cave</text>
+    <original xml:space="preserve">燐光虫の洞窟</original>
+    <translation xml:space="preserve">Glowworm Cave</translation>
   </message>
   <message>
     <key>STAGE_NAME_69</key>
-    <text xml:space="preserve">Dreed Castle</text>
+    <original xml:space="preserve">ドリード城</original>
+    <translation xml:space="preserve">Dreed Castle</translation>
   </message>
   <message>
     <key>STAGE_NAME_71</key>
-    <text xml:space="preserve">Gritten Fort</text>
+    <original xml:space="preserve">グリッテン砦</original>
+    <translation xml:space="preserve">Gritten Fort</translation>
   </message>
   <message>
     <key>STAGE_NAME_72</key>
-    <text xml:space="preserve">Volden Large Tunnels</text>
+    <original xml:space="preserve">ボルド大坑道</original>
+    <translation xml:space="preserve">Volden Large Tunnels</translation>
   </message>
   <message>
     <key>STAGE_NAME_73</key>
-    <text xml:space="preserve">竜の巣</text>
+    <original xml:space="preserve">竜の巣</original>
   </message>
   <message>
     <key>STAGE_NAME_74</key>
-    <text xml:space="preserve">禊の神殿</text>
+    <original xml:space="preserve">禊の神殿</original>
   </message>
   <message>
     <key>STAGE_NAME_78</key>
-    <text xml:space="preserve">Pawn Cathedral</text>
+    <original xml:space="preserve">ポーン郷</original>
+    <translation xml:space="preserve">Pawn Cathedral</translation>
   </message>
   <message>
     <key>STAGE_NAME_79</key>
-    <text xml:space="preserve">Ancient Place of Rituals</text>
+    <original xml:space="preserve">古の祭祀場</original>
+    <translation xml:space="preserve">Ancient Place of Rituals</translation>
   </message>
   <message>
     <key>STAGE_NAME_80</key>
-    <text xml:space="preserve">Kinoza Spa</text>
+    <original xml:space="preserve">キノザ鉱泉</original>
+    <translation xml:space="preserve">Kinoza Spa</translation>
   </message>
   <message>
     <key>STAGE_NAME_83</key>
-    <text xml:space="preserve">グリッテン砦</text>
+    <original xml:space="preserve">グリッテン砦</original>
   </message>
   <message>
     <key>STAGE_NAME_85</key>
-    <text xml:space="preserve">Hidell Catacombs</text>
+    <original xml:space="preserve">ハイデル地下霊廟</original>
+    <translation xml:space="preserve">Hidell Catacombs</translation>
   </message>
   <message>
     <key>STAGE_NAME_86</key>
-    <text xml:space="preserve">廃骨場</text>
+    <original xml:space="preserve">廃骨場</original>
   </message>
   <message>
     <key>STAGE_NAME_87</key>
-    <text xml:space="preserve">開かずの路</text>
+    <original xml:space="preserve">開かずの路</original>
   </message>
   <message>
     <key>STAGE_NAME_88</key>
-    <text xml:space="preserve">Small Cave Tombs</text>
+    <original xml:space="preserve">死者の小窟</original>
+    <translation xml:space="preserve">Small Cave Tombs</translation>
   </message>
   <message>
     <key>STAGE_NAME_89</key>
-    <text xml:space="preserve">Abandoned Underground Passage</text>
+    <original xml:space="preserve">棄てられた地下道</original>
+    <translation xml:space="preserve">Abandoned Underground Passage</translation>
   </message>
   <message>
     <key>STAGE_NAME_90</key>
-    <text xml:space="preserve">Catacombs</text>
+    <original xml:space="preserve">カタコンベ</original>
+    <translation xml:space="preserve">Catacombs</translation>
   </message>
   <message>
     <key>STAGE_NAME_91</key>
-    <text xml:space="preserve">Betland Cemetary</text>
+    <original xml:space="preserve">バートランド墓地</original>
+    <translation xml:space="preserve">Betland Cemetary</translation>
   </message>
   <message>
     <key>STAGE_NAME_95</key>
-    <text xml:space="preserve">Hobolic Cave</text>
+    <original xml:space="preserve">ホボリック洞穴</original>
+    <translation xml:space="preserve">Hobolic Cave</translation>
   </message>
   <message>
     <key>STAGE_NAME_96</key>
-    <text xml:space="preserve">Miner's Secret Route</text>
+    <original xml:space="preserve">採掘師の隠れ道</original>
+    <translation xml:space="preserve">Miner's Secret Route</translation>
   </message>
   <message>
     <key>STAGE_NAME_98</key>
-    <text xml:space="preserve">Sea Roar Cave</text>
+    <original xml:space="preserve">潮騒洞窟</original>
+    <translation xml:space="preserve">Sea Roar Cave</translation>
   </message>
   <message>
     <key>STAGE_NAME_99</key>
-    <text xml:space="preserve">Howling Wind Cave</text>
+    <original xml:space="preserve">風鳴り洞窟</original>
+    <translation xml:space="preserve">Howling Wind Cave</translation>
   </message>
   <message>
     <key>STAGE_NAME_100</key>
-    <text xml:space="preserve">Cliff Tunnels</text>
+    <original xml:space="preserve">断崖の坑道</original>
+    <translation xml:space="preserve">Cliff Tunnels</translation>
   </message>
   <message>
     <key>STAGE_NAME_101</key>
-    <text xml:space="preserve">Volden Narrow Tunnels</text>
+    <original xml:space="preserve">ボルド小坑道</original>
+    <translation xml:space="preserve">Volden Narrow Tunnels</translation>
   </message>
   <message>
     <key>STAGE_NAME_102</key>
-    <text xml:space="preserve">Bandit Hideout</text>
+    <original xml:space="preserve">盗賊の隠れ家</original>
+    <translation xml:space="preserve">Bandit Hideout</translation>
   </message>
   <message>
     <key>STAGE_NAME_103</key>
-    <text xml:space="preserve">悪鬼の岩窟</text>
+    <original xml:space="preserve">悪鬼の岩窟</original>
   </message>
   <message>
     <key>STAGE_NAME_104</key>
-    <text xml:space="preserve">Southern Wall Fissure</text>
+    <original xml:space="preserve">南壁のひび</original>
+    <translation xml:space="preserve">Southern Wall Fissure</translation>
   </message>
   <message>
     <key>STAGE_NAME_110</key>
-    <text xml:space="preserve">深緑のテラス</text>
+    <original xml:space="preserve">深緑のテラス</original>
   </message>
   <message>
     <key>STAGE_NAME_111</key>
-    <text xml:space="preserve">霊泉のテラス</text>
+    <original xml:space="preserve">霊泉のテラス</original>
   </message>
   <message>
     <key>STAGE_NAME_112</key>
-    <text xml:space="preserve">蒼葉のテラス</text>
+    <original xml:space="preserve">蒼葉のテラス</original>
   </message>
   <message>
     <key>STAGE_NAME_115</key>
-    <text xml:space="preserve">ドリード排水路</text>
+    <original xml:space="preserve">ドリード排水路</original>
   </message>
   <message>
     <key>STAGE_NAME_116</key>
-    <text xml:space="preserve">汚水溜め</text>
+    <original xml:space="preserve">汚水溜め</original>
   </message>
   <message>
     <key>STAGE_NAME_117</key>
-    <text xml:space="preserve">地下通用口</text>
+    <original xml:space="preserve">地下通用口</original>
   </message>
   <message>
     <key>STAGE_NAME_119</key>
-    <text xml:space="preserve">北側排水路</text>
+    <original xml:space="preserve">北側排水路</original>
   </message>
   <message>
     <key>STAGE_NAME_120</key>
-    <text xml:space="preserve">旧騎士団連絡路</text>
+    <original xml:space="preserve">旧騎士団連絡路</original>
   </message>
   <message>
     <key>STAGE_NAME_121</key>
-    <text xml:space="preserve">中二階</text>
+    <original xml:space="preserve">中二階</original>
   </message>
   <message>
     <key>STAGE_NAME_122</key>
-    <text xml:space="preserve">浄水区</text>
+    <original xml:space="preserve">浄水区</original>
   </message>
   <message>
     <key>STAGE_NAME_124</key>
-    <text xml:space="preserve">湖岸地下室</text>
+    <original xml:space="preserve">湖岸地下室</original>
   </message>
   <message>
     <key>STAGE_NAME_125</key>
-    <text xml:space="preserve">城の古井戸</text>
+    <original xml:space="preserve">城の古井戸</original>
   </message>
   <message>
     <key>STAGE_NAME_126</key>
-    <text xml:space="preserve">テルの枯れ井戸</text>
+    <original xml:space="preserve">テルの枯れ井戸</original>
   </message>
   <message>
     <key>STAGE_NAME_127</key>
-    <text xml:space="preserve">村の枯れ井戸</text>
+    <original xml:space="preserve">村の枯れ井戸</original>
   </message>
   <message>
     <key>STAGE_NAME_128</key>
-    <text xml:space="preserve">旧鉱泉湧き口</text>
+    <original xml:space="preserve">旧鉱泉湧き口</original>
   </message>
   <message>
     <key>STAGE_NAME_133</key>
-    <text xml:space="preserve">Old Well under the Lighthouse</text>
+    <original xml:space="preserve">灯台下の古井戸</original>
+    <translation xml:space="preserve">Old Well under the Lighthouse</translation>
   </message>
   <message>
     <key>STAGE_NAME_134</key>
-    <text xml:space="preserve">Empty Well on Hidell Road</text>
+    <original xml:space="preserve">ハイデル街道の枯れ井戸</original>
+    <translation xml:space="preserve">Empty Well on Hidell Road</translation>
   </message>
   <message>
     <key>STAGE_NAME_135</key>
-    <text xml:space="preserve">Training Chapel</text>
+    <original xml:space="preserve">修練の祠</original>
+    <translation xml:space="preserve">Training Chapel</translation>
   </message>
   <message>
     <key>STAGE_NAME_136</key>
-    <text xml:space="preserve">Valley Chapel</text>
+    <original xml:space="preserve">渓谷の小堂</original>
+    <translation xml:space="preserve">Valley Chapel</translation>
   </message>
   <message>
     <key>STAGE_NAME_137</key>
-    <text xml:space="preserve">標の祠　Mysree Grove</text>
+    <original xml:space="preserve">標の祠　ミスリウ森林深部</original>
+    <translation xml:space="preserve">標の祠　Mysree Grove</translation>
   </message>
   <message>
     <key>STAGE_NAME_138</key>
-    <text xml:space="preserve">山頂の小堂</text>
+    <original xml:space="preserve">山頂の小堂</original>
   </message>
   <message>
     <key>STAGE_NAME_140</key>
-    <text xml:space="preserve">異界の狭間</text>
+    <original xml:space="preserve">異界の狭間</original>
   </message>
   <message>
     <key>STAGE_NAME_142</key>
-    <text xml:space="preserve">異界の狭間</text>
+    <original xml:space="preserve">異界の狭間</original>
   </message>
   <message>
     <key>STAGE_NAME_146</key>
-    <text xml:space="preserve">The Ark</text>
+    <original xml:space="preserve">アーク</original>
+    <translation xml:space="preserve">The Ark</translation>
   </message>
   <message>
     <key>STAGE_NAME_149</key>
-    <text xml:space="preserve">湖底連絡路</text>
+    <original xml:space="preserve">湖底連絡路</original>
   </message>
   <message>
     <key>STAGE_NAME_151</key>
-    <text xml:space="preserve">ドリード水路跡</text>
+    <original xml:space="preserve">ドリード水路跡</original>
   </message>
   <message>
     <key>STAGE_NAME_152</key>
-    <text xml:space="preserve">Kinoza Flood Control Channel</text>
+    <original xml:space="preserve">キノザ治水路</original>
+    <translation xml:space="preserve">Kinoza Flood Control Channel</translation>
   </message>
   <message>
     <key>STAGE_NAME_153</key>
-    <text xml:space="preserve">リンウッド地下水路</text>
+    <original xml:space="preserve">リンウッド地下水路</original>
   </message>
   <message>
     <key>STAGE_NAME_154</key>
-    <text xml:space="preserve">Knights' Old Guardhouse</text>
+    <original xml:space="preserve">旧騎士団詰め所</original>
+    <translation xml:space="preserve">Knights' Old Guardhouse</translation>
   </message>
   <message>
     <key>STAGE_NAME_159</key>
-    <text xml:space="preserve">Mysree Limestone Cave</text>
+    <original xml:space="preserve">ミスリウ鍾乳洞</original>
+    <translation xml:space="preserve">Mysree Limestone Cave</translation>
   </message>
   <message>
     <key>STAGE_NAME_160</key>
-    <text xml:space="preserve">Demon's Den</text>
+    <original xml:space="preserve">魔獣の巣穴</original>
+    <translation xml:space="preserve">Demon's Den</translation>
   </message>
   <message>
     <key>STAGE_NAME_161</key>
-    <text xml:space="preserve">Hunter's Secret Passage</text>
+    <original xml:space="preserve">狩人の抜け穴</original>
+    <translation xml:space="preserve">Hunter's Secret Passage</translation>
   </message>
   <message>
     <key>STAGE_NAME_165</key>
-    <text xml:space="preserve">閉ざされた古井戸</text>
+    <original xml:space="preserve">閉ざされた古井戸</original>
   </message>
   <message>
     <key>STAGE_NAME_166</key>
-    <text xml:space="preserve">Partly-Dug Well</text>
+    <original xml:space="preserve">掘削中の井戸</original>
+    <translation xml:space="preserve">Partly-Dug Well</translation>
   </message>
   <message>
     <key>STAGE_NAME_167</key>
-    <text xml:space="preserve">呻きの枯れ井戸</text>
+    <original xml:space="preserve">呻きの枯れ井戸</original>
   </message>
   <message>
     <key>STAGE_NAME_171</key>
-    <text xml:space="preserve">木陰の古井戸</text>
+    <original xml:space="preserve">木陰の古井戸</original>
   </message>
   <message>
     <key>STAGE_NAME_174</key>
-    <text xml:space="preserve">st0000 テストステージ</text>
+    <original xml:space="preserve">st0000 テストステージ</original>
   </message>
   <message>
     <key>STAGE_NAME_175</key>
-    <text xml:space="preserve">st0001 裏読み検証ステージ</text>
+    <original xml:space="preserve">st0001 裏読み検証ステージ</original>
   </message>
   <message>
     <key>STAGE_NAME_176</key>
-    <text xml:space="preserve">st0002 ランダム検証ステージ</text>
+    <original xml:space="preserve">st0002 ランダム検証ステージ</original>
   </message>
   <message>
     <key>STAGE_NAME_177</key>
-    <text xml:space="preserve">st0003 カスタム検証ステージ</text>
+    <original xml:space="preserve">st0003 カスタム検証ステージ</original>
   </message>
   <message>
     <key>STAGE_NAME_178</key>
-    <text xml:space="preserve">st0004 旧パーツ編集ステージ</text>
+    <original xml:space="preserve">st0004 旧パーツ編集ステージ</original>
   </message>
   <message>
     <key>STAGE_NAME_179</key>
-    <text xml:space="preserve">st0005 旧サウンド検証部屋</text>
+    <original xml:space="preserve">st0005 旧サウンド検証部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_180</key>
-    <text xml:space="preserve">st0006 ワールドオフセット動作確認部屋</text>
+    <original xml:space="preserve">st0006 ワールドオフセット動作確認部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_181</key>
-    <text xml:space="preserve">st0007 効果マテリアル部屋</text>
+    <original xml:space="preserve">st0007 効果マテリアル部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_182</key>
-    <text xml:space="preserve">st0008 ＡＩ検証部屋</text>
+    <original xml:space="preserve">st0008 ＡＩ検証部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_183</key>
-    <text xml:space="preserve">st0009 天候検証ステージ</text>
+    <original xml:space="preserve">st0009 天候検証ステージ</original>
   </message>
   <message>
     <key>STAGE_NAME_184</key>
-    <text xml:space="preserve">st0010 背景検証部屋</text>
+    <original xml:space="preserve">st0010 背景検証部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_185</key>
-    <text xml:space="preserve">st0011 パーツ編集ステージ（skyあり）</text>
+    <original xml:space="preserve">st0011 パーツ編集ステージ（skyあり）</original>
   </message>
   <message>
     <key>STAGE_NAME_186</key>
-    <text xml:space="preserve">st0012 パーツ編集ステージ（skyなし）</text>
+    <original xml:space="preserve">st0012 パーツ編集ステージ（skyなし）</original>
   </message>
   <message>
     <key>STAGE_NAME_187</key>
-    <text xml:space="preserve">st0013 クライム検証部屋</text>
+    <original xml:space="preserve">st0013 クライム検証部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_188</key>
-    <text xml:space="preserve">st0014 サウンド検証部屋2</text>
+    <original xml:space="preserve">st0014 サウンド検証部屋2</original>
   </message>
   <message>
     <key>STAGE_NAME_189</key>
-    <text xml:space="preserve">st0015 モデル基準部屋（フィールド）</text>
+    <original xml:space="preserve">st0015 モデル基準部屋（フィールド）</original>
   </message>
   <message>
     <key>STAGE_NAME_190</key>
-    <text xml:space="preserve">st0016 モデル基準部屋（ダンジョン）</text>
+    <original xml:space="preserve">st0016 モデル基準部屋（ダンジョン）</original>
   </message>
   <message>
     <key>STAGE_NAME_191</key>
-    <text xml:space="preserve">st0017 イベント検証部屋</text>
+    <original xml:space="preserve">st0017 イベント検証部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_192</key>
-    <text xml:space="preserve">st0018 ＯＭ検証部屋</text>
+    <original xml:space="preserve">st0018 ＯＭ検証部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_193</key>
-    <text xml:space="preserve">st0020 テスト部屋（松田）</text>
+    <original xml:space="preserve">st0020 テスト部屋（松田）</original>
   </message>
   <message>
     <key>STAGE_NAME_194</key>
-    <text xml:space="preserve">st0021 テスト部屋（Ｋ２吉田）</text>
+    <original xml:space="preserve">st0021 テスト部屋（Ｋ２吉田）</original>
   </message>
   <message>
     <key>STAGE_NAME_195</key>
-    <text xml:space="preserve">st0022 テスト部屋（Ｋ２近藤）</text>
+    <original xml:space="preserve">st0022 テスト部屋（Ｋ２近藤）</original>
   </message>
   <message>
     <key>STAGE_NAME_196</key>
-    <text xml:space="preserve">st0023 テスト部屋（藤川）</text>
+    <original xml:space="preserve">st0023 テスト部屋（藤川）</original>
   </message>
   <message>
     <key>STAGE_NAME_197</key>
-    <text xml:space="preserve">st0024 テスト部屋（西増）</text>
+    <original xml:space="preserve">st0024 テスト部屋（西増）</original>
   </message>
   <message>
     <key>STAGE_NAME_198</key>
-    <text xml:space="preserve">st0025 テスト部屋（北垣内）</text>
+    <original xml:space="preserve">st0025 テスト部屋（北垣内）</original>
   </message>
   <message>
     <key>STAGE_NAME_199</key>
-    <text xml:space="preserve">st0026 テスト部屋（向井）</text>
+    <original xml:space="preserve">st0026 テスト部屋（向井）</original>
   </message>
   <message>
     <key>STAGE_NAME_200</key>
-    <text xml:space="preserve">st0027 テスト部屋（大宅）</text>
+    <original xml:space="preserve">st0027 テスト部屋（大宅）</original>
   </message>
   <message>
     <key>STAGE_NAME_201</key>
-    <text xml:space="preserve">st0028 テスト部屋（浦郷）</text>
+    <original xml:space="preserve">st0028 テスト部屋（浦郷）</original>
   </message>
   <message>
     <key>STAGE_NAME_202</key>
-    <text xml:space="preserve">st0029 テスト部屋（渡辺）</text>
+    <original xml:space="preserve">st0029 テスト部屋（渡辺）</original>
   </message>
   <message>
     <key>STAGE_NAME_203</key>
-    <text xml:space="preserve">st0030 テスト部屋（吉岡）</text>
+    <original xml:space="preserve">st0030 テスト部屋（吉岡）</original>
   </message>
   <message>
     <key>STAGE_NAME_204</key>
-    <text xml:space="preserve">st0031 テスト部屋（川崎）</text>
+    <original xml:space="preserve">st0031 テスト部屋（川崎）</original>
   </message>
   <message>
     <key>STAGE_NAME_205</key>
-    <text xml:space="preserve">st0032 テスト部屋（坂本）</text>
+    <original xml:space="preserve">st0032 テスト部屋（坂本）</original>
   </message>
   <message>
     <key>STAGE_NAME_206</key>
-    <text xml:space="preserve">st0033 テスト部屋（山本(高)）</text>
+    <original xml:space="preserve">st0033 テスト部屋（山本(高)）</original>
   </message>
   <message>
     <key>STAGE_NAME_207</key>
-    <text xml:space="preserve">st0034 テスト部屋（坂野）</text>
+    <original xml:space="preserve">st0034 テスト部屋（坂野）</original>
   </message>
   <message>
     <key>STAGE_NAME_208</key>
-    <text xml:space="preserve">st0035 テスト部屋（浜島）</text>
+    <original xml:space="preserve">st0035 テスト部屋（浜島）</original>
   </message>
   <message>
     <key>STAGE_NAME_209</key>
-    <text xml:space="preserve">st0036 テスト部屋（田村）</text>
+    <original xml:space="preserve">st0036 テスト部屋（田村）</original>
   </message>
   <message>
     <key>STAGE_NAME_210</key>
-    <text xml:space="preserve">st0037 テスト部屋（伊藤(軍曹)）</text>
+    <original xml:space="preserve">st0037 テスト部屋（伊藤(軍曹)）</original>
   </message>
   <message>
     <key>STAGE_NAME_211</key>
-    <text xml:space="preserve">st0038 テスト部屋（品川）</text>
+    <original xml:space="preserve">st0038 テスト部屋（品川）</original>
   </message>
   <message>
     <key>STAGE_NAME_212</key>
-    <text xml:space="preserve">st0039 テスト部屋（今野）</text>
+    <original xml:space="preserve">st0039 テスト部屋（今野）</original>
   </message>
   <message>
     <key>STAGE_NAME_213</key>
-    <text xml:space="preserve">st0040 テスト部屋（市川）</text>
+    <original xml:space="preserve">st0040 テスト部屋（市川）</original>
   </message>
   <message>
     <key>STAGE_NAME_214</key>
-    <text xml:space="preserve">st0041 テスト部屋（レイドボス）</text>
+    <original xml:space="preserve">st0041 テスト部屋（レイドボス）</original>
   </message>
   <message>
     <key>STAGE_NAME_215</key>
-    <text xml:space="preserve">st0042 テスト部屋（樫本）</text>
+    <original xml:space="preserve">st0042 テスト部屋（樫本）</original>
   </message>
   <message>
     <key>STAGE_NAME_216</key>
-    <text xml:space="preserve">st0043 テスト部屋（中谷）</text>
+    <original xml:space="preserve">st0043 テスト部屋（中谷）</original>
   </message>
   <message>
     <key>STAGE_NAME_217</key>
-    <text xml:space="preserve">st0044 テスト部屋（馬来）</text>
+    <original xml:space="preserve">st0044 テスト部屋（馬来）</original>
   </message>
   <message>
     <key>STAGE_NAME_218</key>
-    <text xml:space="preserve">st0045 テスト部屋（石橋）</text>
+    <original xml:space="preserve">st0045 テスト部屋（石橋）</original>
   </message>
   <message>
     <key>STAGE_NAME_219</key>
-    <text xml:space="preserve">st0046 テスト部屋（上田）</text>
+    <original xml:space="preserve">st0046 テスト部屋（上田）</original>
   </message>
   <message>
     <key>STAGE_NAME_220</key>
-    <text xml:space="preserve">st0050 企画検証部屋 00</text>
+    <original xml:space="preserve">st0050 企画検証部屋 00</original>
   </message>
   <message>
     <key>STAGE_NAME_221</key>
-    <text xml:space="preserve">st0051 企画検証部屋 01</text>
+    <original xml:space="preserve">st0051 企画検証部屋 01</original>
   </message>
   <message>
     <key>STAGE_NAME_222</key>
-    <text xml:space="preserve">st0052 企画検証部屋 02</text>
+    <original xml:space="preserve">st0052 企画検証部屋 02</original>
   </message>
   <message>
     <key>STAGE_NAME_223</key>
-    <text xml:space="preserve">st0053 企画検証部屋 03</text>
+    <original xml:space="preserve">st0053 企画検証部屋 03</original>
   </message>
   <message>
     <key>STAGE_NAME_224</key>
-    <text xml:space="preserve">st0054 企画検証部屋 04</text>
+    <original xml:space="preserve">st0054 企画検証部屋 04</original>
   </message>
   <message>
     <key>STAGE_NAME_225</key>
-    <text xml:space="preserve">st0055 企画検証部屋 05</text>
+    <original xml:space="preserve">st0055 企画検証部屋 05</original>
   </message>
   <message>
     <key>STAGE_NAME_226</key>
-    <text xml:space="preserve">st0056 企画検証部屋 06</text>
+    <original xml:space="preserve">st0056 企画検証部屋 06</original>
   </message>
   <message>
     <key>STAGE_NAME_227</key>
-    <text xml:space="preserve">st0057 企画検証部屋 07</text>
+    <original xml:space="preserve">st0057 企画検証部屋 07</original>
   </message>
   <message>
     <key>STAGE_NAME_228</key>
-    <text xml:space="preserve">st0058 企画検証部屋 08</text>
+    <original xml:space="preserve">st0058 企画検証部屋 08</original>
   </message>
   <message>
     <key>STAGE_NAME_229</key>
-    <text xml:space="preserve">st0059 企画検証部屋 09</text>
+    <original xml:space="preserve">st0059 企画検証部屋 09</original>
   </message>
   <message>
     <key>STAGE_NAME_230</key>
-    <text xml:space="preserve">Battlefield outside Gritten Fort</text>
+    <original xml:space="preserve">グリッテン砦前　戦野</original>
+    <translation xml:space="preserve">Battlefield outside Gritten Fort</translation>
   </message>
   <message>
     <key>STAGE_NAME_231</key>
-    <text xml:space="preserve">旧水汲み場</text>
+    <original xml:space="preserve">旧水汲み場</original>
   </message>
   <message>
     <key>STAGE_NAME_232</key>
-    <text xml:space="preserve">ムービー再生部屋 (st0150)</text>
+    <original xml:space="preserve">ムービー再生部屋 (st0150)</original>
   </message>
   <message>
     <key>STAGE_NAME_233</key>
-    <text xml:space="preserve">キャラエディット部屋(st0160)</text>
+    <original xml:space="preserve">キャラエディット部屋(st0160)</original>
   </message>
   <message>
     <key>STAGE_NAME_234</key>
-    <text xml:space="preserve">st0019 パーツダンジョン検証部屋</text>
+    <original xml:space="preserve">st0019 パーツダンジョン検証部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_235</key>
-    <text xml:space="preserve">st0060 OM検証部屋（機能ありOM）</text>
+    <original xml:space="preserve">st0060 OM検証部屋（機能ありOM）</original>
   </message>
   <message>
     <key>STAGE_NAME_236</key>
-    <text xml:space="preserve">st0061 OM検証部屋（機能なしOM）</text>
+    <original xml:space="preserve">st0061 OM検証部屋（機能なしOM）</original>
   </message>
   <message>
     <key>STAGE_NAME_238</key>
-    <text xml:space="preserve">Deep Hidell Catacombs</text>
+    <original xml:space="preserve">ハイデル地下霊廟　深部</original>
+    <translation xml:space="preserve">Deep Hidell Catacombs</translation>
   </message>
   <message>
     <key>STAGE_NAME_239</key>
-    <text xml:space="preserve">Deepest Hidell Catacombs</text>
+    <original xml:space="preserve">ハイデル地下霊廟　最深部</original>
+    <translation xml:space="preserve">Deepest Hidell Catacombs</translation>
   </message>
   <message>
     <key>STAGE_NAME_240</key>
-    <text xml:space="preserve">The Ark</text>
+    <original xml:space="preserve">アーク</original>
+    <translation xml:space="preserve">The Ark</translation>
   </message>
   <message>
     <key>STAGE_NAME_241</key>
-    <text xml:space="preserve">st0062 シェーダー回収部屋１</text>
+    <original xml:space="preserve">st0062 シェーダー回収部屋１</original>
   </message>
   <message>
     <key>STAGE_NAME_242</key>
-    <text xml:space="preserve">st0063 シェーダー回収部屋２</text>
+    <original xml:space="preserve">st0063 シェーダー回収部屋２</original>
   </message>
   <message>
     <key>STAGE_NAME_243</key>
-    <text xml:space="preserve">st0064 シェーダー回収部屋３</text>
+    <original xml:space="preserve">st0064 シェーダー回収部屋３</original>
   </message>
   <message>
     <key>STAGE_NAME_244</key>
-    <text xml:space="preserve">st0047 テスト部屋（成田）</text>
+    <original xml:space="preserve">st0047 テスト部屋（成田）</original>
   </message>
   <message>
     <key>STAGE_NAME_300</key>
-    <text xml:space="preserve">Gritten Fort</text>
+    <original xml:space="preserve">グリッテン砦</original>
+    <translation xml:space="preserve">Gritten Fort</translation>
   </message>
   <message>
     <key>STAGE_NAME_303</key>
-    <text xml:space="preserve">パブ用ステージ</text>
+    <original xml:space="preserve">パブ用ステージ</original>
   </message>
   <message>
     <key>STAGE_NAME_305</key>
-    <text xml:space="preserve">st0070 ポーンダンジョン処理計測部屋</text>
+    <original xml:space="preserve">st0070 ポーンダンジョン処理計測部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_306</key>
-    <text xml:space="preserve">st0071 アーク処理計測部屋</text>
+    <original xml:space="preserve">st0071 アーク処理計測部屋</original>
   </message>
   <message>
     <key>STAGE_NAME_307</key>
-    <text xml:space="preserve">st0048 テスト部屋（矢萩）</text>
+    <original xml:space="preserve">st0048 テスト部屋（矢萩）</original>
   </message>
 </resource>

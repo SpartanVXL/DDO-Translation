@@ -1,154 +1,174 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>shop_title_rim_stone_sub</key>
-    <text xml:space="preserve">Rift Stone</text>
+    <original xml:space="preserve">リムストーン</original>
+    <translation xml:space="preserve">Rift Stone</translation>
   </message>
   <message>
     <key>shop_title_clan</key>
-    <text xml:space="preserve">Clan</text>
+    <original xml:space="preserve">Clan</original>
   </message>
   <message>
     <key>shop_title_clan_sub</key>
-    <text xml:space="preserve">Clan</text>
+    <original xml:space="preserve">クラン</original>
+    <translation xml:space="preserve">Clan</translation>
   </message>
   <message>
     <key>shop_title_cycle_contents</key>
-    <text xml:space="preserve">Grand Mission</text>
+    <original xml:space="preserve">Grand Mission</original>
   </message>
   <message>
     <key>shop_title_cycle_contents_sub</key>
-    <text xml:space="preserve">Grand Mission</text>
+    <original xml:space="preserve">グランドミッション</original>
+    <translation xml:space="preserve">Grand Mission</translation>
   </message>
   <message>
     <key>shop_title_warehouse</key>
-    <text xml:space="preserve">Warehouse</text>
+    <original xml:space="preserve">Warehouse</original>
   </message>
   <message>
     <key>shop_title_warehouse_sub</key>
-    <text xml:space="preserve">Warehouse</text>
+    <original xml:space="preserve">保管ボックス</original>
+    <translation xml:space="preserve">Warehouse</translation>
   </message>
   <message>
     <key>shop_title_craft</key>
-    <text xml:space="preserve">Craft</text>
+    <original xml:space="preserve">Craft</original>
   </message>
   <message>
     <key>shop_title_craft_sub</key>
-    <text xml:space="preserve">Craft</text>
+    <original xml:space="preserve">クラフト</original>
+    <translation xml:space="preserve">Craft</translation>
   </message>
   <message>
     <key>shop_title_area_master</key>
-    <text xml:space="preserve">Area Master</text>
+    <original xml:space="preserve">Area Master</original>
   </message>
   <message>
     <key>shop_title_area_master_sub</key>
-    <text xml:space="preserve">Area Master</text>
+    <original xml:space="preserve">エリアマスター</original>
+    <translation xml:space="preserve">Area Master</translation>
   </message>
   <message>
     <key>shop_title_inn</key>
-    <text xml:space="preserve">Inn</text>
+    <original xml:space="preserve">Inn</original>
   </message>
   <message>
     <key>shop_title_inn_sub</key>
-    <text xml:space="preserve">Inn</text>
+    <original xml:space="preserve">宿屋</original>
+    <translation xml:space="preserve">Inn</translation>
   </message>
   <message>
     <key>shop_title_bazaar</key>
-    <text xml:space="preserve">Bazaar</text>
+    <original xml:space="preserve">Bazaar</original>
   </message>
   <message>
     <key>shop_title_bazaar_sub</key>
-    <text xml:space="preserve">Bazaar</text>
+    <original xml:space="preserve">バザー</original>
+    <translation xml:space="preserve">Bazaar</translation>
   </message>
   <message>
     <key>shop_title_party_support</key>
-    <text xml:space="preserve">Party Support</text>
+    <original xml:space="preserve">Party Support</original>
   </message>
   <message>
     <key>shop_title_party_support_sub</key>
-    <text xml:space="preserve">冒険仲介</text>
+    <original xml:space="preserve">冒険仲介</original>
   </message>
   <message>
     <key>shop_title_shop</key>
-    <text xml:space="preserve">Shop</text>
+    <original xml:space="preserve">Shop</original>
   </message>
   <message>
     <key>shop_title_shop_sub</key>
-    <text xml:space="preserve">Shop</text>
+    <original xml:space="preserve">ショップ</original>
+    <translation xml:space="preserve">Shop</translation>
   </message>
   <message>
     <key>shop_title_orb_shop</key>
-    <text xml:space="preserve">Orb Shop</text>
+    <original xml:space="preserve">Orb Shop</original>
   </message>
   <message>
     <key>shop_title_orb_shop_sub</key>
-    <text xml:space="preserve">Orb Shop</text>
+    <original xml:space="preserve">ショップ</original>
+    <translation xml:space="preserve">Orb Shop</translation>
   </message>
   <message>
     <key>shop_title_arts_support</key>
-    <text xml:space="preserve">Arts Support</text>
+    <original xml:space="preserve">Arts Support</original>
   </message>
   <message>
     <key>shop_title_arts_support_sub</key>
-    <text xml:space="preserve">Arts Support</text>
+    <original xml:space="preserve">戦技補佐</original>
+    <translation xml:space="preserve">Arts Support</translation>
   </message>
   <message>
     <key>shop_title_job_master</key>
-    <text xml:space="preserve">Job Master</text>
+    <original xml:space="preserve">Job Master</original>
   </message>
   <message>
     <key>shop_title_job_master_sub</key>
-    <text xml:space="preserve">Job Master</text>
+    <original xml:space="preserve">ジョブマスター</original>
+    <translation xml:space="preserve">Job Master</translation>
   </message>
   <message>
     <key>shop_title_beauty_parlor</key>
-    <text xml:space="preserve">Beauty Salon</text>
+    <original xml:space="preserve">Beauty Salon</original>
   </message>
   <message>
     <key>shop_title_beauty_parlor_sub</key>
-    <text xml:space="preserve">Beauty Salon</text>
+    <original xml:space="preserve">美容院</original>
+    <translation xml:space="preserve">Beauty Salon</translation>
   </message>
   <message>
     <key>shop_title_revival_recover</key>
-    <text xml:space="preserve">Revival Recover</text>
+    <original xml:space="preserve">Revival Recover</original>
   </message>
   <message>
     <key>shop_title_revival_recover_sub</key>
-    <text xml:space="preserve">Recover Revival Power</text>
+    <original xml:space="preserve">復活力の回復</original>
+    <translation xml:space="preserve">Recover Revival Power</translation>
   </message>
   <message>
     <key>shop_title_delivery</key>
-    <text xml:space="preserve">Delivery</text>
+    <original xml:space="preserve">Delivery</original>
   </message>
   <message>
     <key>shop_title_delivery_sub</key>
-    <text xml:space="preserve">Delivery</text>
+    <original xml:space="preserve">納品</original>
+    <translation xml:space="preserve">Delivery</translation>
   </message>
   <message>
     <key>shop_title_rim_stone</key>
-    <text xml:space="preserve">Rift Stone</text>
+    <original xml:space="preserve">Rim Stone</original>
+    <translation xml:space="preserve">Rift Stone</translation>
   </message>
   <message>
     <key>shop_title_gacha</key>
-    <text xml:space="preserve">Treasure Lot</text>
+    <original xml:space="preserve">Treasures Lot</original>
+    <translation xml:space="preserve">Treasure Lot</translation>
   </message>
   <message>
     <key>shop_title_gacha_sub</key>
-    <text xml:space="preserve">Treasure Lot</text>
+    <original xml:space="preserve">トレジャーズロット</original>
+    <translation xml:space="preserve">Treasure Lot</translation>
   </message>
   <message>
     <key>shop_title_quest_board</key>
-    <text xml:space="preserve">Quest Board</text>
+    <original xml:space="preserve">Quest Board</original>
   </message>
   <message>
     <key>shop_title_quest_board_sub</key>
-    <text xml:space="preserve">Quest Board</text>
+    <original xml:space="preserve">クエストボード</original>
+    <translation xml:space="preserve">Quest Board</translation>
   </message>
   <message>
     <key>shop_title_end_contents</key>
-    <text xml:space="preserve">Extreme Missions</text>
+    <original xml:space="preserve">Extreme Missions</original>
   </message>
   <message>
     <key>shop_title_end_contents_sub</key>
-    <text xml:space="preserve">Extreme Missions</text>
+    <original xml:space="preserve">エクストリームミッション</original>
+    <translation xml:space="preserve">Extreme Missions</translation>
   </message>
 </resource>

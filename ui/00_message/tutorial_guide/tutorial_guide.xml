@@ -1,450 +1,527 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_8</key>
-    <text xml:space="preserve">Main Quests</text>
+    <original xml:space="preserve">メインクエスト</original>
+    <translation xml:space="preserve">Main Quests</translation>
   </message>
   <message>
     <key>TUTORIAL_24</key>
-    <text xml:space="preserve">詳細～広域マップの使い方</text>
+    <original xml:space="preserve">詳細～広域マップの使い方</original>
   </message>
   <message>
     <key>TUTORIAL_27</key>
-    <text xml:space="preserve">Basic Abilities</text>
+    <original xml:space="preserve">覚者の基本能力</original>
+    <translation xml:space="preserve">Basic Abilities</translation>
   </message>
   <message>
     <key>TUTORIAL_29</key>
-    <text xml:space="preserve">Shortcut Bar</text>
+    <original xml:space="preserve">ショートカット登録</original>
+    <translation xml:space="preserve">Shortcut Bar</translation>
   </message>
   <message>
     <key>TUTORIAL_31</key>
-    <text xml:space="preserve">Hazardous Locations</text>
+    <original xml:space="preserve">危険な場所</original>
+    <translation xml:space="preserve">Hazardous Locations</translation>
   </message>
   <message>
     <key>TUTORIAL_32</key>
-    <text xml:space="preserve">Board Quest</text>
+    <original xml:space="preserve">ボードクエスト</original>
+    <translation xml:space="preserve">Board Quest</translation>
   </message>
   <message>
     <key>TUTORIAL_33</key>
-    <text xml:space="preserve">Enemies to be Fought</text>
+    <original xml:space="preserve">戦うべき敵</original>
+    <translation xml:space="preserve">Enemies to be Fought</translation>
   </message>
   <message>
     <key>TUTORIAL_35</key>
-    <text xml:space="preserve">White Dragon Temple Roese</text>
+    <original xml:space="preserve">白竜神殿レーゼ</original>
+    <translation xml:space="preserve">White Dragon Temple Roese</translation>
   </message>
   <message>
     <key>TUTORIAL_36</key>
-    <text xml:space="preserve">Priority Quests</text>
+    <original xml:space="preserve">優先クエスト</original>
+    <translation xml:space="preserve">Priority Quests</translation>
   </message>
   <message>
     <key>TUTORIAL_38</key>
-    <text xml:space="preserve">NPCs</text>
+    <original xml:space="preserve">世界の住人</original>
+    <translation xml:space="preserve">NPCs</translation>
   </message>
   <message>
     <key>TUTORIAL_39</key>
-    <text xml:space="preserve">Using the Minimap</text>
+    <original xml:space="preserve">ミニマップの使い方</original>
+    <translation xml:space="preserve">Using the Minimap</translation>
   </message>
   <message>
     <key>TUTORIAL_40</key>
-    <text xml:space="preserve">Lestania News</text>
+    <original xml:space="preserve">レスタニアニュース</original>
+    <translation xml:space="preserve">Lestania News</translation>
   </message>
   <message>
     <key>TUTORIAL_42</key>
-    <text xml:space="preserve">World Quests</text>
+    <original xml:space="preserve">ワールドクエスト</original>
+    <translation xml:space="preserve">World Quests</translation>
   </message>
   <message>
     <key>TUTORIAL_43</key>
-    <text xml:space="preserve">Quest Recommended LVL</text>
+    <original xml:space="preserve">クエスト推奨レベル</original>
+    <translation xml:space="preserve">Quest Recommended LVL</translation>
   </message>
   <message>
     <key>TUTORIAL_46</key>
-    <text xml:space="preserve">Chat Log</text>
+    <original xml:space="preserve">チャットログ</original>
+    <translation xml:space="preserve">Chat Log</translation>
   </message>
   <message>
     <key>TUTORIAL_49</key>
-    <text xml:space="preserve">Basic Growth</text>
+    <original xml:space="preserve">覚者の基本成長</original>
+    <translation xml:space="preserve">Basic Growth</translation>
   </message>
   <message>
     <key>TUTORIAL_53</key>
-    <text xml:space="preserve">Climbing</text>
+    <original xml:space="preserve">クライミング</original>
+    <translation xml:space="preserve">Climbing</translation>
   </message>
   <message>
     <key>TUTORIAL_55</key>
-    <text xml:space="preserve">Obtaining Items</text>
+    <original xml:space="preserve">アイテムの入手</original>
+    <translation xml:space="preserve">Obtaining Items</translation>
   </message>
   <message>
     <key>TUTORIAL_56</key>
-    <text xml:space="preserve">Using Items</text>
+    <original xml:space="preserve">アイテムの活用</original>
+    <translation xml:space="preserve">Using Items</translation>
   </message>
   <message>
     <key>TUTORIAL_66</key>
-    <text xml:space="preserve">Tactical role of the Fighter</text>
+    <original xml:space="preserve">ファイターの戦術的役割</original>
+    <translation xml:space="preserve">Tactical role of the Fighter</translation>
   </message>
   <message>
     <key>TUTORIAL_67</key>
-    <text xml:space="preserve">Tactical role of the Priest</text>
+    <original xml:space="preserve">プリーストの戦術的役割</original>
+    <translation xml:space="preserve">Tactical role of the Priest</translation>
   </message>
   <message>
     <key>TUTORIAL_68</key>
-    <text xml:space="preserve">Tactical rule of the Hunter</text>
+    <original xml:space="preserve">ハンターの戦術的役割</original>
+    <translation xml:space="preserve">Tactical rule of the Hunter</translation>
   </message>
   <message>
     <key>TUTORIAL_69</key>
-    <text xml:space="preserve">Tactical role of the Shield Sage</text>
+    <original xml:space="preserve">シールドセージの戦術的役割</original>
+    <translation xml:space="preserve">Tactical role of the Shield Sage</translation>
   </message>
   <message>
     <key>TUTORIAL_70</key>
-    <text xml:space="preserve">Tactical role of the Seeker</text>
+    <original xml:space="preserve">シーカーの戦術的役割</original>
+    <translation xml:space="preserve">Tactical role of the Seeker</translation>
   </message>
   <message>
     <key>TUTORIAL_72</key>
-    <text xml:space="preserve">Tactical role of the Sorcerer</text>
+    <original xml:space="preserve">ソーサラーの戦術的役割</original>
+    <translation xml:space="preserve">Tactical role of the Sorcerer</translation>
   </message>
   <message>
     <key>TUTORIAL_73</key>
-    <text xml:space="preserve">Basic Tactics: Fighter</text>
+    <original xml:space="preserve">ファイターの戦法：基本</original>
+    <translation xml:space="preserve">Basic Tactics: Fighter</translation>
   </message>
   <message>
     <key>TUTORIAL_74</key>
-    <text xml:space="preserve">Basic Tactics: Priest</text>
+    <original xml:space="preserve">プリーストの戦法：基本</original>
+    <translation xml:space="preserve">Basic Tactics: Priest</translation>
   </message>
   <message>
     <key>TUTORIAL_75</key>
-    <text xml:space="preserve">Basic Tactics: Hunter</text>
+    <original xml:space="preserve">ハンターの戦法：基本</original>
+    <translation xml:space="preserve">Basic Tactics: Hunter</translation>
   </message>
   <message>
     <key>TUTORIAL_76</key>
-    <text xml:space="preserve">Basic Tactics: Shield Sage</text>
+    <original xml:space="preserve">シールドセージの戦法：基本</original>
+    <translation xml:space="preserve">Basic Tactics: Shield Sage</translation>
   </message>
   <message>
     <key>TUTORIAL_77</key>
-    <text xml:space="preserve">Basic Tactics: Seeker</text>
+    <original xml:space="preserve">シーカーの戦法：基本</original>
+    <translation xml:space="preserve">Basic Tactics: Seeker</translation>
   </message>
   <message>
     <key>TUTORIAL_79</key>
-    <text xml:space="preserve">Basic Tactics: Sorcerer</text>
+    <original xml:space="preserve">ソーサラーの戦法：基本</original>
+    <translation xml:space="preserve">Basic Tactics: Sorcerer</translation>
   </message>
   <message>
     <key>TUTORIAL_81</key>
-    <text xml:space="preserve">Beauty Shop</text>
+    <original xml:space="preserve">美容院</original>
+    <translation xml:space="preserve">Beauty Shop</translation>
   </message>
   <message>
     <key>TUTORIAL_86</key>
-    <text xml:space="preserve">Trading Goods</text>
+    <original xml:space="preserve">商品の取引</original>
+    <translation xml:space="preserve">Trading Goods</translation>
   </message>
   <message>
     <key>TUTORIAL_87</key>
-    <text xml:space="preserve">装備品</text>
+    <original xml:space="preserve">装備品</original>
   </message>
   <message>
     <key>TUTORIAL_88</key>
-    <text xml:space="preserve">Storage Box</text>
+    <original xml:space="preserve">保管ボックス</original>
+    <translation xml:space="preserve">Storage Box</translation>
   </message>
   <message>
     <key>TUTORIAL_91</key>
-    <text xml:space="preserve">竜の礎とリム転移</text>
+    <original xml:space="preserve">竜の礎とリム転移</original>
   </message>
   <message>
     <key>TUTORIAL_92</key>
-    <text xml:space="preserve">宿屋</text>
+    <original xml:space="preserve">宿屋</original>
   </message>
   <message>
     <key>TUTORIAL_93</key>
-    <text xml:space="preserve">Bazaar</text>
+    <original xml:space="preserve">バザー</original>
+    <translation xml:space="preserve">Bazaar</translation>
   </message>
   <message>
     <key>TUTORIAL_97</key>
-    <text xml:space="preserve">Party Creation</text>
+    <original xml:space="preserve">パーティー編成</original>
+    <translation xml:space="preserve">Party Creation</translation>
   </message>
   <message>
     <key>TUTORIAL_100</key>
-    <text xml:space="preserve">パーティープレイ中の注意点</text>
+    <original xml:space="preserve">パーティープレイ中の注意点</original>
   </message>
   <message>
     <key>TUTORIAL_102</key>
-    <text xml:space="preserve">戦技の獲得</text>
+    <original xml:space="preserve">戦技の獲得</original>
   </message>
   <message>
     <key>TUTORIAL_103</key>
-    <text xml:space="preserve">Grand Missions</text>
+    <original xml:space="preserve">グランドミッション</original>
+    <translation xml:space="preserve">Grand Missions</translation>
   </message>
   <message>
     <key>TUTORIAL_109</key>
-    <text xml:space="preserve">覚者のさらなる成長・竜力の継承</text>
+    <original xml:space="preserve">覚者のさらなる成長・竜力の継承</original>
   </message>
   <message>
     <key>TUTORIAL_110</key>
-    <text xml:space="preserve">Job Role（Role in Combat）</text>
+    <original xml:space="preserve">ジョブロール（戦闘時の役割）</original>
+    <translation xml:space="preserve">Job Role（Role in Combat）</translation>
   </message>
   <message>
     <key>TUTORIAL_114</key>
-    <text xml:space="preserve">Auto-Run</text>
+    <original xml:space="preserve">オートラン</original>
+    <translation xml:space="preserve">Auto-Run</translation>
   </message>
   <message>
     <key>TUTORIAL_115</key>
-    <text xml:space="preserve">Retrying Quests</text>
+    <original xml:space="preserve">冒険中のリトライ</original>
+    <translation xml:space="preserve">Retrying Quests</translation>
   </message>
   <message>
     <key>TUTORIAL_118</key>
-    <text xml:space="preserve">Job Masters</text>
+    <original xml:space="preserve">ジョブマスター</original>
+    <translation xml:space="preserve">Job Masters</translation>
   </message>
   <message>
     <key>TUTORIAL_119</key>
-    <text xml:space="preserve">拠点の利用</text>
+    <original xml:space="preserve">拠点の利用</original>
   </message>
   <message>
     <key>TUTORIAL_121</key>
-    <text xml:space="preserve">世界の探索</text>
+    <original xml:space="preserve">世界の探索</original>
   </message>
   <message>
     <key>TUTORIAL_122</key>
-    <text xml:space="preserve">Blood Orbs Exchange</text>
+    <original xml:space="preserve">ブラッドオーブの物々交換</original>
+    <translation xml:space="preserve">Blood Orbs Exchange</translation>
   </message>
   <message>
     <key>TUTORIAL_123</key>
-    <text xml:space="preserve">Area Masters</text>
+    <original xml:space="preserve">エリアマスター</original>
+    <translation xml:space="preserve">Area Masters</translation>
   </message>
   <message>
     <key>TUTORIAL_124</key>
-    <text xml:space="preserve">Basic Growth of a Pawn</text>
+    <original xml:space="preserve">ポーンの基本成長</original>
+    <translation xml:space="preserve">Basic Growth of a Pawn</translation>
   </message>
   <message>
     <key>TUTORIAL_125</key>
-    <text xml:space="preserve">Pawns</text>
+    <original xml:space="preserve">ポーンとは</original>
+    <translation xml:space="preserve">Pawns</translation>
   </message>
   <message>
     <key>TUTORIAL_126</key>
-    <text xml:space="preserve">Hiring and Organizing Pawns</text>
+    <original xml:space="preserve">ポーンの雇用と編成</original>
+    <translation xml:space="preserve">Hiring and Organizing Pawns</translation>
   </message>
   <message>
     <key>TUTORIAL_128</key>
-    <text xml:space="preserve">Resurrecting Pawns</text>
+    <original xml:space="preserve">ポーンの死亡と復活</original>
+    <translation xml:space="preserve">Resurrecting Pawns</translation>
   </message>
   <message>
     <key>TUTORIAL_131</key>
-    <text xml:space="preserve">Craft Room</text>
+    <original xml:space="preserve">クラフトルーム</original>
+    <translation xml:space="preserve">Craft Room</translation>
   </message>
   <message>
     <key>TUTORIAL_132</key>
-    <text xml:space="preserve">Crafting Basic Items</text>
+    <original xml:space="preserve">アイテム生産の基本</original>
+    <translation xml:space="preserve">Crafting Basic Items</translation>
   </message>
   <message>
     <key>TUTORIAL_135</key>
-    <text xml:space="preserve">Customizing Equipment</text>
+    <original xml:space="preserve">装備品のカスタマイズ</original>
+    <translation xml:space="preserve">Customizing Equipment</translation>
   </message>
   <message>
     <key>TUTORIAL_136</key>
-    <text xml:space="preserve">Achievements</text>
+    <original xml:space="preserve">アチーブメント</original>
+    <translation xml:space="preserve">Achievements</translation>
   </message>
   <message>
     <key>TUTORIAL_139</key>
-    <text xml:space="preserve">Clans</text>
+    <original xml:space="preserve">クラン</original>
+    <translation xml:space="preserve">Clans</translation>
   </message>
   <message>
     <key>TUTORIAL_143</key>
-    <text xml:space="preserve">Item Limits</text>
+    <original xml:space="preserve">アイテムの所持制限</original>
+    <translation xml:space="preserve">Item Limits</translation>
   </message>
   <message>
     <key>TUTORIAL_144</key>
-    <text xml:space="preserve">Quest Limits</text>
+    <original xml:space="preserve">クエストの受注制限</original>
+    <translation xml:space="preserve">Quest Limits</translation>
   </message>
   <message>
     <key>TUTORIAL_152</key>
-    <text xml:space="preserve">Suspend/Resume Game</text>
+    <original xml:space="preserve">ゲームの中断／再開方法</original>
+    <translation xml:space="preserve">Suspend/Resume Game</translation>
   </message>
   <message>
     <key>TUTORIAL_153</key>
-    <text xml:space="preserve">The Enlightened One</text>
+    <original xml:space="preserve">覚者とは</original>
+    <translation xml:space="preserve">The Enlightened One</translation>
   </message>
   <message>
     <key>TUTORIAL_155</key>
-    <text xml:space="preserve">Battle for Gritten Fort</text>
+    <original xml:space="preserve">グリッテン砦攻防戦</original>
+    <translation xml:space="preserve">Battle for Gritten Fort</translation>
   </message>
   <message>
     <key>TUTORIAL_156</key>
-    <text xml:space="preserve">Crucible of Demons</text>
+    <original xml:space="preserve">魔物のるつぼ</original>
+    <translation xml:space="preserve">Crucible of Demons</translation>
   </message>
   <message>
     <key>TUTORIAL_158</key>
-    <text xml:space="preserve">闇を照らすランタン</text>
+    <original xml:space="preserve">闇を照らすランタン</original>
   </message>
   <message>
     <key>TUTORIAL_159</key>
-    <text xml:space="preserve">Custom Skills</text>
+    <original xml:space="preserve">カスタムスキル</original>
+    <translation xml:space="preserve">Custom Skills</translation>
   </message>
   <message>
     <key>TUTORIAL_161</key>
-    <text xml:space="preserve">ジョブ修練ログ</text>
+    <original xml:space="preserve">ジョブ修練ログ</original>
   </message>
   <message>
     <key>TUTORIAL_163</key>
-    <text xml:space="preserve">拠点の礎</text>
+    <original xml:space="preserve">拠点の礎</original>
   </message>
   <message>
     <key>TUTORIAL_164</key>
-    <text xml:space="preserve">回復手段</text>
+    <original xml:space="preserve">回復手段</original>
   </message>
   <message>
     <key>TUTORIAL_165</key>
-    <text xml:space="preserve">レスタニアの状況</text>
+    <original xml:space="preserve">レスタニアの状況</original>
   </message>
   <message>
     <key>TUTORIAL_166</key>
-    <text xml:space="preserve">Stamp Bonus</text>
+    <original xml:space="preserve">スタンプボーナス</original>
+    <translation xml:space="preserve">Stamp Bonus</translation>
   </message>
   <message>
     <key>TUTORIAL_167</key>
-    <text xml:space="preserve">Strengthening Equipment with Crests</text>
+    <original xml:space="preserve">クレストによる装備強化</original>
+    <translation xml:space="preserve">Strengthening Equipment with Crests</translation>
   </message>
   <message>
     <key>TUTORIAL_168</key>
-    <text xml:space="preserve">Treasure Lot</text>
+    <original xml:space="preserve">トレジャーズロット</original>
+    <translation xml:space="preserve">Treasure Lot</translation>
   </message>
   <message>
     <key>TUTORIAL_172</key>
-    <text xml:space="preserve">Advanced Tactics: Fighter</text>
+    <original xml:space="preserve">ファイターの戦法：追記</original>
+    <translation xml:space="preserve">Advanced Tactics: Fighter</translation>
   </message>
   <message>
     <key>TUTORIAL_174</key>
-    <text xml:space="preserve">クエストの進め方</text>
+    <original xml:space="preserve">クエストの進め方</original>
   </message>
   <message>
     <key>TUTORIAL_175</key>
-    <text xml:space="preserve">戦徒の契り</text>
+    <original xml:space="preserve">戦徒の契り</original>
   </message>
   <message>
     <key>TUTORIAL_177</key>
-    <text xml:space="preserve">Advanced Tactics: Hunter</text>
+    <original xml:space="preserve">ハンターの戦法：追記</original>
+    <translation xml:space="preserve">Advanced Tactics: Hunter</translation>
   </message>
   <message>
     <key>TUTORIAL_178</key>
-    <text xml:space="preserve">Advanced Tactics: Priest</text>
+    <original xml:space="preserve">プリーストの戦法：追記</original>
+    <translation xml:space="preserve">Advanced Tactics: Priest</translation>
   </message>
   <message>
     <key>TUTORIAL_179</key>
-    <text xml:space="preserve">Advanced Tactics：Shield Sage</text>
+    <original xml:space="preserve">シールドセージの戦法：追記</original>
+    <translation xml:space="preserve">Advanced Tactics：Shield Sage</translation>
   </message>
   <message>
     <key>TUTORIAL_180</key>
-    <text xml:space="preserve">しがみつき行動</text>
+    <original xml:space="preserve">しがみつき行動</original>
   </message>
   <message>
     <key>TUTORIAL_181</key>
-    <text xml:space="preserve">冒険フィールドへの出発</text>
+    <original xml:space="preserve">冒険フィールドへの出発</original>
   </message>
   <message>
     <key>TUTORIAL_182</key>
-    <text xml:space="preserve">Recovering Revivals</text>
+    <original xml:space="preserve">復活力の回復</original>
+    <translation xml:space="preserve">Recovering Revivals</translation>
   </message>
   <message>
     <key>TUTORIAL_195</key>
-    <text xml:space="preserve">神殿への帰還</text>
+    <original xml:space="preserve">神殿への帰還</original>
   </message>
   <message>
     <key>TUTORIAL_208</key>
-    <text xml:space="preserve">Fighting Large Enemies</text>
+    <original xml:space="preserve">大型敵との戦い</original>
+    <translation xml:space="preserve">Fighting Large Enemies</translation>
   </message>
   <message>
     <key>TUTORIAL_209</key>
-    <text xml:space="preserve">進行マーカーの使い方</text>
+    <original xml:space="preserve">進行マーカーの使い方</original>
   </message>
   <message>
     <key>TUTORIAL_211</key>
-    <text xml:space="preserve">Advanced Tactics: Seeker</text>
+    <original xml:space="preserve">シーカーの戦法：追記</original>
+    <translation xml:space="preserve">Advanced Tactics: Seeker</translation>
   </message>
   <message>
     <key>TUTORIAL_212</key>
-    <text xml:space="preserve">Advanced Tactics: Sorcerer</text>
+    <original xml:space="preserve">ソーサラーの戦法：追記</original>
+    <translation xml:space="preserve">Advanced Tactics: Sorcerer</translation>
   </message>
   <message>
     <key>TUTORIAL_222</key>
-    <text xml:space="preserve">Pawn Reaction Settings</text>
+    <original xml:space="preserve">ポーンのリアクション設定</original>
+    <translation xml:space="preserve">Pawn Reaction Settings</translation>
   </message>
   <message>
     <key>TUTORIAL_224</key>
-    <text xml:space="preserve">Pawn Commands</text>
+    <original xml:space="preserve">ポーンへの命令</original>
+    <translation xml:space="preserve">Pawn Commands</translation>
   </message>
   <message>
     <key>TUTORIAL_226</key>
-    <text xml:space="preserve">パーティー同行リム転移</text>
+    <original xml:space="preserve">パーティー同行リム転移</original>
   </message>
   <message>
     <key>TUTORIAL_227</key>
-    <text xml:space="preserve">コンテンツの途中離脱</text>
+    <original xml:space="preserve">コンテンツの途中離脱</original>
   </message>
   <message>
     <key>TUTORIAL_229</key>
-    <text xml:space="preserve">ロストポーンの救出</text>
+    <original xml:space="preserve">ロストポーンの救出</original>
   </message>
   <message>
     <key>TUTORIAL_230</key>
-    <text xml:space="preserve">便利なフリーマーカー</text>
+    <original xml:space="preserve">便利なフリーマーカー</original>
   </message>
   <message>
     <key>TUTORIAL_231</key>
-    <text xml:space="preserve">ワールドクエストの情報購入</text>
+    <original xml:space="preserve">ワールドクエストの情報購入</original>
   </message>
   <message>
     <key>TUTORIAL_232</key>
-    <text xml:space="preserve">ワールドクエストの繰り返し報酬</text>
+    <original xml:space="preserve">ワールドクエストの繰り返し報酬</original>
   </message>
   <message>
     <key>TUTORIAL_233</key>
-    <text xml:space="preserve">魔物警戒スポットの強敵</text>
+    <original xml:space="preserve">魔物警戒スポットの強敵</original>
   </message>
   <message>
     <key>TUTORIAL_234</key>
-    <text xml:space="preserve">Blood Orb Enemies</text>
+    <original xml:space="preserve">オーブエネミー</original>
+    <translation xml:space="preserve">Blood Orb Enemies</translation>
   </message>
   <message>
     <key>TUTORIAL_235</key>
-    <text xml:space="preserve">連係アクション</text>
+    <original xml:space="preserve">連係アクション</original>
   </message>
   <message>
     <key>TUTORIAL_236</key>
-    <text xml:space="preserve">エリアマスターの支援品</text>
+    <original xml:space="preserve">エリアマスターの支援品</original>
   </message>
   <message>
     <key>TUTORIAL_238</key>
-    <text xml:space="preserve">Area Rank and Leveling Up</text>
+    <original xml:space="preserve">エリアランクとその上昇</original>
+    <translation xml:space="preserve">Area Rank and Leveling Up</translation>
   </message>
   <message>
     <key>TUTORIAL_239</key>
-    <text xml:space="preserve">Tutorial Guide</text>
+    <original xml:space="preserve">チュートリアルガイド</original>
+    <translation xml:space="preserve">Tutorial Guide</translation>
   </message>
   <message>
     <key>TUTORIAL_240</key>
-    <text xml:space="preserve">クラフトレベル昇格試験</text>
+    <original xml:space="preserve">クラフトレベル昇格試験</original>
   </message>
   <message>
     <key>TUTORIAL_241</key>
-    <text xml:space="preserve">エリア試練クエスト</text>
+    <original xml:space="preserve">エリア試練クエスト</original>
   </message>
   <message>
     <key>TUTORIAL_242</key>
-    <text xml:space="preserve">未知なるジョブへの挑戦</text>
+    <original xml:space="preserve">未知なるジョブへの挑戦</original>
   </message>
   <message>
     <key>TUTORIAL_243</key>
-    <text xml:space="preserve">Party Rewards</text>
+    <original xml:space="preserve">パーティーリワード</original>
+    <translation xml:space="preserve">Party Rewards</translation>
   </message>
   <message>
     <key>TUTORIAL_245</key>
-    <text xml:space="preserve">Allocating Craft Points</text>
+    <original xml:space="preserve">クラフトポイントの割り振り</original>
+    <translation xml:space="preserve">Allocating Craft Points</translation>
   </message>
   <message>
     <key>TUTORIAL_247</key>
-    <text xml:space="preserve">弱化になった時の対処</text>
+    <original xml:space="preserve">弱化になった時の対処</original>
   </message>
   <message>
     <key>TUTORIAL_249</key>
-    <text xml:space="preserve">Responding to Party Invites</text>
+    <original xml:space="preserve">パーティー要請への対応</original>
+    <translation xml:space="preserve">Responding to Party Invites</translation>
   </message>
   <message>
     <key>TUTORIAL_250</key>
-    <text xml:space="preserve">メインクエストのボス戦時の注意点</text>
+    <original xml:space="preserve">メインクエストのボス戦時の注意点</original>
   </message>
   <message>
     <key>TUTORIAL_252</key>
-    <text xml:space="preserve">レスタニア序節　到達</text>
+    <original xml:space="preserve">レスタニア序節　到達</original>
   </message>
 </resource>

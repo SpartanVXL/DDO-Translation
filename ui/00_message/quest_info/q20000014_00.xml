@@ -1,28 +1,30 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000014_00_223</key>
-    <text xml:space="preserve">A Heart Throbs Once More</text>
+    <original xml:space="preserve">ときめきをもう一度</original>
+    <translation xml:space="preserve">A Heart Throbs Once More</translation>
   </message>
   <message>
     <key>q20000014_00_223</key>
-    <text xml:space="preserve">メイリーフの願いを聞き入れ
-該当の物品を集める</text>
+    <original xml:space="preserve">メイリーフの願いを聞き入れ
+該当の物品を集める</original>
   </message>
   <message>
     <key>q20000014_00_223</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;には今
-覚者の助けを欲する者がいるらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;には今
+覚者の助けを欲する者がいるらしい</original>
   </message>
   <message>
     <key>q20000014_00_223</key>
-    <text xml:space="preserve">あのメイリーフって子、覚者の仕事に
+    <original xml:space="preserve">あのメイリーフって子、覚者の仕事に
 相当興味があるみたいね
 レオ様の後をずっとついて行ってた時もあったし
 今日なんかは、別の覚者の後ろ姿をじっと
-見つめてたわ</text>
+見つめてたわ</original>
   </message>
   <message>
     <key>q20000014_00_958</key>
-    <text xml:space="preserve">Deliver ＜&lt;SQDI NAME&gt;＞ x＜&lt;SQDI NUM&gt;＞ to Mayleaf.</text>
+    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、メイリーフに渡す</original>
+    <translation xml:space="preserve">Deliver ＜&lt;SQDI NAME&gt;＞ x＜&lt;SQDI NUM&gt;＞ to Mayleaf.</translation>
   </message>
 </resource>

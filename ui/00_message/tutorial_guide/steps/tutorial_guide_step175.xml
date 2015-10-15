@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_171</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《メインポーン》は、白竜との会話
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《メインポーン》は、白竜との会話
 《戦徒の契り》により証を示すことで、契約人数を
 増やすことができます&lt;/COL&gt;
 新たなポーンとの契約には、次の２つが必要です
@@ -10,15 +10,15 @@
 　　　……エリアマスター支援品、エリア試練クエスト
 　　　　　などで獲得可能
 
-　②メインポーン契約枠</text>
+　②メインポーン契約枠</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_324</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《&lt;SPAI NAME&gt;》&lt;/COL&gt;を必要数（&lt;SPAI NUM&gt;個）
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《&lt;SPAI NAME&gt;》&lt;/COL&gt;を必要数（&lt;SPAI NUM&gt;個）
 入手し、メインポーン契約枠に空きがあれば
 新たなメインポーンを生みだすことができます
 
 &lt;COL ffdc78&gt;なお、２人分の契約枠はすでに備わっています&lt;/COL&gt;
-契約状況は《ポーン》画面右下で確認しましょう</text>
+契約状況は《ポーン》画面右下で確認しましょう</original>
   </message>
 </resource>

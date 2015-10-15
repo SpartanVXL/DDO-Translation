@@ -1,22 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_16</key>
-    <text xml:space="preserve">各クエストには、そのクエストがクリア可能かどうかの
+    <original xml:space="preserve">各クエストには、そのクエストがクリア可能かどうかの
 指標となる&lt;COL ffdc78&gt;《推奨レベル》&lt;/COL&gt;が設定されています
 
 エリア難度、登場する敵レベルの目安となるため、
 自分のレベルに見合ったクエストに挑みましょう
 
 &lt;COL ffdc78&gt;また、ジョブレベルだけではなく装備品もレベルに
-見合っていることが前提です&lt;/COL&gt;</text>
+見合っていることが前提です&lt;/COL&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_189</key>
-    <text xml:space="preserve">なおワールドクエストやメインクエストにおいては
+    <original xml:space="preserve">なおワールドクエストやメインクエストにおいては
 仲間やポーンも含め、パーティー４人全員が
 《推奨レベル》に適正である事も重要です
 
 装備品がレベルに見合わない場合もクリア難度は
-上がるため、挑む前には準備も整えましょう</text>
+上がるため、挑む前には準備も整えましょう</original>
   </message>
 </resource>

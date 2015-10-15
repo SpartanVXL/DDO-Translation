@@ -1,446 +1,552 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ABILITY_NAME_27</key>
-    <text xml:space="preserve">Precision</text>
+    <original xml:space="preserve">精密</original>
+    <translation xml:space="preserve">Precision</translation>
   </message>
   <message>
     <key>ABILITY_NAME_62</key>
-    <text xml:space="preserve">Flameproof</text>
+    <original xml:space="preserve">防炎</original>
+    <translation xml:space="preserve">Flameproof</translation>
   </message>
   <message>
     <key>ABILITY_NAME_82</key>
-    <text xml:space="preserve">Counter</text>
+    <original xml:space="preserve">合昇</original>
+    <translation xml:space="preserve">Counter</translation>
   </message>
   <message>
     <key>ABILITY_NAME_111</key>
-    <text xml:space="preserve">Adhesion</text>
+    <original xml:space="preserve">悠握</original>
+    <translation xml:space="preserve">Adhesion</translation>
   </message>
   <message>
     <key>ABILITY_NAME_126</key>
-    <text xml:space="preserve">Break Formation</text>
+    <original xml:space="preserve">倒陣</original>
+    <translation xml:space="preserve">Break Formation</translation>
   </message>
   <message>
     <key>ABILITY_NAME_231</key>
-    <text xml:space="preserve">Soft Touch</text>
+    <original xml:space="preserve">柔触</original>
+    <translation xml:space="preserve">Soft Touch</translation>
   </message>
   <message>
     <key>ABILITY_NAME_4</key>
-    <text xml:space="preserve">Counter</text>
+    <original xml:space="preserve">受倒</original>
+    <translation xml:space="preserve">Counter</translation>
   </message>
   <message>
     <key>ABILITY_NAME_34</key>
-    <text xml:space="preserve">Delayed Explosion</text>
+    <original xml:space="preserve">遅爆</original>
+    <translation xml:space="preserve">Delayed Explosion</translation>
   </message>
   <message>
     <key>ABILITY_NAME_67</key>
-    <text xml:space="preserve">Reduce Burn</text>
+    <original xml:space="preserve">減炎</original>
+    <translation xml:space="preserve">Reduce Burn</translation>
   </message>
   <message>
     <key>ABILITY_NAME_85</key>
-    <text xml:space="preserve">Adamance</text>
+    <original xml:space="preserve">壮防</original>
+    <translation xml:space="preserve">Adamance</translation>
   </message>
   <message>
     <key>ABILITY_NAME_116</key>
-    <text xml:space="preserve">Reverse Stance</text>
+    <original xml:space="preserve">制倒</original>
+    <translation xml:space="preserve">Reverse Stance</translation>
   </message>
   <message>
     <key>ABILITY_NAME_142</key>
-    <text xml:space="preserve">Comfortable Glide</text>
+    <original xml:space="preserve">楽揚</original>
+    <translation xml:space="preserve">Comfortable Glide</translation>
   </message>
   <message>
     <key>ABILITY_NAME_232</key>
-    <text xml:space="preserve">Extended Springs</text>
+    <original xml:space="preserve">延泉</original>
+    <translation xml:space="preserve">Extended Springs</translation>
   </message>
   <message>
     <key>ABILITY_NAME_15</key>
-    <text xml:space="preserve">Fitness</text>
+    <original xml:space="preserve">剛腕</original>
+    <translation xml:space="preserve">Fitness</translation>
   </message>
   <message>
     <key>ABILITY_NAME_42</key>
-    <text xml:space="preserve">Hidden Potential</text>
+    <original xml:space="preserve">底力</original>
+    <translation xml:space="preserve">Hidden Potential</translation>
   </message>
   <message>
     <key>ABILITY_NAME_57</key>
-    <text xml:space="preserve">Assist Defense</text>
+    <original xml:space="preserve">防助</original>
+    <translation xml:space="preserve">Assist Defense</translation>
   </message>
   <message>
     <key>ABILITY_NAME_79</key>
-    <text xml:space="preserve">Prominence</text>
+    <original xml:space="preserve">異彩</original>
+    <translation xml:space="preserve">Prominence</translation>
   </message>
   <message>
     <key>ABILITY_NAME_109</key>
-    <text xml:space="preserve">Leap Grip</text>
+    <original xml:space="preserve">躍握</original>
+    <translation xml:space="preserve">Leap Grip</translation>
   </message>
   <message>
     <key>ABILITY_NAME_137</key>
-    <text xml:space="preserve">Equanimity</text>
+    <original xml:space="preserve">至極</original>
+    <translation xml:space="preserve">Equanimity</translation>
   </message>
   <message>
     <key>ABILITY_NAME_236</key>
-    <text xml:space="preserve">Enhanced Throw</text>
+    <original xml:space="preserve">強投</original>
+    <translation xml:space="preserve">Enhanced Throw</translation>
   </message>
   <message>
     <key>ABILITY_NAME_5</key>
-    <text xml:space="preserve">Counter Extension</text>
+    <original xml:space="preserve">受拡</original>
+    <translation xml:space="preserve">Counter Extension</translation>
   </message>
   <message>
     <key>ABILITY_NAME_26</key>
-    <text xml:space="preserve">Damping</text>
+    <original xml:space="preserve">制動</original>
+    <translation xml:space="preserve">Damping</translation>
   </message>
   <message>
     <key>ABILITY_NAME_52</key>
-    <text xml:space="preserve">Spirit Overflow</text>
+    <original xml:space="preserve">漲魂</original>
+    <translation xml:space="preserve">Spirit Overflow</translation>
   </message>
   <message>
     <key>ABILITY_NAME_81</key>
-    <text xml:space="preserve">Supercharge</text>
+    <original xml:space="preserve">過給</original>
+    <translation xml:space="preserve">Supercharge</translation>
   </message>
   <message>
     <key>ABILITY_NAME_101</key>
-    <text xml:space="preserve">Longline</text>
+    <original xml:space="preserve">延縄</original>
+    <translation xml:space="preserve">Longline</translation>
   </message>
   <message>
     <key>ABILITY_NAME_129</key>
-    <text xml:space="preserve">Continued Chant</text>
+    <original xml:space="preserve">続詠</original>
+    <translation xml:space="preserve">Continued Chant</translation>
   </message>
   <message>
     <key>ABILITY_NAME_228</key>
-    <text xml:space="preserve">Resource Exploration</text>
+    <original xml:space="preserve">探採</original>
+    <translation xml:space="preserve">Resource Exploration</translation>
   </message>
   <message>
     <key>ABILITY_NAME_1</key>
-    <text xml:space="preserve">Agile Motion</text>
+    <original xml:space="preserve">敏動</original>
+    <translation xml:space="preserve">Agile Motion</translation>
   </message>
   <message>
     <key>ABILITY_NAME_30</key>
-    <text xml:space="preserve">Concentration</text>
+    <original xml:space="preserve">集中</original>
+    <translation xml:space="preserve">Concentration</translation>
   </message>
   <message>
     <key>ABILITY_NAME_63</key>
-    <text xml:space="preserve">Iceproof</text>
+    <original xml:space="preserve">防氷</original>
+    <translation xml:space="preserve">Iceproof</translation>
   </message>
   <message>
     <key>ABILITY_NAME_89</key>
-    <text xml:space="preserve">Vibrant Defense</text>
+    <original xml:space="preserve">揺抑</original>
+    <translation xml:space="preserve">Vibrant Defense</translation>
   </message>
   <message>
     <key>ABILITY_NAME_123</key>
-    <text xml:space="preserve">Assisted High Jump</text>
+    <original xml:space="preserve">高舞</original>
+    <translation xml:space="preserve">Assisted High Jump</translation>
   </message>
   <message>
     <key>ABILITY_NAME_130</key>
-    <text xml:space="preserve">Flame Aggression</text>
+    <original xml:space="preserve">攻炎</original>
+    <translation xml:space="preserve">Flame Aggression</translation>
   </message>
   <message>
     <key>ABILITY_NAME_235</key>
-    <text xml:space="preserve">Efficacy</text>
+    <original xml:space="preserve">薬効</original>
+    <translation xml:space="preserve">Efficacy</translation>
   </message>
   <message>
     <key>ABILITY_NAME_9</key>
-    <text xml:space="preserve">Exhilaration</text>
+    <original xml:space="preserve">本領</original>
+    <translation xml:space="preserve">Exhilaration</translation>
   </message>
   <message>
     <key>ABILITY_NAME_36</key>
-    <text xml:space="preserve">Sturdy Form</text>
+    <original xml:space="preserve">逞姿</original>
+    <translation xml:space="preserve">Sturdy Form</translation>
   </message>
   <message>
     <key>ABILITY_NAME_68</key>
-    <text xml:space="preserve">Reduce Freeze</text>
+    <original xml:space="preserve">減氷</original>
+    <translation xml:space="preserve">Reduce Freeze</translation>
   </message>
   <message>
     <key>ABILITY_NAME_93</key>
-    <text xml:space="preserve">Sanctuary</text>
+    <original xml:space="preserve">開悟</original>
+    <translation xml:space="preserve">Sanctuary</translation>
   </message>
   <message>
     <key>ABILITY_NAME_124</key>
-    <text xml:space="preserve">Giant Safeguard</text>
+    <original xml:space="preserve">巨護</original>
+    <translation xml:space="preserve">Giant Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_131</key>
-    <text xml:space="preserve">Ice Aggression</text>
+    <original xml:space="preserve">攻氷</original>
+    <translation xml:space="preserve">Ice Aggression</translation>
   </message>
   <message>
     <key>ABILITY_NAME_237</key>
-    <text xml:space="preserve">Effect Extension</text>
+    <original xml:space="preserve">効延</original>
+    <translation xml:space="preserve">Effect Extension</translation>
   </message>
   <message>
     <key>ABILITY_NAME_16</key>
-    <text xml:space="preserve">Egression</text>
+    <original xml:space="preserve">速離</original>
+    <translation xml:space="preserve">Egression</translation>
   </message>
   <message>
     <key>ABILITY_NAME_33</key>
-    <text xml:space="preserve">Perfect Reload</text>
+    <original xml:space="preserve">匠填</original>
+    <translation xml:space="preserve">Perfect Reload</translation>
   </message>
   <message>
     <key>ABILITY_NAME_58</key>
-    <text xml:space="preserve">Assist Magick</text>
+    <original xml:space="preserve">魔助</original>
+    <translation xml:space="preserve">Assist Magick</translation>
   </message>
   <message>
     <key>ABILITY_NAME_99</key>
-    <text xml:space="preserve">Perky</text>
+    <original xml:space="preserve">溌剌</original>
+    <translation xml:space="preserve">Perky</translation>
   </message>
   <message>
     <key>ABILITY_NAME_106</key>
-    <text xml:space="preserve">Tremor-proof</text>
+    <original xml:space="preserve">耐揺</original>
+    <translation xml:space="preserve">Tremor-proof</translation>
   </message>
   <message>
     <key>ABILITY_NAME_132</key>
-    <text xml:space="preserve">Thunder Aggression</text>
+    <original xml:space="preserve">攻雷</original>
+    <translation xml:space="preserve">Thunder Aggression</translation>
   </message>
   <message>
     <key>ABILITY_NAME_240</key>
-    <text xml:space="preserve">New Attack</text>
+    <original xml:space="preserve">新攻</original>
+    <translation xml:space="preserve">New Attack</translation>
   </message>
   <message>
     <key>ABILITY_NAME_6</key>
-    <text xml:space="preserve">Advantageous Feeling</text>
+    <original xml:space="preserve">受得</original>
+    <translation xml:space="preserve">Advantageous Feeling</translation>
   </message>
   <message>
     <key>ABILITY_NAME_50</key>
-    <text xml:space="preserve">Ogre Proficiency</text>
+    <original xml:space="preserve">鬼狙</original>
+    <translation xml:space="preserve">Ogre Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_64</key>
-    <text xml:space="preserve">Thunderproof</text>
+    <original xml:space="preserve">防雷</original>
+    <translation xml:space="preserve">Thunderproof</translation>
   </message>
   <message>
     <key>ABILITY_NAME_84</key>
-    <text xml:space="preserve">Frugal Defense</text>
+    <original xml:space="preserve">長守</original>
+    <translation xml:space="preserve">Frugal Defense</translation>
   </message>
   <message>
     <key>ABILITY_NAME_102</key>
-    <text xml:space="preserve">Rope Reversal</text>
+    <original xml:space="preserve">縄倒</original>
+    <translation xml:space="preserve">Rope Reversal</translation>
   </message>
   <message>
     <key>ABILITY_NAME_146</key>
-    <text xml:space="preserve">Demon Proficiency</text>
+    <original xml:space="preserve">魔狙</original>
+    <translation xml:space="preserve">Demon Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_241</key>
-    <text xml:space="preserve">New Defense</text>
+    <original xml:space="preserve">新防</original>
+    <translation xml:space="preserve">New Defense</translation>
   </message>
   <message>
     <key>ABILITY_NAME_25</key>
-    <text xml:space="preserve">Soft Proficiency</text>
+    <original xml:space="preserve">軟狙</original>
+    <translation xml:space="preserve">Soft Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_48</key>
-    <text xml:space="preserve">Winged Proficiency</text>
+    <original xml:space="preserve">翼狙</original>
+    <translation xml:space="preserve">Winged Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_69</key>
-    <text xml:space="preserve">Reduce Shock</text>
+    <original xml:space="preserve">減雷</original>
+    <translation xml:space="preserve">Reduce Shock</translation>
   </message>
   <message>
     <key>ABILITY_NAME_87</key>
-    <text xml:space="preserve">Prescience</text>
+    <original xml:space="preserve">見極</original>
+    <translation xml:space="preserve">Prescience</translation>
   </message>
   <message>
     <key>ABILITY_NAME_125</key>
-    <text xml:space="preserve">Giant Proficiency</text>
+    <original xml:space="preserve">巨狙</original>
+    <translation xml:space="preserve">Giant Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_148</key>
-    <text xml:space="preserve">Cursed Proficiency</text>
+    <original xml:space="preserve">呪狙</original>
+    <translation xml:space="preserve">Cursed Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_244</key>
-    <text xml:space="preserve">Rain Attack</text>
+    <original xml:space="preserve">雨攻</original>
+    <translation xml:space="preserve">Rain Attack</translation>
   </message>
   <message>
     <key>ABILITY_NAME_23</key>
-    <text xml:space="preserve">Demihuman Proficiency</text>
+    <original xml:space="preserve">亜狙</original>
+    <translation xml:space="preserve">Demihuman Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_49</key>
-    <text xml:space="preserve">Ogre Safeguard</text>
+    <original xml:space="preserve">鬼護</original>
+    <translation xml:space="preserve">Ogre Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_75</key>
-    <text xml:space="preserve">Skeleton Proficiency</text>
+    <original xml:space="preserve">骨狙</original>
+    <translation xml:space="preserve">Skeleton Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_86</key>
-    <text xml:space="preserve">Denial</text>
+    <original xml:space="preserve">抗意</original>
+    <translation xml:space="preserve">Denial</translation>
   </message>
   <message>
     <key>ABILITY_NAME_120</key>
-    <text xml:space="preserve">Jump Proficiency</text>
+    <original xml:space="preserve">力跳</original>
+    <translation xml:space="preserve">Jump Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_145</key>
-    <text xml:space="preserve">Demon Safeguard</text>
+    <original xml:space="preserve">魔護</original>
+    <translation xml:space="preserve">Demon Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_245</key>
-    <text xml:space="preserve">Rain Defense</text>
+    <original xml:space="preserve">雨防</original>
+    <translation xml:space="preserve">Rain Defense</translation>
   </message>
   <message>
     <key>ABILITY_NAME_24</key>
-    <text xml:space="preserve">Soft Safeguard</text>
+    <original xml:space="preserve">軟護</original>
+    <translation xml:space="preserve">Soft Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_47</key>
-    <text xml:space="preserve">Winged Safeguard</text>
+    <original xml:space="preserve">翼護</original>
+    <translation xml:space="preserve">Winged Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_73</key>
-    <text xml:space="preserve">Undead Proficiency</text>
+    <original xml:space="preserve">腐狙</original>
+    <translation xml:space="preserve">Undead Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_88</key>
-    <text xml:space="preserve">Solid</text>
+    <original xml:space="preserve">堅牢</original>
+    <translation xml:space="preserve">Solid</translation>
   </message>
   <message>
     <key>ABILITY_NAME_121</key>
-    <text xml:space="preserve">Light Recoil</text>
+    <original xml:space="preserve">軽跳</original>
+    <translation xml:space="preserve">Light Recoil</translation>
   </message>
   <message>
     <key>ABILITY_NAME_147</key>
-    <text xml:space="preserve">Cursed Safeguard</text>
+    <original xml:space="preserve">呪護</original>
+    <translation xml:space="preserve">Cursed Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_22</key>
-    <text xml:space="preserve">Demihuman Safeguard</text>
+    <original xml:space="preserve">亜護</original>
+    <translation xml:space="preserve">Demihuman Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_31</key>
-    <text xml:space="preserve">Skilled Reload</text>
+    <original xml:space="preserve">巧填</original>
+    <translation xml:space="preserve">Skilled Reload</translation>
   </message>
   <message>
     <key>ABILITY_NAME_74</key>
-    <text xml:space="preserve">Skeleton Safeguard</text>
+    <original xml:space="preserve">骨護</original>
+    <translation xml:space="preserve">Skeleton Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_77</key>
-    <text xml:space="preserve">Trickle</text>
+    <original xml:space="preserve">貪吸</original>
+    <translation xml:space="preserve">Trickle</translation>
   </message>
   <message>
     <key>ABILITY_NAME_117</key>
-    <text xml:space="preserve">Sky Hammer</text>
+    <original xml:space="preserve">空撃</original>
+    <translation xml:space="preserve">Sky Hammer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_127</key>
-    <text xml:space="preserve">Spirit Chant</text>
+    <original xml:space="preserve">精唱</original>
+    <translation xml:space="preserve">Spirit Chant</translation>
   </message>
   <message>
     <key>ABILITY_NAME_10</key>
-    <text xml:space="preserve">Brave Effort</text>
+    <original xml:space="preserve">壮腕</original>
+    <translation xml:space="preserve">Brave Effort</translation>
   </message>
   <message>
     <key>ABILITY_NAME_29</key>
-    <text xml:space="preserve">Arrow Increase</text>
+    <original xml:space="preserve">充矢</original>
+    <translation xml:space="preserve">Arrow Increase</translation>
   </message>
   <message>
     <key>ABILITY_NAME_72</key>
-    <text xml:space="preserve">Undead Safeguard</text>
+    <original xml:space="preserve">腐護</original>
+    <translation xml:space="preserve">Undead Safeguard</translation>
   </message>
   <message>
     <key>ABILITY_NAME_80</key>
-    <text xml:space="preserve">Violent Release</text>
+    <original xml:space="preserve">烈放</original>
+    <translation xml:space="preserve">Violent Release</translation>
   </message>
   <message>
     <key>ABILITY_NAME_104</key>
-    <text xml:space="preserve">High Jump</text>
+    <original xml:space="preserve">高跳</original>
+    <translation xml:space="preserve">High Jump</translation>
   </message>
   <message>
     <key>ABILITY_NAME_128</key>
-    <text xml:space="preserve">Graceful Chant</text>
+    <original xml:space="preserve">麗詠</original>
+    <translation xml:space="preserve">Graceful Chant</translation>
   </message>
   <message>
     <key>ABILITY_NAME_2</key>
-    <text xml:space="preserve">Dire Gouge</text>
+    <original xml:space="preserve">狂刺</original>
+    <translation xml:space="preserve">Dire Gouge</translation>
   </message>
   <message>
     <key>ABILITY_NAME_51</key>
-    <text xml:space="preserve">Relaxed Cure</text>
+    <original xml:space="preserve">緩療</original>
+    <translation xml:space="preserve">Relaxed Cure</translation>
   </message>
   <message>
     <key>ABILITY_NAME_258</key>
-    <text xml:space="preserve">Close to Fire</text>
+    <original xml:space="preserve">親炎</original>
+    <translation xml:space="preserve">Close to Fire</translation>
   </message>
   <message>
     <key>ABILITY_NAME_259</key>
-    <text xml:space="preserve">Close to Ice</text>
+    <original xml:space="preserve">親氷</original>
+    <translation xml:space="preserve">Close to Ice</translation>
   </message>
   <message>
     <key>ABILITY_NAME_260</key>
-    <text xml:space="preserve">Close to Thunder</text>
+    <original xml:space="preserve">親雷</original>
+    <translation xml:space="preserve">Close to Thunder</translation>
   </message>
   <message>
     <key>ABILITY_NAME_261</key>
-    <text xml:space="preserve">Close to Holy</text>
+    <original xml:space="preserve">親聖</original>
+    <translation xml:space="preserve">Close to Holy</translation>
   </message>
   <message>
     <key>ABILITY_NAME_262</key>
-    <text xml:space="preserve">Close to Dark</text>
+    <original xml:space="preserve">親闇</original>
+    <translation xml:space="preserve">Close to Dark</translation>
   </message>
   <message>
     <key>ABILITY_NAME_263</key>
-    <text xml:space="preserve">Control Poison</text>
+    <original xml:space="preserve">制毒</original>
+    <translation xml:space="preserve">Control Poison</translation>
   </message>
   <message>
     <key>ABILITY_NAME_267</key>
-    <text xml:space="preserve">Quick Drying</text>
+    <original xml:space="preserve">速乾</original>
+    <translation xml:space="preserve">Quick Drying</translation>
   </message>
   <message>
     <key>ABILITY_NAME_268</key>
-    <text xml:space="preserve">Quick Clean</text>
+    <original xml:space="preserve">速清</original>
+    <translation xml:space="preserve">Quick Clean</translation>
   </message>
   <message>
     <key>ABILITY_NAME_271</key>
-    <text xml:space="preserve">Shrink Petrify</text>
+    <original xml:space="preserve">縮石</original>
+    <translation xml:space="preserve">Shrink Petrify</translation>
   </message>
   <message>
     <key>ABILITY_NAME_273</key>
-    <text xml:space="preserve">Shrink Tar</text>
+    <original xml:space="preserve">縮焼</original>
+    <translation xml:space="preserve">Shrink Tar</translation>
   </message>
   <message>
     <key>ABILITY_NAME_274</key>
-    <text xml:space="preserve">Shrink Freeze</text>
+    <original xml:space="preserve">縮凍</original>
+    <translation xml:space="preserve">Shrink Freeze</translation>
   </message>
   <message>
     <key>ABILITY_NAME_275</key>
-    <text xml:space="preserve">Shrink Blind</text>
+    <original xml:space="preserve">縮霧</original>
+    <translation xml:space="preserve">Shrink Blind</translation>
   </message>
   <message>
     <key>ABILITY_NAME_276</key>
-    <text xml:space="preserve">Shrink Fire</text>
+    <original xml:space="preserve">縮炎</original>
+    <translation xml:space="preserve">Shrink Fire</translation>
   </message>
   <message>
     <key>ABILITY_NAME_277</key>
-    <text xml:space="preserve">Shrink Ice</text>
+    <original xml:space="preserve">縮氷</original>
+    <translation xml:space="preserve">Shrink Ice</translation>
   </message>
   <message>
     <key>ABILITY_NAME_278</key>
-    <text xml:space="preserve">Shrink Thunder</text>
+    <original xml:space="preserve">縮雷</original>
+    <translation xml:space="preserve">Shrink Thunder</translation>
   </message>
   <message>
     <key>ABILITY_NAME_279</key>
-    <text xml:space="preserve">Shrink Holy</text>
+    <original xml:space="preserve">縮聖</original>
+    <translation xml:space="preserve">Shrink Holy</translation>
   </message>
   <message>
     <key>ABILITY_NAME_280</key>
-    <text xml:space="preserve">Shrink Dark</text>
+    <original xml:space="preserve">縮闇</original>
+    <translation xml:space="preserve">Shrink Dark</translation>
   </message>
   <message>
     <key>ABILITY_NAME_291</key>
-    <text xml:space="preserve">奏狩</text>
+    <original xml:space="preserve">奏狩</original>
   </message>
   <message>
     <key>ABILITY_NAME_292</key>
-    <text xml:space="preserve">奏泣</text>
+    <original xml:space="preserve">奏泣</original>
   </message>
   <message>
     <key>ABILITY_NAME_293</key>
-    <text xml:space="preserve">奏隆</text>
+    <original xml:space="preserve">奏隆</original>
   </message>
   <message>
     <key>ABILITY_NAME_294</key>
-    <text xml:space="preserve">奏岩</text>
+    <original xml:space="preserve">奏岩</original>
   </message>
   <message>
     <key>ABILITY_NAME_295</key>
-    <text xml:space="preserve">奏村</text>
+    <original xml:space="preserve">奏村</original>
   </message>
 </resource>

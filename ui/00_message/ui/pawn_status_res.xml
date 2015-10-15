@@ -1,18 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>PAWN_STATUS_RES_PARTY</key>
-    <text xml:space="preserve">Party</text>
+    <original xml:space="preserve">パーティー中</original>
+    <translation xml:space="preserve">Party</translation>
   </message>
   <message>
     <key>PAWN_STATUS_RES_NONE</key>
-    <text xml:space="preserve">Standby</text>
+    <original xml:space="preserve">待機</original>
+    <translation xml:space="preserve">Standby</translation>
   </message>
   <message>
     <key>PAWN_STATUS_RES_LOST</key>
-    <text xml:space="preserve">Lost</text>
+    <original xml:space="preserve">ロスト中</original>
+    <translation xml:space="preserve">Lost</translation>
   </message>
   <message>
     <key>PAWN_STATUS_RES_CRAFT</key>
-    <text xml:space="preserve">Crafting</text>
+    <original xml:space="preserve">クラフト中</original>
+    <translation xml:space="preserve">Crafting</translation>
   </message>
 </resource>

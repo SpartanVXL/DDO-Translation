@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_124</key>
-    <text xml:space="preserve">プリーストは味方支援の専門家です
+    <original xml:space="preserve">プリーストは味方支援の専門家です
 回復、能力上昇や敵の弱点探知といった
 サポートに秀でます
 
@@ -9,6 +9,6 @@
 &lt;PADM&gt;　【&lt;ICON STG_ATTACK_0&gt;ボタン】ヒールオーラ（自身に回復陣）&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_L&gt;クリック】ヒールオーラ（自身に回復陣）&lt;/KEYM&gt;
 &lt;PADM&gt;　【&lt;ICON STG_ATTACK_1&gt;ボタン】ブラストビット（魔法球攻撃）&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_R&gt;クリック】ブラストビット（魔法球攻撃）&lt;/KEYM&gt;
 &lt;PADM&gt;　【&lt;ICON PAD_R1&gt;ボタン】＋【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_F&gt;】セイントオーラ（自身に攻撃用の聖撃陣）&lt;/KEYM&gt;
-&lt;PADM&gt;　　　　　　セイントオーラ（自身に攻撃用の聖撃陣）</text>
+&lt;PADM&gt;　　　　　　セイントオーラ（自身に攻撃用の聖撃陣）</original>
   </message>
 </resource>

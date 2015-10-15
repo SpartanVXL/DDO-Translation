@@ -1,41 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050004_00_56</key>
-    <text xml:space="preserve">Flowers Bathed in Light</text>
+    <original xml:space="preserve">光浴びる花</original>
+    <translation xml:space="preserve">Flowers Bathed in Light</translation>
   </message>
   <message>
     <key>q20050004_00_56</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-指定の物品を集める</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+指定の物品を集める</original>
   </message>
   <message>
     <key>q20050004_00_56</key>
-    <text xml:space="preserve">切迫した事情を抱えた人物がいると連絡があった
-速やかに&lt;NAME AREA&gt;に向かって欲しい</text>
+    <original xml:space="preserve">切迫した事情を抱えた人物がいると連絡があった
+速やかに&lt;NAME AREA&gt;に向かって欲しい</original>
   </message>
   <message>
     <key>q20050004_00_56</key>
-    <text xml:space="preserve">――聞いてくれます？
+    <original xml:space="preserve">――聞いてくれます？
 僕ね、燐光虫の洞窟に、エキセントリックで
 エキゾチック、そのうえエキサイティングな女性が
 居るっていうから、期待値最高で行ってみたんです
 そしたら、もうアレで――
-まあ、あなたも一度訪ねてみてくださいよ</text>
+まあ、あなたも一度訪ねてみてくださいよ</original>
   </message>
   <message>
     <key>q20050004_00_1005</key>
-    <text xml:space="preserve">Retrieve the flowers in the Glowworm Cave (3 left).</text>
+    <original xml:space="preserve">＜燐光虫の洞窟＞で幻の花を探す（残り３）</original>
+    <translation xml:space="preserve">Retrieve the flowers in the Glowworm Cave (3 left).</translation>
   </message>
   <message>
     <key>q20050004_00_1090</key>
-    <text xml:space="preserve">Retrieve the flowers in the Glowworm Cave (2 left).</text>
+    <original xml:space="preserve">＜燐光虫の洞窟＞で幻の花を探す（残り２）</original>
+    <translation xml:space="preserve">Retrieve the flowers in the Glowworm Cave (2 left).</translation>
   </message>
   <message>
     <key>q20050004_00_1091</key>
-    <text xml:space="preserve">Retrieve the flowers in the Glowworm Cave (1 left).</text>
+    <original xml:space="preserve">＜燐光虫の洞窟＞で幻の花を探す（残り１）</original>
+    <translation xml:space="preserve">Retrieve the flowers in the Glowworm Cave (1 left).</translation>
   </message>
   <message>
     <key>q20050004_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

@@ -1,40 +1,45 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20040003_00_42</key>
-    <text xml:space="preserve">A Burden of Procurement</text>
+    <original xml:space="preserve">仕入れの重責</original>
+    <translation xml:space="preserve">A Burden of Procurement</translation>
   </message>
   <message>
     <key>q20040003_00_42</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-指定の物品を集める</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+指定の物品を集める</original>
   </message>
   <message>
     <key>q20040003_00_42</key>
-    <text xml:space="preserve">協力者を求める者がいるとの報告が
-&lt;NAME AREA&gt;から届いている</text>
+    <original xml:space="preserve">協力者を求める者がいるとの報告が
+&lt;NAME AREA&gt;から届いている</original>
   </message>
   <message>
     <key>q20040003_00_42</key>
-    <text xml:space="preserve">ボルド鉱山にいたあの男
+    <original xml:space="preserve">ボルド鉱山にいたあの男
 前にどこかで見たような気がするんだよな
 なぜか頭に浮かぶのは、酒場のにぎやかさ――
 うーん、こういうのって思い出せないと
-鼻がムズムズするんだよなあ</text>
+鼻がムズムズするんだよなあ</original>
   </message>
   <message>
     <key>q20040003_00_979</key>
-    <text xml:space="preserve">Retrieve the items within the Volden Narrow Tunnels (3 left).</text>
+    <original xml:space="preserve">＜ボルド小坑道＞で売れそうな物を探す（残り３）</original>
+    <translation xml:space="preserve">Retrieve the items within the Volden Narrow Tunnels (3 left).</translation>
   </message>
   <message>
     <key>q20040003_00_980</key>
-    <text xml:space="preserve">Retrieve the items within the Volden Narrow Tunnels (2 left).</text>
+    <original xml:space="preserve">＜ボルド小坑道＞で売れそうな物を探す（残り２）</original>
+    <translation xml:space="preserve">Retrieve the items within the Volden Narrow Tunnels (2 left).</translation>
   </message>
   <message>
     <key>q20040003_00_981</key>
-    <text xml:space="preserve">Retrieve the items within the Volden Narrow Tunnels (1 left).</text>
+    <original xml:space="preserve">＜ボルド小坑道＞で売れそうな物を探す（残り１）</original>
+    <translation xml:space="preserve">Retrieve the items within the Volden Narrow Tunnels (1 left).</translation>
   </message>
   <message>
     <key>q20040003_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

@@ -1,86 +1,100 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SC_MSG_HEADER</key>
-    <text xml:space="preserve">Category</text>
+    <original xml:space="preserve">Category</original>
   </message>
   <message>
     <key>SC_MSG_MESSAGE</key>
-    <text xml:space="preserve">Message</text>
+    <original xml:space="preserve">Message</original>
   </message>
   <message>
     <key>SC_MSG_EMOTION</key>
-    <text xml:space="preserve">Emote</text>
+    <original xml:space="preserve">Emote</original>
   </message>
   <message>
     <key>SC_MSG_MACRO</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
   <message>
     <key>SC_MSG_SPEAK_J</key>
-    <text xml:space="preserve">Speak</text>
+    <original xml:space="preserve">発言</original>
+    <translation xml:space="preserve">Speak</translation>
   </message>
   <message>
     <key>SC_MSG_EXECMOTION_J</key>
-    <text xml:space="preserve">Perform</text>
+    <original xml:space="preserve">実行</original>
+    <translation xml:space="preserve">Perform</translation>
   </message>
   <message>
     <key>SC_MSG_EXECMOTIONNC_J</key>
-    <text xml:space="preserve">モーションのみ実行</text>
+    <original xml:space="preserve">モーションのみ実行</original>
   </message>
   <message>
     <key>SC_MSG_SUBMENU_J</key>
-    <text xml:space="preserve">Submenu</text>
+    <original xml:space="preserve">サブメニュー</original>
+    <translation xml:space="preserve">Submenu</translation>
   </message>
   <message>
     <key>SC_MSG_MYPHRASE_J</key>
-    <text xml:space="preserve">My Phrases</text>
+    <original xml:space="preserve">マイ定型文</original>
+    <translation xml:space="preserve">My Phrases</translation>
   </message>
   <message>
     <key>SC_MSG_TMPPHRASE_J</key>
-    <text xml:space="preserve">Phrases</text>
+    <original xml:space="preserve">定型文</original>
+    <translation xml:space="preserve">Phrases</translation>
   </message>
   <message>
     <key>SC_MSG_EMOTION_J</key>
-    <text xml:space="preserve">Emotes</text>
+    <original xml:space="preserve">エモート</original>
+    <translation xml:space="preserve">Emotes</translation>
   </message>
   <message>
     <key>SC_MSG_EDITCTGR_J</key>
-    <text xml:space="preserve">Edit Category</text>
+    <original xml:space="preserve">カテゴリー名の編集</original>
+    <translation xml:space="preserve">Edit Category</translation>
   </message>
   <message>
     <key>SC_MSG_EDITSC_MSG_J</key>
-    <text xml:space="preserve">Edit Phrase</text>
+    <original xml:space="preserve">メッセージの編集</original>
+    <translation xml:space="preserve">Edit Phrase</translation>
   </message>
   <message>
     <key>SC_MSG_ADDSCM_J</key>
-    <text xml:space="preserve">Register Shortcut</text>
+    <original xml:space="preserve">ショートカット登録</original>
+    <translation xml:space="preserve">Register Shortcut</translation>
   </message>
   <message>
     <key>SC_MSG_DECIDE_J</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">決定</original>
+    <translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>SC_MSG_CANCEL_J</key>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
     <key>SC_MSG_MESSAGE_J</key>
-    <text xml:space="preserve">Message</text>
+    <original xml:space="preserve">メッセージ</original>
+    <translation xml:space="preserve">Message</translation>
   </message>
   <message>
     <key>SC_MSG_EMOTIONONCHAT_J</key>
-    <text xml:space="preserve">エモートをチャットログに表示する</text>
+    <original xml:space="preserve">エモートをチャットログに表示する</original>
   </message>
   <message>
     <key>SC_MSG_NOSC_MSG_J</key>
-    <text xml:space="preserve">(None)</text>
+    <original xml:space="preserve">（なし）</original>
+    <translation xml:space="preserve">(None)</translation>
   </message>
   <message>
     <key>SC_MSG_TITLE</key>
-    <text xml:space="preserve">Communication</text>
+    <original xml:space="preserve">Communication</original>
   </message>
   <message>
     <key>SC_MSG_TITLE_J</key>
-    <text xml:space="preserve">Communication</text>
+    <original xml:space="preserve">コミュニケーション</original>
+    <translation xml:space="preserve">Communication</translation>
   </message>
 </resource>

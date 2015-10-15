@@ -1,46 +1,49 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pop_detail_item_rank</key>
-    <text xml:space="preserve">Item Rank</text>
+    <original xml:space="preserve">Item Rank</original>
   </message>
   <message>
     <key>pop_detail_bazaar</key>
-    <text xml:space="preserve">Bazaar</text>
+    <original xml:space="preserve">バザー</original>
+    <translation xml:space="preserve">Bazaar</translation>
   </message>
   <message>
     <key>pop_detail_ok</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">OK</original>
   </message>
   <message>
     <key>pop_detail_powerup_point</key>
-    <text xml:space="preserve">Enhancement</text>
+    <original xml:space="preserve">強化ポイント</original>
+    <translation xml:space="preserve">Enhancement</translation>
   </message>
   <message>
     <key>pop_detail_status</key>
-    <text xml:space="preserve">Status</text>
+    <original xml:space="preserve">Status</original>
   </message>
   <message>
     <key>pop_detail_craft</key>
-    <text xml:space="preserve">Craft</text>
+    <original xml:space="preserve">Craft</original>
   </message>
   <message>
     <key>pop_detail_caption</key>
-    <text xml:space="preserve">Details</text>
+    <original xml:space="preserve">Details</original>
   </message>
   <message>
     <key>pop_detail_sale</key>
-    <text xml:space="preserve">Sell</text>
+    <original xml:space="preserve">売却額</original>
+    <translation xml:space="preserve">Sell</translation>
   </message>
   <message>
     <key>pop_detail_G</key>
-    <text xml:space="preserve">G</text>
+    <original xml:space="preserve">G</original>
   </message>
   <message>
     <key>pop_detail_LV</key>
-    <text xml:space="preserve">LV.</text>
+    <original xml:space="preserve">LV.</original>
   </message>
   <message>
     <key>pop_detail_target</key>
-    <text xml:space="preserve">目玉報酬</text>
+    <original xml:space="preserve">目玉報酬</original>
   </message>
 </resource>

@@ -1,14 +1,14 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_178</key>
-    <text xml:space="preserve">冒険中に敵の攻撃などで&lt;COL ffdc78&gt;《死亡状態》&lt;/COL&gt;に
+    <original xml:space="preserve">冒険中に敵の攻撃などで&lt;COL ffdc78&gt;《死亡状態》&lt;/COL&gt;に
 なってしまった場合でも
 白竜から授かった&lt;COL ffdc78&gt;《復活力》&lt;/COL&gt;を使うことで
-覚者はその場で起き上がることができます</text>
+覚者はその場で起き上がることができます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_331</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《復活力》は現実時間の１日１回、
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《復活力》は現実時間の１日１回、
 最大３個まで神殿にいる
 《復活力／ログインスタンプ》係官オフィリアから
 受け取ることができます&lt;/COL&gt;
@@ -16,12 +16,12 @@
 その日の授与分は日ごとにリセット
 され、再び受け取れるようになります
 
-１日１回、復活力は忘れず受け取りましょう</text>
+１日１回、復活力は忘れず受け取りましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_332</key>
-    <text xml:space="preserve">なお、&lt;OPCS&gt;の効果により
+    <original xml:space="preserve">なお、&lt;OPCS&gt;の効果により
 &lt;COL ffdc78&gt;《復活力》は１日何度でも
-受け取ることができるようになります&lt;/COL&gt;</text>
+受け取ることができるようになります&lt;/COL&gt;</original>
   </message>
 </resource>

@@ -1,56 +1,56 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_INFO_04_61</key>
-    <text xml:space="preserve">杖から魔法球を放つ
+    <original xml:space="preserve">杖から魔法球を放つ
 ボタンの長押しで弾数、威力が上昇する
-空中でも発動可能（ボタン長押しは地上のみ）</text>
+空中でも発動可能（ボタン長押しは地上のみ）</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_62</key>
-    <text xml:space="preserve">自身を中心に体力回復効果のある魔法エリアを
+    <original xml:space="preserve">自身を中心に体力回復効果のある魔法エリアを
 展開する（最大回復量は治癒上限値）
 空中でも発動可能、フィールドシフトに対応
 &lt;COL ffdc78&gt;LV UPで回復力が上昇し、より広範囲に
-エリア展開する＜ヒールオーラエクス＞に進化&lt;/COL&gt;</text>
+エリア展開する＜ヒールオーラエクス＞に進化&lt;/COL&gt;</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_63</key>
-    <text xml:space="preserve">自身を中心に体力回復効果のある
+    <original xml:space="preserve">自身を中心に体力回復効果のある
 魔法エリアを広範囲に展開する
-空中でも発動可能、フィールドシフトに対応</text>
+空中でも発動可能、フィールドシフトに対応</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_64</key>
-    <text xml:space="preserve">自身を中心に聖属性を帯びた攻撃魔法エリアを
+    <original xml:space="preserve">自身を中心に聖属性を帯びた攻撃魔法エリアを
 展開する
 空中でも発動可能、フィールドシフトに対応
 &lt;COL ffdc78&gt;LV UPで攻撃威力が上昇し、より広範囲に
-エリア展開する＜セイントオーラエクス＞に進化&lt;/COL&gt;</text>
+エリア展開する＜セイントオーラエクス＞に進化&lt;/COL&gt;</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_65</key>
-    <text xml:space="preserve">自身を中心に聖属性を帯びた攻撃魔法エリアを
+    <original xml:space="preserve">自身を中心に聖属性を帯びた攻撃魔法エリアを
 広範囲に展開する
-空中でも発動可能、フィールドシフトに対応</text>
+空中でも発動可能、フィールドシフトに対応</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_66</key>
-    <text xml:space="preserve">自身が展開している魔法エリアを
-味方全員に移し付与する</text>
+    <original xml:space="preserve">自身が展開している魔法エリアを
+味方全員に移し付与する</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_68</key>
-    <text xml:space="preserve">ジャンプ中の落下速度を抑制し
-滞空時間を延長する</text>
+    <original xml:space="preserve">ジャンプ中の落下速度を抑制し
+滞空時間を延長する</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_69</key>
-    <text xml:space="preserve">しがみついた状態から、癒しの魔法陣を展開させる
-魔法陣の内部は味方の体力が回復する</text>
+    <original xml:space="preserve">しがみついた状態から、癒しの魔法陣を展開させる
+魔法陣の内部は味方の体力が回復する</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_04_146</key>
-    <text xml:space="preserve">しがみついた状態から、自身を中心に
-聖属性の攻撃魔法エリアを展開する</text>
+    <original xml:space="preserve">しがみついた状態から、自身を中心に
+聖属性の攻撃魔法エリアを展開する</original>
   </message>
 </resource>

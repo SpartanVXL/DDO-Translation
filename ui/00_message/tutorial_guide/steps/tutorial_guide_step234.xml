@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_49</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《オーブエネミー》&lt;/COL&gt;と呼ばれる魔物を討伐
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《オーブエネミー》&lt;/COL&gt;と呼ばれる魔物を討伐
 すると、その敵の強さに応じた数の
 《ブラッドオーブ》が入手できます
 
@@ -9,16 +9,16 @@
 ＨＰゲージが紫色をしています&lt;/COL&gt;
 
 周囲の敵と比べてやや強い難敵ですが
-発見したら果敢に挑みましょう</text>
+発見したら果敢に挑みましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_372</key>
-    <text xml:space="preserve">オーブエネミーは、フィールド上では
+    <original xml:space="preserve">オーブエネミーは、フィールド上では
 滅多に遭遇することがありません
 
 討伐を狙うのであれば
 &lt;COL ffdc78&gt;エリアマスターが管理する封鎖ダンジョン&lt;/COL&gt;に
 多く潜んでいるため、そういったスポットに
-足を運ぶとよいでしょう</text>
+足を運ぶとよいでしょう</original>
   </message>
 </resource>

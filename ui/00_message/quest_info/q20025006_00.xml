@@ -1,27 +1,29 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20025006_00_91</key>
-    <text xml:space="preserve">遭遇の双撃</text>
+    <original xml:space="preserve">遭遇の双撃</original>
   </message>
   <message>
     <key>q20025006_00_91</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20025006_00_91</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;はいま
-なんとも言えない剣呑な雰囲気が漂っているようだ</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;はいま
+なんとも言えない剣呑な雰囲気が漂っているようだ</original>
   </message>
   <message>
     <key>q20025006_00_91</key>
-    <text xml:space="preserve">近くの見回り任務で一安心と思っていたら
+    <original xml:space="preserve">近くの見回り任務で一安心と思っていたら
 とんでもなかったんだ！
 大きな魔物が突然飛びかかって来たんで
 右によけたら、直後左側から殴られかけて――
-まったく、さんざんな目にあったよ</text>
+まったく、さんざんな目にあったよ</original>
   </message>
   <message>
     <key>q20025006_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
 </resource>

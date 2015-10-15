@@ -1,40 +1,45 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20040009_00_250</key>
-    <text xml:space="preserve">Wounded Honor</text>
+    <original xml:space="preserve">傷ついた名誉</original>
+    <translation xml:space="preserve">Wounded Honor</translation>
   </message>
   <message>
     <key>q20040009_00_250</key>
-    <text xml:space="preserve">ゲルトの願いを聞き入れ
-捕らえられた騎士団員を救出する</text>
+    <original xml:space="preserve">ゲルトの願いを聞き入れ
+捕らえられた騎士団員を救出する</original>
   </message>
   <message>
     <key>q20040009_00_250</key>
-    <text xml:space="preserve">何者かからの、迅速な救援を求める声が
-&lt;NAME AREA&gt;から届いているようだ</text>
+    <original xml:space="preserve">何者かからの、迅速な救援を求める声が
+&lt;NAME AREA&gt;から届いているようだ</original>
   </message>
   <message>
     <key>q20040009_00_250</key>
-    <text xml:space="preserve">さっき鉱山から帰ってきたんだけど
+    <original xml:space="preserve">さっき鉱山から帰ってきたんだけど
 いまゲルト騎士団長はキノザに逗留しているんだね
 何か任務があったのかな？
 険しい顔はいつも通りだから、仕事か湯治かは
-よくわからなかったよ</text>
+よくわからなかったよ</original>
   </message>
   <message>
     <key>q20040009_00_995</key>
-    <text xml:space="preserve">Search for the knights trapped within the Bandit Hideout.</text>
+    <original xml:space="preserve">＜盗賊の隠れ家＞に捕まった騎士を捜す</original>
+    <translation xml:space="preserve">Search for the knights trapped within the Bandit Hideout.</translation>
   </message>
   <message>
     <key>q20040009_00_996</key>
-    <text xml:space="preserve">Defeat the formidable enemy encountered.</text>
+    <original xml:space="preserve">指定された強敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the formidable enemy encountered.</translation>
   </message>
   <message>
     <key>q20040009_00_997</key>
-    <text xml:space="preserve">Speak to the knight.</text>
+    <original xml:space="preserve">騎士に話しかける</original>
+    <translation xml:space="preserve">Speak to the knight.</translation>
   </message>
   <message>
     <key>q20040009_00_920</key>
-    <text xml:space="preserve">Report back to Gerd.</text>
+    <original xml:space="preserve">ゲルトに報告する</original>
+    <translation xml:space="preserve">Report back to Gerd.</translation>
   </message>
 </resource>

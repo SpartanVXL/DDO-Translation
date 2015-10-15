@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_175</key>
-    <text xml:space="preserve">大盾で受けた敵の攻撃は攻力に変換し、
+    <original xml:space="preserve">大盾で受けた敵の攻撃は攻力に変換し、
 フォースゲージに溜めて使うことで
 魔法属性攻撃や、エンチャントが行えます
 攻撃、支援に属性技を使い分けましょう
 
 ＜フォース属性選択＞
 &lt;PADM&gt;　【&lt;ICON STG_ATTACK_1&gt;ボタン】＋【左スティック】&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_R&gt;クリック】＋【&lt;ICON MOUSE&gt;移動で選択】&lt;/KEYM&gt;
-　　　　　　エレメントチェンジ（属性切替）</text>
+　　　　　　エレメントチェンジ（属性切替）</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_327</key>
-    <text xml:space="preserve">フォースゲージを使うことで、属性攻撃や支援が
+    <original xml:space="preserve">フォースゲージを使うことで、属性攻撃や支援が
 可能です。体力ゲージ下のフォースゲージの
 色と本数で使用回数、蓄積状況を確認しましょう
 
@@ -20,6 +20,6 @@
 &lt;PADM&gt;　【&lt;ICON PAD_L1&gt;ボタン】＋【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_Q&gt;】フォースバースト（属性攻撃）&lt;/KEYM&gt;
 &lt;PADM&gt;　　　　　　フォースバースト（属性攻撃）&lt;/PADM&gt;
 &lt;PADM&gt;　【&lt;ICON PAD_R1&gt;ボタン】＋【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_F&gt;】フォースエンチャント（属性付与）&lt;/KEYM&gt;
-&lt;PADM&gt;　　　　　　フォースエンチャント（属性付与）</text>
+&lt;PADM&gt;　　　　　　フォースエンチャント（属性付与）</original>
   </message>
 </resource>

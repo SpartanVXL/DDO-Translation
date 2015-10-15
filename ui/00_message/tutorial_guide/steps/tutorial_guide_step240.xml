@@ -1,23 +1,23 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_382</key>
-    <text xml:space="preserve">一定のクラフトレベルに達したメインポーンは
+    <original xml:space="preserve">一定のクラフトレベルに達したメインポーンは
 &lt;COL ffdc78&gt;《クラフトレベル昇格試験》&lt;/COL&gt;に挑むことが
 できます
 
 示された&lt;COL ffdc78&gt;《昇格試験レシピ》&lt;/COL&gt;のクラフトに
 成功すれば、クラフトレベルの上限が
 引き上げられ、より高度なアイテムの生産が
-行えるようになります</text>
+行えるようになります</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_383</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;昇格試験をクリアしなければそれ以上に
+    <original xml:space="preserve">&lt;COL ffdc78&gt;昇格試験をクリアしなければそれ以上に
 クラフトレベルは上がらず、クラフト経験値も
 入らなくなるため注意しましょう&lt;/COL&gt;
 
 なお、《装備品の強化》や《クレスト装着》は
 クラフトレベルに関係なく
-材料さえあれば行うことができます</text>
+材料さえあれば行うことができます</original>
   </message>
 </resource>

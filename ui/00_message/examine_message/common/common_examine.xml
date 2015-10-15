@@ -1,221 +1,269 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">There is a lever</text>
+    <original xml:space="preserve">レバーがある</original>
+    <translation xml:space="preserve">There is a lever</translation>
   </message>
   <message>
-    <text xml:space="preserve">Pull the lever?</text>
+    <original xml:space="preserve">引きますか</original>
+    <translation xml:space="preserve">Pull the lever?</translation>
   </message>
   <message>
-    <text xml:space="preserve">Pull</text>
+    <original xml:space="preserve">引く</original>
+    <translation xml:space="preserve">Pull</translation>
   </message>
   <message>
-    <text xml:space="preserve">Don't pull</text>
+    <original xml:space="preserve">引かない</original>
+    <translation xml:space="preserve">Don't pull</translation>
   </message>
   <message>
-    <text xml:space="preserve">扉には鍵がかかっている――</text>
+    <original xml:space="preserve">扉には鍵がかかっている――</original>
   </message>
   <message>
-    <text xml:space="preserve">鍵を使いますか</text>
+    <original xml:space="preserve">鍵を使いますか</original>
   </message>
   <message>
-    <text xml:space="preserve">使う</text>
+    <original xml:space="preserve">使う</original>
   </message>
   <message>
-    <text xml:space="preserve">使わない</text>
+    <original xml:space="preserve">使わない</original>
   </message>
   <message>
-    <text xml:space="preserve">Area Master により封鎖されている――</text>
+    <original xml:space="preserve">エリアマスターにより封鎖されている――</original>
+    <translation xml:space="preserve">Area Master により封鎖されている――</translation>
   </message>
   <message>
-    <text xml:space="preserve">鍵がかかっている――
-開くには&lt;COL ffdc78&gt;《&lt;NAME ITEM&gt;》&lt;/COL&gt;が必要だ</text>
+    <original xml:space="preserve">鍵がかかっている――
+開くには&lt;COL ffdc78&gt;《&lt;NAME ITEM&gt;》&lt;/COL&gt;が必要だ</original>
   </message>
   <message>
-    <text xml:space="preserve">こちら側からは開かないようだ</text>
+    <original xml:space="preserve">こちら側からは開かないようだ</original>
   </message>
   <message>
-    <text xml:space="preserve">不思議な力で封印されている</text>
+    <original xml:space="preserve">不思議な力で封印されている</original>
   </message>
   <message>
-    <text xml:space="preserve">何かが引っ掛かって開かない</text>
+    <original xml:space="preserve">何かが引っ掛かって開かない</original>
   </message>
   <message>
-    <text xml:space="preserve">厳重に封印されている――</text>
+    <original xml:space="preserve">厳重に封印されている――</original>
   </message>
   <message>
-    <text xml:space="preserve">文字はかすれていて読めない</text>
+    <original xml:space="preserve">文字はかすれていて読めない</original>
   </message>
   <message>
-    <text xml:space="preserve">すでに息絶えている――</text>
+    <original xml:space="preserve">すでに息絶えている――</original>
   </message>
   <message>
-    <text xml:space="preserve">特に気になるものはない</text>
+    <original xml:space="preserve">特に気になるものはない</original>
   </message>
   <message>
-    <text xml:space="preserve">何か仕掛けがあるようだ</text>
+    <original xml:space="preserve">何か仕掛けがあるようだ</original>
   </message>
   <message>
-    <text xml:space="preserve">この先は他の覚者とパーティーを組んだ
-状態では進入できません</text>
+    <original xml:space="preserve">この先は他の覚者とパーティーを組んだ
+状態では進入できません</original>
   </message>
   <message>
-    <text xml:space="preserve">一人、またはポーンのみを連れて
-訪れてください</text>
+    <original xml:space="preserve">一人、またはポーンのみを連れて
+訪れてください</original>
   </message>
   <message>
-    <text xml:space="preserve">Select Destination</text>
+    <original xml:space="preserve">行き先選択</original>
+    <translation xml:space="preserve">Select Destination</translation>
   </message>
   <message>
-    <text xml:space="preserve">各ステージ名</text>
+    <original xml:space="preserve">各ステージ名</original>
   </message>
   <message>
-    <text xml:space="preserve">Quit</text>
+    <original xml:space="preserve">やめる</original>
+    <translation xml:space="preserve">Quit</translation>
   </message>
   <message>
-    <text xml:space="preserve">Ready! Please touch the progress marker.</text>
+    <original xml:space="preserve">準備完了！　進行マーカーに触れてください</original>
+    <translation xml:space="preserve">Ready! Please touch the progress marker.</translation>
   </message>
   <message>
-    <text xml:space="preserve">Ready! Please wait.</text>
+    <original xml:space="preserve">準備完了！　待機してください</original>
+    <translation xml:space="preserve">Ready! Please wait.</translation>
   </message>
   <message>
-    <text xml:space="preserve">Until the entire party is ready, 
-please wait in the circle.</text>
+    <original xml:space="preserve">パーティー全員が集合するまで
+サークル内で待機してください</original>
+    <translation xml:space="preserve">Until the entire party is ready, 
+please wait in the circle.</translation>
   </message>
   <message>
-    <text xml:space="preserve">Leader has begun a progress preparation.</text>
+    <original xml:space="preserve">リーダーが進行準備・パーティー招集を行いました</original>
+    <translation xml:space="preserve">Leader has begun a progress preparation.</translation>
   </message>
   <message>
-    <text xml:space="preserve">Gather the party if you are ready.
-Please touch the progress marker.</text>
+    <original xml:space="preserve">パーティー全員が集まり、準備完了したら
+進行マーカーに触れてください</original>
+    <translation xml:space="preserve">Gather the party if you are ready.
+Please touch the progress marker.</translation>
   </message>
   <message>
-    <text xml:space="preserve">Are you sure you want to proceed with the event?</text>
+    <original xml:space="preserve">イベントを進行しますか？</original>
+    <translation xml:space="preserve">Are you sure you want to proceed with the event?</translation>
   </message>
   <message>
-    <text xml:space="preserve">Prepare (Begin gathering party)</text>
+    <original xml:space="preserve">準備開始（パーティー招集）</original>
+    <translation xml:space="preserve">Prepare (Begin gathering party)</translation>
   </message>
   <message>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
-    <text xml:space="preserve">Only the party leader can progress the event.</text>
+    <original xml:space="preserve">イベント進行はリーダーのみ可能です</original>
+    <translation xml:space="preserve">Only the party leader can progress the event.</translation>
   </message>
   <message>
-    <text xml:space="preserve">Confirm Event Progress</text>
+    <original xml:space="preserve">イベント進行確認</original>
+    <translation xml:space="preserve">Confirm Event Progress</translation>
   </message>
   <message>
-    <text xml:space="preserve">Proceed</text>
+    <original xml:space="preserve">進行する</original>
+    <translation xml:space="preserve">Proceed</translation>
   </message>
   <message>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
-    <text xml:space="preserve">You will begin waiting to progress the event.
-Are you sure you are ready?</text>
+    <original xml:space="preserve">イベント進行待機に入ります
+準備はよろしいですか？</original>
+    <translation xml:space="preserve">You will begin waiting to progress the event.
+Are you sure you are ready?</translation>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">Are you sure you want to cancel waiting?</text>
+    <original xml:space="preserve">待機を解除しますか？</original>
+    <translation xml:space="preserve">Are you sure you want to cancel waiting?</translation>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">Until the party members are ready, 
-please wait in the circle.</text>
+    <original xml:space="preserve">メンバーが集合するまで
+サークル内で待機してください</original>
+    <translation xml:space="preserve">Until the party members are ready, 
+please wait in the circle.</translation>
   </message>
   <message>
-    <text xml:space="preserve">Confirm Event Progress</text>
+    <original xml:space="preserve">イベント進行確認</original>
+    <translation xml:space="preserve">Confirm Event Progress</translation>
   </message>
   <message>
-    <text xml:space="preserve">Proceed</text>
+    <original xml:space="preserve">進行する</original>
+    <translation xml:space="preserve">Proceed</translation>
   </message>
   <message>
-    <text xml:space="preserve">Disband (Stop Gathering Party)</text>
+    <original xml:space="preserve">準備解除（パーティー招集中止）</original>
+    <translation xml:space="preserve">Disband (Stop Gathering Party)</translation>
   </message>
   <message>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
-    <text xml:space="preserve">Confirm Event Progress</text>
+    <original xml:space="preserve">イベント進行確認</original>
+    <translation xml:space="preserve">Confirm Event Progress</translation>
   </message>
   <message>
-    <text xml:space="preserve">Ready and waiting.</text>
+    <original xml:space="preserve">準備完了、待機</original>
+    <translation xml:space="preserve">Ready and waiting.</translation>
   </message>
   <message>
-    <text xml:space="preserve">Disband (Stop Gathering Party)</text>
+    <original xml:space="preserve">準備解除（パーティー招集中止）</original>
+    <translation xml:space="preserve">Disband (Stop Gathering Party)</translation>
   </message>
   <message>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
-    <text xml:space="preserve">Confirm Event Progress
-(Wait for all party members to be ready)</text>
+    <original xml:space="preserve">イベント進行確認
+（全メンバーの準備完了を待ちます）</original>
+    <translation xml:space="preserve">Confirm Event Progress
+(Wait for all party members to be ready)</translation>
   </message>
   <message>
-    <text xml:space="preserve">Disband (Stop Gathering Party)</text>
+    <original xml:space="preserve">準備解除（パーティー招集中止）</original>
+    <translation xml:space="preserve">Disband (Stop Gathering Party)</translation>
   </message>
   <message>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
-    <text xml:space="preserve">門のような意匠がある
-わずかに不思議な気配を感じる――</text>
+    <original xml:space="preserve">門のような意匠がある
+わずかに不思議な気配を感じる――</original>
   </message>
   <message>
-    <text xml:space="preserve">――扉は閉ざされている――
+    <original xml:space="preserve">――扉は閉ざされている――
 メンバー全員が集まらなければ
 この先へは進めません
-メンバーを招集しますか？</text>
+メンバーを招集しますか？</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">――扉は閉ざされている――
+    <original xml:space="preserve">――扉は閉ざされている――
 リーダーアクションがなければ
-この先へは進めません</text>
+この先へは進めません</original>
   </message>
   <message>
-    <text xml:space="preserve">扉を開き先へ向かいますか？
-（全メンバーが準備完了しました）</text>
+    <original xml:space="preserve">扉を開き先へ向かいますか？
+（全メンバーが準備完了しました）</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No (Stop gathering party)</text>
+    <original xml:space="preserve">いいえ（パーティー招集中止）</original>
+    <translation xml:space="preserve">No (Stop gathering party)</translation>
   </message>
   <message>
-    <text xml:space="preserve">鍵を使用して扉を開きますか？
-（全メンバーが準備完了しました）</text>
+    <original xml:space="preserve">鍵を使用して扉を開きますか？
+（全メンバーが準備完了しました）</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">扉は固く閉ざされており
-開きそうにない</text>
+    <original xml:space="preserve">扉は固く閉ざされており
+開きそうにない</original>
   </message>
   <message>
-    <text xml:space="preserve">８人パーティーを組んだ状態では
-この先に移動できません</text>
+    <original xml:space="preserve">８人パーティーを組んだ状態では
+この先に移動できません</original>
   </message>
   <message>
-    <text xml:space="preserve">残り時間が追加されました</text>
+    <original xml:space="preserve">残り時間が追加されました</original>
   </message>
 </resource>

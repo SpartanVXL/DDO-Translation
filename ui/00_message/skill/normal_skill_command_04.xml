@@ -1,38 +1,38 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_COMMAND_04_61</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押す&lt;KEYM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;をクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押す&lt;KEYM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;をクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_62</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;をクリック、再クリックで解除</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;をクリック、再クリックで解除</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_63</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;をクリック、再クリックで解除</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;をクリック、再クリックで解除</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_64</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す、再度押すと解除</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す、再度押すと解除</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_65</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す、再度押すと解除</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す、再度押すと解除</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_66</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_68</key>
-    <text xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で&lt;ICON KB_SPACE&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で&lt;ICON KB_SPACE&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_69</key>
-    <text xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を押す、再度押すと解除&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;をクリック、再クリックで解除</text>
+    <original xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を押す、再度押すと解除&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;をクリック、再クリックで解除</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_146</key>
-    <text xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す、再度押すと解除&lt;KEYM&gt;しがみつき中に&lt;ICON KB_F&gt;を押す、再度押すと解除</text>
+    <original xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す、再度押すと解除&lt;KEYM&gt;しがみつき中に&lt;ICON KB_F&gt;を押す、再度押すと解除</original>
   </message>
 </resource>

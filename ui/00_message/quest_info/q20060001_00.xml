@@ -1,35 +1,37 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20060001_00_48</key>
-    <text xml:space="preserve">イニアスの怪物</text>
+    <original xml:space="preserve">イニアスの怪物</original>
   </message>
   <message>
     <key>q20060001_00_48</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20060001_00_48</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;には今
-覚者の助けを欲する者がいるらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;には今
+覚者の助けを欲する者がいるらしい</original>
   </message>
   <message>
     <key>q20060001_00_48</key>
-    <text xml:space="preserve">ようやく、イニアス湖に住みついた魔物討伐に
+    <original xml:space="preserve">ようやく、イニアス湖に住みついた魔物討伐に
 お願いしていた騎士団が来てくれたんだが
 湖は広くて、どうも人手が足りないみたいだ
-いったい、いつになったら始めてくれるんだかね</text>
+いったい、いつになったら始めてくれるんだかね</original>
   </message>
   <message>
     <key>q20060001_00_1020</key>
-    <text xml:space="preserve">湖周辺に現れる敵を討伐する</text>
+    <original xml:space="preserve">湖周辺に現れる敵を討伐する</original>
   </message>
   <message>
     <key>q20060001_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20060001_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

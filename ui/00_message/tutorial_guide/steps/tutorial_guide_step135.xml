@@ -1,17 +1,17 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_121</key>
-    <text xml:space="preserve">クラフトルームでは《アイテム生産》のほかに
+    <original xml:space="preserve">クラフトルームでは《アイテム生産》のほかに
 &lt;COL ffdc78&gt;《装備の強化》や《クレスト装着》、《カラー変更》&lt;/COL&gt;
 といった装備品のカスタマイズが可能です
 
 必要アイテムを集め、作業費を支払うことで
 基本性能アップやおしゃれができるため
-好みの装備に改良しましょう</text>
+好みの装備に改良しましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_120</key>
-    <text xml:space="preserve">＜装備の強化＞
+    <original xml:space="preserve">＜装備の強化＞
 　　素材アイテムを装備品に合成し
 　　鍛えることで、グレード（★）を上げます
 　　基本性能が大幅アップします
@@ -20,17 +20,17 @@
 　　特殊素材アイテム《クレスト》を装着
 　　することで、性能、属性や追加効果など
 　　さまざまな能力を付与できます
-　　装着済みのクレストは破壊により外せます</text>
+　　装着済みのクレストは破壊により外せます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_251</key>
-    <text xml:space="preserve">＜カラー変更＞
+    <original xml:space="preserve">＜カラー変更＞
 　　特殊素材アイテム《染料》を使うことで
 　　グレード（★１以上）の装備を染色できます
 　　染料に対応したカラーにのみ変更可能です
 
 
 &lt;COL ffdc78&gt;※各要素で対応する装備品カテゴリーが異なります&lt;/COL&gt;
-&lt;COL ffdc78&gt;※一部の装備品は要素に対応しないものがあります&lt;/COL&gt;</text>
+&lt;COL ffdc78&gt;※一部の装備品は要素に対応しないものがあります&lt;/COL&gt;</original>
   </message>
 </resource>

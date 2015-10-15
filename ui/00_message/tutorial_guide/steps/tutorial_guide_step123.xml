@@ -1,23 +1,23 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_109</key>
-    <text xml:space="preserve">&lt;COL 78f5ff&gt;《エリアマスター》情報が解放されました！&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL 78f5ff&gt;《エリアマスター》情報が解放されました！&lt;/COL&gt;
 
 &lt;COL ffdc78&gt;《エリアマスター》&lt;/COL&gt;とは、地域の事情に
 精通した人物です
 
 各エリアに１人ずつ存在し、その地域の
 クエストや注意すべき魔物の存在、冒険スポット
-についての情報を与えてくれます</text>
+についての情報を与えてくれます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_108</key>
-    <text xml:space="preserve">彼らと交流し地域のクエストに
+    <original xml:space="preserve">彼らと交流し地域のクエストに
 取り組むことで、エリアにさまざまな変化が
 起こるほか、訪れた覚者への支援品を
 受け取ることもできます
 
 &lt;COL ffdc78&gt;エリアを探索する際は、まず彼らの元へ
-立ち寄るといいでしょう&lt;/COL&gt;</text>
+立ち寄るといいでしょう&lt;/COL&gt;</original>
   </message>
 </resource>

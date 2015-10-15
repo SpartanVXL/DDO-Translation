@@ -1,42 +1,48 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ONLINE_STATUS_ONLINE</key>
-    <text xml:space="preserve">Online</text>
+    <original xml:space="preserve">オンライン</original>
+    <translation xml:space="preserve">Online</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_OFFLINE</key>
-    <text xml:space="preserve">Offline</text>
+    <original xml:space="preserve">オフライン</original>
+    <translation xml:space="preserve">Offline</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_AFK</key>
-    <text xml:space="preserve">AFK</text>
+    <original xml:space="preserve">離席中</original>
+    <translation xml:space="preserve">AFK</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_BUSY</key>
-    <text xml:space="preserve">Busy</text>
+    <original xml:space="preserve">取り込み中</original>
+    <translation xml:space="preserve">Busy</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_ENTRYBOARD</key>
-    <text xml:space="preserve">エントリーボード登録中</text>
+    <original xml:space="preserve">エントリーボード登録中</original>
   </message>
   <message>
     <key>ONLINE_STATUS_QUICKMATCH</key>
-    <text xml:space="preserve">クイックマッチ待機中</text>
+    <original xml:space="preserve">クイックマッチ待機中</original>
   </message>
   <message>
     <key>ONLINE_STATUS_EVENT</key>
-    <text xml:space="preserve">イベント中</text>
+    <original xml:space="preserve">イベント中</original>
   </message>
   <message>
     <key>ONLINE_STATUS_CONTENTS</key>
-    <text xml:space="preserve">コンテンツ中</text>
+    <original xml:space="preserve">コンテンツ中</original>
   </message>
   <message>
     <key>ONLINE_STATUS_PTL</key>
-    <text xml:space="preserve">Party (Leader)</text>
+    <original xml:space="preserve">パーティー参加中（リーダー）</original>
+    <translation xml:space="preserve">Party (Leader)</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_PTM</key>
-    <text xml:space="preserve">Party (Member)</text>
+    <original xml:space="preserve">パーティー参加中（メンバー）</original>
+    <translation xml:space="preserve">Party (Member)</translation>
   </message>
 </resource>

@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_373</key>
-    <text xml:space="preserve">２人以上で連係し行うアクション
+    <original xml:space="preserve">２人以上で連係し行うアクション
 &lt;COL ffdc78&gt;《連係投げ》&lt;/COL&gt;と&lt;COL ffdc78&gt;《押さえつけ》&lt;/COL&gt;を覚えることで
 パーティープレイの幅が広がります
 
@@ -10,17 +10,17 @@
 高所や敵の頭上に仲間を跳ね上げます
 
 　　連係投げ体勢：&lt;PADM&gt;　【&lt;ICON PAD_L1&gt;／&lt;ICON PAD_R1&gt;ボタン】＋【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_F&gt;】&lt;/KEYM&gt;
-　　高所ジャンプ：投げ体勢の味方に&lt;PADM&gt;　【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_E&gt;】&lt;/KEYM&gt;</text>
+　　高所ジャンプ：投げ体勢の味方に&lt;PADM&gt;　【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_E&gt;】&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_94</key>
-    <text xml:space="preserve">＜押さえつけ＞
+    <original xml:space="preserve">＜押さえつけ＞
 小型の敵がのけぞったりダウンした時に
 行うことで、敵を長時間拘束できます
 拘束された敵へのダメージは大幅アップします
 
 　　のけぞり／ダウン中の小型敵に&lt;PADM&gt;　【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_E&gt;】&lt;/KEYM&gt;
 　　&lt;PADM&gt;　（解除は【&lt;ICON STG_JUMP&gt;ボタン】）&lt;KEYM&gt;　（解除は【&lt;ICON KB_SPACE&gt;】）&lt;/KEYM&gt;
-　　※拘束中はスタミナを消費</text>
+　　※拘束中はスタミナを消費</original>
   </message>
 </resource>

@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_176</key>
-    <text xml:space="preserve">中～大型の敵には&lt;COL ffdc78&gt;《しがみつき》&lt;/COL&gt;が可能です
+    <original xml:space="preserve">中～大型の敵には&lt;COL ffdc78&gt;《しがみつき》&lt;/COL&gt;が可能です
 技や行動も変わるため右下のガイドで確認しましょう
 
 ＜しがみつき＞
@@ -9,6 +9,6 @@
 
 ＜しがみつきからの行動＞
 &lt;PADM&gt;　しがみついた状態で【&lt;ICON STG_ATTACK_0&gt;ボタン】攻撃など&lt;KEYM&gt;　しがみついた状態で【&lt;ICON MOUSE_CL_L&gt;クリック】攻撃など&lt;/KEYM&gt;
-&lt;PADM&gt;　しがみついた状態で【&lt;ICON STG_ATTACK_1&gt;ボタン】揺さぶり&lt;KEYM&gt;　しがみついた状態で【&lt;ICON MOUSE_CL_R&gt;クリック】揺さぶり&lt;/KEYM&gt;</text>
+&lt;PADM&gt;　しがみついた状態で【&lt;ICON STG_ATTACK_1&gt;ボタン】揺さぶり&lt;KEYM&gt;　しがみついた状態で【&lt;ICON MOUSE_CL_R&gt;クリック】揺さぶり&lt;/KEYM&gt;</original>
   </message>
 </resource>

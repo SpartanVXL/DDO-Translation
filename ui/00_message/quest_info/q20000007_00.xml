@@ -1,46 +1,52 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000007_00_216</key>
-    <text xml:space="preserve">Crackdown on Store Vandals</text>
+    <original xml:space="preserve">倉庫荒らしを懲らしめろ</original>
+    <translation xml:space="preserve">Crackdown on Store Vandals</translation>
   </message>
   <message>
     <key>q20000007_00_216</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20000007_00_216</key>
-    <text xml:space="preserve">夜間、&lt;NAME AREA&gt;で発生する問題に対し
-助力を求める人物がいるようだ</text>
+    <original xml:space="preserve">夜間、&lt;NAME AREA&gt;で発生する問題に対し
+助力を求める人物がいるようだ</original>
   </message>
   <message>
     <key>q20000007_00_216</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 ハイデルの人たちはみな働き者で、尊敬すべき
 職業意識の持ち主ばかりです
 とはいえオーク戦争で治安が悪くなってこの方
 問題も多く、夜な夜な倉庫を荒らされるとか
-商店の人がぞっとすることをつぶやいていました</text>
+商店の人がぞっとすることをつぶやいていました</original>
   </message>
   <message>
     <key>q20000007_00_885</key>
-    <text xml:space="preserve">Locate the bandits' hideout.</text>
+    <original xml:space="preserve">倉庫荒らしの行方を探し出す</original>
+    <translation xml:space="preserve">Locate the bandits' hideout.</translation>
   </message>
   <message>
     <key>q20000007_00_1128</key>
-    <text xml:space="preserve">Defeat the lookouts.</text>
+    <original xml:space="preserve">発見した見張りを倒す</original>
+    <translation xml:space="preserve">Defeat the lookouts.</translation>
   </message>
   <message>
     <key>q20000007_00_1127</key>
-    <text xml:space="preserve">Locate the main force of the bandits' hideout.</text>
+    <original xml:space="preserve">倉庫荒らしの本隊を探す</original>
+    <translation xml:space="preserve">Locate the main force of the bandits' hideout.</translation>
   </message>
   <message>
     <key>q20000007_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20000007_00_804</key>
-    <text xml:space="preserve">Report back to requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to requester.</translation>
   </message>
 </resource>

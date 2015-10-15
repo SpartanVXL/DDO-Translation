@@ -1,176 +1,213 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>title_general</key>
-    <text xml:space="preserve">General Shop</text>
+    <original xml:space="preserve">よろず屋</original>
+    <translation xml:space="preserve">General Shop</translation>
   </message>
   <message>
     <key>SHOP_TEXT_PRICE</key>
-    <text xml:space="preserve">Price</text>
+    <original xml:space="preserve">価格</original>
+    <translation xml:space="preserve">Price</translation>
   </message>
   <message>
     <key>SHOP_TEXT_X</key>
-    <text xml:space="preserve">×</text>
+    <original xml:space="preserve">×</original>
   </message>
   <message>
     <key>SHOP_TEXT_YES</key>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
     <key>SHOP_TEXT_NO</key>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
     <key>SHOP_TEXT_BUYED</key>
-    <text xml:space="preserve">Purchased &lt;NAME ITEM&gt;</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;を購入しました</original>
+    <translation xml:space="preserve">Purchased &lt;NAME ITEM&gt;</translation>
   </message>
   <message>
     <key>SHOP_TEXT_BUY</key>
-    <text xml:space="preserve">Buy</text>
+    <original xml:space="preserve">購入</original>
+    <translation xml:space="preserve">Buy</translation>
   </message>
   <message>
     <key>SHOP_TEXT_SELL</key>
-    <text xml:space="preserve">Sell</text>
+    <original xml:space="preserve">売却</original>
+    <translation xml:space="preserve">Sell</translation>
   </message>
   <message>
     <key>SHOP_TEXT_CANCEL</key>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
     <key>SHOP_TEXT_SELECTBUYNUM</key>
-    <text xml:space="preserve">Please select the number you want to buy</text>
+    <original xml:space="preserve">購入する個数を入力してください</original>
+    <translation xml:space="preserve">Please select the number you want to buy</translation>
   </message>
   <message>
     <key>SHOP_TEXT_SELECTSELLNUM</key>
-    <text xml:space="preserve">Please select the number you want to sell</text>
+    <original xml:space="preserve">売却する個数を入力してください</original>
+    <translation xml:space="preserve">Please select the number you want to sell</translation>
   </message>
   <message>
     <key>SHOP_TEXT_ATTENTIONBUY_1</key>
-    <text xml:space="preserve">Are you sure you want to buy the following?
+    <original xml:space="preserve">以下の内容で購入します。よろしいですか？
+
+　アイテム：&lt;NAME ITEM&gt;
+　合計個数：&lt;VAL&gt;個
+　購入価格：&lt;VAL GOLD&gt;</original>
+    <translation xml:space="preserve">Are you sure you want to buy the following?
 
 　Item：&lt;NAME ITEM&gt;
 　Amount：×&lt;VAL&gt;
-　Buy Price：&lt;VAL GOLD&gt;</text>
+　Buy Price：&lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>SHOP_TEXT_ATTENTIONSELL</key>
-    <text xml:space="preserve">Are you sure you want to sell the following?
+    <original xml:space="preserve">以下の内容で売却します。よろしいですか？
+
+　アイテム：&lt;NAME ITEM&gt;
+　合計個数：&lt;VAL&gt;個
+　売却価格：&lt;VAL GOLD&gt;</original>
+    <translation xml:space="preserve">Are you sure you want to sell the following?
 
 　Item：&lt;NAME ITEM&gt;
 　Amount：×&lt;VAL&gt;
-　Sell Price：&lt;VAL GOLD&gt;</text>
+　Sell Price：&lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>SHOP_TEXT_MANNEQUIN</key>
-    <text xml:space="preserve">Mannequin</text>
+    <original xml:space="preserve">マネキン</original>
+    <translation xml:space="preserve">Mannequin</translation>
   </message>
   <message>
     <key>SHOP_TEXT_ATTENTIONBUY_ERR</key>
-    <text xml:space="preserve">Are you sure you want to buy the following?
+    <original xml:space="preserve">以下の内容で購入します。よろしいですか？
+&lt;COL AA1414&gt;ジョブやレベル、装備状態が合わないため
+このアイテムを装備することはできません&lt;/COL&gt;
+
+　アイテム：&lt;NAME ITEM&gt;
+　合計個数：&lt;VAL&gt;個
+　購入価格：&lt;VAL GOLD&gt;</original>
+    <translation xml:space="preserve">Are you sure you want to buy the following?
 &lt;COL AA1414&gt;Due to your job or level you will
 not be able to equip this item.&lt;/COL&gt;
 
 　Item：&lt;NAME ITEM&gt;
 　Amount：×&lt;VAL&gt;
-　Buy Price：&lt;VAL GOLD&gt;</text>
+　Buy Price：&lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>SHOP_TEXT_BTN_GUIDE_SELL</key>
-    <text xml:space="preserve">Sell Item</text>
+    <original xml:space="preserve">アイテムを売る</original>
+    <translation xml:space="preserve">Sell Item</translation>
   </message>
   <message>
     <key>SHOP_TEXT_ITEM</key>
-    <text xml:space="preserve">Item Name</text>
+    <original xml:space="preserve">アイテム名</original>
+    <translation xml:space="preserve">Item Name</translation>
   </message>
   <message>
     <key>SHOP_TEXT_BUG_SELL</key>
-    <text xml:space="preserve">Sell from Item Bag</text>
+    <original xml:space="preserve">アイテムバッグから売却</original>
+    <translation xml:space="preserve">Sell from Item Bag</translation>
   </message>
   <message>
     <key>title_weapon</key>
-    <text xml:space="preserve">武具屋</text>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <key>title_item</key>
-    <text xml:space="preserve">道具屋</text>
+    <original xml:space="preserve">道具屋</original>
   </message>
   <message>
     <key>title_material</key>
-    <text xml:space="preserve">素材屋</text>
+    <original xml:space="preserve">素材屋</original>
   </message>
   <message>
     <key>title_orb_enhance_material</key>
-    <text xml:space="preserve">オーブ交換：クレスト</text>
+    <original xml:space="preserve">オーブ交換：クレスト</original>
   </message>
   <message>
     <key>title_orb_craft_material</key>
-    <text xml:space="preserve">オーブ交換：レア素材</text>
+    <original xml:space="preserve">オーブ交換：レア素材</original>
   </message>
   <message>
     <key>heading_sell</key>
-    <text xml:space="preserve">Sell</text>
+    <original xml:space="preserve">売却</original>
+    <translation xml:space="preserve">Sell</translation>
   </message>
   <message>
     <key>heading_buy</key>
-    <text xml:space="preserve">Buy</text>
+    <original xml:space="preserve">購入</original>
+    <translation xml:space="preserve">Buy</translation>
   </message>
   <message>
     <key>dialog_buy_how_many</key>
-    <text xml:space="preserve">いくつ購入しますか？</text>
+    <original xml:space="preserve">いくつ購入しますか？</original>
   </message>
   <message>
     <key>dialog_sell_how_many</key>
-    <text xml:space="preserve">いくつ売却しますか？</text>
+    <original xml:space="preserve">いくつ売却しますか？</original>
   </message>
   <message>
     <key>dialog_decide_buy</key>
-    <text xml:space="preserve">以下の内容で購入します。よろしいですか？
+    <original xml:space="preserve">以下の内容で購入します。よろしいですか？
 
 　アイテム：&lt;NAME ITEM&gt;
 　合計個数：&lt;VAL&gt;個
-　購入価格：&lt;VAL GOLD&gt;</text>
+　購入価格：&lt;VAL GOLD&gt;</original>
   </message>
   <message>
     <key>dialog_decide_sell</key>
-    <text xml:space="preserve">以下の内容で売却します。よろしいですか？
+    <original xml:space="preserve">以下の内容で売却します。よろしいですか？
 
 　アイテム：&lt;NAME ITEM&gt;
 　合計個数：&lt;VAL&gt;個
-　売却価格：&lt;VAL GOLD&gt;</text>
+　売却価格：&lt;VAL GOLD&gt;</original>
   </message>
   <message>
     <key>SHOP_TEXT_BUY_TITLE</key>
-    <text xml:space="preserve">Buy</text>
+    <original xml:space="preserve">Buy</original>
   </message>
   <message>
     <key>SHOP_TEXT_BUY_JP</key>
-    <text xml:space="preserve">Buy</text>
+    <original xml:space="preserve">買う</original>
+    <translation xml:space="preserve">Buy</translation>
   </message>
   <message>
     <key>SHOP_TEXT_EQUIPCHANGE</key>
-    <text xml:space="preserve">試着切り替え</text>
+    <original xml:space="preserve">試着切り替え</original>
   </message>
   <message>
     <key>SHOP_TEXT_PREVIEW</key>
-    <text xml:space="preserve">Preview</text>
+    <original xml:space="preserve">試着</original>
+    <translation xml:space="preserve">Preview</translation>
   </message>
   <message>
     <key>SHOP_TEXT_BTN_GUIDE_BUY</key>
-    <text xml:space="preserve">Buy an item</text>
+    <original xml:space="preserve">アイテムを買う</original>
+    <translation xml:space="preserve">Buy an item</translation>
   </message>
   <message>
     <key>SHOP_TEXT_DIALOG_TRYON</key>
-    <text xml:space="preserve">Please select the object you want to try on</text>
+    <original xml:space="preserve">試着する対象を選択してください</original>
+    <translation xml:space="preserve">Please select the object you want to try on</translation>
   </message>
   <message>
     <key>SHOP_TEXT_ATTENTIONBUY_BO</key>
-    <text xml:space="preserve">以下の内容で購入します。よろしいですか？
+    <original xml:space="preserve">以下の内容で購入します。よろしいですか？
 
 　アイテム：&lt;NAME ITEM&gt;
 　合計個数：&lt;VAL&gt;個
-　購入価格：&lt;VAL BO&gt;</text>
+　購入価格：&lt;VAL BO&gt;</original>
   </message>
   <message>
     <key>SHOP_TEXT_CHOOSE_TRY_ON</key>
-    <text xml:space="preserve">試着する対象を選択してください</text>
+    <original xml:space="preserve">試着する対象を選択してください</original>
   </message>
 </resource>

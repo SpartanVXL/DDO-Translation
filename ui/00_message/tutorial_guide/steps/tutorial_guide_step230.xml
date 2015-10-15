@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_365</key>
-    <text xml:space="preserve">マップを使う上でなにかと便利なのが
+    <original xml:space="preserve">マップを使う上でなにかと便利なのが
 自由に目印を置ける&lt;COL ffdc78&gt;《フリーマーカー》&lt;/COL&gt;機能です
 
 ＜フリーマーカー＞　
@@ -9,17 +9,17 @@
 
 フリーマーカーは拡大時のミニマップのほか、
 《詳細マップ》と《フィールドマップ》で
-使用できます</text>
+使用できます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_366</key>
-    <text xml:space="preserve">エリアマスターのスポット情報を見た時に
+    <original xml:space="preserve">エリアマスターのスポット情報を見た時に
 向かいたい《魔物警戒スポット》場所に
 目印として打ったり
 ワールドクエストを発見した時に
 場所を忘れないため打っておくなど
 使い道はさまざまです
 
-目的に合わせて活用しましょう</text>
+目的に合わせて活用しましょう</original>
   </message>
 </resource>

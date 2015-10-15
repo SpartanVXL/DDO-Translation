@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_91</key>
-    <text xml:space="preserve">アイテムには、&lt;COL ffdc78&gt;消費アイテム、素材アイテム、
+    <original xml:space="preserve">アイテムには、&lt;COL ffdc78&gt;消費アイテム、素材アイテム、
 装備品、ジョブ専用アイテム&lt;/COL&gt;という
 ４つの分類があります
 
@@ -9,11 +9,11 @@
 　　使用することで消費し、効果を得られます
 
 ＜素材アイテム＞
-　　クラフト素材として活用できます</text>
+　　クラフト素材として活用できます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_233</key>
-    <text xml:space="preserve">＜装備品＞
+    <original xml:space="preserve">＜装備品＞
 　　装備により攻撃力・防御力・体力等が上昇します
 
 ＜ジョブ専用アイテム＞
@@ -21,6 +21,6 @@
 
 
 それぞれ携帯できる枠や個数は決まっている
-ため、冒険前は所持品の確認をしましょう</text>
+ため、冒険前は所持品の確認をしましょう</original>
   </message>
 </resource>

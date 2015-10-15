@@ -1,20 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">ページ1</text>
+    <original xml:space="preserve">ページ1</original>
   </message>
   <message>
-    <text xml:space="preserve">つよい</text>
+    <original xml:space="preserve">つよい</original>
   </message>
   <message>
-    <text xml:space="preserve">確信</text>
+    <original xml:space="preserve">確信</original>
   </message>
   <message>
-    <text xml:space="preserve">レバーがある</text>
+    <original xml:space="preserve">レバーがある</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
 </resource>

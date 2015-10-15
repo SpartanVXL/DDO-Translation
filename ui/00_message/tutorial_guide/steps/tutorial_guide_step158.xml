@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_42</key>
-    <text xml:space="preserve">夜間や洞窟内は、暗く見通しが悪くなります
+    <original xml:space="preserve">夜間や洞窟内は、暗く見通しが悪くなります
 &lt;COL ffdc78&gt;暗闇では《ランタン》を使いましょう&lt;/COL&gt;
 
 &lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー《キャラクター》の
@@ -9,6 +9,6 @@
 &lt;COL ffdc78&gt;《ランタン火種》&lt;/COL&gt;を使うと、一定時間
 プレイヤーの周囲を明るく照らします
 
-《ランタン火種》は常にいくつか携帯しましょう</text>
+《ランタン火種》は常にいくつか携帯しましょう</original>
   </message>
 </resource>

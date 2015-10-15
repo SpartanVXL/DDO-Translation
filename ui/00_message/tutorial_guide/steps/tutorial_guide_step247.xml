@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_394</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;死亡後《拠点に戻る》を選択して復活すると
+    <original xml:space="preserve">&lt;COL ffdc78&gt;死亡後《拠点に戻る》を選択して復活すると
 最大体力ほか各能力値が大幅にダウンする
 《弱化》状態になってしまいます&lt;/COL&gt;
 
@@ -9,6 +9,6 @@
 治療したい場合は&lt;COL ffdc78&gt;《宿屋》にて《弱化の治療》&lt;/COL&gt;
 を行いましょう
 なお、《黄金石》を使い復活すれば、弱化に
-かかっていても《強化》が反映されます</text>
+かかっていても《強化》が反映されます</original>
   </message>
 </resource>

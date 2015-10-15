@@ -1,94 +1,94 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CLAN_SEARCH_MSG_NAME</key>
-    <text xml:space="preserve">クランの名前</text>
+    <original xml:space="preserve">クランの名前</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_RANK</key>
-    <text xml:space="preserve">ランク</text>
+    <original xml:space="preserve">ランク</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_MEMBER</key>
-    <text xml:space="preserve">メンバー数</text>
+    <original xml:space="preserve">メンバー数</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_MOTTO</key>
-    <text xml:space="preserve">モットー</text>
+    <original xml:space="preserve">モットー</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_ATIME</key>
-    <text xml:space="preserve">活動時間帯</text>
+    <original xml:space="preserve">活動時間帯</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_STYLE</key>
-    <text xml:space="preserve">特徴</text>
+    <original xml:space="preserve">特徴</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_OK</key>
-    <text xml:space="preserve">完了</text>
+    <original xml:space="preserve">完了</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_CANCEL</key>
-    <text xml:space="preserve">キャンセル</text>
+    <original xml:space="preserve">キャンセル</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_SEARCH_BACK</key>
-    <text xml:space="preserve">検索条件変更に戻る</text>
+    <original xml:space="preserve">検索条件変更に戻る</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_MEMBER_LIST</key>
-    <text xml:space="preserve">メンバー</text>
+    <original xml:space="preserve">メンバー</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_DATE</key>
-    <text xml:space="preserve">設立日</text>
+    <original xml:space="preserve">設立日</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_ORLESS</key>
-    <text xml:space="preserve">&lt;VAL&gt;以下</text>
+    <original xml:space="preserve">&lt;VAL&gt;以下</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_ORLESS_P</key>
-    <text xml:space="preserve">&lt;VAL&gt;名以下</text>
+    <original xml:space="preserve">&lt;VAL&gt;名以下</original>
   </message>
   <message>
     <key>CLAN_SEARCH_RANK_LIMIT</key>
-    <text xml:space="preserve">%d～%dまで</text>
+    <original xml:space="preserve">%d～%dまで</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MEMBER_LIMIT</key>
-    <text xml:space="preserve">%d～%d人まで</text>
+    <original xml:space="preserve">%d～%d人まで</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MEMBER_LIST_NUM</key>
-    <text xml:space="preserve">&lt;VAL&gt; / &lt;VAL&gt;</text>
+    <original xml:space="preserve">&lt;VAL&gt; / &lt;VAL&gt;</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MEMBER_NUM</key>
-    <text xml:space="preserve">&lt;VAL&gt;名</text>
+    <original xml:space="preserve">&lt;VAL&gt;名</original>
   </message>
   <message>
     <key>CLAN_SEARCH_INDEX_EN</key>
-    <text xml:space="preserve">Clan Search</text>
+    <original xml:space="preserve">Clan Search</original>
   </message>
   <message>
     <key>CLAN_SEARCH_INDEX_JP</key>
-    <text xml:space="preserve">クラン検索</text>
+    <original xml:space="preserve">クラン検索</original>
   </message>
   <message>
     <key>CLAN_SEARCH_SHORT_NAME</key>
-    <text xml:space="preserve">略称で検索</text>
+    <original xml:space="preserve">略称で検索</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_RANK_EN</key>
-    <text xml:space="preserve">Rank</text>
+    <original xml:space="preserve">Rank</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_NOT_FOUND</key>
-    <text xml:space="preserve">クランが見つかりませんでした</text>
+    <original xml:space="preserve">クランが見つかりませんでした</original>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_NAME_FORMAT</key>
-    <text xml:space="preserve">&lt;NAME CLAN&gt; &lt;NAME CLAN_S&gt;</text>
+    <original xml:space="preserve">&lt;NAME CLAN&gt; &lt;NAME CLAN_S&gt;</original>
   </message>
 </resource>

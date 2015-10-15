@@ -1,10 +1,11 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NFB_MSG_TITLE_E</key>
-    <text xml:space="preserve">Web Browser</text>
+    <original xml:space="preserve">Web Browser</original>
   </message>
   <message>
     <key>NFB_MSG_BACK</key>
-    <text xml:space="preserve">Back</text>
+    <original xml:space="preserve">操作を戻す</original>
+    <translation xml:space="preserve">Back</translation>
   </message>
 </resource>

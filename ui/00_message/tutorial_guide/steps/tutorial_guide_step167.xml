@@ -1,28 +1,28 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_163</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;装備品に《クレスト装着》を行うことで、
+    <original xml:space="preserve">&lt;COL ffdc78&gt;装備品に《クレスト装着》を行うことで、
 性能を高めたり、属性や追加効果を持たせる
 ことができます&lt;/COL&gt;
 
 特殊素材&lt;COL ffdc78&gt;《クレスト》&lt;/COL&gt;は、一部のクエスト報酬や
 《ポーン郷》のアルヴァーからブラッドオーブと
-交換で入手可能です</text>
+交換で入手可能です</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_313</key>
-    <text xml:space="preserve">《クレスト装着》が可能なのは、下記の装備品です
+    <original xml:space="preserve">《クレスト装着》が可能なのは、下記の装備品です
 
 武器用クレスト：
 　　メイン武器（最大スロット数４）
 
 防具用クレスト：
 　　胴アーマー（最大スロット数４）
-　　頭防具/腕防具/脚アーマー（最大スロット数３）</text>
+　　頭防具/腕防具/脚アーマー（最大スロット数３）</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_314</key>
-    <text xml:space="preserve">メイン武器、胴アーマーや一部の特殊装備は
+    <original xml:space="preserve">メイン武器、胴アーマーや一部の特殊装備は
 クレストスロットが最初から１つあります
 
 &lt;COL ffdc78&gt;他の防具や、同じ装備に２つ以上のクレストを
@@ -31,6 +31,6 @@
 《高品質装備（＋１～＋３）》を製作できます&lt;/COL&gt;
 
 また、クレストを装着した装備品は
-クレストを破壊することで付け直し可能です</text>
+クレストを破壊することで付け直し可能です</original>
   </message>
 </resource>

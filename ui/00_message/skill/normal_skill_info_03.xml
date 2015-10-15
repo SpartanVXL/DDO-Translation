@@ -1,63 +1,63 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_INFO_03_40</key>
-    <text xml:space="preserve">前方に向け弓を構える
-空中でも発動可能</text>
+    <original xml:space="preserve">前方に向け弓を構える
+空中でも発動可能</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_41</key>
-    <text xml:space="preserve">弓構えの状態から矢を放つ
-空中でも発動可能</text>
+    <original xml:space="preserve">弓構えの状態から矢を放つ
+空中でも発動可能</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_42</key>
-    <text xml:space="preserve">矢を放った後、次の矢をつがえる速度が速くなる
-空中でも発動可能</text>
+    <original xml:space="preserve">矢を放った後、次の矢をつがえる速度が速くなる
+空中でも発動可能</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_46</key>
-    <text xml:space="preserve">狙撃照準に切り替わり、正確に敵を狙い射てる</text>
+    <original xml:space="preserve">狙撃照準に切り替わり、正確に敵を狙い射てる</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_43</key>
-    <text xml:space="preserve">&lt;PADM&gt;爆薬矢をつがえ弓を上方に構える&lt;KEYM&gt;通常の弓構えか、上方に向ける
+    <original xml:space="preserve">&lt;PADM&gt;爆薬矢をつがえ弓を上方に構える&lt;KEYM&gt;通常の弓構えか、上方に向ける
 爆矢構えかを選択する&lt;/KEYM&gt;
-空中でも発動可能</text>
+空中でも発動可能</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_44</key>
-    <text xml:space="preserve">爆薬矢を上方に放つ
+    <original xml:space="preserve">爆薬矢を上方に放つ
 爆薬矢は一定時間で自動起爆するが
 攻撃により起爆させるとダメージが上昇する
-空中でも発動可能</text>
+空中でも発動可能</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_45</key>
-    <text xml:space="preserve">爆薬矢の準備動作が高速化される
-空中でも発動可能</text>
+    <original xml:space="preserve">爆薬矢の準備動作が高速化される
+空中でも発動可能</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_47</key>
-    <text xml:space="preserve">前方に蹴りを放つ
-空中でも発動可能</text>
+    <original xml:space="preserve">前方に蹴りを放つ
+空中でも発動可能</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_48</key>
-    <text xml:space="preserve">矢筒に矢を補充する</text>
+    <original xml:space="preserve">矢筒に矢を補充する</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_49</key>
-    <text xml:space="preserve">矢筒に矢を高速補充する</text>
+    <original xml:space="preserve">矢筒に矢を高速補充する</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_50</key>
-    <text xml:space="preserve">矢の種類を切り替える
-空中でも発動可能</text>
+    <original xml:space="preserve">矢の種類を切り替える
+空中でも発動可能</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_03_60</key>
-    <text xml:space="preserve">しがみついた状態から
+    <original xml:space="preserve">しがみついた状態から
 装備中の矢の先端で突き刺す
-ボタン連打で攻撃回数が増加する</text>
+ボタン連打で攻撃回数が増加する</original>
   </message>
 </resource>

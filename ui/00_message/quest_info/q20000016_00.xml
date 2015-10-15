@@ -1,41 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000016_00_225</key>
-    <text xml:space="preserve">The Price of Honour</text>
+    <original xml:space="preserve">矜持の代償</original>
+    <translation xml:space="preserve">The Price of Honour</translation>
   </message>
   <message>
     <key>q20000016_00_225</key>
-    <text xml:space="preserve">ハインツの依頼を聞き
-討伐騎士部隊の行方を追う</text>
+    <original xml:space="preserve">ハインツの依頼を聞き
+討伐騎士部隊の行方を追う</original>
   </message>
   <message>
     <key>q20000016_00_225</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;から集められた支援要請の
-中には、緊急性の高いものもあったようだ</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;から集められた支援要請の
+中には、緊急性の高いものもあったようだ</original>
   </message>
   <message>
     <key>q20000016_00_225</key>
-    <text xml:space="preserve">調査任務に向かった仲間が、まだ戻らない――
+    <original xml:space="preserve">調査任務に向かった仲間が、まだ戻らない――
 ハインツ様の心労はいかばかりだろうか
 あの方は一見酷薄なようで、隊員思いの熱い心を
 お持ちなのだ
 今回ばかりは、ウマの合わぬ覚者連中の助けを
-借りてでも、なんとかしたいとお考えかも知れない</text>
+借りてでも、なんとかしたいとお考えかも知れない</original>
   </message>
   <message>
     <key>q20000016_00_960</key>
-    <text xml:space="preserve">Search for the Knights that have not returned from Betland Plains.</text>
+    <original xml:space="preserve">バートランド平原から戻らない騎士団を捜す</original>
+    <translation xml:space="preserve">Search for the Knights that have not returned from Betland Plains.</translation>
   </message>
   <message>
     <key>q20000016_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20000016_00_961</key>
-    <text xml:space="preserve">Check the fallen knight.</text>
+    <original xml:space="preserve">倒れた騎士の様子を見る</original>
+    <translation xml:space="preserve">Check the fallen knight.</translation>
   </message>
   <message>
     <key>q20000016_00_959</key>
-    <text xml:space="preserve">Report back to Heinz.</text>
+    <original xml:space="preserve">ハインツに報告する</original>
+    <translation xml:space="preserve">Report back to Heinz.</translation>
   </message>
 </resource>

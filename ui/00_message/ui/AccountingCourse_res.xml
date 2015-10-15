@@ -1,10 +1,12 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ac_msg_OptionCourse</key>
-    <text xml:space="preserve">Passport Course</text>
+    <original xml:space="preserve">パスポート・コース</original>
+    <translation xml:space="preserve">Passport Course</translation>
   </message>
   <message>
     <key>as_msg_Course</key>
-    <text xml:space="preserve">Course</text>
+    <original xml:space="preserve">コース</original>
+    <translation xml:space="preserve">Course</translation>
   </message>
 </resource>

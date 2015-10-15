@@ -1,78 +1,94 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ORB_GAIN_PARAM_1</key>
-    <text xml:space="preserve">Increase Health Points</text>
+    <original xml:space="preserve">体力の覚醒</original>
+    <translation xml:space="preserve">Increase Health Points</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_2</key>
-    <text xml:space="preserve">Increase Stamina</text>
+    <original xml:space="preserve">スタミナの覚醒</original>
+    <translation xml:space="preserve">Increase Stamina</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_3</key>
-    <text xml:space="preserve">Increase Strength</text>
+    <original xml:space="preserve">筋力の覚醒</original>
+    <translation xml:space="preserve">Increase Strength</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_4</key>
-    <text xml:space="preserve">Increase Defense</text>
+    <original xml:space="preserve">物理防御力の覚醒</original>
+    <translation xml:space="preserve">Increase Defense</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_5</key>
-    <text xml:space="preserve">Increase Magick</text>
+    <original xml:space="preserve">魔力の覚醒</original>
+    <translation xml:space="preserve">Increase Magick</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_6</key>
-    <text xml:space="preserve">Increase Magick Defense</text>
+    <original xml:space="preserve">魔法防御力の覚醒</original>
+    <translation xml:space="preserve">Increase Magick Defense</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_7</key>
-    <text xml:space="preserve">Grant Rift Crystal</text>
+    <original xml:space="preserve">リムポイントの加護</original>
+    <translation xml:space="preserve">Grant Rift Crystal</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_8</key>
-    <text xml:space="preserve">Grant Gold</text>
+    <original xml:space="preserve">ゴールドの加護</original>
+    <translation xml:space="preserve">Grant Gold</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_9</key>
-    <text xml:space="preserve">Grant Ability Point</text>
+    <original xml:space="preserve">戦技の加護</original>
+    <translation xml:space="preserve">Grant Ability Point</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_10</key>
-    <text xml:space="preserve">Grant Accessory Slot</text>
+    <original xml:space="preserve">増装の加護</original>
+    <translation xml:space="preserve">Grant Accessory Slot</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_11</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_12</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_13</key>
-    <text xml:space="preserve">異界戻りの加護</text>
+    <original xml:space="preserve">異界戻りの加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_14</key>
-    <text xml:space="preserve">Pawn Contract Limit</text>
+    <original xml:space="preserve">覚者の器</original>
+    <translation xml:space="preserve">Pawn Contract Limit</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_15</key>
-    <text xml:space="preserve">Pawn Hire Limit</text>
+    <original xml:space="preserve">統率の器</original>
+    <translation xml:space="preserve">Pawn Hire Limit</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_16</key>
-    <text xml:space="preserve">Grant Usable Bag Slot</text>
+    <original xml:space="preserve">消費所持の加護</original>
+    <translation xml:space="preserve">Grant Usable Bag Slot</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_17</key>
-    <text xml:space="preserve">Grant Material Bag Slot</text>
+    <original xml:space="preserve">素材所持の加護</original>
+    <translation xml:space="preserve">Grant Material Bag Slot</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_18</key>
-    <text xml:space="preserve">Grant Equipment Bag Slot</text>
+    <original xml:space="preserve">装備所持の加護</original>
+    <translation xml:space="preserve">Grant Equipment Bag Slot</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_19</key>
-    <text xml:space="preserve">Secret Ability</text>
+    <original xml:space="preserve">シークレットアビリティ</original>
+    <translation xml:space="preserve">Secret Ability</translation>
   </message>
 </resource>

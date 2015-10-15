@@ -1,36 +1,40 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000018_00_227</key>
-    <text xml:space="preserve">Fabio and Monster-Slaying</text>
+    <original xml:space="preserve">ファビオと魔物退治</original>
+    <translation xml:space="preserve">Fabio and Monster-Slaying</translation>
   </message>
   <message>
     <key>q20000018_00_227</key>
-    <text xml:space="preserve">ファビオの依頼を聞き
-対象の敵を討伐する</text>
+    <original xml:space="preserve">ファビオの依頼を聞き
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20000018_00_227</key>
-    <text xml:space="preserve">協力者を求める者がいるとの報告が
-&lt;NAME AREA&gt;から届いている</text>
+    <original xml:space="preserve">協力者を求める者がいるとの報告が
+&lt;NAME AREA&gt;から届いている</original>
   </message>
   <message>
     <key>q20000018_00_227</key>
-    <text xml:space="preserve">ああファビオ様――！
+    <original xml:space="preserve">ああファビオ様――！
 あんな素敵な覚者がいらっしゃるなんて！
 あのイタズラ好きな少年のような瞳は、何をお企みに
 なっているのかしら！
-あのお方の願いなら、なんでも叶えたいわ！</text>
+あのお方の願いなら、なんでも叶えたいわ！</original>
   </message>
   <message>
     <key>q20000018_00_838</key>
-    <text xml:space="preserve">Search for the specified enemy.</text>
+    <original xml:space="preserve">指定された敵を探す</original>
+    <translation xml:space="preserve">Search for the specified enemy.</translation>
   </message>
   <message>
     <key>q20000018_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20000018_00_966</key>
-    <text xml:space="preserve">Report back to Fabio.</text>
+    <original xml:space="preserve">ファビオに報告する</original>
+    <translation xml:space="preserve">Report back to Fabio.</translation>
   </message>
 </resource>

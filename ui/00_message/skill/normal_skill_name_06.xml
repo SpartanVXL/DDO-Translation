@@ -1,30 +1,37 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_NAME_06_92</key>
-    <text xml:space="preserve">Magic Balls</text>
+    <original xml:space="preserve">マジックボール</original>
+    <translation xml:space="preserve">Magic Balls</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_93</key>
-    <text xml:space="preserve">Magic Trap</text>
+    <original xml:space="preserve">マジックトラップ</original>
+    <translation xml:space="preserve">Magic Trap</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_94</key>
-    <text xml:space="preserve">Magic Boost</text>
+    <original xml:space="preserve">マジックブースト</original>
+    <translation xml:space="preserve">Magic Boost</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_95</key>
-    <text xml:space="preserve">Chanting</text>
+    <original xml:space="preserve">スペリング</original>
+    <translation xml:space="preserve">Chanting</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_96</key>
-    <text xml:space="preserve">Back Move</text>
+    <original xml:space="preserve">バックムーブ</original>
+    <translation xml:space="preserve">Back Move</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_101</key>
-    <text xml:space="preserve">Levitate</text>
+    <original xml:space="preserve">フローティング</original>
+    <translation xml:space="preserve">Levitate</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_102</key>
-    <text xml:space="preserve">Magic Cracker</text>
+    <original xml:space="preserve">マジッククラッカー</original>
+    <translation xml:space="preserve">Magic Cracker</translation>
   </message>
 </resource>

@@ -1,70 +1,93 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>RETRY_MSG_REVIVE_MENU_STOCK</key>
-    <text xml:space="preserve">Revive with Revival Force</text>
+    <original xml:space="preserve">復活力を使用して復活</original>
+    <translation xml:space="preserve">Revive with Revival Force</translation>
   </message>
   <message>
     <key>RETRY_MSG_SELECT_ANNOUNCE</key>
-    <text xml:space="preserve">Please select a revival method.</text>
+    <original xml:space="preserve">復活方法を選択してください</original>
+    <translation xml:space="preserve">Please select a revival method.</translation>
   </message>
   <message>
     <key>RETRY_MSG_NEAR_OUTPOST</key>
-    <text xml:space="preserve">Last Camp</text>
+    <original xml:space="preserve">直前の拠点</original>
+    <translation xml:space="preserve">Last Camp</translation>
   </message>
   <message>
     <key>RETRY_MSG_PENALTY_EXP</key>
-    <text xml:space="preserve">Revive at the last camp.
-&lt;COL AA1414&gt;You will be afflicted with the Weakness debilitation.&lt;/COL&gt;</text>
+    <original xml:space="preserve">最後に立ち寄った拠点から再開します
+&lt;COL AA1414&gt;状態異常【弱化】が発生します&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Revive at the last camp.
+&lt;COL AA1414&gt;You will be afflicted with the Weakness debilitation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>RETRY_MSG_STOCK_EXP</key>
-    <text xml:space="preserve">Use a revival force and recover full health.</text>
+    <original xml:space="preserve">復活力を使用することで、体力を全快して復活します</original>
+    <translation xml:space="preserve">Use a revival force and recover full health.</translation>
   </message>
   <message>
     <key>RETRY_MSG_GOLD_STONE_EXP</key>
-    <text xml:space="preserve">Use &lt;VAL&gt; Golden Gemstone and completely recover your strength.
+    <original xml:space="preserve">黄金石を&lt;VAL&gt;個使用することで、体力を全快し
+付与効果【強化】を得て復活します
+(黄金石が足りない場合はショップ画面を開きます)</original>
+    <translation xml:space="preserve">Use &lt;VAL&gt; Golden Gemstone and completely recover your strength.
 You will also receive an Invulnerability effect.
-(You can open the shop screen if you do not have enough Golden Gemstones)</text>
+(You can open the shop screen if you do not have enough Golden Gemstones)</translation>
   </message>
   <message>
     <key>RETRY_MSG_DIALOG_GOLD_STONE</key>
-    <text xml:space="preserve">Are you sure you want to resurrect with
-&lt;VAL&gt; &lt;COL FFFF00&gt;Golden Gemstone&lt;/COL&gt;?</text>
+    <original xml:space="preserve">&lt;COL FFFF00&gt;黄金石&lt;/COL&gt;を&lt;VAL&gt;個使用して復活します
+よろしいですか？</original>
+    <translation xml:space="preserve">Are you sure you want to resurrect with
+&lt;VAL&gt; &lt;COL FFFF00&gt;Golden Gemstone&lt;/COL&gt;?</translation>
   </message>
   <message>
     <key>RETRY_MSG_DIALOG_STOCK</key>
-    <text xml:space="preserve">Are you sure you want to resurrect using
-a &lt;COL FFFF00&gt;revival force?&lt;/COL&gt;</text>
+    <original xml:space="preserve">&lt;COL FFFF00&gt;復活力&lt;/COL&gt;を使用して復活します
+よろしいですか？</original>
+    <translation xml:space="preserve">Are you sure you want to resurrect using
+a &lt;COL FFFF00&gt;revival force?&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>RETRY_MSG_DIALOG_GPSHOP_OPEN</key>
-    <text xml:space="preserve">The shop screen will open because you are missing Golden Gemstones.</text>
+    <original xml:space="preserve">黄金石が不足しているのでショップ画面を開きます</original>
+    <translation xml:space="preserve">The shop screen will open because you are missing Golden Gemstones.</translation>
   </message>
   <message>
     <key>RETRY_MSG_REVIVE_MENU_TICKET</key>
-    <text xml:space="preserve">Resurrect using &lt;VAL&gt; Golden Gemstone</text>
+    <original xml:space="preserve">黄金石を&lt;VAL&gt;個使用して復活</original>
+    <translation xml:space="preserve">Resurrect using &lt;VAL&gt; Golden Gemstone</translation>
   </message>
   <message>
     <key>RETRY_MSG_REVIVE_MENU_SHOP</key>
-    <text xml:space="preserve">Revive with Golden Gemstone</text>
+    <original xml:space="preserve">黄金石を購入して復活</original>
+    <translation xml:space="preserve">Revive with Golden Gemstone</translation>
   </message>
   <message>
     <key>RETRY_MSG_REVIVE_MENU_PENALTY</key>
-    <text xml:space="preserve">Revive at Last Camp</text>
+    <original xml:space="preserve">直前の拠点から再開</original>
+    <translation xml:space="preserve">Revive at Last Camp</translation>
   </message>
   <message>
     <key>RETRY_MSG_DIALOG_PENALTY</key>
-    <text xml:space="preserve">Are you sure you want to revive
+    <original xml:space="preserve">から再開します
+よろしいですか？
+&lt;COL AA1414&gt;状態異常【弱化】が発生します&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Are you sure you want to revive
 at the last camp?
-&lt;COL AA1414&gt;You will be afflicted with the Weakness debilitation.&lt;/COL&gt;</text>
+&lt;COL AA1414&gt;You will be afflicted with the Weakness debilitation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>RETRY_MSG_REVIVE_MENU_RIM</key>
-    <text xml:space="preserve">Revive with Rift Crystals</text>
+    <original xml:space="preserve">リムを使用して復活</original>
+    <translation xml:space="preserve">Revive with Rift Crystals</translation>
   </message>
   <message>
     <key>RETRY_MSG_DIALOG_RIM</key>
-    <text xml:space="preserve">Are you sure you want to resurrect by using
-&lt;VAL RIM&gt; &lt;COL FFFF00&gt;Rift Crystals&lt;/COL&gt;?</text>
+    <original xml:space="preserve">&lt;COL FFFF00&gt;リム&lt;/COL&gt;を&lt;VAL RIM&gt;消費して救出します
+よろしいですか？</original>
+    <translation xml:space="preserve">Are you sure you want to resurrect by using
+&lt;VAL RIM&gt; &lt;COL FFFF00&gt;Rift Crystals&lt;/COL&gt;?</translation>
   </message>
 </resource>

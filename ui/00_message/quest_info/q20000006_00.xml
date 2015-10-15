@@ -1,35 +1,39 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000006_00_215</key>
-    <text xml:space="preserve">The Evil Lurking in the Tombs</text>
+    <original xml:space="preserve">霊廟に巣くう災</original>
+    <translation xml:space="preserve">The Evil Lurking in the Tombs</translation>
   </message>
   <message>
     <key>q20000006_00_215</key>
-    <text xml:space="preserve">廃教会の地下に侵入し異変の有無を調査する</text>
+    <original xml:space="preserve">廃教会の地下に侵入し異変の有無を調査する</original>
   </message>
   <message>
     <key>q20000006_00_215</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;には
-誰かの救援を待っている者がいるようだ</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;には
+誰かの救援を待っている者がいるようだ</original>
   </message>
   <message>
     <key>q20000006_00_215</key>
-    <text xml:space="preserve">行商人から又聞きしたんだけどさ
+    <original xml:space="preserve">行商人から又聞きしたんだけどさ
 最近、騎士団がやけにはりきってるらしいね
 問題がありそうな場所に出向いて
 聞き込みしている団員をよく見かけるってさ
-あれって、覚者への対抗意識なのかな</text>
+あれって、覚者への対抗意識なのかな</original>
   </message>
   <message>
     <key>q20000006_00_883</key>
-    <text xml:space="preserve">Go to the depths of the Hidell Catacombs.</text>
+    <original xml:space="preserve">ハイデル地下霊廟の最奥を目指す</original>
+    <translation xml:space="preserve">Go to the depths of the Hidell Catacombs.</translation>
   </message>
   <message>
     <key>q20000006_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20000006_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

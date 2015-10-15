@@ -1,38 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>sb_tub_sbonus_cumulative_total</key>
-    <text xml:space="preserve">Cumulative Stamp Bonus</text>
+    <original xml:space="preserve">累計スタンプボーナス</original>
+    <translation xml:space="preserve">Cumulative Stamp Bonus</translation>
   </message>
   <message>
     <key>sb_tub_sbonus_continuity</key>
-    <text xml:space="preserve">Continuous Stamp Bonus</text>
+    <original xml:space="preserve">連続スタンプボーナス</original>
+    <translation xml:space="preserve">Continuous Stamp Bonus</translation>
   </message>
   <message>
     <key>sb_title_sbonus_en</key>
-    <text xml:space="preserve">Stamp Bonus</text>
+    <original xml:space="preserve">Stamp Bonus</original>
   </message>
   <message>
     <key>sb_title_sbonus_jp</key>
-    <text xml:space="preserve">Stamp Bonus</text>
+    <original xml:space="preserve">スタンプ手帳</original>
+    <translation xml:space="preserve">Stamp Bonus</translation>
   </message>
   <message>
     <key>sb_ana_sbonus_continuity</key>
-    <text xml:space="preserve">《&lt;VAL&gt; consecutive days stamp bonus》</text>
+    <original xml:space="preserve">《連続スタンプボーナス&lt;VAL&gt;日目》</original>
+    <translation xml:space="preserve">《&lt;VAL&gt; consecutive days stamp bonus》</translation>
   </message>
   <message>
     <key>sb_ana_sbonus_cumulative_total</key>
-    <text xml:space="preserve">《&lt;VAL&gt; total days stamp bonus》</text>
+    <original xml:space="preserve">《累計スタンプボーナス&lt;VAL&gt;日目》</original>
+    <translation xml:space="preserve">《&lt;VAL&gt; total days stamp bonus》</translation>
   </message>
   <message>
     <key>sb_ana_get_item</key>
-    <text xml:space="preserve">acquired</text>
+    <original xml:space="preserve">を獲得しました</original>
+    <translation xml:space="preserve">acquired</translation>
   </message>
   <message>
     <key>sb_ana_get_rim</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve">枚</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>sb_ana_day_count</key>
-    <text xml:space="preserve">days</text>
+    <original xml:space="preserve">日目</original>
+    <translation xml:space="preserve">days</translation>
   </message>
 </resource>

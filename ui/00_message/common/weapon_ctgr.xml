@@ -1,38 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>WEAPON_CTGR_0</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
   <message>
     <key>WEAPON_CTGR_1</key>
-    <text xml:space="preserve">One-handed sword</text>
+    <original xml:space="preserve">片手剣</original>
+    <translation xml:space="preserve">One-handed sword</translation>
   </message>
   <message>
     <key>WEAPON_CTGR_2</key>
-    <text xml:space="preserve">Shield</text>
+    <original xml:space="preserve">盾</original>
+    <translation xml:space="preserve">Shield</translation>
   </message>
   <message>
     <key>WEAPON_CTGR_4</key>
-    <text xml:space="preserve">Greatshield</text>
+    <original xml:space="preserve">大盾</original>
+    <translation xml:space="preserve">Greatshield</translation>
   </message>
   <message>
     <key>WEAPON_CTGR_5</key>
-    <text xml:space="preserve">Rod</text>
+    <original xml:space="preserve">ロッド</original>
+    <translation xml:space="preserve">Rod</translation>
   </message>
   <message>
     <key>WEAPON_CTGR_6</key>
-    <text xml:space="preserve">Daggers</text>
+    <original xml:space="preserve">ダガー</original>
+    <translation xml:space="preserve">Daggers</translation>
   </message>
   <message>
     <key>WEAPON_CTGR_7</key>
-    <text xml:space="preserve">Bow</text>
+    <original xml:space="preserve">弓</original>
+    <translation xml:space="preserve">Bow</translation>
   </message>
   <message>
     <key>WEAPON_CTGR_11</key>
-    <text xml:space="preserve">Staff</text>
+    <original xml:space="preserve">杖</original>
+    <translation xml:space="preserve">Staff</translation>
   </message>
   <message>
     <key>WEAPON_CTGR_12</key>
-    <text xml:space="preserve">Archistaff</text>
+    <original xml:space="preserve">大杖</original>
+    <translation xml:space="preserve">Archistaff</translation>
   </message>
 </resource>

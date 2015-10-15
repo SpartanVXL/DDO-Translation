@@ -1,37 +1,39 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20020007_00_236</key>
-    <text xml:space="preserve">山道の危機管理</text>
+    <original xml:space="preserve">山道の危機管理</original>
   </message>
   <message>
     <key>q20020007_00_236</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20020007_00_236</key>
-    <text xml:space="preserve">詳細ははっきりしないが、何らかの助けを欲する者が
-&lt;NAME AREA&gt;にいるらしい</text>
+    <original xml:space="preserve">詳細ははっきりしないが、何らかの助けを欲する者が
+&lt;NAME AREA&gt;にいるらしい</original>
   </message>
   <message>
     <key>q20020007_00_236</key>
-    <text xml:space="preserve">あの渓谷、いまは相当治安が悪いみたいだぞ
+    <original xml:space="preserve">あの渓谷、いまは相当治安が悪いみたいだぞ
 普通だと人が立ち入らないような奥地にまで
 騎士団やら覚者やらが出張っている
 あいつらはいいよ、武装してるからな
 俺達のような戦わない一般人は、ほとぼりが冷める
-まで危険区域を避けるしかない</text>
+まで危険区域を避けるしかない</original>
   </message>
   <message>
     <key>q20020007_00_969</key>
-    <text xml:space="preserve">山道に現れる敵を討伐する</text>
+    <original xml:space="preserve">山道に現れる敵を討伐する</original>
   </message>
   <message>
     <key>q20020007_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20020007_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

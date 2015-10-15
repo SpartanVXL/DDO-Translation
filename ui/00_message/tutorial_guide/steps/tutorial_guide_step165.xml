@@ -1,27 +1,27 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_161</key>
-    <text xml:space="preserve">この世界レスタニアの状況は
+    <original xml:space="preserve">この世界レスタニアの状況は
 パーティーリーダーのメインクエスト進行度や
 エリアランクに基づき、変化します
 
 登場する敵、遊べるクエスト、封鎖区域の
 解放状況などさまざまな要素が
-影響を受けます</text>
+影響を受けます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_309</key>
-    <text xml:space="preserve">あなたがパーティーリーダーでない場合は
+    <original xml:space="preserve">あなたがパーティーリーダーでない場合は
 自身がリーダーの時と世界の状況が違うことを
 覚えておきましょう
 
 また、この世界はパーティーで
 １回冒険に出るたびに、入手したアイテムや
-倒した敵が再び出現するようになります</text>
+倒した敵が再び出現するようになります</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_310</key>
-    <text xml:space="preserve">アイテムの採取や敵の討伐を狙いたい場合は
+    <original xml:space="preserve">アイテムの採取や敵の討伐を狙いたい場合は
 一度パーティー全員で神殿や各地の拠点
 （リムストーンのある組合宿など）に帰ることで
 世界状況をリセットすることができます
@@ -29,6 +29,6 @@
 &lt;COL ffdc78&gt;また、リセットされることで破棄したり
 クリアしたワールドクエスト、パーソナルクエスト
 （進行に関わるものを除く）も
-再受注可能になります&lt;/COL&gt;</text>
+再受注可能になります&lt;/COL&gt;</original>
   </message>
 </resource>

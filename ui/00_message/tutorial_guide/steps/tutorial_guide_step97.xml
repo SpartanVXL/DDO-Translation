@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_60</key>
-    <text xml:space="preserve">&lt;COL 78f5ff&gt;他覚者との《パーティープレイ》が解放されました！&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL 78f5ff&gt;他覚者との《パーティープレイ》が解放されました！&lt;/COL&gt;
 
 他の覚者とパーティーを組むには
 ３通りの方法があります
 
 あなた自身がパーティーリーダーとなって
 他のプレイヤーに参加要請を出す場合と
-ゲストとして他のパーティーに参加する場合です</text>
+ゲストとして他のパーティーに参加する場合です</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_388</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【自分がリーダーとなってパーティーを作る場合】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【自分がリーダーとなってパーティーを作る場合】&lt;/COL&gt;
 
 拠点にいる&lt;COL ffdc78&gt;《冒険仲介係》&lt;/COL&gt;か
 ゲームメニュー《パーティー》の&lt;COL ffdc78&gt;《パーティー管理》&lt;/COL&gt;
@@ -21,44 +21,44 @@
 《プレイヤー検索》で参加してほしいプレイヤーに
 &lt;COL ffdc78&gt;《パーティー要請》&lt;/COL&gt;を出してください
 
-ジョブ、レベルなど細かい設定での検索も可能です</text>
+ジョブ、レベルなど細かい設定での検索も可能です</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_61</key>
-    <text xml:space="preserve">また、下記の方法でもパーティーに誘えます
+    <original xml:space="preserve">また、下記の方法でもパーティーに誘えます
 
 ＜プレイヤーキャラクターに話しかける＞
 　&lt;PADM&gt;【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_E&gt;】&lt;/KEYM&gt;で選択し会話メニューから誘う
 
 ＜チャットログから誘う＞
 　チャットログを&lt;PADM&gt;【&lt;ICON PAD_R2&gt;ボタン】で拡大後【&lt;ICON PAD_K_UPDOWN&gt;】&lt;KEYM&gt;【&lt;ICON KB_END&gt;】で拡大後【&lt;ICON KB_ARW_T&gt;】&lt;/KEYM&gt;で
-　発言者名を選択して誘う</text>
+　発言者名を選択して誘う</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_389</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【誰かのパーティーに参加したい場合】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【誰かのパーティーに参加したい場合】&lt;/COL&gt;
 
 他のプレイヤーから&lt;COL ffdc78&gt;《パーティー要請》&lt;/COL&gt;を
 出してもらう必要があります
 
 パーティー要請を受けると画面中央にアナウンスが
 表示されるので、操作に従いパーティーに
-参加しましょう</text>
+参加しましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_416</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【クイックパーティーを利用する場合】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【クイックパーティーを利用する場合】&lt;/COL&gt;
 
 ゲームメニュー&lt;COL ffdc78&gt;《クイックパーティー》&lt;/COL&gt;の利用で
 同じ目的のプレイヤーと簡単にパーティーを
 組むことができます
 
 遊びたいクエストやエリアを指定し、待つだけで
-自動的にマッチングされるため、ぜひ活用ください</text>
+自動的にマッチングされるため、ぜひ活用ください</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_190</key>
-    <text xml:space="preserve">パーティーが編成されると
+    <original xml:space="preserve">パーティーが編成されると
 必ずパーティーリーダーが設定されます
 
 &lt;COL ffdc78&gt;体力ゲージに【Ｌ】マークが
@@ -66,17 +66,17 @@
 
 リーダーには、パーティークエストの進行度や
 レスタニアの世界状況など、ゲーム進行に
-関わるさまざまな決定権があります</text>
+関わるさまざまな決定権があります</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_218</key>
-    <text xml:space="preserve">パーティーリーダーが誰なのか
+    <original xml:space="preserve">パーティーリーダーが誰なのか
 冒険時は必ず確認しましょう
 
 &lt;COL ffdc78&gt;リーダーが不在の場合は冒険が進行できません&lt;/COL&gt;
 
 白竜神殿かリムストーンのある拠点施設内
 に戻り、《パーティー管理》から
-新しいリーダーを決めてください</text>
+新しいリーダーを決めてください</original>
   </message>
 </resource>

@@ -1,62 +1,70 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>photo_guide_print</key>
-    <text xml:space="preserve">Take Photo</text>
+    <original xml:space="preserve">撮影</original>
+    <translation xml:space="preserve">Take Photo</translation>
   </message>
   <message>
     <key>photo_guide_ploff</key>
-    <text xml:space="preserve">Hide Player</text>
+    <original xml:space="preserve">プレイヤーを非表示</original>
+    <translation xml:space="preserve">Hide Player</translation>
   </message>
   <message>
     <key>photo_guide_cam_move</key>
-    <text xml:space="preserve">Move</text>
+    <original xml:space="preserve">カメラ移動</original>
+    <translation xml:space="preserve">Move</translation>
   </message>
   <message>
     <key>photo_guide_cam_roll</key>
-    <text xml:space="preserve">Rotate</text>
+    <original xml:space="preserve">カメラ回転</original>
+    <translation xml:space="preserve">Rotate</translation>
   </message>
   <message>
     <key>photo_guide_zoomin</key>
-    <text xml:space="preserve">Zoom In</text>
+    <original xml:space="preserve">ズームイン</original>
+    <translation xml:space="preserve">Zoom In</translation>
   </message>
   <message>
     <key>photo_guide_zoomout</key>
-    <text xml:space="preserve">Zoom Out</text>
+    <original xml:space="preserve">ズームアウト</original>
+    <translation xml:space="preserve">Zoom Out</translation>
   </message>
   <message>
     <key>photo_guide_comm_sc</key>
-    <text xml:space="preserve">コミュニケーションショートカット</text>
+    <original xml:space="preserve">コミュニケーションショートカット</original>
   </message>
   <message>
     <key>photo_guide_album_num</key>
-    <text xml:space="preserve">アルバム保存枚数</text>
+    <original xml:space="preserve">アルバム保存枚数</original>
   </message>
   <message>
     <key>photo_guide_copy_right</key>
-    <text xml:space="preserve">©CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.</text>
+    <original xml:space="preserve">©CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.</original>
   </message>
   <message>
     <key>photo_guide_title</key>
-    <text xml:space="preserve">Dragon's Dogma Online*</text>
+    <original xml:space="preserve">Dragon's Dogma Online*</original>
   </message>
   <message>
     <key>photo_frame_title_jp</key>
-    <text xml:space="preserve">Photo Frame</text>
+    <original xml:space="preserve">Photo Frame</original>
   </message>
   <message>
     <key>photo_frame_title_en</key>
-    <text xml:space="preserve">Select Frame</text>
+    <original xml:space="preserve">フレーム選択</original>
+    <translation xml:space="preserve">Select Frame</translation>
   </message>
   <message>
     <key>photo_savedata_picture_album</key>
-    <text xml:space="preserve">Dragon's Dogma Online</text>
+    <original xml:space="preserve">Dragon's Dogma Online</original>
   </message>
   <message>
     <key>photo_savedata_picture_name</key>
-    <text xml:space="preserve">Dragon's Dogma Online Screen Shot</text>
+    <original xml:space="preserve">Dragon's Dogma Online Screen Shot</original>
   </message>
   <message>
     <key>photo_savedata_picture_info</key>
-    <text xml:space="preserve">Screenshot taken by Dragon's Dogma Online</text>
+    <original xml:space="preserve">Dragon's Dogma Online で撮影したスクリーンショットです</original>
+    <translation xml:space="preserve">Screenshot taken by Dragon's Dogma Online</translation>
   </message>
 </resource>

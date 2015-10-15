@@ -1,248 +1,286 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>title_change_job_skill</key>
-    <text xml:space="preserve">転職・戦技補佐</text>
+    <original xml:space="preserve">転職・戦技補佐</original>
   </message>
   <message>
     <key>title_change_skill</key>
-    <text xml:space="preserve">戦技補佐</text>
+    <original xml:space="preserve">戦技補佐</original>
   </message>
   <message>
     <key>option_change_job</key>
-    <text xml:space="preserve">転職</text>
+    <original xml:space="preserve">転職</original>
   </message>
   <message>
     <key>option_change_skill</key>
-    <text xml:space="preserve">スキル習得/装備</text>
+    <original xml:space="preserve">スキル習得/装備</original>
   </message>
   <message>
     <key>option_change_ability</key>
-    <text xml:space="preserve">アビリティ習得/装備</text>
+    <original xml:space="preserve">アビリティ習得/装備</original>
   </message>
   <message>
     <key>heading_change_skill_ability</key>
-    <text xml:space="preserve">Learn/Equip Skills and Abilities</text>
+    <original xml:space="preserve">スキル・アビリティ習得/装備</original>
+    <translation xml:space="preserve">Learn/Equip Skills and Abilities</translation>
   </message>
   <message>
     <key>tab_normal_skill</key>
-    <text xml:space="preserve">Core Skills</text>
+    <original xml:space="preserve">ノーマルスキル</original>
+    <translation xml:space="preserve">Core Skills</translation>
   </message>
   <message>
     <key>tab_custom_skill</key>
-    <text xml:space="preserve">Custom Skills</text>
+    <original xml:space="preserve">カスタムスキル</original>
+    <translation xml:space="preserve">Custom Skills</translation>
   </message>
   <message>
     <key>tab_ability</key>
-    <text xml:space="preserve">Abilities</text>
+    <original xml:space="preserve">アビリティ</original>
+    <translation xml:space="preserve">Abilities</translation>
   </message>
   <message>
     <key>button_get</key>
-    <text xml:space="preserve">習得</text>
+    <original xml:space="preserve">習得</original>
   </message>
   <message>
     <key>button_levelup</key>
-    <text xml:space="preserve">LV.UP</text>
+    <original xml:space="preserve">LV.UP</original>
   </message>
   <message>
     <key>button_levelmax</key>
-    <text xml:space="preserve">LV.MAX</text>
+    <original xml:space="preserve">LV.MAX</original>
   </message>
   <message>
     <key>heading_current_skill</key>
-    <text xml:space="preserve">Set Custom Skill</text>
+    <original xml:space="preserve">Set Custom Skill</original>
   </message>
   <message>
     <key>heading_current_ability</key>
-    <text xml:space="preserve">Set Ability</text>
+    <original xml:space="preserve">Set Ability</original>
   </message>
   <message>
     <key>option_filter</key>
-    <text xml:space="preserve">Filter</text>
+    <original xml:space="preserve">フィルタ</original>
+    <translation xml:space="preserve">Filter</translation>
   </message>
   <message>
     <key>option_preset</key>
-    <text xml:space="preserve">Preset List</text>
+    <original xml:space="preserve">プリセットリスト</original>
+    <translation xml:space="preserve">Preset List</translation>
   </message>
   <message>
     <key>option_apply</key>
-    <text xml:space="preserve">Equip Preset</text>
+    <original xml:space="preserve">プリセットの装備</original>
+    <translation xml:space="preserve">Equip Preset</translation>
   </message>
   <message>
     <key>option_overwrite</key>
-    <text xml:space="preserve">Register Equipped Abilities</text>
+    <original xml:space="preserve">装備中のアビリティを登録</original>
+    <translation xml:space="preserve">Register Equipped Abilities</translation>
   </message>
   <message>
     <key>option_rename</key>
-    <text xml:space="preserve">Rename Preset</text>
+    <original xml:space="preserve">プリセット名の編集</original>
+    <translation xml:space="preserve">Rename Preset</translation>
   </message>
   <message>
     <key>error_joblevel</key>
-    <text xml:space="preserve">Your job level is not high enough.</text>
+    <original xml:space="preserve">ジョブレベルが不足しています</original>
+    <translation xml:space="preserve">Your job level is not high enough.</translation>
   </message>
   <message>
     <key>error_jp</key>
-    <text xml:space="preserve">You do not have enough &lt;UNIT JP&gt;.</text>
+    <original xml:space="preserve">所持&lt;UNIT JP&gt;が不足しています</original>
+    <translation xml:space="preserve">You do not have enough &lt;UNIT JP&gt;.</translation>
   </message>
   <message>
     <key>error_both</key>
-    <text xml:space="preserve">Your job level and &lt;UNIT JP&gt; are insufficient.</text>
+    <original xml:space="preserve">ジョブレベル・所持&lt;UNIT JP&gt;が不足しています</original>
+    <translation xml:space="preserve">Your job level and &lt;UNIT JP&gt; are insufficient.</translation>
   </message>
   <message>
     <key>dialog_job_change</key>
-    <text xml:space="preserve">Are you sure you want to job change
-to &lt;NAME JOB&gt;?</text>
+    <original xml:space="preserve">&lt;NAME JOB&gt;に転職しますか？</original>
+    <translation xml:space="preserve">Are you sure you want to job change
+to &lt;NAME JOB&gt;?</translation>
   </message>
   <message>
     <key>dialog_learn</key>
-    <text xml:space="preserve">Are you sure you want to spend &lt;VAL JP&gt; to learn this?</text>
+    <original xml:space="preserve">&lt;VAL JP&gt;を消費して習得します
+よろしいですか？</original>
+    <translation xml:space="preserve">Are you sure you want to spend &lt;VAL JP&gt; to learn this?</translation>
   </message>
   <message>
     <key>dialog_lvup</key>
-    <text xml:space="preserve">Are you sure you want to spend &lt;VAL JP&gt;
-to level it up?</text>
+    <original xml:space="preserve">&lt;VAL JP&gt;を消費してレベルアップします
+よろしいですか？</original>
+    <translation xml:space="preserve">Are you sure you want to spend &lt;VAL JP&gt;
+to level it up?</translation>
   </message>
   <message>
     <key>dropdown_ability_search</key>
-    <text xml:space="preserve">検索結果</text>
+    <original xml:space="preserve">検索結果</original>
   </message>
   <message>
     <key>announce_ability_search_result</key>
-    <text xml:space="preserve">&lt;VAL&gt;件見つかりました</text>
+    <original xml:space="preserve">&lt;VAL&gt;件見つかりました</original>
   </message>
   <message>
     <key>job_infomation_window_title_infomation</key>
-    <text xml:space="preserve">Information</text>
+    <original xml:space="preserve">Information</original>
   </message>
   <message>
     <key>job_infomation_window_heading_caption</key>
-    <text xml:space="preserve">Details</text>
+    <original xml:space="preserve">Details</original>
   </message>
   <message>
     <key>job_infomation_window_heading_weapon</key>
-    <text xml:space="preserve">Weapons</text>
+    <original xml:space="preserve">Weapons</original>
   </message>
   <message>
     <key>heading_normal_skill</key>
-    <text xml:space="preserve">Core Skills</text>
+    <original xml:space="preserve">Normal Skills</original>
+    <translation xml:space="preserve">Core Skills</translation>
   </message>
   <message>
     <key>heading_custom_skill</key>
-    <text xml:space="preserve">Custom Skills</text>
+    <original xml:space="preserve">Custom Skills</original>
   </message>
   <message>
     <key>heading_ability</key>
-    <text xml:space="preserve">Abilities</text>
+    <original xml:space="preserve">Abilities</original>
   </message>
   <message>
     <key>heading_command</key>
-    <text xml:space="preserve">Command</text>
+    <original xml:space="preserve">Command</original>
   </message>
   <message>
     <key>error_cost_over</key>
-    <text xml:space="preserve">You have reached maximum ability cost.</text>
+    <original xml:space="preserve">コストオーバーでセットできません</original>
+    <translation xml:space="preserve">You have reached maximum ability cost.</translation>
   </message>
   <message>
     <key>error_set_already</key>
-    <text xml:space="preserve">That ability is already set.</text>
+    <original xml:space="preserve">既にセット済みです</original>
+    <translation xml:space="preserve">That ability is already set.</translation>
   </message>
   <message>
     <key>ability_type_secret</key>
-    <text xml:space="preserve">Secret Abilities</text>
+    <original xml:space="preserve">シークレットアビリティ</original>
+    <translation xml:space="preserve">Secret Abilities</translation>
   </message>
   <message>
     <key>heading_change_skill_ability_eng</key>
-    <text xml:space="preserve">Skills/Abilities</text>
+    <original xml:space="preserve">Skills/Abilities</original>
   </message>
   <message>
     <key>custom_skill_cmd_title</key>
-    <text xml:space="preserve">操作選択</text>
+    <original xml:space="preserve">操作選択</original>
   </message>
   <message>
     <key>custom_skill_cmd_remove</key>
-    <text xml:space="preserve">Remove</text>
+    <original xml:space="preserve">はずす</original>
+    <translation xml:space="preserve">Remove</translation>
   </message>
   <message>
     <key>btn_guide_set_ability</key>
-    <text xml:space="preserve">Set Ability</text>
+    <original xml:space="preserve">アビリティの装備</original>
+    <translation xml:space="preserve">Set Ability</translation>
   </message>
   <message>
     <key>btn_guide_sub_menu</key>
-    <text xml:space="preserve">Sub Menu</text>
+    <original xml:space="preserve">サブメニュー</original>
+    <translation xml:space="preserve">Sub Menu</translation>
   </message>
   <message>
     <key>ability_search_check_all</key>
-    <text xml:space="preserve">All</text>
+    <original xml:space="preserve">全て</original>
+    <translation xml:space="preserve">All</translation>
   </message>
   <message>
     <key>title_preset_ability</key>
-    <text xml:space="preserve">Ability Set</text>
+    <original xml:space="preserve">Ability Set</original>
   </message>
   <message>
     <key>need_level_to_get</key>
-    <text xml:space="preserve">Job Level: &lt;VAL&gt;</text>
+    <original xml:space="preserve">ジョブレベル：&lt;VAL&gt;</original>
+    <translation xml:space="preserve">Job Level: &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>error_server_request_fail</key>
-    <text xml:space="preserve">通信リクエストに失敗しました</text>
+    <original xml:space="preserve">通信リクエストに失敗しました</original>
   </message>
   <message>
     <key>get_conditions</key>
-    <text xml:space="preserve">習得条件</text>
+    <original xml:space="preserve">習得条件</original>
   </message>
   <message>
     <key>need_jp_to_get</key>
-    <text xml:space="preserve">Job Points: &lt;VAL&gt;</text>
+    <original xml:space="preserve">ジョブポイント：&lt;VAL&gt;</original>
+    <translation xml:space="preserve">Job Points: &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>level_up_conditions</key>
-    <text xml:space="preserve">Level Up Requirements</text>
+    <original xml:space="preserve">次のレベルアップ条件</original>
+    <translation xml:space="preserve">Level Up Requirements</translation>
   </message>
   <message>
     <key>heading_skill</key>
-    <text xml:space="preserve">Skills</text>
+    <original xml:space="preserve">Skills</original>
   </message>
   <message>
     <key>preset_default_name</key>
-    <text xml:space="preserve">Preset #</text>
+    <original xml:space="preserve">プリセット</original>
+    <translation xml:space="preserve">Preset #</translation>
   </message>
   <message>
     <key>preset_unregist</key>
-    <text xml:space="preserve">Unregistered</text>
+    <original xml:space="preserve">未登録</original>
+    <translation xml:space="preserve">Unregistered</translation>
   </message>
   <message>
     <key>job_change_error_capacity_over</key>
-    <text xml:space="preserve">Your storage box is full.</text>
+    <original xml:space="preserve">保管ボックスの空きが足りません</original>
+    <translation xml:space="preserve">Your storage box is full.</translation>
   </message>
   <message>
     <key>job_change_error_no_weapon</key>
-    <text xml:space="preserve">There is no available weapon.</text>
+    <original xml:space="preserve">装備できる武器がありません</original>
+    <translation xml:space="preserve">There is no available weapon.</translation>
   </message>
   <message>
     <key>job_change_error_certain_reason</key>
-    <text xml:space="preserve">Failed to change job.</text>
+    <original xml:space="preserve">転職に失敗しました</original>
+    <translation xml:space="preserve">Failed to change job.</translation>
   </message>
   <message>
     <key>release_condition_master_subject</key>
-    <text xml:space="preserve">Clear the Job Master Order</text>
+    <original xml:space="preserve">ジョブマスターの課題をクリアする</original>
+    <translation xml:space="preserve">Clear the Job Master Order</translation>
   </message>
   <message>
     <key>job_msg_job</key>
-    <text xml:space="preserve">Job</text>
+    <original xml:space="preserve">ジョブ</original>
+    <translation xml:space="preserve">Job</translation>
   </message>
   <message>
     <key>job_msg_category</key>
-    <text xml:space="preserve">Category</text>
+    <original xml:space="preserve">カテゴリー</original>
+    <translation xml:space="preserve">Category</translation>
   </message>
   <message>
     <key>job_msg_normal_skill_j</key>
-    <text xml:space="preserve">Core Skills</text>
+    <original xml:space="preserve">ノーマルスキル</original>
+    <translation xml:space="preserve">Core Skills</translation>
   </message>
   <message>
     <key>job_msg_custom_skill_j</key>
-    <text xml:space="preserve">Custom Skills</text>
+    <original xml:space="preserve">カスタムスキル</original>
+    <translation xml:space="preserve">Custom Skills</translation>
   </message>
   <message>
     <key>job_msg_total_job_level</key>
-    <text xml:space="preserve">Total &lt;VAL LV&gt;</text>
+    <original xml:space="preserve">Total &lt;VAL LV&gt;</original>
   </message>
 </resource>

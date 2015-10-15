@@ -1,36 +1,40 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000005_00_214</key>
-    <text xml:space="preserve">The Mysterious Monolith</text>
+    <original xml:space="preserve">未知なる大石塊</original>
+    <translation xml:space="preserve">The Mysterious Monolith</translation>
   </message>
   <message>
     <key>q20000005_00_214</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20000005_00_214</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;には今
-覚者の助けを欲する者がいるらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;には今
+覚者の助けを欲する者がいるらしい</original>
   </message>
   <message>
     <key>q20000005_00_214</key>
-    <text xml:space="preserve">テル村の西のほうに、妙な建物というか
+    <original xml:space="preserve">テル村の西のほうに、妙な建物というか
 塊みたいなものがあるだろ？
 案の定、興味本位で近づくヤツがいたらしいよ
 ああいう怪しいモノは、騎士団か覚者に調べさせて
-おけばいいのにさ</text>
+おけばいいのにさ</original>
   </message>
   <message>
     <key>q20000005_00_1123</key>
-    <text xml:space="preserve">Defeat all enemies encountered within The Ark.</text>
+    <original xml:space="preserve">＜アーク＞に潜む魔物を探しだし討伐する</original>
+    <translation xml:space="preserve">Defeat all enemies encountered within The Ark.</translation>
   </message>
   <message>
     <key>q20000005_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20000005_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

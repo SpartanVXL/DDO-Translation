@@ -1,50 +1,61 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>rsp_msg_000</key>
-    <text xml:space="preserve">Rental Point Allotment</text>
+    <original xml:space="preserve">レンタルポイントの割り振り</original>
+    <translation xml:space="preserve">Rental Point Allotment</translation>
   </message>
   <message>
     <key>rsp_msg_001</key>
-    <text xml:space="preserve">Left over Rental Points</text>
+    <original xml:space="preserve">残りレンタルポイント</original>
+    <translation xml:space="preserve">Left over Rental Points</translation>
   </message>
   <message>
     <key>rsp_msg_002</key>
-    <text xml:space="preserve">Convert to Job Points</text>
+    <original xml:space="preserve">ジョブポイントに変換</original>
+    <translation xml:space="preserve">Convert to Job Points</translation>
   </message>
   <message>
     <key>rsp_msg_003</key>
-    <text xml:space="preserve">Conversion Rate：1 JP = &lt;VAL RP&gt;</text>
+    <original xml:space="preserve">※変換レート：1 JP = &lt;VAL RP&gt;</original>
+    <translation xml:space="preserve">Conversion Rate：1 JP = &lt;VAL RP&gt;</translation>
   </message>
   <message>
     <key>rsp_msg_004</key>
-    <text xml:space="preserve">＝</text>
+    <original xml:space="preserve">＝</original>
   </message>
   <message>
     <key>rsp_msg_005</key>
-    <text xml:space="preserve">Are you sure you want to
+    <original xml:space="preserve">レンタルポイントの割り振りを行います
+よろしいですか？
+
+</original>
+    <translation xml:space="preserve">Are you sure you want to
 convert these Rental Points?
 
-</text>
+</translation>
   </message>
   <message>
     <key>rsp_msg_006</key>
-    <text xml:space="preserve">　消費レンタルポイント：&lt;VAL RP&gt;
-</text>
+    <original xml:space="preserve">　消費レンタルポイント：&lt;VAL RP&gt;
+</original>
   </message>
   <message>
     <key>rsp_msg_007</key>
-    <text xml:space="preserve">　&lt;COL ffdc78&gt;獲得ジョブポイント　：&lt;VAL JP&gt;&lt;/COL&gt;
-</text>
+    <original xml:space="preserve">　&lt;COL ffdc78&gt;獲得ジョブポイント　：&lt;VAL JP&gt;&lt;/COL&gt;
+</original>
   </message>
   <message>
     <key>rsp_msg_008</key>
-    <text xml:space="preserve">Rental Points converted
+    <original xml:space="preserve">レンタルポイントの割り振りを行いました
 
-</text>
+</original>
+    <translation xml:space="preserve">Rental Points converted
+
+</translation>
   </message>
   <message>
     <key>rsp_msg_009</key>
-    <text xml:space="preserve">　&lt;COL ffdc78&gt;ジョブポイントを &lt;VAL JP&gt; 獲得しました&lt;/COL&gt;
-</text>
+    <original xml:space="preserve">　&lt;COL ffdc78&gt;ジョブポイントを &lt;VAL JP&gt; 獲得しました&lt;/COL&gt;
+</original>
   </message>
 </resource>

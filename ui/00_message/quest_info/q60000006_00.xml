@@ -1,59 +1,72 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q60000006_00_23</key>
-    <text xml:space="preserve">Basic Combat Skills Tutorial of Shield Sage</text>
+    <original xml:space="preserve">魔盾の証　シールドセージ戦術試練</original>
+    <translation xml:space="preserve">Basic Combat Skills Tutorial of Shield Sage</translation>
   </message>
   <message>
     <key>q60000006_00_23</key>
-    <text xml:space="preserve">シールドセージの基本戦術を学ぶため
-修練の祠にて試練に挑む</text>
+    <original xml:space="preserve">シールドセージの基本戦術を学ぶため
+修練の祠にて試練に挑む</original>
   </message>
   <message>
     <key>q60000006_00_1093</key>
-    <text xml:space="preserve">Talk to the White Knight near the cliff of the Training Chapel.</text>
+    <original xml:space="preserve">修練の祠前の崖下にいる白衛騎士団員と話す</original>
+    <translation xml:space="preserve">Talk to the White Knight near the cliff of the Training Chapel.</translation>
   </message>
   <message>
     <key>q60000006_00_1094</key>
-    <text xml:space="preserve">Talk to Wilson in the Training Chapel.</text>
+    <original xml:space="preserve">修練の祠内のウィルソンと話す</original>
+    <translation xml:space="preserve">Talk to Wilson in the Training Chapel.</translation>
   </message>
   <message>
     <key>q60000006_00_1095</key>
-    <text xml:space="preserve">Attack the enemy with your Greatshield.</text>
+    <original xml:space="preserve">シールドブロウで敵を攻撃せよ</original>
+    <translation xml:space="preserve">Attack the enemy with your Greatshield.</translation>
   </message>
   <message>
     <key>q60000006_00_1150</key>
-    <text xml:space="preserve">Change your current Elemental Attribute.</text>
+    <original xml:space="preserve">エレメントチェンジで属性を変えよ</original>
+    <translation xml:space="preserve">Change your current Elemental Attribute.</translation>
   </message>
   <message>
     <key>q60000006_00_1151</key>
-    <text xml:space="preserve">Use the "Attract" skill to get the enemy's attention.</text>
+    <original xml:space="preserve">アトラクトで敵をひきつけよ</original>
+    <translation xml:space="preserve">Use the "Attract" skill to get the enemy's attention.</translation>
   </message>
   <message>
     <key>q60000006_00_1152</key>
-    <text xml:space="preserve">Auto-block with your Greatshield.</text>
+    <original xml:space="preserve">オートガード《抜刀状態》でフォースゲージを溜めろ</original>
+    <translation xml:space="preserve">Auto-block with your Greatshield.</translation>
   </message>
   <message>
     <key>q60000006_00_1153</key>
-    <text xml:space="preserve">Block an enemy attack to charge your Force Gauge.</text>
+    <original xml:space="preserve">シールドロックでフォースゲージを溜めろ</original>
+    <translation xml:space="preserve">Block an enemy attack to charge your Force Gauge.</translation>
   </message>
   <message>
     <key>q60000006_00_1154</key>
-    <text xml:space="preserve">Fill in your Force Gauge and use a Force Burst.</text>
+    <original xml:space="preserve">ゲージを溜め、フォースバーストで敵を攻撃せよ</original>
+    <translation xml:space="preserve">Fill in your Force Gauge and use a Force Burst.</translation>
   </message>
   <message>
     <key>q60000006_00_1249</key>
-    <text xml:space="preserve">Fill in your Force Gauge and enchant.</text>
+    <original xml:space="preserve">ゲージを溜め、仲間にフォースエンチャントせよ</original>
+    <translation xml:space="preserve">Fill in your Force Gauge and enchant.</translation>
   </message>
   <message>
     <key>q60000006_00_1250</key>
-    <text xml:space="preserve">Defeat the remaining Goblins in the inner sanctum.</text>
+    <original xml:space="preserve">最深部のゴブリンを全滅せよ</original>
+    <translation xml:space="preserve">Defeat the remaining Goblins in the inner sanctum.</translation>
   </message>
   <message>
     <key>q60000006_00_1155</key>
-    <text xml:space="preserve">Collect the Emblem proving you completed the challenge.</text>
+    <original xml:space="preserve">最奥にある＜魔盾の証＞を入手する</original>
+    <translation xml:space="preserve">Collect the Emblem proving you completed the challenge.</translation>
   </message>
   <message>
     <key>q60000006_00_1179</key>
-    <text xml:space="preserve">Report back to Renton in the White Dragon Temple.</text>
+    <original xml:space="preserve">白竜神殿のレンテンに経緯を報告する</original>
+    <translation xml:space="preserve">Report back to Renton in the White Dragon Temple.</translation>
   </message>
 </resource>

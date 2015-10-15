@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ex_hint_001</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RR&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_E&gt;キー&lt;/KEYM&gt;長押しで耐えろ！</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RR&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_E&gt;キー&lt;/KEYM&gt;長押しで耐えろ！</original>
   </message>
   <message>
     <key>ex_hint_002</key>
-    <text xml:space="preserve">耐えるのに失敗した！</text>
+    <original xml:space="preserve">耐えるのに失敗した！</original>
   </message>
   <message>
     <key>ex_hint_003</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RD&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;キー&lt;/KEYM&gt;で敵から離れろ！</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RD&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;キー&lt;/KEYM&gt;で敵から離れろ！</original>
   </message>
   <message>
     <key>ex_hint_004</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RU&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;クリック&lt;/KEYM&gt;連打で揺さぶれ！</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RU&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;クリック&lt;/KEYM&gt;連打で揺さぶれ！</original>
   </message>
 </resource>

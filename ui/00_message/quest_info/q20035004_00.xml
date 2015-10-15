@@ -1,28 +1,30 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20035004_00_104</key>
-    <text xml:space="preserve">彷徨える騎士団</text>
+    <original xml:space="preserve">彷徨える騎士団</original>
   </message>
   <message>
     <key>q20035004_00_104</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20035004_00_104</key>
-    <text xml:space="preserve">不確実な情報だが、&lt;NAME AREA&gt;から
-狂暴な魔物のしわざと思われる被害報告があった</text>
+    <original xml:space="preserve">不確実な情報だが、&lt;NAME AREA&gt;から
+狂暴な魔物のしわざと思われる被害報告があった</original>
   </message>
   <message>
     <key>q20035004_00_104</key>
-    <text xml:space="preserve">俺さ、情報屋、やろうと思ってんだ
+    <original xml:space="preserve">俺さ、情報屋、やろうと思ってんだ
 噂話とか、騎士団の裏情報とかマジ詳しいし、ネタの
 鮮度に敏感っつうの？
 ついさっきも、騎士団が巡回した直後の地下墓地に
 魔物の気配がしたんだ
-どう？　俺の嗅覚、大したもんだろ</text>
+どう？　俺の嗅覚、大したもんだろ</original>
   </message>
   <message>
     <key>q20035004_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
 </resource>

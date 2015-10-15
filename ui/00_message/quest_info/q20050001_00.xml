@@ -1,41 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050001_00_44</key>
-    <text xml:space="preserve">In the Darkness</text>
+    <original xml:space="preserve">暗がりに消ゆ</original>
+    <translation xml:space="preserve">In the Darkness</translation>
   </message>
   <message>
     <key>q20050001_00_44</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-水路に先行している仲間の行方を追う</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+水路に先行している仲間の行方を追う</original>
   </message>
   <message>
     <key>q20050001_00_44</key>
-    <text xml:space="preserve">先日から&lt;NAME AREA&gt;で
-世もなく嘆きの節をもらす者がいると伝わっている</text>
+    <original xml:space="preserve">先日から&lt;NAME AREA&gt;で
+世もなく嘆きの節をもらす者がいると伝わっている</original>
   </message>
   <message>
     <key>q20050001_00_44</key>
-    <text xml:space="preserve">行商人？
+    <original xml:space="preserve">行商人？
 ああ、うん確かにそんな感じの人、見かけたね
 悩みがある感じ？　うんそう見えたね
 でもさ、人を見たら泥棒と思えって
 親に言われてきたからね
-同情心をあおられても、そう簡単に助けられないよ</text>
+同情心をあおられても、そう簡単に助けられないよ</original>
   </message>
   <message>
     <key>q20050001_00_999</key>
-    <text xml:space="preserve">Confirm the safety of the adventurers in the Lynwood Sewers (3 left).</text>
+    <original xml:space="preserve">＜リンウッド地下水路＞で冒険者の安否を確認する（残り３）</original>
+    <translation xml:space="preserve">Confirm the safety of the adventurers in the Lynwood Sewers (3 left).</translation>
   </message>
   <message>
     <key>q20050001_00_1111</key>
-    <text xml:space="preserve">Confirm the safety of the adventurers (2 left).</text>
+    <original xml:space="preserve">他の冒険者の安否を確認する（残り２）</original>
+    <translation xml:space="preserve">Confirm the safety of the adventurers (2 left).</translation>
   </message>
   <message>
     <key>q20050001_00_1112</key>
-    <text xml:space="preserve">Confirm the safety of the adventurers (1 left).</text>
+    <original xml:space="preserve">他の冒険者の安否を確認する（残り１）</original>
+    <translation xml:space="preserve">Confirm the safety of the adventurers (1 left).</translation>
   </message>
   <message>
     <key>q20050001_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

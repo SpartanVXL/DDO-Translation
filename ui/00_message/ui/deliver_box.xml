@@ -1,42 +1,52 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>DELIVER_MSG_TITLE01</key>
-    <text xml:space="preserve">Quest List</text>
+    <original xml:space="preserve">Quest List</original>
   </message>
   <message>
     <key>DELIVER_MSG_TITLE02</key>
-    <text xml:space="preserve">Quest List</text>
+    <original xml:space="preserve">クエストリスト</original>
+    <translation xml:space="preserve">Quest List</translation>
   </message>
   <message>
     <key>DELIVER_MSG_CAPTION_EN</key>
-    <text xml:space="preserve">Item Delivery</text>
+    <original xml:space="preserve">Delivery Item</original>
+    <translation xml:space="preserve">Item Delivery</translation>
   </message>
   <message>
     <key>DELIVER_MSG_CAPTION_JP</key>
-    <text xml:space="preserve">Item Delivery</text>
+    <original xml:space="preserve">納品アイテム</original>
+    <translation xml:space="preserve">Item Delivery</translation>
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_NOQUEST</key>
-    <text xml:space="preserve">There are no quest board orders that require a delivery.</text>
+    <original xml:space="preserve">納品が必要なボードクエストを受注していません</original>
+    <translation xml:space="preserve">There are no quest board orders that require a delivery.</translation>
   </message>
   <message>
     <key>DELIVER_MSG_LB_GOAL</key>
-    <text xml:space="preserve">Required Amount</text>
+    <original xml:space="preserve">目標納品数</original>
+    <translation xml:space="preserve">Required Amount</translation>
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_DELIVER</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; has been delivered.</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt; × &lt;VAL&gt; を納品しました</original>
+    <translation xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; has been delivered.</translation>
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_FINISH</key>
-    <text xml:space="preserve">「&lt;NAME QUEST&gt;」 has met its delivery requirement.</text>
+    <original xml:space="preserve">「&lt;NAME QUEST&gt;」
+納品目標を全て達成しました</original>
+    <translation xml:space="preserve">「&lt;NAME QUEST&gt;」 has met its delivery requirement.</translation>
   </message>
   <message>
     <key>DELIVER_MSG_BUTTON_FINISH</key>
-    <text xml:space="preserve">Finish</text>
+    <original xml:space="preserve">完了</original>
+    <translation xml:space="preserve">Finish</translation>
   </message>
   <message>
     <key>DELIVER_MSG_BUTTON_END</key>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
 </resource>

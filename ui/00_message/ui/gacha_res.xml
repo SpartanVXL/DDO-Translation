@@ -1,219 +1,240 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>gacha_msg_holding_goldenstone</key>
-    <text xml:space="preserve">所持黄金石</text>
+    <original xml:space="preserve">所持黄金石</original>
   </message>
   <message>
     <key>gacha_msg_holding_ticket</key>
-    <text xml:space="preserve">所持シルバーチケット</text>
+    <original xml:space="preserve">所持シルバーチケット</original>
   </message>
   <message>
     <key>gacha_msg_num_goldenstone</key>
-    <text xml:space="preserve">&lt;VAL&gt;個</text>
+    <original xml:space="preserve">&lt;VAL&gt;個</original>
   </message>
   <message>
     <key>gacha_msg_num_ticket</key>
-    <text xml:space="preserve">&lt;VAL&gt;枚</text>
+    <original xml:space="preserve">&lt;VAL&gt;枚</original>
   </message>
   <message>
     <key>gacha_msg_draw</key>
-    <text xml:space="preserve">まわす</text>
+    <original xml:space="preserve">まわす</original>
   </message>
   <message>
     <key>gacha_msg_multi_draw</key>
-    <text xml:space="preserve">まわす(&lt;VAL&gt;連続)</text>
+    <original xml:space="preserve">まわす(&lt;VAL&gt;連続)</original>
   </message>
   <message>
     <key>gacha_msg_no_stone_todaraw</key>
-    <text xml:space="preserve">黄金石が不足しています。ロットを1回まわすには、黄金石&lt;VAL&gt;個が必要です</text>
+    <original xml:space="preserve">黄金石が不足しています。ロットを1回まわすには、黄金石&lt;VAL&gt;個が必要です</original>
   </message>
   <message>
     <key>gacha_msg_no_stone_tomultidraw</key>
-    <text xml:space="preserve">黄金石が不足しています。ロットを&lt;VAL&gt;連続でまわすには、黄金石&lt;VAL&gt;個が必要です</text>
+    <original xml:space="preserve">黄金石が不足しています。ロットを&lt;VAL&gt;連続でまわすには、黄金石&lt;VAL&gt;個が必要です</original>
   </message>
   <message>
     <key>gacha_msg_no_ticket_todaraw</key>
-    <text xml:space="preserve">チケットが不足しています。ロットを1回まわすには、チケット&lt;VAL&gt;枚が必要です</text>
+    <original xml:space="preserve">チケットが不足しています。ロットを1回まわすには、チケット&lt;VAL&gt;枚が必要です</original>
   </message>
   <message>
     <key>gacha_msg_no_ticket_tomultidraw</key>
-    <text xml:space="preserve">チケットが不足しています。ロットを&lt;VAL&gt;連続でまわすには、チケット&lt;VAL&gt;枚が必要です</text>
+    <original xml:space="preserve">チケットが不足しています。ロットを&lt;VAL&gt;連続でまわすには、チケット&lt;VAL&gt;枚が必要です</original>
   </message>
   <message>
     <key>gacha_msg_buy_goldenstone</key>
-    <text xml:space="preserve">Buy Golden Stones</text>
+    <original xml:space="preserve">黄金石の購入</original>
+    <translation xml:space="preserve">Buy Golden Stones</translation>
   </message>
   <message>
     <key>gacha_msg_itemclass_s</key>
-    <text xml:space="preserve">S Grade Items</text>
+    <original xml:space="preserve">S級品アイテム</original>
+    <translation xml:space="preserve">S Grade Items</translation>
   </message>
   <message>
     <key>gacha_msg_itemclass_a</key>
-    <text xml:space="preserve">A Grade Items</text>
+    <original xml:space="preserve">A級品アイテム</original>
+    <translation xml:space="preserve">A Grade Items</translation>
   </message>
   <message>
     <key>gacha_msg_itemclass_b</key>
-    <text xml:space="preserve">B Grade Items</text>
+    <original xml:space="preserve">B級品アイテム</original>
+    <translation xml:space="preserve">B Grade Items</translation>
   </message>
   <message>
     <key>gacha_msg_itemclass_c</key>
-    <text xml:space="preserve">C Grade Items</text>
+    <original xml:space="preserve">C級品アイテム</original>
+    <translation xml:space="preserve">C Grade Items</translation>
   </message>
   <message>
     <key>gacha_msg_itemclass_d</key>
-    <text xml:space="preserve">D Grade Items</text>
+    <original xml:space="preserve">D級品アイテム</original>
+    <translation xml:space="preserve">D Grade Items</translation>
   </message>
   <message>
     <key>gacha_msg_class_s</key>
-    <text xml:space="preserve">S Grade</text>
+    <original xml:space="preserve">S級品</original>
+    <translation xml:space="preserve">S Grade</translation>
   </message>
   <message>
     <key>gacha_msg_class_a</key>
-    <text xml:space="preserve">A Grade</text>
+    <original xml:space="preserve">A級品</original>
+    <translation xml:space="preserve">A Grade</translation>
   </message>
   <message>
     <key>gacha_msg_class_b</key>
-    <text xml:space="preserve">B Grade</text>
+    <original xml:space="preserve">B級品</original>
+    <translation xml:space="preserve">B Grade</translation>
   </message>
   <message>
     <key>gacha_msg_class_c</key>
-    <text xml:space="preserve">C Grade</text>
+    <original xml:space="preserve">C級品</original>
+    <translation xml:space="preserve">C Grade</translation>
   </message>
   <message>
     <key>gacha_msg_class_d</key>
-    <text xml:space="preserve">D Grade</text>
+    <original xml:space="preserve">D級品</original>
+    <translation xml:space="preserve">D Grade</translation>
   </message>
   <message>
     <key>gacha_msg_view_web</key>
-    <text xml:space="preserve">ロットの詳細をブラウザで見る</text>
+    <original xml:space="preserve">ロットの詳細をブラウザで見る</original>
   </message>
   <message>
     <key>gacha_msg_brief_gacha</key>
-    <text xml:space="preserve">Lot Overview</text>
+    <original xml:space="preserve">ロット概要</original>
+    <translation xml:space="preserve">Lot Overview</translation>
   </message>
   <message>
     <key>gacha_msg_contents_view</key>
-    <text xml:space="preserve">Contents</text>
+    <original xml:space="preserve">内容一覧</original>
+    <translation xml:space="preserve">Contents</translation>
   </message>
   <message>
     <key>gacha_msg_detail</key>
-    <text xml:space="preserve">Details</text>
+    <original xml:space="preserve">詳細情報</original>
+    <translation xml:space="preserve">Details</translation>
   </message>
   <message>
     <key>gacha_msg_isdraw_by_a_stone</key>
-    <text xml:space="preserve">黄金石&lt;VAL&gt;個を消費して、
-ロットを1回まわします。よろしいですか？</text>
+    <original xml:space="preserve">黄金石&lt;VAL&gt;個を消費して、
+ロットを1回まわします。よろしいですか？</original>
   </message>
   <message>
     <key>gacha_msg_isdraw_by_stones</key>
-    <text xml:space="preserve">黄金石&lt;VAL&gt;個を消費して、
-ロットを&lt;VAL&gt;連続でまわします。よろしいですか？</text>
+    <original xml:space="preserve">黄金石&lt;VAL&gt;個を消費して、
+ロットを&lt;VAL&gt;連続でまわします。よろしいですか？</original>
   </message>
   <message>
     <key>gacha_msg_isdraw_by_a_ticket</key>
-    <text xml:space="preserve">チケット&lt;VAL&gt;枚を消費して、
-ロットを1回まわします。よろしいですか？</text>
+    <original xml:space="preserve">チケット&lt;VAL&gt;枚を消費して、
+ロットを1回まわします。よろしいですか？</original>
   </message>
   <message>
     <key>gacha_msg_isdraw_by_tickets</key>
-    <text xml:space="preserve">チケット&lt;VAL&gt;枚を消費して、
-ロットを&lt;VAL&gt;連続でまわします。よろしいですか？</text>
+    <original xml:space="preserve">チケット&lt;VAL&gt;枚を消費して、
+ロットを&lt;VAL&gt;連続でまわします。よろしいですか？</original>
   </message>
   <message>
     <key>gacha_msg_one_more_draw</key>
-    <text xml:space="preserve">Draw Again</text>
+    <original xml:space="preserve">もう一度まわす</original>
+    <translation xml:space="preserve">Draw Again</translation>
   </message>
   <message>
     <key>gacha_msg_quit</key>
-    <text xml:space="preserve">Exit</text>
+    <original xml:space="preserve">終了</original>
+    <translation xml:space="preserve">Exit</translation>
   </message>
   <message>
     <key>gacha_msg_total_num</key>
-    <text xml:space="preserve">&lt;VAL&gt;/&lt;VAL&gt;</text>
+    <original xml:space="preserve">&lt;VAL&gt;/&lt;VAL&gt;</original>
   </message>
   <message>
     <key>gacha_msg_sale_info</key>
-    <text xml:space="preserve">SALE!</text>
+    <original xml:space="preserve">SALE!</original>
   </message>
   <message>
     <key>gacha_msg_num</key>
-    <text xml:space="preserve">&lt;VAL&gt;</text>
+    <original xml:space="preserve">&lt;VAL&gt;</original>
   </message>
   <message>
     <key>gacha_msg_post</key>
-    <text xml:space="preserve">Item Post</text>
+    <original xml:space="preserve">アイテムポスト</original>
+    <translation xml:space="preserve">Item Post</translation>
   </message>
   <message>
     <key>gacha_msg_preview_goldenstone</key>
-    <text xml:space="preserve">Check Golden Stones</text>
+    <original xml:space="preserve">黄金石の確認</original>
+    <translation xml:space="preserve">Check Golden Stones</translation>
   </message>
   <message>
     <key>gacha_msg_title_j</key>
-    <text xml:space="preserve">Treasure Lot</text>
+    <original xml:space="preserve">トレジャーズロット</original>
+    <translation xml:space="preserve">Treasure Lot</translation>
   </message>
   <message>
     <key>gacha_msg_title_e</key>
-    <text xml:space="preserve">Treasure Lot</text>
+    <original xml:space="preserve">Treasure Lot</original>
   </message>
   <message>
     <key>gacha_msg_pray</key>
-    <text xml:space="preserve">&lt;VAL&gt;プレイ</text>
+    <original xml:space="preserve">&lt;VAL&gt;プレイ</original>
   </message>
   <message>
     <key>gacha_msg_load_fail</key>
-    <text xml:space="preserve">画像の読み込みに失敗しました</text>
+    <original xml:space="preserve">画像の読み込みに失敗しました</original>
   </message>
   <message>
     <key>gacha_msg_use_stone</key>
-    <text xml:space="preserve">×&lt;VAL&gt;個使用</text>
+    <original xml:space="preserve">×&lt;VAL&gt;個使用</original>
   </message>
   <message>
     <key>gacha_msg_use_ticket</key>
-    <text xml:space="preserve">×&lt;VAL&gt;枚使用</text>
+    <original xml:space="preserve">×&lt;VAL&gt;枚使用</original>
   </message>
   <message>
     <key>gacha_msg_rate</key>
-    <text xml:space="preserve">Chances</text>
+    <original xml:space="preserve">提供割合</original>
+    <translation xml:space="preserve">Chances</translation>
   </message>
   <message>
     <key>gacha_msg_rate_num</key>
-    <text xml:space="preserve">&lt;VAL&gt;%</text>
+    <original xml:space="preserve">&lt;VAL&gt;%</original>
   </message>
   <message>
     <key>gacha_msg_caution</key>
-    <text xml:space="preserve">Items acquired in the lot will be sent via item post</text>
+    <original xml:space="preserve">ロットで獲得した商品はアイテムポストに送られます</original>
+    <translation xml:space="preserve">Items acquired in the lot will be sent via item post</translation>
   </message>
   <message>
     <key>gacha_msg_ana_send_box</key>
-    <text xml:space="preserve">いいものは出たかしら？
-獲得したアイテムはアイテムポストに送っておくね</text>
+    <original xml:space="preserve">いいものは出たかしら？
+獲得したアイテムはアイテムポストに送っておくね</original>
   </message>
   <message>
     <key>gacha_msg_ana_ng_box_full</key>
-    <text xml:space="preserve">アイテムポストの空きが不足しているため、トレジャーズロットをまわすことができません</text>
+    <original xml:space="preserve">アイテムポストの空きが不足しているため、トレジャーズロットをまわすことができません</original>
   </message>
   <message>
     <key>gacha_msg_ana_ng_gs_lack</key>
-    <text xml:space="preserve">黄金石が不足しているため、トレジャーズロットをまわすことができません</text>
+    <original xml:space="preserve">黄金石が不足しているため、トレジャーズロットをまわすことができません</original>
   </message>
   <message>
     <key>gacha_msg_ana_ng_ticket_lack</key>
-    <text xml:space="preserve">シルバーチケットが不足しているため、トレジャーズロットをまわすことができません</text>
+    <original xml:space="preserve">シルバーチケットが不足しているため、トレジャーズロットをまわすことができません</original>
   </message>
   <message>
     <key>gacha_msg_disable_gp</key>
-    <text xml:space="preserve">黄金石は使用できません</text>
+    <original xml:space="preserve">黄金石は使用できません</original>
   </message>
   <message>
     <key>gacha_msg_disable_ticket</key>
-    <text xml:space="preserve">チケットは使用できません</text>
+    <original xml:space="preserve">チケットは使用できません</original>
   </message>
   <message>
     <key>gacha_msg_diable_gp_to_gacha</key>
-    <text xml:space="preserve">このトレジャーズロットでは黄金石は使用できません</text>
+    <original xml:space="preserve">このトレジャーズロットでは黄金石は使用できません</original>
   </message>
   <message>
     <key>gacha_msg_diable_ticket_to_gacha</key>
-    <text xml:space="preserve">このトレジャーズロットではシルバーチケットは使用できません</text>
+    <original xml:space="preserve">このトレジャーズロットではシルバーチケットは使用できません</original>
   </message>
 </resource>

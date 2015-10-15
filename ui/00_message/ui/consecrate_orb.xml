@@ -1,132 +1,137 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ORB_TEXT_INDEX</key>
-    <text xml:space="preserve">Inherit Dragon Power</text>
+    <original xml:space="preserve">竜力の継承</original>
+    <translation xml:space="preserve">Inherit Dragon Power</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_2ND_1</key>
-    <text xml:space="preserve">以下の能力を取得します。よろしいですか？
+    <original xml:space="preserve">以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</text>
+　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_2ND_0</key>
-    <text xml:space="preserve">以下の能力を取得します。よろしいですか？
+    <original xml:space="preserve">以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</text>
+　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_1</key>
-    <text xml:space="preserve">以下の能力を取得します。よろしいですか？
+    <original xml:space="preserve">以下の能力を取得します。よろしいですか？
 (次回から隣接する能力のみが取得可能になります)
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</text>
+　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_0</key>
-    <text xml:space="preserve">以下の能力を取得します。よろしいですか？
+    <original xml:space="preserve">以下の能力を取得します。よろしいですか？
 (次回から隣接する能力のみが取得可能になります)
 
 　取得能力：&lt;NAME SKILL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</text>
+　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
   </message>
   <message>
     <key>ORB_TEXT_RELEASE_PERCENT</key>
-    <text xml:space="preserve">&lt;VAL&gt;%</text>
+    <original xml:space="preserve">&lt;VAL&gt;%</original>
   </message>
   <message>
     <key>ORB_TEXT_YES</key>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
     <key>ORB_TEXT_NO</key>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
     <key>ORB_TEXT_MYBO</key>
-    <text xml:space="preserve">Current Blood Orbs</text>
+    <original xml:space="preserve">所持ブラッドオーブ</original>
+    <translation xml:space="preserve">Current Blood Orbs</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_GETED</key>
-    <text xml:space="preserve">すでに取得済みの能力です</text>
+    <original xml:space="preserve">すでに取得済みの能力です</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_COMP_1</key>
-    <text xml:space="preserve">必要なトータルレベルに達しているので
+    <original xml:space="preserve">必要なトータルレベルに達しているので
 以下の能力を取得できます。よろしいですか？
 
-　取得能力：&lt;NAME SKILL&gt;</text>
+　取得能力：&lt;NAME SKILL&gt;</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_COMP_2</key>
-    <text xml:space="preserve">必要なトータルレベルに達しているので
+    <original xml:space="preserve">必要なトータルレベルに達しているので
 以下の能力を取得できます。よろしいですか？
 
-　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</text>
+　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ALLCOMP_1</key>
-    <text xml:space="preserve">これ以外のすべての能力を取得した功績を称え
+    <original xml:space="preserve">これ以外のすべての能力を取得した功績を称え
 以下の能力を取得します。よろしいですか？
 
-　取得能力：&lt;NAME SKILL&gt;</text>
+　取得能力：&lt;NAME SKILL&gt;</original>
   </message>
   <message>
     <key>ORB_TEXT_RELEASE_INDEX</key>
-    <text xml:space="preserve">取得率</text>
+    <original xml:space="preserve">取得率</original>
   </message>
   <message>
     <key>ORB_TEXT_ERR_SCENARIO</key>
-    <text xml:space="preserve">この階層はまだ解放されていません</text>
+    <original xml:space="preserve">この階層はまだ解放されていません</original>
   </message>
   <message>
     <key>ORB_TEXT_ERR_BO_LACK</key>
-    <text xml:space="preserve">ブラッドオーブが不足しています</text>
+    <original xml:space="preserve">ブラッドオーブが不足しています</original>
   </message>
   <message>
     <key>ORB_TEXT_ERR_ALLCOMP</key>
-    <text xml:space="preserve">これ以外のすべての能力を取得することで選択できます</text>
+    <original xml:space="preserve">これ以外のすべての能力を取得することで選択できます</original>
   </message>
   <message>
     <key>ORB_TEXT_ERR_COMP</key>
-    <text xml:space="preserve">必要なトータルレベル（ジョブのレベル合計）に達することで選択できます</text>
+    <original xml:space="preserve">必要なトータルレベル（ジョブのレベル合計）に達することで選択できます</original>
   </message>
   <message>
     <key>ORB_TEXT_ERR_ADJACENT</key>
-    <text xml:space="preserve">取得した能力に隣接する能力のみ選択できます</text>
+    <original xml:space="preserve">取得した能力に隣接する能力のみ選択できます</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ANOUNCE_2</key>
-    <text xml:space="preserve">&lt;NAME SKILL&gt;+&lt;VAL&gt;を取得しました</text>
+    <original xml:space="preserve">&lt;NAME SKILL&gt;+&lt;VAL&gt;を取得しました</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ANOUNCE_1</key>
-    <text xml:space="preserve">&lt;NAME SKILL&gt;を取得しました</text>
+    <original xml:space="preserve">&lt;NAME SKILL&gt;を取得しました</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ALLCOMP_2</key>
-    <text xml:space="preserve">これ以外のすべての能力を取得した功績を称え
+    <original xml:space="preserve">これ以外のすべての能力を取得した功績を称え
 以下の能力を取得します。よろしいですか？
 
-　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</text>
+　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_NAME</key>
-    <text xml:space="preserve">&lt;NAME SKILL&gt;+&lt;VAL&gt;</text>
+    <original xml:space="preserve">&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
   </message>
   <message>
     <key>ORB_TEXT_BUTTON_MOVE</key>
-    <text xml:space="preserve">Move</text>
+    <original xml:space="preserve">移動</original>
+    <translation xml:space="preserve">Move</translation>
   </message>
   <message>
     <key>ORB_TEXT_NOW_TOTALLEVEL</key>
-    <text xml:space="preserve">現在のトータルレベル</text>
+    <original xml:space="preserve">現在のトータルレベル</original>
   </message>
   <message>
     <key>ORB_TEXT_GET_TOTALLEVEL</key>
-    <text xml:space="preserve">必要なトータルレベル</text>
+    <original xml:space="preserve">必要なトータルレベル</original>
   </message>
 </resource>

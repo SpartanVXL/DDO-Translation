@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_83</key>
-    <text xml:space="preserve">このレスタニアには、覚者であるあなたのほかにも
+    <original xml:space="preserve">このレスタニアには、覚者であるあなたのほかにも
 多くの人々（ＮＰＣ）が暮らしています
 彼らＮＰＣの中には
 
@@ -9,14 +9,14 @@
 　　　クエスト依頼者
 　　　地域問題やジョブの専門家
 
-など、さまざまな役割を持つ者がいます</text>
+など、さまざまな役割を持つ者がいます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_82</key>
-    <text xml:space="preserve">彼らに話しかけると、
+    <original xml:space="preserve">彼らに話しかけると、
 会話メニューに項目が表示されます
 
 利用したい機能、話したい内容を
-選びましょう</text>
+選びましょう</original>
   </message>
 </resource>

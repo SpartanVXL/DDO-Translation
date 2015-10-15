@@ -1,223 +1,244 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>areamaster_msg_rank</key>
-    <text xml:space="preserve">Rank</text>
+    <original xml:space="preserve">Rank</original>
   </message>
   <message>
     <key>areamaster_msg_questhint_e</key>
-    <text xml:space="preserve">Quest Hint</text>
+    <original xml:space="preserve">Quest Hint</original>
   </message>
   <message>
     <key>areamaster_msg_questhint_j</key>
-    <text xml:space="preserve">Quest Hint</text>
+    <original xml:space="preserve">クエストヒント</original>
+    <translation xml:space="preserve">Quest Hint</translation>
   </message>
   <message>
     <key>areamaster_msg_abstraction</key>
-    <text xml:space="preserve">Summary</text>
+    <original xml:space="preserve">概要</original>
+    <translation xml:space="preserve">Summary</translation>
   </message>
   <message>
     <key>areamaster_msg_reward</key>
-    <text xml:space="preserve">Rewards</text>
+    <original xml:space="preserve">報酬</original>
+    <translation xml:space="preserve">Rewards</translation>
   </message>
   <message>
     <key>areamaster_msg_bought</key>
-    <text xml:space="preserve">購入済み</text>
+    <original xml:space="preserve">購入済み</original>
   </message>
   <message>
     <key>areamaster_msg_recommend</key>
-    <text xml:space="preserve">推奨</text>
+    <original xml:space="preserve">推奨</original>
   </message>
   <message>
     <key>areamaster_msg_enemyinfo</key>
-    <text xml:space="preserve">Monster Information</text>
+    <original xml:space="preserve">魔物情報</original>
+    <translation xml:space="preserve">Monster Information</translation>
   </message>
   <message>
     <key>areamaster_msg_masking</key>
-    <text xml:space="preserve">？？？</text>
+    <original xml:space="preserve">？？？</original>
   </message>
   <message>
     <key>areamaster_msg_mainreward</key>
-    <text xml:space="preserve">メイン報酬</text>
+    <original xml:space="preserve">メイン報酬</original>
   </message>
   <message>
     <key>areamaster_msg_clearbonus</key>
-    <text xml:space="preserve">Clear Bonus</text>
+    <original xml:space="preserve">クリアボーナス</original>
+    <translation xml:space="preserve">Clear Bonus</translation>
   </message>
   <message>
     <key>areamaster_msg_price</key>
-    <text xml:space="preserve">情報料金</text>
+    <original xml:space="preserve">情報料金</original>
   </message>
   <message>
     <key>areamaster_msg_button_buy</key>
-    <text xml:space="preserve">情報購入</text>
+    <original xml:space="preserve">情報購入</original>
   </message>
   <message>
     <key>areamaster_msg_dialog_buy</key>
-    <text xml:space="preserve">&lt;VAL GOLD&gt;を消費して&lt;NAME QUEST&gt;のクエスト情報を購入します
-よろしいですか？</text>
+    <original xml:space="preserve">&lt;VAL GOLD&gt;を消費して&lt;NAME QUEST&gt;のクエスト情報を購入します
+よろしいですか？</original>
   </message>
   <message>
     <key>areamaster_msg_title_e</key>
-    <text xml:space="preserve">Area Status</text>
+    <original xml:space="preserve">Area Status</original>
   </message>
   <message>
     <key>areamaster_msg_spot_info</key>
-    <text xml:space="preserve">スポット情報</text>
+    <original xml:space="preserve">スポット情報</original>
   </message>
   <message>
     <key>areamaster_msg_populator</key>
-    <text xml:space="preserve">Available Items</text>
+    <original xml:space="preserve">入手可能アイテム</original>
+    <translation xml:space="preserve">Available Items</translation>
   </message>
   <message>
     <key>areamaster_msg_title_j</key>
-    <text xml:space="preserve">Area Status</text>
+    <original xml:space="preserve">エリア説明</original>
+    <translation xml:space="preserve">Area Status</translation>
   </message>
   <message>
     <key>areamaster_msg_areacontribution_e</key>
-    <text xml:space="preserve">Area Reputation</text>
+    <original xml:space="preserve">エリア名声度</original>
+    <translation xml:space="preserve">Area Reputation</translation>
   </message>
   <message>
     <key>areamaster_msg_areacontribution_j</key>
-    <text xml:space="preserve">Area Reputation </text>
+    <original xml:space="preserve">Area Reputation </original>
   </message>
   <message>
     <key>areamaster_msg_rankbonus</key>
-    <text xml:space="preserve">Rank Bonus</text>
+    <original xml:space="preserve">ランクボーナス</original>
+    <translation xml:space="preserve">Rank Bonus</translation>
   </message>
   <message>
     <key>areamaster_msg_contribution</key>
-    <text xml:space="preserve">Reputation</text>
+    <original xml:space="preserve">名声度</original>
+    <translation xml:space="preserve">Reputation</translation>
   </message>
   <message>
     <key>areamaster_msg_next</key>
-    <text xml:space="preserve">Next Rank</text>
+    <original xml:space="preserve">次のランクアップまで</original>
+    <translation xml:space="preserve">Next Rank</translation>
   </message>
   <message>
     <key>areamaster_msg_ap_thisweek</key>
-    <text xml:space="preserve">Points This Week</text>
+    <original xml:space="preserve">今週のポイント</original>
+    <translation xml:space="preserve">Points This Week</translation>
   </message>
   <message>
     <key>areamaster_msg_weekly</key>
-    <text xml:space="preserve">Weekly</text>
+    <original xml:space="preserve">Weekly</original>
   </message>
   <message>
     <key>areamaster_msg_last_week</key>
-    <text xml:space="preserve">先週</text>
+    <original xml:space="preserve">先週</original>
   </message>
   <message>
     <key>areamaster_msg_this_week</key>
-    <text xml:space="preserve">今週</text>
+    <original xml:space="preserve">今週</original>
   </message>
   <message>
     <key>areamaster_msg_bonus_point</key>
-    <text xml:space="preserve">Bonus Point</text>
+    <original xml:space="preserve">Bonus Point</original>
   </message>
   <message>
     <key>areamaster_msg_limited_bonus</key>
-    <text xml:space="preserve">期間限定ボーナス</text>
+    <original xml:space="preserve">期間限定ボーナス</original>
   </message>
   <message>
     <key>areamaster_msg_target</key>
-    <text xml:space="preserve">Target</text>
+    <original xml:space="preserve">Target</original>
   </message>
   <message>
     <key>areamaster_msg_point</key>
-    <text xml:space="preserve">Point</text>
+    <original xml:space="preserve">Point</original>
   </message>
   <message>
     <key>areamaster_msg_clear</key>
-    <text xml:space="preserve">Clear</text>
+    <original xml:space="preserve">Clear</original>
   </message>
   <message>
     <key>areamaster_msg_total</key>
-    <text xml:space="preserve">Total</text>
+    <original xml:space="preserve">Total</original>
   </message>
   <message>
     <key>areamaster_msg_bonus</key>
-    <text xml:space="preserve">Bonus</text>
+    <original xml:space="preserve">Bonus</original>
   </message>
   <message>
     <key>areamaster_msg_map_title</key>
-    <text xml:space="preserve">Area Map</text>
+    <original xml:space="preserve">Area Map</original>
   </message>
   <message>
     <key>areamaster_msg_equal</key>
-    <text xml:space="preserve">＝</text>
+    <original xml:space="preserve">＝</original>
   </message>
   <message>
     <key>areamaster_msg_mul</key>
-    <text xml:space="preserve">×</text>
+    <original xml:space="preserve">×</original>
   </message>
   <message>
     <key>areamaster_msg_area_point_title</key>
-    <text xml:space="preserve">Area Reputation：&lt;NAME AREA_NAME&gt;</text>
+    <original xml:space="preserve">エリア名声度：&lt;NAME AREA_NAME&gt;</original>
+    <translation xml:space="preserve">Area Reputation：&lt;NAME AREA_NAME&gt;</translation>
   </message>
   <message>
     <key>areamaster_msg_checkmap</key>
-    <text xml:space="preserve">Check Map</text>
+    <original xml:space="preserve">地図で確認</original>
+    <translation xml:space="preserve">Check Map</translation>
   </message>
   <message>
     <key>areamaster_msg_spotmask</key>
-    <text xml:space="preserve">？？？？？</text>
+    <original xml:space="preserve">？？？？？</original>
   </message>
   <message>
     <key>areamaster_msg_detectedquest</key>
-    <text xml:space="preserve">Discovered Quests</text>
+    <original xml:space="preserve">公開クエスト</original>
+    <translation xml:space="preserve">Discovered Quests</translation>
   </message>
   <message>
     <key>areamaster_msg_undetectedquest</key>
-    <text xml:space="preserve">Undiscovered Quests</text>
+    <original xml:space="preserve">未公開クエスト</original>
+    <translation xml:space="preserve">Undiscovered Quests</translation>
   </message>
   <message>
     <key>areamaster_msg_no_watch</key>
-    <text xml:space="preserve">There is no warning information so far</text>
+    <original xml:space="preserve">今のところ警戒情報はない</original>
+    <translation xml:space="preserve">There is no warning information so far</translation>
   </message>
   <message>
     <key>areamaster_msg_close</key>
-    <text xml:space="preserve">現在は封鎖されている</text>
+    <original xml:space="preserve">現在は封鎖されている</original>
   </message>
   <message>
     <key>areamaster_msg_gold</key>
-    <text xml:space="preserve">&lt;VAL GOLD&gt;</text>
+    <original xml:space="preserve">&lt;VAL GOLD&gt;</original>
   </message>
   <message>
     <key>areamaster_msg_rim</key>
-    <text xml:space="preserve">&lt;VAL RIM&gt;</text>
+    <original xml:space="preserve">&lt;VAL RIM&gt;</original>
   </message>
   <message>
     <key>areamaster_msg_xp</key>
-    <text xml:space="preserve">&lt;VAL XP&gt;</text>
+    <original xml:space="preserve">&lt;VAL XP&gt;</original>
   </message>
   <message>
     <key>areamaster_msg_disable_koukendo</key>
-    <text xml:space="preserve">Party Leaderしか閲覧できません</text>
+    <original xml:space="preserve">パーティーリーダーしか閲覧できません</original>
+    <translation xml:space="preserve">Party Leaderしか閲覧できません</translation>
   </message>
   <message>
     <key>areamaster_msg_blank</key>
-    <text xml:space="preserve">-</text>
+    <original xml:space="preserve">-</original>
   </message>
   <message>
     <key>areamaster_msg_tab_rewardlist</key>
-    <text xml:space="preserve">Support Goods List</text>
+    <original xml:space="preserve">支援品　一覧</original>
+    <translation xml:space="preserve">Support Goods List</translation>
   </message>
   <message>
     <key>areamaster_msg_tab_bonus</key>
-    <text xml:space="preserve">Reputation</text>
+    <original xml:space="preserve">名声度</original>
+    <translation xml:space="preserve">Reputation</translation>
   </message>
   <message>
     <key>areamaster_msg_point_first</key>
-    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT AP&gt; ～</text>
+    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT AP&gt; ～</original>
   </message>
   <message>
     <key>areamaster_msg_point_end</key>
-    <text xml:space="preserve">～ &lt;VAL&gt; &lt;UNIT AP&gt;</text>
+    <original xml:space="preserve">～ &lt;VAL&gt; &lt;UNIT AP&gt;</original>
   </message>
   <message>
     <key>areamaster_msg_point_bet</key>
-    <text xml:space="preserve">&lt;VAL&gt; &lt;UNIT AP&gt; ～ &lt;VAL&gt; &lt;UNIT AP&gt;</text>
+    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT AP&gt; ～ &lt;VAL&gt; &lt;UNIT AP&gt;</original>
   </message>
   <message>
     <key>areamaster_msg_area_trial</key>
-    <text xml:space="preserve">Area Trial</text>
+    <original xml:space="preserve">エリア試練</original>
+    <translation xml:space="preserve">Area Trial</translation>
   </message>
 </resource>

@@ -1,37 +1,41 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20020009_00_238</key>
-    <text xml:space="preserve">暗がりの住民達</text>
+    <original xml:space="preserve">暗がりの住民達</original>
   </message>
   <message>
     <key>q20020009_00_238</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20020009_00_238</key>
-    <text xml:space="preserve">From &lt;NAME AREA&gt;,
-There are reports of someone who is begging for help.</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;から
+何者かが助けを請うているらしいと報告があった</original>
+    <translation xml:space="preserve">From &lt;NAME AREA&gt;,
+There are reports of someone who is begging for help.</translation>
   </message>
   <message>
     <key>q20020009_00_238</key>
-    <text xml:space="preserve">ところで君、墓地は好きかい？
+    <original xml:space="preserve">ところで君、墓地は好きかい？
 静かで、不気味で、物悲しくて、ペシミスティック！
 まさに最高のロケーションさ
 なのに時々、無粋な輩が魔物を狩るためだけに
 やってきて、無用な血で汚すんだ
-あんな連中とは、死んでも同じ墓地に入りたくないね</text>
+あんな連中とは、死んでも同じ墓地に入りたくないね</original>
   </message>
   <message>
     <key>q20020009_00_913</key>
-    <text xml:space="preserve">墓地奥の敵を探す</text>
+    <original xml:space="preserve">墓地奥の敵を探す</original>
   </message>
   <message>
     <key>q20020009_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20020009_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

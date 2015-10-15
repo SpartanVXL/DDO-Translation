@@ -1,38 +1,47 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>EDIT_MSG_TYPE_VOICE_VAL</key>
-    <text xml:space="preserve">Voice &lt;VAL&gt;</text>
+    <original xml:space="preserve">ボイス&lt;VAL&gt;</original>
+    <translation xml:space="preserve">Voice &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_VAL_M_SP4</key>
-    <text xml:space="preserve">Voice &lt;VAL&gt; （Hiroshi Kamiya）</text>
+    <original xml:space="preserve">ボイス&lt;VAL&gt; （神谷浩史）</original>
+    <translation xml:space="preserve">Voice &lt;VAL&gt; （Hiroshi Kamiya）</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_VAL_M_SP5</key>
-    <text xml:space="preserve">Voice &lt;VAL&gt; （Yuichi Nakamura）</text>
+    <original xml:space="preserve">ボイス&lt;VAL&gt; （中村悠一）</original>
+    <translation xml:space="preserve">Voice &lt;VAL&gt; （Yuichi Nakamura）</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_VAL_M_SP6</key>
-    <text xml:space="preserve">Voice &lt;VAL&gt; （Hiroki Yasumoto）</text>
+    <original xml:space="preserve">ボイス&lt;VAL&gt; （安元洋貴）</original>
+    <translation xml:space="preserve">Voice &lt;VAL&gt; （Hiroki Yasumoto）</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_VAL_M_SP7</key>
-    <text xml:space="preserve">Voice &lt;VAL&gt; （Tetsuya Kakihara）</text>
+    <original xml:space="preserve">ボイス&lt;VAL&gt; （柿原徹也）</original>
+    <translation xml:space="preserve">Voice &lt;VAL&gt; （Tetsuya Kakihara）</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_VAL_F_SP4</key>
-    <text xml:space="preserve">Voice &lt;VAL&gt; （Nana Mizuki）</text>
+    <original xml:space="preserve">ボイス&lt;VAL&gt; （水樹奈々）</original>
+    <translation xml:space="preserve">Voice &lt;VAL&gt; （Nana Mizuki）</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_VAL_F_SP5</key>
-    <text xml:space="preserve">Voice &lt;VAL&gt; （Maaya Sakamoto）</text>
+    <original xml:space="preserve">ボイス&lt;VAL&gt; （坂本真綾）</original>
+    <translation xml:space="preserve">Voice &lt;VAL&gt; （Maaya Sakamoto）</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_VAL_F_SP6</key>
-    <text xml:space="preserve">Voice &lt;VAL&gt; （Rie Tanaka）</text>
+    <original xml:space="preserve">ボイス&lt;VAL&gt; （田中理恵）</original>
+    <translation xml:space="preserve">Voice &lt;VAL&gt; （Rie Tanaka）</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_VAL_F_SP7</key>
-    <text xml:space="preserve">Voice &lt;VAL&gt; （Chiwa Saito）</text>
+    <original xml:space="preserve">ボイス&lt;VAL&gt; （斎藤千和）</original>
+    <translation xml:space="preserve">Voice &lt;VAL&gt; （Chiwa Saito）</translation>
   </message>
 </resource>

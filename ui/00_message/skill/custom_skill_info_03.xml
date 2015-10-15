@@ -1,60 +1,92 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_INFO_03_32</key>
-    <text xml:space="preserve">Fire multiple arrows in quick succession.
+    <original xml:space="preserve">複数の矢を連続で放ち
+敵を大きくのけぞらせる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で矢の発射数増加（３→５）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fire multiple arrows in quick succession.
 Staggers large enemies.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases arrows fired (3→5).&lt;/COL&gt;</text>
+LV.6: Increases arrows fired (3→5).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_37</key>
-    <text xml:space="preserve">Fires a shot capable of piercing multiple targets.
+    <original xml:space="preserve">貫通力のある矢を放つ
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で貫通時のヒット間隔が短縮し
+連続ヒットしやすくなる&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fires a shot capable of piercing multiple targets.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Shortens the interval between hits,
-increasing the likelihood of hitting more times.&lt;/COL&gt;</text>
+increasing the likelihood of hitting more times.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_33</key>
-    <text xml:space="preserve">Fires three arrows in a wedge pattern.
+    <original xml:space="preserve">複数の矢を同時に扇状に放つ
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で矢の発射数増加（３→５）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fires three arrows in a wedge pattern.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases arrows fired (3→5).&lt;/COL&gt;</text>
+LV.6: Increases arrows fired (3→5).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_34</key>
-    <text xml:space="preserve">Fires an arrow that produces a deafening
+    <original xml:space="preserve">敵のガードを崩す爆音火薬を巻いた矢を放つ
+爆音に巻き込むことで周囲の敵をも怯ませる
+&lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力の上昇
+LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fires an arrow that produces a deafening
 blare on impact, breaking enemy guard.
 Will also launch nearby enemies.
 &lt;COL ffdc78&gt;LV UP: Increases blow power.
-LV.6: Increases range of the effect.&lt;/COL&gt;</text>
+LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_36</key>
-    <text xml:space="preserve">Sends a wall of arrows skyward to
+    <original xml:space="preserve">矢筒内のすべての矢を直上に放ち、
+敵の頭上に降らせる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Sends a wall of arrows skyward to
 rain down on a broad area.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases number of hits.&lt;/COL&gt;</text>
+LV.6: Increases number of hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_38</key>
-    <text xml:space="preserve">Looses a spinning arrow that delivers a
+    <original xml:space="preserve">着弾時に回転し多段攻撃を加える矢を放つ
+特に状態異常矢の使用時に効果的
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Looses a spinning arrow that delivers a
 barrage of hits to an area.
 Especially effective with status arrows.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases number of hits.&lt;/COL&gt;</text>
+LV.6: Increases number of hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_39</key>
-    <text xml:space="preserve">Applies an explosive stun effect to all
+    <original xml:space="preserve">装填中のすべての矢に気絶効果のある火薬を
+巻きつけ強化する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Applies an explosive stun effect to all
 arrows loaded. Increases damage inflicted.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases range of the effect.&lt;/COL&gt;</text>
+LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_35</key>
-    <text xml:space="preserve">Draws the bow with all the user's might,
+    <original xml:space="preserve">渾身の力で弓を引き、高威力の矢を放つ
+溜め満了の瞬間に矢を放つと威力が
+大幅に上昇する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で溜め段階拡張（１→２）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Draws the bow with all the user's might,
 then looses a shot straight ahead.
 Power increases if released immediately.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases total charge stages (1→2).&lt;/COL&gt;</text>
+LV.6: Increases total charge stages (1→2).&lt;/COL&gt;</translation>
   </message>
 </resource>

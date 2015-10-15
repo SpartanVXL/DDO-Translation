@@ -1,54 +1,56 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>GMD_CLAN_LIST_TAB_JOIN_REQ</key>
-    <text xml:space="preserve">加入希望者リスト</text>
+    <original xml:space="preserve">加入希望者リスト</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITE</key>
-    <text xml:space="preserve">招待リスト</text>
+    <original xml:space="preserve">招待リスト</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_APPLY</key>
-    <text xml:space="preserve">加入申請中リスト</text>
+    <original xml:space="preserve">加入申請中リスト</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITED</key>
-    <text xml:space="preserve">クランからの招待</text>
+    <original xml:space="preserve">クランからの招待</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TOP_EN</key>
-    <text xml:space="preserve">Clan List</text>
+    <original xml:space="preserve">Clan List</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TOP_JP</key>
-    <text xml:space="preserve">クランリスト</text>
+    <original xml:space="preserve">クランリスト</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_COLUMN_NAME</key>
-    <text xml:space="preserve">名前</text>
+    <original xml:space="preserve">名前</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_COLUMN_CLAN</key>
-    <text xml:space="preserve">Clan</text>
+    <original xml:space="preserve">クラン</original>
+    <translation xml:space="preserve">Clan</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_COLUMN_DATE</key>
-    <text xml:space="preserve">Date</text>
+    <original xml:space="preserve">日付</original>
+    <translation xml:space="preserve">Date</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_JOIN_REQ</key>
-    <text xml:space="preserve">加入申請がありません</text>
+    <original xml:space="preserve">加入申請がありません</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_INVITE</key>
-    <text xml:space="preserve">招待していません</text>
+    <original xml:space="preserve">招待していません</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_APPLY</key>
-    <text xml:space="preserve">加入申請していません</text>
+    <original xml:space="preserve">加入申請していません</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_INVITED</key>
-    <text xml:space="preserve">招待されていません</text>
+    <original xml:space="preserve">招待されていません</original>
   </message>
 </resource>

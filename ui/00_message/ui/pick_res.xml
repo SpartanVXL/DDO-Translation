@@ -1,38 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pick_recieve_en</key>
-    <text xml:space="preserve">Receive</text>
+    <original xml:space="preserve">Receive</original>
   </message>
   <message>
     <key>pick_recive_jp</key>
-    <text xml:space="preserve">Receive</text>
+    <original xml:space="preserve">受け取り</original>
+    <translation xml:space="preserve">Receive</translation>
   </message>
   <message>
     <key>pick_item_select</key>
-    <text xml:space="preserve">Select which item to use</text>
+    <original xml:space="preserve">使用するアイテムを選択</original>
+    <translation xml:space="preserve">Select which item to use</translation>
   </message>
   <message>
     <key>pick_item_noselect</key>
-    <text xml:space="preserve">Nothing</text>
+    <original xml:space="preserve">使用しない</original>
+    <translation xml:space="preserve">Nothing</translation>
   </message>
   <message>
     <key>pick_item_allget</key>
-    <text xml:space="preserve">Take All</text>
+    <original xml:space="preserve">すべて受け取る</original>
+    <translation xml:space="preserve">Take All</translation>
   </message>
   <message>
     <key>pick_item_get</key>
-    <text xml:space="preserve">Take</text>
+    <original xml:space="preserve">受け取る</original>
+    <translation xml:space="preserve">Take</translation>
   </message>
   <message>
     <key>pick_item_limit</key>
-    <text xml:space="preserve">You cannot hold more of this item</text>
+    <original xml:space="preserve">所持数が上限に達しました</original>
+    <translation xml:space="preserve">You cannot hold more of this item</translation>
   </message>
   <message>
     <key>pick_item_not_get</key>
-    <text xml:space="preserve">Your item bag is full and you cannot receive all the items</text>
+    <original xml:space="preserve">アイテムバッグがいっぱいのため、すべてを受け取ることができません</original>
+    <translation xml:space="preserve">Your item bag is full and you cannot receive all the items</translation>
   </message>
   <message>
     <key>pick_item_limit_max</key>
-    <text xml:space="preserve">Your item bag is full</text>
+    <original xml:space="preserve">アイテムバッグがいっぱいのため、受け取ることができません</original>
+    <translation xml:space="preserve">Your item bag is full</translation>
   </message>
 </resource>

@@ -1,37 +1,41 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000015_00_224</key>
-    <text xml:space="preserve">Knight and Arisen</text>
+    <original xml:space="preserve">騎士と覚者</original>
+    <translation xml:space="preserve">Knight and Arisen</translation>
   </message>
   <message>
     <key>q20000015_00_224</key>
-    <text xml:space="preserve">ハインツの依頼を聞き
-対象の敵を討伐する</text>
+    <original xml:space="preserve">ハインツの依頼を聞き
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20000015_00_224</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;の何処かに
-覚者の探索能力を見込み、相談したい者がいるという</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;の何処かに
+覚者の探索能力を見込み、相談したい者がいるという</original>
   </message>
   <message>
     <key>q20000015_00_224</key>
-    <text xml:space="preserve">ハインツ副団長、オレはすごく評価してる
+    <original xml:space="preserve">ハインツ副団長、オレはすごく評価してる
 確かに、ゲルト団長に比べて威厳には欠けるけど
 組織のまとめ役としてはああいうタイプがいいんだよ
 今日は意気込んだ表情をしてたから、軍議か何か
 あったのかもね
-テキパキと指示を出す姿、カッコいいと思うなあ</text>
+テキパキと指示を出す姿、カッコいいと思うなあ</original>
   </message>
   <message>
     <key>q20000015_00_892</key>
-    <text xml:space="preserve">Defeat all the enemies at the specified location.</text>
+    <original xml:space="preserve">指定された場所の敵を全て倒す</original>
+    <translation xml:space="preserve">Defeat all the enemies at the specified location.</translation>
   </message>
   <message>
     <key>q20000015_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20000015_00_959</key>
-    <text xml:space="preserve">Report back to Heinz.</text>
+    <original xml:space="preserve">ハインツに報告する</original>
+    <translation xml:space="preserve">Report back to Heinz.</translation>
   </message>
 </resource>

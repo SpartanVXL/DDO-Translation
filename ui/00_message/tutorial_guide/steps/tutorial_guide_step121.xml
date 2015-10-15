@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_96</key>
-    <text xml:space="preserve">世界は大きく地域別にエリア区分されています
+    <original xml:space="preserve">世界は大きく地域別にエリア区分されています
 
 エリアにはそれぞれ《ハイデル平原》、
 《ブリア海岸》、《ミスリウ森林》などの
@@ -9,15 +9,15 @@
 
 目的地や現在地がどのエリアか&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;
 ゲームメニュー《ワールド》の&lt;COL ffdc78&gt;《マップ》&lt;/COL&gt;で
-確認するクセをつけるといいでしょう</text>
+確認するクセをつけるといいでしょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_95</key>
-    <text xml:space="preserve">また、エリアごとに受注できるクエストや
+    <original xml:space="preserve">また、エリアごとに受注できるクエストや
 店舗の品ぞろえ、発見できるアイテムや
 魔物が異なり、冒険難度も違います
 
 エリアの特色を把握することで
-冒険を有利にすすめられます</text>
+冒険を有利にすすめられます</original>
   </message>
 </resource>

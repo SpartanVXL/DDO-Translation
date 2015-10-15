@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_58</key>
-    <text xml:space="preserve">冒険中、あなたの体力が尽きるとその場に倒れ
+    <original xml:space="preserve">冒険中、あなたの体力が尽きるとその場に倒れ
 &lt;COL ffdc78&gt;《死亡状態》&lt;/COL&gt;になってしまいます
 
 &lt;COL ffdc78&gt;パーティーに他のプレイヤーがいる場合、
@@ -10,11 +10,11 @@
 
 同様に、あなたも体力の尽きた仲間がいる時は
 接近して&lt;PADM&gt;【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_E&gt;】&lt;/KEYM&gt;を押せば
-覚者やポーンを助けることができます</text>
+覚者やポーンを助けることができます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_59</key>
-    <text xml:space="preserve">しかし、&lt;COL ffdc78&gt;他のプレイヤーがいない時や一定時間を
+    <original xml:space="preserve">しかし、&lt;COL ffdc78&gt;他のプレイヤーがいない時や一定時間を
 超えてしまった場合は、３つの復活手段から
 どれかを選び復活&lt;/COL&gt;することになります
 
@@ -22,11 +22,11 @@
 　《黄金石》を使う　…体力全快、【強化】状態で
 　　　　　　　　　　　その場復活
 　　拠点に戻る　　　…【弱化】状態となり
-　　　　　　　　　　　直前の拠点で復活</text>
+　　　　　　　　　　　直前の拠点で復活</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_216</key>
-    <text xml:space="preserve">《復活力》、《黄金石》が無くなってしまうと
+    <original xml:space="preserve">《復活力》、《黄金石》が無くなってしまうと
 その場復帰ができません
 
 「拠点に戻る」で復活できますが、
@@ -34,6 +34,6 @@
 一定時間通常より低くなってしまいます&lt;/COL&gt;
 
 《復活力》や《黄金石》の残量には
-常に気を配りましょう</text>
+常に気を配りましょう</original>
   </message>
 </resource>

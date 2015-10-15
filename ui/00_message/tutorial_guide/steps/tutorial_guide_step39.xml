@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_33</key>
-    <text xml:space="preserve">画面右上の&lt;COL ffdc78&gt;《ミニマップ》&lt;/COL&gt;で
+    <original xml:space="preserve">画面右上の&lt;COL ffdc78&gt;《ミニマップ》&lt;/COL&gt;で
 「プレイヤーの位置」と「敵の位置」が
 すぐに確認できます
 
 &lt;COL ffdc78&gt;中央緑のカーソルがあなたの現在地
 小さな丸が敵の位置です&lt;/COL&gt;
 
-倒すべき敵の位置を把握しましょう</text>
+倒すべき敵の位置を把握しましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_32</key>
-    <text xml:space="preserve">ミニマップのサイズや縮尺はいつでも変更できます
+    <original xml:space="preserve">ミニマップのサイズや縮尺はいつでも変更できます
 状況に合わせて切替えましょう
 
 ＜サイズ変更＞
@@ -20,6 +20,6 @@
 ＜縮尺変更＞
 &lt;PADM&gt;　【&lt;ICON PAD_L2&gt;ボタン】を押しながら【&lt;ICON PAD_K_UP&gt;／&lt;ICON PAD_K_DOWN&gt;】&lt;KEYM&gt;　【&lt;ICON KB_TAB&gt;】+【&lt;ICON MOUSE_WHL_4&gt;前後】で変更&lt;/KEYM&gt;
 ＜位置固定＞
-&lt;PADM&gt;　【&lt;ICON PAD_L2&gt;ボタン】を押しながら【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;　サイズ拡大中に【&lt;ICON MOUSE_CL_R&gt;】&lt;/KEYM&gt;</text>
+&lt;PADM&gt;　【&lt;ICON PAD_L2&gt;ボタン】を押しながら【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;　サイズ拡大中に【&lt;ICON MOUSE_CL_R&gt;】&lt;/KEYM&gt;</original>
   </message>
 </resource>

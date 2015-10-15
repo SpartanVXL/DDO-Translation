@@ -1,186 +1,200 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CONDITION_NAME_10</key>
-    <text xml:space="preserve">Poison</text>
+    <original xml:space="preserve">毒</original>
+    <translation xml:space="preserve">Poison</translation>
   </message>
   <message>
     <key>CONDITION_NAME_11</key>
-    <text xml:space="preserve">Slow</text>
+    <original xml:space="preserve">遅延</original>
+    <translation xml:space="preserve">Slow</translation>
   </message>
   <message>
     <key>CONDITION_NAME_12</key>
-    <text xml:space="preserve">Sleep</text>
+    <original xml:space="preserve">睡眠</original>
+    <translation xml:space="preserve">Sleep</translation>
   </message>
   <message>
     <key>CONDITION_NAME_13</key>
-    <text xml:space="preserve">Stun</text>
+    <original xml:space="preserve">気絶</original>
+    <translation xml:space="preserve">Stun</translation>
   </message>
   <message>
     <key>CONDITION_NAME_14</key>
-    <text xml:space="preserve">Drenched</text>
+    <original xml:space="preserve">水濡れ</original>
+    <translation xml:space="preserve">Drenched</translation>
   </message>
   <message>
     <key>CONDITION_NAME_15</key>
-    <text xml:space="preserve">Tarred</text>
+    <original xml:space="preserve">油濡れ</original>
+    <translation xml:space="preserve">Tarred</translation>
   </message>
   <message>
     <key>CONDITION_NAME_16</key>
-    <text xml:space="preserve">Sealed</text>
+    <original xml:space="preserve">封印</original>
+    <translation xml:space="preserve">Sealed</translation>
   </message>
   <message>
     <key>CONDITION_NAME_17</key>
-    <text xml:space="preserve">Cursed</text>
+    <original xml:space="preserve">呪い</original>
+    <translation xml:space="preserve">Cursed</translation>
   </message>
   <message>
     <key>CONDITION_NAME_18</key>
-    <text xml:space="preserve">Softened</text>
+    <original xml:space="preserve">軟化</original>
+    <translation xml:space="preserve">Softened</translation>
   </message>
   <message>
     <key>CONDITION_NAME_19</key>
-    <text xml:space="preserve">Petrification</text>
+    <original xml:space="preserve">石化</original>
+    <translation xml:space="preserve">Petrification</translation>
   </message>
   <message>
     <key>CONDITION_NAME_20</key>
-    <text xml:space="preserve">黄金化</text>
+    <original xml:space="preserve">黄金化</original>
   </message>
   <message>
     <key>CONDITION_NAME_21</key>
-    <text xml:space="preserve">Caught Fire</text>
+    <original xml:space="preserve">延焼</original>
+    <translation xml:space="preserve">Caught Fire</translation>
   </message>
   <message>
     <key>CONDITION_NAME_22</key>
-    <text xml:space="preserve">Frozen Solid</text>
+    <original xml:space="preserve">凍結</original>
+    <translation xml:space="preserve">Frozen Solid</translation>
   </message>
   <message>
     <key>CONDITION_NAME_23</key>
-    <text xml:space="preserve">Shocked</text>
+    <original xml:space="preserve">感電</original>
+    <translation xml:space="preserve">Shocked</translation>
   </message>
   <message>
     <key>CONDITION_NAME_24</key>
-    <text xml:space="preserve">聖吸</text>
+    <original xml:space="preserve">聖吸</original>
   </message>
   <message>
     <key>CONDITION_NAME_25</key>
-    <text xml:space="preserve">闇霧</text>
+    <original xml:space="preserve">闇霧</original>
   </message>
   <message>
     <key>CONDITION_NAME_26</key>
-    <text xml:space="preserve">炎防低下</text>
+    <original xml:space="preserve">炎防低下</original>
   </message>
   <message>
     <key>CONDITION_NAME_27</key>
-    <text xml:space="preserve">氷防低下</text>
+    <original xml:space="preserve">氷防低下</original>
   </message>
   <message>
     <key>CONDITION_NAME_28</key>
-    <text xml:space="preserve">雷防低下</text>
+    <original xml:space="preserve">雷防低下</original>
   </message>
   <message>
     <key>CONDITION_NAME_29</key>
-    <text xml:space="preserve">聖防低下</text>
+    <original xml:space="preserve">聖防低下</original>
   </message>
   <message>
     <key>CONDITION_NAME_30</key>
-    <text xml:space="preserve">闇防低下</text>
+    <original xml:space="preserve">闇防低下</original>
   </message>
   <message>
     <key>CONDITION_NAME_31</key>
-    <text xml:space="preserve">物攻低下</text>
+    <original xml:space="preserve">物攻低下</original>
   </message>
   <message>
     <key>CONDITION_NAME_32</key>
-    <text xml:space="preserve">物防低下</text>
+    <original xml:space="preserve">物防低下</original>
   </message>
   <message>
     <key>CONDITION_NAME_33</key>
-    <text xml:space="preserve">魔攻低下</text>
+    <original xml:space="preserve">魔攻低下</original>
   </message>
   <message>
     <key>CONDITION_NAME_34</key>
-    <text xml:space="preserve">魔防低下</text>
+    <original xml:space="preserve">魔防低下</original>
   </message>
   <message>
     <key>CONDITION_NAME_35</key>
-    <text xml:space="preserve">Weakened</text>
+    <original xml:space="preserve">弱化</original>
+    <translation xml:space="preserve">Weakened</translation>
   </message>
   <message>
     <key>CONDITION_NAME_36</key>
-    <text xml:space="preserve">物攻上昇</text>
+    <original xml:space="preserve">物攻上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_37</key>
-    <text xml:space="preserve">物防上昇</text>
+    <original xml:space="preserve">物防上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_38</key>
-    <text xml:space="preserve">魔攻上昇</text>
+    <original xml:space="preserve">魔攻上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_39</key>
-    <text xml:space="preserve">魔防上昇</text>
+    <original xml:space="preserve">魔防上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_40</key>
-    <text xml:space="preserve">吹き飛ばし力上昇</text>
+    <original xml:space="preserve">吹き飛ばし力上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_41</key>
-    <text xml:space="preserve">耐久力上昇</text>
+    <original xml:space="preserve">耐久力上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_42</key>
-    <text xml:space="preserve">生命治癒力上昇</text>
+    <original xml:space="preserve">生命治癒力上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_43</key>
-    <text xml:space="preserve">炎防上昇</text>
+    <original xml:space="preserve">炎防上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_44</key>
-    <text xml:space="preserve">氷防上昇</text>
+    <original xml:space="preserve">氷防上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_45</key>
-    <text xml:space="preserve">雷防上昇</text>
+    <original xml:space="preserve">雷防上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_46</key>
-    <text xml:space="preserve">聖防上昇</text>
+    <original xml:space="preserve">聖防上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_47</key>
-    <text xml:space="preserve">闇防上昇</text>
+    <original xml:space="preserve">闇防上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_48</key>
-    <text xml:space="preserve">炎攻付加</text>
+    <original xml:space="preserve">炎攻付加</original>
   </message>
   <message>
     <key>CONDITION_NAME_49</key>
-    <text xml:space="preserve">氷攻付加</text>
+    <original xml:space="preserve">氷攻付加</original>
   </message>
   <message>
     <key>CONDITION_NAME_50</key>
-    <text xml:space="preserve">雷攻付加</text>
+    <original xml:space="preserve">雷攻付加</original>
   </message>
   <message>
     <key>CONDITION_NAME_51</key>
-    <text xml:space="preserve">聖攻付加</text>
+    <original xml:space="preserve">聖攻付加</original>
   </message>
   <message>
     <key>CONDITION_NAME_52</key>
-    <text xml:space="preserve">闇攻付加</text>
+    <original xml:space="preserve">闇攻付加</original>
   </message>
   <message>
     <key>CONDITION_NAME_53</key>
-    <text xml:space="preserve">体力上昇</text>
+    <original xml:space="preserve">体力上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_54</key>
-    <text xml:space="preserve">スタミナ上昇</text>
+    <original xml:space="preserve">スタミナ上昇</original>
   </message>
   <message>
     <key>CONDITION_NAME_57</key>
-    <text xml:space="preserve">強化</text>
+    <original xml:space="preserve">強化</original>
   </message>
 </resource>

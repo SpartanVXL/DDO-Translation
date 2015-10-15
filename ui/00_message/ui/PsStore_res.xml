@@ -1,75 +1,85 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>PsStore_msg_title_e</key>
-    <text xml:space="preserve">DLC Station</text>
+    <original xml:space="preserve">DLC Station</original>
   </message>
   <message>
     <key>PsStore_msg_title_j</key>
-    <text xml:space="preserve">Download Contents</text>
+    <original xml:space="preserve">ダウンロードコンテンツ受け取り</original>
+    <translation xml:space="preserve">Download Contents</translation>
   </message>
   <message>
     <key>PsStore_msg_category</key>
-    <text xml:space="preserve">Category</text>
+    <original xml:space="preserve">Category</original>
   </message>
   <message>
     <key>PsStore_msg_contents_manage</key>
-    <text xml:space="preserve">Manage Contents</text>
+    <original xml:space="preserve">コンテンツ管理</original>
+    <translation xml:space="preserve">Manage Contents</translation>
   </message>
   <message>
     <key>PsStore_msg_recieve_record</key>
-    <text xml:space="preserve">Receipt History</text>
+    <original xml:space="preserve">受け取り履歴</original>
+    <translation xml:space="preserve">Receipt History</translation>
   </message>
   <message>
     <key>PsStore_msg_no_contents</key>
-    <text xml:space="preserve">No List Available</text>
+    <original xml:space="preserve">リストはありません</original>
+    <translation xml:space="preserve">No List Available</translation>
   </message>
   <message>
     <key>PsStore_msg_num_items</key>
-    <text xml:space="preserve">所持数:&lt;VAL&gt;</text>
+    <original xml:space="preserve">所持数:&lt;VAL&gt;</original>
   </message>
   <message>
     <key>PsStore_msg_button_recieve</key>
-    <text xml:space="preserve">Receive</text>
+    <original xml:space="preserve">受け取り</original>
+    <translation xml:space="preserve">Receive</translation>
   </message>
   <message>
     <key>PsStore_msg_date</key>
-    <text xml:space="preserve">date</text>
+    <original xml:space="preserve">日時</original>
+    <translation xml:space="preserve">date</translation>
   </message>
   <message>
     <key>PsStore_msg_contents</key>
-    <text xml:space="preserve">Contents</text>
+    <original xml:space="preserve">コンテンツ</original>
+    <translation xml:space="preserve">Contents</translation>
   </message>
   <message>
     <key>PsStore_msg_character</key>
-    <text xml:space="preserve">Character</text>
+    <original xml:space="preserve">キャラクター</original>
+    <translation xml:space="preserve">Character</translation>
   </message>
   <message>
     <key>PsStore_msg_num_record</key>
-    <text xml:space="preserve">履歴は最新の15件が表示されてます。</text>
+    <original xml:space="preserve">履歴は最新の15件が表示されてます。</original>
   </message>
   <message>
     <key>PsStore_msg_dialog_is_recieve</key>
-    <text xml:space="preserve">&lt;NAME VAL&gt;×1を受け取りますか？</text>
+    <original xml:space="preserve">&lt;NAME VAL&gt;×1を受け取りますか？</original>
   </message>
   <message>
     <key>PsStore_msg_button_recieve2</key>
-    <text xml:space="preserve">Recieve</text>
+    <original xml:space="preserve">受け取り</original>
+    <translation xml:space="preserve">Recieve</translation>
   </message>
   <message>
     <key>PsStore_msg_button_no</key>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
     <key>PsStore_msg_dialog_recieved</key>
-    <text xml:space="preserve">&lt;NAME VAL&gt;×1がメールボックスに送られました</text>
+    <original xml:space="preserve">&lt;NAME VAL&gt;×1がメールボックスに送られました</original>
   </message>
   <message>
     <key>PsStore_msg_buttonguid_decide</key>
-    <text xml:space="preserve">決定</text>
+    <original xml:space="preserve">決定</original>
   </message>
   <message>
     <key>PsStore_msg_detail_is_recieve</key>
-    <text xml:space="preserve">&lt;NAME VAL&gt;×1を受け取ります。
+    <original xml:space="preserve">&lt;NAME VAL&gt;×1を受け取ります。
 よろしいですか？
 &lt;COL aa1414ff&gt;
 ・コンテンツは現在ログイン中のキャラクターのみに
@@ -78,6 +88,6 @@
 　移動することはできません。
 ・【受け取り】の権利はコンテンツを受け取ると
 　消滅します。
-&lt;/COL&gt;</text>
+&lt;/COL&gt;</original>
   </message>
 </resource>

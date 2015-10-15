@@ -1,23 +1,23 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_146</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《オートラン》&lt;/COL&gt;は、長距離移動を
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《オートラン》&lt;/COL&gt;は、長距離移動を
 楽にするサポート機能です
 遠い場所への冒険時はぜひ使ってみましょう
 
 &lt;PADM&gt;　【&lt;ICON PAD_L2&gt;ボタン】押しながら【&lt;ICON PAD_L3&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_V&gt;】オートラン（継続走行）&lt;/KEYM&gt;
 &lt;PADM&gt;　　　　　　オートラン（継続走行）&lt;KEYM&gt;　　　　　　※再度押すと解除&lt;/KEYM&gt;
-&lt;PADM&gt;　　　　　　※再度押すと解除</text>
+&lt;PADM&gt;　　　　　　※再度押すと解除</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_278</key>
-    <text xml:space="preserve">また、パーティープレイ時には
+    <original xml:space="preserve">また、パーティープレイ時には
 他のパーティーメンバーに追従する
 オートランの設定も可能です
 
 　　追従したいメンバーに近づいて
 　&lt;PADM&gt;【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_E&gt;】&lt;/KEYM&gt;でメニューから
 　　&lt;COL ffdc78&gt;《追従オートラン》&lt;/COL&gt;を選択
-　　※ポーンには追従オートランできません</text>
+　　※ポーンには追従オートランできません</original>
   </message>
 </resource>

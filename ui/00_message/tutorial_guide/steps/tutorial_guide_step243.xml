@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_386</key>
-    <text xml:space="preserve">メインクエストやワールドクエストで
+    <original xml:space="preserve">メインクエストやワールドクエストで
 パーティーを組んでリーダーの
 クエストクリアを手伝った場合
 通常の報酬ではなくアシスト報酬
@@ -9,16 +9,16 @@
 
 メインクエストの場合は経験値とゴールドとリム、
 ワールドクエストの場合はアイテムも
-受け取ることができます</text>
+受け取ることができます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_387</key>
-    <text xml:space="preserve">なおメインクエスト、ワールドクエスト
+    <original xml:space="preserve">なおメインクエスト、ワールドクエスト
 ともに&lt;COL ffdc78&gt;進行度がリーダーと完全に同じで
 あれば、メンバーも正規報酬を受け取る
 ことができます&lt;/COL&gt;
 
 進行度が同じ場合も異なる場合も
-積極的にパーティーでクエストに挑んでください</text>
+積極的にパーティーでクエストに挑んでください</original>
   </message>
 </resource>

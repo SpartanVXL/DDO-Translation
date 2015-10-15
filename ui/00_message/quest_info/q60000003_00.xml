@@ -1,43 +1,52 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q60000003_00_20</key>
-    <text xml:space="preserve">Basic Combat Skills Tutorial of Fighter</text>
+    <original xml:space="preserve">頑盾の証　ファイター戦術試練</original>
+    <translation xml:space="preserve">Basic Combat Skills Tutorial of Fighter</translation>
   </message>
   <message>
     <key>q60000003_00_20</key>
-    <text xml:space="preserve">ファイターの基本戦術を学ぶため
-修練の祠にて試練に挑む</text>
+    <original xml:space="preserve">ファイターの基本戦術を学ぶため
+修練の祠にて試練に挑む</original>
   </message>
   <message>
     <key>q60000003_00_1081</key>
-    <text xml:space="preserve">Talk to the White Knight near the cliff of the Training Chapel.</text>
+    <original xml:space="preserve">修練の祠前の崖下にいる白衛騎士団員と話す</original>
+    <translation xml:space="preserve">Talk to the White Knight near the cliff of the Training Chapel.</translation>
   </message>
   <message>
     <key>q60000003_00_1082</key>
-    <text xml:space="preserve">Talk to Wilson in the Training Chapel.</text>
+    <original xml:space="preserve">修練の祠内のウィルソンと話す</original>
+    <translation xml:space="preserve">Talk to Wilson in the Training Chapel.</translation>
   </message>
   <message>
     <key>q60000003_00_1083</key>
-    <text xml:space="preserve">Attack the enemy continuously with your normal attack.</text>
+    <original xml:space="preserve">連撃で敵を攻撃せよ</original>
+    <translation xml:space="preserve">Attack the enemy continuously with your normal attack.</translation>
   </message>
   <message>
     <key>q60000003_00_1134</key>
-    <text xml:space="preserve">Break the enemy's guard stance with your charged attack.</text>
+    <original xml:space="preserve">敵ガード中に斬り崩しを成功せよ</original>
+    <translation xml:space="preserve">Break the enemy's guard stance with your charged attack.</translation>
   </message>
   <message>
     <key>q60000003_00_1136</key>
-    <text xml:space="preserve">Guard and block when the enemy attacks.</text>
+    <original xml:space="preserve">盾で敵の攻撃をガードせよ</original>
+    <translation xml:space="preserve">Guard and block when the enemy attacks.</translation>
   </message>
   <message>
     <key>q60000003_00_1135</key>
-    <text xml:space="preserve">Defeat the remaining Goblins in the inner sanctum.</text>
+    <original xml:space="preserve">最深部のゴブリンを全滅せよ</original>
+    <translation xml:space="preserve">Defeat the remaining Goblins in the inner sanctum.</translation>
   </message>
   <message>
     <key>q60000003_00_1137</key>
-    <text xml:space="preserve">Collect the Emblem proving you completed the challenge.</text>
+    <original xml:space="preserve">最奥にある＜頑盾の証＞を入手する</original>
+    <translation xml:space="preserve">Collect the Emblem proving you completed the challenge.</translation>
   </message>
   <message>
     <key>q60000003_00_1138</key>
-    <text xml:space="preserve">Report back to Renton in the White Dragon Temple.</text>
+    <original xml:space="preserve">白竜神殿のレンテンに経緯を報告する</original>
+    <translation xml:space="preserve">Report back to Renton in the White Dragon Temple.</translation>
   </message>
 </resource>

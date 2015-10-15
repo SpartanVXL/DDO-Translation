@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_20</key>
-    <text xml:space="preserve">&lt;COL 78f5ff&gt;《グランドミッション》へ参加可能になりました！&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL 78f5ff&gt;《グランドミッション》へ参加可能になりました！&lt;/COL&gt;
 
 &lt;COL ffdc78&gt;《グランドミッション》は
 期間限定で開催され、８人パーティーを組んで
 挑戦する大規模コンテンツです&lt;/COL&gt;
 
 開催時期や内容は《レスタニアニュース》で
-告知されるので、チェックしましょう</text>
+告知されるので、チェックしましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_19</key>
-    <text xml:space="preserve">これら専用の８人パーティーを組む
+    <original xml:space="preserve">これら専用の８人パーティーを組む
 コンテンツは、担当ＮＰＣに話しかけることで
 &lt;COL ffdc78&gt;《エントリーボード》&lt;/COL&gt;から参加申請できます
 
@@ -21,11 +21,11 @@
 　　　　フィールドへ移動できません
 　　　※申請後も転職は可能ですが、８人結成時に
 　　　　登録ジョブへ強制変更されます
-　　　　（その後の再転職は可能です）&lt;/COL&gt;</text>
+　　　　（その後の再転職は可能です）&lt;/COL&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_23</key>
-    <text xml:space="preserve">グランドミッションに参加すると
+    <original xml:space="preserve">グランドミッションに参加すると
 &lt;COL ffdc78&gt;終了時の戦果に応じて
 《リザルト報酬》が獲得できます&lt;/COL&gt;
 
@@ -33,6 +33,6 @@
 その総合戦果に応じた評価、“累計スコア報酬”
 《スペシャルリワード》が与えられます
 
-より高い報酬を目指しましょう</text>
+より高い報酬を目指しましょう</original>
   </message>
 </resource>

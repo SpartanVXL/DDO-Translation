@@ -1,83 +1,98 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>EDIT_MSG_TITLE_JOB_SELECT</key>
-    <text xml:space="preserve">Job Select</text>
+    <original xml:space="preserve">Job Select</original>
   </message>
   <message>
     <key>EDIT_MSG_JOB_FIGHTER</key>
-    <text xml:space="preserve">Fighter</text>
+    <original xml:space="preserve">ファイター</original>
+    <translation xml:space="preserve">Fighter</translation>
   </message>
   <message>
     <key>EDIT_MSG_JOB_HUNTER</key>
-    <text xml:space="preserve">Hunter</text>
+    <original xml:space="preserve">ハンター</original>
+    <translation xml:space="preserve">Hunter</translation>
   </message>
   <message>
     <key>EDIT_MSG_JOB_PRIEST</key>
-    <text xml:space="preserve">Priest</text>
+    <original xml:space="preserve">プリースト</original>
+    <translation xml:space="preserve">Priest</translation>
   </message>
   <message>
     <key>EDIT_MSG_JOB_SEALEDSAGE</key>
-    <text xml:space="preserve">Shield Sage</text>
+    <original xml:space="preserve">シールドセージ</original>
+    <translation xml:space="preserve">Shield Sage</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_JOB_SELECT</key>
-    <text xml:space="preserve">ジョブの設定をします</text>
+    <original xml:space="preserve">ジョブの設定をします</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_SELECT</key>
-    <text xml:space="preserve">Are you sure you want this job?
-(You can change jobs at anytime from the facility in the game)</text>
+    <original xml:space="preserve">このジョブでよろしいですか？
+(ジョブはゲーム内の施設からいつでも転職できます)</original>
+    <translation xml:space="preserve">Are you sure you want this job?
+(You can change jobs at anytime from the facility in the game)</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_REPLY_YES</key>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_REPLY_NO</key>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_REPLY_OK</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">OK</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PL</key>
-    <text xml:space="preserve">覚者プロフィールの公開範囲を設定してください
-(ゲーム設定の通知・公開設定でいつでも変更できます)</text>
+    <original xml:space="preserve">覚者プロフィールの公開範囲を設定してください
+(ゲーム設定の通知・公開設定でいつでも変更できます)</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PAWN</key>
-    <text xml:space="preserve">Please set the pawn's rental limitations.
-(This can be changed anytime from a Rift Stone)</text>
+    <original xml:space="preserve">ポーンの貸し出し制限を設定してください
+(リムストーンのメニューからいつでも変更できます)</original>
+    <translation xml:space="preserve">Please set the pawn's rental limitations.
+(This can be changed anytime from a Rift Stone)</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PAWNSEARCH</key>
-    <text xml:space="preserve">ポーン検索の公開範囲を設定してください</text>
+    <original xml:space="preserve">ポーン検索の公開範囲を設定してください</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_ALL</key>
-    <text xml:space="preserve">Anyone</text>
+    <original xml:space="preserve">誰でも</original>
+    <translation xml:space="preserve">Anyone</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_FRIEND_CLAN</key>
-    <text xml:space="preserve">Friends and Clan</text>
+    <original xml:space="preserve">クランとフレンド</original>
+    <translation xml:space="preserve">Friends and Clan</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_FRIEND</key>
-    <text xml:space="preserve">Friends</text>
+    <original xml:space="preserve">フレンド</original>
+    <translation xml:space="preserve">Friends</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_CLAN</key>
-    <text xml:space="preserve">Clan</text>
+    <original xml:space="preserve">クラン</original>
+    <translation xml:space="preserve">Clan</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_NOT</key>
-    <text xml:space="preserve">Nobody</text>
+    <original xml:space="preserve">非公開</original>
+    <translation xml:space="preserve">Nobody</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_ERROR_NAME_USED2</key>
-    <text xml:space="preserve">&lt;NAME&gt;は
+    <original xml:space="preserve">&lt;NAME&gt;は
 すでに使用されている名前です
-違う名前に変更してください</text>
+違う名前に変更してください</original>
   </message>
 </resource>

@@ -1,45 +1,51 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20040008_00_249</key>
-    <text xml:space="preserve">Volden Poisonous Springs Investigation</text>
+    <original xml:space="preserve">ボルド毒泉調査</original>
+    <translation xml:space="preserve">Volden Poisonous Springs Investigation</translation>
   </message>
   <message>
     <key>q20040008_00_249</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-該当場所を調査し物品を収集する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+該当場所を調査し物品を収集する</original>
   </message>
   <message>
     <key>q20040008_00_249</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;から
-悩みを解決したいという相談の声が届いている</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;から
+悩みを解決したいという相談の声が届いている</original>
   </message>
   <message>
     <key>q20040008_00_249</key>
-    <text xml:space="preserve">覚者全員に通達がある
+    <original xml:space="preserve">覚者全員に通達がある
 ボルド鉱山で周期的に発生している毒沼の範囲が
 著しい拡大傾向にある
 現場を通行の際は充分に気をつけるように
 また原因解決への協力要請があれば、積極的に
-応えるように</text>
+応えるように</original>
   </message>
   <message>
     <key>q20040008_00_991</key>
-    <text xml:space="preserve">Investigate the polluted spring (3 left).</text>
+    <original xml:space="preserve">汚染沼の周辺を調査する（残り３）</original>
+    <translation xml:space="preserve">Investigate the polluted spring (3 left).</translation>
   </message>
   <message>
     <key>q20040008_00_1129</key>
-    <text xml:space="preserve">Investigate the polluted spring (2 left).</text>
+    <original xml:space="preserve">汚染沼の周辺を調査する（残り２）</original>
+    <translation xml:space="preserve">Investigate the polluted spring (2 left).</translation>
   </message>
   <message>
     <key>q20040008_00_1130</key>
-    <text xml:space="preserve">Investigate the polluted spring (1 left).</text>
+    <original xml:space="preserve">汚染沼の周辺を調査する（残り１）</original>
+    <translation xml:space="preserve">Investigate the polluted spring (1 left).</translation>
   </message>
   <message>
     <key>q20040008_00_1045</key>
-    <text xml:space="preserve">Defeat the attacking enemies.</text>
+    <original xml:space="preserve">襲いかかる敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the attacking enemies.</translation>
   </message>
   <message>
     <key>q20040008_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

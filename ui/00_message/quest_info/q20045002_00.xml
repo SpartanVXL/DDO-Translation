@@ -1,29 +1,33 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20045002_00_114</key>
-    <text xml:space="preserve">Shadows Within the Cave</text>
+    <original xml:space="preserve">岩窟の巨影</original>
+    <translation xml:space="preserve">Shadows Within the Cave</translation>
   </message>
   <message>
     <key>q20045002_00_114</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
-Defeat the enemies encountered.</text>
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20045002_00_114</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
-危険な存在により住民が脅かされているらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
+危険な存在により住民が脅かされているらしい</original>
   </message>
   <message>
     <key>q20045002_00_114</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 くそっ、せっかくまとまった銀が採れたってのに
 ゆうべ仕事場からの帰りに落としちまった！
 あのへんは夜になると魔物がうようよ出やがるから
 誰かに拾われる前に、昼間に探さねえと――
-まだ残ってりゃいいが</text>
+まだ残ってりゃいいが</original>
   </message>
   <message>
     <key>q20045002_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
 </resource>

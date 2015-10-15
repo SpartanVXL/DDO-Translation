@@ -1,37 +1,41 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000000_00_25</key>
-    <text xml:space="preserve">A Calamity at the Cathedral Ruins</text>
+    <original xml:space="preserve">廃教会の異変</original>
+    <translation xml:space="preserve">A Calamity at the Cathedral Ruins</translation>
   </message>
   <message>
     <key>q20000000_00_25</key>
-    <text xml:space="preserve">白衛騎士団員ゴードンの話をもとに
-廃教会に潜む怪異の原因を探る</text>
+    <original xml:space="preserve">白衛騎士団員ゴードンの話をもとに
+廃教会に潜む怪異の原因を探る</original>
   </message>
   <message>
     <key>q20000000_00_25</key>
-    <text xml:space="preserve">協力者を求める者がいるとの報告が
-&lt;NAME AREA&gt;から届いている</text>
+    <original xml:space="preserve">協力者を求める者がいるとの報告が
+&lt;NAME AREA&gt;から届いている</original>
   </message>
   <message>
     <key>q20000000_00_25</key>
-    <text xml:space="preserve">街道のはずれに、崩れかけた城壁があるでしょう？
+    <original xml:space="preserve">街道のはずれに、崩れかけた城壁があるでしょう？
 そのあたりで騎士団の団員が、物思いの顔で
 しばらく留まっていたらしいです
 最近は不審な場所の事前調査とか、民家周辺の
 巡回警備をやってるらしいのですが
-何か問題でも起こったんでしょうかね</text>
+何か問題でも起こったんでしょうかね</original>
   </message>
   <message>
     <key>q20000000_00_800</key>
-    <text xml:space="preserve">Investigate and find the ringleader.</text>
+    <original xml:space="preserve">異変の元凶を探す</original>
+    <translation xml:space="preserve">Investigate and find the ringleader.</translation>
   </message>
   <message>
     <key>q20000000_00_801</key>
-    <text xml:space="preserve">Defeat the undead enemies.</text>
+    <original xml:space="preserve">不死者の集団を排除する</original>
+    <translation xml:space="preserve">Defeat the undead enemies.</translation>
   </message>
   <message>
     <key>q20000000_00_804</key>
-    <text xml:space="preserve">Report back to the Knight.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the Knight.</translation>
   </message>
 </resource>

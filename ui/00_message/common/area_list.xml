@@ -1,30 +1,37 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>AREA_NAME_1</key>
-    <text xml:space="preserve">Hidell Plains</text>
+    <original xml:space="preserve">ハイデル平原</original>
+    <translation xml:space="preserve">Hidell Plains</translation>
   </message>
   <message>
     <key>AREA_NAME_2</key>
-    <text xml:space="preserve">Breya Coast</text>
+    <original xml:space="preserve">ブリア海岸</original>
+    <translation xml:space="preserve">Breya Coast</translation>
   </message>
   <message>
     <key>AREA_NAME_3</key>
-    <text xml:space="preserve">Mysree Forest</text>
+    <original xml:space="preserve">ミスリウ森林</original>
+    <translation xml:space="preserve">Mysree Forest</translation>
   </message>
   <message>
     <key>AREA_NAME_4</key>
-    <text xml:space="preserve">Volden Mines</text>
+    <original xml:space="preserve">ボルド鉱山</original>
+    <translation xml:space="preserve">Volden Mines</translation>
   </message>
   <message>
     <key>AREA_NAME_5</key>
-    <text xml:space="preserve">Dowe Valley</text>
+    <original xml:space="preserve">ダウ渓谷</original>
+    <translation xml:space="preserve">Dowe Valley</translation>
   </message>
   <message>
     <key>AREA_NAME_6</key>
-    <text xml:space="preserve">Mysree Grove</text>
+    <original xml:space="preserve">ミスリウ森林深部</original>
+    <translation xml:space="preserve">Mysree Grove</translation>
   </message>
   <message>
     <key>AREA_NAME_8</key>
-    <text xml:space="preserve">Betland Plains</text>
+    <original xml:space="preserve">バートランド平原</original>
+    <translation xml:space="preserve">Betland Plains</translation>
   </message>
 </resource>
