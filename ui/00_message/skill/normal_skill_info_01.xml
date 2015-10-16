@@ -1,60 +1,82 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_INFO_01_4</key>
-    <text xml:space="preserve">Perform a continuous attack with your sword.</text>
+    <original xml:space="preserve">剣による連続攻撃を繰り出す</original>
+    <translation xml:space="preserve">Perform a continuous attack with your sword.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_5</key>
-    <text xml:space="preserve">Pausing after your first swing allows you to follow
-up with a powerful concentrated attack.</text>
+    <original xml:space="preserve">剣による連続一点集中攻撃を繰り出す</original>
+    <translation xml:space="preserve">Pausing after your first swing allows you to follow
+up with a powerful concentrated attack.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_13</key>
-    <text xml:space="preserve">Perform a strong overhead swing, holding down longer 
+    <original xml:space="preserve">剣による一撃で敵のガード状態を崩し気絶を誘う
+ボタンの長押しで威力が増し
+敵を転倒させることができる
+&lt;COL ffdc78&gt;LV UPで攻撃威力が上昇し
+長押しなしで敵を転倒させる＜強斬り崩し＞に進化&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Perform a strong overhead swing, holding down longer 
 for increased power that's capable of breaking an enemies 
 guard. It is also possible to topple the enemy.
 &lt;COL ffdc78&gt;LV UP Increase attack power
 Evolve into ＜Strong Guard Break＞ allowing you to guard
-break without max power.&lt;/COL&gt;</text>
+break without max power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_14</key>
-    <text xml:space="preserve">Perform a stronger overhead swing capable of breaking
+    <original xml:space="preserve">剣による渾身の一撃で敵のガード状態を崩し
+転倒させる。さらに気絶させやすくなる
+ボタンの長押しで威力が増す</original>
+    <translation xml:space="preserve">Perform a stronger overhead swing capable of breaking
 and enemies guard, holding down longer for increased power. 
-A longer hold has a better chance to topple.</text>
+A longer hold has a better chance to topple.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_18</key>
-    <text xml:space="preserve">Swing your sword while in the air.</text>
+    <original xml:space="preserve">空中で剣を振り払う</original>
+    <translation xml:space="preserve">Swing your sword while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_19</key>
-    <text xml:space="preserve">Slash downwards while airborne, falling down onto the
-enemy. Increased power at an increased height.</text>
+    <original xml:space="preserve">空中で剣を縦に振り下ろす
+高所から行うことで威力が上昇する</original>
+    <translation xml:space="preserve">Slash downwards while airborne, falling down onto the
+enemy. Increased power at an increased height.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_15</key>
-    <text xml:space="preserve">Hold your shield strong to block enemy attacks.
-Can also be activated while in the air.</text>
+    <original xml:space="preserve">盾を構え敵の攻撃を防ぐ
+空中でも発動可能</original>
+    <translation xml:space="preserve">Hold your shield strong to block enemy attacks.
+Can also be activated while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_16</key>
-    <text xml:space="preserve">Timing your block just as the enemy attacks you,
+    <original xml:space="preserve">盾を素早く構え敵の攻撃をはじき返す
+空中でも発動可能</original>
+    <translation xml:space="preserve">Timing your block just as the enemy attacks you,
 will deflect their attack.
-Can also be activated while in the air.</text>
+Can also be activated while in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_17</key>
-    <text xml:space="preserve">Posed in a crouched position, toss a close companion
-into the air.</text>
+    <original xml:space="preserve">腰を落とした姿勢で構え、
+近接してきた仲間を上方に放りあげる</original>
+    <translation xml:space="preserve">Posed in a crouched position, toss a close companion
+into the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_22</key>
-    <text xml:space="preserve">Recover quickly from being knocked down by an enemy.</text>
+    <original xml:space="preserve">敵に吹き飛ばされた際に転倒を回避する</original>
+    <translation xml:space="preserve">Recover quickly from being knocked down by an enemy.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_01_23</key>
-    <text xml:space="preserve">While clinging onto an enemy, thrust your sword into
-them. Continuous press increases attack count.</text>
+    <original xml:space="preserve">しがみついた状態から、剣を突き刺し連続してえぐる
+ボタンの連打で攻撃回数が増加する</original>
+    <translation xml:space="preserve">While clinging onto an enemy, thrust your sword into
+them. Continuous press increases attack count.</translation>
   </message>
 </resource>

@@ -1,55 +1,67 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q60000012_00_15</key>
-    <text xml:space="preserve">The Arisen's Abilities</text>
+    <original xml:space="preserve">覚者の甲斐性</original>
+    <translation xml:space="preserve">The Arisen's Abilities</translation>
   </message>
   <message>
     <key>q60000012_00_15</key>
-    <text xml:space="preserve">覚者ファビオの教示に応えるため
-宿場区にいるアーチボルトに挨拶に行く</text>
+    <original xml:space="preserve">覚者ファビオの教示に応えるため
+宿場区にいるアーチボルトに挨拶に行く</original>
   </message>
   <message>
     <key>q60000012_00_1531</key>
-    <text xml:space="preserve">Return to Fabio.</text>
+    <original xml:space="preserve">ファビオのもとへ向かう</original>
+    <translation xml:space="preserve">Return to Fabio.</translation>
   </message>
   <message>
     <key>q60000012_00_1204</key>
-    <text xml:space="preserve">Introduce yourself to Archibald at the Relay Station District.</text>
+    <original xml:space="preserve">宿場区にいるアーチボルトに挨拶する</original>
+    <translation xml:space="preserve">Introduce yourself to Archibald at the Relay Station District.</translation>
   </message>
   <message>
     <key>q60000012_00_1528</key>
-    <text xml:space="preserve">Equip a Skill via the Change Job/Combat Skills menu at Archibald.</text>
+    <original xml:space="preserve">転職／戦技の付替えでカスタムスキルをセットする</original>
+    <translation xml:space="preserve">Equip a Skill via the Change Job/Combat Skills menu at Archibald.</translation>
   </message>
   <message>
     <key>q60000012_00_1529</key>
-    <text xml:space="preserve">Talk to Archibald again.</text>
+    <original xml:space="preserve">もう一度アーチボルトに話しかける</original>
+    <translation xml:space="preserve">Talk to Archibald again.</translation>
   </message>
   <message>
     <key>q60000012_00_1203</key>
-    <text xml:space="preserve">Report back to Fabio.</text>
+    <original xml:space="preserve">ファビオに報告をする</original>
+    <translation xml:space="preserve">Report back to Fabio.</translation>
   </message>
   <message>
     <key>q60000012_00_1113</key>
-    <text xml:space="preserve">Accept a quest from the Quest Board.</text>
+    <original xml:space="preserve">クエストボードの依頼を1つ受注する</original>
+    <translation xml:space="preserve">Accept a quest from the Quest Board.</translation>
   </message>
   <message>
     <key>q60000012_00_1530</key>
-    <text xml:space="preserve">Complete a quest from the Quest Board.</text>
+    <original xml:space="preserve">受注したボードクエストを１つクリアする</original>
+    <translation xml:space="preserve">Complete a quest from the Quest Board.</translation>
   </message>
   <message>
     <key>q60000012_00_1292</key>
-    <text xml:space="preserve">Report the quest clear to Fabio.</text>
+    <original xml:space="preserve">ファビオに依頼クリアの報告をする</original>
+    <translation xml:space="preserve">Report the quest clear to Fabio.</translation>
   </message>
   <message>
     <key>q60000012_00_1279</key>
-    <text xml:space="preserve">Check the "Rewards" of the Storage Chest.</text>
+    <original xml:space="preserve">保管ボックスの《報酬受け取り》を確認する</original>
+    <translation xml:space="preserve">Check the "Rewards" of the Storage Chest.</translation>
   </message>
   <message>
     <key>q60000012_00_1114</key>
-    <text xml:space="preserve">Report back to Fabio.</text>
+    <original xml:space="preserve">ファビオに経緯を報告する</original>
+    <translation xml:space="preserve">Report back to Fabio.</translation>
   </message>
   <message>
     <key>q60000012_00_1538</key>
-    <text xml:space="preserve">Report back to Leo at the Audience Chamber.</text>
+    <original xml:space="preserve">謁見の間に行きレオと会う</original>
+    <translation xml:space="preserve">Report back to Leo at the Audience Chamber.</translation>
   </message>
 </resource>

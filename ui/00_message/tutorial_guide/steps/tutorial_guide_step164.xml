@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_160</key>
-    <text xml:space="preserve">敵の攻撃や高所落下など、旅に危険はつきものです
+    <original xml:space="preserve">敵の攻撃や高所落下など、旅に危険はつきものです
 体力の回復手段は常に用意しておきましょう
 
 プリーストなどの回復魔法が主な回復手段に
@@ -10,16 +10,16 @@
 回復できません&lt;/COL&gt;
 
 体力回復用アイテム、宿も活用し
-より万全の状態に整えてください</text>
+より万全の状態に整えてください</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_294</key>
-    <text xml:space="preserve">また、敵の特殊攻撃や地形の影響で
+    <original xml:space="preserve">また、敵の特殊攻撃や地形の影響で
 &lt;COL ffdc78&gt;《状態異常》&lt;/COL&gt;と呼ばれるペナルティーを
 受ける場合があります
 
 その場合も、治療魔法や異常治療効果のある
 アイテム、宿を利用して状態異常の解消を
-行ってください</text>
+行ってください</original>
   </message>
 </resource>

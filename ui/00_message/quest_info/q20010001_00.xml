@@ -1,41 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20010001_00_31</key>
-    <text xml:space="preserve">Boat's Buddy</text>
+    <original xml:space="preserve">船は良き友</original>
+    <translation xml:space="preserve">Boat's Buddy</translation>
   </message>
   <message>
     <key>q20010001_00_31</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20010001_00_31</key>
-    <text xml:space="preserve">報告によると&lt;NAME AREA&gt;で
-トラブルに遭った者が協力者を求めているようだ</text>
+    <original xml:space="preserve">報告によると&lt;NAME AREA&gt;で
+トラブルに遭った者が協力者を求めているようだ</original>
   </message>
   <message>
     <key>q20010001_00_31</key>
-    <text xml:space="preserve">手持ちが尽きて宿に泊まれなくなったので
+    <original xml:space="preserve">手持ちが尽きて宿に泊まれなくなったので
 やむなく海岸にある廃船で休もうとしたんです
 そしたら必死の形相の男性がやってきて
 「そこに入るな、危ないぞ！」って――
 何か大切なものでも隠してるんですかね？
-それともまだあの船、使うつもりなんでしょうか</text>
+それともまだあの船、使うつもりなんでしょうか</original>
   </message>
   <message>
     <key>q20010001_00_814</key>
-    <text xml:space="preserve">Defeat the beasts that appear along the beach.</text>
+    <original xml:space="preserve">海岸沿いの魔物を討伐する</original>
+    <translation xml:space="preserve">Defeat the beasts that appear along the beach.</translation>
   </message>
   <message>
     <key>q20010001_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20010001_00_1134</key>
-    <text xml:space="preserve">Defeat the newly appeared enemy.</text>
+    <original xml:space="preserve">新たに現れた魔物を討伐する</original>
+    <translation xml:space="preserve">Defeat the newly appeared enemy.</translation>
   </message>
   <message>
     <key>q20010001_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

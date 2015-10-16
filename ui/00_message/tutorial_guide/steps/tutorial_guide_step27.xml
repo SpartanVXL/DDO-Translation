@@ -1,24 +1,24 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_45</key>
-    <text xml:space="preserve">まずは基本操作です
+    <original xml:space="preserve">まずは基本操作です
 
 
 &lt;COL ffdc78&gt;移動：&lt;/COL&gt;&lt;PADM&gt;【左スティック】&lt;KEYM&gt;【&lt;ICON KB_W&gt;&lt;ICON KB_A&gt;&lt;ICON KB_S&gt;&lt;ICON KB_D&gt;】&lt;/KEYM&gt;
 
 &lt;COL ffdc78&gt;ダッシュ：&lt;/COL&gt;&lt;PADM&gt;移動中【&lt;ICON PAD_L3&gt;ボタン】押し込み&lt;KEYM&gt;同じ移動キーを２回押す&lt;/KEYM&gt;
 
-&lt;COL ffdc78&gt;ジャンプ：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON STG_JUMP&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_SPACE&gt;】&lt;/KEYM&gt;</text>
+&lt;COL ffdc78&gt;ジャンプ：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON STG_JUMP&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_SPACE&gt;】&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_46</key>
-    <text xml:space="preserve">次にカメラ操作です
+    <original xml:space="preserve">次にカメラ操作です
 
 
 &lt;COL ffdc78&gt;カメラ（視点）操作：&lt;/COL&gt;&lt;PADM&gt;【右スティック】&lt;KEYM&gt;【&lt;ICON MOUSE&gt;】&lt;/KEYM&gt;
 
 &lt;COL ffdc78&gt;視点のリセット：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;ボタン】&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_1&gt;】&lt;/KEYM&gt;
 
-&lt;COL ffdc78&gt;視点距離の切替：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;ボタン】素早く２回押し&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_4&gt;前後】&lt;/KEYM&gt;</text>
+&lt;COL ffdc78&gt;視点距離の切替：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;ボタン】素早く２回押し&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_4&gt;前後】&lt;/KEYM&gt;</original>
   </message>
 </resource>

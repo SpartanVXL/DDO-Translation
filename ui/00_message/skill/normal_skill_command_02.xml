@@ -1,58 +1,58 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_COMMAND_02_24</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;を連続してクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_25</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;後、少し遅らせて&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;後、少し遅らせて&lt;ICON MOUSE_CL_L&gt;を連続してクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;後、少し遅らせて&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;後、少し遅らせて&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_26</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;を連続してクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;を連続してクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_27</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;を連続してクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;を連続してクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_32</key>
-    <text xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;空中で&lt;ICON MOUSE_CL_L&gt;をクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;空中で&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_33</key>
-    <text xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_ATTACK_1&gt;を押す&lt;KEYM&gt;空中で&lt;ICON MOUSE_CL_R&gt;をクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_ATTACK_1&gt;を押す&lt;KEYM&gt;空中で&lt;ICON MOUSE_CL_R&gt;をクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_28</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_SHIFT&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_SHIFT&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_29</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら&lt;ICON PAD_L2&gt;または&lt;ICON PAD_R2&gt;を押す&lt;KEYM&gt;&lt;ICON KB_SHIFT&gt;を押しながら&lt;ICON KB_R&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら&lt;ICON PAD_L2&gt;または&lt;ICON PAD_R2&gt;を押す&lt;KEYM&gt;&lt;ICON KB_SHIFT&gt;を押しながら&lt;ICON KB_R&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_30</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_31</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;または&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;または&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_36</key>
-    <text xml:space="preserve">&lt;PADM&gt;空中で壁に対して逆に左スティックを倒しながら&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で壁に対して逆に移動キーを押しながら&lt;ICON KB_SPACE&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;空中で壁に対して逆に左スティックを倒しながら&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で壁に対して逆に移動キーを押しながら&lt;ICON KB_SPACE&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_37</key>
-    <text xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で&lt;ICON KB_SPACE&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で&lt;ICON KB_SPACE&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_38</key>
-    <text xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;を連続してクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_02_39</key>
-    <text xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;を連続してクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
   </message>
 </resource>

@@ -1,34 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pawn_personality_1</key>
-    <text xml:space="preserve">Normal</text>
+    <original xml:space="preserve">ノーマル</original>
+    <translation xml:space="preserve">Normal</translation>
   </message>
   <message>
     <key>pawn_personality_2</key>
-    <text xml:space="preserve">Shy</text>
+    <original xml:space="preserve">シャイ</original>
+    <translation xml:space="preserve">Shy</translation>
   </message>
   <message>
     <key>pawn_personality_3</key>
-    <text xml:space="preserve">Active</text>
+    <original xml:space="preserve">アクティブ</original>
+    <translation xml:space="preserve">Active</translation>
   </message>
   <message>
     <key>pawn_personality_4</key>
-    <text xml:space="preserve">Smart</text>
+    <original xml:space="preserve">スマート</original>
+    <translation xml:space="preserve">Smart</translation>
   </message>
   <message>
     <key>pawn_personality_5</key>
-    <text xml:space="preserve">Cool</text>
+    <original xml:space="preserve">クール</original>
+    <translation xml:space="preserve">Cool</translation>
   </message>
   <message>
     <key>pawn_personality_6</key>
-    <text xml:space="preserve">Pure</text>
+    <original xml:space="preserve">ピュア</original>
+    <translation xml:space="preserve">Pure</translation>
   </message>
   <message>
     <key>pawn_personality_7</key>
-    <text xml:space="preserve">Wild</text>
+    <original xml:space="preserve">ワイルド</original>
+    <translation xml:space="preserve">Wild</translation>
   </message>
   <message>
     <key>pawn_personality_8</key>
-    <text xml:space="preserve">Sexy</text>
+    <original xml:space="preserve">セクシー</original>
+    <translation xml:space="preserve">Sexy</translation>
   </message>
 </resource>

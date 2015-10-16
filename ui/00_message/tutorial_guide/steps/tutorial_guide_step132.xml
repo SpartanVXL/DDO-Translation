@@ -1,27 +1,27 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_119</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《クラフト》&lt;/COL&gt;では
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《クラフト》&lt;/COL&gt;では
 新しいアイテムの生産や、すでにある装備の
 強化・改良が可能です
 
 《クラフトルーム》にいる係官ソニアを
-通じて、メインポーンがその作業にかかります</text>
+通じて、メインポーンがその作業にかかります</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_118</key>
-    <text xml:space="preserve">新しいアイテムを作る場合は
+    <original xml:space="preserve">新しいアイテムを作る場合は
 クラフトメニューの&lt;COL ffdc78&gt;《アイテム生産》&lt;/COL&gt;から
 作りたいアイテムを選びましょう
 
 必要なものは、作業するメインポーンと
 　　・素材アイテム
 　　・作業費用
-　　・作業時間　　　　　　の３つです</text>
+　　・作業時間　　　　　　の３つです</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_249</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;ポーンはクラフトをこなすことで経験を積み
+    <original xml:space="preserve">&lt;COL ffdc78&gt;ポーンはクラフトをこなすことで経験を積み
 クラフトレベルがアップします&lt;/COL&gt;
 
 レベルアップするごとに作れるアイテムの種類が
@@ -29,6 +29,6 @@
 製作能力を成長させることができます
 
 クラフトメニューの&lt;COL ffdc78&gt;《ステータス確認》&lt;/COL&gt;から
-伸ばしたい能力を選びましょう</text>
+伸ばしたい能力を選びましょう</original>
   </message>
 </resource>

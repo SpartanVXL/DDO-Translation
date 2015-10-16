@@ -1,19 +1,27 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q90000205_00_48</key>
-    <text xml:space="preserve">Crucible of Demons</text>
+    <original xml:space="preserve">魔物のるつぼ</original>
+    <translation xml:space="preserve">Crucible of Demons</translation>
   </message>
   <message>
     <key>q90000205_00_48</key>
-    <text xml:space="preserve">竜の巣に巣食う魔物を
-制限時間内で、より多く討伐せよ</text>
+    <original xml:space="preserve">竜の巣に巣食う魔物を
+制限時間内で、より多く討伐せよ</original>
   </message>
   <message>
     <key>q90000205_00_1542</key>
-    <text xml:space="preserve">Defeat dragons and aim for more than 1000pt.</text>
+    <original xml:space="preserve">竜族を討伐し、3000pt以上獲得を目指せ</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Defeat dragons and aim for more than 1000pt.</translation>
   </message>
   <message>
     <key>q90000205_00_1543</key>
-    <text xml:space="preserve">Find and defeat 《時番》 for a time bonus.</text>
+    <original xml:space="preserve">《時番》を探し出し、討伐でタイムボーナス</original>
+    <translation xml:space="preserve">Find and defeat 《時番》 for a time bonus.</translation>
+  </message>
+  <message>
+    <key>q90000205_00_48</key>
+    <original xml:space="preserve">魔物のるつぼ《リザルト報酬》</original>
   </message>
 </resource>

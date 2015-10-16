@@ -1,94 +1,107 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>char_sel_index_en</key>
-    <text xml:space="preserve">Character Select</text>
+    <original xml:space="preserve">Character Select</original>
   </message>
   <message>
     <key>char_sel_index_jp</key>
-    <text xml:space="preserve">Character Select</text>
+    <original xml:space="preserve">キャラクター選択</original>
+    <translation xml:space="preserve">Character Select</translation>
   </message>
   <message>
     <key>char_sel_status</key>
-    <text xml:space="preserve">Status</text>
+    <original xml:space="preserve">Status</original>
   </message>
   <message>
     <key>char_sel_profile</key>
-    <text xml:space="preserve">Profile</text>
+    <original xml:space="preserve">Profile</original>
   </message>
   <message>
     <key>char_sel_delete</key>
-    <text xml:space="preserve">Delete</text>
+    <original xml:space="preserve">キャラクターの削除</original>
+    <translation xml:space="preserve">Delete</translation>
   </message>
   <message>
     <key>char_sel_del_chara_select</key>
-    <text xml:space="preserve">Please select the character to be deleted</text>
+    <original xml:space="preserve">削除するキャラクターを選択してください
+削除したキャラクターは二度と復活できません</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Please select the character to be deleted</translation>
   </message>
   <message>
     <key>char_sel_del_info</key>
-    <text xml:space="preserve">削除したキャラクターは二度と復活できません</text>
+    <original xml:space="preserve">
+&lt;COL ffdc78&gt;未使用の黄金石や&lt;OPCS&gt;等もすべて失われます&lt;/COL&gt;</original>
   </message>
   <message>
     <key>char_sel_code_text</key>
-    <text xml:space="preserve">確認コード &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt; を入力してください</text>
+    <original xml:space="preserve">確認コード &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt; を入力してください</original>
   </message>
   <message>
     <key>char_sel_code</key>
-    <text xml:space="preserve">確認コード：</text>
+    <original xml:space="preserve">確認コード：</original>
   </message>
   <message>
     <key>char_sel_decide</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">決定</original>
+    <translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>char_sel_cancel</key>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
     <key>char_sel_del</key>
-    <text xml:space="preserve">Delete</text>
+    <original xml:space="preserve">削除</original>
+    <translation xml:space="preserve">Delete</translation>
   </message>
   <message>
     <key>char_sel_plz_wait</key>
-    <text xml:space="preserve">Please wait</text>
+    <original xml:space="preserve">しばらくお待ちください</original>
+    <translation xml:space="preserve">Please wait</translation>
   </message>
   <message>
     <key>char_sel_del_alert</key>
-    <text xml:space="preserve">を削除します</text>
+    <original xml:space="preserve">を削除します</original>
   </message>
   <message>
     <key>char_sel_del_finish</key>
-    <text xml:space="preserve">キャラクターの削除が完了しました</text>
+    <original xml:space="preserve">キャラクターの削除が完了しました</original>
   </message>
   <message>
     <key>char_sel_del_error</key>
-    <text xml:space="preserve">確認コードが間違っています</text>
+    <original xml:space="preserve">確認コードが間違っています</original>
   </message>
   <message>
     <key>char_sel_bonus</key>
-    <text xml:space="preserve">Course</text>
+    <original xml:space="preserve">Course</original>
   </message>
   <message>
     <key>char_sel_no_bonus</key>
-    <text xml:space="preserve">発動中の&lt;OPCS&gt;はありません</text>
+    <original xml:space="preserve">発動中の&lt;OPCS&gt;はありません</original>
   </message>
   <message>
     <key>char_sel_fourwords</key>
-    <text xml:space="preserve">（半角英数4文字）</text>
+    <original xml:space="preserve">（半角英数4文字）</original>
   </message>
   <message>
     <key>char_sel_announce_charover</key>
-    <text xml:space="preserve">キャラクター作成上限です</text>
+    <original xml:space="preserve">キャラクター作成上限です</original>
   </message>
   <message>
     <key>char_sel_add_newchar</key>
-    <text xml:space="preserve">Create</text>
+    <original xml:space="preserve">新規作成</original>
+    <translation xml:space="preserve">Create</translation>
   </message>
   <message>
     <key>char_sel_button_zoom</key>
-    <text xml:space="preserve">Rotate / Zoom</text>
+    <original xml:space="preserve">モデル回転 / ズーム</original>
+    <translation xml:space="preserve">Rotate / Zoom</translation>
   </message>
   <message>
     <key>char_sel_button_rota</key>
-    <text xml:space="preserve">Camera</text>
+    <original xml:space="preserve">カメラ操作</original>
+    <translation xml:space="preserve">Camera</translation>
   </message>
 </resource>

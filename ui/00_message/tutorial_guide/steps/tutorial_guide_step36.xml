@@ -1,30 +1,30 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_11</key>
-    <text xml:space="preserve">&lt;COL 78f5ff&gt;《パーソナルクエスト》が解放されました！&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL 78f5ff&gt;《パーソナルクエスト》が解放されました！&lt;/COL&gt;
 
 緑のアイコンで表される&lt;COL ffdc78&gt;《パーソナルクエスト》&lt;/COL&gt;は
 レスタニアの世界を知り、深めることができる
-優先度の高いクエストです</text>
+優先度の高いクエストです</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_196</key>
-    <text xml:space="preserve">パーソナルクエストを受注したら&lt;COL ffdc78&gt;《優先クエスト》&lt;/COL&gt;に
+    <original xml:space="preserve">パーソナルクエストを受注したら&lt;COL ffdc78&gt;《優先クエスト》&lt;/COL&gt;に
 設定してみましょう
 
 目的地が離れている場合でも
 画面右上のミニマップで行き先が分かりやすく
-アシスト表示されます</text>
+アシスト表示されます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_12</key>
-    <text xml:space="preserve">優先設定と解除は、&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー
+    <original xml:space="preserve">優先設定と解除は、&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー
 《クエスト》の&lt;COL ffdc78&gt;《クエストログ》&lt;/COL&gt;から行えます
 
 &lt;COL ffdc78&gt;優先クエストは最大３つまで設定できます&lt;/COL&gt;
 
 複数のクエストを同時に進めている場合も
 うまく優先の切替えをおこない、
-必要な情報をすぐ見られるようにしましょう</text>
+必要な情報をすぐ見られるようにしましょう</original>
   </message>
 </resource>

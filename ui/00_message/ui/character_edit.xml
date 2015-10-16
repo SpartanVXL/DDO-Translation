@@ -1,95 +1,125 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>EDIT_MSG_TITLE_PLAYER_EDIT</key>
-    <text xml:space="preserve">Player Edit</text>
+    <original xml:space="preserve">Player Edit</original>
   </message>
   <message>
     <key>EDIT_MSG_TITLE_PAWN_EDIT</key>
-    <text xml:space="preserve">Pawn Edit</text>
+    <original xml:space="preserve">Pawn Edit</original>
   </message>
   <message>
     <key>EDIT_MSG_CATE_NAME</key>
-    <text xml:space="preserve">Name</text>
+    <original xml:space="preserve">名前</original>
+    <translation xml:space="preserve">Name</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_SEX</key>
-    <text xml:space="preserve">Gender</text>
+    <original xml:space="preserve">性別</original>
+    <translation xml:space="preserve">Gender</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_PRESET</key>
-    <text xml:space="preserve">Presets</text>
+    <original xml:space="preserve">デザイナープリセット</original>
+    <translation xml:space="preserve">Presets</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_RANDOM</key>
-    <text xml:space="preserve">Random</text>
+    <original xml:space="preserve">ランダム</original>
+    <translation xml:space="preserve">Random</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_HAIR</key>
-    <text xml:space="preserve">Hair</text>
+    <original xml:space="preserve">髪</original>
+    <translation xml:space="preserve">Hair</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_BONE</key>
-    <text xml:space="preserve">Face Shape</text>
+    <original xml:space="preserve">顔の輪郭</original>
+    <translation xml:space="preserve">Face Shape</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_EYE</key>
-    <text xml:space="preserve">Eyes</text>
+    <original xml:space="preserve">目</original>
+    <translation xml:space="preserve">Eyes</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_EYEBROW</key>
-    <text xml:space="preserve">Brows</text>
+    <original xml:space="preserve">眉</original>
+    <translation xml:space="preserve">Brows</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_NOSE</key>
-    <text xml:space="preserve">Nose</text>
+    <original xml:space="preserve">鼻</original>
+    <translation xml:space="preserve">Nose</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_MOUSE</key>
-    <text xml:space="preserve">Mouth</text>
+    <original xml:space="preserve">口</original>
+    <translation xml:space="preserve">Mouth</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_EAR</key>
-    <text xml:space="preserve">Ears</text>
+    <original xml:space="preserve">耳</original>
+    <translation xml:space="preserve">Ears</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_FASHION</key>
-    <text xml:space="preserve">Makeup</text>
+    <original xml:space="preserve">ファッションメイク</original>
+    <translation xml:space="preserve">Makeup</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_COLOR</key>
-    <text xml:space="preserve">Color</text>
+    <original xml:space="preserve">カラー</original>
+    <translation xml:space="preserve">Color</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_BODY</key>
-    <text xml:space="preserve">Body Shape</text>
+    <original xml:space="preserve">体格</original>
+    <translation xml:space="preserve">Body Shape</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_VOICE</key>
-    <text xml:space="preserve">Voice</text>
+    <original xml:space="preserve">声</original>
+    <translation xml:space="preserve">Voice</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_PERSONAL</key>
-    <text xml:space="preserve">Personality</text>
+    <original xml:space="preserve">口調</original>
+    <translation xml:space="preserve">Personality</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_VOICE_FREQUENTLY</key>
-    <text xml:space="preserve">Speech Rate</text>
+    <original xml:space="preserve">発言頻度</original>
+    <translation xml:space="preserve">Speech Rate</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_DECISION</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">決定</original>
+    <translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_LIMIT1</key>
-    <text xml:space="preserve">First name (up to 2-12 characters)</text>
+    <original xml:space="preserve">ファーストネーム（半角2～12文字）</original>
+    <translation xml:space="preserve">First name (up to 2-12 characters)</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_LIMIT2</key>
-    <text xml:space="preserve">Last name (up to 2-8 characters)</text>
+    <original xml:space="preserve">ファミリーネーム（半角2～8文字）</original>
+    <translation xml:space="preserve">Last name (up to 2-8 characters)</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE</key>
-    <text xml:space="preserve">Please enter the name you want
+    <original xml:space="preserve">付けたい名前を入力してください
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます</original>
+    <translation xml:space="preserve">Please enter the name you want
 
 
 Notes
@@ -98,11 +128,21 @@ Notes
  ・Spaces cannot be used
  ・Initials of the name may only be a single character
  ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</text>
+ ・Rest of the name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_ATTENTION</key>
-    <text xml:space="preserve">First/last name
+    <original xml:space="preserve">ファースト/ファミリーネーム
+両方に入力してください
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます</original>
+    <translation xml:space="preserve">First/last name
 Please enter both
 
 Notes
@@ -111,11 +151,21 @@ Notes
  ・Spaces cannot be used
  ・Initials of the name may only be a single character
  ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</text>
+ ・Rest of the name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_OK</key>
-    <text xml:space="preserve">&lt;COL A39A70&gt;Input ＯＫ&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL A39A70&gt;入力ＯＫ&lt;/COL&gt;
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます</original>
+    <translation xml:space="preserve">&lt;COL A39A70&gt;Input ＯＫ&lt;/COL&gt;
 
 
 Notes
@@ -124,11 +174,21 @@ Notes
  ・Spaces cannot be used
  ・Initials of the name may only be a single character
  ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</text>
+ ・Rest of the name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_ERROR_NUMBER</key>
-    <text xml:space="preserve">&lt;COL AA1414&gt;Too short, or too long&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL AA1414&gt;文字数が不足、またはオーバーしています&lt;/COL&gt;
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます</original>
+    <translation xml:space="preserve">&lt;COL AA1414&gt;Too short, or too long&lt;/COL&gt;
 
 
 Notes
@@ -137,11 +197,21 @@ Notes
  ・Spaces cannot be used
  ・Initials of the name may only be a single character
  ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</text>
+ ・Rest of the name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_ERROR_CHARACTER</key>
-    <text xml:space="preserve">&lt;COL AA1414&gt;Contains unacceptable characters&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL AA1414&gt;使用できない文字が含まれています&lt;/COL&gt;
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます</original>
+    <translation xml:space="preserve">&lt;COL AA1414&gt;Contains unacceptable characters&lt;/COL&gt;
 
 
 Notes
@@ -150,11 +220,21 @@ Notes
  ・Spaces cannot be used
  ・Initials of the name may only be a single character
  ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</text>
+ ・Rest of the name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_ERROR_WORD</key>
-    <text xml:space="preserve">&lt;COL AA1414&gt;Contains unacceptable word&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL AA1414&gt;使用できない文字列が含まれています&lt;/COL&gt;
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます</original>
+    <translation xml:space="preserve">&lt;COL AA1414&gt;Contains unacceptable word&lt;/COL&gt;
 
 
 Notes
@@ -163,11 +243,21 @@ Notes
  ・Spaces cannot be used
  ・Initials of the name may only be a single character
  ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</text>
+ ・Rest of the name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_ERROR_USED</key>
-    <text xml:space="preserve">&lt;COL AA1414&gt;Name already in use&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL AA1414&gt;すでに使用されている名前です&lt;/COL&gt;
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます</original>
+    <translation xml:space="preserve">&lt;COL AA1414&gt;Name already in use&lt;/COL&gt;
 
 
 Notes
@@ -176,422 +266,513 @@ Notes
  ・Spaces cannot be used
  ・Initials of the name may only be a single character
  ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</text>
+ ・Rest of the name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_SEX_M</key>
-    <text xml:space="preserve">Male</text>
+    <original xml:space="preserve">男性</original>
+    <translation xml:space="preserve">Male</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_SEX_F</key>
-    <text xml:space="preserve">Female</text>
+    <original xml:space="preserve">女性</original>
+    <translation xml:space="preserve">Female</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VAL</key>
-    <text xml:space="preserve">Type &lt;VAL&gt;</text>
+    <original xml:space="preserve">タイプ&lt;VAL&gt;</original>
+    <translation xml:space="preserve">Type &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_HAIR_PARTS</key>
-    <text xml:space="preserve">Hair Style</text>
+    <original xml:space="preserve">髪のパーツ</original>
+    <translation xml:space="preserve">Hair Style</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_HAIR_COLOR</key>
-    <text xml:space="preserve">Hair Color</text>
+    <original xml:space="preserve">髪のカラー</original>
+    <translation xml:space="preserve">Hair Color</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_SOKUTOUBU</key>
-    <text xml:space="preserve">Temple Size</text>
+    <original xml:space="preserve">側頭部の幅</original>
+    <translation xml:space="preserve">Temple Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_HITAI</key>
-    <text xml:space="preserve">Forehead Depth</text>
+    <original xml:space="preserve">額の奥行き</original>
+    <translation xml:space="preserve">Forehead Depth</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_HOBONE_UPDOWN</key>
-    <text xml:space="preserve">Cheek Height</text>
+    <original xml:space="preserve">頬骨の高さ</original>
+    <translation xml:space="preserve">Cheek Height</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_HOBONE_VALUE</key>
-    <text xml:space="preserve">Cheek Width</text>
+    <original xml:space="preserve">頬骨の幅</original>
+    <translation xml:space="preserve">Cheek Width</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_HOHONIKU_VOLUME</key>
-    <text xml:space="preserve">Cheek Size</text>
+    <original xml:space="preserve">頬肉の量</original>
+    <translation xml:space="preserve">Cheek Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_ERAHONE_UPDOWN</key>
-    <text xml:space="preserve">Jaw Height</text>
+    <original xml:space="preserve">エラ骨の高さ</original>
+    <translation xml:space="preserve">Jaw Height</translation>
   </message>
   <message>
     <key>EDIT_MSG_ERAHONE_HABA</key>
-    <text xml:space="preserve">Jaw Width</text>
+    <original xml:space="preserve">エラ骨の幅</original>
+    <translation xml:space="preserve">Jaw Width</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_AGO_ZENGO</key>
-    <text xml:space="preserve">Chin Depth</text>
+    <original xml:space="preserve">顎の奥行き</original>
+    <translation xml:space="preserve">Chin Depth</translation>
   </message>
   <message>
     <key>EDIT_MSG_AGOSAKI_UPDOWN</key>
-    <text xml:space="preserve">Chin Height</text>
+    <original xml:space="preserve">顎の長さ</original>
+    <translation xml:space="preserve">Chin Height</translation>
   </message>
   <message>
     <key>EDIT_MSG_AGOSAKI_HABA</key>
-    <text xml:space="preserve">Chin Width</text>
+    <original xml:space="preserve">顎の幅</original>
+    <translation xml:space="preserve">Chin Width</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYE_PARTS</key>
-    <text xml:space="preserve">Eye Shape</text>
+    <original xml:space="preserve">目のパーツ</original>
+    <translation xml:space="preserve">Eye Shape</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYE_COLOR_LR</key>
-    <text xml:space="preserve">Eye Color</text>
+    <original xml:space="preserve">両目のカラー</original>
+    <translation xml:space="preserve">Eye Color</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYE_COLOR_L</key>
-    <text xml:space="preserve">Left Eye Color</text>
+    <original xml:space="preserve">左目のカラー</original>
+    <translation xml:space="preserve">Left Eye Color</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYE_HITOMI_SIZE</key>
-    <text xml:space="preserve">Pupil Size</text>
+    <original xml:space="preserve">瞳の大きさ</original>
+    <translation xml:space="preserve">Pupil Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYE_SIZE</key>
-    <text xml:space="preserve">Eye Size</text>
+    <original xml:space="preserve">目の大きさ</original>
+    <translation xml:space="preserve">Eye Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYE_ANGLE</key>
-    <text xml:space="preserve">Eye Angle</text>
+    <original xml:space="preserve">目の角度</original>
+    <translation xml:space="preserve">Eye Angle</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYE_INTERVAL</key>
-    <text xml:space="preserve">Eye Spacing</text>
+    <original xml:space="preserve">目の間隔</original>
+    <translation xml:space="preserve">Eye Spacing</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYE_HEIGHT</key>
-    <text xml:space="preserve">Eye Vertical Position</text>
+    <original xml:space="preserve">目の高さ</original>
+    <translation xml:space="preserve">Eye Vertical Position</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYE_MABISASI_UPDOWN</key>
-    <text xml:space="preserve">Eye Vertical Position</text>
+    <original xml:space="preserve">目庇の高さ</original>
+    <translation xml:space="preserve">Eye Vertical Position</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYEBLOW_PARTS</key>
-    <text xml:space="preserve">Brow Shape</text>
+    <original xml:space="preserve">眉のパーツ</original>
+    <translation xml:space="preserve">Brow Shape</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYEBLOW_COLOR</key>
-    <text xml:space="preserve">Brow Color</text>
+    <original xml:space="preserve">眉のカラー</original>
+    <translation xml:space="preserve">Brow Color</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_X</key>
-    <text xml:space="preserve">Brow Spacing</text>
+    <original xml:space="preserve">眉の間隔</original>
+    <translation xml:space="preserve">Brow Spacing</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_Y</key>
-    <text xml:space="preserve">Brow Vertical Position</text>
+    <original xml:space="preserve">眉の高さ</original>
+    <translation xml:space="preserve">Brow Vertical Position</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYEBLOW_MAYUKAITEN</key>
-    <text xml:space="preserve">Brow Angle</text>
+    <original xml:space="preserve">眉の角度</original>
+    <translation xml:space="preserve">Brow Angle</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYEBLOW_MIKEN_TAKASA</key>
-    <text xml:space="preserve">Glabella Height</text>
+    <original xml:space="preserve">眉間の高さ</original>
+    <translation xml:space="preserve">Glabella Height</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EYEBLOW_MIKEN_HABA</key>
-    <text xml:space="preserve">Glabella Width</text>
+    <original xml:space="preserve">眉間の幅</original>
+    <translation xml:space="preserve">Glabella Width</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NOSE_PARTS</key>
-    <text xml:space="preserve">Nose Shape</text>
+    <original xml:space="preserve">鼻のパーツ</original>
+    <translation xml:space="preserve">Nose Shape</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NOSE_POS_Y</key>
-    <text xml:space="preserve">Nose Vertical Position</text>
+    <original xml:space="preserve">鼻の位置</original>
+    <translation xml:space="preserve">Nose Vertical Position</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NOSE_SIZE_X</key>
-    <text xml:space="preserve">Nose Width</text>
+    <original xml:space="preserve">鼻の幅</original>
+    <translation xml:space="preserve">Nose Width</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NOSE_HEIGHT</key>
-    <text xml:space="preserve">Nose Height</text>
+    <original xml:space="preserve">鼻の高さ</original>
+    <translation xml:space="preserve">Nose Height</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NOSE_DIR</key>
-    <text xml:space="preserve">Nose Direction</text>
+    <original xml:space="preserve">鼻の向き</original>
+    <translation xml:space="preserve">Nose Direction</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_MOUSE_PARTS</key>
-    <text xml:space="preserve">Mouth Shape</text>
+    <original xml:space="preserve">口のパーツ</original>
+    <translation xml:space="preserve">Mouth Shape</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_KUCHI_HABA</key>
-    <text xml:space="preserve">Mouth Width</text>
+    <original xml:space="preserve">口の幅</original>
+    <translation xml:space="preserve">Mouth Width</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_KUCHI_ATSUSA</key>
-    <text xml:space="preserve">Lip Size</text>
+    <original xml:space="preserve">唇の大きさ</original>
+    <translation xml:space="preserve">Lip Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_HANAKUCHI_UPDOWN</key>
-    <text xml:space="preserve">Mouth Position</text>
+    <original xml:space="preserve">口の位置</original>
+    <translation xml:space="preserve">Mouth Position</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EAR_SIZE</key>
-    <text xml:space="preserve">Ear Size</text>
+    <original xml:space="preserve">耳の大きさ</original>
+    <translation xml:space="preserve">Ear Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EAR_DIR</key>
-    <text xml:space="preserve">Ear Direction</text>
+    <original xml:space="preserve">耳の向き</original>
+    <translation xml:space="preserve">Ear Direction</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EAR_ELF</key>
-    <text xml:space="preserve">Elf Ears</text>
+    <original xml:space="preserve">エルフ耳</original>
+    <translation xml:space="preserve">Elf Ears</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_BEARD_PARTS</key>
-    <text xml:space="preserve">Beard Style</text>
+    <original xml:space="preserve">髭のパーツ</original>
+    <translation xml:space="preserve">Beard Style</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_BEARD_COLOR</key>
-    <text xml:space="preserve">Beard Color</text>
+    <original xml:space="preserve">髭のカラー</original>
+    <translation xml:space="preserve">Beard Color</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_MAKEUP_PARTS</key>
-    <text xml:space="preserve">Makeup Type</text>
+    <original xml:space="preserve">化粧のパーツ</original>
+    <translation xml:space="preserve">Makeup Type</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_MAKEUP_COLOR</key>
-    <text xml:space="preserve">Makeup Color</text>
+    <original xml:space="preserve">化粧のカラー</original>
+    <translation xml:space="preserve">Makeup Color</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_SCAR_PARTS</key>
-    <text xml:space="preserve">Scar Type</text>
+    <original xml:space="preserve">傷/その他のパーツ</original>
+    <translation xml:space="preserve">Scar Type</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_WRINKLE</key>
-    <text xml:space="preserve">Wrinkles</text>
+    <original xml:space="preserve">しわの量</original>
+    <translation xml:space="preserve">Wrinkles</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_COLOR_SKIN</key>
-    <text xml:space="preserve">Skin Color</text>
+    <original xml:space="preserve">肌のカラー</original>
+    <translation xml:space="preserve">Skin Color</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_HAIR_COLOR_ALL</key>
-    <text xml:space="preserve">All Hair Color</text>
+    <original xml:space="preserve">毛髪全体のカラー</original>
+    <translation xml:space="preserve">All Hair Color</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_HEIGHT</key>
-    <text xml:space="preserve">Height（cm）</text>
+    <original xml:space="preserve">身長（cm）</original>
+    <translation xml:space="preserve">Height（cm）</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_MOTION_FILTER</key>
-    <text xml:space="preserve">Stance</text>
+    <original xml:space="preserve">立ち姿</original>
+    <translation xml:space="preserve">Stance</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_MASSLE</key>
-    <text xml:space="preserve">Muscle</text>
+    <original xml:space="preserve">筋肉量</original>
+    <translation xml:space="preserve">Muscle</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FAT</key>
-    <text xml:space="preserve">Fat</text>
+    <original xml:space="preserve">肥満度</original>
+    <translation xml:space="preserve">Fat</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_HEAD_SIZE</key>
-    <text xml:space="preserve">Head Size</text>
+    <original xml:space="preserve">頭の大きさ</original>
+    <translation xml:space="preserve">Head Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NECK_POS</key>
-    <text xml:space="preserve">Neck Length</text>
+    <original xml:space="preserve">首の長さ</original>
+    <translation xml:space="preserve">Neck Length</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NECK_SCALE</key>
-    <text xml:space="preserve">Neck Thickness</text>
+    <original xml:space="preserve">首の太さ</original>
+    <translation xml:space="preserve">Neck Thickness</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_SHOULDER_SIZE</key>
-    <text xml:space="preserve">Shoulder Width</text>
+    <original xml:space="preserve">肩幅</original>
+    <translation xml:space="preserve">Shoulder Width</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_KUBIRE</key>
-    <text xml:space="preserve">Waist Size</text>
+    <original xml:space="preserve">くびれ</original>
+    <translation xml:space="preserve">Waist Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_CHEST</key>
-    <text xml:space="preserve">Chest Size</text>
+    <original xml:space="preserve">胸の大きさ</original>
+    <translation xml:space="preserve">Chest Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_WRIST_SIZE</key>
-    <text xml:space="preserve">Hand Size</text>
+    <original xml:space="preserve">手の大きさ</original>
+    <translation xml:space="preserve">Hand Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_WEST_POS</key>
-    <text xml:space="preserve">Hip Position</text>
+    <original xml:space="preserve">腰の位置</original>
+    <translation xml:space="preserve">Hip Position</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_WEST_SIZE</key>
-    <text xml:space="preserve">Hip Size</text>
+    <original xml:space="preserve">腰の大きさ</original>
+    <translation xml:space="preserve">Hip Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FOOT_SIZE</key>
-    <text xml:space="preserve">Feet Size</text>
+    <original xml:space="preserve">足の大きさ</original>
+    <translation xml:space="preserve">Feet Size</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_PITCH_L</key>
-    <text xml:space="preserve">&lt;COL 969696&gt;Pitch：&lt;/COL&gt;Low</text>
+    <original xml:space="preserve">&lt;COL 969696&gt;ピッチ：&lt;/COL&gt;低</original>
+    <translation xml:space="preserve">&lt;COL 969696&gt;Pitch：&lt;/COL&gt;Low</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_PITCH_M</key>
-    <text xml:space="preserve">&lt;COL 969696&gt;Pitch：&lt;/COL&gt;Medium</text>
+    <original xml:space="preserve">&lt;COL 969696&gt;ピッチ：&lt;/COL&gt;中</original>
+    <translation xml:space="preserve">&lt;COL 969696&gt;Pitch：&lt;/COL&gt;Medium</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_VOICE_PITCH_H</key>
-    <text xml:space="preserve">&lt;COL 969696&gt;Pitch：&lt;/COL&gt;High</text>
+    <original xml:space="preserve">&lt;COL 969696&gt;ピッチ：&lt;/COL&gt;高</original>
+    <translation xml:space="preserve">&lt;COL 969696&gt;Pitch：&lt;/COL&gt;High</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_PERSONAL_NORMAL</key>
-    <text xml:space="preserve">Normal</text>
+    <original xml:space="preserve">ノーマル</original>
+    <translation xml:space="preserve">Normal</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_PERSONAL_SHY</key>
-    <text xml:space="preserve">Shy</text>
+    <original xml:space="preserve">シャイ</original>
+    <translation xml:space="preserve">Shy</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_PERSONAL_ACTIVE</key>
-    <text xml:space="preserve">Active</text>
+    <original xml:space="preserve">アクティブ</original>
+    <translation xml:space="preserve">Active</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_PERSONAL_SMART</key>
-    <text xml:space="preserve">Smart</text>
+    <original xml:space="preserve">スマート</original>
+    <translation xml:space="preserve">Smart</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_PERSONAL_COOL</key>
-    <text xml:space="preserve">Cool</text>
+    <original xml:space="preserve">クール</original>
+    <translation xml:space="preserve">Cool</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_PERSONAL_PURE</key>
-    <text xml:space="preserve">Pure</text>
+    <original xml:space="preserve">ピュア</original>
+    <translation xml:space="preserve">Pure</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_PERSONAL_WILD</key>
-    <text xml:space="preserve">Wild</text>
+    <original xml:space="preserve">ワイルド</original>
+    <translation xml:space="preserve">Wild</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_PERSONAL_SEXY</key>
-    <text xml:space="preserve">Sexy</text>
+    <original xml:space="preserve">セクシー</original>
+    <translation xml:space="preserve">Sexy</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FREQUENTLY_1</key>
-    <text xml:space="preserve">Never</text>
+    <original xml:space="preserve">ぜんぜん喋らない</original>
+    <translation xml:space="preserve">Never</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FREQUENTLY_2</key>
-    <text xml:space="preserve">Rarely</text>
+    <original xml:space="preserve">あまり喋らない</original>
+    <translation xml:space="preserve">Rarely</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FREQUENTLY_3</key>
-    <text xml:space="preserve">Seldomly</text>
+    <original xml:space="preserve">たまに喋る</original>
+    <translation xml:space="preserve">Seldomly</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FREQUENTLY_4</key>
-    <text xml:space="preserve">Occasionally</text>
+    <original xml:space="preserve">ときどき喋る</original>
+    <translation xml:space="preserve">Occasionally</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FREQUENTLY_5</key>
-    <text xml:space="preserve">Sometimes</text>
+    <original xml:space="preserve">よく喋る</original>
+    <translation xml:space="preserve">Sometimes</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FREQUENTLY_6</key>
-    <text xml:space="preserve">Frequently</text>
+    <original xml:space="preserve">たいてい喋る</original>
+    <translation xml:space="preserve">Frequently</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FREQUENTLY_7</key>
-    <text xml:space="preserve">Usually</text>
+    <original xml:space="preserve">いつも喋る</original>
+    <translation xml:space="preserve">Usually</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FREQUENTLY_8</key>
-    <text xml:space="preserve">Always</text>
+    <original xml:space="preserve">つねに喋る</original>
+    <translation xml:space="preserve">Always</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_NAME</key>
-    <text xml:space="preserve">Name</text>
+    <original xml:space="preserve">Name</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_SEX</key>
-    <text xml:space="preserve">Gender</text>
+    <original xml:space="preserve">Gender</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_PRISET</key>
-    <text xml:space="preserve">Presets</text>
+    <original xml:space="preserve">Presets</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_RANDOM</key>
-    <text xml:space="preserve">Random</text>
+    <original xml:space="preserve">Random</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_FACE</key>
-    <text xml:space="preserve">Face</text>
+    <original xml:space="preserve">Face</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_HAIR</key>
-    <text xml:space="preserve">Hair</text>
+    <original xml:space="preserve">Hair</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_FACE2</key>
-    <text xml:space="preserve">Face Shape</text>
+    <original xml:space="preserve">Face Shape</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_EYE</key>
-    <text xml:space="preserve">Eyes</text>
+    <original xml:space="preserve">Eye</original>
+    <translation xml:space="preserve">Eyes</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_EYEBROW</key>
-    <text xml:space="preserve">Brows</text>
+    <original xml:space="preserve">Eyebrow</original>
+    <translation xml:space="preserve">Brows</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_NOSE</key>
-    <text xml:space="preserve">Nose</text>
+    <original xml:space="preserve">Nose</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_MOUSE</key>
-    <text xml:space="preserve">Mouth</text>
+    <original xml:space="preserve">Mouth</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_EAR</key>
-    <text xml:space="preserve">Ears</text>
+    <original xml:space="preserve">Ear</original>
+    <translation xml:space="preserve">Ears</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_MAKE</key>
-    <text xml:space="preserve">Makeup</text>
+    <original xml:space="preserve">Make Up</original>
+    <translation xml:space="preserve">Makeup</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_COLOR</key>
-    <text xml:space="preserve">Color</text>
+    <original xml:space="preserve">Color</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_BODY</key>
-    <text xml:space="preserve">Body Shape</text>
+    <original xml:space="preserve">Body Type</original>
+    <translation xml:space="preserve">Body Shape</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_VOICE</key>
-    <text xml:space="preserve">Voice</text>
+    <original xml:space="preserve">Voice</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_PERSONAL</key>
-    <text xml:space="preserve">Personality</text>
+    <original xml:space="preserve">Personality</original>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_VOICE_FREQUENTLY</key>
-    <text xml:space="preserve">Speech Rate</text>
+    <original xml:space="preserve">Talk Frequency</original>
+    <translation xml:space="preserve">Speech Rate</translation>
   </message>
   <message>
     <key>EDIT_MSG_TITLE_BEAUTYSALON</key>
-    <text xml:space="preserve">Beauty Salon</text>
+    <original xml:space="preserve">Beauty Salon</original>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_TYPE</key>
-    <text xml:space="preserve">Type</text>
+    <original xml:space="preserve">タイプ</original>
+    <translation xml:space="preserve">Type</translation>
   </message>
 </resource>

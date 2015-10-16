@@ -1,28 +1,32 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20015002_00_75</key>
-    <text xml:space="preserve">Phantoms in the Moonlight</text>
+    <original xml:space="preserve">月下の亡霊</original>
+    <translation xml:space="preserve">Phantoms in the Moonlight</translation>
   </message>
   <message>
     <key>q20015002_00_75</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
-Defeat the enemies encountered.</text>
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20015002_00_75</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
-危険な存在により住民が脅かされているらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
+危険な存在により住民が脅かされているらしい</original>
   </message>
   <message>
     <key>q20015002_00_75</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 夜の浜辺を歩いていたら、ぼおっと光って
 形のあやふやな、幽霊みたいなのが見えたんです
 もう怖くって怖くって！
-それ以来、夜の一人歩きはできなくなりましたよ</text>
+それ以来、夜の一人歩きはできなくなりましたよ</original>
   </message>
   <message>
     <key>q20015002_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
 </resource>

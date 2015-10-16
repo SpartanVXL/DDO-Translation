@@ -1,10 +1,16 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q90000104_00_35</key>
-    <text xml:space="preserve">Battle for Gritten Fort</text>
+    <original xml:space="preserve">グリッテン砦攻防戦</original>
+    <translation xml:space="preserve">Battle for Gritten Fort</translation>
   </message>
   <message>
     <key>q90000104_00_35</key>
-    <text xml:space="preserve">Battle for Gritten Fort　報酬受け取り帰還</text>
+    <original xml:space="preserve">グリッテン砦攻防戦　報酬受け取り期間</original>
+    <translation xml:space="preserve">Battle for Gritten Fort　報酬受け取り期間</translation>
+  </message>
+  <message>
+    <key>q90000104_00_35</key>
+    <original xml:space="preserve">グリッテン砦攻防戦《最終報酬》</original>
   </message>
 </resource>

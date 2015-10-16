@@ -1,37 +1,43 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050005_00_57</key>
-    <text xml:space="preserve">Echoing Footsteps in the Cave</text>
+    <original xml:space="preserve">鍾乳洞に響く足音</original>
+    <translation xml:space="preserve">Echoing Footsteps in the Cave</translation>
   </message>
   <message>
     <key>q20050005_00_57</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20050005_00_57</key>
-    <text xml:space="preserve">From &lt;NAME AREA&gt;,
-There are reports of someone who is begging for help.</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;から
+何者かが助けを請うているらしいと報告があった</original>
+    <translation xml:space="preserve">From &lt;NAME AREA&gt;,
+There are reports of someone who is begging for help.</translation>
   </message>
   <message>
     <key>q20050005_00_57</key>
-    <text xml:space="preserve">あのミスリウにある洞窟はきれいよね
+    <original xml:space="preserve">あのミスリウにある洞窟はきれいよね
 凶悪な魔物の存在を一瞬忘れて
 見とれてしまいそうになるわ
 でもここ数日、その魔物の数がやけに増えて
 洞窟の外にあふれそうな勢いらしいの
-誰か、様子を見にいける人はいない？</text>
+誰か、様子を見にいける人はいない？</original>
   </message>
   <message>
     <key>q20050005_00_1007</key>
-    <text xml:space="preserve">Defeat the enemies in the Glowworm Cave.</text>
+    <original xml:space="preserve">＜燐光虫の洞窟＞の敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies in the Glowworm Cave.</translation>
   </message>
   <message>
     <key>q20050005_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20050005_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

@@ -1,56 +1,56 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_COMMAND_05_70</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;をクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;をクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_83</key>
-    <text xml:space="preserve">空中で&lt;ICON STG_ATTACK_0&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;空中で&lt;ICON MOUSE_CL_L&gt;をクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_72</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押し、左スティックを倒して３属性を選択&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;をクリックし、マウス移動で３属性を選択&lt;/KEYM&gt;
-&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押して属性決定&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;または&lt;ICON MOUSE_CL_R&gt;をクリックして属性決定</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押し、左スティックを倒して３属性を選択&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;をクリックし、マウス移動で３属性を選択&lt;/KEYM&gt;
+&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押して属性決定&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;または&lt;ICON MOUSE_CL_R&gt;をクリックして属性決定</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_73</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押し、左スティックを倒して５属性を選択&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;をクリックし、マウス移動で５属性を選択&lt;/KEYM&gt;
-&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押して属性決定&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;または&lt;ICON MOUSE_CL_R&gt;をクリックして属性決定</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押し、左スティックを倒して５属性を選択&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;をクリックし、マウス移動で５属性を選択&lt;/KEYM&gt;
+&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押して属性決定&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;または&lt;ICON MOUSE_CL_R&gt;をクリックして属性決定</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_74</key>
-    <text xml:space="preserve">敵の攻撃を受ける（スキル発動中を除く）</text>
+    <original xml:space="preserve">敵の攻撃を受ける（スキル発動中を除く）</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_75</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_SHIFT&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_SHIFT&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_76</key>
-    <text xml:space="preserve">&lt;PADM&gt;敵の攻撃を引きつけて&lt;ICON STG_SUB_WEP&gt;を押す&lt;KEYM&gt;敵の攻撃を引きつけて&lt;ICON KB_SHIFT&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;敵の攻撃を引きつけて&lt;ICON STG_SUB_WEP&gt;を押す&lt;KEYM&gt;敵の攻撃を引きつけて&lt;ICON KB_SHIFT&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_77</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_78</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押し続ける&lt;KEYM&gt;&lt;ICON KB_CTRL&gt;を押し続ける</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押し続ける&lt;KEYM&gt;&lt;ICON KB_CTRL&gt;を押し続ける</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_79</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押し続ける&lt;KEYM&gt;&lt;ICON KB_CTRL&gt;を押し続ける</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押し続ける&lt;KEYM&gt;&lt;ICON KB_CTRL&gt;を押し続ける</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_80</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_81</key>
-    <text xml:space="preserve">敵の攻撃を防いだ直後、&lt;PADM&gt;左スティックを素早く後方から前方で反撃、前方から後方で後退&lt;KEYM&gt;&lt;ICON KB_W&gt;を素早く２回押すと反撃、&lt;ICON KB_S&gt;を素早く２回押すと後退&lt;/KEYM&gt;</text>
+    <original xml:space="preserve">敵の攻撃を防いだ直後、&lt;PADM&gt;左スティックを素早く後方から前方で反撃、前方から後方で後退&lt;KEYM&gt;&lt;ICON KB_W&gt;を素早く２回押すと反撃、&lt;ICON KB_S&gt;を素早く２回押すと後退&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_05_91</key>
-    <text xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;をクリック</text>
+    <original xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;をクリック</original>
   </message>
 </resource>

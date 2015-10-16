@@ -1,34 +1,50 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_05_56</key>
-    <text xml:space="preserve">Force Shield</text>
+    <original xml:space="preserve">フォースシールド</original>
+    <translation xml:space="preserve">Force Shield</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_58</key>
-    <text xml:space="preserve">Slow Light</text>
+    <original xml:space="preserve">スローライト</original>
+    <translation xml:space="preserve">Slow Light</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_59</key>
-    <text xml:space="preserve">Hypnos Light</text>
+    <original xml:space="preserve">ヒュプノスライト</original>
+    <translation xml:space="preserve">Hypnos Light</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_60</key>
-    <text xml:space="preserve">Rampart Raid</text>
+    <original xml:space="preserve">ランパートレイド</original>
+    <translation xml:space="preserve">Rampart Raid</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_62</key>
-    <text xml:space="preserve">Element Glow</text>
+    <original xml:space="preserve">エレメントグロウ</original>
+    <translation xml:space="preserve">Element Glow</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_61</key>
-    <text xml:space="preserve">Earth Shake</text>
+    <original xml:space="preserve">アースシェイク</original>
+    <translation xml:space="preserve">Earth Shake</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_63</key>
-    <text xml:space="preserve">Binding Anchor</text>
+    <original xml:space="preserve">バインドアンカー</original>
+    <translation xml:space="preserve">Binding Anchor</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_57</key>
-    <text xml:space="preserve">Holy Wall</text>
+    <original xml:space="preserve">セントウォール</original>
+    <translation xml:space="preserve">Holy Wall</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_05_65</key>
+    <original xml:space="preserve">エレメントライト</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_05_66</key>
+    <original xml:space="preserve">スタンバースト</original>
   </message>
 </resource>

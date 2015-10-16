@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_395</key>
-    <text xml:space="preserve">他のプレイヤーから《パーティー要請》を
+    <original xml:space="preserve">他のプレイヤーから《パーティー要請》を
 受けた場合は&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;で
 受諾するかどうか返答できます
 
@@ -10,6 +10,6 @@
 選びましょう
 
 なお、一定時間内に返答が無かった場合
-要請は取り消されます</text>
+要請は取り消されます</original>
   </message>
 </resource>

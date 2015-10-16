@@ -1,37 +1,41 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000013_00_222</key>
-    <text xml:space="preserve">Beloved Forest</text>
+    <original xml:space="preserve">愛しき森を――</original>
+    <translation xml:space="preserve">Beloved Forest</translation>
   </message>
   <message>
     <key>q20000013_00_222</key>
-    <text xml:space="preserve">メイリーフの願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">メイリーフの願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20000013_00_222</key>
-    <text xml:space="preserve">いま&lt;NAME AREA&gt;にいる何者かが
-心配事に胸を曇らせ、覚者の助力を求めているようだ</text>
+    <original xml:space="preserve">いま&lt;NAME AREA&gt;にいる何者かが
+心配事に胸を曇らせ、覚者の助力を求めているようだ</original>
   </message>
   <message>
     <key>q20000013_00_222</key>
-    <text xml:space="preserve">あたしぃ、神殿には初めて来たんですよぉ
+    <original xml:space="preserve">あたしぃ、神殿には初めて来たんですよぉ
 もうほんとご立派で神々しくて、圧巻ですぅ
 働いてる方々もぉ、お美しいヒトばかりなんですねぇ
 中でもあたし、あの小さな女の子が気になったのぉ
 長くキレイな髪と、ちょっと影のあるヒトミ――
-かわいい悩み事でもあるのかなぁって</text>
+かわいい悩み事でもあるのかなぁって</original>
   </message>
   <message>
     <key>q20000013_00_956</key>
-    <text xml:space="preserve">Kill the creature threatening the forest.</text>
+    <original xml:space="preserve">森を襲う魔物を討伐する</original>
+    <translation xml:space="preserve">Kill the creature threatening the forest.</translation>
   </message>
   <message>
     <key>q20000013_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20000013_00_957</key>
-    <text xml:space="preserve">Report back to Mayleaf.</text>
+    <original xml:space="preserve">メイリーフに報告する</original>
+    <translation xml:space="preserve">Report back to Mayleaf.</translation>
   </message>
 </resource>

@@ -1,36 +1,40 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20010005_00_232</key>
-    <text xml:space="preserve">The Mystery of the Wasted Ruins</text>
+    <original xml:space="preserve">廃墟荒らしの怪</original>
+    <translation xml:space="preserve">The Mystery of the Wasted Ruins</translation>
   </message>
   <message>
     <key>q20010005_00_232</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20010005_00_232</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;には今
-覚者の助けを欲する者がいるらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;には今
+覚者の助けを欲する者がいるらしい</original>
   </message>
   <message>
     <key>q20010005_00_232</key>
-    <text xml:space="preserve">自分は、先日より覚者として
+    <original xml:space="preserve">自分は、先日より覚者として
 白竜に仕える身となった者です
 これより日課である情報収集報告をいたします
 昨日、ブリア海岸にて魔物の気配を察知！
-なお予断を許さない状況であるようです</text>
+なお予断を許さない状況であるようです</original>
   </message>
   <message>
     <key>q20010005_00_902</key>
-    <text xml:space="preserve">Head for the cellar.</text>
+    <original xml:space="preserve">地下保管庫を目指す</original>
+    <translation xml:space="preserve">Head for the cellar.</translation>
   </message>
   <message>
     <key>q20010005_00_903</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">忍び込んだ敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20010005_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

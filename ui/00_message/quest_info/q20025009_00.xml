@@ -1,29 +1,32 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20025009_00_94</key>
-    <text xml:space="preserve">闇夜に舞う鷹</text>
+    <original xml:space="preserve">闇夜に舞う鷹</original>
   </message>
   <message>
     <key>q20025009_00_94</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
-Defeat the enemies encountered.</text>
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20025009_00_94</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
-危険な存在により住民が脅かされているらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
+危険な存在により住民が脅かされているらしい</original>
   </message>
   <message>
     <key>q20025009_00_94</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 夜中に家の近くに怪しい影が横切ったと言って
 兄が出て行ったきり、帰ってきません
 もうずいぶんになります――
 兄は騎士見習いをしていて腕に自信があるはず
-だったのですが――あぁ、止めるべきでした！</text>
+だったのですが――あぁ、止めるべきでした！</original>
   </message>
   <message>
     <key>q20025009_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
 </resource>

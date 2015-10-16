@@ -1,38 +1,47 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_NAME_04_61</key>
-    <text xml:space="preserve">Blast Bit</text>
+    <original xml:space="preserve">ブラストビット</original>
+    <translation xml:space="preserve">Blast Bit</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_62</key>
-    <text xml:space="preserve">Heal Aura</text>
+    <original xml:space="preserve">ヒールオーラ</original>
+    <translation xml:space="preserve">Heal Aura</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_63</key>
-    <text xml:space="preserve">Great Heal Aura</text>
+    <original xml:space="preserve">ヒールオーラエクス</original>
+    <translation xml:space="preserve">Great Heal Aura</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_64</key>
-    <text xml:space="preserve">Holy Aura</text>
+    <original xml:space="preserve">セイントオーラ</original>
+    <translation xml:space="preserve">Holy Aura</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_65</key>
-    <text xml:space="preserve">Great Holy Aura</text>
+    <original xml:space="preserve">セイントオーラエクス</original>
+    <translation xml:space="preserve">Great Holy Aura</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_66</key>
-    <text xml:space="preserve">Field Shift</text>
+    <original xml:space="preserve">フィールドシフト</original>
+    <translation xml:space="preserve">Field Shift</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_68</key>
-    <text xml:space="preserve">Floating</text>
+    <original xml:space="preserve">フローティング</original>
+    <translation xml:space="preserve">Floating</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_69</key>
-    <text xml:space="preserve">Ride Heal Aura</text>
+    <original xml:space="preserve">ライドヒールオーラ</original>
+    <translation xml:space="preserve">Ride Heal Aura</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_146</key>
-    <text xml:space="preserve">Ride Saint Aura</text>
+    <original xml:space="preserve">ライドセイントオーラ</original>
+    <translation xml:space="preserve">Ride Saint Aura</translation>
   </message>
 </resource>

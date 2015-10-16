@@ -1,10 +1,11 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>quick_party_matching</key>
-    <text xml:space="preserve">Searching for a match...</text>
+    <original xml:space="preserve">マッチング中...</original>
+    <translation xml:space="preserve">Searching for a match...</translation>
   </message>
   <message>
     <key>quick_party_ready</key>
-    <text xml:space="preserve">一定時間内に準備完了してください</text>
+    <original xml:space="preserve">一定時間内に準備完了してください</original>
   </message>
 </resource>

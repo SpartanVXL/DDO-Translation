@@ -1,98 +1,110 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CLAN_EDHIT_MSG_NAME</key>
-    <text xml:space="preserve">Clan name</text>
+    <original xml:space="preserve">クランの名前</original>
+    <translation xml:space="preserve">Clan name</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_NAME_S</key>
-    <text xml:space="preserve">Clan tag</text>
+    <original xml:space="preserve">クランの略称</original>
+    <translation xml:space="preserve">Clan tag</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_MOTTO</key>
-    <text xml:space="preserve">Motto</text>
+    <original xml:space="preserve">モットー</original>
+    <translation xml:space="preserve">Motto</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_ATIME</key>
-    <text xml:space="preserve">Time active</text>
+    <original xml:space="preserve">活動時間帯</original>
+    <translation xml:space="preserve">Time active</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_STYLE</key>
-    <text xml:space="preserve">Style</text>
+    <original xml:space="preserve">クランの特徴</original>
+    <translation xml:space="preserve">Style</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_INFO</key>
-    <text xml:space="preserve">Introduction</text>
+    <original xml:space="preserve">紹介メッセージ</original>
+    <translation xml:space="preserve">Introduction</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_BOARD</key>
-    <text xml:space="preserve">メンバーへのメッセージ</text>
+    <original xml:space="preserve">メンバーへのメッセージ</original>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_ACHECK</key>
-    <text xml:space="preserve">すべてにチェック</text>
+    <original xml:space="preserve">すべてにチェック</original>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_STATUS</key>
-    <text xml:space="preserve">ステータス</text>
+    <original xml:space="preserve">ステータス</original>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_MEMBER</key>
-    <text xml:space="preserve">メンバー</text>
+    <original xml:space="preserve">メンバー</original>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_MISSION</key>
-    <text xml:space="preserve">ミッション</text>
+    <original xml:space="preserve">ミッション</original>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_REWARDS</key>
-    <text xml:space="preserve">リワード</text>
+    <original xml:space="preserve">リワード</original>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_HISTORY</key>
-    <text xml:space="preserve">歴史</text>
+    <original xml:space="preserve">歴史</original>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_OPEN_INFO</key>
-    <text xml:space="preserve">公開情報</text>
+    <original xml:space="preserve">公開情報</original>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_OK</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">完了</original>
+    <translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_CANCEL</key>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">中止</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_NAME_INPUT_TITLE</key>
-    <text xml:space="preserve">Enter clan name</text>
+    <original xml:space="preserve">クランの名前を設定</original>
+    <translation xml:space="preserve">Enter clan name</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_NAME_INPUT_TEXT</key>
-    <text xml:space="preserve">注意事項
+    <original xml:space="preserve">注意事項
 ・半角２文字～１２文字まで入力可能です
-・半角英数字と一部の記号 '.,:;!?&amp;-_ が使用可能です</text>
+・半角英数字と一部の記号 '.,:;!?&amp;-_ が使用可能です</original>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_NAME_S_INPUT_TITLE</key>
-    <text xml:space="preserve">Enter clan tag</text>
+    <original xml:space="preserve">クランの略称を設定</original>
+    <translation xml:space="preserve">Enter clan tag</translation>
   </message>
   <message>
     <key>CLAN_EDHIT_MSG_NAME_S_INPUT_TEXT</key>
-    <text xml:space="preserve">注意事項
+    <original xml:space="preserve">注意事項
 ・半角２文字～３文字まで入力可能です
-・半角英数字と一部の記号 '.,:;!?&amp;-_ が使用可能です</text>
+・半角英数字と一部の記号 '.,:;!?&amp;-_ が使用可能です</original>
   </message>
   <message>
     <key>CLAN_EDIT_BBS</key>
-    <text xml:space="preserve">Message</text>
+    <original xml:space="preserve">伝言メモ</original>
+    <translation xml:space="preserve">Message</translation>
   </message>
   <message>
     <key>CLAN_EDIT_INDEX_EN</key>
-    <text xml:space="preserve">Clan Edit</text>
+    <original xml:space="preserve">Clan Edit</original>
   </message>
   <message>
     <key>CLAN_EDIT_INDEX_JP</key>
-    <text xml:space="preserve">Clan Edit</text>
+    <original xml:space="preserve">クラン編集</original>
+    <translation xml:space="preserve">Clan Edit</translation>
   </message>
 </resource>

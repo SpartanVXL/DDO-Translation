@@ -1,101 +1,106 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>sys_announce_controllernotconnect</key>
-    <text xml:space="preserve">&lt;PFWD 0&gt;が接続されていません</text>
+    <original xml:space="preserve">&lt;PFWD 0&gt;が接続されていません</original>
   </message>
   <message>
     <key>sys_announce_check_strage</key>
-    <text xml:space="preserve">Checking HDD capacity</text>
+    <original xml:space="preserve">ハードディスクドライブの容量をチェックしています</original>
+    <translation xml:space="preserve">Checking HDD capacity</translation>
   </message>
   <message>
     <key>sys_announce_notenoughstorage</key>
-    <text xml:space="preserve">ハードディスクドライブの空き容量が不足しています
+    <original xml:space="preserve">ハードディスクドライブの空き容量が不足しています
 ゲームを開始するためには
 &lt;VAL 0&gt; 以上の空き容量が必要です
-ゲームを終了して空き容量を確保してください</text>
+ゲームを終了して空き容量を確保してください</original>
   </message>
   <message>
     <key>sys_announce_trophy</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
   <message>
     <key>sys_announce_newsave</key>
-    <text xml:space="preserve">新規にセーブデータを作成しています
-PCの電源を切らないでください</text>
+    <original xml:space="preserve">新規にセーブデータを作成しています
+PCの電源を切らないでください</original>
   </message>
   <message>
     <key>sys_announce_savedata_broken</key>
-    <text xml:space="preserve">セーブデータが破損しています
+    <original xml:space="preserve">セーブデータが破損しています
 セーブデータを破棄して
-新規に作成しますか？</text>
+新規に作成しますか？</original>
   </message>
   <message>
     <key>sys_announce_ps3_loadfail</key>
-    <text xml:space="preserve">セーブデータをロードできませんでした
+    <original xml:space="preserve">セーブデータをロードできませんでした
 セーブデータを破棄して
-新規に作成しますか？</text>
+新規に作成しますか？</original>
   </message>
   <message>
     <key>sys_announce_notuse_anothersave</key>
-    <text xml:space="preserve">他のユーザーのセーブデータを
+    <original xml:space="preserve">他のユーザーのセーブデータを
 使用することはできません
 セーブデータを破棄して
-新規に作成します</text>
+新規に作成します</original>
   </message>
   <message>
     <key>sys_announce_goto_launcher</key>
-    <text xml:space="preserve">セーブデータを準備できませんでした
-ランチャーへ戻ります</text>
+    <original xml:space="preserve">セーブデータを準備できませんでした
+ランチャーへ戻ります</original>
   </message>
   <message>
     <key>sys_announce_failedsave</key>
-    <text xml:space="preserve">セーブデータの保存に失敗しました</text>
+    <original xml:space="preserve">セーブデータの保存に失敗しました</original>
   </message>
   <message>
     <key>sys_announce_checkingsave</key>
-    <text xml:space="preserve">Checking save data
-Please do not turn off your PC</text>
+    <original xml:space="preserve">セーブデータをチェックしています
+PCの電源を切らないでください</original>
+    <translation xml:space="preserve">Checking save data
+Please do not turn off your PC</translation>
   </message>
   <message>
     <key>sys_announce_check_strage_fail</key>
-    <text xml:space="preserve">ハードディスクドライブ容量の
+    <original xml:space="preserve">ハードディスクドライブ容量の
 チェックに失敗しました
-ランチャーへ戻ります</text>
+ランチャーへ戻ります</original>
   </message>
   <message>
     <key>sys_announce_trophy_fail</key>
-    <text xml:space="preserve">トロフィーデータの準備に失敗しました
-ランチャーへ戻ります</text>
+    <original xml:space="preserve">トロフィーデータの準備に失敗しました
+ランチャーへ戻ります</original>
   </message>
   <message>
     <key>sys_announce_firstoption</key>
-    <text xml:space="preserve">操作デバイスを選択してください
-※この項目はオプションで変更できます</text>
+    <original xml:space="preserve">操作デバイスを選択してください
+※この項目はオプションで変更できます</original>
   </message>
   <message>
     <key>sys_announce_choice_pad</key>
-    <text xml:space="preserve">&lt;PFWD 0&gt;</text>
+    <original xml:space="preserve">&lt;PFWD 0&gt;</original>
   </message>
   <message>
     <key>sys_announce_choice_mouse</key>
-    <text xml:space="preserve">マウス・キーボード</text>
+    <original xml:space="preserve">マウス・キーボード</original>
   </message>
   <message>
     <key>sys_announce_calibration</key>
-    <text xml:space="preserve">&lt;PFWD 0&gt;のボタン配置を初期化しました
+    <original xml:space="preserve">&lt;PFWD 0&gt;のボタン配置を初期化しました
 ボタン配置の確認後
-必要であれば配置変更を行ってください</text>
+必要であれば配置変更を行ってください</original>
   </message>
   <message>
     <key>sys_announce_saving</key>
-    <text xml:space="preserve">設定を保存します</text>
+    <original xml:space="preserve">設定を保存します</original>
   </message>
   <message>
     <key>sys_announce_exit</key>
-    <text xml:space="preserve">Are you sure you want to exit Dragon's Dogma Online?</text>
+    <original xml:space="preserve">Dragon's Dogma Online を終了しますか？</original>
+    <translation xml:space="preserve">Are you sure you want to exit Dragon's Dogma Online?</translation>
   </message>
   <message>
     <key>sys_announce_connecting</key>
-    <text xml:space="preserve">Connecting to server</text>
+    <original xml:space="preserve">サーバーと通信中です</original>
+    <translation xml:space="preserve">Connecting to server</translation>
   </message>
 </resource>

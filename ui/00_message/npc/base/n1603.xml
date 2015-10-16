@@ -1,71 +1,77 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">あ、泊ってく？　だったら
+    <original xml:space="preserve">あ、泊ってく？　だったら
 &lt;VAL PRICE_INN&gt;よ
-もちろん酒場も自由に使ってね</text>
+もちろん酒場も自由に使ってね</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">温泉浸かってゆっくりしてさ
+    <original xml:space="preserve">温泉浸かってゆっくりしてさ
 酒のんで楽しく休んでいくといいわよ！
-山掘りも冒険者も、うちは大歓迎よ！</text>
+山掘りも冒険者も、うちは大歓迎よ！</original>
   </message>
   <message>
-    <text xml:space="preserve">自慢の料理も食べていってね！
+    <original xml:space="preserve">自慢の料理も食べていってね！
 キノザは料理にも温泉を使ってるんだから
-たっぷり元気つけてもらわなきゃ！</text>
+たっぷり元気つけてもらわなきゃ！</original>
   </message>
   <message>
-    <text xml:space="preserve">大坑道へ行くなら十分気をつけてよ
+    <original xml:space="preserve">大坑道へ行くなら十分気をつけてよ
 鉱石目当ての人がよく行くって言っても
-全員無事だったわけじゃないからね</text>
+全員無事だったわけじゃないからね</original>
   </message>
   <message>
-    <text xml:space="preserve">あ、《弱化の治療》？　だったら
+    <original xml:space="preserve">あ、《弱化の治療》？　だったら
 &lt;VAL PRICE_WEAK&gt;よ
-大変な目にあったみたいね</text>
+大変な目にあったみたいね</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">ん～、だけどあなた《弱化》じゃないわよ
-ただの疲れすぎじゃないかしら</text>
+    <original xml:space="preserve">ん～、だけどあなた《弱化》じゃないわよ
+ただの疲れすぎじゃないかしら</original>
   </message>
   <message>
-    <text xml:space="preserve">はーい、キノザ組合宿へようこそ！
-ゆっくりしていってね</text>
+    <original xml:space="preserve">はーい、キノザ組合宿へようこそ！
+ゆっくりしていってね</original>
   </message>
   <message>
-    <text xml:space="preserve">あら、休んでく？　じゃあゆっくりしてってよ
+    <original xml:space="preserve">あら、休んでく？　じゃあゆっくりしてってよ
 宿代はタダよ、あなただけ特別なんだから！
-その代わり冒険話を聞かせてね</text>
+その代わり冒険話を聞かせてね</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">この辺りって、毒沼やら油田やらいろいろあるでしょ
-入っちゃって相当大変な目に合う人も多いのよ</text>
+    <original xml:space="preserve">この辺りって、毒沼やら油田やらいろいろあるでしょ
+入っちゃって相当大変な目に合う人も多いのよ</original>
   </message>
   <message>
-    <text xml:space="preserve">応急処置ができるよう
-しっかりと準備してったほうがいいわよ</text>
+    <original xml:space="preserve">応急処置ができるよう
+しっかりと準備してったほうがいいわよ</original>
   </message>
   <message>
-    <text xml:space="preserve">気を付けてても
+    <original xml:space="preserve">気を付けてても
 魔物にぶっとばされて毒まみれ――
-とかしょっちゅうなんだから</text>
+とかしょっちゅうなんだから</original>
   </message>
 </resource>

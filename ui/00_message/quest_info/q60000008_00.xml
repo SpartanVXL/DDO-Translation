@@ -1,51 +1,62 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q60000008_00_25</key>
-    <text xml:space="preserve">Basic Combat Skills Tutorial of Sorcerer</text>
+    <original xml:space="preserve">魔攻の証　ソーサラー戦術試練</original>
+    <translation xml:space="preserve">Basic Combat Skills Tutorial of Sorcerer</translation>
   </message>
   <message>
     <key>q60000008_00_25</key>
-    <text xml:space="preserve">ソーサラーの基本戦術を学ぶため
-修練の祠にて試練に挑む</text>
+    <original xml:space="preserve">ソーサラーの基本戦術を学ぶため
+修練の祠にて試練に挑む</original>
   </message>
   <message>
     <key>q60000008_00_1102</key>
-    <text xml:space="preserve">Talk to Wilson in the Training Chapel.</text>
+    <original xml:space="preserve">修練の祠内のウィルソンと話す</original>
+    <translation xml:space="preserve">Talk to Wilson in the Training Chapel.</translation>
   </message>
   <message>
     <key>q60000008_00_1160</key>
-    <text xml:space="preserve">Attack the enemy 3 times with your Magick Ball.</text>
+    <original xml:space="preserve">敵にマジックボールを3回当てよ</original>
+    <translation xml:space="preserve">Attack the enemy 3 times with your Magick Ball.</translation>
   </message>
   <message>
     <key>q60000008_00_1161</key>
-    <text xml:space="preserve">Attack the enemy 3 times with Magick Trap.</text>
+    <original xml:space="preserve">敵にマジックトラップを3回成功せよ</original>
+    <translation xml:space="preserve">Attack the enemy 3 times with Magick Trap.</translation>
   </message>
   <message>
     <key>q60000008_00_1255</key>
-    <text xml:space="preserve">Charge a spell and move around when it is fully charged.</text>
+    <original xml:space="preserve">詠唱完了状態で移動せよ</original>
+    <translation xml:space="preserve">Charge a spell and move around when it is fully charged.</translation>
   </message>
   <message>
     <key>q60000008_00_1254</key>
-    <text xml:space="preserve">Charge a spell with lock-on off.</text>
+    <original xml:space="preserve">魔法を詠唱しロックオフ状態で魔法を放て</original>
+    <translation xml:space="preserve">Charge a spell with lock-on off.</translation>
   </message>
   <message>
     <key>q60000008_00_1278</key>
-    <text xml:space="preserve">Increase spell power while chanting.</text>
+    <original xml:space="preserve">スペリングで魔法威力を上昇させよ</original>
+    <translation xml:space="preserve">Increase spell power while chanting.</translation>
   </message>
   <message>
     <key>q60000008_00_1103</key>
-    <text xml:space="preserve">Cling to the enemy in the deeper chamber and use Magic Cracker.</text>
+    <original xml:space="preserve">最奥の敵にしがみつきマジッククラッカーで攻撃せよ</original>
+    <translation xml:space="preserve">Cling to the enemy in the deeper chamber and use Magic Cracker.</translation>
   </message>
   <message>
     <key>q60000008_00_1162</key>
-    <text xml:space="preserve">Defeat the Cyclops.</text>
+    <original xml:space="preserve">サイクロプスを倒せ</original>
+    <translation xml:space="preserve">Defeat the Cyclops.</translation>
   </message>
   <message>
     <key>q60000008_00_1163</key>
-    <text xml:space="preserve">Collect the Emblem proving you completed the challenge.</text>
+    <original xml:space="preserve">最奥にある＜魔攻の証＞を入手する</original>
+    <translation xml:space="preserve">Collect the Emblem proving you completed the challenge.</translation>
   </message>
   <message>
     <key>q60000008_00_1104</key>
-    <text xml:space="preserve">Report back to Renton in the White Dragon Temple.</text>
+    <original xml:space="preserve">白竜神殿のレンテンに経緯を報告する</original>
+    <translation xml:space="preserve">Report back to Renton in the White Dragon Temple.</translation>
   </message>
 </resource>

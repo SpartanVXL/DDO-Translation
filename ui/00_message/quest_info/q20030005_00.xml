@@ -1,37 +1,41 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20030005_00_242</key>
-    <text xml:space="preserve">A Petty Thief's Woes</text>
+    <original xml:space="preserve">コソ泥の受難</original>
+    <translation xml:space="preserve">A Petty Thief's Woes</translation>
   </message>
   <message>
     <key>q20030005_00_242</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20030005_00_242</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;には
-誰かの救援を待っている者がいるようだ</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;には
+誰かの救援を待っている者がいるようだ</original>
   </message>
   <message>
     <key>q20030005_00_242</key>
-    <text xml:space="preserve">準備を怠ったまま遠方に出向くやつはバカだ
+    <original xml:space="preserve">準備を怠ったまま遠方に出向くやつはバカだ
 特に、ダンジョンの奥深くでのトラブルは
 死に直結する
 以前、何人かそんなやつらを助けたが、
 彼らは反省せず、同じ失敗を繰り返すだけだった
-学ばない者は、いくら素養があろうと大成せん</text>
+学ばない者は、いくら素養があろうと大成せん</original>
   </message>
   <message>
     <key>q20030005_00_921</key>
-    <text xml:space="preserve">Defeat the enemy within the Catacombs.</text>
+    <original xml:space="preserve">＜カタコンベ＞の敵を倒す</original>
+    <translation xml:space="preserve">Defeat the enemy within the Catacombs.</translation>
   </message>
   <message>
     <key>q20030005_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20030005_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

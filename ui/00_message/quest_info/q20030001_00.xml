@@ -1,29 +1,30 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20030001_00_38</key>
-    <text xml:space="preserve">美食家の探究心</text>
+    <original xml:space="preserve">美食家の探究心</original>
   </message>
   <message>
     <key>q20030001_00_38</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-望む物品を集める</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+望む物品を集める</original>
   </message>
   <message>
     <key>q20030001_00_38</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;には今
-覚者の助けを欲する者がいるらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;には今
+覚者の助けを欲する者がいるらしい</original>
   </message>
   <message>
     <key>q20030001_00_38</key>
-    <text xml:space="preserve">いま旅先で、見知った顔に出会ったよ
+    <original xml:space="preserve">いま旅先で、見知った顔に出会ったよ
 つい半月ほど前、行商人から大量に野菜やら肉やらを
 買い付けていた男だった
 それにしても、あんな危険なところまで出向くとは
 食に賭ける美食家の覚悟ってのは
-バカにできないどころか、もはや感嘆の域だね</text>
+バカにできないどころか、もはや感嘆の域だね</original>
   </message>
   <message>
     <key>q20030001_00_1124</key>
-    <text xml:space="preserve">Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester.</text>
+    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <translation xml:space="preserve">Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester.</translation>
   </message>
 </resource>

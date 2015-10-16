@@ -1,50 +1,57 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_NAME_03_40</key>
-    <text xml:space="preserve">Aim</text>
+    <original xml:space="preserve">弓構え</original>
+    <translation xml:space="preserve">Aim</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_41</key>
-    <text xml:space="preserve">Loose</text>
+    <original xml:space="preserve">弓射ち</original>
+    <translation xml:space="preserve">Loose</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_42</key>
-    <text xml:space="preserve">速弓の型</text>
+    <original xml:space="preserve">速弓の型</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_46</key>
-    <text xml:space="preserve">Keen Sight</text>
+    <original xml:space="preserve">しじま射ち</original>
+    <translation xml:space="preserve">Keen Sight</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_43</key>
-    <text xml:space="preserve">&lt;PADM&gt;Explosive Stance&lt;KEYM&gt;Change Stance</text>
+    <original xml:space="preserve">&lt;PADM&gt;爆矢構え&lt;KEYM&gt;構え変更</original>
+    <translation xml:space="preserve">&lt;PADM&gt;Explosive Stance&lt;KEYM&gt;Change Stance</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_44</key>
-    <text xml:space="preserve">仕込み爆矢射ち</text>
+    <original xml:space="preserve">仕込み爆矢射ち</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_45</key>
-    <text xml:space="preserve">&lt;PADM&gt;速仕込みの型&lt;KEYM&gt;速構え変更</text>
+    <original xml:space="preserve">&lt;PADM&gt;速仕込みの型&lt;KEYM&gt;速構え変更</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_47</key>
-    <text xml:space="preserve">Front Kick</text>
+    <original xml:space="preserve">前蹴り</original>
+    <translation xml:space="preserve">Front Kick</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_48</key>
-    <text xml:space="preserve">Reload Arrows</text>
+    <original xml:space="preserve">矢の装填</original>
+    <translation xml:space="preserve">Reload Arrows</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_49</key>
-    <text xml:space="preserve">達人装填</text>
+    <original xml:space="preserve">達人装填</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_50</key>
-    <text xml:space="preserve">Switch Arrows</text>
+    <original xml:space="preserve">矢の切替え</original>
+    <translation xml:space="preserve">Switch Arrows</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_03_60</key>
-    <text xml:space="preserve">矢じり斬り</text>
+    <original xml:space="preserve">矢じり斬り</original>
   </message>
 </resource>

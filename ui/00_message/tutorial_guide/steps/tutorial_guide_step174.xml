@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_358</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;パーティーでクエストを進行する際は
+    <original xml:space="preserve">&lt;COL ffdc78&gt;パーティーでクエストを進行する際は
 優先クエストの表示はパーティーリーダーの
 進行状態に切り替わります&lt;/COL&gt;
 
@@ -10,11 +10,11 @@
 
 他のプレイヤーがリーダーの場合、その人の
 ログを共有して進めることになりますので
-自分の進行度を確認しつつ進めましょう</text>
+自分の進行度を確認しつつ進めましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_320</key>
-    <text xml:space="preserve">またソロでもパーティーでもイベント進行時は
+    <original xml:space="preserve">またソロでもパーティーでもイベント進行時は
 確認を求められることがあります
 
 ＜進行マーカー＞
@@ -23,11 +23,11 @@
 
 ＜会話を聞く＞
 クエストの進行に関わる会話は重要な情報です
-個人でもパーティーでも必ず聞くようにしましょう</text>
+個人でもパーティーでも必ず聞くようにしましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_321</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;またパーティークエストにおいては
+    <original xml:space="preserve">&lt;COL ffdc78&gt;またパーティークエストにおいては
 自分とパーティーリーダーの進行状態によって
 クリアした時の報酬が変化します&lt;/COL&gt;
 
@@ -36,15 +36,15 @@
 
 ＜進行が違う場合＞
 正規報酬ではなく協力とみなされ、アシスト報酬
-パーティーリワードが獲得できます</text>
+パーティーリワードが獲得できます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_322</key>
-    <text xml:space="preserve">パーティー内のレベル差や
+    <original xml:space="preserve">パーティー内のレベル差や
 どこまで一緒に進行したかによって受け取る
 ことができる報酬も変わることがあります
 
 なるべく一から同じクエストを
-一緒にクリアしましょう</text>
+一緒にクリアしましょう</original>
   </message>
 </resource>

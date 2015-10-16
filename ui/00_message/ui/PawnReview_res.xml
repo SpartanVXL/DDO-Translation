@@ -1,38 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pawnreview_msg_title_e</key>
-    <text xml:space="preserve">Pawn Review</text>
+    <original xml:space="preserve">Pawn Review</original>
   </message>
   <message>
     <key>pawnreview_msg_title_j</key>
-    <text xml:space="preserve">Pawn Review</text>
+    <original xml:space="preserve">ポーン評価</original>
+    <translation xml:space="preserve">Pawn Review</translation>
   </message>
   <message>
     <key>pawnreview_msg_looks_review</key>
-    <text xml:space="preserve">Appearance Rating</text>
+    <original xml:space="preserve">外見評価</original>
+    <translation xml:space="preserve">Appearance Rating</translation>
   </message>
   <message>
     <key>pawnreview_msg_battle_review</key>
-    <text xml:space="preserve">Combat Rating</text>
+    <original xml:space="preserve">冒険評価</original>
+    <translation xml:space="preserve">Combat Rating</translation>
   </message>
   <message>
     <key>pawnreview_msg_craft_review</key>
-    <text xml:space="preserve">Craft Rating</text>
+    <original xml:space="preserve">クラフト評価</original>
+    <translation xml:space="preserve">Craft Rating</translation>
   </message>
   <message>
     <key>pawnreview_msg_num_battle</key>
-    <text xml:space="preserve">Battle Count:</text>
+    <original xml:space="preserve">冒険回数:</original>
+    <translation xml:space="preserve">Battle Count:</translation>
   </message>
   <message>
     <key>pawnreview_msg_num_craft</key>
-    <text xml:space="preserve">Craft Count:</text>
+    <original xml:space="preserve">クラフト回数:</original>
+    <translation xml:space="preserve">Craft Count:</translation>
   </message>
   <message>
     <key>pawnreview_msg_choice_return</key>
-    <text xml:space="preserve">Return as rated</text>
+    <original xml:space="preserve">評価して返却</original>
+    <translation xml:space="preserve">Return as rated</translation>
   </message>
   <message>
     <key>pawnreview_msg_choice_cancel</key>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
 </resource>

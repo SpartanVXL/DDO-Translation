@@ -1,36 +1,40 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000010_00_219</key>
-    <text xml:space="preserve">The Traveller's Scout</text>
+    <original xml:space="preserve">旅人の露払い</original>
+    <translation xml:space="preserve">The Traveller's Scout</translation>
   </message>
   <message>
     <key>q20000010_00_219</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20000010_00_219</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;には
-誰かの救援を待っている者がいるようだ</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;には
+誰かの救援を待っている者がいるようだ</original>
   </message>
   <message>
     <key>q20000010_00_219</key>
-    <text xml:space="preserve">人を助けるというのは難しい
+    <original xml:space="preserve">人を助けるというのは難しい
 親切心を仇で返されるかも知れないし
 力及ばず落胆させるかも知れない
 だから道端で困り顔をしていた女性を、やむなく
-無視した私を誰が責められようか！</text>
+無視した私を誰が責められようか！</original>
   </message>
   <message>
     <key>q20000010_00_892</key>
-    <text xml:space="preserve">Defeat all the enemies at the specified location.</text>
+    <original xml:space="preserve">指定された場所の敵を全て倒す</original>
+    <translation xml:space="preserve">Defeat all the enemies at the specified location.</translation>
   </message>
   <message>
     <key>q20000010_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20000010_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

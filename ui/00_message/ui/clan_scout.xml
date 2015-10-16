@@ -1,122 +1,132 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CLAN_SCOUT_MSG_RANK</key>
-    <text xml:space="preserve">Rank</text>
+    <original xml:space="preserve">ランク</original>
+    <translation xml:space="preserve">Rank</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_MEMBER</key>
-    <text xml:space="preserve">Members Count</text>
+    <original xml:space="preserve">メンバー数</original>
+    <translation xml:space="preserve">Members Count</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_MOTTO</key>
-    <text xml:space="preserve">Motto</text>
+    <original xml:space="preserve">モットー</original>
+    <translation xml:space="preserve">Motto</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_ATIME</key>
-    <text xml:space="preserve">活動時間帯</text>
+    <original xml:space="preserve">活動時間帯</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_STYLE</key>
-    <text xml:space="preserve">特徴</text>
+    <original xml:space="preserve">特徴</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_NAME</key>
-    <text xml:space="preserve">Name</text>
+    <original xml:space="preserve">名前</original>
+    <translation xml:space="preserve">Name</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_JOB</key>
-    <text xml:space="preserve">Job</text>
+    <original xml:space="preserve">ジョブ</original>
+    <translation xml:space="preserve">Job</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_COMMENT_E</key>
-    <text xml:space="preserve">Comment</text>
+    <original xml:space="preserve">Comment</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_COMMENT_J</key>
-    <text xml:space="preserve">Comment</text>
+    <original xml:space="preserve">コメント</original>
+    <translation xml:space="preserve">Comment</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_SUBMENU</key>
-    <text xml:space="preserve">Submenu</text>
+    <original xml:space="preserve">サブメニュー</original>
+    <translation xml:space="preserve">Submenu</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_INFO</key>
-    <text xml:space="preserve">スカウト申請のメッセージを入力してください</text>
+    <original xml:space="preserve">スカウト申請のメッセージを入力してください</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_OK</key>
-    <text xml:space="preserve">完了</text>
+    <original xml:space="preserve">完了</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_CANCEL</key>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_DECIDE</key>
-    <text xml:space="preserve">決定</text>
+    <original xml:space="preserve">決定</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_VAL</key>
-    <text xml:space="preserve">&lt;VAL&gt;</text>
+    <original xml:space="preserve">&lt;VAL&gt;</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_VAL_MD</key>
-    <text xml:space="preserve">&lt;VAL&gt;/&lt;VAL MAX&gt;</text>
+    <original xml:space="preserve">&lt;VAL&gt;/&lt;VAL MAX&gt;</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_ORLESS</key>
-    <text xml:space="preserve">&lt;VAL&gt;以下</text>
+    <original xml:space="preserve">&lt;VAL&gt;以下</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_ORLESS_P</key>
-    <text xml:space="preserve">%d名以下</text>
+    <original xml:space="preserve">%d名以下</original>
   </message>
   <message>
     <key>CLAN_SCOUT_RANK_LIMIT</key>
-    <text xml:space="preserve">%d～%dまで</text>
+    <original xml:space="preserve">%d～%dまで</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MEMBER_LIMIT</key>
-    <text xml:space="preserve">%d～%d人まで</text>
+    <original xml:space="preserve">%d～%d人まで</original>
   </message>
   <message>
     <key>CLAN_SCOUT_MEMBER_NUM</key>
-    <text xml:space="preserve">&lt;VAL&gt;名</text>
+    <original xml:space="preserve">&lt;VAL&gt;名</original>
   </message>
   <message>
     <key>CLAN_SCOUT_INDEX_EN</key>
-    <text xml:space="preserve">Scout Entry</text>
+    <original xml:space="preserve">Scout Entry</original>
   </message>
   <message>
     <key>CLAN_SCOUT_INDEX_JP</key>
-    <text xml:space="preserve">スカウトエントリー</text>
+    <original xml:space="preserve">スカウトエントリー</original>
   </message>
   <message>
     <key>CLAN_SCOUT_COMMENT_EN</key>
-    <text xml:space="preserve">コメント</text>
+    <original xml:space="preserve">コメント</original>
   </message>
   <message>
     <key>CLAN_SCOUT_COMMENT_JP</key>
-    <text xml:space="preserve">Comment</text>
+    <original xml:space="preserve">Comment</original>
   </message>
   <message>
     <key>CLAN_SCOUT_JOB_LV</key>
-    <text xml:space="preserve">Job</text>
+    <original xml:space="preserve">ジョブ</original>
+    <translation xml:space="preserve">Job</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_NAME</key>
-    <text xml:space="preserve">Name</text>
+    <original xml:space="preserve">名前</original>
+    <translation xml:space="preserve">Name</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_ANNOUNCE</key>
-    <text xml:space="preserve">スカウト申請のメッセージを入力してください</text>
+    <original xml:space="preserve">スカウト申請のメッセージを入力してください</original>
   </message>
   <message>
     <key>CLAN_SCOUT_NOENTRY</key>
-    <text xml:space="preserve">スカウトエントリーがありません</text>
+    <original xml:space="preserve">スカウトエントリーがありません</original>
   </message>
   <message>
     <key>CLAN_SCOUT_NO_SPECIFIED</key>
-    <text xml:space="preserve">指定なし</text>
+    <original xml:space="preserve">指定なし</original>
   </message>
 </resource>

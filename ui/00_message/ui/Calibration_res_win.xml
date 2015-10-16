@@ -1,98 +1,119 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CALI_MSG_CAPTION</key>
-    <text xml:space="preserve">&lt;PFWD 0&gt; Calibration</text>
+    <original xml:space="preserve">&lt;PFWD 0&gt;のボタン配置設定</original>
+    <translation xml:space="preserve">&lt;PFWD 0&gt; Calibration</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_CHECK</key>
-    <text xml:space="preserve">Check Buttons</text>
+    <original xml:space="preserve">ボタン配置を確認してください</original>
+    <translation xml:space="preserve">Check Buttons</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_END</key>
-    <text xml:space="preserve">確認終了</text>
+    <original xml:space="preserve">確認終了</original>
   </message>
   <message>
     <key>CALI_MSG_BUTTON_EDIT</key>
-    <text xml:space="preserve">Calibrate</text>
+    <original xml:space="preserve">配置変更</original>
+    <translation xml:space="preserve">Calibrate</translation>
   </message>
   <message>
     <key>CALI_MSG_BUTTON_END</key>
-    <text xml:space="preserve">Exit</text>
+    <original xml:space="preserve">終了</original>
+    <translation xml:space="preserve">Exit</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_RL</key>
-    <text xml:space="preserve">Right Stick Left</text>
+    <original xml:space="preserve">Rスティックの左</original>
+    <translation xml:space="preserve">Right Stick Left</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_RD</key>
-    <text xml:space="preserve">Right Stick Down</text>
+    <original xml:space="preserve">Rスティックの下</original>
+    <translation xml:space="preserve">Right Stick Down</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_RR</key>
-    <text xml:space="preserve">Right Stick Right</text>
+    <original xml:space="preserve">Rスティックの右</original>
+    <translation xml:space="preserve">Right Stick Right</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_RU</key>
-    <text xml:space="preserve">Right Stick Up</text>
+    <original xml:space="preserve">Rスティックの上</original>
+    <translation xml:space="preserve">Right Stick Up</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_LL</key>
-    <text xml:space="preserve">Left Stick Left</text>
+    <original xml:space="preserve">Lスティックの左</original>
+    <translation xml:space="preserve">Left Stick Left</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_LD</key>
-    <text xml:space="preserve">Left Stick Down</text>
+    <original xml:space="preserve">Lスティックの下</original>
+    <translation xml:space="preserve">Left Stick Down</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_LR</key>
-    <text xml:space="preserve">Left Stick Right</text>
+    <original xml:space="preserve">Lスティックの右</original>
+    <translation xml:space="preserve">Left Stick Right</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_LU</key>
-    <text xml:space="preserve">Left Stick Up</text>
+    <original xml:space="preserve">Lスティックの上</original>
+    <translation xml:space="preserve">Left Stick Up</translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_INPUT</key>
-    <text xml:space="preserve">Press </text>
+    <original xml:space="preserve">を入力してください</original>
+    <translation xml:space="preserve">Press </translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_STEP</key>
-    <text xml:space="preserve">Step </text>
+    <original xml:space="preserve">Step.</original>
+    <translation xml:space="preserve">Step </translation>
   </message>
   <message>
     <key>CALI_MSG_GUID_KUGIRI</key>
-    <text xml:space="preserve">/24</text>
+    <original xml:space="preserve">/24</original>
   </message>
   <message>
     <key>CALI_MSG_BUTTONGUID_END</key>
-    <text xml:space="preserve">Exit</text>
+    <original xml:space="preserve">設定中止</original>
+    <translation xml:space="preserve">Exit</translation>
   </message>
   <message>
     <key>CALI_MSG_BUTTON_RETRY</key>
-    <text xml:space="preserve">Restart</text>
+    <original xml:space="preserve">やり直す</original>
+    <translation xml:space="preserve">Restart</translation>
   </message>
   <message>
     <key>CALI_MSG_DIALOG_XINPUT</key>
-    <text xml:space="preserve">You cannot change the layout of your &lt;PFWD 0&gt;</text>
+    <original xml:space="preserve">ご使用の&lt;PFWD 0&gt;は設定を変更できません</original>
+    <translation xml:space="preserve">You cannot change the layout of your &lt;PFWD 0&gt;</translation>
   </message>
   <message>
     <key>CALI_MSG_DIALOG_NOSAVE</key>
-    <text xml:space="preserve">Are you sure you want to exit without saving?</text>
+    <original xml:space="preserve">設定を保存せず終了します</original>
+    <translation xml:space="preserve">Are you sure you want to exit without saving?</translation>
   </message>
   <message>
     <key>CALI_MSG_DETECTED_PAD</key>
-    <text xml:space="preserve">Detected &lt;PFWD 0&gt;</text>
+    <original xml:space="preserve">認証&lt;PFWD 0&gt;</original>
+    <translation xml:space="preserve">Detected &lt;PFWD 0&gt;</translation>
   </message>
   <message>
     <key>CALI_MSG_TITLE_J</key>
-    <text xml:space="preserve">Button Calibration</text>
+    <original xml:space="preserve">ボタンキャリブレーション</original>
+    <translation xml:space="preserve">Button Calibration</translation>
   </message>
   <message>
     <key>CALI_MSG_TITLE_E</key>
-    <text xml:space="preserve">Button Calibration</text>
+    <original xml:space="preserve">Button Calibration</original>
   </message>
   <message>
     <key>CALI_MSG_DIALOG_END</key>
-    <text xml:space="preserve">Calibration is complete.</text>
+    <original xml:space="preserve">設定が完了しました</original>
+    <translation xml:space="preserve">Calibration is complete.</translation>
   </message>
 </resource>

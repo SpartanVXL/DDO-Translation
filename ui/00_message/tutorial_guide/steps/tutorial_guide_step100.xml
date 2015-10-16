@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_225</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;パーティープレイ時は、リーダーが設定した
+    <original xml:space="preserve">&lt;COL ffdc78&gt;パーティープレイ時は、リーダーが設定した
 優先クエストがメンバー全員にとっての
 優先クエストになり、画面の目的表示も
 切替わります&lt;/COL&gt;
@@ -10,30 +10,30 @@
 伴うレスタニア全体の状況も、リーダーの
 進行度に合わせた状態になっています
 
-その２点は必ず覚えておきましょう</text>
+その２点は必ず覚えておきましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_76</key>
-    <text xml:space="preserve">パーティーメンバーの情報は
+    <original xml:space="preserve">パーティーメンバーの情報は
 画面上のゲージやミニマップで確認できます
 
 パーティーメンバーが倒れた時は
 すぐ助け起こす、はぐれていないか確認するなど
-仲間の状態にも注意しましょう</text>
+仲間の状態にも注意しましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_75</key>
-    <text xml:space="preserve">また、クエスト達成や敵討伐時の獲得経験値、
+    <original xml:space="preserve">また、クエスト達成や敵討伐時の獲得経験値、
 クリア報酬アイテムは、パーティーメンバーと
 あなたのレベル差により変化します
 
 もっともレベルが高いメンバーが
 基準となり、差があるほど報酬に影響するため
-強い覚者の協力を仰ぐ場合は留意しましょう</text>
+強い覚者の協力を仰ぐ場合は留意しましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_413</key>
-    <text xml:space="preserve">もし他のプレイヤーや、そのポーンを含んだ
+    <original xml:space="preserve">もし他のプレイヤーや、そのポーンを含んだ
 パーティーを編成している場合は、ポーンの
 召喚／帰還ルールが一部、ソロ時と異なります
 
@@ -42,14 +42,14 @@
 　　（パーティーが３人以下の場合のみ）&lt;/COL&gt;
 
 &lt;COL ffdc78&gt;　　●ポーンを外せるのは、そのポーンの
-　　　オーナーのみです&lt;/COL&gt;</text>
+　　　オーナーのみです&lt;/COL&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_407</key>
-    <text xml:space="preserve">最後に、パーティープレイ中にパーティー
+    <original xml:space="preserve">最後に、パーティープレイ中にパーティー
 から離脱した場合は、白竜神殿からの
 再開になります
 
-遠方へ冒険に出ている場合は注意しましょう</text>
+遠方へ冒険に出ている場合は注意しましょう</original>
   </message>
 </resource>

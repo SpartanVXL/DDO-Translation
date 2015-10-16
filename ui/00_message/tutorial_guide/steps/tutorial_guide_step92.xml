@@ -1,28 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_103</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《宿屋》&lt;/COL&gt;で休息すると、
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《宿屋》&lt;/COL&gt;で休息すると、
 傷ついた体を癒すことができます
 
 体力やスタミナは最大値まで回復し
 状態異常も解消します
 
 宿屋はレスタニア各地の拠点で利用できます
-旅先で場所を知っておくと安心です</text>
+旅先で場所を知っておくと安心です</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_240</key>
-    <text xml:space="preserve">また、死亡状態になった後、
+    <original xml:space="preserve">また、死亡状態になった後、
 拠点から再出発した時におこる状態異常
 &lt;COL ffdc78&gt;《弱化の治療》&lt;/COL&gt;も可能です
 
 この治療は初回以降、必要価格が大幅に上がりますが
-価格は日ごとにリセットされます</text>
-  </message>
-  <message>
-    <key>TUTORIAL_STEP_333</key>
-    <text xml:space="preserve">なお、&lt;OPCS&gt;の効果により
-&lt;COL ffdc78&gt;宿泊のみ、どの拠点であってもいつでも無料
-で利用できるようになります&lt;/COL&gt;</text>
+価格は日ごとにリセットされます</original>
   </message>
 </resource>

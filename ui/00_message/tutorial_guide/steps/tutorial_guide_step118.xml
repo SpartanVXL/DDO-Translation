@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_107</key>
-    <text xml:space="preserve">&lt;COL 78f5ff&gt;《ジョブマスター》修練が可能になりました！&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL 78f5ff&gt;《ジョブマスター》修練が可能になりました！&lt;/COL&gt;
 
 &lt;COL ffdc78&gt;《ジョブマスター》&lt;/COL&gt;とは、ジョブの基礎を
 修めた者に、より高レベルのスキルやアビリティを
@@ -9,11 +9,11 @@
 
 &lt;COL ffdc78&gt;レベル１８に達したなら神殿《宿場区》の
 レンテンを訪れましょう
-彼が訓練官としてあなたを紹介してくれるでしょう&lt;/COL&gt;</text>
+彼が訓練官としてあなたを紹介してくれるでしょう&lt;/COL&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_106</key>
-    <text xml:space="preserve">ジョブマスターは《ジョブ修練》を達成
+    <original xml:space="preserve">ジョブマスターは《ジョブ修練》を達成
 することで、課題に対応する戦技の
 レベル上限をさらに引き上げてくれます
 
@@ -22,11 +22,11 @@
 　●アビリティ　　：&lt;COL ffdc78&gt;レベル５以上&lt;/COL&gt;
 
 ※通常、カスタムスキルはレベル５
-　アビリティはレベル４まで上昇します</text>
+　アビリティはレベル４まで上昇します</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_410</key>
-    <text xml:space="preserve">特にカスタムスキルはレベル６に強化
+    <original xml:space="preserve">特にカスタムスキルはレベル６に強化
 することで性能や攻撃回数などが
 大幅に強化されます
 
@@ -34,6 +34,6 @@
 ジョブも存在するようです&lt;/COL&gt;
 
 ジョブマスターとの出会いが、新たなジョブ
-への入門になることもあるでしょう</text>
+への入門になることもあるでしょう</original>
   </message>
 </resource>

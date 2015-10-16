@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_405</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《白竜神殿レーゼ》&lt;/COL&gt;は、すべてのプレイヤーに
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《白竜神殿レーゼ》&lt;/COL&gt;は、すべてのプレイヤーに
 とって冒険の起点となる重要な場所です
 
 覚者としての任務を受ける場所は
 &lt;COL ffdc78&gt;《謁見の間》&lt;/COL&gt;となります
 
 マップを確認しながら《中央広場》の奥へ
-向いましょう</text>
+向いましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_50</key>
-    <text xml:space="preserve">また、白竜神殿はいくつかの区画に分かれています
+    <original xml:space="preserve">また、白竜神殿はいくつかの区画に分かれています
 
 《中央広場》…皆が集う神殿の中心部
 《商店区》　…武具や素材など各種店舗が集まる場
@@ -21,6 +21,6 @@
 《クラフトルーム》…ポーンのアイテム工房
 《港洞》　　…海洋任務に備える停船所
 
-《謁見の間》…白竜や重要人物との対話の場</text>
+《謁見の間》…白竜や重要人物との対話の場</original>
   </message>
 </resource>

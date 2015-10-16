@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_150</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《チャット》&lt;/COL&gt;は、ゲームプレイ中に
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《チャット》&lt;/COL&gt;は、ゲームプレイ中に
 他のプレイヤーとコミュニケーションを
 取るための基本ツールです
 
@@ -10,11 +10,11 @@
 ゲーム中の状況告知も流れます
 
 &lt;PADM&gt;【&lt;ICON PAD_BACK&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_BK&gt;】&lt;/KEYM&gt;を押してチャットモードに
-切替え、発言を入力しましょう</text>
+切替え、発言を入力しましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_149</key>
-    <text xml:space="preserve">表示させる情報はフィルタリングできます
+    <original xml:space="preserve">表示させる情報はフィルタリングできます
 　&lt;PADM&gt;【&lt;ICON PAD_L1&gt;／&lt;ICON PAD_R1&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_PGUP&gt;／&lt;ICON KB_PGDOWN&gt;】&lt;/KEYM&gt;でチャンネル切替
 　（＋）からチャンネル追加
 
@@ -23,11 +23,11 @@
 
 &lt;COL ffdc78&gt;拡大した状態であれば、発言者を直接選んで
 話しかけたり、プロフィール確認やパーティー要請、
-フレンド申請できます&lt;/COL&gt;</text>
+フレンド申請できます&lt;/COL&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_280</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;誰に対して発言するかは
+    <original xml:space="preserve">&lt;COL ffdc78&gt;誰に対して発言するかは
 チャット入力欄上の《対象メニュー》で
 切替えられます&lt;/COL&gt;
 
@@ -35,11 +35,11 @@
 グループチャットメンバー向けなど、
 話しかける相手を変えたい場合に利用しましょう
 
-操作方法は入力欄下のガイドで確認できます</text>
+操作方法は入力欄下のガイドで確認できます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_390</key>
-    <text xml:space="preserve">チャット会話対象タイプは、以下になります
+    <original xml:space="preserve">チャット会話対象タイプは、以下になります
 
 　&lt;COL ffdc78&gt;Say&lt;/COL&gt; ：同ステージのプレイヤー
 　&lt;COL ffdc78&gt;Shout&lt;/COL&gt; ：同ロビーのプレイヤー全員
@@ -47,6 +47,6 @@
 　&lt;COL ffdc78&gt;Tell&lt;/COL&gt; ：特定の個人
 　&lt;COL ffdc78&gt;Clan&lt;/COL&gt; ：クランメンバー
 　&lt;COL ffdc78&gt;Group&lt;/COL&gt; ：グループチャットメンバー
-　&lt;COL ffdc78&gt;Entry Board&lt;/COL&gt; ：エントリーボード参加者</text>
+　&lt;COL ffdc78&gt;Entry Board&lt;/COL&gt; ：エントリーボード参加者</original>
   </message>
 </resource>

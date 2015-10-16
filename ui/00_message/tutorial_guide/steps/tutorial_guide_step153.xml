@@ -1,23 +1,23 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_27</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;レスタニアに生まれし新たなる覚者へ&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;レスタニアに生まれし新たなる覚者へ&lt;/COL&gt;
 
 覚者としてあなたが成すべき目的はマップ上に
 &lt;COL ffdc78&gt;赤の《メインクエストマーカー》で示されます&lt;/COL&gt;
 
 まずは赤のマーカーを目指し
-白竜から授かった力を目前の敵にぶつけましょう</text>
+白竜から授かった力を目前の敵にぶつけましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_194</key>
-    <text xml:space="preserve">冒険時は、左上に表示される
+    <original xml:space="preserve">冒険時は、左上に表示される
 &lt;COL ffdc78&gt;体力（ＨＰ）&lt;/COL&gt;と&lt;COL ffdc78&gt;スタミナ（ＳＴ）&lt;/COL&gt;が重要です
 
 ＨＰは敵の攻撃を受けると減少し
 アイテムや治癒の魔法で回復できます
 
 ＳＴは、激しいアクションにより消費し
-アクションを控えると自然回復します</text>
+アクションを控えると自然回復します</original>
   </message>
 </resource>

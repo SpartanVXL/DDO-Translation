@@ -1,57 +1,63 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">小さな村だが、旅の準備くらいは整えられる
-必要なことがあれば言ってくれ</text>
+    <original xml:space="preserve">小さな村だが、旅の準備くらいは整えられる
+必要なことがあれば言ってくれ</original>
   </message>
   <message>
-    <text xml:space="preserve">休んでいくか？
-谷道は慣れないうちは堪えるだろう</text>
+    <original xml:space="preserve">休んでいくか？
+谷道は慣れないうちは堪えるだろう</original>
   </message>
   <message>
-    <text xml:space="preserve">ここは他の村との行き来が厳しくてな
-物資の補給も思うようにいっていない</text>
+    <original xml:space="preserve">ここは他の村との行き来が厳しくてな
+物資の補給も思うようにいっていない</original>
   </message>
   <message>
-    <text xml:space="preserve">もし手伝ってもらえるなら、奥にいる
-ヘイデンに話を聞いてみてくれ</text>
+    <original xml:space="preserve">もし手伝ってもらえるなら、奥にいる
+ヘイデンに話を聞いてみてくれ</original>
   </message>
   <message>
-    <text xml:space="preserve">休憩なら
+    <original xml:space="preserve">休憩なら
 &lt;VAL PRICE_INN&gt;いただくが、どうする？
-疲れは溜めないほうがいいぞ</text>
+疲れは溜めないほうがいいぞ</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">《弱化の治療》なら
-&lt;VAL PRICE_WEAK&gt;いただこう、どうかね？</text>
+    <original xml:space="preserve">《弱化の治療》なら
+&lt;VAL PRICE_WEAK&gt;いただこう、どうかね？</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">うむ、《弱化の治療》は不要のようだな
-必要になればまた言ってくれ</text>
+    <original xml:space="preserve">うむ、《弱化の治療》は不要のようだな
+必要になればまた言ってくれ</original>
   </message>
   <message>
-    <text xml:space="preserve">ジンゲンへようこそ、旅の方</text>
+    <original xml:space="preserve">ジンゲンへようこそ、旅の方</original>
   </message>
   <message>
-    <text xml:space="preserve">ああ、休憩なら空いてるベッドを好きに使うといい
+    <original xml:space="preserve">ああ、休憩なら空いてるベッドを好きに使うといい
 ここが何とかやれているのもお前さんの
-おかげだからな、休むかね？</text>
+おかげだからな、休むかね？</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
 </resource>

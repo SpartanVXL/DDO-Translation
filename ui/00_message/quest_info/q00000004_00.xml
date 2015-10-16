@@ -1,34 +1,43 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q00000004_00_5</key>
-    <text xml:space="preserve">Soldiers of the Rift</text>
+    <original xml:space="preserve">異界の戦士</original>
+    <translation xml:space="preserve">Soldiers of the Rift</translation>
   </message>
   <message>
     <key>q00000004_00_5</key>
-    <text xml:space="preserve">In order to acquire a pawn, head to the Pawn Settlement and complete the challenge</text>
+    <original xml:space="preserve">ポーンとの契約を果たすため
+ポーン郷へ赴き試練に挑む</original>
+    <translation xml:space="preserve">In order to acquire a pawn, head to the Pawn Settlement and complete the challenge</translation>
   </message>
   <message>
     <key>q00000004_00_963</key>
-    <text xml:space="preserve">Go to the village of Tel using the Riftstone and talk to Alfred</text>
+    <original xml:space="preserve">リム転移でテル村に行き、アルフレドから話を聞く</original>
+    <translation xml:space="preserve">Go to the village of Tel using the Riftstone and talk to Alfred</translation>
   </message>
   <message>
     <key>q00000004_00_964</key>
-    <text xml:space="preserve">Check the area information with Alfred</text>
+    <original xml:space="preserve">エリア情報とその内容を確認する</original>
+    <translation xml:space="preserve">Check the area information with Alfred</translation>
   </message>
   <message>
     <key>q00000004_00_965</key>
-    <text xml:space="preserve">Go through the Hunter's Secret Passage and head to the Pawn Settlement</text>
+    <original xml:space="preserve">狩人の抜け穴を通りポーン郷へ向かう</original>
+    <translation xml:space="preserve">Go through the Hunter's Secret Passage and head to the Pawn Settlement</translation>
   </message>
   <message>
     <key>q00000004_00_1539</key>
-    <text xml:space="preserve">Get information in the Pawn Settlement</text>
+    <original xml:space="preserve">ポーン郷で情報収集する</original>
+    <translation xml:space="preserve">Get information in the Pawn Settlement</translation>
   </message>
   <message>
     <key>q00000004_00_966</key>
-    <text xml:space="preserve">Register and set the Pawn Cathedral Riftstone</text>
+    <original xml:space="preserve">ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する</original>
+    <translation xml:space="preserve">Register and set the Pawn Cathedral Riftstone</translation>
   </message>
   <message>
     <key>q00000004_00_1537</key>
-    <text xml:space="preserve">Speak with Alvar</text>
+    <original xml:space="preserve">アルヴァーと話す</original>
+    <translation xml:space="preserve">Speak with Alvar</translation>
   </message>
 </resource>

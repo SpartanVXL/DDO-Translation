@@ -1,24 +1,24 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_97</key>
-    <text xml:space="preserve">&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー《キャラクター》の
+    <original xml:space="preserve">&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー《キャラクター》の
 &lt;COL ffdc78&gt;《ステータス・装備》&lt;/COL&gt;から
 装備品の付け替えや詳細確認ができます
 
 装備品は頭や腕、胴など部位ごとに装着でき、
 あなたの強さや体力に大きく影響します
 
-《武具屋》などのショップで購入できます</text>
+《武具屋》などのショップで購入できます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_235</key>
-    <text xml:space="preserve">装備できる品はジョブやレベル、性別により
+    <original xml:space="preserve">装備できる品はジョブやレベル、性別により
 制限があります
 
 &lt;COL ffdc78&gt;ジョブとレベルに見合った武器や防具を
 身に付けることが重要です&lt;/COL&gt;
 
 各品のパラメータをよく確認し
-万全の装備で冒険に出かけましょう</text>
+万全の装備で冒険に出かけましょう</original>
   </message>
 </resource>

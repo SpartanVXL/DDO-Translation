@@ -1,32 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20010003_00_230</key>
-    <text xml:space="preserve">The Sea-Watcher's Hand</text>
+    <original xml:space="preserve">海の見張り手</original>
+    <translation xml:space="preserve">The Sea-Watcher's Hand</translation>
   </message>
   <message>
     <key>q20010003_00_230</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-物品を指定の場所に届ける</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+物品を指定の場所に届ける</original>
   </message>
   <message>
     <key>q20010003_00_230</key>
-    <text xml:space="preserve">From &lt;NAME AREA&gt;,
-There are reports of someone who is begging for help.</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;から
+何者かが助けを請うているらしいと報告があった</original>
+    <translation xml:space="preserve">From &lt;NAME AREA&gt;,
+There are reports of someone who is begging for help.</translation>
   </message>
   <message>
     <key>q20010003_00_230</key>
-    <text xml:space="preserve">波の音を聞くと心が休まります
+    <original xml:space="preserve">波の音を聞くと心が休まります
 こういう場所はひとりで独占したいものです
 頼みごとを抱えた人？
 いやいや、そんな人と関わるのはごめんですよ
-だ私は昨日、あのあたりに近づかなかったんです</text>
+だから私は昨日、あのあたりに近づかなかったんです</original>
+    <translation xml:space="preserve">波の音を聞くと心が休まります
+こういう場所はひとりで独占したいものです
+頼みごとを抱えた人？
+いやいや、そんな人と関わるのはごめんですよ
+だ私は昨日、あのあたりに近づかなかったんです</translation>
   </message>
   <message>
     <key>q20010003_00_897</key>
-    <text xml:space="preserve">Visit the lighthouse keeper.</text>
+    <original xml:space="preserve">灯台守を訪ねる</original>
+    <translation xml:space="preserve">Visit the lighthouse keeper.</translation>
   </message>
   <message>
     <key>q20010003_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

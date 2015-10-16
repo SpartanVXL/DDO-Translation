@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_117</key>
-    <text xml:space="preserve">神殿中央にそびえる石柱&lt;COL ffdc78&gt;《竜の礎（いしずえ）》&lt;/COL&gt;は
+    <original xml:space="preserve">神殿中央にそびえる石柱&lt;COL ffdc78&gt;《竜の礎（いしずえ）》&lt;/COL&gt;は
 瞬間移動&lt;COL ffdc78&gt;《リム転移》&lt;/COL&gt;を行うためのものです
 
 &lt;COL ffdc78&gt;《竜の礎》は神殿各区画のリムストーンと
 通じており、《リムストーンへ転移》を使えば
-施設への移動に便利です&lt;/COL&gt;</text>
+施設への移動に便利です&lt;/COL&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_244</key>
-    <text xml:space="preserve">覚者はみな、冒険の旅先どこからでも
+    <original xml:space="preserve">覚者はみな、冒険の旅先どこからでも
 &lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー《ワールド》の
 &lt;COL ffdc78&gt;《リム転移》&lt;/COL&gt;により、竜の礎へ帰還できます
 
 さらに、レスタニア各地には子器である
 《拠点の礎》が存在し、一度訪れた場所へは
-《リム》を支払うことで瞬時に移動できます</text>
+《リム》を支払うことで瞬時に移動できます</original>
   </message>
 </resource>

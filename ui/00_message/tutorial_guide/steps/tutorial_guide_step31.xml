@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_78</key>
-    <text xml:space="preserve">野外には危険な場所も存在します
+    <original xml:space="preserve">野外には危険な場所も存在します
 以下の場所には注意して進みましょう
 
 ＜毒や炎に包まれた場所＞
@@ -9,26 +9,26 @@
  【毒】や【延焼】にかかってしまいます
 
 　深刻な追加ダメージにつながるため、
-　回復手段はいつでも用意しておきましょう</text>
+　回復手段はいつでも用意しておきましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_77</key>
-    <text xml:space="preserve">＜水辺＞
+    <original xml:space="preserve">＜水辺＞
 　レスタニアの水辺にはヒュージブルという
 　魔物が潜み、深みに入ると引きずり込まれます
 
 　その場合、最後にいた陸地に戻されます
 
 　ただし、あまりに深い淵や谷川に落下した場合
-　死亡状態になることもあります</text>
+　死亡状態になることもあります</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_229</key>
-    <text xml:space="preserve">＜高所からの落下＞
+    <original xml:space="preserve">＜高所からの落下＞
 　高所から落下すると、高さに応じて
 　ダメージを受けてしまいます
 
 　あまりに高いと死亡の危険もあるため
-　崖ぎわなどは特に注意が必要です</text>
+　崖ぎわなどは特に注意が必要です</original>
   </message>
 </resource>

@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_72</key>
-    <text xml:space="preserve">パーティープレイでは、
+    <original xml:space="preserve">パーティープレイでは、
 戦闘時に自身のジョブがどのような役割を
 担っているかを把握しておくことが重要です
 
 ジョブの役割（ジョブロール）には
 &lt;COL ffdc78&gt;アタッカー／ヒーラー／タンク&lt;/COL&gt;
 の３種があります
-期待される役割を理解し戦闘に臨みましょう</text>
+期待される役割を理解し戦闘に臨みましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_74</key>
-    <text xml:space="preserve">＜アタッカー＞　：ファイター、ハンターなど
+    <original xml:space="preserve">＜アタッカー＞　：ファイター、ハンターなど
 　　敵にダメージを与えることが主な役割です
 
 ＜ヒーラー＞　　：プリーストなど
@@ -20,11 +20,11 @@
 
 ＜タンク＞　　　：シールドセージなど
 　　高い防御力を生かし、敵の注目と攻撃を
-　　引き受けるのが主な役割です</text>
+　　引き受けるのが主な役割です</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_226</key>
-    <text xml:space="preserve">【パーティープレイ時の基本】
+    <original xml:space="preserve">【パーティープレイ時の基本】
 タンク系ジョブのメンバーを狙っている敵は、
 体力ゲージに&lt;COL ffdc78&gt;《タンクアイコン》&lt;/COL&gt;が表示されます
 
@@ -33,11 +33,11 @@
 行うことで安全な立ち回りが可能です
 
 タンクはアトラクトなど《挑発スキル》の使用
-により、敵の注目を集めることができます</text>
+により、敵の注目を集めることができます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_73</key>
-    <text xml:space="preserve">敵の注目度があがる主な要因は下記です
+    <original xml:space="preserve">敵の注目度があがる主な要因は下記です
 
 　・敵に攻撃する、ダメージを与える
 　・回復魔法を使う
@@ -46,6 +46,6 @@
 　・挑発スキルを使う 
 
 敵に狙われたくない時、または自分に注目度を
-集めたい時は意識して立ち回りましょう</text>
+集めたい時は意識して立ち回りましょう</original>
   </message>
 </resource>

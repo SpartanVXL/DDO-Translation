@@ -1,36 +1,38 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20020011_00_240</key>
-    <text xml:space="preserve">連絡路を取り戻せ</text>
+    <original xml:space="preserve">連絡路を取り戻せ</original>
   </message>
   <message>
     <key>q20020011_00_240</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20020011_00_240</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;に
-覚者に会って相談に乗ってほしい人物がいるという</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;に
+覚者に会って相談に乗ってほしい人物がいるという</original>
   </message>
   <message>
     <key>q20020011_00_240</key>
-    <text xml:space="preserve">ダウ渓谷へ向かう地下通路に
+    <original xml:space="preserve">ダウ渓谷へ向かう地下通路に
 想定を超える数の魔物が出没しているらしい
 覚者隊が対応に当たっているが
 早急な問題解決のためにも増員が望ましいそうだ
-対処にあたれる覚者は、ぜひ向かって欲しい</text>
+対処にあたれる覚者は、ぜひ向かって欲しい</original>
   </message>
   <message>
     <key>q20020011_00_916</key>
-    <text xml:space="preserve">＜旧騎士団連絡路＞の敵を討伐する</text>
+    <original xml:space="preserve">＜旧騎士団連絡路＞の敵を討伐する</original>
   </message>
   <message>
     <key>q20020011_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20020011_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

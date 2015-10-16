@@ -1,2464 +1,3523 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ACHIEVEMENT_INFO_450</key>
-    <text xml:space="preserve">Clear the 「The Lying God」 quest</text>
+    <original xml:space="preserve">クエスト「横たわる神」クリア</original>
+    <translation xml:space="preserve">Clear the 「The Lying God」 quest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_519</key>
-    <text xml:space="preserve">Clear the 「The Otherworldly Warrior」 quest</text>
+    <original xml:space="preserve">クエスト「異界の戦士」クリア</original>
+    <translation xml:space="preserve">Clear the 「The Otherworldly Warrior」 quest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_520</key>
-    <text xml:space="preserve">Clear the 「The House of Steam」 quest</text>
+    <original xml:space="preserve">クエスト「湯煙の館」クリア</original>
+    <translation xml:space="preserve">Clear the 「The House of Steam」 quest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_521</key>
-    <text xml:space="preserve">Clear the 「The Awakening of God」 quest</text>
+    <original xml:space="preserve">クエスト「神の目覚め」クリア</original>
+    <translation xml:space="preserve">Clear the 「The Awakening of God」 quest</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_522</key>
+    <original xml:space="preserve">クエスト「闇を纏う娘」クリア</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_523</key>
+    <original xml:space="preserve">クエスト「命の行方」クリア</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_528</key>
-    <text xml:space="preserve">Complete your first Quest Board kill quest</text>
+    <original xml:space="preserve">ボードクエスト（討伐）を初めてクリア</original>
+    <translation xml:space="preserve">Complete your first Quest Board kill quest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_529</key>
-    <text xml:space="preserve">Complete 30 Quest Board kill quests</text>
+    <original xml:space="preserve">ボードクエスト（討伐）を30回クリア</original>
+    <translation xml:space="preserve">Complete 30 Quest Board kill quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_530</key>
-    <text xml:space="preserve">Complete 100 Quest Board kill quests</text>
+    <original xml:space="preserve">ボードクエスト（討伐）を100回クリア</original>
+    <translation xml:space="preserve">Complete 100 Quest Board kill quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_531</key>
-    <text xml:space="preserve">Complete 300 Quest Board kill quests</text>
+    <original xml:space="preserve">ボードクエスト（討伐）を300回クリア</original>
+    <translation xml:space="preserve">Complete 300 Quest Board kill quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_532</key>
-    <text xml:space="preserve">Complete 600 Quest Board kill quests</text>
+    <original xml:space="preserve">ボードクエスト（討伐）を600回クリア</original>
+    <translation xml:space="preserve">Complete 600 Quest Board kill quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_533</key>
-    <text xml:space="preserve">Complete your first Quest Board delivery quest</text>
+    <original xml:space="preserve">ボードクエスト（納品）を初めてクリア</original>
+    <translation xml:space="preserve">Complete your first Quest Board delivery quest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_534</key>
-    <text xml:space="preserve">Complete 30 Quest Board delivery quests</text>
+    <original xml:space="preserve">ボードクエスト（納品）を30回クリア</original>
+    <translation xml:space="preserve">Complete 30 Quest Board delivery quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_535</key>
-    <text xml:space="preserve">Complete 100 Quest Board delivery quests</text>
+    <original xml:space="preserve">ボードクエスト（納品）を100回クリア</original>
+    <translation xml:space="preserve">Complete 100 Quest Board delivery quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_536</key>
-    <text xml:space="preserve">Complete 300 Quest Board delivery quests</text>
+    <original xml:space="preserve">ボードクエスト（納品）を300回クリア</original>
+    <translation xml:space="preserve">Complete 300 Quest Board delivery quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_537</key>
-    <text xml:space="preserve">Complete 600 Quest Board delivery quests</text>
+    <original xml:space="preserve">ボードクエスト（納品）を600回クリア</original>
+    <translation xml:space="preserve">Complete 600 Quest Board delivery quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_538</key>
-    <text xml:space="preserve">Complete your first （未公開）world quest</text>
+    <original xml:space="preserve">ワールドクエスト（未公開）を初めてクリア</original>
+    <translation xml:space="preserve">Complete your first （未公開）world quest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_539</key>
-    <text xml:space="preserve">Complete 10 （未公開） world quests</text>
+    <original xml:space="preserve">ワールドクエスト（未公開）を10回クリア</original>
+    <translation xml:space="preserve">Complete 10 （未公開） world quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_540</key>
-    <text xml:space="preserve">Complete 50 （未公開） world quests</text>
+    <original xml:space="preserve">ワールドクエスト（未公開）を50回クリア</original>
+    <translation xml:space="preserve">Complete 50 （未公開） world quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1292</key>
-    <text xml:space="preserve">Complete 100 （未公開） world quests</text>
+    <original xml:space="preserve">ワールドクエスト（未公開）を100回クリア</original>
+    <translation xml:space="preserve">Complete 100 （未公開） world quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_541</key>
-    <text xml:space="preserve">Complete your first （公開）world quest</text>
+    <original xml:space="preserve">ワールドクエスト（公開）を初めてクリア</original>
+    <translation xml:space="preserve">Complete your first （公開）world quest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_542</key>
-    <text xml:space="preserve">Complete 10 （公開） world quests</text>
+    <original xml:space="preserve">ワールドクエスト（公開）を10回クリア</original>
+    <translation xml:space="preserve">Complete 10 （公開） world quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_543</key>
-    <text xml:space="preserve">Complete 100 （公開） world quests</text>
+    <original xml:space="preserve">ワールドクエスト（公開）を100回クリア</original>
+    <translation xml:space="preserve">Complete 100 （公開） world quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_544</key>
-    <text xml:space="preserve">Complete 300 （公開） world quests</text>
+    <original xml:space="preserve">ワールドクエスト（公開）を300回クリア</original>
+    <translation xml:space="preserve">Complete 300 （公開） world quests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_582</key>
-    <text xml:space="preserve">Kill 100 total enemies</text>
+    <original xml:space="preserve">敵を総計100体討伐</original>
+    <translation xml:space="preserve">Kill 100 total enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_583</key>
-    <text xml:space="preserve">Kill 300 total enemies</text>
+    <original xml:space="preserve">敵を総計300体討伐</original>
+    <translation xml:space="preserve">Kill 300 total enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_584</key>
-    <text xml:space="preserve">Kill 1000 total enemies</text>
+    <original xml:space="preserve">敵を総計1000体討伐</original>
+    <translation xml:space="preserve">Kill 1000 total enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_585</key>
-    <text xml:space="preserve">Kill 10000 total enemies</text>
+    <original xml:space="preserve">敵を総計10000体討伐</original>
+    <translation xml:space="preserve">Kill 10000 total enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1295</key>
-    <text xml:space="preserve">Kill 20000 total enemies</text>
+    <original xml:space="preserve">敵を総計20000体討伐</original>
+    <translation xml:space="preserve">Kill 20000 total enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1296</key>
-    <text xml:space="preserve">Kill 30000 total enemies</text>
+    <original xml:space="preserve">敵を総計30000体討伐</original>
+    <translation xml:space="preserve">Kill 30000 total enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_590</key>
-    <text xml:space="preserve">Kill 50 《Goblin》 enemies</text>
+    <original xml:space="preserve">《ゴブリン》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《Goblin》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_591</key>
-    <text xml:space="preserve">Kill 200 《Goblin》 enemies</text>
+    <original xml:space="preserve">《ゴブリン》系エネミーを200体討伐</original>
+    <translation xml:space="preserve">Kill 200 《Goblin》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_592</key>
-    <text xml:space="preserve">Kill 500 《Goblin》 enemies</text>
+    <original xml:space="preserve">《ゴブリン》系エネミーを500体討伐</original>
+    <translation xml:space="preserve">Kill 500 《Goblin》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_608</key>
-    <text xml:space="preserve">Kill 30 《Hobgoblin》 enemies</text>
+    <original xml:space="preserve">《ホブゴブリン》系エネミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 《Hobgoblin》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_609</key>
-    <text xml:space="preserve">Kill 100 《Hobgoblin》 enemies</text>
+    <original xml:space="preserve">《ホブゴブリン》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Hobgoblin》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_610</key>
-    <text xml:space="preserve">Kill 300 《Hobgoblin》 enemies</text>
+    <original xml:space="preserve">《ホブゴブリン》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《Hobgoblin》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_863</key>
-    <text xml:space="preserve">Kill 50 《Forest Goblin》 enemies</text>
+    <original xml:space="preserve">《フォレストゴブリン》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《Forest Goblin》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_864</key>
-    <text xml:space="preserve">Kill 200 《Forest Goblin》 enemies</text>
+    <original xml:space="preserve">《フォレストゴブリン》系エネミーを200体討伐</original>
+    <translation xml:space="preserve">Kill 200 《Forest Goblin》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_865</key>
-    <text xml:space="preserve">Kill 500 《Forest Goblin》 enemies</text>
+    <original xml:space="preserve">《フォレストゴブリン》系エネミーを500体討伐</original>
+    <translation xml:space="preserve">Kill 500 《Forest Goblin》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_872</key>
-    <text xml:space="preserve">Kill 30 《Redcap》 enemies</text>
+    <original xml:space="preserve">《レッドキャップ》系エネミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 《Redcap》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_873</key>
-    <text xml:space="preserve">Kill 100 《Redcap》 enemies</text>
+    <original xml:space="preserve">《レッドキャップ》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Redcap》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_874</key>
-    <text xml:space="preserve">Kill 300 《Redcap》 enemies</text>
+    <original xml:space="preserve">《レッドキャップ》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《Redcap》 enemies</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_881</key>
+    <original xml:space="preserve">《錬魔ゴブリン》系エネミーを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_882</key>
+    <original xml:space="preserve">《錬魔ゴブリン》系エネミーを200体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_883</key>
+    <original xml:space="preserve">《錬魔ゴブリン》系エネミーを500体討伐</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_623</key>
-    <text xml:space="preserve">Kill 50 《Wolf》 enemies</text>
+    <original xml:space="preserve">《ウルフ》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《Wolf》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_624</key>
-    <text xml:space="preserve">Kill 200 《Wolf》 enemies</text>
+    <original xml:space="preserve">《ウルフ》系エネミーを200体討伐</original>
+    <translation xml:space="preserve">Kill 200 《Wolf》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_625</key>
-    <text xml:space="preserve">Kill 500 《Wolf》 enemies</text>
+    <original xml:space="preserve">《ウルフ》系エネミーを500体討伐</original>
+    <translation xml:space="preserve">Kill 500 《Wolf》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_629</key>
-    <text xml:space="preserve">Kill 50 Grim Wargs</text>
+    <original xml:space="preserve">グリムワーグを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 Grim Wargs</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_630</key>
-    <text xml:space="preserve">Kill 100 Grim Wargs</text>
+    <original xml:space="preserve">グリムワーグを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Grim Wargs</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_631</key>
-    <text xml:space="preserve">Kill 300 Grim Wargs</text>
+    <original xml:space="preserve">グリムワーグを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 Grim Wargs</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_635</key>
+    <original xml:space="preserve">《錬魔オオカミ》系エネミーを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_636</key>
+    <original xml:space="preserve">《錬魔オオカミ》系エネミーを100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_637</key>
+    <original xml:space="preserve">《錬魔オオカミ》系エネミーを300体討伐</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_641</key>
-    <text xml:space="preserve">Kill 50 《Skeleton》 enemies</text>
+    <original xml:space="preserve">《スケルトン》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《Skeleton》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_642</key>
-    <text xml:space="preserve">Kill 300 《Skeleton》 enemies</text>
+    <original xml:space="preserve">《スケルトン》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《Skeleton》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_643</key>
-    <text xml:space="preserve">Kill 1000 《Skeleton》 enemies</text>
+    <original xml:space="preserve">《スケルトン》系エネミーを1000体討伐</original>
+    <translation xml:space="preserve">Kill 1000 《Skeleton》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_668</key>
-    <text xml:space="preserve">Kill 30 Alchemic Skeletons</text>
+    <original xml:space="preserve">スケルトンアルケミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 Alchemic Skeletons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_669</key>
-    <text xml:space="preserve">Kill 100 Alchemic Skeletons</text>
+    <original xml:space="preserve">スケルトンアルケミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Alchemic Skeletons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_670</key>
-    <text xml:space="preserve">Kill 300 Alchemic Skeletons</text>
+    <original xml:space="preserve">スケルトンアルケミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 Alchemic Skeletons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_671</key>
-    <text xml:space="preserve">Kill 30 《Saurian》 enemies</text>
+    <original xml:space="preserve">《リザードマン》系エネミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 《Saurian》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_672</key>
-    <text xml:space="preserve">Kill 100 《Saurian》 enemies</text>
+    <original xml:space="preserve">《リザードマン》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Saurian》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_673</key>
-    <text xml:space="preserve">Kill 300 《Saurian》 enemies</text>
+    <original xml:space="preserve">《リザードマン》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《Saurian》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_677</key>
-    <text xml:space="preserve">Kill 30 《Sulfur Saurian》 enemies</text>
+    <original xml:space="preserve">《サルファーリザード》系エネミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 《Sulfur Saurian》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_678</key>
-    <text xml:space="preserve">Kill 100 《Sulfur Saurian》 enemies</text>
+    <original xml:space="preserve">《サルファーリザード》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Sulfur Saurian》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_679</key>
-    <text xml:space="preserve">Kill 300 《Sulfur Saurian》 enemies</text>
+    <original xml:space="preserve">《サルファーリザード》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《Sulfur Saurian》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_683</key>
-    <text xml:space="preserve">Kill 30 《Geo Saurian》 enemies</text>
+    <original xml:space="preserve">《ロックリザード》系エネミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 《Geo Saurian》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_684</key>
-    <text xml:space="preserve">Kill 100 《Geo Saurian》 enemies</text>
+    <original xml:space="preserve">《ロックリザード》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Geo Saurian》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_685</key>
-    <text xml:space="preserve">Kill 300 《Geo Saurian》 enemies</text>
+    <original xml:space="preserve">《ロックリザード》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《Geo Saurian》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_689</key>
-    <text xml:space="preserve">Kill 30 Blue Newts</text>
+    <original xml:space="preserve">ブルーニュートを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 Blue Newts</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_690</key>
-    <text xml:space="preserve">Kill 100 Blue Newts</text>
+    <original xml:space="preserve">ブルーニュートを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Blue Newts</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_691</key>
-    <text xml:space="preserve">Kill 300 Blue Newts</text>
+    <original xml:space="preserve">ブルーニュートを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 Blue Newts</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_692</key>
-    <text xml:space="preserve">Kill 50 《Undead》 enemies</text>
+    <original xml:space="preserve">《アンデッド》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《Undead》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_693</key>
-    <text xml:space="preserve">Kill 200 《Undead》 enemies</text>
+    <original xml:space="preserve">《アンデッド》系エネミーを200体討伐</original>
+    <translation xml:space="preserve">Kill 200 《Undead》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_694</key>
-    <text xml:space="preserve">Kill 500 《Undead》 enemies</text>
+    <original xml:space="preserve">《アンデッド》系エネミーを500体討伐</original>
+    <translation xml:space="preserve">Kill 500 《Undead》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_707</key>
-    <text xml:space="preserve">Kill 50 《Liquid Puppet》 enemies</text>
+    <original xml:space="preserve">《液状人形》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《Liquid Puppet》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_708</key>
-    <text xml:space="preserve">Kill 200 《Liquid Puppet》 enemies</text>
+    <original xml:space="preserve">《液状人形》系エネミーを200体討伐</original>
+    <translation xml:space="preserve">Kill 200 《Liquid Puppet》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_709</key>
-    <text xml:space="preserve">Kill 500 《Liquid Puppet》 enemies</text>
+    <original xml:space="preserve">《液状人形》系エネミーを500体討伐</original>
+    <translation xml:space="preserve">Kill 500 《Liquid Puppet》 enemies</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_713</key>
+    <original xml:space="preserve">《コープス》系エネミーを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_714</key>
+    <original xml:space="preserve">《コープス》系エネミーを100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_715</key>
+    <original xml:space="preserve">《コープス》系エネミーを300体討伐</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_719</key>
-    <text xml:space="preserve">Kill 50 《Harpy》 enemies</text>
+    <original xml:space="preserve">《ハーピー》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《Harpy》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_720</key>
-    <text xml:space="preserve">Kill 200 《Harpy》 enemies</text>
+    <original xml:space="preserve">《ハーピー》系エネミーを200体討伐</original>
+    <translation xml:space="preserve">Kill 200 《Harpy》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_721</key>
-    <text xml:space="preserve">Kill 500 《Harpy》 enemies</text>
+    <original xml:space="preserve">《ハーピー》系エネミーを500体討伐</original>
+    <translation xml:space="preserve">Kill 500 《Harpy》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_731</key>
-    <text xml:space="preserve">Kill 50 《地蟲》 enemies</text>
+    <original xml:space="preserve">《地蟲》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《地蟲》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_732</key>
-    <text xml:space="preserve">Kill 100 《地蟲》 enemies</text>
+    <original xml:space="preserve">《地蟲》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《地蟲》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_733</key>
-    <text xml:space="preserve">Kill 300 《地蟲》 enemies</text>
+    <original xml:space="preserve">《地蟲》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《地蟲》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_914</key>
-    <text xml:space="preserve">Kill 50 Killer Bees</text>
+    <original xml:space="preserve">キラービーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 Killer Bees</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_915</key>
-    <text xml:space="preserve">Kill 200 Killer Bees</text>
+    <original xml:space="preserve">キラービーを200体討伐</original>
+    <translation xml:space="preserve">Kill 200 Killer Bees</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_916</key>
-    <text xml:space="preserve">Kill 500 Killer Bees</text>
+    <original xml:space="preserve">キラービーを500体討伐</original>
+    <translation xml:space="preserve">Kill 500 Killer Bees</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_737</key>
-    <text xml:space="preserve">Kill 50 《Slime》 enemies</text>
+    <original xml:space="preserve">《スライム》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《Slime》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_738</key>
-    <text xml:space="preserve">Kill 100 《Slime》 enemies</text>
+    <original xml:space="preserve">《スライム》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Slime》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_739</key>
-    <text xml:space="preserve">Kill 300 《Slime》 enemies</text>
+    <original xml:space="preserve">《スライム》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《Slime》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_794</key>
-    <text xml:space="preserve">Kill 30 《Rogue》 enemies</text>
+    <original xml:space="preserve">《ローグ》系エネミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 《Rogue》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_795</key>
-    <text xml:space="preserve">Kill 100 《Rogue》 enemies</text>
+    <original xml:space="preserve">《ローグ》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Rogue》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_796</key>
-    <text xml:space="preserve">Kill 300 《Rogue》 enemies</text>
+    <original xml:space="preserve">《ローグ》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《Rogue》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_818</key>
-    <text xml:space="preserve">Kill 30 《ミストマン》 enemies</text>
+    <original xml:space="preserve">《ミストマン》系エネミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 《ミストマン》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_819</key>
-    <text xml:space="preserve">Kill 100 《ミストマン》 enemies</text>
+    <original xml:space="preserve">《ミストマン》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《ミストマン》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_820</key>
-    <text xml:space="preserve">Kill 300 《ミストマン》 enemies</text>
+    <original xml:space="preserve">《ミストマン》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《ミストマン》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_836</key>
-    <text xml:space="preserve">Kill 30 《Cursed Bone》 enemies</text>
+    <original xml:space="preserve">《呪縛ポーン》系エネミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 《Cursed Bone》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_837</key>
-    <text xml:space="preserve">Kill 100 《Cursed Bone》 enemies</text>
+    <original xml:space="preserve">《呪縛ポーン》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Cursed Bone》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_838</key>
-    <text xml:space="preserve">Kill 300 《Cursed Bone》 enemies</text>
+    <original xml:space="preserve">《呪縛ポーン》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《Cursed Bone》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_917</key>
-    <text xml:space="preserve">Kill 10 《Cyclops》 enemies</text>
+    <original xml:space="preserve">《サイクロプス》系エネミーを10体討伐</original>
+    <translation xml:space="preserve">Kill 10 《Cyclops》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_918</key>
-    <text xml:space="preserve">Kill 50 《Cyclops》 enemies</text>
+    <original xml:space="preserve">《サイクロプス》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《Cyclops》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_919</key>
-    <text xml:space="preserve">Kill 100 《Cyclops》 enemies</text>
+    <original xml:space="preserve">《サイクロプス》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Cyclops》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_929</key>
-    <text xml:space="preserve">Kill 10 Colossuses</text>
+    <original xml:space="preserve">コロッサスを10体討伐</original>
+    <translation xml:space="preserve">Kill 10 Colossuses</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_930</key>
-    <text xml:space="preserve">Kill 30 Colossuses</text>
+    <original xml:space="preserve">コロッサスを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 Colossuses</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_931</key>
-    <text xml:space="preserve">Kill 100 Colossuses</text>
+    <original xml:space="preserve">コロッサスを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Colossuses</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_935</key>
-    <text xml:space="preserve">Kill 10 Ents</text>
+    <original xml:space="preserve">エントを10体討伐</original>
+    <translation xml:space="preserve">Kill 10 Ents</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_936</key>
-    <text xml:space="preserve">Kill 30 Ents</text>
+    <original xml:space="preserve">エントを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 Ents</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_937</key>
-    <text xml:space="preserve">Kill 100 Ents</text>
+    <original xml:space="preserve">エントを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Ents</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1297</key>
+    <original xml:space="preserve">グランエントを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1298</key>
+    <original xml:space="preserve">グランエントを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1299</key>
+    <original xml:space="preserve">グランエントを100体討伐</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_938</key>
-    <text xml:space="preserve">Kill 30 《Troll》 enemies</text>
+    <original xml:space="preserve">《トロール》系エネミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 《Troll》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_939</key>
-    <text xml:space="preserve">Kill 30 《Troll》 enemies</text>
+    <original xml:space="preserve">《トロール》系エネミーを50体討伐</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Kill 30 《Troll》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_940</key>
-    <text xml:space="preserve">Kill 100 《Troll》 enemies</text>
+    <original xml:space="preserve">《トロール》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Troll》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_944</key>
-    <text xml:space="preserve">Kill 10 Golems</text>
+    <original xml:space="preserve">ゴーレムを10体討伐</original>
+    <translation xml:space="preserve">Kill 10 Golems</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_945</key>
-    <text xml:space="preserve">Kill 30 Golems</text>
+    <original xml:space="preserve">ゴーレムを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 Golems</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_946</key>
-    <text xml:space="preserve">Kill 100 Golems</text>
+    <original xml:space="preserve">ゴーレムを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Golems</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_956</key>
-    <text xml:space="preserve">Kill 10 Chimeras</text>
+    <original xml:space="preserve">キメラを10体討伐</original>
+    <translation xml:space="preserve">Kill 10 Chimeras</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_957</key>
-    <text xml:space="preserve">Kill 30 Chimeras</text>
+    <original xml:space="preserve">キメラを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 Chimeras</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_958</key>
-    <text xml:space="preserve">Kill 100 Chimeras</text>
+    <original xml:space="preserve">キメラを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Chimeras</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_959</key>
+    <original xml:space="preserve">ホワイトキメラを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_960</key>
+    <original xml:space="preserve">ホワイトキメラを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_961</key>
+    <original xml:space="preserve">ホワイトキメラを100体討伐</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_965</key>
-    <text xml:space="preserve">Kill 10 Griffins</text>
+    <original xml:space="preserve">グリフィンを10体討伐</original>
+    <translation xml:space="preserve">Kill 10 Griffins</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_966</key>
-    <text xml:space="preserve">Kill 30 Griffins</text>
+    <original xml:space="preserve">グリフィンを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 Griffins</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_967</key>
-    <text xml:space="preserve">Kill 100 Griffins</text>
+    <original xml:space="preserve">グリフィンを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Griffins</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_968</key>
+    <original xml:space="preserve">コカトリスを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_969</key>
+    <original xml:space="preserve">コカトリスを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_970</key>
+    <original xml:space="preserve">コカトリスを100体討伐</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_971</key>
-    <text xml:space="preserve">Kill 10 Sphinges</text>
+    <original xml:space="preserve">スフィンクスを10体討伐</original>
+    <translation xml:space="preserve">Kill 10 Sphinges</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_972</key>
-    <text xml:space="preserve">Kill 30 Sphinges</text>
+    <original xml:space="preserve">スフィンクスを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 Sphinges</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_973</key>
-    <text xml:space="preserve">Kill 100 Sphinges</text>
+    <original xml:space="preserve">スフィンクスを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Sphinges</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_998</key>
-    <text xml:space="preserve">Kill 20 Ogres</text>
+    <original xml:space="preserve">オーガを20体討伐</original>
+    <translation xml:space="preserve">Kill 20 Ogres</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_999</key>
-    <text xml:space="preserve">Kill 50 Ogres</text>
+    <original xml:space="preserve">オーガを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 Ogres</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1000</key>
-    <text xml:space="preserve">Kill 100 Ogres</text>
+    <original xml:space="preserve">オーガを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Ogres</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1001</key>
-    <text xml:space="preserve">Kill 30 《Ape》 enemies</text>
+    <original xml:space="preserve">《エイプ》系エネミーを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 《Ape》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1002</key>
-    <text xml:space="preserve">Kill 100 《Ape》 enemies</text>
+    <original xml:space="preserve">《エイプ》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Ape》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1003</key>
-    <text xml:space="preserve">Kill 200 《Ape》 enemies</text>
+    <original xml:space="preserve">《エイプ》系エネミーを200体討伐</original>
+    <translation xml:space="preserve">Kill 200 《Ape》 enemies</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1004</key>
+    <original xml:space="preserve">グールを20体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1005</key>
+    <original xml:space="preserve">グールを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1006</key>
+    <original xml:space="preserve">グールを100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1010</key>
+    <original xml:space="preserve">シルバーロアを20体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1011</key>
+    <original xml:space="preserve">シルバーロアを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1012</key>
+    <original xml:space="preserve">シルバーロアを100体討伐</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1013</key>
-    <text xml:space="preserve">Kill 20 Wights</text>
+    <original xml:space="preserve">ワイトを20体討伐</original>
+    <translation xml:space="preserve">Kill 20 Wights</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1014</key>
-    <text xml:space="preserve">Kill 50 Wights</text>
+    <original xml:space="preserve">ワイトを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 Wights</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1015</key>
-    <text xml:space="preserve">Kill 100 Wights</text>
+    <original xml:space="preserve">ワイトを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Wights</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1016</key>
+    <original xml:space="preserve">ウィッチを20体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1017</key>
+    <original xml:space="preserve">ウィッチを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1018</key>
+    <original xml:space="preserve">ウィッチを100体討伐</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1028</key>
-    <text xml:space="preserve">Kill 10 Lindwurms</text>
+    <original xml:space="preserve">リンドブルムを10体討伐</original>
+    <translation xml:space="preserve">Kill 10 Lindwurms</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1029</key>
-    <text xml:space="preserve">Kill 30 Lindwurms</text>
+    <original xml:space="preserve">リンドブルムを30体討伐</original>
+    <translation xml:space="preserve">Kill 30 Lindwurms</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1030</key>
-    <text xml:space="preserve">Kill 100 Lindwurms</text>
+    <original xml:space="preserve">リンドブルムを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Lindwurms</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1031</key>
+    <original xml:space="preserve">アングルスを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1032</key>
+    <original xml:space="preserve">アングルスを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1033</key>
+    <original xml:space="preserve">アングルスを100体討伐</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1034</key>
-    <text xml:space="preserve">Kill 10 Behemoths</text>
+    <original xml:space="preserve">ベヘモットを10体討伐</original>
+    <translation xml:space="preserve">Kill 10 Behemoths</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1035</key>
-    <text xml:space="preserve">Kill 50 Behemoths</text>
+    <original xml:space="preserve">ベヘモットを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 Behemoths</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1036</key>
-    <text xml:space="preserve">Kill 100 Behemoths</text>
+    <original xml:space="preserve">ベヘモットを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 Behemoths</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1043</key>
-    <text xml:space="preserve">Kill 10 《Orc》 enemies</text>
+    <original xml:space="preserve">《オーク》系エネミーを30体討伐</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Kill 10 《Orc》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1044</key>
-    <text xml:space="preserve">Kill 100 《Orc》 enemies</text>
+    <original xml:space="preserve">《オーク》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Orc》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1045</key>
-    <text xml:space="preserve">Kill 300 《Orc》 enemies</text>
+    <original xml:space="preserve">《オーク》系エネミーを300体討伐</original>
+    <translation xml:space="preserve">Kill 300 《Orc》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1061</key>
-    <text xml:space="preserve">Kill 20 《Orc Leader》 enemies</text>
+    <original xml:space="preserve">《リーダーオーク》系エネミーを20体討伐</original>
+    <translation xml:space="preserve">Kill 20 《Orc Leader》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1062</key>
-    <text xml:space="preserve">Kill 50 《Orc Leader》 enemies</text>
+    <original xml:space="preserve">《リーダーオーク》系エネミーを50体討伐</original>
+    <translation xml:space="preserve">Kill 50 《Orc Leader》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1063</key>
-    <text xml:space="preserve">Kill 100 《Orc Leader》 enemies</text>
+    <original xml:space="preserve">《リーダーオーク》系エネミーを100体討伐</original>
+    <translation xml:space="preserve">Kill 100 《Orc Leader》 enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1085</key>
-    <text xml:space="preserve">Kill 1 Elder Dragon</text>
+    <original xml:space="preserve">エルダードラゴンを1体討伐</original>
+    <translation xml:space="preserve">Kill 1 Elder Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1086</key>
-    <text xml:space="preserve">Kill 5 Elder Dragons</text>
+    <original xml:space="preserve">エルダードラゴンを5体討伐</original>
+    <translation xml:space="preserve">Kill 5 Elder Dragons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1087</key>
-    <text xml:space="preserve">Kill 10 Elder Dragons</text>
+    <original xml:space="preserve">エルダードラゴンを10体討伐</original>
+    <translation xml:space="preserve">Kill 10 Elder Dragons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1091</key>
-    <text xml:space="preserve">Get your first 体力値 upgrade by
-offering Blood Orbs to the White Dragon</text>
+    <original xml:space="preserve">白竜にブラッドオーブを捧げ
+覚者の体力値を初めて強化</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Get your first 体力値 upgrade by
+offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1092</key>
-    <text xml:space="preserve">Get your first 体力値 upgrade by
-offering Blood Orbs to the White Dragon</text>
+    <original xml:space="preserve">白竜にブラッドオーブを捧げ
+覚者の体力値を20回強化</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Get your first 体力値 upgrade by
+offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1093</key>
-    <text xml:space="preserve">Get your first stamina upgrade by
-offering Blood Orbs to the White Dragon</text>
+    <original xml:space="preserve">白竜にブラッドオーブを捧げ
+覚者のスタミナ値を初めて強化</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Get your first stamina upgrade by
+offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1094</key>
-    <text xml:space="preserve">Get your first stamina upgrade by
-offering Blood Orbs to the White Dragon</text>
+    <original xml:space="preserve">白竜にブラッドオーブを捧げ
+覚者のスタミナ値を28回強化</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Get your first stamina upgrade by
+offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1095</key>
-    <text xml:space="preserve">Get your first ability cost upgrade by
-offering Blood Orbs to the White Dragon</text>
+    <original xml:space="preserve">白竜にブラッドオーブを捧げ
+覚者のアビリティコストを初めて強化</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Get your first ability cost upgrade by
+offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1096</key>
-    <text xml:space="preserve">Get your first ability cost upgrade by
-offering Blood Orbs to the White Dragon</text>
+    <original xml:space="preserve">白竜にブラッドオーブを捧げ
+覚者のアビリティコストを12回強化</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Get your first ability cost upgrade by
+offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1097</key>
-    <text xml:space="preserve">Upgrade a main pawn for the first time
-by offering Blood Orbs to the White Dragon</text>
+    <original xml:space="preserve">白竜にブラッドオーブを捧げ
+メインポーン契約枠を初めて増加</original>
+    <translation xml:space="preserve">Upgrade a main pawn for the first time
+by offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1098</key>
-    <text xml:space="preserve">Upgrade a main pawn for the first time
-by offering Blood Orbs to the White Dragon</text>
+    <original xml:space="preserve">白竜にブラッドオーブを捧げ
+サポートポーン雇用枠を2回増加</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Upgrade a main pawn for the first time
+by offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1099</key>
-    <text xml:space="preserve">Reach level 10 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが
+10に到達</original>
+    <translation xml:space="preserve">Reach level 10 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1100</key>
-    <text xml:space="preserve">Reach level 40 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが
+40に到達</original>
+    <translation xml:space="preserve">Reach level 40 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1102</key>
-    <text xml:space="preserve">Reach level 10 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが
+10に到達</original>
+    <translation xml:space="preserve">Reach level 10 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1103</key>
-    <text xml:space="preserve">Reach level 40 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが
+40に到達</original>
+    <translation xml:space="preserve">Reach level 40 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1105</key>
-    <text xml:space="preserve">Reach level 10 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが
+10に到達</original>
+    <translation xml:space="preserve">Reach level 10 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1106</key>
-    <text xml:space="preserve">Reach level 40 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが
+40に到達</original>
+    <translation xml:space="preserve">Reach level 40 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1108</key>
-    <text xml:space="preserve">Reach level 10 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが
+10に到達</original>
+    <translation xml:space="preserve">Reach level 10 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1109</key>
-    <text xml:space="preserve">Reach level 40 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが
+40に到達</original>
+    <translation xml:space="preserve">Reach level 40 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1111</key>
-    <text xml:space="preserve">Reach level 10 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが
+10に到達</original>
+    <translation xml:space="preserve">Reach level 10 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1112</key>
-    <text xml:space="preserve">Reach level 40 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが
+40に到達</original>
+    <translation xml:space="preserve">Reach level 40 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1114</key>
-    <text xml:space="preserve">Reach level 10 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが
+10に到達</original>
+    <translation xml:space="preserve">Reach level 10 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1115</key>
-    <text xml:space="preserve">Reach level 40 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが
+40に到達</original>
+    <translation xml:space="preserve">Reach level 40 as a Sorcerer</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1117</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが
+10に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1118</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが
+40に到達</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1133</key>
-    <text xml:space="preserve">Acquire 10 custom skills in the job list</text>
+    <original xml:space="preserve">カスタムスキルを10回
+習得、またはレベルアップ</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Acquire 10 custom skills in the job list</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1134</key>
-    <text xml:space="preserve">Acquire 50 custom skills in the job list</text>
+    <original xml:space="preserve">カスタムスキルを50回
+習得、またはレベルアップ</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Acquire 50 custom skills in the job list</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1135</key>
-    <text xml:space="preserve">Acquire 100 custom skills in the job list</text>
+    <original xml:space="preserve">カスタムスキルを100回
+習得、またはレベルアップ</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Acquire 100 custom skills in the job list</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1136</key>
-    <text xml:space="preserve">Acquire 300 custom skills in the job list</text>
+    <original xml:space="preserve">カスタムスキルを300回
+習得、またはレベルアップ</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Acquire 300 custom skills in the job list</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1137</key>
-    <text xml:space="preserve">Acquire 10 abilities in the job list</text>
+    <original xml:space="preserve">アビリティを10回
+習得、またはレベルアップ</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Acquire 10 abilities in the job list</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1138</key>
-    <text xml:space="preserve">Acquire 100 abilities in the job list</text>
+    <original xml:space="preserve">アビリティを100回
+習得、またはレベルアップ</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Acquire 100 abilities in the job list</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1139</key>
-    <text xml:space="preserve">Acquire 300 abilities in the job list</text>
+    <original xml:space="preserve">アビリティを300回
+習得、またはレベルアップ</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Acquire 300 abilities in the job list</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1140</key>
-    <text xml:space="preserve">Acquire 500 abilities in the job list</text>
+    <original xml:space="preserve">アビリティを500回
+習得、またはレベルアップ</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Acquire 500 abilities in the job list</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1143</key>
-    <text xml:space="preserve">Hire your first support pawn</text>
+    <original xml:space="preserve">サポートポーンを初めて雇用</original>
+    <translation xml:space="preserve">Hire your first support pawn</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1144</key>
-    <text xml:space="preserve">Hire 30 support pawns</text>
+    <original xml:space="preserve">サポートポーンを累計30人雇用</original>
+    <translation xml:space="preserve">Hire 30 support pawns</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1145</key>
-    <text xml:space="preserve">Hire 100 support pawns</text>
+    <original xml:space="preserve">サポートポーンを累計100人雇用</original>
+    <translation xml:space="preserve">Hire 100 support pawns</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1146</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 10 as a Fighter</text>
+    <original xml:space="preserve">メインポーン（ファイター）の
+ジョブレベルが10に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 10 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1147</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 40 as a Fighter</text>
+    <original xml:space="preserve">メインポーン（ファイター）の
+ジョブレベルが40に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 40 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1149</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 10 as a Hunter</text>
+    <original xml:space="preserve">メインポーン（ハンター）の
+ジョブレベルが10に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 10 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1150</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 40 as a Hunter</text>
+    <original xml:space="preserve">メインポーン（ハンター）の
+ジョブレベルが40に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 40 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1152</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 10 as a Priest</text>
+    <original xml:space="preserve">メインポーン（プリースト）の
+ジョブレベルが10に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 10 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1153</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 40 as a Priest</text>
+    <original xml:space="preserve">メインポーン（プリースト）の
+ジョブレベルが40に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 40 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1155</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 10 as a Shield Sage</text>
+    <original xml:space="preserve">メインポーン（シールドセージ）の
+ジョブレベルが10に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 10 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1156</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 40 as a Shield Sage</text>
+    <original xml:space="preserve">メインポーン（シールドセージ）の
+ジョブレベルが40に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 40 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1158</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 10 as a Sorcerer</text>
+    <original xml:space="preserve">メインポーン（ソーサラー）の
+ジョブレベルが10に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 10 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1159</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 40 as a Sorcerer</text>
+    <original xml:space="preserve">メインポーン（ソーサラー）の
+ジョブレベルが40に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 40 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1161</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 10 as a Seeker</text>
+    <original xml:space="preserve">メインポーン（シーカー）の
+ジョブレベルが10に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 10 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1162</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 40 as a Seeker</text>
+    <original xml:space="preserve">メインポーン（シーカー）の
+ジョブレベルが40に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 40 as a Seeker</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1164</key>
+    <original xml:space="preserve">メインポーン（エレメントアーチャー）の
+ジョブレベルが10に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1165</key>
+    <original xml:space="preserve">メインポーン（エレメントアーチャー）の
+ジョブレベルが40に到達</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1173</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 5 in crafting</text>
+    <original xml:space="preserve">メインポーンのクラフトレベルが
+5に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 5 in crafting</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1174</key>
-    <text xml:space="preserve">Have a main pawn reach
-level 15 in crafting</text>
+    <original xml:space="preserve">メインポーンのクラフトレベルが
+15に到達</original>
+    <translation xml:space="preserve">Have a main pawn reach
+level 15 in crafting</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1176</key>
-    <text xml:space="preserve">Enhance the grade of a crafting level 8 item</text>
+    <original xml:space="preserve">メインポーンがクラフトレベル8の
+クラフト昇格試験に合格</original>
+    <translation xml:space="preserve">Enhance the grade of a crafting level 8 item</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1177</key>
-    <text xml:space="preserve">Enhance the grade of a crafting level 16 item</text>
+    <original xml:space="preserve">メインポーンがクラフトレベル16の
+クラフト昇格試験に合格</original>
+    <translation xml:space="preserve">Enhance the grade of a crafting level 16 item</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1228</key>
-    <text xml:space="preserve">Open 10 chests</text>
+    <original xml:space="preserve">宝箱を10個開く</original>
+    <translation xml:space="preserve">Open 10 chests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1229</key>
-    <text xml:space="preserve">Open 30 chests</text>
+    <original xml:space="preserve">宝箱を30個開く</original>
+    <translation xml:space="preserve">Open 30 chests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1230</key>
-    <text xml:space="preserve">Open 100 chests</text>
+    <original xml:space="preserve">宝箱を100個開く</original>
+    <translation xml:space="preserve">Open 100 chests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1231</key>
-    <text xml:space="preserve">Collect 10 bushes or thickets</text>
+    <original xml:space="preserve">茂み・草むらから10回採取</original>
+    <translation xml:space="preserve">Collect 10 bushes or thickets</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1232</key>
-    <text xml:space="preserve">Collect 30 bushes or thickets</text>
+    <original xml:space="preserve">茂み・草むらから30回採取</original>
+    <translation xml:space="preserve">Collect 30 bushes or thickets</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1233</key>
-    <text xml:space="preserve">Collect 100 bushes or thickets</text>
+    <original xml:space="preserve">茂み・草むらから100回採取</original>
+    <translation xml:space="preserve">Collect 100 bushes or thickets</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1234</key>
-    <text xml:space="preserve">Mine 10 veins</text>
+    <original xml:space="preserve">鉱脈を10回採掘</original>
+    <translation xml:space="preserve">Mine 10 veins</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1235</key>
-    <text xml:space="preserve">Mine 30 veins</text>
+    <original xml:space="preserve">鉱脈を30回採掘</original>
+    <translation xml:space="preserve">Mine 30 veins</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1236</key>
-    <text xml:space="preserve">Mine 100 veins</text>
+    <original xml:space="preserve">鉱脈を100回採掘</original>
+    <translation xml:space="preserve">Mine 100 veins</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1237</key>
-    <text xml:space="preserve">Log 10 fallen trees</text>
+    <original xml:space="preserve">倒木を10回伐採</original>
+    <translation xml:space="preserve">Log 10 fallen trees</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1238</key>
-    <text xml:space="preserve">Log 30 fallen trees</text>
+    <original xml:space="preserve">倒木を30回伐採</original>
+    <translation xml:space="preserve">Log 30 fallen trees</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1239</key>
-    <text xml:space="preserve">Log 100 fallen trees</text>
+    <original xml:space="preserve">倒木を100回伐採</original>
+    <translation xml:space="preserve">Log 100 fallen trees</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1243</key>
-    <text xml:space="preserve">Craft your first weapon</text>
+    <original xml:space="preserve">クラフトにより武器を初めて作成</original>
+    <translation xml:space="preserve">Craft your first weapon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1244</key>
-    <text xml:space="preserve">Craft 30 weapons</text>
+    <original xml:space="preserve">クラフトにより武器を30回作成</original>
+    <translation xml:space="preserve">Craft 30 weapons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1245</key>
-    <text xml:space="preserve">Craft 100 weapons</text>
+    <original xml:space="preserve">クラフトにより武器を100回作成</original>
+    <translation xml:space="preserve">Craft 100 weapons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1246</key>
-    <text xml:space="preserve">Craft 300 weapons</text>
+    <original xml:space="preserve">クラフトにより武器を300回作成</original>
+    <translation xml:space="preserve">Craft 300 weapons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1247</key>
-    <text xml:space="preserve">Craft your first piece of armor</text>
+    <original xml:space="preserve">クラフトにより防具を初めて作成</original>
+    <translation xml:space="preserve">Craft your first piece of armor</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1248</key>
-    <text xml:space="preserve">Craft 30 pieces of armor</text>
+    <original xml:space="preserve">クラフトにより防具を30回作成</original>
+    <translation xml:space="preserve">Craft 30 pieces of armor</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1249</key>
-    <text xml:space="preserve">Craft 100 pieces of armor</text>
+    <original xml:space="preserve">クラフトにより防具を100回作成</original>
+    <translation xml:space="preserve">Craft 100 pieces of armor</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1250</key>
-    <text xml:space="preserve">Craft 300 pieces of armor</text>
+    <original xml:space="preserve">クラフトにより防具を300回作成</original>
+    <translation xml:space="preserve">Craft 300 pieces of armor</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1251</key>
-    <text xml:space="preserve">Craft your first tool or raw material</text>
+    <original xml:space="preserve">クラフトにより道具・素材を初めて作成</original>
+    <translation xml:space="preserve">Craft your first tool or raw material</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1252</key>
-    <text xml:space="preserve">Craft 30 tools or raw materials</text>
+    <original xml:space="preserve">クラフトにより道具・素材を30回作成</original>
+    <translation xml:space="preserve">Craft 30 tools or raw materials</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1253</key>
-    <text xml:space="preserve">Craft 100 tools or raw materials</text>
+    <original xml:space="preserve">クラフトにより道具・素材を100回作成</original>
+    <translation xml:space="preserve">Craft 100 tools or raw materials</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1254</key>
-    <text xml:space="preserve">Craft 10 different weapons</text>
+    <original xml:space="preserve">クラフトにより武器を10種作成</original>
+    <translation xml:space="preserve">Craft 10 different weapons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1255</key>
-    <text xml:space="preserve">Craft 100 different weapons</text>
+    <original xml:space="preserve">クラフトにより武器を100種作成</original>
+    <translation xml:space="preserve">Craft 100 different weapons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1256</key>
-    <text xml:space="preserve">Craft 200 different weapons</text>
+    <original xml:space="preserve">クラフトにより武器を200種作成</original>
+    <translation xml:space="preserve">Craft 200 different weapons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1258</key>
-    <text xml:space="preserve">Craft 30 different pieces of armor</text>
+    <original xml:space="preserve">クラフトにより防具を30種作成</original>
+    <translation xml:space="preserve">Craft 30 different pieces of armor</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1259</key>
-    <text xml:space="preserve">Craft 100 different pieces of armor</text>
+    <original xml:space="preserve">クラフトにより防具を100種作成</original>
+    <translation xml:space="preserve">Craft 100 different pieces of armor</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1260</key>
-    <text xml:space="preserve">Craft 300 different pieces of armor</text>
+    <original xml:space="preserve">クラフトにより防具を300種作成</original>
+    <translation xml:space="preserve">Craft 300 different pieces of armor</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1261</key>
+    <original xml:space="preserve">クラフトにより防具を500種作成</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1262</key>
-    <text xml:space="preserve">Enhance an item to grade 2</text>
+    <original xml:space="preserve">クラフトでグレード(★2)の強化に初めて成功</original>
+    <translation xml:space="preserve">Enhance an item to grade 2</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1263</key>
-    <text xml:space="preserve">Enhance 10 items to grade 2</text>
+    <original xml:space="preserve">クラフトでグレード(★2)の強化に10回成功</original>
+    <translation xml:space="preserve">Enhance 10 items to grade 2</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1264</key>
-    <text xml:space="preserve">Enhance an item to grade 3</text>
+    <original xml:space="preserve">クラフトでグレード(★3)の強化に初めて成功</original>
+    <translation xml:space="preserve">Enhance an item to grade 3</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1265</key>
-    <text xml:space="preserve">Enhance 10 items to grade 3</text>
+    <original xml:space="preserve">クラフトでグレード(★3)の強化に10回成功</original>
+    <translation xml:space="preserve">Enhance 10 items to grade 3</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1266</key>
-    <text xml:space="preserve">Enhance an item to grade 4</text>
+    <original xml:space="preserve">クラフトでグレード(★4)の強化に初めて成功</original>
+    <translation xml:space="preserve">Enhance an item to grade 4</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1267</key>
-    <text xml:space="preserve">Enhance 10 items to grade 4</text>
+    <original xml:space="preserve">クラフトでグレード(★4)の強化に10回成功</original>
+    <translation xml:space="preserve">Enhance 10 items to grade 4</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1276</key>
-    <text xml:space="preserve">Install your first crest</text>
+    <original xml:space="preserve">クラフトによりクレストを初めて装着</original>
+    <translation xml:space="preserve">Install your first crest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1277</key>
-    <text xml:space="preserve">Install 100 crests</text>
+    <original xml:space="preserve">クラフトによりクレストを100回装着</original>
+    <translation xml:space="preserve">Install 100 crests</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1278</key>
-    <text xml:space="preserve">Change the color on a piece of equipment</text>
+    <original xml:space="preserve">クラフトにより装備のカラーを初めて変更</original>
+    <translation xml:space="preserve">Change the color on a piece of equipment</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1279</key>
-    <text xml:space="preserve">Change the color on 100 pieces of equipment</text>
+    <original xml:space="preserve">クラフトにより装備のカラーを100回変更</original>
+    <translation xml:space="preserve">Change the color on 100 pieces of equipment</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1073</key>
-    <text xml:space="preserve">Hunt 5 rabbits</text>
+    <original xml:space="preserve">ウサギを5体狩猟</original>
+    <translation xml:space="preserve">Hunt 5 rabbits</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1845</key>
-    <text xml:space="preserve">Hunt 10 rabbits</text>
+    <original xml:space="preserve">ウサギを10体狩猟</original>
+    <translation xml:space="preserve">Hunt 10 rabbits</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1846</key>
-    <text xml:space="preserve">Hunt 20 rabbits</text>
+    <original xml:space="preserve">ウサギを20体狩猟</original>
+    <translation xml:space="preserve">Hunt 20 rabbits</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1847</key>
-    <text xml:space="preserve">Hunt 50 rabbits</text>
+    <original xml:space="preserve">ウサギを50体狩猟</original>
+    <translation xml:space="preserve">Hunt 50 rabbits</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1848</key>
-    <text xml:space="preserve">Hunt 100 rabbits</text>
+    <original xml:space="preserve">ウサギを100体狩猟</original>
+    <translation xml:space="preserve">Hunt 100 rabbits</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1074</key>
-    <text xml:space="preserve">Hunt 5 oxen</text>
+    <original xml:space="preserve">牛を5体狩猟</original>
+    <translation xml:space="preserve">Hunt 5 oxen</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1922</key>
-    <text xml:space="preserve">Hunt 10 oxen</text>
+    <original xml:space="preserve">牛を10体狩猟</original>
+    <translation xml:space="preserve">Hunt 10 oxen</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1923</key>
-    <text xml:space="preserve">Hunt 20 oxen</text>
+    <original xml:space="preserve">牛を20体狩猟</original>
+    <translation xml:space="preserve">Hunt 20 oxen</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1924</key>
-    <text xml:space="preserve">Hunt 50 oxen</text>
+    <original xml:space="preserve">牛を50体狩猟</original>
+    <translation xml:space="preserve">Hunt 50 oxen</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1925</key>
-    <text xml:space="preserve">Hunt 100 oxen</text>
+    <original xml:space="preserve">牛を100体狩猟</original>
+    <translation xml:space="preserve">Hunt 100 oxen</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1076</key>
-    <text xml:space="preserve">Hunt 5 《deer》 animals</text>
+    <original xml:space="preserve">《シカ》系動物を5体狩猟</original>
+    <translation xml:space="preserve">Hunt 5 《deer》 animals</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1926</key>
-    <text xml:space="preserve">Hunt 10 《deer》 animals</text>
+    <original xml:space="preserve">《シカ》系動物を10体狩猟</original>
+    <translation xml:space="preserve">Hunt 10 《deer》 animals</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1927</key>
-    <text xml:space="preserve">Hunt 20 《deer》 animals</text>
+    <original xml:space="preserve">《シカ》系動物を20体狩猟</original>
+    <translation xml:space="preserve">Hunt 20 《deer》 animals</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1928</key>
-    <text xml:space="preserve">Hunt 50 《deer》 animals</text>
+    <original xml:space="preserve">《シカ》系動物を50体狩猟</original>
+    <translation xml:space="preserve">Hunt 50 《deer》 animals</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1929</key>
-    <text xml:space="preserve">Hunt 100 《deer》 animals</text>
+    <original xml:space="preserve">《シカ》系動物を100体狩猟</original>
+    <translation xml:space="preserve">Hunt 100 《deer》 animals</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1077</key>
-    <text xml:space="preserve">Hunt 5 《pig》 animals</text>
+    <original xml:space="preserve">《ブタ》系動物を5体狩猟</original>
+    <translation xml:space="preserve">Hunt 5 《pig》 animals</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1930</key>
-    <text xml:space="preserve">Hunt 10 《pig》 animals</text>
+    <original xml:space="preserve">《ブタ》系動物を10体狩猟</original>
+    <translation xml:space="preserve">Hunt 10 《pig》 animals</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1931</key>
-    <text xml:space="preserve">Hunt 20 《pig》 animals</text>
+    <original xml:space="preserve">《ブタ》系動物を20体狩猟</original>
+    <translation xml:space="preserve">Hunt 20 《pig》 animals</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1932</key>
-    <text xml:space="preserve">Hunt 50 《pig》 animals</text>
+    <original xml:space="preserve">《ブタ》系動物を50体狩猟</original>
+    <translation xml:space="preserve">Hunt 50 《pig》 animals</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1933</key>
-    <text xml:space="preserve">Hunt 100 《pig》 animals</text>
+    <original xml:space="preserve">《ブタ》系動物を100体狩猟</original>
+    <translation xml:space="preserve">Hunt 100 《pig》 animals</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1079</key>
-    <text xml:space="preserve">Hunt 5 カブトグモ</text>
+    <original xml:space="preserve">カブトグモを5体狩猟</original>
+    <translation xml:space="preserve">Hunt 5 カブトグモ</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1934</key>
-    <text xml:space="preserve">Hunt 10 カブトグモ</text>
+    <original xml:space="preserve">カブトグモを10体狩猟</original>
+    <translation xml:space="preserve">Hunt 10 カブトグモ</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1935</key>
-    <text xml:space="preserve">Hunt 20 カブトグモ</text>
+    <original xml:space="preserve">カブトグモを20体狩猟</original>
+    <translation xml:space="preserve">Hunt 20 カブトグモ</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1936</key>
-    <text xml:space="preserve">Hunt 50 カブトグモ</text>
+    <original xml:space="preserve">カブトグモを50体狩猟</original>
+    <translation xml:space="preserve">Hunt 50 カブトグモ</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1937</key>
-    <text xml:space="preserve">Hunt 100 カブトグモ</text>
+    <original xml:space="preserve">カブトグモを100体狩猟</original>
+    <translation xml:space="preserve">Hunt 100 カブトグモ</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1081</key>
-    <text xml:space="preserve">Hunt 5 giant rats</text>
+    <original xml:space="preserve">オオネズミを5体狩猟</original>
+    <translation xml:space="preserve">Hunt 5 giant rats</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1938</key>
-    <text xml:space="preserve">Hunt 10 giant rats</text>
+    <original xml:space="preserve">オオネズミを10体狩猟</original>
+    <translation xml:space="preserve">Hunt 10 giant rats</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1939</key>
-    <text xml:space="preserve">Hunt 20 giant rats</text>
+    <original xml:space="preserve">オオネズミを20体狩猟</original>
+    <translation xml:space="preserve">Hunt 20 giant rats</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1940</key>
-    <text xml:space="preserve">Hunt 50 giant rats</text>
+    <original xml:space="preserve">オオネズミを50体狩猟</original>
+    <translation xml:space="preserve">Hunt 50 giant rats</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1941</key>
-    <text xml:space="preserve">Hunt 100 giant rats</text>
+    <original xml:space="preserve">オオネズミを100体狩猟</original>
+    <translation xml:space="preserve">Hunt 100 giant rats</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1291</key>
-    <text xml:space="preserve">Take 100 photos in Photo Mode</text>
+    <original xml:space="preserve">フォトモードで100回撮影</original>
+    <translation xml:space="preserve">Take 100 photos in Photo Mode</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1312</key>
-    <text xml:space="preserve">Reach level 2 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが2になった</original>
+    <translation xml:space="preserve">Reach level 2 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1313</key>
-    <text xml:space="preserve">Reach level 3 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが3になった</original>
+    <translation xml:space="preserve">Reach level 3 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1314</key>
-    <text xml:space="preserve">Reach level 4 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが4になった</original>
+    <translation xml:space="preserve">Reach level 4 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1315</key>
-    <text xml:space="preserve">Reach level 5 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが5になった</original>
+    <translation xml:space="preserve">Reach level 5 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1316</key>
-    <text xml:space="preserve">Reach level 6 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが6になった</original>
+    <translation xml:space="preserve">Reach level 6 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1317</key>
-    <text xml:space="preserve">Reach level 7 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが7になった</original>
+    <translation xml:space="preserve">Reach level 7 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1318</key>
-    <text xml:space="preserve">Reach level 8 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが8になった</original>
+    <translation xml:space="preserve">Reach level 8 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1319</key>
-    <text xml:space="preserve">Reach level 9 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが9になった</original>
+    <translation xml:space="preserve">Reach level 9 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1320</key>
-    <text xml:space="preserve">Reach level 10 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが10になった</original>
+    <translation xml:space="preserve">Reach level 10 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1321</key>
-    <text xml:space="preserve">Reach level 11 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが11になった</original>
+    <translation xml:space="preserve">Reach level 11 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1322</key>
-    <text xml:space="preserve">Reach level 12 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが12になった</original>
+    <translation xml:space="preserve">Reach level 12 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1323</key>
-    <text xml:space="preserve">Reach level 13 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが13になった</original>
+    <translation xml:space="preserve">Reach level 13 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1324</key>
-    <text xml:space="preserve">Reach level 14 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが14になった</original>
+    <translation xml:space="preserve">Reach level 14 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1325</key>
-    <text xml:space="preserve">Reach level 15 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが15になった</original>
+    <translation xml:space="preserve">Reach level 15 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1326</key>
-    <text xml:space="preserve">Reach level 16 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが16になった</original>
+    <translation xml:space="preserve">Reach level 16 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1327</key>
-    <text xml:space="preserve">Reach level 17 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが17になった</original>
+    <translation xml:space="preserve">Reach level 17 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1328</key>
-    <text xml:space="preserve">Reach level 18 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが18になった</original>
+    <translation xml:space="preserve">Reach level 18 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1329</key>
-    <text xml:space="preserve">Reach level 19 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが19になった</original>
+    <translation xml:space="preserve">Reach level 19 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1330</key>
-    <text xml:space="preserve">Reach level 20 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが20になった</original>
+    <translation xml:space="preserve">Reach level 20 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1331</key>
-    <text xml:space="preserve">Reach level 21 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが21になった</original>
+    <translation xml:space="preserve">Reach level 21 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1332</key>
-    <text xml:space="preserve">Reach level 22 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが22になった</original>
+    <translation xml:space="preserve">Reach level 22 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1333</key>
-    <text xml:space="preserve">Reach level 23 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが23になった</original>
+    <translation xml:space="preserve">Reach level 23 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1334</key>
-    <text xml:space="preserve">Reach level 24 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが24になった</original>
+    <translation xml:space="preserve">Reach level 24 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1335</key>
-    <text xml:space="preserve">Reach level 25 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが25になった</original>
+    <translation xml:space="preserve">Reach level 25 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1336</key>
-    <text xml:space="preserve">Reach level 26 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが26になった</original>
+    <translation xml:space="preserve">Reach level 26 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1337</key>
-    <text xml:space="preserve">Reach level 27 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが27になった</original>
+    <translation xml:space="preserve">Reach level 27 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1338</key>
-    <text xml:space="preserve">Reach level 28 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが28になった</original>
+    <translation xml:space="preserve">Reach level 28 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1339</key>
-    <text xml:space="preserve">Reach level 29 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが29になった</original>
+    <translation xml:space="preserve">Reach level 29 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1340</key>
-    <text xml:space="preserve">Reach level 30 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが30になった</original>
+    <translation xml:space="preserve">Reach level 30 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1341</key>
-    <text xml:space="preserve">Reach level 31 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが31になった</original>
+    <translation xml:space="preserve">Reach level 31 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1342</key>
-    <text xml:space="preserve">Reach level 32 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが32になった</original>
+    <translation xml:space="preserve">Reach level 32 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1343</key>
-    <text xml:space="preserve">Reach level 33 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが33になった</original>
+    <translation xml:space="preserve">Reach level 33 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1344</key>
-    <text xml:space="preserve">Reach level 34 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが34になった</original>
+    <translation xml:space="preserve">Reach level 34 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1345</key>
-    <text xml:space="preserve">Reach level 35 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが35になった</original>
+    <translation xml:space="preserve">Reach level 35 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1346</key>
-    <text xml:space="preserve">Reach level 36 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが36になった</original>
+    <translation xml:space="preserve">Reach level 36 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1347</key>
-    <text xml:space="preserve">Reach level 37 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが37になった</original>
+    <translation xml:space="preserve">Reach level 37 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1348</key>
-    <text xml:space="preserve">Reach level 38 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが38になった</original>
+    <translation xml:space="preserve">Reach level 38 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1349</key>
-    <text xml:space="preserve">Reach level 39 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが39になった</original>
+    <translation xml:space="preserve">Reach level 39 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1350</key>
-    <text xml:space="preserve">Reach level 40 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが40になった</original>
+    <translation xml:space="preserve">Reach level 40 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1351</key>
-    <text xml:space="preserve">Reach level 41 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが41になった</original>
+    <translation xml:space="preserve">Reach level 41 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1352</key>
-    <text xml:space="preserve">Reach level 42 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが42になった</original>
+    <translation xml:space="preserve">Reach level 42 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1353</key>
-    <text xml:space="preserve">Reach level 43 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが43になった</original>
+    <translation xml:space="preserve">Reach level 43 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1354</key>
-    <text xml:space="preserve">Reach level 44 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが44になった</original>
+    <translation xml:space="preserve">Reach level 44 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1355</key>
-    <text xml:space="preserve">Reach level 45 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが45になった</original>
+    <translation xml:space="preserve">Reach level 45 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1356</key>
-    <text xml:space="preserve">Reach level 46 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが46になった</original>
+    <translation xml:space="preserve">Reach level 46 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1357</key>
-    <text xml:space="preserve">Reach level 47 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが47になった</original>
+    <translation xml:space="preserve">Reach level 47 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1358</key>
-    <text xml:space="preserve">Reach level 48 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが48になった</original>
+    <translation xml:space="preserve">Reach level 48 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1359</key>
-    <text xml:space="preserve">Reach level 49 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが49になった</original>
+    <translation xml:space="preserve">Reach level 49 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1360</key>
-    <text xml:space="preserve">Reach level 50 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが50になった</original>
+    <translation xml:space="preserve">Reach level 50 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1361</key>
-    <text xml:space="preserve">Reach level 51 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが51になった</original>
+    <translation xml:space="preserve">Reach level 51 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1362</key>
-    <text xml:space="preserve">Reach level 52 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが52になった</original>
+    <translation xml:space="preserve">Reach level 52 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1363</key>
-    <text xml:space="preserve">Reach level 53 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが53になった</original>
+    <translation xml:space="preserve">Reach level 53 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1364</key>
-    <text xml:space="preserve">Reach level 54 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが54になった</original>
+    <translation xml:space="preserve">Reach level 54 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1365</key>
-    <text xml:space="preserve">Reach level 55 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが55になった</original>
+    <translation xml:space="preserve">Reach level 55 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1366</key>
-    <text xml:space="preserve">Reach level 56 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが56になった</original>
+    <translation xml:space="preserve">Reach level 56 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1367</key>
-    <text xml:space="preserve">Reach level 57 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが57になった</original>
+    <translation xml:space="preserve">Reach level 57 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1368</key>
-    <text xml:space="preserve">Reach level 58 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが58になった</original>
+    <translation xml:space="preserve">Reach level 58 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1369</key>
-    <text xml:space="preserve">Reach level 59 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが59になった</original>
+    <translation xml:space="preserve">Reach level 59 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1370</key>
-    <text xml:space="preserve">Reach level 60 as a Fighter</text>
+    <original xml:space="preserve">ファイターのジョブレベルが60になった</original>
+    <translation xml:space="preserve">Reach level 60 as a Fighter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1607</key>
-    <text xml:space="preserve">Reach level 2 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが2になった</original>
+    <translation xml:space="preserve">Reach level 2 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1608</key>
-    <text xml:space="preserve">Reach level 3 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが3になった</original>
+    <translation xml:space="preserve">Reach level 3 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1609</key>
-    <text xml:space="preserve">Reach level 4 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが4になった</original>
+    <translation xml:space="preserve">Reach level 4 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1610</key>
-    <text xml:space="preserve">Reach level 5 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが5になった</original>
+    <translation xml:space="preserve">Reach level 5 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1611</key>
-    <text xml:space="preserve">Reach level 6 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが6になった</original>
+    <translation xml:space="preserve">Reach level 6 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1612</key>
-    <text xml:space="preserve">Reach level 7 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが7になった</original>
+    <translation xml:space="preserve">Reach level 7 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1613</key>
-    <text xml:space="preserve">Reach level 8 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが8になった</original>
+    <translation xml:space="preserve">Reach level 8 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1614</key>
-    <text xml:space="preserve">Reach level 9 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが9になった</original>
+    <translation xml:space="preserve">Reach level 9 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1615</key>
-    <text xml:space="preserve">Reach level 10 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが10になった</original>
+    <translation xml:space="preserve">Reach level 10 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1616</key>
-    <text xml:space="preserve">Reach level 11 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが11になった</original>
+    <translation xml:space="preserve">Reach level 11 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1617</key>
-    <text xml:space="preserve">Reach level 12 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが12になった</original>
+    <translation xml:space="preserve">Reach level 12 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1618</key>
-    <text xml:space="preserve">Reach level 13 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが13になった</original>
+    <translation xml:space="preserve">Reach level 13 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1619</key>
-    <text xml:space="preserve">Reach level 14 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが14になった</original>
+    <translation xml:space="preserve">Reach level 14 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1620</key>
-    <text xml:space="preserve">Reach level 15 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが15になった</original>
+    <translation xml:space="preserve">Reach level 15 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1621</key>
-    <text xml:space="preserve">Reach level 16 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが16になった</original>
+    <translation xml:space="preserve">Reach level 16 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1622</key>
-    <text xml:space="preserve">Reach level 17 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが17になった</original>
+    <translation xml:space="preserve">Reach level 17 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1623</key>
-    <text xml:space="preserve">Reach level 18 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが18になった</original>
+    <translation xml:space="preserve">Reach level 18 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1624</key>
-    <text xml:space="preserve">Reach level 19 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが19になった</original>
+    <translation xml:space="preserve">Reach level 19 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1625</key>
-    <text xml:space="preserve">Reach level 20 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが20になった</original>
+    <translation xml:space="preserve">Reach level 20 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1626</key>
-    <text xml:space="preserve">Reach level 21 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが21になった</original>
+    <translation xml:space="preserve">Reach level 21 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1627</key>
-    <text xml:space="preserve">Reach level 22 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが22になった</original>
+    <translation xml:space="preserve">Reach level 22 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1628</key>
-    <text xml:space="preserve">Reach level 23 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが23になった</original>
+    <translation xml:space="preserve">Reach level 23 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1629</key>
-    <text xml:space="preserve">Reach level 24 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが24になった</original>
+    <translation xml:space="preserve">Reach level 24 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1630</key>
-    <text xml:space="preserve">Reach level 25 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが25になった</original>
+    <translation xml:space="preserve">Reach level 25 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1631</key>
-    <text xml:space="preserve">Reach level 26 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが26になった</original>
+    <translation xml:space="preserve">Reach level 26 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1632</key>
-    <text xml:space="preserve">Reach level 27 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが27になった</original>
+    <translation xml:space="preserve">Reach level 27 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1633</key>
-    <text xml:space="preserve">Reach level 28 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが28になった</original>
+    <translation xml:space="preserve">Reach level 28 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1634</key>
-    <text xml:space="preserve">Reach level 29 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが29になった</original>
+    <translation xml:space="preserve">Reach level 29 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1635</key>
-    <text xml:space="preserve">Reach level 30 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが30になった</original>
+    <translation xml:space="preserve">Reach level 30 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1636</key>
-    <text xml:space="preserve">Reach level 31 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが31になった</original>
+    <translation xml:space="preserve">Reach level 31 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1637</key>
-    <text xml:space="preserve">Reach level 32 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが32になった</original>
+    <translation xml:space="preserve">Reach level 32 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1638</key>
-    <text xml:space="preserve">Reach level 33 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが33になった</original>
+    <translation xml:space="preserve">Reach level 33 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1639</key>
-    <text xml:space="preserve">Reach level 34 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが34になった</original>
+    <translation xml:space="preserve">Reach level 34 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1640</key>
-    <text xml:space="preserve">Reach level 35 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが35になった</original>
+    <translation xml:space="preserve">Reach level 35 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1641</key>
-    <text xml:space="preserve">Reach level 36 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが36になった</original>
+    <translation xml:space="preserve">Reach level 36 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1642</key>
-    <text xml:space="preserve">Reach level 37 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが37になった</original>
+    <translation xml:space="preserve">Reach level 37 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1643</key>
-    <text xml:space="preserve">Reach level 38 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが38になった</original>
+    <translation xml:space="preserve">Reach level 38 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1644</key>
-    <text xml:space="preserve">Reach level 39 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが39になった</original>
+    <translation xml:space="preserve">Reach level 39 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1645</key>
-    <text xml:space="preserve">Reach level 40 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが40になった</original>
+    <translation xml:space="preserve">Reach level 40 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1646</key>
-    <text xml:space="preserve">Reach level 41 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが41になった</original>
+    <translation xml:space="preserve">Reach level 41 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1647</key>
-    <text xml:space="preserve">Reach level 42 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが42になった</original>
+    <translation xml:space="preserve">Reach level 42 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1648</key>
-    <text xml:space="preserve">Reach level 43 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが43になった</original>
+    <translation xml:space="preserve">Reach level 43 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1649</key>
-    <text xml:space="preserve">Reach level 44 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが44になった</original>
+    <translation xml:space="preserve">Reach level 44 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1650</key>
-    <text xml:space="preserve">Reach level 45 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが45になった</original>
+    <translation xml:space="preserve">Reach level 45 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1651</key>
-    <text xml:space="preserve">Reach level 46 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが46になった</original>
+    <translation xml:space="preserve">Reach level 46 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1652</key>
-    <text xml:space="preserve">Reach level 47 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが47になった</original>
+    <translation xml:space="preserve">Reach level 47 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1653</key>
-    <text xml:space="preserve">Reach level 48 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが48になった</original>
+    <translation xml:space="preserve">Reach level 48 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1654</key>
-    <text xml:space="preserve">Reach level 49 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが49になった</original>
+    <translation xml:space="preserve">Reach level 49 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1655</key>
-    <text xml:space="preserve">Reach level 50 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが50になった</original>
+    <translation xml:space="preserve">Reach level 50 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1656</key>
-    <text xml:space="preserve">Reach level 51 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが51になった</original>
+    <translation xml:space="preserve">Reach level 51 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1657</key>
-    <text xml:space="preserve">Reach level 52 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが52になった</original>
+    <translation xml:space="preserve">Reach level 52 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1658</key>
-    <text xml:space="preserve">Reach level 53 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが53になった</original>
+    <translation xml:space="preserve">Reach level 53 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1659</key>
-    <text xml:space="preserve">Reach level 54 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが54になった</original>
+    <translation xml:space="preserve">Reach level 54 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1660</key>
-    <text xml:space="preserve">Reach level 55 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが55になった</original>
+    <translation xml:space="preserve">Reach level 55 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1661</key>
-    <text xml:space="preserve">Reach level 56 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが56になった</original>
+    <translation xml:space="preserve">Reach level 56 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1662</key>
-    <text xml:space="preserve">Reach level 57 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが57になった</original>
+    <translation xml:space="preserve">Reach level 57 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1663</key>
-    <text xml:space="preserve">Reach level 58 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが58になった</original>
+    <translation xml:space="preserve">Reach level 58 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1664</key>
-    <text xml:space="preserve">Reach level 59 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが59になった</original>
+    <translation xml:space="preserve">Reach level 59 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1665</key>
-    <text xml:space="preserve">Reach level 60 as a Seeker</text>
+    <original xml:space="preserve">シーカーのジョブレベルが60になった</original>
+    <translation xml:space="preserve">Reach level 60 as a Seeker</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1371</key>
-    <text xml:space="preserve">Reach level 2 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが2になった</original>
+    <translation xml:space="preserve">Reach level 2 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1372</key>
-    <text xml:space="preserve">Reach level 3 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが3になった</original>
+    <translation xml:space="preserve">Reach level 3 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1373</key>
-    <text xml:space="preserve">Reach level 4 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが4になった</original>
+    <translation xml:space="preserve">Reach level 4 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1374</key>
-    <text xml:space="preserve">Reach level 5 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが5になった</original>
+    <translation xml:space="preserve">Reach level 5 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1375</key>
-    <text xml:space="preserve">Reach level 6 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが6になった</original>
+    <translation xml:space="preserve">Reach level 6 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1376</key>
-    <text xml:space="preserve">Reach level 7 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが7になった</original>
+    <translation xml:space="preserve">Reach level 7 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1377</key>
-    <text xml:space="preserve">Reach level 8 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが8になった</original>
+    <translation xml:space="preserve">Reach level 8 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1378</key>
-    <text xml:space="preserve">Reach level 9 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが9になった</original>
+    <translation xml:space="preserve">Reach level 9 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1379</key>
-    <text xml:space="preserve">Reach level 10 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが10になった</original>
+    <translation xml:space="preserve">Reach level 10 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1380</key>
-    <text xml:space="preserve">Reach level 11 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが11になった</original>
+    <translation xml:space="preserve">Reach level 11 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1381</key>
-    <text xml:space="preserve">Reach level 12 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが12になった</original>
+    <translation xml:space="preserve">Reach level 12 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1382</key>
-    <text xml:space="preserve">Reach level 13 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが13になった</original>
+    <translation xml:space="preserve">Reach level 13 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1383</key>
-    <text xml:space="preserve">Reach level 14 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが14になった</original>
+    <translation xml:space="preserve">Reach level 14 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1384</key>
-    <text xml:space="preserve">Reach level 15 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが15になった</original>
+    <translation xml:space="preserve">Reach level 15 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1385</key>
-    <text xml:space="preserve">Reach level 16 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが16になった</original>
+    <translation xml:space="preserve">Reach level 16 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1386</key>
-    <text xml:space="preserve">Reach level 17 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが17になった</original>
+    <translation xml:space="preserve">Reach level 17 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1387</key>
-    <text xml:space="preserve">Reach level 18 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが18になった</original>
+    <translation xml:space="preserve">Reach level 18 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1388</key>
-    <text xml:space="preserve">Reach level 19 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが19になった</original>
+    <translation xml:space="preserve">Reach level 19 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1389</key>
-    <text xml:space="preserve">Reach level 20 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが20になった</original>
+    <translation xml:space="preserve">Reach level 20 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1390</key>
-    <text xml:space="preserve">Reach level 21 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが21になった</original>
+    <translation xml:space="preserve">Reach level 21 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1391</key>
-    <text xml:space="preserve">Reach level 22 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが22になった</original>
+    <translation xml:space="preserve">Reach level 22 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1392</key>
-    <text xml:space="preserve">Reach level 23 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが23になった</original>
+    <translation xml:space="preserve">Reach level 23 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1393</key>
-    <text xml:space="preserve">Reach level 24 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが24になった</original>
+    <translation xml:space="preserve">Reach level 24 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1394</key>
-    <text xml:space="preserve">Reach level 25 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが25になった</original>
+    <translation xml:space="preserve">Reach level 25 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1395</key>
-    <text xml:space="preserve">Reach level 26 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが26になった</original>
+    <translation xml:space="preserve">Reach level 26 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1396</key>
-    <text xml:space="preserve">Reach level 27 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが27になった</original>
+    <translation xml:space="preserve">Reach level 27 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1397</key>
-    <text xml:space="preserve">Reach level 28 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが28になった</original>
+    <translation xml:space="preserve">Reach level 28 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1398</key>
-    <text xml:space="preserve">Reach level 29 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが29になった</original>
+    <translation xml:space="preserve">Reach level 29 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1399</key>
-    <text xml:space="preserve">Reach level 30 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが30になった</original>
+    <translation xml:space="preserve">Reach level 30 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1400</key>
-    <text xml:space="preserve">Reach level 31 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが31になった</original>
+    <translation xml:space="preserve">Reach level 31 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1401</key>
-    <text xml:space="preserve">Reach level 32 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが32になった</original>
+    <translation xml:space="preserve">Reach level 32 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1402</key>
-    <text xml:space="preserve">Reach level 33 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが33になった</original>
+    <translation xml:space="preserve">Reach level 33 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1403</key>
-    <text xml:space="preserve">Reach level 34 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが34になった</original>
+    <translation xml:space="preserve">Reach level 34 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1404</key>
-    <text xml:space="preserve">Reach level 35 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが35になった</original>
+    <translation xml:space="preserve">Reach level 35 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1405</key>
-    <text xml:space="preserve">Reach level 36 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが36になった</original>
+    <translation xml:space="preserve">Reach level 36 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1406</key>
-    <text xml:space="preserve">Reach level 37 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが37になった</original>
+    <translation xml:space="preserve">Reach level 37 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1407</key>
-    <text xml:space="preserve">Reach level 38 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが38になった</original>
+    <translation xml:space="preserve">Reach level 38 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1408</key>
-    <text xml:space="preserve">Reach level 39 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが39になった</original>
+    <translation xml:space="preserve">Reach level 39 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1409</key>
-    <text xml:space="preserve">Reach level 40 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが40になった</original>
+    <translation xml:space="preserve">Reach level 40 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1410</key>
-    <text xml:space="preserve">Reach level 41 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが41になった</original>
+    <translation xml:space="preserve">Reach level 41 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1411</key>
-    <text xml:space="preserve">Reach level 42 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが42になった</original>
+    <translation xml:space="preserve">Reach level 42 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1412</key>
-    <text xml:space="preserve">Reach level 43 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが43になった</original>
+    <translation xml:space="preserve">Reach level 43 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1413</key>
-    <text xml:space="preserve">Reach level 44 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが44になった</original>
+    <translation xml:space="preserve">Reach level 44 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1414</key>
-    <text xml:space="preserve">Reach level 45 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが45になった</original>
+    <translation xml:space="preserve">Reach level 45 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1415</key>
-    <text xml:space="preserve">Reach level 46 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが46になった</original>
+    <translation xml:space="preserve">Reach level 46 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1416</key>
-    <text xml:space="preserve">Reach level 47 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが47になった</original>
+    <translation xml:space="preserve">Reach level 47 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1417</key>
-    <text xml:space="preserve">Reach level 48 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが48になった</original>
+    <translation xml:space="preserve">Reach level 48 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1418</key>
-    <text xml:space="preserve">Reach level 49 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが49になった</original>
+    <translation xml:space="preserve">Reach level 49 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1419</key>
-    <text xml:space="preserve">Reach level 50 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが50になった</original>
+    <translation xml:space="preserve">Reach level 50 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1420</key>
-    <text xml:space="preserve">Reach level 51 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが51になった</original>
+    <translation xml:space="preserve">Reach level 51 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1421</key>
-    <text xml:space="preserve">Reach level 52 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが52になった</original>
+    <translation xml:space="preserve">Reach level 52 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1422</key>
-    <text xml:space="preserve">Reach level 53 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが53になった</original>
+    <translation xml:space="preserve">Reach level 53 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1423</key>
-    <text xml:space="preserve">Reach level 54 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが54になった</original>
+    <translation xml:space="preserve">Reach level 54 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1424</key>
-    <text xml:space="preserve">Reach level 55 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが55になった</original>
+    <translation xml:space="preserve">Reach level 55 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1425</key>
-    <text xml:space="preserve">Reach level 56 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが56になった</original>
+    <translation xml:space="preserve">Reach level 56 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1426</key>
-    <text xml:space="preserve">Reach level 57 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが57になった</original>
+    <translation xml:space="preserve">Reach level 57 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1427</key>
-    <text xml:space="preserve">Reach level 58 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが58になった</original>
+    <translation xml:space="preserve">Reach level 58 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1428</key>
-    <text xml:space="preserve">Reach level 59 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが59になった</original>
+    <translation xml:space="preserve">Reach level 59 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1429</key>
-    <text xml:space="preserve">Reach level 60 as a Hunter</text>
+    <original xml:space="preserve">ハンターのジョブレベルが60になった</original>
+    <translation xml:space="preserve">Reach level 60 as a Hunter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1430</key>
-    <text xml:space="preserve">Reach level 2 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが2になった</original>
+    <translation xml:space="preserve">Reach level 2 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1431</key>
-    <text xml:space="preserve">Reach level 3 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが3になった</original>
+    <translation xml:space="preserve">Reach level 3 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1432</key>
-    <text xml:space="preserve">Reach level 4 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが4になった</original>
+    <translation xml:space="preserve">Reach level 4 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1433</key>
-    <text xml:space="preserve">Reach level 5 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが5になった</original>
+    <translation xml:space="preserve">Reach level 5 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1434</key>
-    <text xml:space="preserve">Reach level 6 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが6になった</original>
+    <translation xml:space="preserve">Reach level 6 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1435</key>
-    <text xml:space="preserve">Reach level 7 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが7になった</original>
+    <translation xml:space="preserve">Reach level 7 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1436</key>
-    <text xml:space="preserve">Reach level 8 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが8になった</original>
+    <translation xml:space="preserve">Reach level 8 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1437</key>
-    <text xml:space="preserve">Reach level 9 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが9になった</original>
+    <translation xml:space="preserve">Reach level 9 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1438</key>
-    <text xml:space="preserve">Reach level 10 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが10になった</original>
+    <translation xml:space="preserve">Reach level 10 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1439</key>
-    <text xml:space="preserve">Reach level 11 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが11になった</original>
+    <translation xml:space="preserve">Reach level 11 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1440</key>
-    <text xml:space="preserve">Reach level 12 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが12になった</original>
+    <translation xml:space="preserve">Reach level 12 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1441</key>
-    <text xml:space="preserve">Reach level 13 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが13になった</original>
+    <translation xml:space="preserve">Reach level 13 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1442</key>
-    <text xml:space="preserve">Reach level 14 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが14になった</original>
+    <translation xml:space="preserve">Reach level 14 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1443</key>
-    <text xml:space="preserve">Reach level 15 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが15になった</original>
+    <translation xml:space="preserve">Reach level 15 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1444</key>
-    <text xml:space="preserve">Reach level 16 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが16になった</original>
+    <translation xml:space="preserve">Reach level 16 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1445</key>
-    <text xml:space="preserve">Reach level 17 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが17になった</original>
+    <translation xml:space="preserve">Reach level 17 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1446</key>
-    <text xml:space="preserve">Reach level 18 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが18になった</original>
+    <translation xml:space="preserve">Reach level 18 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1447</key>
-    <text xml:space="preserve">Reach level 19 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが19になった</original>
+    <translation xml:space="preserve">Reach level 19 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1448</key>
-    <text xml:space="preserve">Reach level 20 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが20になった</original>
+    <translation xml:space="preserve">Reach level 20 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1449</key>
-    <text xml:space="preserve">Reach level 21 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが21になった</original>
+    <translation xml:space="preserve">Reach level 21 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1450</key>
-    <text xml:space="preserve">Reach level 22 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが22になった</original>
+    <translation xml:space="preserve">Reach level 22 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1451</key>
-    <text xml:space="preserve">Reach level 23 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが23になった</original>
+    <translation xml:space="preserve">Reach level 23 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1452</key>
-    <text xml:space="preserve">Reach level 24 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが24になった</original>
+    <translation xml:space="preserve">Reach level 24 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1453</key>
-    <text xml:space="preserve">Reach level 25 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが25になった</original>
+    <translation xml:space="preserve">Reach level 25 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1454</key>
-    <text xml:space="preserve">Reach level 26 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが26になった</original>
+    <translation xml:space="preserve">Reach level 26 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1455</key>
-    <text xml:space="preserve">Reach level 27 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが27になった</original>
+    <translation xml:space="preserve">Reach level 27 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1456</key>
-    <text xml:space="preserve">Reach level 28 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが28になった</original>
+    <translation xml:space="preserve">Reach level 28 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1457</key>
-    <text xml:space="preserve">Reach level 29 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが29になった</original>
+    <translation xml:space="preserve">Reach level 29 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1458</key>
-    <text xml:space="preserve">Reach level 30 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが30になった</original>
+    <translation xml:space="preserve">Reach level 30 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1459</key>
-    <text xml:space="preserve">Reach level 31 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが31になった</original>
+    <translation xml:space="preserve">Reach level 31 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1460</key>
-    <text xml:space="preserve">Reach level 32 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが32になった</original>
+    <translation xml:space="preserve">Reach level 32 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1461</key>
-    <text xml:space="preserve">Reach level 33 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが33になった</original>
+    <translation xml:space="preserve">Reach level 33 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1462</key>
-    <text xml:space="preserve">Reach level 34 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが34になった</original>
+    <translation xml:space="preserve">Reach level 34 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1463</key>
-    <text xml:space="preserve">Reach level 35 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが35になった</original>
+    <translation xml:space="preserve">Reach level 35 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1464</key>
-    <text xml:space="preserve">Reach level 36 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが36になった</original>
+    <translation xml:space="preserve">Reach level 36 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1465</key>
-    <text xml:space="preserve">Reach level 37 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが37になった</original>
+    <translation xml:space="preserve">Reach level 37 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1466</key>
-    <text xml:space="preserve">Reach level 38 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが38になった</original>
+    <translation xml:space="preserve">Reach level 38 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1467</key>
-    <text xml:space="preserve">Reach level 39 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが39になった</original>
+    <translation xml:space="preserve">Reach level 39 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1468</key>
-    <text xml:space="preserve">Reach level 40 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが40になった</original>
+    <translation xml:space="preserve">Reach level 40 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1469</key>
-    <text xml:space="preserve">Reach level 41 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが41になった</original>
+    <translation xml:space="preserve">Reach level 41 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1470</key>
-    <text xml:space="preserve">Reach level 42 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが42になった</original>
+    <translation xml:space="preserve">Reach level 42 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1471</key>
-    <text xml:space="preserve">Reach level 43 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが43になった</original>
+    <translation xml:space="preserve">Reach level 43 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1472</key>
-    <text xml:space="preserve">Reach level 44 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが44になった</original>
+    <translation xml:space="preserve">Reach level 44 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1473</key>
-    <text xml:space="preserve">Reach level 45 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが45になった</original>
+    <translation xml:space="preserve">Reach level 45 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1474</key>
-    <text xml:space="preserve">Reach level 46 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが46になった</original>
+    <translation xml:space="preserve">Reach level 46 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1475</key>
-    <text xml:space="preserve">Reach level 47 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが47になった</original>
+    <translation xml:space="preserve">Reach level 47 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1476</key>
-    <text xml:space="preserve">Reach level 48 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが48になった</original>
+    <translation xml:space="preserve">Reach level 48 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1477</key>
-    <text xml:space="preserve">Reach level 49 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが49になった</original>
+    <translation xml:space="preserve">Reach level 49 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1478</key>
-    <text xml:space="preserve">Reach level 50 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが50になった</original>
+    <translation xml:space="preserve">Reach level 50 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1479</key>
-    <text xml:space="preserve">Reach level 51 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが51になった</original>
+    <translation xml:space="preserve">Reach level 51 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1480</key>
-    <text xml:space="preserve">Reach level 52 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが52になった</original>
+    <translation xml:space="preserve">Reach level 52 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1481</key>
-    <text xml:space="preserve">Reach level 53 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが53になった</original>
+    <translation xml:space="preserve">Reach level 53 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1482</key>
-    <text xml:space="preserve">Reach level 54 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが54になった</original>
+    <translation xml:space="preserve">Reach level 54 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1483</key>
-    <text xml:space="preserve">Reach level 55 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが55になった</original>
+    <translation xml:space="preserve">Reach level 55 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1484</key>
-    <text xml:space="preserve">Reach level 56 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが56になった</original>
+    <translation xml:space="preserve">Reach level 56 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1485</key>
-    <text xml:space="preserve">Reach level 57 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが57になった</original>
+    <translation xml:space="preserve">Reach level 57 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1486</key>
-    <text xml:space="preserve">Reach level 58 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが58になった</original>
+    <translation xml:space="preserve">Reach level 58 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1487</key>
-    <text xml:space="preserve">Reach level 59 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが59になった</original>
+    <translation xml:space="preserve">Reach level 59 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1488</key>
-    <text xml:space="preserve">Reach level 60 as a Priest</text>
+    <original xml:space="preserve">プリーストのジョブレベルが60になった</original>
+    <translation xml:space="preserve">Reach level 60 as a Priest</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1489</key>
-    <text xml:space="preserve">Reach level 2 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが2になった</original>
+    <translation xml:space="preserve">Reach level 2 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1490</key>
-    <text xml:space="preserve">Reach level 3 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが3になった</original>
+    <translation xml:space="preserve">Reach level 3 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1491</key>
-    <text xml:space="preserve">Reach level 4 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが4になった</original>
+    <translation xml:space="preserve">Reach level 4 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1492</key>
-    <text xml:space="preserve">Reach level 5 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが5になった</original>
+    <translation xml:space="preserve">Reach level 5 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1493</key>
-    <text xml:space="preserve">Reach level 6 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが6になった</original>
+    <translation xml:space="preserve">Reach level 6 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1494</key>
-    <text xml:space="preserve">Reach level 7 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが7になった</original>
+    <translation xml:space="preserve">Reach level 7 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1495</key>
-    <text xml:space="preserve">Reach level 8 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが8になった</original>
+    <translation xml:space="preserve">Reach level 8 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1496</key>
-    <text xml:space="preserve">Reach level 9 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが9になった</original>
+    <translation xml:space="preserve">Reach level 9 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1497</key>
-    <text xml:space="preserve">Reach level 10 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが10になった</original>
+    <translation xml:space="preserve">Reach level 10 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1498</key>
-    <text xml:space="preserve">Reach level 11 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが11になった</original>
+    <translation xml:space="preserve">Reach level 11 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1499</key>
-    <text xml:space="preserve">Reach level 12 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが12になった</original>
+    <translation xml:space="preserve">Reach level 12 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1500</key>
-    <text xml:space="preserve">Reach level 13 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが13になった</original>
+    <translation xml:space="preserve">Reach level 13 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1501</key>
-    <text xml:space="preserve">Reach level 14 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが14になった</original>
+    <translation xml:space="preserve">Reach level 14 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1502</key>
-    <text xml:space="preserve">Reach level 15 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが15になった</original>
+    <translation xml:space="preserve">Reach level 15 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1503</key>
-    <text xml:space="preserve">Reach level 16 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが16になった</original>
+    <translation xml:space="preserve">Reach level 16 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1504</key>
-    <text xml:space="preserve">Reach level 17 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが17になった</original>
+    <translation xml:space="preserve">Reach level 17 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1505</key>
-    <text xml:space="preserve">Reach level 18 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが18になった</original>
+    <translation xml:space="preserve">Reach level 18 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1506</key>
-    <text xml:space="preserve">Reach level 19 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが19になった</original>
+    <translation xml:space="preserve">Reach level 19 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1507</key>
-    <text xml:space="preserve">Reach level 20 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが20になった</original>
+    <translation xml:space="preserve">Reach level 20 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1508</key>
-    <text xml:space="preserve">Reach level 21 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが21になった</original>
+    <translation xml:space="preserve">Reach level 21 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1509</key>
-    <text xml:space="preserve">Reach level 22 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが22になった</original>
+    <translation xml:space="preserve">Reach level 22 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1510</key>
-    <text xml:space="preserve">Reach level 23 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが23になった</original>
+    <translation xml:space="preserve">Reach level 23 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1511</key>
-    <text xml:space="preserve">Reach level 24 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが24になった</original>
+    <translation xml:space="preserve">Reach level 24 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1512</key>
-    <text xml:space="preserve">Reach level 25 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが25になった</original>
+    <translation xml:space="preserve">Reach level 25 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1513</key>
-    <text xml:space="preserve">Reach level 26 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが26になった</original>
+    <translation xml:space="preserve">Reach level 26 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1514</key>
-    <text xml:space="preserve">Reach level 27 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが27になった</original>
+    <translation xml:space="preserve">Reach level 27 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1515</key>
-    <text xml:space="preserve">Reach level 28 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが28になった</original>
+    <translation xml:space="preserve">Reach level 28 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1516</key>
-    <text xml:space="preserve">Reach level 29 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが29になった</original>
+    <translation xml:space="preserve">Reach level 29 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1517</key>
-    <text xml:space="preserve">Reach level 30 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが30になった</original>
+    <translation xml:space="preserve">Reach level 30 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1518</key>
-    <text xml:space="preserve">Reach level 31 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが31になった</original>
+    <translation xml:space="preserve">Reach level 31 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1519</key>
-    <text xml:space="preserve">Reach level 32 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが32になった</original>
+    <translation xml:space="preserve">Reach level 32 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1520</key>
-    <text xml:space="preserve">Reach level 33 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが33になった</original>
+    <translation xml:space="preserve">Reach level 33 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1521</key>
-    <text xml:space="preserve">Reach level 34 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが34になった</original>
+    <translation xml:space="preserve">Reach level 34 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1522</key>
-    <text xml:space="preserve">Reach level 35 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが35になった</original>
+    <translation xml:space="preserve">Reach level 35 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1523</key>
-    <text xml:space="preserve">Reach level 36 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが36になった</original>
+    <translation xml:space="preserve">Reach level 36 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1524</key>
-    <text xml:space="preserve">Reach level 37 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが37になった</original>
+    <translation xml:space="preserve">Reach level 37 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1525</key>
-    <text xml:space="preserve">Reach level 38 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが38になった</original>
+    <translation xml:space="preserve">Reach level 38 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1526</key>
-    <text xml:space="preserve">Reach level 39 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが39になった</original>
+    <translation xml:space="preserve">Reach level 39 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1527</key>
-    <text xml:space="preserve">Reach level 40 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが40になった</original>
+    <translation xml:space="preserve">Reach level 40 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1528</key>
-    <text xml:space="preserve">Reach level 41 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが41になった</original>
+    <translation xml:space="preserve">Reach level 41 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1529</key>
-    <text xml:space="preserve">Reach level 42 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが42になった</original>
+    <translation xml:space="preserve">Reach level 42 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1530</key>
-    <text xml:space="preserve">Reach level 43 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが43になった</original>
+    <translation xml:space="preserve">Reach level 43 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1531</key>
-    <text xml:space="preserve">Reach level 44 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが44になった</original>
+    <translation xml:space="preserve">Reach level 44 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1532</key>
-    <text xml:space="preserve">Reach level 45 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが45になった</original>
+    <translation xml:space="preserve">Reach level 45 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1533</key>
-    <text xml:space="preserve">Reach level 46 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが46になった</original>
+    <translation xml:space="preserve">Reach level 46 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1534</key>
-    <text xml:space="preserve">Reach level 47 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが47になった</original>
+    <translation xml:space="preserve">Reach level 47 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1535</key>
-    <text xml:space="preserve">Reach level 48 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが48になった</original>
+    <translation xml:space="preserve">Reach level 48 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1536</key>
-    <text xml:space="preserve">Reach level 49 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが49になった</original>
+    <translation xml:space="preserve">Reach level 49 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1537</key>
-    <text xml:space="preserve">Reach level 50 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが50になった</original>
+    <translation xml:space="preserve">Reach level 50 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1538</key>
-    <text xml:space="preserve">Reach level 51 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが51になった</original>
+    <translation xml:space="preserve">Reach level 51 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1539</key>
-    <text xml:space="preserve">Reach level 52 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが52になった</original>
+    <translation xml:space="preserve">Reach level 52 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1540</key>
-    <text xml:space="preserve">Reach level 53 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが53になった</original>
+    <translation xml:space="preserve">Reach level 53 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1541</key>
-    <text xml:space="preserve">Reach level 54 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが54になった</original>
+    <translation xml:space="preserve">Reach level 54 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1542</key>
-    <text xml:space="preserve">Reach level 55 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが55になった</original>
+    <translation xml:space="preserve">Reach level 55 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1543</key>
-    <text xml:space="preserve">Reach level 56 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが56になった</original>
+    <translation xml:space="preserve">Reach level 56 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1544</key>
-    <text xml:space="preserve">Reach level 57 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが57になった</original>
+    <translation xml:space="preserve">Reach level 57 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1545</key>
-    <text xml:space="preserve">Reach level 58 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが58になった</original>
+    <translation xml:space="preserve">Reach level 58 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1546</key>
-    <text xml:space="preserve">Reach level 59 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが59になった</original>
+    <translation xml:space="preserve">Reach level 59 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1547</key>
-    <text xml:space="preserve">Reach level 60 as a Shield Sage</text>
+    <original xml:space="preserve">シールドセージのジョブレベルが60になった</original>
+    <translation xml:space="preserve">Reach level 60 as a Shield Sage</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1548</key>
-    <text xml:space="preserve">Reach level 2 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが2になった</original>
+    <translation xml:space="preserve">Reach level 2 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1549</key>
-    <text xml:space="preserve">Reach level 3 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが3になった</original>
+    <translation xml:space="preserve">Reach level 3 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1550</key>
-    <text xml:space="preserve">Reach level 4 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが4になった</original>
+    <translation xml:space="preserve">Reach level 4 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1551</key>
-    <text xml:space="preserve">Reach level 5 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが5になった</original>
+    <translation xml:space="preserve">Reach level 5 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1552</key>
-    <text xml:space="preserve">Reach level 6 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが6になった</original>
+    <translation xml:space="preserve">Reach level 6 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1553</key>
-    <text xml:space="preserve">Reach level 7 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが7になった</original>
+    <translation xml:space="preserve">Reach level 7 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1554</key>
-    <text xml:space="preserve">Reach level 8 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが8になった</original>
+    <translation xml:space="preserve">Reach level 8 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1555</key>
-    <text xml:space="preserve">Reach level 9 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが9になった</original>
+    <translation xml:space="preserve">Reach level 9 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1556</key>
-    <text xml:space="preserve">Reach level 10 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが10になった</original>
+    <translation xml:space="preserve">Reach level 10 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1557</key>
-    <text xml:space="preserve">Reach level 11 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが11になった</original>
+    <translation xml:space="preserve">Reach level 11 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1558</key>
-    <text xml:space="preserve">Reach level 12 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが12になった</original>
+    <translation xml:space="preserve">Reach level 12 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1559</key>
-    <text xml:space="preserve">Reach level 13 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが13になった</original>
+    <translation xml:space="preserve">Reach level 13 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1560</key>
-    <text xml:space="preserve">Reach level 14 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが14になった</original>
+    <translation xml:space="preserve">Reach level 14 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1561</key>
-    <text xml:space="preserve">Reach level 15 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが15になった</original>
+    <translation xml:space="preserve">Reach level 15 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1562</key>
-    <text xml:space="preserve">Reach level 16 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが16になった</original>
+    <translation xml:space="preserve">Reach level 16 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1563</key>
-    <text xml:space="preserve">Reach level 17 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが17になった</original>
+    <translation xml:space="preserve">Reach level 17 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1564</key>
-    <text xml:space="preserve">Reach level 18 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが18になった</original>
+    <translation xml:space="preserve">Reach level 18 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1565</key>
-    <text xml:space="preserve">Reach level 19 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが19になった</original>
+    <translation xml:space="preserve">Reach level 19 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1566</key>
-    <text xml:space="preserve">Reach level 20 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが20になった</original>
+    <translation xml:space="preserve">Reach level 20 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1567</key>
-    <text xml:space="preserve">Reach level 21 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが21になった</original>
+    <translation xml:space="preserve">Reach level 21 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1568</key>
-    <text xml:space="preserve">Reach level 22 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが22になった</original>
+    <translation xml:space="preserve">Reach level 22 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1569</key>
-    <text xml:space="preserve">Reach level 23 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが23になった</original>
+    <translation xml:space="preserve">Reach level 23 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1570</key>
-    <text xml:space="preserve">Reach level 24 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが24になった</original>
+    <translation xml:space="preserve">Reach level 24 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1571</key>
-    <text xml:space="preserve">Reach level 25 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが25になった</original>
+    <translation xml:space="preserve">Reach level 25 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1572</key>
-    <text xml:space="preserve">Reach level 26 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが26になった</original>
+    <translation xml:space="preserve">Reach level 26 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1573</key>
-    <text xml:space="preserve">Reach level 27 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが27になった</original>
+    <translation xml:space="preserve">Reach level 27 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1574</key>
-    <text xml:space="preserve">Reach level 28 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが28になった</original>
+    <translation xml:space="preserve">Reach level 28 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1575</key>
-    <text xml:space="preserve">Reach level 29 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが29になった</original>
+    <translation xml:space="preserve">Reach level 29 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1576</key>
-    <text xml:space="preserve">Reach level 30 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが30になった</original>
+    <translation xml:space="preserve">Reach level 30 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1577</key>
-    <text xml:space="preserve">Reach level 31 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが31になった</original>
+    <translation xml:space="preserve">Reach level 31 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1578</key>
-    <text xml:space="preserve">Reach level 32 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが32になった</original>
+    <translation xml:space="preserve">Reach level 32 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1579</key>
-    <text xml:space="preserve">Reach level 33 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが33になった</original>
+    <translation xml:space="preserve">Reach level 33 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1580</key>
-    <text xml:space="preserve">Reach level 34 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが34になった</original>
+    <translation xml:space="preserve">Reach level 34 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1581</key>
-    <text xml:space="preserve">Reach level 35 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが35になった</original>
+    <translation xml:space="preserve">Reach level 35 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1582</key>
-    <text xml:space="preserve">Reach level 36 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが36になった</original>
+    <translation xml:space="preserve">Reach level 36 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1583</key>
-    <text xml:space="preserve">Reach level 37 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが37になった</original>
+    <translation xml:space="preserve">Reach level 37 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1584</key>
-    <text xml:space="preserve">Reach level 38 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが38になった</original>
+    <translation xml:space="preserve">Reach level 38 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1585</key>
-    <text xml:space="preserve">Reach level 39 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが39になった</original>
+    <translation xml:space="preserve">Reach level 39 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1586</key>
-    <text xml:space="preserve">Reach level 40 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが40になった</original>
+    <translation xml:space="preserve">Reach level 40 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1587</key>
-    <text xml:space="preserve">Reach level 41 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが41になった</original>
+    <translation xml:space="preserve">Reach level 41 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1588</key>
-    <text xml:space="preserve">Reach level 42 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが42になった</original>
+    <translation xml:space="preserve">Reach level 42 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1589</key>
-    <text xml:space="preserve">Reach level 43 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが43になった</original>
+    <translation xml:space="preserve">Reach level 43 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1590</key>
-    <text xml:space="preserve">Reach level 44 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが44になった</original>
+    <translation xml:space="preserve">Reach level 44 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1591</key>
-    <text xml:space="preserve">Reach level 45 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが45になった</original>
+    <translation xml:space="preserve">Reach level 45 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1592</key>
-    <text xml:space="preserve">Reach level 46 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが46になった</original>
+    <translation xml:space="preserve">Reach level 46 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1593</key>
-    <text xml:space="preserve">Reach level 47 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが47になった</original>
+    <translation xml:space="preserve">Reach level 47 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1594</key>
-    <text xml:space="preserve">Reach level 48 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが48になった</original>
+    <translation xml:space="preserve">Reach level 48 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1595</key>
-    <text xml:space="preserve">Reach level 49 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが49になった</original>
+    <translation xml:space="preserve">Reach level 49 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1596</key>
-    <text xml:space="preserve">Reach level 50 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが50になった</original>
+    <translation xml:space="preserve">Reach level 50 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1597</key>
-    <text xml:space="preserve">Reach level 51 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが51になった</original>
+    <translation xml:space="preserve">Reach level 51 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1598</key>
-    <text xml:space="preserve">Reach level 52 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが52になった</original>
+    <translation xml:space="preserve">Reach level 52 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1599</key>
-    <text xml:space="preserve">Reach level 53 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが53になった</original>
+    <translation xml:space="preserve">Reach level 53 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1600</key>
-    <text xml:space="preserve">Reach level 54 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが54になった</original>
+    <translation xml:space="preserve">Reach level 54 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1601</key>
-    <text xml:space="preserve">Reach level 55 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが55になった</original>
+    <translation xml:space="preserve">Reach level 55 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1602</key>
-    <text xml:space="preserve">Reach level 56 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが56になった</original>
+    <translation xml:space="preserve">Reach level 56 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1603</key>
-    <text xml:space="preserve">Reach level 57 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが57になった</original>
+    <translation xml:space="preserve">Reach level 57 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1604</key>
-    <text xml:space="preserve">Reach level 58 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが58になった</original>
+    <translation xml:space="preserve">Reach level 58 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1605</key>
-    <text xml:space="preserve">Reach level 59 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが59になった</original>
+    <translation xml:space="preserve">Reach level 59 as a Sorcerer</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1606</key>
-    <text xml:space="preserve">Reach level 60 as a Sorcerer</text>
+    <original xml:space="preserve">ソーサラーのジョブレベルが60になった</original>
+    <translation xml:space="preserve">Reach level 60 as a Sorcerer</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1666</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが2になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1667</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが3になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1668</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが4になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1669</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが5になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1670</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが6になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1671</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが7になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1672</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが8になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1673</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが9になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1674</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが10になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1675</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが11になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1676</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが12になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1677</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが13になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1678</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが14になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1679</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが15になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1680</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが16になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1681</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが17になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1682</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが18になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1683</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが19になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1684</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが20になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1685</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが21になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1686</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが22になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1687</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが23になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1688</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが24になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1689</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが25になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1690</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが26になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1691</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが27になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1692</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが28になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1693</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが29になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1694</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが30になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1695</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが31になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1696</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが32になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1697</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが33になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1698</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが34になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1699</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが35になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1700</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが36になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1701</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが37になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1702</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが38になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1703</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが39になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1704</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが40になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1705</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが41になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1706</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが42になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1707</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが43になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1708</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが44になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1709</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが45になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1710</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが46になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1711</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが47になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1712</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが48になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1713</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが49になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1714</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが50になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1715</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが51になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1716</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが52になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1717</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが53になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1718</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが54になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1719</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが55になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1720</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが56になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1721</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが57になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1722</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが58になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1723</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが59になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1724</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが60になった</original>
   </message>
 </resource>

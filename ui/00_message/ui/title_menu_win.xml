@@ -1,18 +1,19 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>title_copyright</key>
-    <text xml:space="preserve">#CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.</text>
+    <original xml:space="preserve">#CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.</original>
   </message>
   <message>
     <key>title_alert</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
   <message>
     <key>titile_version</key>
-    <text xml:space="preserve">Version：</text>
+    <original xml:space="preserve">Version：</original>
   </message>
   <message>
     <key>title_alert_index</key>
-    <text xml:space="preserve">Warning</text>
+    <original xml:space="preserve">注意</original>
+    <translation xml:space="preserve">Warning</translation>
   </message>
 </resource>

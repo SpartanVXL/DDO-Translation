@@ -1,19 +1,19 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_329</key>
-    <text xml:space="preserve">フィールドや洞窟など、旅先から白竜神殿に
+    <original xml:space="preserve">フィールドや洞窟など、旅先から白竜神殿に
 帰還する時は、《リム転移》が便利です
 
 &lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー内
 《ワールド》の《リム転移》を選びましょう
 
 白竜神殿レーゼまで、リムを支払うことなく
-瞬時に帰還できます</text>
+瞬時に帰還できます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_330</key>
-    <text xml:space="preserve">また、各地の拠点を《マイ拠点》として
+    <original xml:space="preserve">また、各地の拠点を《マイ拠点》として
 登録している場合、リムを支払えば
-どこからでもマイ拠点へ瞬時に移動できます</text>
+どこからでもマイ拠点へ瞬時に移動できます</original>
   </message>
 </resource>

@@ -1,19 +1,24 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q00000001_00_2</key>
-    <text xml:space="preserve">Resolutions and Omens</text>
+    <original xml:space="preserve">覚悟と兆し</original>
+    <translation xml:space="preserve">Resolutions and Omens</translation>
   </message>
   <message>
     <key>q00000001_00_2</key>
-    <text xml:space="preserve">Gritten Fort is being raided by the orc army.
-Join battle with Leo and Iris as reinforcements.</text>
+    <original xml:space="preserve">オーク軍の襲撃を受けているグリッテン砦に向かい
+レオ、イリスとともに援軍として戦闘に参加する</original>
+    <translation xml:space="preserve">Gritten Fort is being raided by the orc army.
+Join battle with Leo and Iris as reinforcements.</translation>
   </message>
   <message>
     <key>q00000001_00_952</key>
-    <text xml:space="preserve">Make your way to Gritten Fort with Leo and Iris</text>
+    <original xml:space="preserve">レオ、イリスと共にグリッテン砦に向かう</original>
+    <translation xml:space="preserve">Make your way to Gritten Fort with Leo and Iris</translation>
   </message>
   <message>
     <key>q00000001_00_953</key>
-    <text xml:space="preserve">Defeat all of the Orcs in the fort</text>
+    <original xml:space="preserve">砦内のすべてのオークを討伐する</original>
+    <translation xml:space="preserve">Defeat all of the Orcs in the fort</translation>
   </message>
 </resource>

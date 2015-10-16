@@ -1,22 +1,47 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>AREA_RANK_REWARD_111</key>
-    <text xml:space="preserve">Distribution of support goods</text>
+    <original xml:space="preserve">支援品の配給</original>
+    <translation xml:space="preserve">Distribution of support goods</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_112</key>
-    <text xml:space="preserve">New powerful enemy at《Lakeside Ruin》</text>
+    <original xml:space="preserve">《湖岸の廃墟》に新たな強敵が出現</original>
+    <translation xml:space="preserve">New powerful enemy at《Lakeside Ruin》</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_113</key>
-    <text xml:space="preserve">New powerful enemy at《Betland Long Bridge》</text>
+    <original xml:space="preserve">《バートランド大橋》に新たな強敵が出現</original>
+    <translation xml:space="preserve">New powerful enemy at《Betland Long Bridge》</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_114</key>
-    <text xml:space="preserve">Area《Betland Cemetary》unblocked</text>
+    <original xml:space="preserve">封鎖エリア《バートランド墓地》開放</original>
+    <translation xml:space="preserve">Area《Betland Cemetary》unblocked</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_115</key>
-    <text xml:space="preserve">Support goods ranked up</text>
+    <original xml:space="preserve">支援品ランクアップ</original>
+    <translation xml:space="preserve">Support goods ranked up</translation>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_116</key>
+    <original xml:space="preserve">交通路《バートランド山道～北部》復旧</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_117</key>
+    <original xml:space="preserve">封鎖エリア《不浄の地下水道》開放</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_118</key>
+    <original xml:space="preserve">《セラー湖船墓場》に新たな強敵が出現</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_119</key>
+    <original xml:space="preserve">封鎖エリア《戦鬼の影穴》開放</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_120</key>
+    <original xml:space="preserve">支援品ランクアップ</original>
   </message>
 </resource>

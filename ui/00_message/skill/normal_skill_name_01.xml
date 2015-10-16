@@ -1,46 +1,57 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_NAME_01_4</key>
-    <text xml:space="preserve">Onslaught</text>
+    <original xml:space="preserve">連撃</original>
+    <translation xml:space="preserve">Onslaught</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_5</key>
-    <text xml:space="preserve">Dire Onslaught</text>
+    <original xml:space="preserve">強連撃</original>
+    <translation xml:space="preserve">Dire Onslaught</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_13</key>
-    <text xml:space="preserve">Guard Break</text>
+    <original xml:space="preserve">斬り崩し</original>
+    <translation xml:space="preserve">Guard Break</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_14</key>
-    <text xml:space="preserve">Strong Guard Break</text>
+    <original xml:space="preserve">強斬り崩し</original>
+    <translation xml:space="preserve">Strong Guard Break</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_18</key>
-    <text xml:space="preserve">Jump Slash</text>
+    <original xml:space="preserve">跳び斬り</original>
+    <translation xml:space="preserve">Jump Slash</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_19</key>
-    <text xml:space="preserve">Helm Splitter</text>
+    <original xml:space="preserve">兜割り</original>
+    <translation xml:space="preserve">Helm Splitter</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_15</key>
-    <text xml:space="preserve">Guard</text>
+    <original xml:space="preserve">ガード</original>
+    <translation xml:space="preserve">Guard</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_16</key>
-    <text xml:space="preserve">Deflect</text>
+    <original xml:space="preserve">盾弾き</original>
+    <translation xml:space="preserve">Deflect</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_17</key>
-    <text xml:space="preserve">Coordinated Throw</text>
+    <original xml:space="preserve">連係投げ</original>
+    <translation xml:space="preserve">Coordinated Throw</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_22</key>
-    <text xml:space="preserve">Recover</text>
+    <original xml:space="preserve">受け身</original>
+    <translation xml:space="preserve">Recover</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_23</key>
-    <text xml:space="preserve">Gouge</text>
+    <original xml:space="preserve">えぐり突き</original>
+    <translation xml:space="preserve">Gouge</translation>
   </message>
 </resource>

@@ -1,54 +1,65 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ORDER_CONDITION_988</key>
-    <text xml:space="preserve">None</text>
+    <original xml:space="preserve">無し</original>
+    <translation xml:space="preserve">None</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_989</key>
-    <text xml:space="preserve">Level &lt;QCND 0&gt; in any job</text>
+    <original xml:space="preserve">全ジョブのいずれかがジョブレベル&lt;QCND 0&gt;以上</original>
+    <translation xml:space="preserve">Level &lt;QCND 0&gt; in any job</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_994</key>
-    <text xml:space="preserve">Job restriction: &lt;QCND 0&gt;, at least level &lt;QCND 1&gt;</text>
+    <original xml:space="preserve">ジョブ限定：&lt;QCND 0&gt;のジョブレベル&lt;QCND 1&gt;以上</original>
+    <translation xml:space="preserve">Job restriction: &lt;QCND 0&gt;, at least level &lt;QCND 1&gt;</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_995</key>
-    <text xml:space="preserve">No party members (pawns not allowed)</text>
+    <original xml:space="preserve">パーティープレイ不可（ポーン同行不可）</original>
+    <translation xml:space="preserve">No party members (pawns not allowed)</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_996</key>
-    <text xml:space="preserve">None</text>
+    <original xml:space="preserve">無し</original>
+    <translation xml:space="preserve">None</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_997</key>
-    <text xml:space="preserve">None</text>
+    <original xml:space="preserve">無し</original>
+    <translation xml:space="preserve">None</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_998</key>
-    <text xml:space="preserve">Clear main quest ＜&lt;QCND 0&gt;＞</text>
+    <original xml:space="preserve">メインクエスト＜&lt;QCND 0&gt;＞をクリア</original>
+    <translation xml:space="preserve">Clear main quest ＜&lt;QCND 0&gt;＞</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_999</key>
-    <text xml:space="preserve">Clear personal quest ＜&lt;QCND 0&gt;＞</text>
+    <original xml:space="preserve">パーソナルクエスト＜&lt;QCND 0&gt;＞をクリア</original>
+    <translation xml:space="preserve">Clear personal quest ＜&lt;QCND 0&gt;＞</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_1000</key>
-    <text xml:space="preserve">Clear extreme mission ＜&lt;QCND 0&gt;＞</text>
+    <original xml:space="preserve">エクストリームミッション＜&lt;QCND 0&gt;＞をクリア</original>
+    <translation xml:space="preserve">Clear extreme mission ＜&lt;QCND 0&gt;＞</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_993</key>
-    <text xml:space="preserve">Area rank for &lt;QCND 0&gt; at least &lt;QCND 1&gt;</text>
+    <original xml:space="preserve">&lt;QCND 0&gt;のエリアランク&lt;QCND 1&gt;以上</original>
+    <translation xml:space="preserve">Area rank for &lt;QCND 0&gt; at least &lt;QCND 1&gt;</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_1003</key>
-    <text xml:space="preserve">No party members (pawns allowed)</text>
+    <original xml:space="preserve">パーティープレイ不可（ポーン同行可）</original>
+    <translation xml:space="preserve">No party members (pawns allowed)</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_1004</key>
-    <text xml:space="preserve">各証の戦術試練（初期ジョブ）を一つでもクリア</text>
+    <original xml:space="preserve">各証の戦術試練（初期ジョブ）を一つでもクリア</original>
   </message>
   <message>
     <key>ORDER_CONDITION_1005</key>
-    <text xml:space="preserve">白竜神殿レンテンの＜破攻の証の戦術試練＞をクリア</text>
+    <original xml:space="preserve">白竜神殿レンテンの＜破攻の証の戦術試練＞をクリア</original>
   </message>
 </resource>

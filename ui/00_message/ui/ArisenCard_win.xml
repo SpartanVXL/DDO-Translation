@@ -1,382 +1,445 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ARISEN_CARD_TEXT_ARISENCARD</key>
-    <text xml:space="preserve">Arisen Profile</text>
+    <original xml:space="preserve">Arisen Profile</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ARISENCARDJP</key>
-    <text xml:space="preserve">Arisen Profile</text>
+    <original xml:space="preserve">覚者プロフィール</original>
+    <translation xml:space="preserve">Arisen Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PAWNCARD</key>
-    <text xml:space="preserve">Pawn Profile</text>
+    <original xml:space="preserve">Pawn Profile</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PAWNCARDJP</key>
-    <text xml:space="preserve">Pawn Profile</text>
+    <original xml:space="preserve">ポーンプロフィール</original>
+    <translation xml:space="preserve">Pawn Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CARDMENU</key>
-    <text xml:space="preserve">Edit Profile</text>
+    <original xml:space="preserve">プロフィールの編集</original>
+    <translation xml:space="preserve">Edit Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CLAN</key>
-    <text xml:space="preserve">Clan</text>
+    <original xml:space="preserve">Clan</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_RANK</key>
-    <text xml:space="preserve">RANK.</text>
+    <original xml:space="preserve">RANK.</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_MEMBER</key>
-    <text xml:space="preserve">Members</text>
+    <original xml:space="preserve">メンバー数</original>
+    <translation xml:space="preserve">Members</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_JOBLV</key>
-    <text xml:space="preserve">Job LV</text>
+    <original xml:space="preserve">Job LV</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PROFILE</key>
-    <text xml:space="preserve">Profile</text>
+    <original xml:space="preserve">Profile</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_LV</key>
-    <text xml:space="preserve">LV.</text>
+    <original xml:space="preserve">LV.</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_LGOAL</key>
-    <text xml:space="preserve">Adventure Goal</text>
+    <original xml:space="preserve">冒険目的</original>
+    <translation xml:space="preserve">Adventure Goal</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SGOAL</key>
-    <text xml:space="preserve">Activity Location</text>
+    <original xml:space="preserve">活動場所</original>
+    <translation xml:space="preserve">Activity Location</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_STYLE</key>
-    <text xml:space="preserve">Play Style</text>
+    <original xml:space="preserve">プレイスタイル</original>
+    <translation xml:space="preserve">Play Style</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPROFILE</key>
-    <text xml:space="preserve">Profile</text>
+    <original xml:space="preserve">プロフィール</original>
+    <translation xml:space="preserve">Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABSTATUS</key>
-    <text xml:space="preserve">Status</text>
+    <original xml:space="preserve">ステータス</original>
+    <translation xml:space="preserve">Status</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABSKILLABI</key>
-    <text xml:space="preserve">Skills / Abilities</text>
+    <original xml:space="preserve">スキル・アビリティ</original>
+    <translation xml:space="preserve">Skills / Abilities</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABHISTORY</key>
-    <text xml:space="preserve">History</text>
+    <original xml:space="preserve">ヒストリー</original>
+    <translation xml:space="preserve">History</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPLAYER</key>
-    <text xml:space="preserve">Achievements / Inherited Dragon Force</text>
+    <original xml:space="preserve">功績・竜力の継承</original>
+    <translation xml:space="preserve">Achievements / Inherited Dragon Force</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPAWN</key>
-    <text xml:space="preserve">Rating / Inherited Dragon Force</text>
+    <original xml:space="preserve">評価・竜力の継承</original>
+    <translation xml:space="preserve">Rating / Inherited Dragon Force</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_STATUS</key>
-    <text xml:space="preserve">Status</text>
+    <original xml:space="preserve">General</original>
+    <translation xml:space="preserve">Status</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PHYSICALATK</key>
-    <text xml:space="preserve">Physical Attack</text>
+    <original xml:space="preserve">物理攻撃力</original>
+    <translation xml:space="preserve">Physical Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_MAGICALATK</key>
-    <text xml:space="preserve">Magick Attack</text>
+    <original xml:space="preserve">魔法攻撃力</original>
+    <translation xml:space="preserve">Magick Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PHYSICALDEF</key>
-    <text xml:space="preserve">Physical Defense</text>
+    <original xml:space="preserve">物理防御力</original>
+    <translation xml:space="preserve">Physical Defense</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_MAGICALDEF</key>
-    <text xml:space="preserve">Magick Defense</text>
+    <original xml:space="preserve">魔法防御力</original>
+    <translation xml:space="preserve">Magick Defense</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_OFFENCE</key>
-    <text xml:space="preserve">Attack</text>
+    <original xml:space="preserve">Attack</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_STRENGTH</key>
-    <text xml:space="preserve">Strength</text>
+    <original xml:space="preserve">筋力</original>
+    <translation xml:space="preserve">Strength</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANCEATK</key>
-    <text xml:space="preserve">Chance Attack</text>
+    <original xml:space="preserve">チャンス攻力</original>
+    <translation xml:space="preserve">Chance Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TIREDATK</key>
-    <text xml:space="preserve">Exhaust Attack</text>
+    <original xml:space="preserve">疲労攻力</original>
+    <translation xml:space="preserve">Exhaust Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_KNOCKEDATK</key>
-    <text xml:space="preserve">Knockout Power</text>
+    <original xml:space="preserve">気絶攻力</original>
+    <translation xml:space="preserve">Knockout Power</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_DEFENCE</key>
-    <text xml:space="preserve">Defense</text>
+    <original xml:space="preserve">Defense</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_DEFPWR</key>
-    <text xml:space="preserve">Endurance</text>
+    <original xml:space="preserve">耐久力</original>
+    <translation xml:space="preserve">Endurance</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CUREPWR</key>
-    <text xml:space="preserve">Healing Power</text>
+    <original xml:space="preserve">生命治癒力</original>
+    <translation xml:space="preserve">Healing Power</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ELEMENT</key>
-    <text xml:space="preserve">Resistance</text>
+    <original xml:space="preserve">Resistance</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PARCENT</key>
-    <text xml:space="preserve">&lt;VAL&gt; %</text>
+    <original xml:space="preserve">&lt;VAL&gt; %</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SLASH</key>
-    <text xml:space="preserve">/ &lt;VAL&gt;</text>
+    <original xml:space="preserve">/ &lt;VAL&gt;</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CM</key>
-    <text xml:space="preserve">&lt;VAL&gt; cm</text>
+    <original xml:space="preserve">&lt;VAL&gt; cm</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_KG</key>
-    <text xml:space="preserve">&lt;VAL&gt; </text>
+    <original xml:space="preserve">&lt;VAL&gt; </original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SKILL</key>
-    <text xml:space="preserve">Skills</text>
+    <original xml:space="preserve">Skills</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ABILITY</key>
-    <text xml:space="preserve">Abilities</text>
+    <original xml:space="preserve">Abilities</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CUSTOMSKILL</key>
-    <text xml:space="preserve">Custom Skill</text>
+    <original xml:space="preserve">カスタムスキル</original>
+    <translation xml:space="preserve">Custom Skill</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NORMALSKILL</key>
-    <text xml:space="preserve">Core Skill</text>
+    <original xml:space="preserve">ノーマルスキル</original>
+    <translation xml:space="preserve">Core Skill</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_COST</key>
-    <text xml:space="preserve">Cost</text>
+    <original xml:space="preserve">Cost</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CRAFT</key>
-    <text xml:space="preserve">Craft</text>
+    <original xml:space="preserve">Craft</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PHARMACY</key>
-    <text xml:space="preserve">Production Speed</text>
+    <original xml:space="preserve">生産作業スピード</original>
+    <translation xml:space="preserve">Production Speed</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_FORGING</key>
-    <text xml:space="preserve">Equipment Enhancement</text>
+    <original xml:space="preserve">装備の強化技術</original>
+    <translation xml:space="preserve">Equipment Enhancement</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SEWING</key>
-    <text xml:space="preserve">Equipment Quality</text>
+    <original xml:space="preserve">高品質装備の作成力</original>
+    <translation xml:space="preserve">Equipment Quality</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHASING</key>
-    <text xml:space="preserve">Consumable Production Quantity</text>
+    <original xml:space="preserve">消耗品の生産数アップ</original>
+    <translation xml:space="preserve">Consumable Production Quantity</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HERMETIC</key>
-    <text xml:space="preserve">Crafting Cost</text>
+    <original xml:space="preserve">コストパフォーマンス</original>
+    <translation xml:space="preserve">Crafting Cost</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_OWNER</key>
-    <text xml:space="preserve">Arisen: </text>
+    <original xml:space="preserve">覚者：</original>
+    <translation xml:space="preserve">Arisen: </translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHARACTER</key>
-    <text xml:space="preserve">Personality: </text>
+    <original xml:space="preserve">性格：</original>
+    <translation xml:space="preserve">Personality: </translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HP</key>
-    <text xml:space="preserve">HP</text>
+    <original xml:space="preserve">HP</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ST</key>
-    <text xml:space="preserve">ST</text>
+    <original xml:space="preserve">ST</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOJOIN</key>
-    <text xml:space="preserve">Does not belong to a clan.</text>
+    <original xml:space="preserve">クランには所属していません。</original>
+    <translation xml:space="preserve">Does not belong to a clan.</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ADV</key>
-    <text xml:space="preserve">冒険</text>
+    <original xml:space="preserve">冒険</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_BATTLE</key>
-    <text xml:space="preserve">戦闘</text>
+    <original xml:space="preserve">戦闘</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_GATHER</key>
-    <text xml:space="preserve">収集</text>
+    <original xml:space="preserve">収集</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_GROW</key>
-    <text xml:space="preserve">成長</text>
+    <original xml:space="preserve">成長</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_OHTER</key>
-    <text xml:space="preserve">その他</text>
+    <original xml:space="preserve">その他</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ORBTITLE</key>
-    <text xml:space="preserve">- Orb Tree -</text>
+    <original xml:space="preserve">- Orb Tree -</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CLASS</key>
-    <text xml:space="preserve">Class &lt;VAL&gt;</text>
+    <original xml:space="preserve">Class &lt;VAL&gt;</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TOTALVALUE</key>
-    <text xml:space="preserve">Comprehensive Evaluation</text>
+    <original xml:space="preserve">総合評価</original>
+    <translation xml:space="preserve">Comprehensive Evaluation</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_RENTALNUM</key>
-    <text xml:space="preserve">Rental Total</text>
+    <original xml:space="preserve">レンタル回数</original>
+    <translation xml:space="preserve">Rental Total</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_BATTLENUM</key>
-    <text xml:space="preserve">Enemies Defeated</text>
+    <original xml:space="preserve">敵の討伐数</original>
+    <translation xml:space="preserve">Enemies Defeated</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CRAFTNUM</key>
-    <text xml:space="preserve">Craft Total</text>
+    <original xml:space="preserve">クラフト回数</original>
+    <translation xml:space="preserve">Craft Total</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_LOOKSVALUE</key>
-    <text xml:space="preserve">Average Appearance Rating</text>
+    <original xml:space="preserve">外見平均評価</original>
+    <translation xml:space="preserve">Average Appearance Rating</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_BATTLEVALUE</key>
-    <text xml:space="preserve">Average Combat Rating</text>
+    <original xml:space="preserve">冒険平均評価</original>
+    <translation xml:space="preserve">Average Combat Rating</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CRAFTVALUE</key>
-    <text xml:space="preserve">Average Craft Rating</text>
+    <original xml:space="preserve">クラフト平均評価</original>
+    <translation xml:space="preserve">Average Craft Rating</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_EDITPROFILE</key>
-    <text xml:space="preserve">Edit Profile</text>
+    <original xml:space="preserve">プロフィールの編集</original>
+    <translation xml:space="preserve">Edit Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANGEBG</key>
-    <text xml:space="preserve">Change Background</text>
+    <original xml:space="preserve">背景の変更</original>
+    <translation xml:space="preserve">Change Background</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANGEPOSE</key>
-    <text xml:space="preserve">Change Pose</text>
+    <original xml:space="preserve">ポーズの変更</original>
+    <translation xml:space="preserve">Change Pose</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CHANGEMYTITLE</key>
-    <text xml:space="preserve">Change Title</text>
+    <original xml:space="preserve">称号の変更</original>
+    <translation xml:space="preserve">Change Title</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HISTORY</key>
-    <text xml:space="preserve">History</text>
+    <original xml:space="preserve">History</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_MAGIC</key>
-    <text xml:space="preserve">Magick</text>
+    <original xml:space="preserve">魔力</original>
+    <translation xml:space="preserve">Magick</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_KNOCKBACK</key>
-    <text xml:space="preserve">Blow Power</text>
+    <original xml:space="preserve">吹き飛ばし力</original>
+    <translation xml:space="preserve">Blow Power</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOSKILL</key>
-    <text xml:space="preserve">None</text>
+    <original xml:space="preserve">なし</original>
+    <translation xml:space="preserve">None</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TITLE</key>
-    <text xml:space="preserve">Title</text>
+    <original xml:space="preserve">称号</original>
+    <translation xml:space="preserve">Title</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOTITLE</key>
-    <text xml:space="preserve">No Title Set</text>
+    <original xml:space="preserve">称号設定なし</original>
+    <translation xml:space="preserve">No Title Set</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_INVITEPARTY</key>
-    <text xml:space="preserve">Party Setting</text>
+    <original xml:space="preserve">パーティー参加</original>
+    <translation xml:space="preserve">Party Setting</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HISTORYGETACHIEVE</key>
-    <text xml:space="preserve">Achievement &lt;VAL&gt; was earned.</text>
+    <original xml:space="preserve">&lt;VAL&gt; を獲得しました</original>
+    <translation xml:space="preserve">Achievement &lt;VAL&gt; was earned.</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ACHIEVEMENT</key>
-    <text xml:space="preserve">Achievement</text>
+    <original xml:space="preserve">アチーブメント</original>
+    <translation xml:space="preserve">Achievement</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_RENTAL</key>
-    <text xml:space="preserve">Rental</text>
+    <original xml:space="preserve">Rental</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_BATTLEUSENUM</key>
-    <text xml:space="preserve">Remaining Adventures</text>
+    <original xml:space="preserve">残り冒険回数</original>
+    <translation xml:space="preserve">Remaining Adventures</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CRAFTUSENUM</key>
-    <text xml:space="preserve">Remaining Crafts</text>
+    <original xml:space="preserve">残りクラフト回数</original>
+    <translation xml:space="preserve">Remaining Crafts</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_RENTALVALUE</key>
-    <text xml:space="preserve">Rental Cost</text>
+    <original xml:space="preserve">レンタルコスト</original>
+    <translation xml:space="preserve">Rental Cost</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOWRENTAL</key>
-    <text xml:space="preserve">Currently Renting</text>
+    <original xml:space="preserve">レンタル中</original>
+    <translation xml:space="preserve">Currently Renting</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SENID</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PLAYABLEJOB</key>
-    <text xml:space="preserve">Preferred Job</text>
+    <original xml:space="preserve">遊びたいジョブ</original>
+    <translation xml:space="preserve">Preferred Job</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PT_OK</key>
-    <text xml:space="preserve">Allowed</text>
+    <original xml:space="preserve">許可する</original>
+    <translation xml:space="preserve">Allowed</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PT_NG</key>
-    <text xml:space="preserve">Disallowed</text>
+    <original xml:space="preserve">許可しない</original>
+    <translation xml:space="preserve">Disallowed</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NLV</key>
-    <text xml:space="preserve">Next</text>
+    <original xml:space="preserve">Next</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_XP</key>
-    <text xml:space="preserve">XP</text>
+    <original xml:space="preserve">XP</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_NOHISTORY</key>
-    <text xml:space="preserve">There is no history.</text>
+    <original xml:space="preserve">履歴はありません</original>
+    <translation xml:space="preserve">There is no history.</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_RENTALHISTORY</key>
-    <text xml:space="preserve">Rental History</text>
+    <original xml:space="preserve">レンタル履歴</original>
+    <translation xml:space="preserve">Rental History</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_DATING</key>
-    <text xml:space="preserve">Date</text>
+    <original xml:space="preserve">日付</original>
+    <translation xml:space="preserve">Date</translation>
   </message>
 </resource>

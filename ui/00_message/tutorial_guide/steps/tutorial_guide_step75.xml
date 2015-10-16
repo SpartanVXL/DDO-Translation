@@ -1,19 +1,19 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_123</key>
-    <text xml:space="preserve">ハンターは弓による射撃を得意とする
+    <original xml:space="preserve">ハンターは弓による射撃を得意とする
 遠隔攻撃の名手です。空の敵、大型敵相手の
 弱点狙撃で特に真価を発揮します
 
 ＜基本操作＞
 &lt;PADM&gt;　【&lt;ICON PAD_L1&gt;ボタン】弓構え&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_R&gt;クリック】弓構え&lt;/KEYM&gt;
-&lt;PADM&gt;　構えながら【&lt;ICON PAD_L2&gt;／&lt;ICON PAD_R2&gt;ボタン】矢射ち&lt;KEYM&gt;　構えながら【&lt;ICON MOUSE_CL_L&gt;クリック】弓射ち&lt;/KEYM&gt;
+&lt;PADM&gt;　構えながら【&lt;ICON PAD_L2&gt;／&lt;ICON PAD_R2&gt;ボタン】弓射ち&lt;KEYM&gt;　構えながら【&lt;ICON MOUSE_CL_L&gt;クリック】弓射ち&lt;/KEYM&gt;
 &lt;PADM&gt;　構えながら【&lt;ICON STG_TOUCH&gt;ボタン】矢の装填&lt;KEYM&gt;　構えながら【&lt;ICON KB_R&gt;】矢の装填&lt;/KEYM&gt;
-&lt;PADM&gt;　【&lt;ICON STG_ATTACK_0&gt;ボタン】前蹴り&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_L&gt;クリック】前蹴り&lt;/KEYM&gt;</text>
+&lt;PADM&gt;　【&lt;ICON STG_ATTACK_0&gt;ボタン】前蹴り&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_L&gt;クリック】前蹴り&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_256</key>
-    <text xml:space="preserve">また、矢の装填ゲージの水色と青の部分は装填の
+    <original xml:space="preserve">また、矢の装填ゲージの水色と青の部分は装填の
 &lt;COL ffdc78&gt;《ジャストタイミング》&lt;/COL&gt;を示しています
 そのタイミングで&lt;PADM&gt;【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_R&gt;】&lt;/KEYM&gt;を押すと&lt;COL ffdc78&gt;
 《達人装填》&lt;/COL&gt;となりスキが短縮、威力が上昇します
@@ -22,6 +22,6 @@
 　　　　スキ短縮、 弓射ちの初撃が３本に
 
 　水色（Ｇｏｏｄ！）
-　　　　スキ短縮</text>
+　　　　スキ短縮</original>
   </message>
 </resource>

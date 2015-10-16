@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_69</key>
-    <text xml:space="preserve">ゲームを中断したいときは
+    <original xml:space="preserve">ゲームを中断したいときは
 &lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー《オプション》
 から&lt;COL ffdc78&gt;《ゲーム中断》&lt;/COL&gt;を選んでください
 
@@ -9,6 +9,6 @@
 それまでのプレイ記録が自動保存されます
 
 再開時は、最後に居た場所ではなく
-白竜神殿《中央広場》からスタートします</text>
+白竜神殿《中央広場》からスタートします</original>
   </message>
 </resource>

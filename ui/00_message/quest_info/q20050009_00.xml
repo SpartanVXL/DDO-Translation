@@ -1,44 +1,50 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050009_00_254</key>
-    <text xml:space="preserve">The Bridges of Our Livelihood</text>
+    <original xml:space="preserve">橋は我らが命なり</original>
+    <translation xml:space="preserve">The Bridges of Our Livelihood</translation>
   </message>
   <message>
     <key>q20050009_00_254</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20050009_00_254</key>
-    <text xml:space="preserve">切迫した事情を抱えた人物がいると連絡があった
-速やかに&lt;NAME AREA&gt;に向かって欲しい</text>
+    <original xml:space="preserve">切迫した事情を抱えた人物がいると連絡があった
+速やかに&lt;NAME AREA&gt;に向かって欲しい</original>
   </message>
   <message>
     <key>q20050009_00_254</key>
-    <text xml:space="preserve">リンウッドの橋の痛みを修繕するため
+    <original xml:space="preserve">リンウッドの橋の傷みを修繕するため
 村の様子を見に行ったんだが、なんだか魔物が
 増えてるなあ
 橋の近くにもウジャウジャわいて、あれじゃ
-住民たちも不便だろうな</text>
+住民たちも不便だろうな</original>
   </message>
   <message>
     <key>q20050009_00_1015</key>
-    <text xml:space="preserve">Defeat the enemies near the bridges.</text>
+    <original xml:space="preserve">橋付近の敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies near the bridges.</translation>
   </message>
   <message>
     <key>q20050009_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20050009_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
   <message>
     <key>q20050009_00_1100</key>
-    <text xml:space="preserve">Defeat the enemies in the other locations (2 left).</text>
+    <original xml:space="preserve">他の敵を探し討伐する（残り２）</original>
+    <translation xml:space="preserve">Defeat the enemies in the other locations (2 left).</translation>
   </message>
   <message>
     <key>q20050009_00_1101</key>
-    <text xml:space="preserve">Defeat the enemies in the other locations (1 left).</text>
+    <original xml:space="preserve">他の敵を探し討伐する（残り１）</original>
+    <translation xml:space="preserve">Defeat the enemies in the other locations (1 left).</translation>
   </message>
 </resource>

@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_363</key>
-    <text xml:space="preserve">ポーンがロストしてポーン郷にある
+    <original xml:space="preserve">ポーンがロストしてポーン郷にある
 《異界の狭間》へ送られてしまった場合は
 その深部、&lt;COL ffdc78&gt;《囚われし戦徒の間》&lt;/COL&gt;へ向かいましょう
 
 &lt;COL ffdc78&gt;そこであなたのポーンは《ポーンクラッシャー》
 という敵に襲われています
 その敵を倒し救出することで
-ポーンは自由を取り戻すことができます&lt;/COL&gt;</text>
+ポーンは自由を取り戻すことができます&lt;/COL&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_364</key>
-    <text xml:space="preserve">救出に成功したポーンは奥の&lt;COL ffdc78&gt;《リムの淵辺》&lt;/COL&gt;
+    <original xml:space="preserve">救出に成功したポーンは奥の&lt;COL ffdc78&gt;《リムの淵辺》&lt;/COL&gt;
 で話しかけると復活し、再呼び出し可能になります
 
 救出に失敗した場合や、助けず通り過ぎた場合、
@@ -21,6 +21,6 @@
 囚われています
 
 &lt;COL ffdc78&gt;呪縛状態でも《復活力》や《黄金石》を与える
-ことで復活し、再呼び出し可能になります&lt;/COL&gt;</text>
+ことで復活し、再呼び出し可能になります&lt;/COL&gt;</original>
   </message>
 </resource>

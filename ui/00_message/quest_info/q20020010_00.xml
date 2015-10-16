@@ -1,48 +1,50 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20020010_00_239</key>
-    <text xml:space="preserve">奪われた逸品</text>
+    <original xml:space="preserve">奪われた逸品</original>
   </message>
   <message>
     <key>q20020010_00_239</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-望む物品を集める</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+望む物品を集める</original>
   </message>
   <message>
     <key>q20020010_00_239</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;からの噂では
-腕に覚えのある者を、求める人物がいるそうだ</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;からの噂では
+腕に覚えのある者を、求める人物がいるそうだ</original>
   </message>
   <message>
     <key>q20020010_00_239</key>
-    <text xml:space="preserve">外でなれなれしく覚者に話しかけてくるやつがいたら
+    <original xml:space="preserve">外でなれなれしく覚者に話しかけてくるやつがいたら
 警戒しろよ
 とくに騎士団、あいつらの中には
 体よく経験の浅い覚者を利用しようとするヤツがいる
-親切にするのはかまわんが、ナメられないようにな</text>
+親切にするのはかまわんが、ナメられないようにな</original>
   </message>
   <message>
     <key>q20020010_00_915</key>
-    <text xml:space="preserve">＜湖岸地下室＞に置き去られた骨董品を探す</text>
+    <original xml:space="preserve">＜湖岸地下室＞に置き去られた骨董品を探す</original>
   </message>
   <message>
     <key>q20020010_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20020010_00_914</key>
-    <text xml:space="preserve">置き去られた骨董品を回収する（残り３）</text>
+    <original xml:space="preserve">置き去られた骨董品を回収する（残り３）</original>
   </message>
   <message>
     <key>q20020010_00_1092</key>
-    <text xml:space="preserve">置き去られた骨董品を回収する（残り２）</text>
+    <original xml:space="preserve">置き去られた骨董品を回収する（残り２）</original>
   </message>
   <message>
     <key>q20020010_00_1093</key>
-    <text xml:space="preserve">置き去られた骨董品を回収する（残り１）</text>
+    <original xml:space="preserve">置き去られた骨董品を回収する（残り１）</original>
   </message>
   <message>
     <key>q20020010_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

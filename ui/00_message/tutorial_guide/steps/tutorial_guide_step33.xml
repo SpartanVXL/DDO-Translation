@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_80</key>
-    <text xml:space="preserve">レスタニアには、覚者や住民に襲い来る
+    <original xml:space="preserve">レスタニアには、覚者や住民に襲い来る
 多くの敵が徘徊しています
 巨大なもの、群れを成すもの
 毒や魔力を持つもの、夜間や雨天のみ
 登場するものなどさまざまです
 
 &lt;COL ffdc78&gt;レベル（Ｌｖ）が高い敵ほど強力です&lt;/COL&gt;
-自分のレベルと合った敵と戦いましょう</text>
+自分のレベルと合った敵と戦いましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_79</key>
-    <text xml:space="preserve">敵を倒すとレベルアップに必要な
+    <original xml:space="preserve">敵を倒すとレベルアップに必要な
 &lt;COL ffdc78&gt;経験値（ＸＰ）&lt;/COL&gt;が得られます
 時にはアイテムを落とすこともあるため
 積極的に立ち向かいましょう
@@ -20,6 +20,6 @@
 &lt;COL ffdc78&gt;また、敵により弱点となる属性や
 狙うべき弱点部位が異なります&lt;/COL&gt;
 敵の特性を知り、弱点を突くことで
-より戦闘は有利になるでしょう</text>
+より戦闘は有利になるでしょう</original>
   </message>
 </resource>

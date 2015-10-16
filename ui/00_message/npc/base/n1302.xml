@@ -1,67 +1,73 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">ようこそ、テルへ
+    <original xml:space="preserve">ようこそ、テルへ
 旅の準備はこちらで承ろう
-何かご用かな？</text>
+何かご用かな？</original>
   </message>
   <message>
-    <text xml:space="preserve">宿泊だったら&lt;VAL PRICE_INN&gt;だよ
-泊っていくかい？</text>
+    <original xml:space="preserve">宿泊だったら&lt;VAL PRICE_INN&gt;だよ
+泊っていくかい？</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">《弱化の治療》なら
-&lt;VAL PRICE_WEAK&gt;だよ、どうするね？</text>
+    <original xml:space="preserve">《弱化の治療》なら
+&lt;VAL PRICE_WEAK&gt;だよ、どうするね？</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">《弱化の治療》は必要ないようだ
+    <original xml:space="preserve">《弱化の治療》は必要ないようだ
 それでも疲れているなら
-うちで休憩していくといい</text>
+うちで休憩していくといい</original>
   </message>
   <message>
-    <text xml:space="preserve">覚者さん、神殿からあんたには便宜を図るよう
+    <original xml:space="preserve">覚者さん、神殿からあんたには便宜を図るよう
 言われているよ
 さ、好きな部屋を自由に使ってくれ
-休んでいくか？</text>
+休んでいくか？</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">ただでさえ近頃大変だというのに
+    <original xml:space="preserve">ただでさえ近頃大変だというのに
 西に墜ちてきたアレ――
-まったく、不安でたまらんよ</text>
+まったく、不安でたまらんよ</original>
   </message>
   <message>
-    <text xml:space="preserve">覚者さん、良ければ力を貸して
+    <original xml:space="preserve">覚者さん、良ければ力を貸して
 もらえないか？　実は、今ここテルでは
-変な病が流行っていてな――</text>
+変な病が流行っていてな――</original>
   </message>
   <message>
-    <text xml:space="preserve">ついに倒れる者もでるようになったんだ
-一応神殿にも連絡はしているんだが</text>
+    <original xml:space="preserve">ついに倒れる者もでるようになったんだ
+一応神殿にも連絡はしているんだが</original>
   </message>
   <message>
-    <text xml:space="preserve">この辺りの情報なら
-隣にいるアルフレドに聞いてみるといい</text>
+    <original xml:space="preserve">この辺りの情報なら
+隣にいるアルフレドに聞いてみるといい</original>
   </message>
   <message>
-    <text xml:space="preserve">日頃の厄介事は、あいつを介して
+    <original xml:space="preserve">日頃の厄介事は、あいつを介して
 騎士団や覚者さんに取り次いでもらってる
-まぁ、私から直接の時もあるにはあるが</text>
+まぁ、私から直接の時もあるにはあるが</original>
   </message>
 </resource>

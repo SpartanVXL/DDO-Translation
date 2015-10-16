@@ -1,41 +1,45 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20030004_00_241</key>
-    <text xml:space="preserve">Undying Pride</text>
+    <original xml:space="preserve">誇りは朽ちず</original>
+    <translation xml:space="preserve">Undying Pride</translation>
   </message>
   <message>
     <key>q20030004_00_241</key>
-    <text xml:space="preserve">ゲルトの願いを聞き入れ
-騎士団の所有物回収を手伝う</text>
+    <original xml:space="preserve">ゲルトの願いを聞き入れ
+騎士団の所有物回収を手伝う</original>
   </message>
   <message>
     <key>q20030004_00_241</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;に
-覚者に会って相談に乗ってほしい人物がいるという</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;に
+覚者に会って相談に乗ってほしい人物がいるという</original>
   </message>
   <message>
     <key>q20030004_00_241</key>
-    <text xml:space="preserve">多くの覚者は騎士団員を誤解している
+    <original xml:space="preserve">多くの覚者は騎士団員を誤解している
 覚者への対抗意識も「自分たちこそ白竜と民の未来を
 守る盾」という思いが現れたものなのだ
 ゲルト団長はとくにその思いが強い
 あの悲劇を乗り越えた当人としては――おっと
-これ以上は余計なことだな</text>
+これ以上は余計なことだな</original>
   </message>
   <message>
     <key>q20030004_00_917</key>
-    <text xml:space="preserve">Defeat the enemy at the Knights' Old Guardhouse.</text>
+    <original xml:space="preserve">＜旧騎士団詰め所＞の敵を倒す</original>
+    <translation xml:space="preserve">Defeat the enemy at the Knights' Old Guardhouse.</translation>
   </message>
   <message>
     <key>q20030004_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20030004_00_918</key>
-    <text xml:space="preserve">捨てられた騎士団の所有物を探す</text>
+    <original xml:space="preserve">捨てられた騎士団の所有物を探す</original>
   </message>
   <message>
     <key>q20030004_00_920</key>
-    <text xml:space="preserve">Report back to Gerd.</text>
+    <original xml:space="preserve">ゲルトに報告する</original>
+    <translation xml:space="preserve">Report back to Gerd.</translation>
   </message>
 </resource>

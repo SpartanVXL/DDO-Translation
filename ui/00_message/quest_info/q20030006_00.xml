@@ -1,40 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20030006_00_243</key>
-    <text xml:space="preserve">The Incapable Courier</text>
+    <original xml:space="preserve">運べぬ運び屋</original>
+    <translation xml:space="preserve">The Incapable Courier</translation>
   </message>
   <message>
     <key>q20030006_00_243</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-指定の物品を集める</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+指定の物品を集める</original>
   </message>
   <message>
     <key>q20030006_00_243</key>
-    <text xml:space="preserve">何者かからの、迅速な救援を求める声が
-&lt;NAME AREA&gt;から届いているようだ</text>
+    <original xml:space="preserve">何者かからの、迅速な救援を求める声が
+&lt;NAME AREA&gt;から届いているようだ</original>
   </message>
   <message>
     <key>q20030006_00_243</key>
-    <text xml:space="preserve">いや、確かにトラブルを抱えてそうな人はいたよ
+    <original xml:space="preserve">いや、確かにトラブルを抱えてそうな人はいたよ
 ちょっと感情的になってたし、ヘタに関わると
 もっと怒らせるかも、なんて考えちゃって――
 な、なんだよ！？
-そんなことって、誰にでもあるだろ？</text>
+そんなことって、誰にでもあるだろ？</original>
   </message>
   <message>
     <key>q20030006_00_1124</key>
-    <text xml:space="preserve">Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester.</text>
+    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <!-- NEEDS REVIEW -->
+    <translation xml:space="preserve">Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester.</translation>
   </message>
   <message>
     <key>q20030006_00_923</key>
-    <text xml:space="preserve">Speak to Kittredge at the White Temple.</text>
+    <original xml:space="preserve">＜白竜神殿＞のキトリッジに話しかける</original>
+    <translation xml:space="preserve">Speak to Kittredge at the White Temple.</translation>
   </message>
   <message>
     <key>q20030006_00_924</key>
-    <text xml:space="preserve">Speak to Josh at the checkpoint.</text>
+    <original xml:space="preserve">関所のジョシュに話しかける</original>
+    <translation xml:space="preserve">Speak to Josh at the checkpoint.</translation>
   </message>
   <message>
     <key>q20030006_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

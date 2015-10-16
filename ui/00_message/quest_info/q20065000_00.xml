@@ -1,37 +1,41 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20065000_00_139</key>
-    <text xml:space="preserve">幽かなる凶兆</text>
+    <original xml:space="preserve">幽かなる凶兆</original>
   </message>
   <message>
     <key>q20065000_00_139</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
-Defeat the enemies encountered.</text>
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20065000_00_139</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
-危険な存在により住民が脅かされているらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
+危険な存在により住民が脅かされているらしい</original>
   </message>
   <message>
     <key>q20065000_00_139</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 夜も明けきらない森の中で
 それは恐ろしい、魔物の叫び声が聞こえたわ
 あたしたちは生きた心地もなく
 夜道を駆けるように、村に帰ったの、ええ本当に
-森で採取した、野草も茸も何もかも放り投げてね</text>
+森で採取した、野草も茸も何もかも放り投げてね</original>
   </message>
   <message>
     <key>q20065000_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20065000_00_840</key>
-    <text xml:space="preserve">次の敵を探す</text>
+    <original xml:space="preserve">次の敵を探す</original>
   </message>
   <message>
     <key>q20065000_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
 </resource>

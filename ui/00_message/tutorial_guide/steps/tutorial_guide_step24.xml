@@ -1,17 +1,17 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_71</key>
-    <text xml:space="preserve">ゲームメニュー《ワールド》の&lt;COL ffdc78&gt;《マップ》&lt;/COL&gt;では
+    <original xml:space="preserve">ゲームメニュー《ワールド》の&lt;COL ffdc78&gt;《マップ》&lt;/COL&gt;では
 ミニマップより広域のマップを見ることができます
 
 冒険に役立つさまざまな情報
 （パーティーメンバーの現在位置、敵や施設、
 　地名やクエスト目的地など）
-が確認できるため、ぜひ活用してください</text>
+が確認できるため、ぜひ活用してください</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_223</key>
-    <text xml:space="preserve">ゲームメニュー《マップ》の操作
+    <original xml:space="preserve">ゲームメニュー《マップ》の操作
 
 ＜地図切替　詳細／フィールド／広域＞
 &lt;PADM&gt;　【&lt;ICON PAD_L1&gt;ボタン】または【&lt;ICON PAD_R1&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_PGUP&gt;／&lt;ICON KB_PGDOWN&gt;】で切替&lt;/KEYM&gt;
@@ -19,6 +19,6 @@
 &lt;PADM&gt;　【&lt;ICON PAD_K_UP&gt;／&lt;ICON PAD_K_DOWN&gt;】ズームイン／アウト&lt;KEYM&gt;　【&lt;ICON MOUSE_WHL_4&gt;前後】ズームイン／アウト&lt;/KEYM&gt;
 &lt;PADM&gt;　【&lt;ICON STG_ATTACK_1&gt;ボタン】透明度の変更&lt;KEYM&gt;　【&lt;ICON KB_CTRL&gt;】透明度の変更&lt;/KEYM&gt;
 ＜フリーマーカー＞　
-&lt;PADM&gt;　【&lt;ICON PAD_R3&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON MOUSE_WHL_1&gt;】</text>
+&lt;PADM&gt;　【&lt;ICON PAD_R3&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON MOUSE_WHL_1&gt;】</original>
   </message>
 </resource>

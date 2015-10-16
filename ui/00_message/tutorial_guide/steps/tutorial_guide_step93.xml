@@ -1,27 +1,27 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_105</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《バザー》&lt;/COL&gt;は、プレイヤー同士でアイテムの
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《バザー》&lt;/COL&gt;は、プレイヤー同士でアイテムの
 取引を行う場です
 
 他の覚者が出品したアイテムを購入したり
-不要なアイテムを出品することができます</text>
+不要なアイテムを出品することができます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_104</key>
-    <text xml:space="preserve">バザーの出品情報はこまめに
+    <original xml:space="preserve">バザーの出品情報はこまめに
 チェックするのがおすすめです
 
 思わぬ掘り出しものやレアアイテムが
 入手できるかも知れません
 
 なおバザーで扱えるアイテム個数、種類、
-値段には制限があります</text>
+値段には制限があります</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_400</key>
-    <text xml:space="preserve">さらに&lt;OPCS&gt;の効果によって
+    <original xml:space="preserve">さらに特定の&lt;OPCS&gt;の発動中は
 &lt;COL ffdc78&gt;バザーの出品可能枠が大幅に増加し、
-よりバザーの利用が便利になります&lt;/COL&gt;</text>
+よりバザーの利用が便利になります&lt;/COL&gt;</original>
   </message>
 </resource>

@@ -1,45 +1,48 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050000_00_43</key>
-    <text xml:space="preserve">迫る敵意</text>
+    <original xml:space="preserve">迫る敵意</original>
   </message>
   <message>
     <key>q20050000_00_43</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-対象の敵を討伐する</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20050000_00_43</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;から集められた支援要請の
-中には、緊急性の高いものもあったようだ</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;から集められた支援要請の
+中には、緊急性の高いものもあったようだ</original>
   </message>
   <message>
     <key>q20050000_00_43</key>
-    <text xml:space="preserve">おい、森をなめると痛い目見るぜ
+    <original xml:space="preserve">おい、森をなめると痛い目見るぜ
 とくにミスリウは、ハイキング気分で来られちゃ
 困るんだ
 見通しの悪い木々の間から、突然猛獣が襲う事もある
 いっぱしの戦士を気取ってブラブラ歩いてる若造を
-見ると、ケツひっぱたきたくなるぜ</text>
+見ると、ケツひっぱたきたくなるぜ</original>
   </message>
   <message>
     <key>q20050000_00_998</key>
-    <text xml:space="preserve">周辺に集う敵を撃退する</text>
+    <original xml:space="preserve">周辺に集う敵を撃退する</original>
   </message>
   <message>
     <key>q20050000_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20050000_00_862</key>
-    <text xml:space="preserve">更なる魔物の気配を追う</text>
+    <original xml:space="preserve">更なる魔物の気配を追う</original>
   </message>
   <message>
     <key>q20050000_00_828</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">発見した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20050000_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

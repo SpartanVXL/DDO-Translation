@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_391</key>
-    <text xml:space="preserve">ポーンのクラフトレベルが上昇すると、
+    <original xml:space="preserve">ポーンのクラフトレベルが上昇すると、
 &lt;COL ffdc78&gt;《クラフトポイント》&lt;/COL&gt;が獲得できます
 
 そのポイントをクラフトメニュー《ステータス確認》
 から、上げたい&lt;COL ffdc78&gt;《クラフトスキル》&lt;/COL&gt;に割り振ることで
 需要にあった技術を高めることができます
 
-&lt;COL ffdc78&gt;※一度割り振ったポイントは変更できません&lt;/COL&gt;</text>
+&lt;COL ffdc78&gt;※一度割り振ったポイントは変更できません&lt;/COL&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_392</key>
-    <text xml:space="preserve">それにより伸ばせるクラフトスキルの
+    <original xml:space="preserve">それにより伸ばせるクラフトスキルの
 種類と内容は下記です
 
 &lt;COL ffdc78&gt;＜生産作業スピード＞&lt;/COL&gt;
@@ -20,11 +20,11 @@
 
 &lt;COL ffdc78&gt;＜装備の強化技術＞&lt;/COL&gt;
 　　装備の強化効率が上がり、少ない回数
-　　でグレードを上げられるようになる</text>
+　　でグレードを上げられるようになる</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_393</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;＜高品質装備の作成力＞&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;＜高品質装備の作成力＞&lt;/COL&gt;
 　　装備品の生産で精錬材を使った時
 　　大成功しやすくなる
 
@@ -34,6 +34,6 @@
 
 &lt;COL ffdc78&gt;＜コストパフォーマンス＞&lt;/COL&gt;
 　　アイテム生産、装備強化、クレスト装着
-　　などの必要Ｇが少なくなる</text>
+　　などの必要Ｇが少なくなる</original>
   </message>
 </resource>

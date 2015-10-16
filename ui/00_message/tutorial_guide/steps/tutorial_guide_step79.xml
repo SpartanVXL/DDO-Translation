@@ -1,14 +1,12 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_129</key>
-    <text xml:space="preserve">ソーサラーは、多彩で強力な攻撃魔法により
+    <original xml:space="preserve">ソーサラーは、多彩で強力な攻撃魔法により
 敵の弱点属性を突ける、火力と広範囲戦闘に
 優れた術師です
 
 ＜基本操作＞
 &lt;PADM&gt;　【&lt;ICON STG_ATTACK_0&gt;ボタン】マジックボール（魔法弾）&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_L&gt;】マジックボール（魔法弾）&lt;/KEYM&gt;
-&lt;PADM&gt;　【&lt;ICON STG_ATTACK_1&gt;ボタン】マジックトラップ（設置魔法罠）&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_R&gt;】マジックトラップ（設置魔法罠）&lt;/KEYM&gt;
-&lt;PADM&gt;　【&lt;ICON PAD_L1&gt;＋&lt;ICON PAD_R1&gt;ボタン】＋【&lt;ICON STG_JUMP&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_Q&gt;】バックム―ブ（回避移動）&lt;/KEYM&gt;
-&lt;PADM&gt;　　　　　　バックム―ブ（回避移動）</text>
+&lt;PADM&gt;　【&lt;ICON STG_ATTACK_1&gt;ボタン】マジックトラップ（設置魔法罠）&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_R&gt;】マジックトラップ（設置魔法罠）&lt;/KEYM&gt;</original>
   </message>
 </resource>

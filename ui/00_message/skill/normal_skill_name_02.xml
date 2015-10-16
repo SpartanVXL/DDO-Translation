@@ -1,58 +1,68 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_NAME_02_24</key>
-    <text xml:space="preserve">Hack</text>
+    <original xml:space="preserve">連斬</original>
+    <translation xml:space="preserve">Hack</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_25</key>
-    <text xml:space="preserve">Roundhouse Kick</text>
+    <original xml:space="preserve">回し蹴り</original>
+    <translation xml:space="preserve">Roundhouse Kick</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_26</key>
-    <text xml:space="preserve">Hundred Kisses</text>
+    <original xml:space="preserve">百裂斬り</original>
+    <translation xml:space="preserve">Hundred Kisses</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_27</key>
-    <text xml:space="preserve">Scarlet Kisses</text>
+    <original xml:space="preserve">阿修羅斬り</original>
+    <translation xml:space="preserve">Scarlet Kisses</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_32</key>
-    <text xml:space="preserve">Triple Cut</text>
+    <original xml:space="preserve">三連斬</original>
+    <translation xml:space="preserve">Triple Cut</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_33</key>
-    <text xml:space="preserve">Helm Splitter</text>
+    <original xml:space="preserve">断頭台</original>
+    <translation xml:space="preserve">Helm Splitter</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_28</key>
-    <text xml:space="preserve">Rope Stance</text>
+    <original xml:space="preserve">ロープ構え</original>
+    <translation xml:space="preserve">Rope Stance</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_29</key>
-    <text xml:space="preserve">Throw Rope</text>
+    <original xml:space="preserve">ロープ投げ</original>
+    <translation xml:space="preserve">Throw Rope</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_30</key>
-    <text xml:space="preserve">Forward Roll</text>
+    <original xml:space="preserve">転身</original>
+    <translation xml:space="preserve">Forward Roll</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_31</key>
-    <text xml:space="preserve">連係投げ</text>
+    <original xml:space="preserve">連係投げ</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_36</key>
-    <text xml:space="preserve">空壁跳び</text>
+    <original xml:space="preserve">空壁跳び</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_37</key>
-    <text xml:space="preserve">Double Jump</text>
+    <original xml:space="preserve">二段跳び</original>
+    <translation xml:space="preserve">Double Jump</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_38</key>
-    <text xml:space="preserve">乱斬り</text>
+    <original xml:space="preserve">乱斬り</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_02_39</key>
-    <text xml:space="preserve">大乱斬り</text>
+    <original xml:space="preserve">大乱斬り</original>
   </message>
 </resource>

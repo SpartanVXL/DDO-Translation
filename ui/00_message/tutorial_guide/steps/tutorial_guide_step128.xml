@@ -1,17 +1,17 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_67</key>
-    <text xml:space="preserve">ポーンはダメージを受け、体力が尽きると
+    <original xml:space="preserve">ポーンはダメージを受け、体力が尽きると
 《行動不能》となり、さらに一定時間経過すると
 あなた同様《死亡状態》になってしまいます
 
 &lt;COL ffdc78&gt;行動不能になったポーンは
 一定時間内に覚者が接近して&lt;PADM&gt;【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_E&gt;】&lt;/KEYM&gt;で
-助け起こすことでその場復活します&lt;/COL&gt;</text>
+助け起こすことでその場復活します&lt;/COL&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_66</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;一定時間内に助け起こせなかった場合も、
+    <original xml:space="preserve">&lt;COL ffdc78&gt;一定時間内に助け起こせなかった場合も、
 雇い主の覚者が倒れたポーンに触れ《復活力》か
 《黄金石》を与えることで、復活させられます&lt;/COL&gt;
 
@@ -19,11 +19,11 @@
 　　　　　…体力全快でその場復活
 
 　自身の《黄金石》を与える
-　　　　　…体力全快、【強化】状態でその場復活</text>
+　　　　　…体力全快、【強化】状態でその場復活</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_303</key>
-    <text xml:space="preserve">メインポーンが復活できず死亡状態のまま
+    <original xml:space="preserve">メインポーンが復活できず死亡状態のまま
 消えてしまった場合、&lt;COL ffdc78&gt;《ロスト状態》&lt;/COL&gt;となり
 再呼び出しできなくなります
 
@@ -31,27 +31,27 @@
 《異界の狭間》に再び囚われます&lt;/COL&gt;
 
 《異界の狭間》を訪れ、救出してあげましょう
-そうすることで再び呼び出せるようになります</text>
+そうすることで再び呼び出せるようになります</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_304</key>
-    <text xml:space="preserve">サポートポーンが復活できず倒れたまま
+    <original xml:space="preserve">サポートポーンが復活できず倒れたまま
 消えてしまった場合、&lt;COL ffdc78&gt;《冒険回数》&lt;/COL&gt;が１回分
 減り、待機状態に戻されます
 冒険回数が残っていれば、再呼び出し可能です
 
 ポーンの戦線離脱は大きな戦力ダウンに
 なるため、行動不能のポーンは急いで
-助け起こしてあげましょう</text>
+助け起こしてあげましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_420</key>
-    <text xml:space="preserve">また、&lt;OPCS&gt;の効果によりロストした
+    <original xml:space="preserve">また、特定の&lt;OPCS&gt;発動中はロストした
 メインポーンをリムストーンから直接救出
 できるようになります
 
 リムストーンのメニューから&lt;COL ffdc78&gt;《ポーンの救出》&lt;/COL&gt;を
 選ぶことで、対象ポーンのレベルに応じた
-リムと引き換えに、すぐに復活させられます</text>
+リムと引き換えに、すぐに復活させられます</original>
   </message>
 </resource>

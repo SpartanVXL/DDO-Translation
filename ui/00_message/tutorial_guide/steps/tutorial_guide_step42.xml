@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_35</key>
-    <text xml:space="preserve">&lt;COL 78f5ff&gt;《ワールドクエスト》が解放されました！&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL 78f5ff&gt;《ワールドクエスト》が解放されました！&lt;/COL&gt;
 
 &lt;COL ffdc78&gt;《ワールドクエスト》&lt;/COL&gt;は、日々レスタニアを
 探索することで見つけられるクエストです
@@ -9,11 +9,11 @@
 推奨レベルは受ける前に確認すると良いでしょう
 
 &lt;COL ffdc78&gt;ワールドクエスト指定の討伐対象敵は
-ミニマップに青の丸で示されます&lt;/COL&gt;</text>
+ミニマップに青の丸で示されます&lt;/COL&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_300</key>
-    <text xml:space="preserve">各地で起こっているワールドクエストとその報酬は
+    <original xml:space="preserve">各地で起こっているワールドクエストとその報酬は
 &lt;COL ffdc78&gt;《レスタニアニュース》&lt;/COL&gt;でいつでも確認できます
 
 また、各拠点の&lt;COL ffdc78&gt;《エリアマスター》が持つ
@@ -22,17 +22,17 @@
 
 もう一つのポイントは
 &lt;COL ffdc78&gt;《公開クエスト》か《未公開クエスト》&lt;/COL&gt;によって
-報酬や遊び方が異なることです</text>
+報酬や遊び方が異なることです</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_36</key>
-    <text xml:space="preserve">＜公開クエスト＞：通常報酬
+    <original xml:space="preserve">＜公開クエスト＞：通常報酬
 　…全てのプレイヤーに発生場所や報酬、敵などが
 　　公開されているクエストです
 
 ＜未公開クエスト＞：ボーナス報酬追加
 　…自力で探索し見つけ出すか、エリアマスターに
 　　情報料を払う必要があるクエストです
-　&lt;COL ffdc78&gt;クリア時１度のみ、未公開ボーナス報酬が付きます&lt;/COL&gt;</text>
+　&lt;COL ffdc78&gt;クリア時１度のみ、未公開ボーナス報酬が付きます&lt;/COL&gt;</original>
   </message>
 </resource>

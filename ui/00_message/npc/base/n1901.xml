@@ -1,61 +1,67 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">なんだ、用があるなら手短にな</text>
+    <original xml:space="preserve">なんだ、用があるなら手短にな</original>
   </message>
   <message>
-    <text xml:space="preserve">休んでいくか？　ま、体調管理も任務のうちだ
-&lt;VAL PRICE_INN&gt;は利用代として徴収するがな</text>
+    <original xml:space="preserve">休んでいくか？　ま、体調管理も任務のうちだ
+&lt;VAL PRICE_INN&gt;は利用代として徴収するがな</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">休むなら、そこのベッドを自由に使え
+    <original xml:space="preserve">休むなら、そこのベッドを自由に使え
 お前は期待の新人だ
-体は大事にしてもらわんとな</text>
+体は大事にしてもらわんとな</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">ああ、《弱化の治療》だな？
-悪いが&lt;VAL PRICE_WEAK&gt;、徴収するぞ</text>
+    <original xml:space="preserve">ああ、《弱化の治療》だな？
+悪いが&lt;VAL PRICE_WEAK&gt;、徴収するぞ</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">うん？　お前は《弱化》に掛ってはいないぞ
-しっかりしろよ</text>
+    <original xml:space="preserve">うん？　お前は《弱化》に掛ってはいないぞ
+しっかりしろよ</original>
   </message>
   <message>
-    <text xml:space="preserve">覚者にも、ポーンの民と契約を
-結べる者と結べない者がいる</text>
+    <original xml:space="preserve">覚者にも、ポーンの民と契約を
+結べる者と結べない者がいる</original>
   </message>
   <message>
-    <text xml:space="preserve">俺は後者だったが――
-いったい何が違うというんだ、くそ！</text>
+    <original xml:space="preserve">俺は後者だったが――
+いったい何が違うというんだ、くそ！</original>
   </message>
   <message>
-    <text xml:space="preserve">剣の技を学びたければ
+    <original xml:space="preserve">剣の技を学びたければ
 ヴァネッサ副隊長に認めてもらう他ない
-せいぜい修練することだ</text>
+せいぜい修練することだ</original>
   </message>
   <message>
-    <text xml:space="preserve">「この砦を持たせることが、俺達の任務」
+    <original xml:space="preserve">「この砦を持たせることが、俺達の任務」
 そんな事を言うやつがいるが
-お前もそのクチか？</text>
+お前もそのクチか？</original>
   </message>
   <message>
-    <text xml:space="preserve">守ってるだけで勝てはしないだろうに</text>
+    <original xml:space="preserve">守ってるだけで勝てはしないだろうに</original>
   </message>
 </resource>

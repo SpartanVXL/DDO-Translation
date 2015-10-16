@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_29</key>
-    <text xml:space="preserve">クエストは一度に受注できる数に制限があります
+    <original xml:space="preserve">クエストは一度に受注できる数に制限があります
 &lt;COL ffdc78&gt;同時受注できるのは１０件&lt;/COL&gt;ですのでご注意ください
 
 制限数いっぱいまで受注してしまった場合、
@@ -9,11 +9,11 @@
 から《クエスト破棄》が可能&lt;/COL&gt;です
 
 そうすることで、新たにクエストを受注できる
-ようになります</text>
+ようになります</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_28</key>
-    <text xml:space="preserve">ですがワールドクエストにおいて
+    <original xml:space="preserve">ですがワールドクエストにおいて
 突発的な敵討伐クエストに巻き込まれ、
 自動受注する場合がありえます
 
@@ -22,12 +22,12 @@
 マイクエストに５個までストックできます&lt;/COL&gt;
 
 《受注待ち》クエストを優先的にクリアしたい時は
-クエストログで受注数を整理し、正式受注しましょう</text>
+クエストログで受注数を整理し、正式受注しましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_323</key>
-    <text xml:space="preserve">注意点として、《受注待ち》をストックした状態で
+    <original xml:space="preserve">注意点として、《受注待ち》をストックした状態で
 他プレイヤーのパーティーに参加すると
-自身の《受注待ち》は自動的に破棄されます</text>
+自身の《受注待ち》は自動的に破棄されます</original>
   </message>
 </resource>

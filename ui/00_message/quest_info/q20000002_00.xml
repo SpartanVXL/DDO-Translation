@@ -1,49 +1,56 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000002_00_27</key>
-    <text xml:space="preserve">A Transporter's Tragedy</text>
+    <original xml:space="preserve">輸送係の悲劇</original>
+    <translation xml:space="preserve">A Transporter's Tragedy</translation>
   </message>
   <message>
     <key>q20000002_00_27</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-望む物品を集める</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+望む物品を集める</original>
   </message>
   <message>
     <key>q20000002_00_27</key>
-    <text xml:space="preserve">いま&lt;NAME AREA&gt;にいる何者かが
-心配事に胸を曇らせ、覚者の助力を求めているようだ</text>
+    <original xml:space="preserve">いま&lt;NAME AREA&gt;にいる何者かが
+心配事に胸を曇らせ、覚者の助力を求めているようだ</original>
   </message>
   <message>
     <key>q20000002_00_27</key>
-    <text xml:space="preserve">困っている人がいたら、どうするかって？
+    <original xml:space="preserve">困っている人がいたら、どうするかって？
 そんなの放っとくに決まってるだろ
 この世界、親切なヤツほど早死にするのさ
 昨日見かけた騎士風の男も、しかめっ面でこっちを
 見てくるから、とっとと離れてやったよ
-俺のこの貧弱な体に、何を期待してんだっての</text>
+俺のこの貧弱な体に、何を期待してんだっての</original>
   </message>
   <message>
     <key>q20000002_00_805</key>
-    <text xml:space="preserve">Retrieve the lost supplies (5 left).</text>
+    <original xml:space="preserve">平原に散らばる騎士団の装備を回収する（残り５）</original>
+    <translation xml:space="preserve">Retrieve the lost supplies (5 left).</translation>
   </message>
   <message>
     <key>q20000002_00_1079</key>
-    <text xml:space="preserve">Retrieve the lost supplies (4 left).</text>
+    <original xml:space="preserve">平原に散らばる騎士団の装備を回収する（残り４）</original>
+    <translation xml:space="preserve">Retrieve the lost supplies (4 left).</translation>
   </message>
   <message>
     <key>q20000002_00_1080</key>
-    <text xml:space="preserve">Retrieve the lost supplies (3 left).</text>
+    <original xml:space="preserve">平原に散らばる騎士団の装備を回収する（残り３）</original>
+    <translation xml:space="preserve">Retrieve the lost supplies (3 left).</translation>
   </message>
   <message>
     <key>q20000002_00_1081</key>
-    <text xml:space="preserve">Retrieve the lost supplies (2 left).</text>
+    <original xml:space="preserve">平原に散らばる騎士団の装備を回収する（残り２）</original>
+    <translation xml:space="preserve">Retrieve the lost supplies (2 left).</translation>
   </message>
   <message>
     <key>q20000002_00_1082</key>
-    <text xml:space="preserve">Retrieve the lost supplies (1 left).</text>
+    <original xml:space="preserve">平原に散らばる騎士団の装備を回収する（残り１）</original>
+    <translation xml:space="preserve">Retrieve the lost supplies (1 left).</translation>
   </message>
   <message>
     <key>q20000002_00_804</key>
-    <text xml:space="preserve">Report back to the Knight.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the Knight.</translation>
   </message>
 </resource>

@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_173</key>
-    <text xml:space="preserve">弓による攻撃では通常の矢とは別に「爆矢」による
+    <original xml:space="preserve">弓による攻撃では通常の矢とは別に「爆矢」による
 射撃も行うことができます
 
 &lt;PADM&gt;　【&lt;ICON PAD_R1&gt;ボタン】爆矢構え&lt;KEYM&gt;　弓構えから【&lt;ICON MOUSE_WHL_4&gt;前後】構え変更（弓射ち／爆矢構え切替）&lt;/KEYM&gt;
-&lt;PADM&gt;　爆矢構えから【&lt;ICON PAD_L2&gt;／&lt;ICON PAD_R2&gt;ボタン】仕込み爆矢射ち&lt;KEYM&gt;　爆矢構えから【&lt;ICON MOUSE_CL_L&gt;クリック】仕込み爆矢射ち&lt;/KEYM&gt;</text>
+&lt;PADM&gt;　爆矢構えから【&lt;ICON PAD_L2&gt;／&lt;ICON PAD_R2&gt;ボタン】仕込み爆矢射ち&lt;KEYM&gt;　爆矢構えから【&lt;ICON MOUSE_CL_L&gt;クリック】仕込み爆矢射ち&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_396</key>
-    <text xml:space="preserve">また、射撃の威力は敵との距離で変化します
+    <original xml:space="preserve">また、射撃の威力は敵との距離で変化します
 
 &lt;COL ffdc78&gt;狙撃照準カーソルで敵を捕えた時、
 オレンジ色のラインがカーソル中央に合う距離が
 射撃の《最適距離》です&lt;/COL&gt;
 
 その距離から矢を放つことで
-最も大きなダメージを与えることができます</text>
+最も大きなダメージを与えることができます</original>
   </message>
 </resource>

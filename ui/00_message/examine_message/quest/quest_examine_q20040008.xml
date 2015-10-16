@@ -1,11 +1,14 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">「汚染された土の塊」 found.</text>
+    <original xml:space="preserve">「汚染された土の塊」を発見した</original>
+    <translation xml:space="preserve">「汚染された土の塊」 found.</translation>
   </message>
   <message>
-    <text xml:space="preserve">「汚染された泥」 found.</text>
+    <original xml:space="preserve">「汚染された泥」を発見した</original>
+    <translation xml:space="preserve">「汚染された泥」 found.</translation>
   </message>
   <message>
-    <text xml:space="preserve">「汚染された木の枝」 found.</text>
+    <original xml:space="preserve">「汚染された木の枝」を発見した</original>
+    <translation xml:space="preserve">「汚染された木の枝」 found.</translation>
   </message>
 </resource>

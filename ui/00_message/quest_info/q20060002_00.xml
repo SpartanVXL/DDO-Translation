@@ -1,41 +1,50 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20060002_00_49</key>
-    <text xml:space="preserve">嘆きの下っぱ冒険者</text>
+    <original xml:space="preserve">嘆きの下っぱ冒険者</original>
   </message>
   <message>
     <key>q20060002_00_49</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-指定の物品を集める</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+指定の物品を集める</original>
   </message>
   <message>
     <key>q20060002_00_49</key>
-    <text xml:space="preserve">From &lt;NAME AREA&gt;,
-There are reports of someone who is begging for help.</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;から
+何者かが助けを請うているらしいと報告があった</original>
+    <translation xml:space="preserve">From &lt;NAME AREA&gt;,
+There are reports of someone who is begging for help.</translation>
   </message>
   <message>
     <key>q20060002_00_49</key>
-    <text xml:space="preserve">さっき森でよ
+    <original xml:space="preserve">さっき森でよ
+見るからに頼りなそうなあんちゃんが
+声を掛けてきたんだが――
+ま、関わらないほうが良さそうだ
+どう見たって、そいつ
+ツキのない面していたからな</original>
+    <translation xml:space="preserve">さっき森でよ
 見るに頼りなそうなあんちゃんが
 声を掛けてきたんだが――
 ま、関わらないほうが良さそうだ
 どう見たって、そいつ
-ツキのない面していたな</text>
+ツキのない面していたな</translation>
   </message>
   <message>
     <key>q20060002_00_1021</key>
-    <text xml:space="preserve">＜蒼葉のテラス＞で冒険者の落し物を捜す（残り３）</text>
+    <original xml:space="preserve">＜蒼葉のテラス＞で冒険者の落し物を捜す（残り３）</original>
   </message>
   <message>
     <key>q20060002_00_1022</key>
-    <text xml:space="preserve">＜蒼葉のテラス＞で冒険者の落し物を捜す（残り２）</text>
+    <original xml:space="preserve">＜蒼葉のテラス＞で冒険者の落し物を捜す（残り２）</original>
   </message>
   <message>
     <key>q20060002_00_1109</key>
-    <text xml:space="preserve">＜蒼葉のテラス＞で冒険者の落し物を捜す（残り１）</text>
+    <original xml:space="preserve">＜蒼葉のテラス＞で冒険者の落し物を捜す（残り１）</original>
   </message>
   <message>
     <key>q20060002_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>

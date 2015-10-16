@@ -1,605 +1,878 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SPOT_NAME_450</key>
-    <text xml:space="preserve">White Dragon Temple</text>
+    <original xml:space="preserve">白竜神殿レーゼ</original>
+    <translation xml:space="preserve">White Dragon Temple</translation>
   </message>
   <message>
     <key>SPOT_NAME_451</key>
-    <text xml:space="preserve">Tel</text>
+    <original xml:space="preserve">テル</original>
+    <translation xml:space="preserve">Tel</translation>
   </message>
   <message>
     <key>SPOT_NAME_452</key>
-    <text xml:space="preserve">Rotes</text>
+    <original xml:space="preserve">ローテス</original>
+    <translation xml:space="preserve">Rotes</translation>
   </message>
   <message>
     <key>SPOT_NAME_453</key>
-    <text xml:space="preserve">Lynwood</text>
+    <original xml:space="preserve">リンウッド</original>
+    <translation xml:space="preserve">Lynwood</translation>
   </message>
   <message>
     <key>SPOT_NAME_454</key>
-    <text xml:space="preserve">Jingen</text>
+    <original xml:space="preserve">ジンゲン</original>
+    <translation xml:space="preserve">Jingen</translation>
   </message>
   <message>
     <key>SPOT_NAME_455</key>
-    <text xml:space="preserve">Kinoza</text>
+    <original xml:space="preserve">キノザ</original>
+    <translation xml:space="preserve">Kinoza</translation>
   </message>
   <message>
     <key>SPOT_NAME_456</key>
-    <text xml:space="preserve">Hobolic Cave</text>
+    <original xml:space="preserve">ホボリック洞穴</original>
+    <translation xml:space="preserve">Hobolic Cave</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_457</key>
+    <original xml:space="preserve">ドラワン</original>
   </message>
   <message>
     <key>SPOT_NAME_460</key>
-    <text xml:space="preserve">Hidell Plains</text>
+    <original xml:space="preserve">ハイデル平原</original>
+    <translation xml:space="preserve">Hidell Plains</translation>
   </message>
   <message>
     <key>SPOT_NAME_461</key>
-    <text xml:space="preserve">Breya Coast</text>
+    <original xml:space="preserve">ブリア海岸</original>
+    <translation xml:space="preserve">Breya Coast</translation>
   </message>
   <message>
     <key>SPOT_NAME_462</key>
-    <text xml:space="preserve">Betland Plains</text>
+    <original xml:space="preserve">バートランド平原</original>
+    <translation xml:space="preserve">Betland Plains</translation>
   </message>
   <message>
     <key>SPOT_NAME_463</key>
-    <text xml:space="preserve">Dowe Valley</text>
+    <original xml:space="preserve">ダウ渓谷</original>
+    <translation xml:space="preserve">Dowe Valley</translation>
   </message>
   <message>
     <key>SPOT_NAME_464</key>
-    <text xml:space="preserve">Volden Mines</text>
+    <original xml:space="preserve">ボルド鉱山</original>
+    <translation xml:space="preserve">Volden Mines</translation>
   </message>
   <message>
     <key>SPOT_NAME_465</key>
-    <text xml:space="preserve">Mysree Forest</text>
+    <original xml:space="preserve">ミスリウ森林</original>
+    <translation xml:space="preserve">Mysree Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_466</key>
-    <text xml:space="preserve">Mysree Grove</text>
+    <original xml:space="preserve">ミスリウ森林深部</original>
+    <translation xml:space="preserve">Mysree Grove</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_467</key>
+    <original xml:space="preserve">バートランド平原北部</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_470</key>
+    <original xml:space="preserve">ディナン深層林</original>
   </message>
   <message>
     <key>SPOT_NAME_471</key>
-    <text xml:space="preserve">Gritten Fort</text>
+    <original xml:space="preserve">グリッテン砦</original>
+    <translation xml:space="preserve">Gritten Fort</translation>
   </message>
   <message>
     <key>SPOT_NAME_472</key>
-    <text xml:space="preserve">Glowworm Cave</text>
+    <original xml:space="preserve">燐光虫の洞窟</original>
+    <translation xml:space="preserve">Glowworm Cave</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_473</key>
+    <original xml:space="preserve">ガルドノック砦</original>
   </message>
   <message>
     <key>SPOT_NAME_474</key>
-    <text xml:space="preserve">Dreed Castle</text>
+    <original xml:space="preserve">ドリード城</original>
+    <translation xml:space="preserve">Dreed Castle</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_475</key>
+    <original xml:space="preserve">エルテ・ディナン</original>
   </message>
   <message>
     <key>SPOT_NAME_476</key>
-    <text xml:space="preserve">Volden Large Tunnels</text>
+    <original xml:space="preserve">ボルド大坑道</original>
+    <translation xml:space="preserve">Volden Large Tunnels</translation>
   </message>
   <message>
     <key>SPOT_NAME_477</key>
-    <text xml:space="preserve">Dragon's Nest</text>
+    <original xml:space="preserve">竜の巣</original>
+    <translation xml:space="preserve">Dragon's Nest</translation>
   </message>
   <message>
     <key>SPOT_NAME_478</key>
-    <text xml:space="preserve">Temple of Purification</text>
+    <original xml:space="preserve">禊の神殿</original>
+    <translation xml:space="preserve">Temple of Purification</translation>
   </message>
   <message>
     <key>SPOT_NAME_482</key>
-    <text xml:space="preserve">Pawn Cathedral</text>
+    <original xml:space="preserve">ポーン郷</original>
+    <translation xml:space="preserve">Pawn Cathedral</translation>
   </message>
   <message>
     <key>SPOT_NAME_483</key>
-    <text xml:space="preserve">Kinoza Mineral Springs</text>
+    <original xml:space="preserve">キノザ鉱泉</original>
+    <translation xml:space="preserve">Kinoza Mineral Springs</translation>
   </message>
   <message>
     <key>SPOT_NAME_484</key>
-    <text xml:space="preserve">Temple of Purification: South Chamber</text>
+    <original xml:space="preserve">禊の神殿　離殿</original>
+    <translation xml:space="preserve">Temple of Purification: South Chamber</translation>
   </message>
   <message>
     <key>SPOT_NAME_485</key>
-    <text xml:space="preserve">Ancient Place of Rituals</text>
+    <original xml:space="preserve">古の祭祀場</original>
+    <translation xml:space="preserve">Ancient Place of Rituals</translation>
   </message>
   <message>
     <key>SPOT_NAME_486</key>
-    <text xml:space="preserve">Hidell Catacombs</text>
+    <original xml:space="preserve">ハイデル地下霊廟</original>
+    <translation xml:space="preserve">Hidell Catacombs</translation>
   </message>
   <message>
     <key>SPOT_NAME_487</key>
-    <text xml:space="preserve">Hidell Catacombs Depths</text>
+    <original xml:space="preserve">ハイデル地下霊廟　深部</original>
+    <translation xml:space="preserve">Hidell Catacombs Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_488</key>
-    <text xml:space="preserve">Hidell Catacombs Innermost Depths</text>
+    <original xml:space="preserve">ハイデル地下霊廟　最深部</original>
+    <translation xml:space="preserve">Hidell Catacombs Innermost Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_489</key>
-    <text xml:space="preserve">Lynwood Underground Waterway</text>
+    <original xml:space="preserve">リンウッド地下水路</original>
+    <translation xml:space="preserve">Lynwood Underground Waterway</translation>
   </message>
   <message>
     <key>SPOT_NAME_490</key>
-    <text xml:space="preserve">Miners' Secret Route</text>
+    <original xml:space="preserve">採掘師の隠れ道</original>
+    <translation xml:space="preserve">Miners' Secret Route</translation>
   </message>
   <message>
     <key>SPOT_NAME_491</key>
-    <text xml:space="preserve">Southern Wall Fissure</text>
+    <original xml:space="preserve">南壁のひび</original>
+    <translation xml:space="preserve">Southern Wall Fissure</translation>
   </message>
   <message>
     <key>SPOT_NAME_492</key>
-    <text xml:space="preserve">Catacombs</text>
+    <original xml:space="preserve">カタコンベ</original>
+    <translation xml:space="preserve">Catacombs</translation>
   </message>
   <message>
     <key>SPOT_NAME_493</key>
-    <text xml:space="preserve">Greenleaf Terrace</text>
+    <original xml:space="preserve">蒼葉のテラス</original>
+    <translation xml:space="preserve">Greenleaf Terrace</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_494</key>
+    <original xml:space="preserve">神花のテラス</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_495</key>
+    <original xml:space="preserve">レ・カルバス・アーマ</original>
   </message>
   <message>
     <key>SPOT_NAME_496</key>
-    <text xml:space="preserve">戦鬼の影穴</text>
+    <original xml:space="preserve">戦鬼の影穴</original>
   </message>
   <message>
     <key>SPOT_NAME_497</key>
-    <text xml:space="preserve">Betland Underground Passage</text>
+    <original xml:space="preserve">バートランド地下道</original>
+    <translation xml:space="preserve">Betland Underground Passage</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_498</key>
+    <original xml:space="preserve">地下納骨堂</original>
   </message>
   <message>
     <key>SPOT_NAME_503</key>
-    <text xml:space="preserve">South Hidell Bridge</text>
+    <original xml:space="preserve">南ハイデル大橋</original>
+    <translation xml:space="preserve">South Hidell Bridge</translation>
   </message>
   <message>
     <key>SPOT_NAME_504</key>
-    <text xml:space="preserve">South Valley Road</text>
+    <original xml:space="preserve">南壁谷の道</original>
+    <translation xml:space="preserve">South Valley Road</translation>
   </message>
   <message>
     <key>SPOT_NAME_505</key>
-    <text xml:space="preserve">Betland East Side</text>
+    <original xml:space="preserve">バートランド東関所</original>
+    <translation xml:space="preserve">Betland East Side</translation>
   </message>
   <message>
     <key>SPOT_NAME_506</key>
-    <text xml:space="preserve">ディナン山道</text>
+    <original xml:space="preserve">ディナン山道</original>
   </message>
   <message>
     <key>SPOT_NAME_507</key>
-    <text xml:space="preserve">Betland Mountain Road</text>
+    <original xml:space="preserve">バートランド山道</original>
+    <translation xml:space="preserve">Betland Mountain Road</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_508</key>
+    <original xml:space="preserve">フロックヴァルト大橋</original>
   </message>
   <message>
     <key>SPOT_NAME_509</key>
-    <text xml:space="preserve">Catacombs（カスタム）01</text>
+    <original xml:space="preserve">カタコンベ（カスタム）01</original>
+    <translation xml:space="preserve">Catacombs（カスタム）01</translation>
   </message>
   <message>
     <key>SPOT_NAME_510</key>
-    <text xml:space="preserve">Natural Cave＋Tunnel（カスタム）00</text>
+    <original xml:space="preserve">自然洞窟＋坑道（カスタム）00</original>
+    <translation xml:space="preserve">Natural Cave＋Tunnel（カスタム）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_511</key>
-    <text xml:space="preserve">Elven Ruins（カスタム）00</text>
+    <original xml:space="preserve">エルフ遺跡（カスタム）00</original>
+    <translation xml:space="preserve">Elven Ruins（カスタム）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_512</key>
-    <text xml:space="preserve">Underground Passage＋Waterway（カスタム）00</text>
+    <original xml:space="preserve">地下通路＋水路（カスタム）00</original>
+    <translation xml:space="preserve">Underground Passage＋Waterway（カスタム）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_513</key>
-    <text xml:space="preserve">In the Abandoned Well（カスタム）00</text>
+    <original xml:space="preserve">枯れ井戸の中（カスタム）00</original>
+    <translation xml:space="preserve">In the Abandoned Well（カスタム）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_514</key>
-    <text xml:space="preserve">In the Shrine（カスタム）00</text>
+    <original xml:space="preserve">祠の中（カスタム）00</original>
+    <translation xml:space="preserve">In the Shrine（カスタム）00</translation>
   </message>
   <message>
     <key>SPOT_NAME_515</key>
-    <text xml:space="preserve">Cellar (Wine Stores)00</text>
+    <original xml:space="preserve">地下室（ワイン倉庫）00</original>
+    <translation xml:space="preserve">Cellar (Wine Stores)00</translation>
   </message>
   <message>
     <key>SPOT_NAME_516</key>
-    <text xml:space="preserve">The Rift</text>
+    <original xml:space="preserve">異界の狭間</original>
+    <translation xml:space="preserve">The Rift</translation>
   </message>
   <message>
     <key>SPOT_NAME_517</key>
-    <text xml:space="preserve">The Ark</text>
+    <original xml:space="preserve">アーク</original>
+    <translation xml:space="preserve">The Ark</translation>
   </message>
   <message>
     <key>SPOT_NAME_518</key>
-    <text xml:space="preserve">Gritten Fort Travel Office</text>
+    <original xml:space="preserve">グリッテン砦　通行許可</original>
+    <translation xml:space="preserve">Gritten Fort Travel Office</translation>
   </message>
   <message>
     <key>SPOT_NAME_519</key>
-    <text xml:space="preserve">Hidell Church</text>
+    <original xml:space="preserve">ハイデル教会</original>
+    <translation xml:space="preserve">Hidell Church</translation>
   </message>
   <message>
     <key>SPOT_NAME_520</key>
-    <text xml:space="preserve">Moltova Lighthouse</text>
+    <original xml:space="preserve">モルトバ灯台</original>
+    <translation xml:space="preserve">Moltova Lighthouse</translation>
   </message>
   <message>
     <key>SPOT_NAME_521</key>
-    <text xml:space="preserve">Knights' Old Watchtower</text>
+    <original xml:space="preserve">旧騎士団監視塔</original>
+    <translation xml:space="preserve">Knights' Old Watchtower</translation>
   </message>
   <message>
     <key>SPOT_NAME_522</key>
-    <text xml:space="preserve">Lighthouse Old Well</text>
+    <original xml:space="preserve">灯台下の古井戸</original>
+    <translation xml:space="preserve">Lighthouse Old Well</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_523</key>
+    <original xml:space="preserve">レ・カルパス・サルトー</original>
   </message>
   <message>
     <key>SPOT_NAME_524</key>
-    <text xml:space="preserve">Outside</text>
+    <original xml:space="preserve">外に出る</original>
+    <translation xml:space="preserve">Outside</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_525</key>
+    <original xml:space="preserve">ドラワン教会</original>
   </message>
   <message>
     <key>SPOT_NAME_528</key>
-    <text xml:space="preserve">Mysterious Cornerstone</text>
+    <original xml:space="preserve">謎の礎</original>
+    <translation xml:space="preserve">Mysterious Cornerstone</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_529</key>
+    <original xml:space="preserve">テゴル川</original>
   </message>
   <message>
     <key>SPOT_NAME_530</key>
-    <text xml:space="preserve">Lake Cera</text>
+    <original xml:space="preserve">セラー湖</original>
+    <translation xml:space="preserve">Lake Cera</translation>
   </message>
   <message>
     <key>SPOT_NAME_531</key>
-    <text xml:space="preserve">Volden Great Mines</text>
+    <original xml:space="preserve">ボルド大鉱山</original>
+    <translation xml:space="preserve">Volden Great Mines</translation>
   </message>
   <message>
     <key>SPOT_NAME_532</key>
-    <text xml:space="preserve">Lake Inias</text>
+    <original xml:space="preserve">イニアス湖</original>
+    <translation xml:space="preserve">Lake Inias</translation>
   </message>
   <message>
     <key>SPOT_NAME_534</key>
-    <text xml:space="preserve">Central Square</text>
+    <original xml:space="preserve">中央広場</original>
+    <translation xml:space="preserve">Central Square</translation>
   </message>
   <message>
     <key>SPOT_NAME_535</key>
-    <text xml:space="preserve">Shopping District</text>
+    <original xml:space="preserve">商店区</original>
+    <translation xml:space="preserve">Shopping District</translation>
   </message>
   <message>
     <key>SPOT_NAME_536</key>
-    <text xml:space="preserve">Relay Station District</text>
+    <original xml:space="preserve">宿場区</original>
+    <translation xml:space="preserve">Relay Station District</translation>
   </message>
   <message>
     <key>SPOT_NAME_537</key>
-    <text xml:space="preserve">Craft Room</text>
+    <original xml:space="preserve">クラフトルーム</original>
+    <translation xml:space="preserve">Craft Room</translation>
   </message>
   <message>
     <key>SPOT_NAME_538</key>
-    <text xml:space="preserve">Cave Harbour</text>
+    <original xml:space="preserve">港洞</original>
+    <translation xml:space="preserve">Cave Harbour</translation>
   </message>
   <message>
     <key>SPOT_NAME_539</key>
-    <text xml:space="preserve">Front Gate</text>
+    <original xml:space="preserve">大門前</original>
+    <translation xml:space="preserve">Front Gate</translation>
   </message>
   <message>
     <key>SPOT_NAME_541</key>
-    <text xml:space="preserve">Small Cave Tombs</text>
+    <original xml:space="preserve">死者の小窟</original>
+    <translation xml:space="preserve">Small Cave Tombs</translation>
   </message>
   <message>
     <key>SPOT_NAME_542</key>
-    <text xml:space="preserve">Abandoned Underground Passage</text>
+    <original xml:space="preserve">棄てられた地下道</original>
+    <translation xml:space="preserve">Abandoned Underground Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_545</key>
-    <text xml:space="preserve">Miners' Secret Route</text>
+    <original xml:space="preserve">採掘師の隠れ道</original>
+    <translation xml:space="preserve">Miners' Secret Route</translation>
   </message>
   <message>
     <key>SPOT_NAME_546</key>
-    <text xml:space="preserve">Forest People's Underground Passage</text>
+    <original xml:space="preserve">森民の地下道</original>
+    <translation xml:space="preserve">Forest People's Underground Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_547</key>
-    <text xml:space="preserve">Roaring Tide Cave</text>
+    <original xml:space="preserve">潮騒洞窟</original>
+    <translation xml:space="preserve">Roaring Tide Cave</translation>
   </message>
   <message>
     <key>SPOT_NAME_548</key>
-    <text xml:space="preserve">Howling Wind Cave</text>
+    <original xml:space="preserve">風鳴り洞窟</original>
+    <translation xml:space="preserve">Howling Wind Cave</translation>
   </message>
   <message>
     <key>SPOT_NAME_549</key>
-    <text xml:space="preserve">Cliff Tunnels</text>
+    <original xml:space="preserve">断崖の坑道</original>
+    <translation xml:space="preserve">Cliff Tunnels</translation>
   </message>
   <message>
     <key>SPOT_NAME_550</key>
-    <text xml:space="preserve">Volden Narrow Tunnels</text>
+    <original xml:space="preserve">ボルド小坑道</original>
+    <translation xml:space="preserve">Volden Narrow Tunnels</translation>
   </message>
   <message>
     <key>SPOT_NAME_551</key>
-    <text xml:space="preserve">Bandit Hideout</text>
+    <original xml:space="preserve">盗賊の隠れ家</original>
+    <translation xml:space="preserve">Bandit Hideout</translation>
   </message>
   <message>
     <key>SPOT_NAME_552</key>
-    <text xml:space="preserve">Fiend's Cavern</text>
+    <original xml:space="preserve">悪鬼の岩窟</original>
+    <translation xml:space="preserve">Fiend's Cavern</translation>
   </message>
   <message>
     <key>SPOT_NAME_553</key>
-    <text xml:space="preserve">Mysree Limestone Cave</text>
+    <original xml:space="preserve">ミスリウ鍾乳洞</original>
+    <translation xml:space="preserve">Mysree Limestone Cave</translation>
   </message>
   <message>
     <key>SPOT_NAME_554</key>
-    <text xml:space="preserve">Demon's Den</text>
+    <original xml:space="preserve">魔獣の巣穴</original>
+    <translation xml:space="preserve">Demon's Den</translation>
   </message>
   <message>
     <key>SPOT_NAME_555</key>
-    <text xml:space="preserve">Hunters' Secret Passage</text>
+    <original xml:space="preserve">狩人の抜け穴</original>
+    <translation xml:space="preserve">Hunters' Secret Passage</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_556</key>
+    <original xml:space="preserve">秘弓師の住居</original>
   </message>
   <message>
     <key>SPOT_NAME_557</key>
-    <text xml:space="preserve">Dark Green Terrace</text>
+    <original xml:space="preserve">深緑のテラス</original>
+    <translation xml:space="preserve">Dark Green Terrace</translation>
   </message>
   <message>
     <key>SPOT_NAME_558</key>
-    <text xml:space="preserve">Sacred Spring Terrace</text>
+    <original xml:space="preserve">霊泉のテラス</original>
+    <translation xml:space="preserve">Sacred Spring Terrace</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_559</key>
+    <original xml:space="preserve">斜陽のテラス</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_560</key>
+    <original xml:space="preserve">月影のテラス</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_561</key>
+    <original xml:space="preserve">聖樹のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_562</key>
-    <text xml:space="preserve">Knights' Old Route</text>
+    <original xml:space="preserve">旧騎士団連絡路</original>
+    <translation xml:space="preserve">Knights' Old Route</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_563</key>
+    <original xml:space="preserve">旧騎士団資材庫</original>
   </message>
   <message>
     <key>SPOT_NAME_564</key>
-    <text xml:space="preserve">Lakeside Cellar</text>
+    <original xml:space="preserve">湖岸地下室</original>
+    <translation xml:space="preserve">Lakeside Cellar</translation>
   </message>
   <message>
     <key>SPOT_NAME_565</key>
-    <text xml:space="preserve">Dreed Waterway Ruins</text>
+    <original xml:space="preserve">ドリード水路跡</original>
+    <translation xml:space="preserve">Dreed Waterway Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_566</key>
-    <text xml:space="preserve">Kinoza Flood Control</text>
+    <original xml:space="preserve">キノザ治水路</original>
+    <translation xml:space="preserve">Kinoza Flood Control</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_567</key>
+    <original xml:space="preserve">テゴル治水路</original>
   </message>
   <message>
     <key>SPOT_NAME_569</key>
-    <text xml:space="preserve">Training Chapel</text>
+    <original xml:space="preserve">修練の祠</original>
+    <translation xml:space="preserve">Training Chapel</translation>
   </message>
   <message>
     <key>SPOT_NAME_570</key>
-    <text xml:space="preserve">Valley Chapel</text>
+    <original xml:space="preserve">渓谷の小堂</original>
+    <translation xml:space="preserve">Valley Chapel</translation>
   </message>
   <message>
     <key>SPOT_NAME_571</key>
-    <text xml:space="preserve">Mysree Grove Shrine</text>
+    <original xml:space="preserve">標の祠　ミスリウ森林深部</original>
+    <translation xml:space="preserve">Mysree Grove Shrine</translation>
   </message>
   <message>
     <key>SPOT_NAME_572</key>
-    <text xml:space="preserve">Summit Chapel</text>
+    <original xml:space="preserve">山頂の小堂</original>
+    <translation xml:space="preserve">Summit Chapel</translation>
   </message>
   <message>
     <key>SPOT_NAME_574</key>
-    <text xml:space="preserve">Lone House in the Forest</text>
+    <original xml:space="preserve">森の一軒家</original>
+    <translation xml:space="preserve">Lone House in the Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_575</key>
-    <text xml:space="preserve">Ivan's Lodge</text>
+    <original xml:space="preserve">イヴァンの山小屋</original>
+    <translation xml:space="preserve">Ivan's Lodge</translation>
   </message>
   <message>
     <key>SPOT_NAME_576</key>
-    <text xml:space="preserve">Lone House in the Valley</text>
+    <original xml:space="preserve">渓谷の一軒家</original>
+    <translation xml:space="preserve">Lone House in the Valley</translation>
   </message>
   <message>
     <key>SPOT_NAME_578</key>
-    <text xml:space="preserve">Audience Chamber</text>
+    <original xml:space="preserve">謁見の間</original>
+    <translation xml:space="preserve">Audience Chamber</translation>
   </message>
   <message>
     <key>SPOT_NAME_579</key>
-    <text xml:space="preserve">Blocked Passage</text>
+    <original xml:space="preserve">開かずの路</original>
+    <translation xml:space="preserve">Blocked Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_580</key>
-    <text xml:space="preserve">Abandoned Well on Hidell Road</text>
+    <original xml:space="preserve">ハイデル街道の枯れ井戸</original>
+    <translation xml:space="preserve">Abandoned Well on Hidell Road</translation>
   </message>
   <message>
     <key>SPOT_NAME_581</key>
-    <text xml:space="preserve">Cellar of Abandoned House in the Plains</text>
+    <original xml:space="preserve">平原の廃墟地下室</original>
+    <translation xml:space="preserve">Cellar of Abandoned House in the Plains</translation>
   </message>
   <message>
     <key>SPOT_NAME_582</key>
-    <text xml:space="preserve">Abandoned House Cellar</text>
+    <original xml:space="preserve">廃屋の地下室</original>
+    <translation xml:space="preserve">Abandoned House Cellar</translation>
   </message>
   <message>
     <key>SPOT_NAME_583</key>
-    <text xml:space="preserve">Tel's Withered Well</text>
+    <original xml:space="preserve">テルの枯れ井戸</original>
+    <translation xml:space="preserve">Tel's Withered Well</translation>
   </message>
   <message>
     <key>SPOT_NAME_585</key>
-    <text xml:space="preserve">Seaside Cellar</text>
+    <original xml:space="preserve">海辺の地下室</original>
+    <translation xml:space="preserve">Seaside Cellar</translation>
   </message>
   <message>
     <key>SPOT_NAME_586</key>
-    <text xml:space="preserve">Beach Underground Stores</text>
+    <original xml:space="preserve">浜辺の地下保管庫</original>
+    <translation xml:space="preserve">Beach Underground Stores</translation>
   </message>
   <message>
     <key>SPOT_NAME_588</key>
-    <text xml:space="preserve">Supply Stores Ruins</text>
+    <original xml:space="preserve">廃墟の食糧庫</original>
+    <translation xml:space="preserve">Supply Stores Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_589</key>
-    <text xml:space="preserve">Wine Cellar Ruins</text>
+    <original xml:space="preserve">崩れかけたワイン庫</original>
+    <translation xml:space="preserve">Wine Cellar Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_590</key>
-    <text xml:space="preserve">Sealed Old Well</text>
+    <original xml:space="preserve">閉ざされた古井戸</original>
+    <translation xml:space="preserve">Sealed Old Well</translation>
   </message>
   <message>
     <key>SPOT_NAME_591</key>
-    <text xml:space="preserve">Knights' Old Guardhouse</text>
+    <original xml:space="preserve">旧騎士団詰め所</original>
+    <translation xml:space="preserve">Knights' Old Guardhouse</translation>
   </message>
   <message>
     <key>SPOT_NAME_592</key>
-    <text xml:space="preserve">Forest Ruins Cellar</text>
+    <original xml:space="preserve">森の廃墟地下</original>
+    <translation xml:space="preserve">Forest Ruins Cellar</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_593</key>
+    <original xml:space="preserve">妖精の枯れ井戸</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_594</key>
+    <original xml:space="preserve">水陰の淵辺</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_595</key>
+    <original xml:space="preserve">蒼水路</original>
   </message>
   <message>
     <key>SPOT_NAME_596</key>
-    <text xml:space="preserve">Groaning Old Well</text>
+    <original xml:space="preserve">呻きの枯れ井戸</original>
+    <translation xml:space="preserve">Groaning Old Well</translation>
   </message>
   <message>
     <key>SPOT_NAME_598</key>
-    <text xml:space="preserve">Betland Cemetery</text>
+    <original xml:space="preserve">バートランド墓地</original>
+    <translation xml:space="preserve">Betland Cemetery</translation>
   </message>
   <message>
     <key>SPOT_NAME_599</key>
-    <text xml:space="preserve">Ruins Cellar</text>
+    <original xml:space="preserve">廃墟の地下室</original>
+    <translation xml:space="preserve">Ruins Cellar</translation>
   </message>
   <message>
     <key>SPOT_NAME_600</key>
-    <text xml:space="preserve">Dry Underground Stores</text>
+    <original xml:space="preserve">乾いた地下倉庫</original>
+    <translation xml:space="preserve">Dry Underground Stores</translation>
   </message>
   <message>
     <key>SPOT_NAME_601</key>
-    <text xml:space="preserve">Boulder (The Ark)</text>
+    <original xml:space="preserve">大石塊(アーク)</original>
+    <translation xml:space="preserve">Boulder (The Ark)</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_602</key>
+    <original xml:space="preserve">朽ちかけた井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_606</key>
-    <text xml:space="preserve">West Mysree Bridge</text>
+    <original xml:space="preserve">西ミスリウ橋</original>
+    <translation xml:space="preserve">West Mysree Bridge</translation>
   </message>
   <message>
     <key>SPOT_NAME_607</key>
-    <text xml:space="preserve">Foul Water Channel</text>
+    <original xml:space="preserve">不浄の地下水道</original>
+    <translation xml:space="preserve">Foul Water Channel</translation>
   </message>
   <message>
     <key>SPOT_NAME_613</key>
-    <text xml:space="preserve">聖獣の間</text>
+    <original xml:space="preserve">聖獣の間</original>
   </message>
   <message>
     <key>SPOT_NAME_614</key>
-    <text xml:space="preserve">Roaring Demon Bridge</text>
+    <original xml:space="preserve">鬼鳴き橋</original>
+    <translation xml:space="preserve">Roaring Demon Bridge</translation>
   </message>
   <message>
     <key>SPOT_NAME_615</key>
-    <text xml:space="preserve">Bloodwater Bank</text>
+    <original xml:space="preserve">血すすぎ河原</original>
+    <translation xml:space="preserve">Bloodwater Bank</translation>
   </message>
   <message>
     <key>SPOT_NAME_616</key>
-    <text xml:space="preserve">The Black Wolves' Hideout</text>
+    <original xml:space="preserve">黒狼団のアジト</original>
+    <translation xml:space="preserve">The Black Wolves' Hideout</translation>
   </message>
   <message>
     <key>SPOT_NAME_617</key>
-    <text xml:space="preserve">Hidden Beach</text>
+    <original xml:space="preserve">隠れ浜</original>
+    <translation xml:space="preserve">Hidden Beach</translation>
   </message>
   <message>
     <key>SPOT_NAME_618</key>
-    <text xml:space="preserve">Birdcall Rock</text>
+    <original xml:space="preserve">鳥寄せ岩</original>
+    <translation xml:space="preserve">Birdcall Rock</translation>
   </message>
   <message>
     <key>SPOT_NAME_619</key>
-    <text xml:space="preserve">Goblin Camp</text>
+    <original xml:space="preserve">小鬼の野営地</original>
+    <translation xml:space="preserve">Goblin Camp</translation>
   </message>
   <message>
     <key>SPOT_NAME_620</key>
-    <text xml:space="preserve">Deserted Village of Ruflow</text>
+    <original xml:space="preserve">廃村ルフロー</original>
+    <translation xml:space="preserve">Deserted Village of Ruflow</translation>
   </message>
   <message>
     <key>SPOT_NAME_621</key>
-    <text xml:space="preserve">Blue Claw Beach</text>
+    <original xml:space="preserve">青爪浜</original>
+    <translation xml:space="preserve">Blue Claw Beach</translation>
   </message>
   <message>
     <key>SPOT_NAME_622</key>
-    <text xml:space="preserve">Forest Goblins Village</text>
+    <original xml:space="preserve">森小人の集落</original>
+    <translation xml:space="preserve">Forest Goblins Village</translation>
   </message>
   <message>
     <key>SPOT_NAME_623</key>
-    <text xml:space="preserve">The Roaring Ape's Territory</text>
+    <original xml:space="preserve">唸り猿の縄張り</original>
+    <translation xml:space="preserve">The Roaring Ape's Territory</translation>
   </message>
   <message>
     <key>SPOT_NAME_624</key>
-    <text xml:space="preserve">Abattoir</text>
+    <original xml:space="preserve">肉裂き館</original>
+    <translation xml:space="preserve">Abattoir</translation>
   </message>
   <message>
     <key>SPOT_NAME_625</key>
-    <text xml:space="preserve">The Pig-Eater's Den</text>
+    <original xml:space="preserve">豚喰いのねぐら</original>
+    <translation xml:space="preserve">The Pig-Eater's Den</translation>
   </message>
   <message>
     <key>SPOT_NAME_626</key>
-    <text xml:space="preserve">Mountainside Battlefield</text>
+    <original xml:space="preserve">山腹の野戦場</original>
+    <translation xml:space="preserve">Mountainside Battlefield</translation>
   </message>
   <message>
     <key>SPOT_NAME_627</key>
-    <text xml:space="preserve">The Giant Eagle's Treasure Hoard</text>
+    <original xml:space="preserve">巨鷲の宝物溜め</original>
+    <translation xml:space="preserve">The Giant Eagle's Treasure Hoard</translation>
   </message>
   <message>
     <key>SPOT_NAME_628</key>
-    <text xml:space="preserve">White Sands Riverbank</text>
+    <original xml:space="preserve">白砂河原</original>
+    <translation xml:space="preserve">White Sands Riverbank</translation>
   </message>
   <message>
     <key>SPOT_NAME_629</key>
-    <text xml:space="preserve">Dreed Watchtower</text>
+    <original xml:space="preserve">ドリード監視塔</original>
+    <translation xml:space="preserve">Dreed Watchtower</translation>
   </message>
   <message>
     <key>SPOT_NAME_630</key>
-    <text xml:space="preserve">The Songstress' Cliff Perch</text>
+    <original xml:space="preserve">歌姫の崖座</original>
+    <translation xml:space="preserve">The Songstress' Cliff Perch</translation>
   </message>
   <message>
     <key>SPOT_NAME_631</key>
-    <text xml:space="preserve">Poachers' Camp</text>
+    <original xml:space="preserve">密猟者のキャンプ</original>
+    <translation xml:space="preserve">Poachers' Camp</translation>
   </message>
   <message>
     <key>SPOT_NAME_632</key>
-    <text xml:space="preserve">Inias Wetlands</text>
+    <original xml:space="preserve">イニアス湿地帯</original>
+    <translation xml:space="preserve">Inias Wetlands</translation>
   </message>
   <message>
     <key>SPOT_NAME_633</key>
-    <text xml:space="preserve">Nameless Deserted Village</text>
+    <original xml:space="preserve">名もなき廃村</original>
+    <translation xml:space="preserve">Nameless Deserted Village</translation>
   </message>
   <message>
     <key>SPOT_NAME_634</key>
-    <text xml:space="preserve">The Giant's Bed</text>
+    <original xml:space="preserve">巨人の寝床</original>
+    <translation xml:space="preserve">The Giant's Bed</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_635</key>
+    <original xml:space="preserve">グローン・ノス</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_636</key>
+    <original xml:space="preserve">エルネア・スプリング</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_637</key>
+    <original xml:space="preserve">サーズ・ディナン</original>
   </message>
   <message>
     <key>SPOT_NAME_638</key>
-    <text xml:space="preserve">Lakeside Ruins</text>
+    <original xml:space="preserve">湖岸の廃墟</original>
+    <translation xml:space="preserve">Lakeside Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_639</key>
-    <text xml:space="preserve">Betland Bridge</text>
+    <original xml:space="preserve">バートランド大橋</original>
+    <translation xml:space="preserve">Betland Bridge</translation>
   </message>
   <message>
     <key>SPOT_NAME_640</key>
-    <text xml:space="preserve">Lake Cera Ship Graveyard</text>
+    <original xml:space="preserve">セラー湖船墓場</original>
+    <translation xml:space="preserve">Lake Cera Ship Graveyard</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_641</key>
+    <original xml:space="preserve">砦前・千本棘の陣</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_642</key>
+    <original xml:space="preserve">魔犬養育所</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_643</key>
+    <original xml:space="preserve">ガルドノック哨戒地</original>
   </message>
   <message>
     <key>SPOT_NAME_652</key>
-    <text xml:space="preserve">Ancient Place of Rituals</text>
+    <original xml:space="preserve">古の祭祀場</original>
+    <translation xml:space="preserve">Ancient Place of Rituals</translation>
   </message>
   <message>
     <key>SPOT_NAME_653</key>
-    <text xml:space="preserve">Kinoza Mineral Springs</text>
+    <original xml:space="preserve">キノザ鉱泉</original>
+    <translation xml:space="preserve">Kinoza Mineral Springs</translation>
   </message>
   <message>
     <key>SPOT_NAME_660</key>
-    <text xml:space="preserve">Spring of Healing</text>
+    <original xml:space="preserve">癒しの泉</original>
+    <translation xml:space="preserve">Spring of Healing</translation>
   </message>
   <message>
     <key>SPOT_NAME_661</key>
-    <text xml:space="preserve">Spring of Vitality</text>
+    <original xml:space="preserve">活力の泉</original>
+    <translation xml:space="preserve">Spring of Vitality</translation>
   </message>
   <message>
     <key>SPOT_NAME_662</key>
-    <text xml:space="preserve">Spring of Abundance</text>
+    <original xml:space="preserve">豊穣の泉</original>
+    <translation xml:space="preserve">Spring of Abundance</translation>
   </message>
   <message>
     <key>SPOT_NAME_663</key>
-    <text xml:space="preserve">Partly-Dug Well</text>
+    <original xml:space="preserve">掘削中の井戸</original>
+    <translation xml:space="preserve">Partly-Dug Well</translation>
   </message>
   <message>
     <key>SPOT_NAME_665</key>
-    <text xml:space="preserve">囚われし戦徒の間</text>
+    <original xml:space="preserve">囚われし戦徒の間</original>
   </message>
   <message>
-    <key>SPOT_NAME_666</key>Depths of The Rift</text>
+    <key>SPOT_NAME_666</key>
+    <original xml:space="preserve">リムの淵辺</original>
+    <translation xml:space="preserve">Depths of The Rift</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_670</key>
+    <original xml:space="preserve">第二のアーク</original>
   </message>
   <message>
     <key>SPOT_NAME_672</key>
-    <text xml:space="preserve">White Dragon Temple (Front Gate)</text>
+    <original xml:space="preserve">白竜神殿レーゼ（大門前）</original>
+    <translation xml:space="preserve">White Dragon Temple (Front Gate)</translation>
   </message>
   <message>
     <key>SPOT_NAME_673</key>
-    <text xml:space="preserve">White Dragon Temple (Central Square)</text>
+    <original xml:space="preserve">白竜神殿レーゼ（中央広場）</original>
+    <translation xml:space="preserve">White Dragon Temple (Central Square)</translation>
   </message>
   <message>
     <key>SPOT_NAME_674</key>
-    <text xml:space="preserve">Roaring Tide Hidden Chamber</text>
+    <original xml:space="preserve">潮騒の隠れ部屋</original>
+    <translation xml:space="preserve">Roaring Tide Hidden Chamber</translation>
   </message>
   <message>
     <key>SPOT_NAME_675</key>
-    <text xml:space="preserve">騎士団補給所跡</text>
+    <original xml:space="preserve">騎士団補給所跡</original>
   </message>
   <message>
     <key>SPOT_NAME_676</key>
-    <text xml:space="preserve">Dreed Connecting Passage</text>
+    <original xml:space="preserve">ドリード連絡路</original>
+    <translation xml:space="preserve">Dreed Connecting Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_677</key>
-    <text xml:space="preserve">波打ちの門洞</text>
+    <original xml:space="preserve">波打ちの門洞</original>
   </message>
   <message>
     <key>SPOT_NAME_678</key>
-    <text xml:space="preserve">Waterfall Great Cavern</text>
+    <original xml:space="preserve">瀑布の大岩窟</original>
+    <translation xml:space="preserve">Waterfall Great Cavern</translation>
   </message>
   <message>
     <key>SPOT_NAME_679</key>
-    <text xml:space="preserve">臥竜のうろ</text>
+    <original xml:space="preserve">臥竜のうろ</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_680</key>
+    <original xml:space="preserve">水流制御室</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_681</key>
+    <original xml:space="preserve">聖滝の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_682</key>
+    <original xml:space="preserve">中央大水廊</original>
   </message>
 </resource>

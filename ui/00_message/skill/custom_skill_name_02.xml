@@ -1,34 +1,50 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_02_20</key>
-    <text xml:space="preserve">Biting Wind</text>
+    <original xml:space="preserve">かまいたち</original>
+    <translation xml:space="preserve">Biting Wind</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_21</key>
-    <text xml:space="preserve">Toss and Trigger</text>
+    <original xml:space="preserve">アギト裂き</original>
+    <translation xml:space="preserve">Toss and Trigger</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_24</key>
-    <text xml:space="preserve">Back Kick</text>
+    <original xml:space="preserve">返し蹴り</original>
+    <translation xml:space="preserve">Back Kick</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_22</key>
-    <text xml:space="preserve">Ensnare</text>
+    <original xml:space="preserve">引き寄せ</original>
+    <translation xml:space="preserve">Ensnare</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_29</key>
-    <text xml:space="preserve">Falcon Kick</text>
+    <original xml:space="preserve">隼落とし</original>
+    <translation xml:space="preserve">Falcon Kick</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_23</key>
-    <text xml:space="preserve">Stepping Stone</text>
+    <original xml:space="preserve">蹴り跳び</original>
+    <translation xml:space="preserve">Stepping Stone</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_25</key>
-    <text xml:space="preserve">Reset</text>
+    <original xml:space="preserve">構え直し</original>
+    <translation xml:space="preserve">Reset</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_26</key>
-    <text xml:space="preserve">Powder Charge</text>
+    <original xml:space="preserve">爆炎線</original>
+    <translation xml:space="preserve">Powder Charge</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_02_30</key>
+    <original xml:space="preserve">旋風刃</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_02_31</key>
+    <original xml:space="preserve">足刈り綱</original>
   </message>
 </resource>

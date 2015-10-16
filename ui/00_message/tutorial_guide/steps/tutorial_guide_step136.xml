@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_152</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《アチーブメント》&lt;/COL&gt;は、
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《アチーブメント》&lt;/COL&gt;は、
 あなたがゲーム内で行ったさまざまな行動に
 対して送られる達成の証です
 
@@ -10,6 +10,6 @@
 
 獲得したアチーブメントは&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;
 ゲームメニュー《キャラクター》の
-《アチーブメント》で確認できます</text>
+《アチーブメント》で確認できます</original>
   </message>
 </resource>

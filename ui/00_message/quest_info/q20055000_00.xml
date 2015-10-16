@@ -1,29 +1,33 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20055000_00_127</key>
-    <text xml:space="preserve">Scaled Soldiers</text>
+    <original xml:space="preserve">鱗持つ戦士達</original>
+    <translation xml:space="preserve">Scaled Soldiers</translation>
   </message>
   <message>
     <key>q20055000_00_127</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
-Defeat the enemies encountered.</text>
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20055000_00_127</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
-危険な存在により住民が脅かされているらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
+危険な存在により住民が脅かされているらしい</original>
   </message>
   <message>
     <key>q20055000_00_127</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 南方の親類を訪ねて旅をしているものだが、昨夜は
 金がなく道端の廃屋で素泊まりしていたんだ
 あれは夜明け前の一番暗い時刻だったと思うが
 ねばりつくような何者かの気配に、背筋がぞっとして
-跳ね起きたんだ――何がいたんだろう</text>
+跳ね起きたんだ――何がいたんだろう</original>
   </message>
   <message>
     <key>q20055000_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
 </resource>

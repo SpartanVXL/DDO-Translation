@@ -1,34 +1,50 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_01_8</key>
-    <text xml:space="preserve">Blink Strike</text>
+    <original xml:space="preserve">一閃突き</original>
+    <translation xml:space="preserve">Blink Strike</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_12</key>
-    <text xml:space="preserve">Tusk Toss</text>
+    <original xml:space="preserve">刀牙昇斬</original>
+    <translation xml:space="preserve">Tusk Toss</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_10</key>
-    <text xml:space="preserve">Cymbal Attack</text>
+    <original xml:space="preserve">シールドバッシュ</original>
+    <translation xml:space="preserve">Cymbal Attack</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_13</key>
-    <text xml:space="preserve">Skyward Lash</text>
+    <original xml:space="preserve">天蓋斬り</original>
+    <translation xml:space="preserve">Skyward Lash</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_15</key>
-    <text xml:space="preserve">Hindsight Slash</text>
+    <original xml:space="preserve">逸らし斬り</original>
+    <translation xml:space="preserve">Hindsight Slash</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_9</key>
-    <text xml:space="preserve">Downthrust</text>
+    <original xml:space="preserve">直下突き</original>
+    <translation xml:space="preserve">Downthrust</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_11</key>
-    <text xml:space="preserve">Sheltered Spike</text>
+    <original xml:space="preserve">センチュリオンスパイク</original>
+    <translation xml:space="preserve">Sheltered Spike</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_14</key>
-    <text xml:space="preserve">Compass Slash</text>
+    <original xml:space="preserve">円月斬り</original>
+    <translation xml:space="preserve">Compass Slash</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_01_18</key>
+    <original xml:space="preserve">チャリオットムーブ</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_01_16</key>
+    <original xml:space="preserve">弐段突き</original>
   </message>
 </resource>

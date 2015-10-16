@@ -1,30 +1,41 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>JOB_NAME_0</key>
-    <text xml:space="preserve">None</text>
+    <original xml:space="preserve">指定なし</original>
+    <translation xml:space="preserve">None</translation>
   </message>
   <message>
     <key>JOB_NAME_1</key>
-    <text xml:space="preserve">Fighter</text>
+    <original xml:space="preserve">ファイター</original>
+    <translation xml:space="preserve">Fighter</translation>
   </message>
   <message>
     <key>JOB_NAME_2</key>
-    <text xml:space="preserve">Seeker</text>
+    <original xml:space="preserve">シーカー</original>
+    <translation xml:space="preserve">Seeker</translation>
   </message>
   <message>
     <key>JOB_NAME_3</key>
-    <text xml:space="preserve">Hunter</text>
+    <original xml:space="preserve">ハンター</original>
+    <translation xml:space="preserve">Hunter</translation>
   </message>
   <message>
     <key>JOB_NAME_4</key>
-    <text xml:space="preserve">Priest</text>
+    <original xml:space="preserve">プリースト</original>
+    <translation xml:space="preserve">Priest</translation>
   </message>
   <message>
     <key>JOB_NAME_5</key>
-    <text xml:space="preserve">Shield Sage</text>
+    <original xml:space="preserve">シールドセージ</original>
+    <translation xml:space="preserve">Shield Sage</translation>
   </message>
   <message>
     <key>JOB_NAME_6</key>
-    <text xml:space="preserve">Sorcerer</text>
+    <original xml:space="preserve">ソーサラー</original>
+    <translation xml:space="preserve">Sorcerer</translation>
+  </message>
+  <message>
+    <key>JOB_NAME_8</key>
+    <original xml:space="preserve">エレメントアーチャー</original>
   </message>
 </resource>

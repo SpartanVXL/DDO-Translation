@@ -1,82 +1,100 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>COMLIST_MSG_BLACK_LIST</key>
-    <text xml:space="preserve">Blacklist</text>
+    <original xml:space="preserve">ブラックリスト</original>
+    <translation xml:space="preserve">Blacklist</translation>
   </message>
   <message>
     <key>COMLIST_MSG_FRIEND</key>
-    <text xml:space="preserve">Friend</text>
+    <original xml:space="preserve">フレンド</original>
+    <translation xml:space="preserve">Friend</translation>
   </message>
   <message>
     <key>COMLIST_MSG_CLAN</key>
-    <text xml:space="preserve">Clan</text>
+    <original xml:space="preserve">クラン</original>
+    <translation xml:space="preserve">Clan</translation>
   </message>
   <message>
     <key>COMLIST_MSG_REGIST_NUMOFPEAPLE</key>
-    <text xml:space="preserve">Number</text>
+    <original xml:space="preserve">登録人数</original>
+    <translation xml:space="preserve">Number</translation>
   </message>
   <message>
     <key>COMLIST_MSG_BETWEEN_APPLICATION</key>
-    <text xml:space="preserve">Pending</text>
+    <original xml:space="preserve">申請中</original>
+    <translation xml:space="preserve">Pending</translation>
   </message>
   <message>
     <key>COMLIST_MSG_WAIT_APPROVAL</key>
-    <text xml:space="preserve">Pending</text>
+    <original xml:space="preserve">承認待</original>
+    <translation xml:space="preserve">Pending</translation>
   </message>
   <message>
     <key>COMLIST_MSG_PLAYER_NAME</key>
-    <text xml:space="preserve">Name</text>
+    <original xml:space="preserve">名前</original>
+    <translation xml:space="preserve">Name</translation>
   </message>
   <message>
     <key>COMLIST_MSG_JOB_LV</key>
-    <text xml:space="preserve">Job Level</text>
+    <original xml:space="preserve">ジョブレベル</original>
+    <translation xml:space="preserve">Job Level</translation>
   </message>
   <message>
     <key>COMLIST_MSG_LOBBY_ID</key>
-    <text xml:space="preserve">Lobby</text>
+    <original xml:space="preserve">ロビー</original>
+    <translation xml:space="preserve">Lobby</translation>
   </message>
   <message>
     <key>COMLIST_MSG_PARTY_PL_NUM</key>
-    <text xml:space="preserve">Party</text>
+    <original xml:space="preserve">Party</original>
   </message>
   <message>
     <key>COMLIST_MSG_COMMENT</key>
-    <text xml:space="preserve">Comment</text>
+    <original xml:space="preserve">コメント</original>
+    <translation xml:space="preserve">Comment</translation>
   </message>
   <message>
     <key>COMLIST_MSG_COMMUNITY_LIST</key>
-    <text xml:space="preserve">Community List</text>
+    <original xml:space="preserve">Community List</original>
   </message>
   <message>
     <key>COMLIST_MSG_COMM_LIST_JP</key>
-    <text xml:space="preserve">Community List</text>
+    <original xml:space="preserve">コミュニティリスト</original>
+    <translation xml:space="preserve">Community List</translation>
   </message>
   <message>
     <key>COMLIST_MSG_FRIEND_LIST</key>
-    <text xml:space="preserve">Friends</text>
+    <original xml:space="preserve">フレンドリスト</original>
+    <translation xml:space="preserve">Friends</translation>
   </message>
   <message>
     <key>COMLIST_MSG_ACTIVE_LIST</key>
-    <text xml:space="preserve">Online</text>
+    <original xml:space="preserve">オンラインメンバー</original>
+    <translation xml:space="preserve">Online</translation>
   </message>
   <message>
     <key>COMLIST_MSG_RECENT_LIST</key>
-    <text xml:space="preserve">Recent</text>
+    <original xml:space="preserve">最近遊んだプレイヤー</original>
+    <translation xml:space="preserve">Recent</translation>
   </message>
   <message>
     <key>COMLIST_MSG_ANA_0_FRIEND</key>
-    <text xml:space="preserve">No friends</text>
+    <original xml:space="preserve">フレンドがいません</original>
+    <translation xml:space="preserve">No friends</translation>
   </message>
   <message>
     <key>COMLIST_MSG_ANA_0_ACTIVE</key>
-    <text xml:space="preserve">No online friends or clanmates</text>
+    <original xml:space="preserve">オンライン中のフレンド、クランメンバーがいません</original>
+    <translation xml:space="preserve">No online friends or clanmates</translation>
   </message>
   <message>
     <key>COMLIST_MSG_ANA_0_RECENT</key>
-    <text xml:space="preserve">No recent players</text>
+    <original xml:space="preserve">最近遊んだ人はいません</original>
+    <translation xml:space="preserve">No recent players</translation>
   </message>
   <message>
     <key>COMLIST_MSG_ANA_0_BLACK</key>
-    <text xml:space="preserve">Nobody has been blacklisted</text>
+    <original xml:space="preserve">ブラックリストに登録されている人はいません</original>
+    <translation xml:space="preserve">Nobody has been blacklisted</translation>
   </message>
 </resource>

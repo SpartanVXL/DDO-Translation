@@ -1,170 +1,180 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CLAN_PROFILE_MOTTO_001</key>
-    <text xml:space="preserve">自由がモットーです</text>
+    <original xml:space="preserve">自由がモットーです</original>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_002</key>
-    <text xml:space="preserve">初心者にやさしく教えます</text>
+    <original xml:space="preserve">初心者にやさしく教えます</original>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_003</key>
-    <text xml:space="preserve">メンバーを大切にします</text>
+    <original xml:space="preserve">メンバーを大切にします</original>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_004</key>
-    <text xml:space="preserve">エンドコンテンツで遊びます</text>
+    <original xml:space="preserve">エンドコンテンツで遊びます</original>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_005</key>
-    <text xml:space="preserve">経験者募集</text>
+    <original xml:space="preserve">経験者募集</original>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_006</key>
-    <text xml:space="preserve">クラフトを頑張ります</text>
+    <original xml:space="preserve">クラフトを頑張ります</original>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_007</key>
-    <text xml:space="preserve">モットー予備</text>
+    <original xml:space="preserve">モットー予備</original>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_008</key>
-    <text xml:space="preserve">モットー予備</text>
+    <original xml:space="preserve">モットー予備</original>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_009</key>
-    <text xml:space="preserve">モットー予備</text>
+    <original xml:space="preserve">モットー予備</original>
   </message>
   <message>
     <key>CLAN_PROFILE_MOTTO_010</key>
-    <text xml:space="preserve">モットー予備</text>
+    <original xml:space="preserve">モットー予備</original>
   </message>
   <message>
     <key>CLAN_PROFILE_DAY_001</key>
-    <text xml:space="preserve">Daily</text>
+    <original xml:space="preserve">毎日</original>
+    <translation xml:space="preserve">Daily</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_DAY_002</key>
-    <text xml:space="preserve">Weekdays</text>
+    <original xml:space="preserve">平日</original>
+    <translation xml:space="preserve">Weekdays</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_DAY_003</key>
-    <text xml:space="preserve">Weekend</text>
+    <original xml:space="preserve">週末</original>
+    <translation xml:space="preserve">Weekend</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_DAY_004</key>
-    <text xml:space="preserve">Holidays</text>
+    <original xml:space="preserve">休日</original>
+    <translation xml:space="preserve">Holidays</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_HOUR_001</key>
-    <text xml:space="preserve">Any time</text>
+    <original xml:space="preserve">いつでも</original>
+    <translation xml:space="preserve">Any time</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_HOUR_002</key>
-    <text xml:space="preserve">Morning</text>
+    <original xml:space="preserve">朝方中心プレイ</original>
+    <translation xml:space="preserve">Morning</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_HOUR_003</key>
-    <text xml:space="preserve">Noon</text>
+    <original xml:space="preserve">昼型中心プレイ</original>
+    <translation xml:space="preserve">Noon</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_HOUR_004</key>
-    <text xml:space="preserve">Evening</text>
+    <original xml:space="preserve">夜型中心プレイ</original>
+    <translation xml:space="preserve">Evening</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_001</key>
-    <text xml:space="preserve">だれでも歓迎</text>
+    <original xml:space="preserve">だれでも歓迎</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_002</key>
-    <text xml:space="preserve">Beginners welcome</text>
+    <original xml:space="preserve">初心者歓迎</original>
+    <translation xml:space="preserve">Beginners welcome</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_003</key>
-    <text xml:space="preserve">熟練者歓迎</text>
+    <original xml:space="preserve">熟練者歓迎</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_004</key>
-    <text xml:space="preserve">Laid back play</text>
+    <original xml:space="preserve">まったり遊ぼう</original>
+    <translation xml:space="preserve">Laid back play</translation>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_005</key>
-    <text xml:space="preserve">クラン集会あります</text>
+    <original xml:space="preserve">クラン集会あります</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_006</key>
-    <text xml:space="preserve">なりきりプレイ</text>
+    <original xml:space="preserve">なりきりプレイ</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_007</key>
-    <text xml:space="preserve">雑談大好き</text>
+    <original xml:space="preserve">雑談大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_008</key>
-    <text xml:space="preserve">チャット不要</text>
+    <original xml:space="preserve">チャット不要</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_009</key>
-    <text xml:space="preserve">バトル大好き</text>
+    <original xml:space="preserve">バトル大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_010</key>
-    <text xml:space="preserve">お金大好き</text>
+    <original xml:space="preserve">お金大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_011</key>
-    <text xml:space="preserve">シナリオ大好き</text>
+    <original xml:space="preserve">シナリオ大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_012</key>
-    <text xml:space="preserve">クラフト大好き</text>
+    <original xml:space="preserve">クラフト大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_013</key>
-    <text xml:space="preserve">ランキング大好き</text>
+    <original xml:space="preserve">ランキング大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_014</key>
-    <text xml:space="preserve">クエスト攻略大好き</text>
+    <original xml:space="preserve">クエスト攻略大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_015</key>
-    <text xml:space="preserve">ミッション攻略大好き</text>
+    <original xml:space="preserve">ミッション攻略大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_016</key>
-    <text xml:space="preserve">ポーン育成大好き</text>
+    <original xml:space="preserve">ポーン育成大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_017</key>
-    <text xml:space="preserve">アチーブ大好き</text>
+    <original xml:space="preserve">アチーブ大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_018</key>
-    <text xml:space="preserve">レベルあげ大好き</text>
+    <original xml:space="preserve">レベルあげ大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_019</key>
-    <text xml:space="preserve">レア素材大好き</text>
+    <original xml:space="preserve">レア素材大好き</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_020</key>
-    <text xml:space="preserve">オーブエネミーを倒す</text>
+    <original xml:space="preserve">オーブエネミーを倒す</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_021</key>
-    <text xml:space="preserve">特徴予備</text>
+    <original xml:space="preserve">特徴予備</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_022</key>
-    <text xml:space="preserve">特徴予備</text>
+    <original xml:space="preserve">特徴予備</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_023</key>
-    <text xml:space="preserve">特徴予備</text>
+    <original xml:space="preserve">特徴予備</original>
   </message>
   <message>
     <key>CLAN_PROFILE_FEATURE_024</key>
-    <text xml:space="preserve">特徴予備</text>
+    <original xml:space="preserve">特徴予備</original>
   </message>
 </resource>

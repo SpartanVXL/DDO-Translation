@@ -1,171 +1,171 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>caplink_err_blocked_user</key>
-    <text xml:space="preserve">エラー：ブロックしているプレイヤーです</text>
+    <original xml:space="preserve">エラー：ブロックしているプレイヤーです</original>
   </message>
   <message>
     <key>caplink_err_unipue_id</key>
-    <text xml:space="preserve">ユニークIDは設定済みです</text>
+    <original xml:space="preserve">ユニークIDは設定済みです</original>
   </message>
   <message>
     <key>caplink_err_invalid_name</key>
-    <text xml:space="preserve">エラー：使用できない名前です</text>
+    <original xml:space="preserve">エラー：使用できない名前です</original>
   </message>
   <message>
     <key>caplink_err_invalid_text</key>
-    <text xml:space="preserve">エラー：使用できない文字列が入っています</text>
+    <original xml:space="preserve">エラー：使用できない文字列が入っています</original>
   </message>
   <message>
     <key>caplink_err_private</key>
-    <text xml:space="preserve">エラー：非公開設定になっています</text>
+    <original xml:space="preserve">エラー：非公開設定になっています</original>
   </message>
   <message>
     <key>caplink_err_invalid_target</key>
-    <text xml:space="preserve">エラー：相手プレイヤーが見つかりません</text>
+    <original xml:space="preserve">エラー：相手プレイヤーが見つかりません</original>
   </message>
   <message>
     <key>caplink_err_no_activity</key>
-    <text xml:space="preserve">エラー：アクティビティが存在しません</text>
+    <original xml:space="preserve">エラー：アクティビティが存在しません</original>
   </message>
   <message>
     <key>caplink_err_unique_pass</key>
-    <text xml:space="preserve">エラー：すでに使用されているカプトモパスです</text>
+    <original xml:space="preserve">エラー：すでに使用されているカプトモパスです</original>
   </message>
   <message>
     <key>caplink_err_no_captalk</key>
-    <text xml:space="preserve">エラー：カプトークが見つかりません</text>
+    <original xml:space="preserve">エラー：カプトークが見つかりません</original>
   </message>
   <message>
     <key>caplink_err_invalid_game</key>
-    <text xml:space="preserve">エラー：対象のゲームがありません</text>
+    <original xml:space="preserve">エラー：対象のゲームがありません</original>
   </message>
   <message>
     <key>caplink_err_ready_in_game</key>
-    <text xml:space="preserve">エラー：すでにこのゲームに参加しています</text>
+    <original xml:space="preserve">エラー：すでにこのゲームに参加しています</original>
   </message>
   <message>
     <key>caplink_err_no_recorded_pass</key>
-    <text xml:space="preserve">エラー：カプトモパスが登録されていません</text>
+    <original xml:space="preserve">エラー：カプトモパスが登録されていません</original>
   </message>
   <message>
     <key>caplink_err_invalid_request</key>
-    <text xml:space="preserve">エラー：このリクエストは無効です</text>
+    <original xml:space="preserve">エラー：このリクエストは無効です</original>
   </message>
   <message>
     <key>caplink_err_invalid_stamp</key>
-    <text xml:space="preserve">エラー：対象のスタンプは利用できません</text>
+    <original xml:space="preserve">エラー：対象のスタンプは利用できません</original>
   </message>
   <message>
     <key>caplink_err_no_jus</key>
-    <text xml:space="preserve">エラー：これを実行する権限がありません</text>
+    <original xml:space="preserve">エラー：これを実行する権限がありません</original>
   </message>
   <message>
     <key>caplink_err_invalid_comment</key>
-    <text xml:space="preserve">エラー：対象のコメントがありません</text>
+    <original xml:space="preserve">エラー：対象のコメントがありません</original>
   </message>
   <message>
     <key>caplink_err_limit_num_of_member</key>
-    <text xml:space="preserve">エラー：メンバー数が上限に達しています</text>
+    <original xml:space="preserve">エラー：メンバー数が上限に達しています</original>
   </message>
   <message>
     <key>caplink_err_ready_in</key>
-    <text xml:space="preserve">エラー：すでに参加済みになっています</text>
+    <original xml:space="preserve">エラー：すでに参加済みになっています</original>
   </message>
   <message>
     <key>caplink_err_invalid_group</key>
-    <text xml:space="preserve">エラー：不適切なグループ参加状況です</text>
+    <original xml:space="preserve">エラー：不適切なグループ参加状況です</original>
   </message>
   <message>
     <key>caplink_err_invalid_platform</key>
-    <text xml:space="preserve">エラー：対応していないプラットフォームです</text>
+    <original xml:space="preserve">エラー：対応していないプラットフォームです</original>
   </message>
   <message>
     <key>caplink_err_invalid_games</key>
-    <text xml:space="preserve">エラー：プレイしていないゲームです</text>
+    <original xml:space="preserve">エラー：プレイしていないゲームです</original>
   </message>
   <message>
     <key>caplink_err_invalid_character</key>
-    <text xml:space="preserve">エラー：使用できない文字が入っています</text>
+    <original xml:space="preserve">エラー：使用できない文字が入っています</original>
   </message>
   <message>
     <key>caplink_err_over_text</key>
-    <text xml:space="preserve">エラー：文字数オーバーです</text>
+    <original xml:space="preserve">エラー：文字数オーバーです</original>
   </message>
   <message>
     <key>caplink_err_deleted_comment</key>
-    <text xml:space="preserve">エラー：コメントはすでに削除されています</text>
+    <original xml:space="preserve">エラー：コメントはすでに削除されています</original>
   </message>
   <message>
     <key>caplink_err_ready_used</key>
-    <text xml:space="preserve">エラー：すでに使用されているIDです</text>
+    <original xml:space="preserve">エラー：すでに使用されているIDです</original>
   </message>
   <message>
     <key>caplink_err_open_disable</key>
-    <text xml:space="preserve">エラー：相手プレイヤーの設定によりカプトークを開けませんでした</text>
+    <original xml:space="preserve">エラー：相手プレイヤーの設定によりカプトークを開けませんでした</original>
   </message>
   <message>
     <key>caplink_err_disable_invite_gm</key>
-    <text xml:space="preserve">エラー：公式アカウントは招待できません</text>
+    <original xml:space="preserve">エラー：公式アカウントは招待できません</original>
   </message>
   <message>
     <key>caplink_err_fail_serch_captomo</key>
-    <text xml:space="preserve">エラー：相手カプトモが見つかりませんでした</text>
+    <original xml:space="preserve">エラー：相手カプトモが見つかりませんでした</original>
   </message>
   <message>
     <key>caplink_err_ready_captomo</key>
-    <text xml:space="preserve">エラー：すでにカプトモになっています</text>
+    <original xml:space="preserve">エラー：すでにカプトモになっています</original>
   </message>
   <message>
     <key>caplink_err_limit_num_of_captomo</key>
-    <text xml:space="preserve">エラー：カプトモの上限に達しています</text>
+    <original xml:space="preserve">エラー：カプトモの上限に達しています</original>
   </message>
   <message>
     <key>caplink_err_ready_invite_captomo</key>
-    <text xml:space="preserve">エラー：すでにカプトモ申請済みです</text>
+    <original xml:space="preserve">エラー：すでにカプトモ申請済みです</original>
   </message>
   <message>
     <key>caplink_err_limit_num_of_invite</key>
-    <text xml:space="preserve">エラー：申請数が上限に達しています</text>
+    <original xml:space="preserve">エラー：申請数が上限に達しています</original>
   </message>
   <message>
     <key>caplink_err_ready_invite</key>
-    <text xml:space="preserve">エラー：すでに招待しています</text>
+    <original xml:space="preserve">エラー：すでに招待しています</original>
   </message>
   <message>
     <key>caplink_err_delete_invite</key>
-    <text xml:space="preserve">エラー：招待がなくなっています</text>
+    <original xml:space="preserve">エラー：招待がなくなっています</original>
   </message>
   <message>
     <key>caplink_err_limit_num_of_target</key>
-    <text xml:space="preserve">エラー：相手プレイヤーのフレンド数が上限に達しています</text>
+    <original xml:space="preserve">エラー：相手プレイヤーのフレンド数が上限に達しています</original>
   </message>
   <message>
     <key>caplink_err_blocked_by_target</key>
-    <text xml:space="preserve">エラー：相手プレイヤーにブロックされています</text>
+    <original xml:space="preserve">エラー：相手プレイヤーにブロックされています</original>
   </message>
   <message>
     <key>caplink_err_maintenance</key>
-    <text xml:space="preserve">カプリンクがメンテナンス中です
-申し訳ありませんが、しばらくしてから再度実行してください</text>
+    <original xml:space="preserve">カプリンクがメンテナンス中です
+申し訳ありませんが、しばらくしてから再度実行してください</original>
   </message>
   <message>
     <key>caplink_err_any</key>
-    <text xml:space="preserve">エラー：%s</text>
+    <original xml:space="preserve">エラー：%s</original>
   </message>
   <message>
     <key>caplink_err_code</key>
-    <text xml:space="preserve">（エラーコード：%d）</text>
+    <original xml:space="preserve">（エラーコード：%d）</original>
   </message>
   <message>
     <key>caplink_err_http_client</key>
-    <text xml:space="preserve">エラー：通信に失敗しました</text>
+    <original xml:space="preserve">エラー：通信に失敗しました</original>
   </message>
   <message>
     <key>caplink_err_code_x</key>
-    <text xml:space="preserve">（エラーコード：%x）</text>
+    <original xml:space="preserve">（エラーコード：%x）</original>
   </message>
   <message>
     <key>caplink_err_ignore_friend</key>
-    <text xml:space="preserve">エラー：無視設定のプレイヤーにはカプトモ申請できません</text>
+    <original xml:space="preserve">エラー：無視設定のプレイヤーにはカプトモ申請できません</original>
   </message>
 </resource>

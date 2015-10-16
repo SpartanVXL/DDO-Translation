@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_356</key>
-    <text xml:space="preserve">他の覚者とパーティーを組んで
+    <original xml:space="preserve">他の覚者とパーティーを組んで
 冒険している場合
 &lt;COL ffdc78&gt;パーティーリーダーがリム転移を行うと
 他のメンバーも転移先へ同行できます&lt;/COL&gt;
@@ -9,14 +9,14 @@
 転移勧誘のお知らせがきたら
 行き先が同じ場合、ゲームメニューの
 &lt;COL ffdc78&gt;《リム転移》から《パーティー同行リム転移》&lt;/COL&gt;
-を選びましょう</text>
+を選びましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_357</key>
-    <text xml:space="preserve">さらに&lt;OPCS&gt;の効果により
-&lt;COL ff8c00&gt;解放した礎すべてがゲームメニューの
+    <original xml:space="preserve">さらに特定の&lt;OPCS&gt;発動中は
+&lt;COL ffdc78&gt;解放した礎すべてがゲームメニューの
 《リム転移》で選べるようになるほか、
 「マイ拠点」へのリムは無料となり
-その他の礎へ行く時も大幅に割り引きされます&lt;/COL&gt;</text>
+その他の礎へ行く時も大幅に割り引きされます&lt;/COL&gt;</original>
   </message>
 </resource>

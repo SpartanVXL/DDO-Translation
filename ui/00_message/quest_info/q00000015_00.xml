@@ -1,31 +1,43 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q00000015_00_15</key>
-    <text xml:space="preserve">いにしえに帰る</text>
+    <original xml:space="preserve">いにしえに帰る</original>
   </message>
   <message>
     <key>q00000015_00_15</key>
-    <text xml:space="preserve">エルフの古都エルテ・ディナンに向かい
-キースヒルトを救出する</text>
+    <original xml:space="preserve">エルフの古都エルテ・ディナンに向かい
+キースヒルトを救出する</original>
   </message>
   <message>
     <key>q00000015_00_1009</key>
-    <text xml:space="preserve">森林深部の奥へ向かいエルテ・ディナンを目指す</text>
+    <original xml:space="preserve">秘弓師の住居にいるロンドジールから情報を聞く</original>
+  </message>
+  <message>
+    <key>q00000015_00_1552</key>
+    <original xml:space="preserve">キースヒルトを追っているオークを探し出す</original>
   </message>
   <message>
     <key>q00000015_00_1010</key>
-    <text xml:space="preserve">遭遇したオーク軍を撃破する</text>
+    <original xml:space="preserve">遭遇したオーク軍を撃破する</original>
   </message>
   <message>
     <key>q00000015_00_1011</key>
-    <text xml:space="preserve">エルテ・ディナン中心部へ向かう</text>
+    <original xml:space="preserve">エルテ・ディナン中心部へ向かう</original>
+  </message>
+  <message>
+    <key>q00000015_00_1550</key>
+    <original xml:space="preserve">「ディナンの古鍵」を手に入れる</original>
+  </message>
+  <message>
+    <key>q00000015_00_1551</key>
+    <original xml:space="preserve">入手した鍵を使って先に進む</original>
   </message>
   <message>
     <key>q00000015_00_1012</key>
-    <text xml:space="preserve">オーク軍を掃討する</text>
+    <original xml:space="preserve">オーク軍を掃討する</original>
   </message>
   <message>
     <key>q00000015_00_1013</key>
-    <text xml:space="preserve">謁見の間のジョゼフに経緯を報告する</text>
+    <original xml:space="preserve">謁見の間のジョゼフに経緯を報告する</original>
   </message>
 </resource>

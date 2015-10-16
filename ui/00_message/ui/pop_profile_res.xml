@@ -1,58 +1,69 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>popp_mokuteki_1</key>
-    <text xml:space="preserve">冒険目的</text>
+    <original xml:space="preserve">冒険目的</original>
   </message>
   <message>
     <key>popp_mokuteki_2</key>
-    <text xml:space="preserve">活動場所</text>
+    <original xml:space="preserve">活動場所</original>
   </message>
   <message>
     <key>popp_playstyle</key>
-    <text xml:space="preserve">Play Style</text>
+    <original xml:space="preserve">プレイスタイル</original>
+    <translation xml:space="preserve">Play Style</translation>
   </message>
   <message>
     <key>popp_comment</key>
-    <text xml:space="preserve">Comment</text>
+    <original xml:space="preserve">コメント</original>
+    <translation xml:space="preserve">Comment</translation>
   </message>
   <message>
     <key>popp_party</key>
-    <text xml:space="preserve">Party Invites</text>
+    <original xml:space="preserve">パーティー参加</original>
+    <translation xml:space="preserve">Party Invites</translation>
   </message>
   <message>
     <key>popp_maching_profile_en</key>
-    <text xml:space="preserve">Matching Profile</text>
+    <original xml:space="preserve">Matching Profile</original>
   </message>
   <message>
     <key>popp_maching_profile_jp</key>
-    <text xml:space="preserve">Matching Profile</text>
+    <original xml:space="preserve">マッチングプロフィール</original>
+    <translation xml:space="preserve">Matching Profile</translation>
   </message>
   <message>
     <key>popp_decide</key>
-    <text xml:space="preserve">OK</text>
+    <original xml:space="preserve">決定</original>
+    <translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>popp_cancel</key>
-    <text xml:space="preserve">Cancel</text>
+    <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
     <key>popp_pt_ok</key>
-    <text xml:space="preserve">Accept</text>
+    <original xml:space="preserve">受ける</original>
+    <translation xml:space="preserve">Accept</translation>
   </message>
   <message>
     <key>popp_pt_ng</key>
-    <text xml:space="preserve">Decline</text>
+    <original xml:space="preserve">受けない</original>
+    <translation xml:space="preserve">Decline</translation>
   </message>
   <message>
     <key>popp_main_purpose</key>
-    <text xml:space="preserve">Adventure Purpose</text>
+    <original xml:space="preserve">冒険目的</original>
+    <translation xml:space="preserve">Adventure Purpose</translation>
   </message>
   <message>
     <key>popp_sub_purpose</key>
-    <text xml:space="preserve">Activity Location</text>
+    <original xml:space="preserve">活動場所</original>
+    <translation xml:space="preserve">Activity Location</translation>
   </message>
   <message>
     <key>popp_job</key>
-    <text xml:space="preserve">Preferred Job</text>
+    <original xml:space="preserve">遊びたいジョブ</original>
+    <translation xml:space="preserve">Preferred Job</translation>
   </message>
 </resource>

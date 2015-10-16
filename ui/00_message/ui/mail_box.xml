@@ -1,102 +1,122 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>sendmail_title_sendmail_en</key>
-    <text xml:space="preserve">Send Mail</text>
+    <original xml:space="preserve">Send Mail</original>
   </message>
   <message>
     <key>sendmail_title_sendmail_jp</key>
-    <text xml:space="preserve">Send Mail</text>
+    <original xml:space="preserve">メール送信</original>
+    <translation xml:space="preserve">Send Mail</translation>
   </message>
   <message>
     <key>sendmail_button_send</key>
-    <text xml:space="preserve">Send</text>
+    <original xml:space="preserve">送信</original>
+    <translation xml:space="preserve">Send</translation>
   </message>
   <message>
     <key>sendmail_title_address_en</key>
-    <text xml:space="preserve">Addressee</text>
+    <original xml:space="preserve">Addressee</original>
   </message>
   <message>
     <key>sendmail_title_address_jp</key>
-    <text xml:space="preserve">Addressee</text>
+    <original xml:space="preserve">宛先</original>
+    <translation xml:space="preserve">Addressee</translation>
   </message>
   <message>
     <key>sendmail_footer_destination</key>
-    <text xml:space="preserve">Total:</text>
+    <original xml:space="preserve">送信先</original>
+    <translation xml:space="preserve">Total:</translation>
   </message>
   <message>
     <key>sendmail_footer_number</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve">件</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>sendmail_button_del_address</key>
-    <text xml:space="preserve">Delete Addressee</text>
+    <original xml:space="preserve">宛先削除</original>
+    <translation xml:space="preserve">Delete Addressee</translation>
   </message>
   <message>
     <key>receivedmail_title_receivedmail_en</key>
-    <text xml:space="preserve">Received Mail</text>
+    <original xml:space="preserve">Received Mail</original>
   </message>
   <message>
     <key>receivedmail_title_receivedmail_jp</key>
-    <text xml:space="preserve">受信メール</text>
+    <original xml:space="preserve">受信メール</original>
   </message>
   <message>
     <key>receivedmail_button_get_all</key>
-    <text xml:space="preserve">Receive All</text>
+    <original xml:space="preserve">すべて入手</original>
+    <translation xml:space="preserve">Receive All</translation>
   </message>
   <message>
     <key>receivedmail_button_reply</key>
-    <text xml:space="preserve">Reply</text>
+    <original xml:space="preserve">返信</original>
+    <translation xml:space="preserve">Reply</translation>
   </message>
   <message>
     <key>mail_msg_time_minute</key>
-    <text xml:space="preserve">&lt;VAL&gt; minutes</text>
+    <original xml:space="preserve">&lt;VAL&gt;分前</original>
+    <translation xml:space="preserve">&lt;VAL&gt; minutes</translation>
   </message>
   <message>
     <key>mail_msg_time_hour</key>
-    <text xml:space="preserve">&lt;VAL&gt; hours</text>
+    <original xml:space="preserve">&lt;VAL&gt;時間前</original>
+    <translation xml:space="preserve">&lt;VAL&gt; hours</translation>
   </message>
   <message>
     <key>mail_msg_time_day</key>
-    <text xml:space="preserve">&lt;VAL&gt; days</text>
+    <original xml:space="preserve">&lt;VAL&gt;日前</original>
+    <translation xml:space="preserve">&lt;VAL&gt; days</translation>
   </message>
   <message>
     <key>mail_title_mail_en</key>
-    <text xml:space="preserve">Mail</text>
+    <original xml:space="preserve">Mail</original>
   </message>
   <message>
     <key>mail_title_mail_jp</key>
-    <text xml:space="preserve">Mail</text>
+    <original xml:space="preserve">メール</original>
+    <translation xml:space="preserve">Mail</translation>
   </message>
   <message>
     <key>mail_tab_unfiled</key>
-    <text xml:space="preserve">Unread / Unclaimed</text>
+    <original xml:space="preserve">未読／未取得</original>
+    <translation xml:space="preserve">Unread / Unclaimed</translation>
   </message>
   <message>
     <key>mail_tab_receivedmail</key>
-    <text xml:space="preserve">Friend Mail</text>
+    <original xml:space="preserve">知り合い</original>
+    <translation xml:space="preserve">Friend Mail</translation>
   </message>
   <message>
     <key>mail_tab_notificationmail</key>
-    <text xml:space="preserve">Notifications</text>
+    <original xml:space="preserve">運営</original>
+    <translation xml:space="preserve">Notifications</translation>
   </message>
   <message>
     <key>mail_button_mailcreation</key>
-    <text xml:space="preserve">Send Mail</text>
+    <original xml:space="preserve">メール作成</original>
+    <translation xml:space="preserve">Send Mail</translation>
   </message>
   <message>
     <key>mail_button_getallitem</key>
-    <text xml:space="preserve">Receive All Items</text>
+    <original xml:space="preserve">全アイテム受け取り</original>
+    <translation xml:space="preserve">Receive All Items</translation>
   </message>
   <message>
     <key>mail_header_reception</key>
-    <text xml:space="preserve">Number: </text>
+    <original xml:space="preserve">件数：</original>
+    <translation xml:space="preserve">Number: </translation>
   </message>
   <message>
     <key>mail_header_update</key>
-    <text xml:space="preserve">Update</text>
+    <original xml:space="preserve">更新</original>
+    <translation xml:space="preserve">Update</translation>
   </message>
   <message>
     <key>mail_msg_0_mail</key>
-    <text xml:space="preserve">There is no mail.</text>
+    <original xml:space="preserve">メールはありません</original>
+    <translation xml:space="preserve">There is no mail.</translation>
   </message>
 </resource>

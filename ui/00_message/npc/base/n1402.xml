@@ -1,56 +1,62 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">リンウッドによく来たな
-用があれば言ってくれ</text>
+    <original xml:space="preserve">リンウッドによく来たな
+用があれば言ってくれ</original>
   </message>
   <message>
-    <text xml:space="preserve">おお、泊っていくか、だったら
-&lt;VAL PRICE_INN&gt;だが、どうする？</text>
+    <original xml:space="preserve">おお、泊っていくか、だったら
+&lt;VAL PRICE_INN&gt;だが、どうする？</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">うむ、《弱化の治療》だな
-だったら&lt;VAL PRICE_WEAK&gt;だが、どうする？</text>
+    <original xml:space="preserve">うむ、《弱化の治療》だな
+だったら&lt;VAL PRICE_WEAK&gt;だが、どうする？</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">だが見た所、あんたは《弱化》ではないようだ
-泊ってゆっくり休むといい</text>
+    <original xml:space="preserve">だが見た所、あんたは《弱化》ではないようだ
+泊ってゆっくり休むといい</original>
   </message>
   <message>
-    <text xml:space="preserve">おお、休んでいくか？
+    <original xml:space="preserve">おお、休んでいくか？
 もちろんあんたからお代を取ったりはしないよ
-村にとっての大事な問題解決役だからな</text>
+村にとっての大事な問題解決役だからな</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">村の問題はパトリシアに任せている
-良ければ彼女の力になってくれないか</text>
+    <original xml:space="preserve">村の問題はパトリシアに任せている
+良ければ彼女の力になってくれないか</original>
   </message>
   <message>
-    <text xml:space="preserve">ミスリウ森林は歩いたか？
+    <original xml:space="preserve">ミスリウ森林は歩いたか？
 西にはポーン達の聖堂《ポーン郷》
 それに多くの自然洞窟や、旧時代の遺跡もある
-探索場所には事欠かないぞ</text>
+探索場所には事欠かないぞ</original>
   </message>
   <message>
-    <text xml:space="preserve">ゆっくり滞在していってくれ、覚者よ
+    <original xml:space="preserve">ゆっくり滞在していってくれ、覚者よ
 もし手すきなら、《クエストボード》にも
-目を通して貰えるとありがたい</text>
+目を通して貰えるとありがたい</original>
   </message>
 </resource>

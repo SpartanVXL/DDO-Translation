@@ -1,54 +1,67 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_NAME_05_70</key>
-    <text xml:space="preserve">Shield Blow</text>
+    <original xml:space="preserve">シールドブロウ</original>
+    <translation xml:space="preserve">Shield Blow</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_83</key>
-    <text xml:space="preserve">Shield Strike</text>
+    <original xml:space="preserve">シールドストライク</original>
+    <translation xml:space="preserve">Shield Strike</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_72</key>
-    <text xml:space="preserve">Element Change</text>
+    <original xml:space="preserve">エレメントチェンジ</original>
+    <translation xml:space="preserve">Element Change</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_73</key>
-    <text xml:space="preserve">Penta Element Change</text>
+    <original xml:space="preserve">ペンタエレメントチェンジ</original>
+    <translation xml:space="preserve">Penta Element Change</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_74</key>
-    <text xml:space="preserve">Force Guard</text>
+    <original xml:space="preserve">フォースガード</original>
+    <translation xml:space="preserve">Force Guard</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_75</key>
-    <text xml:space="preserve">Shield Lock</text>
+    <original xml:space="preserve">シールドロック</original>
+    <translation xml:space="preserve">Shield Lock</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_76</key>
-    <text xml:space="preserve">Force Gain</text>
+    <original xml:space="preserve">フォースゲイン</original>
+    <translation xml:space="preserve">Force Gain</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_77</key>
-    <text xml:space="preserve">Force Burst</text>
+    <original xml:space="preserve">フォースバースト</original>
+    <translation xml:space="preserve">Force Burst</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_78</key>
-    <text xml:space="preserve">Attract</text>
+    <original xml:space="preserve">アトラクト</original>
+    <translation xml:space="preserve">Attract</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_79</key>
-    <text xml:space="preserve">More Attract</text>
+    <original xml:space="preserve">モアアトラクト</original>
+    <translation xml:space="preserve">More Attract</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_80</key>
-    <text xml:space="preserve">Force Enchantment</text>
+    <original xml:space="preserve">フォースエンチャント</original>
+    <translation xml:space="preserve">Force Enchantment</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_81</key>
-    <text xml:space="preserve">Shield Sequence</text>
+    <original xml:space="preserve">シールドシーケンス</original>
+    <translation xml:space="preserve">Shield Sequence</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_91</key>
-    <text xml:space="preserve">Weak Light</text>
+    <original xml:space="preserve">ウィークライト</original>
+    <translation xml:space="preserve">Weak Light</translation>
   </message>
 </resource>

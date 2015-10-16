@@ -1,90 +1,99 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>mr_msg_score</key>
-    <text xml:space="preserve">Total Score</text>
+    <original xml:space="preserve">Total Score</original>
   </message>
   <message>
     <key>mr_msg_total</key>
-    <text xml:space="preserve">Grand Total Score</text>
+    <original xml:space="preserve">Grand Total Score</original>
   </message>
   <message>
     <key>mr_msg_element</key>
-    <text xml:space="preserve">項目</text>
+    <original xml:space="preserve">項目</original>
   </message>
   <message>
     <key>mr_msg_finish</key>
-    <text xml:space="preserve">完了</text>
+    <original xml:space="preserve">完了</original>
   </message>
   <message>
     <key>mr_msg_get</key>
-    <text xml:space="preserve">を獲得！</text>
+    <original xml:space="preserve">を獲得！</original>
   </message>
   <message>
     <key>mr_msg_lobby</key>
-    <text xml:space="preserve">you will return to the lobby</text>
+    <original xml:space="preserve">秒後にロビーに戻ります</original>
+    <translation xml:space="preserve">you will return to the lobby</translation>
   </message>
   <message>
     <key>mr_msg_no_reward</key>
-    <text xml:space="preserve">報酬はありません</text>
+    <original xml:space="preserve">報酬はありません</original>
   </message>
   <message>
     <key>mr_msg_no_element</key>
-    <text xml:space="preserve">項目はありません</text>
+    <original xml:space="preserve">項目はありません</original>
   </message>
   <message>
     <key>mr_msg_times</key>
-    <text xml:space="preserve">回数</text>
+    <original xml:space="preserve">回数</original>
   </message>
   <message>
     <key>mr_msg_sum</key>
-    <text xml:space="preserve">小計</text>
+    <original xml:space="preserve">小計</original>
   </message>
   <message>
     <key>mr_msg_deathpenalty</key>
-    <text xml:space="preserve">死亡ペナルティ</text>
+    <original xml:space="preserve">死亡ペナルティ</original>
   </message>
   <message>
     <key>mr_msg_tec_score</key>
-    <text xml:space="preserve">Technical Score</text>
+    <original xml:space="preserve">Technical Score</original>
   </message>
   <message>
     <key>mr_msg_tec_score_best</key>
-    <text xml:space="preserve">Best Technical Score</text>
+    <original xml:space="preserve">Best Technical Score</original>
   </message>
   <message>
     <key>mr_msg_tab_reward</key>
-    <text xml:space="preserve">報酬</text>
+    <original xml:space="preserve">報酬</original>
   </message>
   <message>
     <key>mr_msg_tab_score</key>
-    <text xml:space="preserve">スコア詳細</text>
+    <original xml:space="preserve">スコア詳細</original>
   </message>
   <message>
     <key>mr_msg_head_timebonus</key>
-    <text xml:space="preserve">タイムボーナス</text>
+    <original xml:space="preserve">残タイムスコア</original>
   </message>
   <message>
     <key>mr_msg_head_timebonus_powered</key>
-    <text xml:space="preserve">タイムボーナス倍率</text>
+    <original xml:space="preserve">タイムボーナス</original>
   </message>
   <message>
     <key>mr_msg_head_reward_normal</key>
-    <text xml:space="preserve">基本報酬</text>
+    <original xml:space="preserve">基本報酬</original>
   </message>
   <message>
     <key>mr_msg_head_reward_parts</key>
-    <text xml:space="preserve">部位破壊報酬</text>
+    <original xml:space="preserve">部位破壊報酬</original>
   </message>
   <message>
     <key>mr_msg_head_reward_opcs</key>
-    <text xml:space="preserve">&lt;OPCS&gt;報酬</text>
+    <original xml:space="preserve">&lt;OPCS&gt;報酬</original>
   </message>
   <message>
     <key>mr_msg_title_en</key>
-    <text xml:space="preserve">Mission Result</text>
+    <original xml:space="preserve">Mission Result</original>
   </message>
   <message>
     <key>mr_msg_title_jp</key>
-    <text xml:space="preserve">ミッションリザルト</text>
+    <original xml:space="preserve">ミッションリザルト</original>
+  </message>
+  <message>
+    <key>mr_msg_parts_break</key>
+    <original xml:space="preserve">部位破壊</original>
+  </message>
+  <message>
+    <key>mr_msg_result_reward</key>
+    <original xml:space="preserve">リザルト報酬を獲得！</original>
   </message>
 </resource>

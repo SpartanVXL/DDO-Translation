@@ -1,19 +1,19 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_162</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《スタンプボーナス》&lt;/COL&gt;とは、あなたがログインで
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《スタンプボーナス》&lt;/COL&gt;とは、あなたがログインで
 この世界を訪れるたびに送られる証印です
 
 １日１回、神殿の《復活力／ログインスタンプ》
-係官オフィリアから、訪れた証《スタンプ》
-と共にリムや黄金石などの報酬がもらえます
+係官オフィリアから、訪れた証《スタンプ》と共に
+リムやシルバーチケットなどの報酬がもらえます
 
 スタンプは日ごとにリセットされ、
-新たに受け取れるようになります</text>
+新たに受け取れるようになります</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_311</key>
-    <text xml:space="preserve">スタンプボーナスには２種類あります
+    <original xml:space="preserve">スタンプボーナスには２種類あります
 
 ＜連続スタンプボーナス＞
 　　毎日連続ログインすることで得られる証
@@ -22,15 +22,15 @@
 
 ＜累計スタンプボーナス＞
 　　累計ログイン日数によるボーナスです
-　　累計日数により報酬が変わります</text>
+　　累計日数により報酬が変わります</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_312</key>
-    <text xml:space="preserve">スタンプボーナスでもらえる
-リムや黄金石は冒険で非常に有用です
+    <original xml:space="preserve">スタンプボーナスでもらえる
+リムやシルバーチケットは冒険で非常に有用です
 
 受け取り忘れてしまった日は、
 日数カウントが抜けてしまうため
-必ず忘れず受け取りましょう</text>
+必ず忘れず受け取りましょう</original>
   </message>
 </resource>

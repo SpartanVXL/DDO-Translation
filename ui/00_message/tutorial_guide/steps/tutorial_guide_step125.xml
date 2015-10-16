@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_64</key>
-    <text xml:space="preserve">&lt;COL 78f5ff&gt;《ポーン》契約／雇用が解放されました！&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL 78f5ff&gt;《ポーン》契約／雇用が解放されました！&lt;/COL&gt;
 
 &lt;COL ffdc78&gt;《ポーン》&lt;/COL&gt;とは、覚者であるあなたの
 忠実な従者であり、異界から現れた
@@ -9,11 +9,11 @@
 
 メインポーンは、ゲームメニュー《パーティー》の
 &lt;COL ffdc78&gt;《パーティー管理》&lt;/COL&gt;、&lt;COL ffdc78&gt;《メインポーン》&lt;/COL&gt;から
-呼び出せます</text>
+呼び出せます</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_63</key>
-    <text xml:space="preserve">ポーン達は冒険のなかで自律的に行動しますが
+    <original xml:space="preserve">ポーン達は冒険のなかで自律的に行動しますが
 覚者が命令を与えれば、実行可能な時は
 優先的に遂行します
 
@@ -21,6 +21,6 @@
 アイテムの作成、強化が可能です&lt;/COL&gt;
 
 ポーン達は常に寄りそう冒険パートナーとして、
-いつでもあなたの力となってくれるでしょう</text>
+いつでもあなたの力となってくれるでしょう</original>
   </message>
 </resource>

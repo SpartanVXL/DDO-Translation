@@ -1,30 +1,34 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_MSG_POPTITLE</key>
-    <text xml:space="preserve">Tutorial</text>
+    <original xml:space="preserve">Tutorial</original>
   </message>
   <message>
     <key>TUTORIAL_MSG_TITLE_01</key>
-    <text xml:space="preserve">Tutorial</text>
+    <original xml:space="preserve">Tutorial</original>
   </message>
   <message>
     <key>TUTORIAL_MSG_TITLE_02</key>
-    <text xml:space="preserve">Tutorial</text>
+    <original xml:space="preserve">チュートリアル</original>
+    <translation xml:space="preserve">Tutorial</translation>
   </message>
   <message>
     <key>TUTORIAL_MSG_Category</key>
-    <text xml:space="preserve">Category</text>
+    <original xml:space="preserve">Category</original>
   </message>
   <message>
     <key>TUTORIAL_MSG_NOMSG</key>
-    <text xml:space="preserve">An article for this category does not exist</text>
+    <original xml:space="preserve">このカテゴリに記事はありません</original>
+    <translation xml:space="preserve">An article for this category does not exist</translation>
   </message>
   <message>
     <key>TUTORIAL_MSG_NEWFIVE</key>
-    <text xml:space="preserve">5 New Items</text>
+    <original xml:space="preserve">最新の５件</original>
+    <translation xml:space="preserve">5 New Items</translation>
   </message>
   <message>
     <key>TUTORIAL_MSG_CLOSE</key>
-    <text xml:space="preserve">Close</text>
+    <original xml:space="preserve">閉じる</original>
+    <translation xml:space="preserve">Close</translation>
   </message>
 </resource>

@@ -1,170 +1,203 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>FUNC_CLASS_NAME_3</key>
-    <text xml:space="preserve">General Shop</text>
+    <original xml:space="preserve">よろず屋</original>
+    <translation xml:space="preserve">General Shop</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_4</key>
-    <text xml:space="preserve">Item Shop</text>
+    <original xml:space="preserve">道具屋</original>
+    <translation xml:space="preserve">Item Shop</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_5</key>
-    <text xml:space="preserve">武具屋</text>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_6</key>
-    <text xml:space="preserve">Material Shop</text>
+    <original xml:space="preserve">素材屋</original>
+    <translation xml:space="preserve">Material Shop</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_7</key>
-    <text xml:space="preserve">Inn</text>
+    <original xml:space="preserve">宿屋</original>
+    <translation xml:space="preserve">Inn</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_8</key>
-    <text xml:space="preserve">Weapon Shop</text>
+    <original xml:space="preserve">武器屋</original>
+    <translation xml:space="preserve">Weapon Shop</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_9</key>
-    <text xml:space="preserve">Armor Shop</text>
+    <original xml:space="preserve">防具屋</original>
+    <translation xml:space="preserve">Armor Shop</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_10</key>
-    <text xml:space="preserve">戦技補佐</text>
+    <original xml:space="preserve">戦技補佐</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_11</key>
-    <text xml:space="preserve">転職・戦技補佐</text>
+    <original xml:space="preserve">転職・戦技補佐</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_12</key>
-    <text xml:space="preserve">Grand Mission</text>
+    <original xml:space="preserve">グランドミッション</original>
+    <translation xml:space="preserve">Grand Mission</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_13</key>
-    <text xml:space="preserve">冒険仲介係</text>
+    <original xml:space="preserve">冒険仲介係</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_14</key>
-    <text xml:space="preserve">Clan Tavern</text>
+    <original xml:space="preserve">クラン酒場</original>
+    <translation xml:space="preserve">Clan Tavern</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_15</key>
-    <text xml:space="preserve">Craft Officer</text>
+    <original xml:space="preserve">クラフト係官</original>
+    <translation xml:space="preserve">Craft Officer</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_16</key>
-    <text xml:space="preserve">Beauty Salon</text>
+    <original xml:space="preserve">美容院</original>
+    <translation xml:space="preserve">Beauty Salon</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_17</key>
-    <text xml:space="preserve">Lestania News</text>
+    <original xml:space="preserve">レスタニアニュース</original>
+    <translation xml:space="preserve">Lestania News</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_18</key>
-    <text xml:space="preserve">竜力の継承</text>
+    <original xml:space="preserve">竜力の継承</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_19</key>
-    <text xml:space="preserve">Orb Exchange: Crests</text>
+    <original xml:space="preserve">オーブ交換：クレスト</original>
+    <translation xml:space="preserve">Orb Exchange: Crests</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_20</key>
-    <text xml:space="preserve">Orb Exchange: Rare Items / Raw Materials</text>
+    <original xml:space="preserve">オーブ交換：珍品／素材</original>
+    <translation xml:space="preserve">Orb Exchange: Rare Items / Raw Materials</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_21</key>
-    <text xml:space="preserve">Area Master</text>
+    <original xml:space="preserve">エリアマスター</original>
+    <translation xml:space="preserve">Area Master</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_22</key>
-    <text xml:space="preserve">Job Master</text>
+    <original xml:space="preserve">ジョブマスター</original>
+    <translation xml:space="preserve">Job Master</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_24</key>
-    <text xml:space="preserve">Bazaar</text>
+    <original xml:space="preserve">バザー</original>
+    <translation xml:space="preserve">Bazaar</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_25</key>
-    <text xml:space="preserve">Storage Box</text>
+    <original xml:space="preserve">保管ボックス</original>
+    <translation xml:space="preserve">Storage Box</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_26</key>
-    <text xml:space="preserve">Delivery Box</text>
+    <original xml:space="preserve">納品ボックス</original>
+    <translation xml:space="preserve">Delivery Box</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_27</key>
-    <text xml:space="preserve">Rift Stone</text>
+    <original xml:space="preserve">リムストーン</original>
+    <translation xml:space="preserve">Rift Stone</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_28</key>
-    <text xml:space="preserve">Dragon Crystal</text>
+    <original xml:space="preserve">竜の礎</original>
+    <translation xml:space="preserve">Dragon Crystal</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_29</key>
-    <text xml:space="preserve">Warp Crystal</text>
+    <original xml:space="preserve">拠点の礎</original>
+    <translation xml:space="preserve">Warp Crystal</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_30</key>
-    <text xml:space="preserve">Dragon Crystal</text>
+    <original xml:space="preserve">竜の礎</original>
+    <translation xml:space="preserve">Dragon Crystal</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_31</key>
-    <text xml:space="preserve">Quest Board</text>
+    <original xml:space="preserve">クエストボード</original>
+    <translation xml:space="preserve">Quest Board</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_32</key>
-    <text xml:space="preserve">Event Board</text>
+    <original xml:space="preserve">イベントボード</original>
+    <translation xml:space="preserve">Event Board</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_33</key>
-    <text xml:space="preserve">Ranking Board</text>
+    <original xml:space="preserve">ランキングボード</original>
+    <translation xml:space="preserve">Ranking Board</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_34</key>
-    <text xml:space="preserve">亡都の礎</text>
+    <original xml:space="preserve">亡都の礎</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_35</key>
-    <text xml:space="preserve">移送の楔</text>
+    <original xml:space="preserve">移送の楔</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_36</key>
-    <text xml:space="preserve">Historian</text>
+    <original xml:space="preserve">記録官</original>
+    <translation xml:space="preserve">Historian</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_37</key>
-    <text xml:space="preserve">ポーンの復活</text>
+    <original xml:space="preserve">ポーンの復活</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_40</key>
-    <text xml:space="preserve">復活力の回復</text>
+    <original xml:space="preserve">復活力の回復</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_41</key>
-    <text xml:space="preserve">Camp Storage Box</text>
+    <original xml:space="preserve">拠点用保管ボックス</original>
+    <translation xml:space="preserve">Camp Storage Box</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_42</key>
-    <text xml:space="preserve">Login Stamp</text>
+    <original xml:space="preserve">ログインスタンプ</original>
+    <translation xml:space="preserve">Login Stamp</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_43</key>
-    <text xml:space="preserve">報酬受け取り</text>
+    <original xml:space="preserve">報酬受け取り</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_44</key>
-    <text xml:space="preserve">Treasure Lot</text>
+    <original xml:space="preserve">トレジャーズロット</original>
+    <translation xml:space="preserve">Treasure Lot</translation>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_45</key>
-    <text xml:space="preserve">現れしポーン</text>
+    <original xml:space="preserve">現れしポーン</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_46</key>
-    <text xml:space="preserve">弱化の治療</text>
+    <original xml:space="preserve">弱化の治療</original>
   </message>
   <message>
     <key>FUNC_CLASS_NAME_47</key>
-    <text xml:space="preserve">戦徒の契り</text>
+    <original xml:space="preserve">戦徒の契り</original>
+  </message>
+  <message>
+    <key>FUNC_CLASS_NAME_48</key>
+    <original xml:space="preserve">鑑定交換</original>
   </message>
 </resource>

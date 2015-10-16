@@ -1,32 +1,32 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_COMMAND_06_92</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押して詠唱、詠唱完了で発動&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;クリックで詠唱、詠唱完了で発動</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押して詠唱、詠唱完了で発動&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;クリックで詠唱、詠唱完了で発動</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_93</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押して詠唱、詠唱完了で発動&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;クリックで詠唱、詠唱完了で発動</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押して詠唱、詠唱完了で発動&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;クリックで詠唱、詠唱完了で発動</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_94</key>
-    <text xml:space="preserve">マジックボール、マジックトラップ使用時に
-自動的に発動</text>
+    <original xml:space="preserve">マジックボール、マジックトラップ使用時に
+自動的に発動</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_95</key>
-    <text xml:space="preserve">&lt;PADM&gt;詠唱中、&lt;ICON PAD_R3&gt;でスペリング入力モードに切り替え&lt;KEYM&gt;詠唱中、&lt;ICON MOUSE_WHL_1&gt;でスペリング入力モードに切り替え&lt;/KEYM&gt;
-&lt;PADM&gt;右スティックで規定コマンド入力&lt;KEYM&gt;マウス移動で規定コマンド入力&lt;/KEYM&gt;</text>
+    <original xml:space="preserve">&lt;PADM&gt;詠唱中、&lt;ICON PAD_R3&gt;でスペリング入力モードに切り替え&lt;KEYM&gt;詠唱中、&lt;ICON MOUSE_WHL_1&gt;でスペリング入力モードに切り替え&lt;/KEYM&gt;
+&lt;PADM&gt;右スティックで規定コマンド入力&lt;KEYM&gt;マウス移動で規定コマンド入力&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_96</key>
-    <text xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;または&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;または&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_101</key>
-    <text xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で&lt;ICON KB_SPACE&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で&lt;ICON KB_SPACE&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_06_102</key>
-    <text xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;を押す</text>
+    <original xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;を押す</original>
   </message>
 </resource>

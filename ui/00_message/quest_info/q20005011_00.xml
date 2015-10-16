@@ -1,29 +1,33 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20005011_00_290</key>
-    <text xml:space="preserve">A Man-Eating Ogre Appears!</text>
+    <original xml:space="preserve">人喰い鬼、現る！</original>
+    <translation xml:space="preserve">A Man-Eating Ogre Appears!</translation>
   </message>
   <message>
     <key>q20005011_00_290</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
-Defeat the enemies encountered.</text>
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+Defeat the enemies encountered.</translation>
   </message>
   <message>
     <key>q20005011_00_290</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
-危険な存在により住民が脅かされているらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
+危険な存在により住民が脅かされているらしい</original>
   </message>
   <message>
     <key>q20005011_00_290</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 ぼくは星を見るのが好きなんです。夜明け前に起きて
 まだ暗い東の空とかを見るととてもキレイなんです
 でも、昨日はびっくりしてすぐに帰っちゃいました
 だって、なにか大きな影みたいなものが、すぐ近くを
-ぶわーって通り過ぎたから――</text>
+ぶわーって通り過ぎたから――</original>
   </message>
   <message>
     <key>q20005011_00_806</key>
-    <text xml:space="preserve">Defeat the enemies encountered.</text>
+    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
   </message>
 </resource>

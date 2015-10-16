@@ -1,34 +1,38 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>arisenpop_bg_change</key>
-    <text xml:space="preserve">Change Background</text>
+    <original xml:space="preserve">背景の設定</original>
+    <translation xml:space="preserve">Change Background</translation>
   </message>
   <message>
     <key>arisenpop_title_change</key>
-    <text xml:space="preserve">Change Title</text>
+    <original xml:space="preserve">称号の設定</original>
+    <translation xml:space="preserve">Change Title</translation>
   </message>
   <message>
     <key>arisenpop_category01</key>
-    <text xml:space="preserve">Category</text>
+    <original xml:space="preserve">Category</original>
   </message>
   <message>
     <key>arisenpop_title</key>
-    <text xml:space="preserve">Title</text>
+    <original xml:space="preserve">Title</original>
   </message>
   <message>
     <key>arisenpop_pose_change</key>
-    <text xml:space="preserve">Change Pose</text>
+    <original xml:space="preserve">ポーズの設定</original>
+    <translation xml:space="preserve">Change Pose</translation>
   </message>
   <message>
     <key>arisenpop_category02</key>
-    <text xml:space="preserve">Category</text>
+    <original xml:space="preserve">Category</original>
   </message>
   <message>
     <key>arisenpop_pose</key>
-    <text xml:space="preserve">Emotion</text>
+    <original xml:space="preserve">Emotion</original>
   </message>
   <message>
     <key>arisenpop_frame_change</key>
-    <text xml:space="preserve">Change Frame</text>
+    <original xml:space="preserve">フレームの設定</original>
+    <translation xml:space="preserve">Change Frame</translation>
   </message>
 </resource>

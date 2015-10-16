@@ -1,781 +1,1049 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>namedparam_0</key>
-    <text xml:space="preserve">----</text>
+    <original xml:space="preserve">----</original>
   </message>
   <message>
     <key>namedparam_47</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Training </text>
+    <original xml:space="preserve">修練用</original>
+    <translation xml:space="preserve">Training </translation>
   </message>
   <message>
     <key>namedparam_48</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Captive Cyclops</text>
+    <original xml:space="preserve">捕囚サイクロプス</original>
+    <translation xml:space="preserve">Captive Cyclops</translation>
   </message>
   <message>
     <key>namedparam_52</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Lost Pawn</text>
+    <original xml:space="preserve">さまようポーン</original>
+    <translation xml:space="preserve">Lost Pawn</translation>
   </message>
   <message>
     <key>namedparam_53</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Dangerous </text>
+    <original xml:space="preserve">要警戒</original>
+    <translation xml:space="preserve">Dangerous </translation>
   </message>
   <message>
     <key>namedparam_54</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Brutal </text>
+    <original xml:space="preserve">凶悪</original>
+    <translation xml:space="preserve">Brutal </translation>
   </message>
   <message>
     <key>namedparam_56</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Dangerous </text>
+    <original xml:space="preserve">危機的</original>
+    <translation xml:space="preserve">Dangerous </translation>
   </message>
   <message>
     <key>namedparam_57</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Legendary </text>
+    <original xml:space="preserve">伝説級</original>
+    <translation xml:space="preserve">Legendary </translation>
   </message>
   <message>
     <key>namedparam_122</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Goblin Vanguard</text>
+    <original xml:space="preserve">ゴブリンの尖兵</original>
+    <translation xml:space="preserve">Goblin Vanguard</translation>
   </message>
   <message>
     <key>namedparam_123</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Goblin Patrol</text>
+    <original xml:space="preserve">ゴブリンの哨戒兵</original>
+    <translation xml:space="preserve">Goblin Patrol</translation>
   </message>
   <message>
     <key>namedparam_124</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Goblin Reinforcement</text>
+    <original xml:space="preserve">ゴブリンの補給兵</original>
+    <translation xml:space="preserve">Goblin Reinforcement</translation>
   </message>
   <message>
     <key>namedparam_125</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Orc Raider</text>
+    <original xml:space="preserve">オーク侵略兵</original>
+    <translation xml:space="preserve">Orc Raider</translation>
   </message>
   <message>
     <key>namedparam_126</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Invasive Killer Bee</text>
+    <original xml:space="preserve">キラービー進攻種</original>
+    <translation xml:space="preserve">Invasive Killer Bee</translation>
   </message>
   <message>
     <key>namedparam_127</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Galugo the Pentagram</text>
+    <original xml:space="preserve">5本角のガルゴ</original>
+    <translation xml:space="preserve">Galugo the Pentagram</translation>
   </message>
   <message>
     <key>namedparam_128</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Galugo's Minion</text>
+    <original xml:space="preserve">ガルゴの手下</original>
+    <translation xml:space="preserve">Galugo's Minion</translation>
   </message>
   <message>
     <key>namedparam_129</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Flocking </text>
+    <original xml:space="preserve">集いし</original>
+    <translation xml:space="preserve">Flocking </translation>
   </message>
   <message>
     <key>namedparam_130</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Flocking </text>
+    <original xml:space="preserve">集いし</original>
+    <translation xml:space="preserve">Flocking </translation>
   </message>
   <message>
     <key>namedparam_131</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Flocking </text>
+    <original xml:space="preserve">集いし</original>
+    <translation xml:space="preserve">Flocking </translation>
   </message>
   <message>
     <key>namedparam_132</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Flocking </text>
+    <original xml:space="preserve">集いし</original>
+    <translation xml:space="preserve">Flocking </translation>
   </message>
   <message>
     <key>namedparam_133</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Disturbed Forest Ape</text>
+    <original xml:space="preserve">森乱のエイプ</original>
+    <translation xml:space="preserve">Disturbed Forest Ape</translation>
   </message>
   <message>
     <key>namedparam_134</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Captive</text>
+    <original xml:space="preserve">囚われし</original>
+    <translation xml:space="preserve">Captive</translation>
   </message>
   <message>
     <key>namedparam_135</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Captive</text>
+    <original xml:space="preserve">囚われし</original>
+    <translation xml:space="preserve">Captive</translation>
   </message>
   <message>
     <key>namedparam_136</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Wandering Pawn</text>
+    <original xml:space="preserve">さまよえるポーン</original>
+    <translation xml:space="preserve">Wandering Pawn</translation>
   </message>
   <message>
     <key>namedparam_137</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Wandering Pawn</text>
+    <original xml:space="preserve">さまよえるポーン</original>
+    <translation xml:space="preserve">Wandering Pawn</translation>
   </message>
   <message>
     <key>namedparam_138</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Wandering Pawn</text>
+    <original xml:space="preserve">さまよえるポーン</original>
+    <translation xml:space="preserve">Wandering Pawn</translation>
   </message>
   <message>
     <key>namedparam_139</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Large Deformed Skeleton</text>
+    <original xml:space="preserve">異形の大スケルトン</original>
+    <translation xml:space="preserve">Large Deformed Skeleton</translation>
   </message>
   <message>
     <key>namedparam_140</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Refined </text>
+    <original xml:space="preserve">精錬</original>
+    <translation xml:space="preserve">Refined </translation>
   </message>
   <message>
     <key>namedparam_141</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Man-eating </text>
+    <original xml:space="preserve">人喰い</original>
+    <translation xml:space="preserve">Man-eating </translation>
   </message>
   <message>
     <key>namedparam_142</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Fierce </text>
+    <original xml:space="preserve">猛る</original>
+    <translation xml:space="preserve">Fierce </translation>
   </message>
   <message>
     <key>namedparam_143</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Territorial Giant</text>
+    <original xml:space="preserve">縄張り荒らしの巨人</original>
+    <translation xml:space="preserve">Territorial Giant</translation>
   </message>
   <message>
     <key>namedparam_144</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Territorial Demon Bird</text>
+    <original xml:space="preserve">縄張り荒らしの妖鳥</original>
+    <translation xml:space="preserve">Territorial Demon Bird</translation>
   </message>
   <message>
     <key>namedparam_145</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Orc Raider</text>
+    <original xml:space="preserve">オーク侵略兵</original>
+    <translation xml:space="preserve">Orc Raider</translation>
   </message>
   <message>
     <key>namedparam_146</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Fort-breaker </text>
+    <original xml:space="preserve">砦破り</original>
+    <translation xml:space="preserve">Fort-breaker </translation>
   </message>
   <message>
     <key>namedparam_147</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Raider </text>
+    <original xml:space="preserve">強襲の</original>
+    <translation xml:space="preserve">Raider </translation>
   </message>
   <message>
     <key>namedparam_148</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Summoned Fanged Dragon</text>
+    <original xml:space="preserve">召喚されし牙竜</original>
+    <translation xml:space="preserve">Summoned Fanged Dragon</translation>
+  </message>
+  <message>
+    <key>namedparam_149</key>
+    <original xml:space="preserve">異形のオオカミ</original>
+  </message>
+  <message>
+    <key>namedparam_150</key>
+    <original xml:space="preserve">異形のゴブリン</original>
+  </message>
+  <message>
+    <key>namedparam_151</key>
+    <original xml:space="preserve">異形のゴブリン</original>
+  </message>
+  <message>
+    <key>namedparam_152</key>
+    <original xml:space="preserve">オーク尖兵</original>
+  </message>
+  <message>
+    <key>namedparam_153</key>
+    <original xml:space="preserve">オーク侵略兵</original>
+  </message>
+  <message>
+    <key>namedparam_154</key>
+    <original xml:space="preserve">軍狼</original>
+  </message>
+  <message>
+    <key>namedparam_155</key>
+    <original xml:space="preserve">オーク軍指揮官</original>
+  </message>
+  <message>
+    <key>namedparam_156</key>
+    <original xml:space="preserve">オーク突撃兵</original>
+  </message>
+  <message>
+    <key>namedparam_157</key>
+    <original xml:space="preserve">軍竜</original>
+  </message>
+  <message>
+    <key>namedparam_158</key>
+    <original xml:space="preserve">オーク追撃兵</original>
+  </message>
+  <message>
+    <key>namedparam_159</key>
+    <original xml:space="preserve">オーク軍指揮官</original>
+  </message>
+  <message>
+    <key>namedparam_160</key>
+    <original xml:space="preserve">オーク突撃兵</original>
+  </message>
+  <message>
+    <key>namedparam_161</key>
+    <original xml:space="preserve">オーク投撃兵</original>
+  </message>
+  <message>
+    <key>namedparam_162</key>
+    <original xml:space="preserve">オーク軍少将</original>
+  </message>
+  <message>
+    <key>namedparam_163</key>
+    <original xml:space="preserve">番兵</original>
+  </message>
+  <message>
+    <key>namedparam_164</key>
+    <original xml:space="preserve">オーク兵</original>
+  </message>
+  <message>
+    <key>namedparam_165</key>
+    <original xml:space="preserve">オーク精鋭兵</original>
   </message>
   <message>
     <key>namedparam_187</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Rabbit-eating </text>
+    <original xml:space="preserve">兎喰らいの</original>
+    <translation xml:space="preserve">Rabbit-eating </translation>
   </message>
   <message>
     <key>namedparam_188</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Binsha's Henchman</text>
+    <original xml:space="preserve">ビンシャの手下</original>
+    <translation xml:space="preserve">Binsha's Henchman</translation>
   </message>
   <message>
     <key>namedparam_189</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Binsha the Bridge-Keeper</text>
+    <original xml:space="preserve">橋守のビンシャ</original>
+    <translation xml:space="preserve">Binsha the Bridge-Keeper</translation>
   </message>
   <message>
     <key>namedparam_190</key>
-    <!-- Suffix (patched to be Prefix) -->
-    <text xml:space="preserve">Mutated </text>
+    <original xml:space="preserve">変種</original>
+    <translation xml:space="preserve">Mutated </translation>
   </message>
   <message>
     <key>namedparam_191</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Gluttonous Giant Saurian</text>
+    <original xml:space="preserve">大喰いのラージリザード</original>
+    <translation xml:space="preserve">Gluttonous Giant Saurian</translation>
   </message>
   <message>
     <key>namedparam_192</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Black Wolf Rogue</text>
+    <original xml:space="preserve">黒狼団のローグ</original>
+    <translation xml:space="preserve">Black Wolf Rogue</translation>
   </message>
   <message>
     <key>namedparam_193</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Black Wolf Leader</text>
+    <original xml:space="preserve">黒狼団の首領</original>
+    <translation xml:space="preserve">Black Wolf Leader</translation>
   </message>
   <message>
     <key>namedparam_195</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Hidden Beach Rogue</text>
+    <original xml:space="preserve">隠れ浜のならず者</original>
+    <translation xml:space="preserve">Hidden Beach Rogue</translation>
   </message>
   <message>
     <key>namedparam_200</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Mother Harpy</text>
+    <original xml:space="preserve">マーテル・ハーピー</original>
+    <translation xml:space="preserve">Mother Harpy</translation>
   </message>
   <message>
     <key>namedparam_201</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Gyomuru the Barbed Horn</text>
+    <original xml:space="preserve">棘角のギョームル</original>
+    <translation xml:space="preserve">Gyomuru the Barbed Horn</translation>
   </message>
   <message>
     <key>namedparam_202</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Gyomuru's Minion</text>
+    <original xml:space="preserve">ギョームルの手下</original>
+    <translation xml:space="preserve">Gyomuru's Minion</translation>
   </message>
   <message>
     <key>namedparam_203</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Specter of Rufuro</text>
+    <original xml:space="preserve">ルフローの亡霊</original>
+    <translation xml:space="preserve">Specter of Rufuro</translation>
   </message>
   <message>
     <key>namedparam_204</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Former Villager</text>
+    <original xml:space="preserve">村民の成れの果て</original>
+    <translation xml:space="preserve">Former Villager</translation>
   </message>
   <message>
     <key>namedparam_205</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Blue Claw Beach </text>
+    <original xml:space="preserve">青爪浜の</original>
+    <translation xml:space="preserve">Blue Claw Beach </translation>
   </message>
   <message>
     <key>namedparam_206</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Gurigga's Minion</text>
+    <original xml:space="preserve">グリッガの手下</original>
+    <translation xml:space="preserve">Gurigga's Minion</translation>
   </message>
   <message>
     <key>namedparam_207</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Gurigga the Green Demon</text>
+    <original xml:space="preserve">緑鬼グリッガ</original>
+    <translation xml:space="preserve">Gurigga the Green Demon</translation>
   </message>
   <message>
     <key>namedparam_208</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Howler Ape</text>
+    <original xml:space="preserve">唸り猿</original>
+    <translation xml:space="preserve">Howler Ape</translation>
   </message>
   <message>
     <key>namedparam_209</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Ripper Ape</text>
+    <original xml:space="preserve">裂き猿</original>
+    <translation xml:space="preserve">Ripper Ape</translation>
   </message>
   <message>
     <key>namedparam_210</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Pig-eating Ape</text>
+    <original xml:space="preserve">豚喰い猿</original>
+    <translation xml:space="preserve">Pig-eating Ape</translation>
   </message>
   <message>
     <key>namedparam_212</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Old Grown Ent</text>
+    <original xml:space="preserve">オールドグロウ・エント</original>
+    <translation xml:space="preserve">Old Grown Ent</translation>
   </message>
   <message>
     <key>namedparam_213</key>
-    <!-- Suffix (patched to be Prefix) -->
-    <text xml:space="preserve">Ancient </text>
+    <original xml:space="preserve">古代種</original>
+    <translation xml:space="preserve">Ancient </translation>
   </message>
   <message>
     <key>namedparam_214</key>
-    <!-- Suffix (patched to be Prefix) -->
-    <text xml:space="preserve">Ancient </text>
+    <original xml:space="preserve">古代種</original>
+    <translation xml:space="preserve">Ancient </translation>
   </message>
   <message>
     <key>namedparam_215</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Tunnel Thief</text>
+    <original xml:space="preserve">坑道荒らし</original>
+    <translation xml:space="preserve">Tunnel Thief</translation>
   </message>
   <message>
     <key>namedparam_216</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Treasure Seeking Griffon</text>
+    <original xml:space="preserve">宝狩りのグリフィン</original>
+    <translation xml:space="preserve">Treasure Seeking Griffon</translation>
   </message>
   <message>
     <key>namedparam_217</key>
-    <!-- Suffix -->
-    <text xml:space="preserve"> Grave Robber</text>
+    <original xml:space="preserve">盗掘種</original>
+    <translation xml:space="preserve"> Grave Robber</translation>
   </message>
   <message>
     <key>namedparam_218</key>
-    <!-- Suffix (requires to be Prefix))-->
-    <text xml:space="preserve">Strange</text>
+    <original xml:space="preserve">奇種</original>
+    <translation xml:space="preserve">Strange</translation>
   </message>
   <message>
     <key>namedparam_219</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Sulfur Tiger-Tail</text>
+    <original xml:space="preserve">タイガーテール・サルファー</original>
+    <translation xml:space="preserve">Sulfur Tiger-Tail</translation>
   </message>
   <message>
     <key>namedparam_220</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Snow Gura Harpy</text>
+    <original xml:space="preserve">スノーグーラー・ハーピー</original>
+    <translation xml:space="preserve">Snow Gura Harpy</translation>
   </message>
   <message>
     <key>namedparam_221</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Demon Songtress Lorelei</text>
+    <original xml:space="preserve">妖歌のローレライ</original>
+    <translation xml:space="preserve">Demon Songtress Lorelei</translation>
   </message>
   <message>
     <key>namedparam_222</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Gowan the Colossus</text>
+    <original xml:space="preserve">剛腕のコロッサス</original>
+    <translation xml:space="preserve">Gowan the Colossus</translation>
   </message>
   <message>
     <key>namedparam_223</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Odd's Elite</text>
+    <original xml:space="preserve">オッドの精鋭</original>
+    <translation xml:space="preserve">Odd's Elite</translation>
   </message>
   <message>
     <key>namedparam_224</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Odd the Shield-breaker</text>
+    <original xml:space="preserve">盾破りのオッド</original>
+    <translation xml:space="preserve">Odd the Shield-breaker</translation>
+  </message>
+  <message>
+    <key>namedparam_225</key>
+    <original xml:space="preserve">レイクニュート</original>
+  </message>
+  <message>
+    <key>namedparam_226</key>
+    <original xml:space="preserve">セラー湖の水竜</original>
   </message>
   <message>
     <key>namedparam_227</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Shadow Poacher</text>
+    <original xml:space="preserve">葉影の密猟者</original>
+    <translation xml:space="preserve">Shadow Poacher</translation>
   </message>
   <message>
     <key>namedparam_228</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Poacher Guard</text>
+    <original xml:space="preserve">密猟者の護衛</original>
+    <translation xml:space="preserve">Poacher Guard</translation>
+  </message>
+  <message>
+    <key>namedparam_229</key>
+    <original xml:space="preserve">忘れられた亡霊</original>
+  </message>
+  <message>
+    <key>namedparam_230</key>
+    <original xml:space="preserve">目覚めし亡者</original>
+  </message>
+  <message>
+    <key>namedparam_231</key>
+    <original xml:space="preserve">さまよう亡者</original>
+  </message>
+  <message>
+    <key>namedparam_232</key>
+    <original xml:space="preserve">帰還のヨトン</original>
   </message>
   <message>
     <key>namedparam_233</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Cobalt Newt</text>
+    <original xml:space="preserve">コバルトニュート</original>
+    <translation xml:space="preserve">Cobalt Newt</translation>
+  </message>
+  <message>
+    <key>namedparam_234</key>
+    <original xml:space="preserve">遠征準備の小隊長</original>
+  </message>
+  <message>
+    <key>namedparam_235</key>
+    <original xml:space="preserve">オーク遊撃兵</original>
+  </message>
+  <message>
+    <key>namedparam_236</key>
+    <original xml:space="preserve">オーク偵察兵</original>
+  </message>
+  <message>
+    <key>namedparam_241</key>
+    <original xml:space="preserve">淀みの泥人形</original>
+  </message>
+  <message>
+    <key>namedparam_242</key>
+    <original xml:space="preserve">淀みの水精</original>
+  </message>
+  <message>
+    <key>namedparam_243</key>
+    <original xml:space="preserve">泉の徘徊霊</original>
+  </message>
+  <message>
+    <key>namedparam_245</key>
+    <original xml:space="preserve">泉の徘徊霊</original>
+  </message>
+  <message>
+    <key>namedparam_246</key>
+    <original xml:space="preserve">泉の徘徊霊</original>
+  </message>
+  <message>
+    <key>namedparam_247</key>
+    <original xml:space="preserve">泉の徘徊霊</original>
+  </message>
+  <message>
+    <key>namedparam_248</key>
+    <original xml:space="preserve">エルフイーター・</original>
+  </message>
+  <message>
+    <key>namedparam_264</key>
+    <original xml:space="preserve">白獅子アルバス</original>
   </message>
   <message>
     <key>namedparam_265</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Colossus Patrol</text>
+    <original xml:space="preserve">斥候のコロッサス</original>
+    <translation xml:space="preserve">Colossus Patrol</translation>
+  </message>
+  <message>
+    <key>namedparam_267</key>
+    <original xml:space="preserve">強襲用コロッサス</original>
   </message>
   <message>
     <key>namedparam_283</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Vanguard Captain </text>
+    <original xml:space="preserve">先発隊長</original>
+    <translation xml:space="preserve">Vanguard Captain </translation>
   </message>
   <message>
     <key>namedparam_284</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Raider Captain </text>
+    <original xml:space="preserve">切込隊長</original>
+    <translation xml:space="preserve">Raider Captain </translation>
   </message>
   <message>
     <key>namedparam_285</key>
-    <!-- Suffix -->
-    <text xml:space="preserve"> Vanguard Soldier</text>
+    <original xml:space="preserve">先発兵</original>
+    <translation xml:space="preserve"> Vanguard Soldier</translation>
   </message>
   <message>
     <key>namedparam_298</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Wandering </text>
+    <original xml:space="preserve">流浪の</original>
+    <translation xml:space="preserve">Wandering </translation>
   </message>
   <message>
     <key>namedparam_299</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Wanted </text>
+    <original xml:space="preserve">指名手配</original>
+    <translation xml:space="preserve">Wanted </translation>
   </message>
   <message>
     <key>namedparam_300</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Stray </text>
+    <original xml:space="preserve">はぐれ</original>
+    <translation xml:space="preserve">Stray </translation>
   </message>
   <message>
     <key>namedparam_303</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Subjugation Target </text>
+    <original xml:space="preserve">討伐対象</original>
+    <translation xml:space="preserve">Subjugation Target </translation>
   </message>
   <message>
     <key>namedparam_304</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Raid </text>
+    <original xml:space="preserve">レイド・</original>
+    <translation xml:space="preserve">Raid </translation>
   </message>
   <message>
     <key>namedparam_305</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Path-Guard </text>
+    <original xml:space="preserve">路番の</original>
+    <translation xml:space="preserve">Path-Guard </translation>
   </message>
   <message>
     <key>namedparam_306</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Path-Guard </text>
+    <original xml:space="preserve">路番の</original>
+    <translation xml:space="preserve">Path-Guard </translation>
   </message>
   <message>
     <key>namedparam_307</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Defiled Assistant Priest</text>
+    <original xml:space="preserve">穢れの助神官</original>
+    <translation xml:space="preserve">Defiled Assistant Priest</translation>
   </message>
   <message>
     <key>namedparam_308</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Defiled Mudman</text>
+    <original xml:space="preserve">穢れの土人形</original>
+    <translation xml:space="preserve">Defiled Mudman</translation>
   </message>
   <message>
     <key>namedparam_309</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Defiled Follower</text>
+    <original xml:space="preserve">穢れの信徒</original>
+    <translation xml:space="preserve">Defiled Follower</translation>
   </message>
   <message>
     <key>namedparam_310</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Menvili the Undead Priest</text>
+    <original xml:space="preserve">亡者司祭メンヴィル</original>
+    <translation xml:space="preserve">Menvili the Undead Priest</translation>
   </message>
   <message>
     <key>namedparam_311</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Plague Apostle</text>
+    <original xml:space="preserve">疫呪の使徒</original>
+    <translation xml:space="preserve">Plague Apostle</translation>
   </message>
   <message>
     <key>namedparam_312</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Badger Wolf Tamer</text>
+    <original xml:space="preserve">ムジナ団狼使い</original>
+    <translation xml:space="preserve">Badger Wolf Tamer</translation>
   </message>
   <message>
     <key>namedparam_313</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Tamed Direwolf</text>
+    <original xml:space="preserve">テイムド・ダイアウルフ</original>
+    <translation xml:space="preserve">Tamed Direwolf</translation>
   </message>
   <message>
     <key>namedparam_314</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Breya Treasure Bandit</text>
+    <original xml:space="preserve">ブリア宝奪団</original>
+    <translation xml:space="preserve">Breya Treasure Bandit</translation>
   </message>
   <message>
     <key>namedparam_316</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Sea Dragon the Treasure Guardian</text>
+    <original xml:space="preserve">財宝守りの海竜</original>
+    <translation xml:space="preserve">Sea Dragon the Treasure Guardian</translation>
   </message>
   <message>
     <key>namedparam_319</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Dread Ape of the Aqueduct</text>
+    <original xml:space="preserve">水路の大猿</original>
+    <translation xml:space="preserve">Dread Ape of the Aqueduct</translation>
   </message>
   <message>
     <key>namedparam_321</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Magic Lion Singa</text>
+    <original xml:space="preserve">魔獅子シンガ</original>
+    <translation xml:space="preserve">Magic Lion Singa</translation>
   </message>
   <message>
     <key>namedparam_322</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Pit </text>
+    <original xml:space="preserve">ピット・</original>
+    <translation xml:space="preserve">Pit </translation>
   </message>
   <message>
     <key>namedparam_324</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Volden Banger </text>
+    <original xml:space="preserve">ボルドバンガー・</original>
+    <translation xml:space="preserve">Volden Banger </translation>
   </message>
   <message>
     <key>namedparam_325</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">強炭性</text>
+    <original xml:space="preserve">強炭性</original>
   </message>
   <message>
     <key>namedparam_327</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Badger Chieftain</text>
+    <original xml:space="preserve">ムジナ団頭領</original>
+    <translation xml:space="preserve">Badger Chieftain</translation>
   </message>
   <message>
     <key>namedparam_328</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Badger Member</text>
+    <original xml:space="preserve">ムジナ団員</original>
+    <translation xml:space="preserve">Badger Member</translation>
   </message>
   <message>
     <key>namedparam_329</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Cave </text>
+    <original xml:space="preserve">ケイブ・</original>
+    <translation xml:space="preserve">Cave </translation>
   </message>
   <message>
     <key>namedparam_331</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Catacombs Priest</text>
+    <original xml:space="preserve">カタコンベ・プリースト</original>
+    <translation xml:space="preserve">Catacombs Priest</translation>
   </message>
   <message>
     <key>namedparam_332</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Catacombs Guard</text>
+    <original xml:space="preserve">カタコンベの守兵</original>
+    <translation xml:space="preserve">Catacombs Guard</translation>
   </message>
   <message>
     <key>namedparam_341</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Snoring </text>
+    <original xml:space="preserve">いびき鳴り</original>
+    <translation xml:space="preserve">Snoring </translation>
+  </message>
+  <message>
+    <key>namedparam_342</key>
+    <original xml:space="preserve">魔女の従僕</original>
+  </message>
+  <message>
+    <key>namedparam_343</key>
+    <original xml:space="preserve">魔女マリヴェラ</original>
+  </message>
+  <message>
+    <key>namedparam_344</key>
+    <original xml:space="preserve">魔女の従僕</original>
   </message>
   <message>
     <key>namedparam_345</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Corpse-eating </text>
+    <original xml:space="preserve">死体齧りの</original>
+    <translation xml:space="preserve">Corpse-eating </translation>
   </message>
   <message>
     <key>namedparam_346</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Gravewarg</text>
+    <original xml:space="preserve">グレイブワーグ</original>
+    <translation xml:space="preserve">Gravewarg</translation>
+  </message>
+  <message>
+    <key>namedparam_347</key>
+    <original xml:space="preserve">戦鬼ゲソム</original>
+  </message>
+  <message>
+    <key>namedparam_348</key>
+    <original xml:space="preserve">戦鬼の副官</original>
   </message>
   <message>
     <key>namedparam_349</key>
-    <!-- Prefix -->
-    <text xml:space="preserve"> </text>
+    <original xml:space="preserve">蒼葉の</original>
+    <translation xml:space="preserve"> </translation>
   </message>
   <message>
     <key>namedparam_350</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">蒼葉の</text>
+    <original xml:space="preserve">蒼葉の</original>
+  </message>
+  <message>
+    <key>namedparam_351</key>
+    <original xml:space="preserve">“白い災厄”エルダーアングルス</original>
+  </message>
+  <message>
+    <key>namedparam_352</key>
+    <original xml:space="preserve">影穴の軍狼</original>
+  </message>
+  <message>
+    <key>namedparam_353</key>
+    <original xml:space="preserve">影穴の部隊兵</original>
+  </message>
+  <message>
+    <key>namedparam_354</key>
+    <original xml:space="preserve">神花の</original>
+  </message>
+  <message>
+    <key>namedparam_357</key>
+    <original xml:space="preserve">ケイブ・</original>
+  </message>
+  <message>
+    <key>namedparam_358</key>
+    <original xml:space="preserve">テゴル不死兵</original>
+  </message>
+  <message>
+    <key>namedparam_359</key>
+    <original xml:space="preserve">納骨堂の屍食鬼</original>
+  </message>
+  <message>
+    <key>namedparam_360</key>
+    <original xml:space="preserve">ドラワン不死兵</original>
+  </message>
+  <message>
+    <key>namedparam_363</key>
+    <original xml:space="preserve">ピット・</original>
+  </message>
+  <message>
+    <key>namedparam_364</key>
+    <original xml:space="preserve">分隊</original>
   </message>
   <message>
     <key>namedparam_387</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Key Bearer </text>
+    <original xml:space="preserve">キーテイカー・</original>
+    <translation xml:space="preserve">Key Bearer </translation>
   </message>
   <message>
     <key>namedparam_390</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Key Bearer </text>
+    <original xml:space="preserve">キーテイカー・</original>
+    <translation xml:space="preserve">Key Bearer </translation>
   </message>
   <message>
     <key>namedparam_391</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Key Bearer </text>
+    <original xml:space="preserve">キーテイカー・</original>
+    <translation xml:space="preserve">Key Bearer </translation>
   </message>
   <message>
     <key>namedparam_400</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Corrupted Pawn</text>
+    <original xml:space="preserve">さまよえる戦徒</original>
+    <translation xml:space="preserve">Corrupted Pawn</translation>
   </message>
   <message>
     <key>namedparam_401</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Pawn Crusher</text>
+    <original xml:space="preserve">ポーンクラッシャー</original>
+    <translation xml:space="preserve">Pawn Crusher</translation>
   </message>
   <message>
     <key>namedparam_403</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Rogue </text>
+    <original xml:space="preserve">はぐれ</original>
+    <translation xml:space="preserve">Rogue </translation>
   </message>
   <message>
     <key>namedparam_406</key>
-    <!-- Suffix (patched to be Prefix) -->
-    <text xml:space="preserve">Invader </text>
+    <original xml:space="preserve">侵攻兵</original>
+    <translation xml:space="preserve">Invader </translation>
   </message>
   <message>
     <key>namedparam_407</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Elite </text>
+    <original xml:space="preserve">精鋭兵</original>
+    <translation xml:space="preserve">Elite </translation>
   </message>
   <message>
     <key>namedparam_408</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Supreme Commander </text>
+    <original xml:space="preserve">総大将</original>
+    <translation xml:space="preserve">Supreme Commander </translation>
   </message>
   <message>
     <key>namedparam_409</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Battalion Commander </text>
+    <original xml:space="preserve">大隊長</original>
+    <translation xml:space="preserve">Battalion Commander </translation>
   </message>
   <message>
     <key>namedparam_410</key>
-    <!-- Suffix (patched to be Prefix) -->
-    <text xml:space="preserve">Raider </text>
+    <original xml:space="preserve">強襲兵</original>
+    <translation xml:space="preserve">Raider </translation>
   </message>
   <message>
     <key>namedparam_413</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Mercenary </text>
+    <original xml:space="preserve">傭兵</original>
+    <translation xml:space="preserve">Mercenary </translation>
   </message>
   <message>
     <key>namedparam_414</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Wall-breaker </text>
+    <original xml:space="preserve">破砦用</original>
+    <translation xml:space="preserve">Wall-breaker </translation>
   </message>
   <message>
     <key>namedparam_415</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Summoned </text>
+    <original xml:space="preserve">召喚されし</original>
+    <translation xml:space="preserve">Summoned </translation>
   </message>
   <message>
     <key>namedparam_416</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Commanding Officer </text>
+    <original xml:space="preserve">部隊長</original>
+    <translation xml:space="preserve">Commanding Officer </translation>
   </message>
   <message>
     <key>namedparam_417</key>
-    <!-- Suffix -->
-    <text xml:space="preserve"> Platoon Leader</text>
+    <original xml:space="preserve">小隊長</original>
+    <translation xml:space="preserve"> Platoon Leader</translation>
   </message>
   <message>
     <key>namedparam_418</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Raider </text>
+    <original xml:space="preserve">急襲の</original>
+    <translation xml:space="preserve">Raider </translation>
   </message>
   <message>
     <key>namedparam_419</key>
-    <!-- Suffix -->
-    <text xml:space="preserve"> Invader</text>
+    <original xml:space="preserve">先遣兵</original>
+    <translation xml:space="preserve"> Invader</translation>
   </message>
   <message>
     <key>namedparam_420</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Raid Captain </text>
+    <original xml:space="preserve">切込隊長</original>
+    <translation xml:space="preserve">Raid Captain </translation>
   </message>
   <message>
     <key>namedparam_421</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Vanguard Captain </text>
+    <original xml:space="preserve">先遣隊長</original>
+    <translation xml:space="preserve">Vanguard Captain </translation>
   </message>
   <message>
     <key>namedparam_446</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Raider </text>
+    <original xml:space="preserve">強襲の</original>
+    <translation xml:space="preserve">Raider </translation>
   </message>
   <message>
     <key>namedparam_447</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Kamikaze </text>
+    <original xml:space="preserve">特攻の</original>
+    <translation xml:space="preserve">Kamikaze </translation>
   </message>
   <message>
     <key>namedparam_448</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Blood Orb </text>
+    <original xml:space="preserve">血珠の</original>
+    <translation xml:space="preserve">Blood Orb </translation>
   </message>
   <message>
     <key>namedparam_449</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Time Bonus</text>
+    <original xml:space="preserve">時番</original>
+    <translation xml:space="preserve">Time Bonus</translation>
   </message>
   <message>
     <key>namedparam_451</key>
-    <!-- Suffix -->
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
   <message>
     <key>namedparam_454</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Corrupter</text>
+    <original xml:space="preserve">穢れの術師</original>
+    <translation xml:space="preserve">Corrupter</translation>
   </message>
   <message>
     <key>namedparam_455</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Wraith of the Underworld</text>
+    <original xml:space="preserve">異界の邪霊</original>
+    <translation xml:space="preserve">Wraith of the Underworld</translation>
   </message>
   <message>
     <key>namedparam_456</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bone-eating </text>
+    <original xml:space="preserve">骨噛み</original>
+    <translation xml:space="preserve">Bone-eating </translation>
   </message>
   <message>
     <key>namedparam_457</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Goblin-eating </text>
+    <original xml:space="preserve">ゴブリンイーター・</original>
+    <translation xml:space="preserve">Goblin-eating </translation>
   </message>
   <message>
     <key>namedparam_458</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_459</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Young </text>
+    <original xml:space="preserve">ヤング・</original>
+    <translation xml:space="preserve">Young </translation>
   </message>
   <message>
     <key>namedparam_460</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Lullaby Queen</text>
+    <original xml:space="preserve">ララバイ・クイーン</original>
+    <translation xml:space="preserve">Lullaby Queen</translation>
   </message>
   <message>
     <key>namedparam_462</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">(Time Bonus)Magic-Shell </text>
+    <original xml:space="preserve">魔壁の時番</original>
+    <translation xml:space="preserve">(Time Bonus)Magic-Shell </translation>
   </message>
   <message>
     <key>namedparam_463</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">(Time Bonus)Iron-Clad </text>
+    <original xml:space="preserve">鉄壁の時番</original>
+    <translation xml:space="preserve">(Time Bonus)Iron-Clad </translation>
   </message>
   <message>
     <key>namedparam_464</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">(Time Bonus)Herculean </text>
+    <original xml:space="preserve">強激の時番</original>
+    <translation xml:space="preserve">(Time Bonus)Herculean </translation>
   </message>
   <message>
     <key>namedparam_465</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">(Time Bonus)Mystical </text>
+    <original xml:space="preserve">魔激の時番</original>
+    <translation xml:space="preserve">(Time Bonus)Mystical </translation>
   </message>
   <message>
     <key>namedparam_466</key>
-    <!-- Replace -->
-    <text xml:space="preserve">Dragon Race?</text>
+    <original xml:space="preserve">竜族？</original>
+    <translation xml:space="preserve">Dragon Race?</translation>
   </message>
   <message>
     <key>namedparam_467</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_468</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_469</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_470</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_471</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_472</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_473</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_474</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_475</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_476</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_477</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_478</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_483</key>
-    <!-- Prefix -->
-    <text xml:space="preserve">Bounty </text>
+    <original xml:space="preserve">賞金首</original>
+    <translation xml:space="preserve">Bounty </translation>
   </message>
   <message>
     <key>namedparam_484</key>
-    <!-- Prefix -->
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
+  </message>
+  <message>
+    <key>namedparam_485</key>
+    <original xml:space="preserve">賞金首</original>
+  </message>
+  <message>
+    <key>namedparam_488</key>
+    <original xml:space="preserve">賞金首</original>
+  </message>
+  <message>
+    <key>namedparam_489</key>
+    <original xml:space="preserve">賞金首</original>
+  </message>
+  <message>
+    <key>namedparam_490</key>
+    <original xml:space="preserve">賞金首</original>
+  </message>
+  <message>
+    <key>namedparam_491</key>
+    <original xml:space="preserve">賞金首</original>
+  </message>
+  <message>
+    <key>namedparam_492</key>
+    <original xml:space="preserve">賞金首</original>
+  </message>
+  <message>
+    <key>namedparam_493</key>
+    <original xml:space="preserve">賞金首</original>
+  </message>
+  <message>
+    <key>namedparam_494</key>
+    <original xml:space="preserve">賞金首</original>
+  </message>
+  <message>
+    <key>namedparam_495</key>
+    <original xml:space="preserve">ディナン・ピアサー</original>
+  </message>
+  <message>
+    <key>namedparam_497</key>
+    <original xml:space="preserve">賞金首</original>
+  </message>
+  <message>
+    <key>namedparam_498</key>
+    <original xml:space="preserve">金装のスケルトン</original>
+  </message>
+  <message>
+    <key>namedparam_499</key>
+    <original xml:space="preserve">錬術の女守官</original>
+  </message>
+  <message>
+    <key>namedparam_500</key>
+    <original xml:space="preserve">テイムド・</original>
+  </message>
+  <message>
+    <key>namedparam_501</key>
+    <original xml:space="preserve"></original>
+  </message>
+  <message>
+    <key>namedparam_502</key>
+    <original xml:space="preserve"></original>
+  </message>
+  <message>
+    <key>namedparam_506</key>
+    <original xml:space="preserve">穢れの大魔像</original>
+  </message>
+  <message>
+    <key>namedparam_507</key>
+    <original xml:space="preserve">ケイブレイダー</original>
+  </message>
+  <message>
+    <key>namedparam_508</key>
+    <original xml:space="preserve">大騒音の主</original>
   </message>
 </resource>

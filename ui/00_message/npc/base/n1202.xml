@@ -1,57 +1,63 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">休憩していってはどうですか？
+    <original xml:space="preserve">休憩していってはどうですか？
 魚料理もついて、一泊
-&lt;VAL PRICE_INN&gt;ですよ！</text>
+&lt;VAL PRICE_INN&gt;ですよ！</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">おお、お疲れですか？
+    <original xml:space="preserve">おお、お疲れですか？
 あなたのお部屋は常に準備してますとも！
-さ～、どうぞ休憩はご自由に</text>
+さ～、どうぞ休憩はご自由に</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">おや覚者さま、《弱化の治療》ですか
+    <original xml:space="preserve">おや覚者さま、《弱化の治療》ですか
 では代金として
-&lt;VAL PRICE_WEAK&gt;ほど、お願いします</text>
+&lt;VAL PRICE_WEAK&gt;ほど、お願いします</original>
   </message>
   <message>
-    <text xml:space="preserve">Yes</text>
+    <original xml:space="preserve">はい</original>
+    <translation xml:space="preserve">Yes</translation>
   </message>
   <message>
-    <text xml:space="preserve">No</text>
+    <original xml:space="preserve">いいえ</original>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
-    <text xml:space="preserve">おやおや、覚者さまはお元気そうです
-《弱化》にはかかっていませんよ！</text>
+    <original xml:space="preserve">おやおや、覚者さまはお元気そうです
+《弱化》にはかかっていませんよ！</original>
   </message>
   <message>
-    <text xml:space="preserve">この村ローテスは魚が旨い！
+    <original xml:space="preserve">この村ローテスは魚が旨い！
 ワインもテルから取り寄せてます
-ささ、ゆっくりと滞在していってくださいよ</text>
+ささ、ゆっくりと滞在していってくださいよ</original>
   </message>
   <message>
-    <text xml:space="preserve">覚者さま、冒険者の宿として
+    <original xml:space="preserve">覚者さま、冒険者の宿として
 一通りの準備はできますよ
-ご用はありませんかな？</text>
+ご用はありませんかな？</original>
   </message>
   <message>
-    <text xml:space="preserve">村で上がった問題は《クエストボード》に
+    <original xml:space="preserve">村で上がった問題は《クエストボード》に
 貼っております
-ぜひ、お力をお貸し頂けるとありがたい！</text>
+ぜひ、お力をお貸し頂けるとありがたい！</original>
   </message>
   <message>
-    <text xml:space="preserve">ようこそ、海竜亭へ！</text>
+    <original xml:space="preserve">ようこそ、海竜亭へ！</original>
   </message>
 </resource>

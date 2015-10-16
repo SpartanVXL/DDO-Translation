@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_52</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;覚者であるあなたは、戦闘やクエストクリアで
+    <original xml:space="preserve">&lt;COL ffdc78&gt;覚者であるあなたは、戦闘やクエストクリアで
 経験値（ＸＰ）を得て、レベルアップします&lt;/COL&gt;
 主な成長要素は覚えておきましょう
 
@@ -10,6 +10,6 @@
 　・ジョブポイントの獲得
 　・新たなスキル、アビリティの習得
 
-なお、レベルはジョブ別に上昇します</text>
+なお、レベルはジョブ別に上昇します</original>
   </message>
 </resource>

@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_100</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;《レスタニアニュース》は、
+    <original xml:space="preserve">&lt;COL ffdc78&gt;《レスタニアニュース》は、
 現在各地で起こっているさまざまなトピックが
 掲載される、この世界の冒険ガイドです&lt;/COL&gt;
 
@@ -9,11 +9,11 @@
 &lt;COL ffdc78&gt;《クエスト》&lt;/COL&gt;から読むことができます
 
 配信中のワールドクエスト、グランドミッション
-開催情報はここをチェックしましょう</text>
+開催情報はここをチェックしましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_99</key>
-    <text xml:space="preserve">&lt;COL ffdc78&gt;掲載されているクエストを遊びたい人
+    <original xml:space="preserve">&lt;COL ffdc78&gt;掲載されているクエストを遊びたい人
 同士のクイックパーティーや、最寄り拠点への
 リム転移も可能です&lt;/COL&gt;
 
@@ -22,6 +22,6 @@
 組んでクリアするとボーナス報酬が
 得られるもので、内容はデイリーで変化します
 
-レスタニアニュースは日々チェックしましょう</text>
+レスタニアニュースは日々チェックしましょう</original>
   </message>
 </resource>

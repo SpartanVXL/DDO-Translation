@@ -1,43 +1,54 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q00000003_00_4</key>
-    <text xml:space="preserve">Envoy of Reconciliation</text>
+    <original xml:space="preserve">和解の使者</original>
+    <translation xml:space="preserve">Envoy of Reconciliation</translation>
   </message>
   <message>
     <key>q00000003_00_4</key>
-    <text xml:space="preserve">Take up the mission to defeat the monsters.
-Suppress the conflict between the Arisen and the White Dragon Knights.</text>
+    <original xml:space="preserve">魔物撃退の任務について対立する
+覚者と白衛騎士団のいさかいを鎮める</original>
+    <translation xml:space="preserve">Take up the mission to defeat the monsters.
+Suppress the conflict between the Arisen and the White Dragon Knights.</translation>
   </message>
   <message>
     <key>q00000003_00_956</key>
-    <text xml:space="preserve">Go to the village of Tel</text>
+    <original xml:space="preserve">テル村へ向かう</original>
+    <translation xml:space="preserve">Go to the village of Tel</translation>
   </message>
   <message>
     <key>q00000003_00_957</key>
-    <text xml:space="preserve">Talk to Alfred at the Black Grape</text>
+    <original xml:space="preserve">黒ブドウ亭にいるアルフレドから事情を聞く</original>
+    <translation xml:space="preserve">Talk to Alfred at the Black Grape</translation>
   </message>
   <message>
     <key>q00000003_00_1527</key>
-    <text xml:space="preserve">Register and set the Tel village Riftstone</text>
+    <original xml:space="preserve">テル村の＜拠点の礎＞を解放しマイ拠点に登録する</original>
+    <translation xml:space="preserve">Register and set the Tel village Riftstone</translation>
   </message>
   <message>
     <key>q00000003_00_958</key>
-    <text xml:space="preserve">Investigate the cellar of the abandoned house</text>
+    <original xml:space="preserve">廃屋の地下室を調査する</original>
+    <translation xml:space="preserve">Investigate the cellar of the abandoned house</translation>
   </message>
   <message>
     <key>q00000003_00_959</key>
-    <text xml:space="preserve">Defeat the enemy encountered</text>
+    <original xml:space="preserve">遭遇した敵を殲滅する</original>
+    <translation xml:space="preserve">Defeat the enemy encountered</translation>
   </message>
   <message>
     <key>q00000003_00_960</key>
-    <text xml:space="preserve">Report the result to Alfred</text>
+    <original xml:space="preserve">アルフレドに成果を報告する</original>
+    <translation xml:space="preserve">Report the result to Alfred</translation>
   </message>
   <message>
     <key>q00000003_00_961</key>
-    <text xml:space="preserve">Return to the Knights' location</text>
+    <original xml:space="preserve">騎士団員らのいる場所に行く</original>
+    <translation xml:space="preserve">Return to the Knights' location</translation>
   </message>
   <message>
     <key>q00000003_00_962</key>
-    <text xml:space="preserve">Return to the White Dragon Temple using the Tel Riftstone and report back to Leo</text>
+    <original xml:space="preserve">リム転移で神殿に戻り、謁見の間のレオに報告する</original>
+    <translation xml:space="preserve">Return to the White Dragon Temple using the Tel Riftstone and report back to Leo</translation>
   </message>
 </resource>

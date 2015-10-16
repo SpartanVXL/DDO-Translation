@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_125</key>
-    <text xml:space="preserve">シールドセージは、大盾で受けた敵の力を自身の
+    <original xml:space="preserve">シールドセージは、大盾で受けた敵の力を自身の
 力に変えて最前線で仲間を守る、パーティーの
 砦役です。属性魔法の使い手でもあります
 
@@ -9,6 +9,6 @@
 &lt;PADM&gt;　【&lt;ICON PAD_L1&gt;ボタン】シールドロック（ガード）&lt;KEYM&gt;　【&lt;ICON KB_SHIFT&gt;】シールドロック（ガード）&lt;/KEYM&gt;
 &lt;PADM&gt;　【&lt;ICON STG_ATTACK_0&gt;ボタン】シールドブロウ（盾連撃）&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_L&gt;クリック】シールドブロウ（盾連撃）&lt;/KEYM&gt;
 &lt;PADM&gt;　【&lt;ICON PAD_R1&gt;ボタン】アトラクト（敵の注目を集める）&lt;KEYM&gt;　【&lt;ICON KB_CTRL&gt;】アトラクト（敵の注目を集める）&lt;/KEYM&gt;
-　※抜刀中は戦闘行動中とスキ以外はオートガード</text>
+　※抜刀中は戦闘行動中とスキ以外はオートガード</original>
   </message>
 </resource>

@@ -1,34 +1,50 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_03_32</key>
-    <text xml:space="preserve">Threefold Arrow</text>
+    <original xml:space="preserve">連なり射ち</original>
+    <translation xml:space="preserve">Threefold Arrow</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_37</key>
-    <text xml:space="preserve">Puncture Dart</text>
+    <original xml:space="preserve">貫き射ち</original>
+    <translation xml:space="preserve">Puncture Dart</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_33</key>
-    <text xml:space="preserve">Triad Shot</text>
+    <original xml:space="preserve">扇射ち</original>
+    <translation xml:space="preserve">Triad Shot</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_34</key>
-    <text xml:space="preserve">Flying Din</text>
+    <original xml:space="preserve">仕込み爆音矢</original>
+    <translation xml:space="preserve">Flying Din</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_36</key>
-    <text xml:space="preserve">Cloudburst Volley</text>
+    <original xml:space="preserve">降らし射ち</original>
+    <translation xml:space="preserve">Cloudburst Volley</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_38</key>
-    <text xml:space="preserve">Whirling Arrow</text>
+    <original xml:space="preserve">渦巻き射ち</original>
+    <translation xml:space="preserve">Whirling Arrow</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_39</key>
-    <text xml:space="preserve">Crimson Arrow</text>
+    <original xml:space="preserve">紅蓮爆矢</original>
+    <translation xml:space="preserve">Crimson Arrow</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_35</key>
-    <text xml:space="preserve">Full Bend</text>
+    <original xml:space="preserve">剛力射ち</original>
+    <translation xml:space="preserve">Full Bend</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_03_42</key>
+    <original xml:space="preserve">逆縮地</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_03_40</key>
+    <original xml:space="preserve">降らし爆炎矢</original>
   </message>
 </resource>

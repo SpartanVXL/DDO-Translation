@@ -1,44 +1,52 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20030002_00_52</key>
-    <text xml:space="preserve">Historical Mementos</text>
+    <original xml:space="preserve">時を刻む遺物</original>
+    <translation xml:space="preserve">Historical Mementos</translation>
   </message>
   <message>
     <key>q20030002_00_52</key>
-    <text xml:space="preserve">依頼者の願いを聞き入れ
-望む物品を集める</text>
+    <original xml:space="preserve">依頼者の願いを聞き入れ
+望む物品を集める</original>
   </message>
   <message>
     <key>q20030002_00_52</key>
-    <text xml:space="preserve">From &lt;NAME AREA&gt;,
-There are reports of someone who is begging for help.</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;から
+何者かが助けを請うているらしいと報告があった</original>
+    <translation xml:space="preserve">From &lt;NAME AREA&gt;,
+There are reports of someone who is begging for help.</translation>
   </message>
   <message>
     <key>q20030002_00_52</key>
-    <text xml:space="preserve">まともな武装もしないで危険な場所に行くやつは
+    <original xml:space="preserve">まともな武装もしないで危険な場所に行くやつは
 魔物のエサになっても文句は言えんよな
 特に、研究者や学者にその傾向が強い
 やつらは自分たちがいかに騎士団や覚者たちに
-迷惑をかけているかの自覚が足りん</text>
+迷惑をかけているかの自覚が足りん</original>
   </message>
   <message>
     <key>q20030002_00_1126</key>
-    <text xml:space="preserve">Retrieve the historical materials left in the castle (4 left).</text>
+    <original xml:space="preserve">古城に残された旧時代の史料を探す（残り４）</original>
+    <translation xml:space="preserve">Retrieve the historical materials left in the castle (4 left).</translation>
   </message>
   <message>
     <key>q20030002_00_973</key>
-    <text xml:space="preserve">Retrieve the historical materials left in the castle (3 left).</text>
+    <original xml:space="preserve">古城に残された旧時代の史料を探す（残り３）</original>
+    <translation xml:space="preserve">Retrieve the historical materials left in the castle (3 left).</translation>
   </message>
   <message>
     <key>q20030002_00_1094</key>
-    <text xml:space="preserve">Retrieve the historical materials left in the castle (2 left).</text>
+    <original xml:space="preserve">古城に残された旧時代の史料を探す（残り２）</original>
+    <translation xml:space="preserve">Retrieve the historical materials left in the castle (2 left).</translation>
   </message>
   <message>
     <key>q20030002_00_1095</key>
-    <text xml:space="preserve">Retrieve the historical materials left in the castle (1 left).</text>
+    <original xml:space="preserve">古城に残された旧時代の史料を探す（残り１）</original>
+    <translation xml:space="preserve">Retrieve the historical materials left in the castle (1 left).</translation>
   </message>
   <message>
     <key>q20030002_00_804</key>
-    <text xml:space="preserve">Report back to the requester.</text>
+    <original xml:space="preserve">依頼者に報告する</original>
+    <translation xml:space="preserve">Report back to the requester.</translation>
   </message>
 </resource>
