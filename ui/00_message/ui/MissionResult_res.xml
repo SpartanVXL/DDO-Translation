@@ -62,11 +62,11 @@
   </message>
   <message>
     <key>mr_msg_head_timebonus</key>
-    <original xml:space="preserve">タイムボーナス</original>
+    <original xml:space="preserve">残タイムスコア</original>
   </message>
   <message>
     <key>mr_msg_head_timebonus_powered</key>
-    <original xml:space="preserve">タイムボーナス倍率</original>
+    <original xml:space="preserve">タイムボーナス</original>
   </message>
   <message>
     <key>mr_msg_head_reward_normal</key>
@@ -87,5 +87,13 @@
   <message>
     <key>mr_msg_title_jp</key>
     <original xml:space="preserve">ミッションリザルト</original>
+  </message>
+  <message>
+    <key>mr_msg_parts_break</key>
+    <original xml:space="preserve">部位破壊</original>
+  </message>
+  <message>
+    <key>mr_msg_result_reward</key>
+    <original xml:space="preserve">リザルト報酬を獲得！</original>
   </message>
 </resource>

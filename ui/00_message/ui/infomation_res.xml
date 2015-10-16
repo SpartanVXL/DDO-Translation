@@ -66,7 +66,8 @@
   </message>
   <message>
     <key>info_mail_list</key>
-    <original xml:space="preserve">未読メールがあります</original>
+    <original xml:space="preserve">未読／未取得メールがあります</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">There is unread mail.</translation>
   </message>
   <message>
@@ -264,14 +265,22 @@ Please set the party leader in an inn, at the White Dragon Temple, or at a Rifts
   </message>
   <message>
     <key>info_caplink_invite_detail</key>
-    <original xml:space="preserve">カプリンク：&lt;VAL&gt;からゲーム招待メッセージが届いています</original>
+    <original xml:space="preserve">カプリンク：%sからゲーム招待メッセージが届いています</original>
   </message>
   <message>
     <key>info_caplink_friend_online_detail</key>
-    <original xml:space="preserve">カプリンク：&lt;VAL&gt;がオンラインになりました</original>
+    <original xml:space="preserve">カプリンク：%sがオンラインになりました</original>
   </message>
   <message>
     <key>info_caplink_friend_content_detail</key>
-    <original xml:space="preserve">カプリンク：&lt;VAL&gt;とカプトモになりました</original>
+    <original xml:space="preserve">カプリンク：%sとカプトモになりました</original>
+  </message>
+  <message>
+    <key>info_entry_invitation</key>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;からエントリーボードに招待されました</original>
+  </message>
+  <message>
+    <key>info_entry_invitation_list</key>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;からエントリーボードへの招待があります</original>
   </message>
 </resource>

@@ -170,11 +170,6 @@ Is this okay?</translation>
     <translation xml:space="preserve">&lt;VAL&gt; Golden Gemstones</translation>
   </message>
   <message>
-    <key>OS_announce_buy_item</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; を購入しました</original>
-    <translation xml:space="preserve">&lt;NAME ETC&gt; has been purchased.</translation>
-  </message>
-  <message>
     <key>OS_announce_buy_use_item</key>
     <original xml:space="preserve">&lt;NAME ETC&gt; を購入して使用しました</original>
   </message>
@@ -201,10 +196,6 @@ Is this okay?</translation>
   <message>
     <key>OS_announce_buyanduse</key>
     <original xml:space="preserve">&lt;NAME ETC&gt; を購入して使用しました</original>
-  </message>
-  <message>
-    <key>OS_announce_buygs</key>
-    <original xml:space="preserve">黄金石 &lt;VAL&gt; 個を購入しました</original>
   </message>
   <message>
     <key>OS_announce_use</key>
@@ -262,25 +253,6 @@ Is this okay?</translation>
   <message>
     <key>OS_annnounce_nolist</key>
     <original xml:space="preserve">表示するリストがありません</original>
-  </message>
-  <message>
-    <key>OS_annnounce_for_itempost</key>
-    <original xml:space="preserve">装備・アイテムの受け取りは
-アイテムポストをご確認ください</original>
-    <translation xml:space="preserve">You have received the equipment/items.
-Please check your item post.</translation>
-  </message>
-  <message>
-    <key>OS_annnounce_for_rimstone</key>
-    <original xml:space="preserve">クラフトマスターポーンのご利用は
-リムストーンで行えます</original>
-    <translation xml:space="preserve">Craft Master pawns can be used
-from the Rift Stone.</translation>
-  </message>
-  <message>
-    <key>OS_annnounce_for_beautyshop</key>
-    <original xml:space="preserve">ポーンボイスの設定は美容院で行えます</original>
-    <translation xml:space="preserve">Pawn voice can be changed in the Beauty Salon.</translation>
   </message>
   <message>
     <key>OS_activetetimer_remaining</key>

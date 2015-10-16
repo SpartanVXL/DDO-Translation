@@ -24,7 +24,8 @@
   </message>
   <message>
     <key>q20040000_00_1124</key>
-    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す</original>
+    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester.</translation>
   </message>
 </resource>

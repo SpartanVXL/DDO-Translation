@@ -324,7 +324,8 @@
   </message>
   <message>
     <key>poptop_entryboard_reentry</key>
-    <original xml:space="preserve">再登録</original>
+    <original xml:space="preserve">再エントリー</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">Reregister</translation>
   </message>
   <message>
@@ -341,5 +342,25 @@
     <key>poptop_rim_stone_lost_pawn</key>
     <original xml:space="preserve">ポーンの救出</original>
     <translation xml:space="preserve">Lost Pawns</translation>
+  </message>
+  <message>
+    <key>poptop_entryboard_password_release</key>
+    <original xml:space="preserve">パスワード解除</original>
+  </message>
+  <message>
+    <key>poptop_entryboard_comment_input</key>
+    <original xml:space="preserve">コメント再編集</original>
+  </message>
+  <message>
+    <key>poptop_entryboard_member_check</key>
+    <original xml:space="preserve">メンバー確認</original>
+  </message>
+  <message>
+    <key>poptop_entryboard_entry_invitation_pt</key>
+    <original xml:space="preserve">パーティー招待</original>
+  </message>
+  <message>
+    <key>poptop_entryboard_ready</key>
+    <original xml:space="preserve">準備完了</original>
   </message>
 </resource>

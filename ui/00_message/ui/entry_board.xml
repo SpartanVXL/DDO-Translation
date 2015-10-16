@@ -62,7 +62,8 @@
   </message>
   <message>
     <key>entry_board_search_search_friend</key>
-    <original xml:space="preserve">フレンドから探す</original>
+    <original xml:space="preserve">フレンド</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">Search Friends</translation>
   </message>
   <message>
@@ -72,7 +73,8 @@
   </message>
   <message>
     <key>entry_board_search_search_clanmember</key>
-    <original xml:space="preserve">クランメンバーから探す</original>
+    <original xml:space="preserve">クラン</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">Search Clan Members</translation>
   </message>
   <message>
@@ -176,12 +178,14 @@
   </message>
   <message>
     <key>entry_board_info_password_on</key>
-    <original xml:space="preserve">【パスワード】</original>
+    <original xml:space="preserve">パスワード：</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">【Password】</translation>
   </message>
   <message>
     <key>entry_board_info_job_on</key>
-    <original xml:space="preserve">【ジョブ指定】</original>
+    <original xml:space="preserve">ジョブ指定：</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">【Jobs Specified】</translation>
   </message>
   <message>
@@ -246,7 +250,8 @@
   </message>
   <message>
     <key>entry_board_info_limit_lv</key>
-    <original xml:space="preserve">【レベル制限】</original>
+    <original xml:space="preserve">レベル制限：</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">【Level Limit】</translation>
   </message>
   <message>
@@ -363,5 +368,33 @@
     <key>entry_board_fail_search</key>
     <original xml:space="preserve">検索結果は0件でした</original>
     <translation xml:space="preserve">There was 0 search results.</translation>
+  </message>
+  <message>
+    <key>entry_board_search_search_party</key>
+    <original xml:space="preserve">パーティーメンバー</original>
+  </message>
+  <message>
+    <key>entry_board_search_search_groupchat</key>
+    <original xml:space="preserve">グループチャット</original>
+  </message>
+  <message>
+    <key>entry_board_info_comment</key>
+    <original xml:space="preserve">コメント　：</original>
+  </message>
+  <message>
+    <key>entry_board_pop_event_info_ranking</key>
+    <original xml:space="preserve">ランキング順位</original>
+  </message>
+  <message>
+    <key>entry_board_pop_event_info_score_technical</key>
+    <original xml:space="preserve">テクニカルスコア</original>
+  </message>
+  <message>
+    <key>entry_board_pop_event_info_score_total</key>
+    <original xml:space="preserve">トータルスコア</original>
+  </message>
+  <message>
+    <key>entry_board_pop_event_info_ranking_unit</key>
+    <original xml:space="preserve">位</original>
   </message>
 </resource>

@@ -103,7 +103,9 @@ please wait in the circle.</translation>
 Please touch the progress marker.</translation>
   </message>
   <message>
-    <original xml:space="preserve">イベントを進行しますか？</original>
+    <original xml:space="preserve">イベントを進行しますか？
+※パーティー要請中の場合はキャンセルされます</original>
+		<!-- NEEDS REVIEW -->
     <translation xml:space="preserve">Are you sure you want to proceed with the event?</translation>
   </message>
   <message>

@@ -1147,4 +1147,18 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
     <original xml:space="preserve">レンタルポイントを&lt;VAL RP&gt;消費しました</original>
     <translation xml:space="preserve">Used &lt;VAL RP&gt;.</translation>
   </message>
+  <message>
+    <key>syslog_break_region_raid_boss</key>
+    <original xml:space="preserve">&lt;VAL&gt;の部位破壊に成功！
+討伐成功時にボーナス追加！</original>
+  </message>
+  <message>
+    <key>syslog_quest_progress_failed</key>
+    <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞の進行に失敗しました
+クエストログで進行状況を確認してください</original>
+  </message>
+  <message>
+    <key>syslog_break_region_lose_raid_boss</key>
+    <original xml:space="preserve">&lt;VAL&gt;の部位が壊れた！</original>
+  </message>
 </resource>

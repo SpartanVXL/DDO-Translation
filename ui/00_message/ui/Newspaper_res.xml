@@ -134,7 +134,8 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   </message>
   <message>
     <key>np_msg_rab_reward</key>
-    <original xml:space="preserve">リワード</original>
+    <original xml:space="preserve">報酬</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">Reward</translation>
   </message>
   <message>
@@ -207,7 +208,7 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   </message>
   <message>
     <key>np_msg_mypoint</key>
-    <original xml:space="preserve">獲得ポイント</original>
+    <original xml:space="preserve">スコア</original>
   </message>
   <message>
     <key>np_msg_area_select</key>
@@ -363,5 +364,9 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
     <key>np_msg_state_receiving</key>
     <original xml:space="preserve">報酬配分中</original>
     <translation xml:space="preserve">Reward Claim</translation>
+  </message>
+  <message>
+    <key>np_msg_reward_item_num</key>
+    <original xml:space="preserve"> × </original>
   </message>
 </resource>

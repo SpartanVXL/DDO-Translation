@@ -248,8 +248,9 @@
   <message>
     <key>PopPartyList_QuickPartyEdit_Warning</key>
     <original xml:space="preserve">※進行に変化があった場合は、クイックパーティーの登録が解除されます
-※パーティーにポーンがいる場合は、クイックパーティー合流時に
-　パーティーから外れます</original>
+※パーティー内のポーンは、合流時にパーティーから外れます
+※登録時のジョブと異なる場合は、合流時に元のジョブに戻ります</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">※If there is a change in quest progress, the registration will be
 canceled.
 ※If there are pawns in party when the quick party forms,

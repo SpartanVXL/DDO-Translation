@@ -138,6 +138,10 @@
     <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_R3&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_WHL_1&gt;&lt;/KEYM&gt;</original>
   </message>
   <message>
+    <key>hud_quest_em</key>
+    <original xml:space="preserve">Extreme Mission</original>
+  </message>
+  <message>
     <key>hud_status_disconnect</key>
     <original xml:space="preserve">回線切断中</original>
     <translation xml:space="preserve">Disconnected</translation>

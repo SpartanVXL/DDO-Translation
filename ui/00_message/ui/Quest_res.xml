@@ -230,7 +230,8 @@
   </message>
   <message>
     <key>QUEST_MSG_TAB_COLLECT</key>
-    <original xml:space="preserve">採取</original>
+    <original xml:space="preserve">納品</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">Collect</translation>
   </message>
   <message>
@@ -452,5 +453,21 @@
     <key>QUEST_MSG_AREA_BONUS</key>
     <original xml:space="preserve">＜&lt;VAL&gt;＞のボードクエストクリアで最大&lt;VAL&gt;倍！</original>
     <translation xml:space="preserve">＜&lt;VAL&gt;＞ board quest reward increased by &lt;VAL&gt;x!</translation>
+  </message>
+  <message>
+    <key>QUEST_MSG_LEADER_PROGRESS</key>
+    <original xml:space="preserve">リーダーが進行条件を満たしていません</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_BN_UNDETECTED1</key>
+    <original xml:space="preserve">未公開ボーナス(取得済)</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_BN_TIMEBONUS</key>
+    <original xml:space="preserve">タイムボーナス</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_BONUS_REWARD_TIMEBONUS</key>
+    <original xml:space="preserve">スコア倍率が最大&lt;VAL&gt;倍！</original>
   </message>
 </resource>

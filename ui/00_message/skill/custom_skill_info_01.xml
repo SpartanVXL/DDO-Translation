@@ -65,7 +65,8 @@ When an attack is evaded, increases number of hits.&lt;/COL&gt;</translation>
     <key>CUSTOM_SKILL_INFO_01_9</key>
     <original xml:space="preserve">跳躍し、鋭い一撃を放って下方に突き立てる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
+LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">Leap forward and stab your sword into the ground.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Motion changes. Increases number of hits.&lt;/COL&gt;</translation>
@@ -93,5 +94,18 @@ circle especially effective when surrounded.
 Employable while under attack.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Motion changes. Increases number of hits.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_18</key>
+    <original xml:space="preserve">盾を構えながら素早く踏み込む
+&lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;により特定方向に移動できる
+&lt;COL ffdc78&gt;LV UP毎に防御性能の上昇／スタミナ消費減少
+LV.６で移動速度上昇／移動方向に左右追加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_16</key>
+    <original xml:space="preserve">素早く剣を突き、直後に引き抜く二段攻撃を放つ
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
 </resource>
