@@ -15,8 +15,17 @@
     <original xml:space="preserve">毒消しの薬</original>
     <translation xml:space="preserve">Antidote</translation>
   </item_name>
+  <item_name id="38">
+    <original xml:space="preserve">解印の水薬</original>
+  </item_name>
   <item_name id="39">
     <original xml:space="preserve">点眼薬</original>
+  </item_name>
+  <item_name id="40">
+    <original xml:space="preserve">石化下し</original>
+  </item_name>
+  <item_name id="41">
+    <original xml:space="preserve">万能薬</original>
   </item_name>
   <item_name id="42">
     <original xml:space="preserve">戦神のお守り</original>
@@ -36,6 +45,12 @@
   </item_name>
   <item_name id="46">
     <original xml:space="preserve">ドリード宝物庫の鍵</original>
+  </item_name>
+  <item_name id="47">
+    <original xml:space="preserve">蝶印の小鍵</original>
+  </item_name>
+  <item_name id="48">
+    <original xml:space="preserve">オーク将の錆び鍵</original>
   </item_name>
   <item_name id="49">
     <original xml:space="preserve">ドリード城主の鍵</original>
@@ -260,6 +275,27 @@
   <item_name id="111">
     <original xml:space="preserve">メイジワンズ</original>
   </item_name>
+  <item_name id="112">
+    <original xml:space="preserve">マジックボウ</original>
+  </item_name>
+  <item_name id="113">
+    <original xml:space="preserve">グノエツィール</original>
+  </item_name>
+  <item_name id="114">
+    <original xml:space="preserve">ケンブレッヒャー</original>
+  </item_name>
+  <item_name id="115">
+    <original xml:space="preserve">ブロンツァボーゲン</original>
+  </item_name>
+  <item_name id="116">
+    <original xml:space="preserve">ドッペルシュプアー</original>
+  </item_name>
+  <item_name id="117">
+    <original xml:space="preserve">マギアキクロス</original>
+  </item_name>
+  <item_name id="118">
+    <original xml:space="preserve">クヴェーレンクラフト</original>
+  </item_name>
   <item_name id="134">
     <original xml:space="preserve">カットラス</original>
     <translation xml:space="preserve">Cutlass</translation>
@@ -290,6 +326,9 @@
   <item_name id="142">
     <original xml:space="preserve">ファルカタ</original>
   </item_name>
+  <item_name id="143">
+    <original xml:space="preserve">サウザントスティング</original>
+  </item_name>
   <item_name id="144">
     <original xml:space="preserve">センスオブワウンド</original>
     <translation xml:space="preserve">Wounded Fury</translation>
@@ -301,6 +340,15 @@
   <item_name id="146">
     <original xml:space="preserve">シルバーレイピア</original>
     <translation xml:space="preserve">Silver Rapier</translation>
+  </item_name>
+  <item_name id="147">
+    <original xml:space="preserve">トゥレイスリピーデス</original>
+  </item_name>
+  <item_name id="148">
+    <original xml:space="preserve">コンクラーズブレード</original>
+  </item_name>
+  <item_name id="149">
+    <original xml:space="preserve">スティングレイ</original>
   </item_name>
   <item_name id="150">
     <original xml:space="preserve">セイクリッドエッジ</original>
@@ -318,6 +366,9 @@
     <original xml:space="preserve">シルバーソーン</original>
     <translation xml:space="preserve">Silver Thorn</translation>
   </item_name>
+  <item_name id="166">
+    <original xml:space="preserve">ティーバイスカード</original>
+  </item_name>
   <item_name id="167">
     <original xml:space="preserve">キメラの紋章の盾</original>
     <translation xml:space="preserve">Mark of the Chimera</translation>
@@ -325,6 +376,9 @@
   <item_name id="168">
     <original xml:space="preserve">マークオブアリズン</original>
     <translation xml:space="preserve">Mark of the Arisen</translation>
+  </item_name>
+  <item_name id="169">
+    <original xml:space="preserve">シャインタルジュ</original>
   </item_name>
   <item_name id="176">
     <original xml:space="preserve">ブラッディハイド</original>
@@ -361,6 +415,9 @@
   <item_name id="184">
     <original xml:space="preserve">ラスターアカンサス</original>
   </item_name>
+  <item_name id="185">
+    <original xml:space="preserve">ハンターボウ</original>
+  </item_name>
   <item_name id="186">
     <original xml:space="preserve">ウイングリフィン</original>
     <translation xml:space="preserve">Griffinbane</translation>
@@ -375,6 +432,15 @@
   </item_name>
   <item_name id="189">
     <original xml:space="preserve">アイデアルアクト</original>
+  </item_name>
+  <item_name id="190">
+    <original xml:space="preserve">スクロールヒルトボウ</original>
+  </item_name>
+  <item_name id="191">
+    <original xml:space="preserve">クリシュナ</original>
+  </item_name>
+  <item_name id="192">
+    <original xml:space="preserve">エニグマ</original>
   </item_name>
   <item_name id="205">
     <original xml:space="preserve">ドーンスタッフ</original>
@@ -408,6 +474,9 @@
     <original xml:space="preserve">ポータルインジケーター</original>
     <translation xml:space="preserve">Portal Indicator</translation>
   </item_name>
+  <item_name id="214">
+    <original xml:space="preserve">ネイルフリード</original>
+  </item_name>
   <item_name id="215">
     <original xml:space="preserve">ゴブリンディスミサル</original>
     <translation xml:space="preserve">Goblin Bane</translation>
@@ -422,6 +491,15 @@
   <item_name id="218">
     <original xml:space="preserve">サイレントグレイス</original>
     <translation xml:space="preserve">Unspoken Grace</translation>
+  </item_name>
+  <item_name id="219">
+    <original xml:space="preserve">カームリィクリング</original>
+  </item_name>
+  <item_name id="220">
+    <original xml:space="preserve">ファントムディセント</original>
+  </item_name>
+  <item_name id="221">
+    <original xml:space="preserve">魔破の杖</original>
   </item_name>
   <item_name id="234">
     <original xml:space="preserve">トウィンクルヴィーナス</original>
@@ -478,6 +556,9 @@
   <item_name id="256">
     <original xml:space="preserve">マークオブアドバンス</original>
   </item_name>
+  <item_name id="257">
+    <original xml:space="preserve">エンジェルスキン</original>
+  </item_name>
   <item_name id="258">
     <original xml:space="preserve">ゾンビグレイブ</original>
     <translation xml:space="preserve">Zombiebane</translation>
@@ -489,8 +570,17 @@
     <original xml:space="preserve">タイラントスケイル</original>
     <translation xml:space="preserve">Tyrant Scale</translation>
   </item_name>
+  <item_name id="261">
+    <original xml:space="preserve">エヴァーブレイブ</original>
+  </item_name>
   <item_name id="262">
     <original xml:space="preserve">セイヴァーフォート</original>
+  </item_name>
+  <item_name id="263">
+    <original xml:space="preserve">フェイタルダイアグラム</original>
+  </item_name>
+  <item_name id="264">
+    <original xml:space="preserve">ビザンティンガード</original>
   </item_name>
   <item_name id="277">
     <original xml:space="preserve">バルディッシュダガー</original>
@@ -538,9 +628,15 @@
     <original xml:space="preserve">ブリッツダガー</original>
     <translation xml:space="preserve">Blitz Daggers</translation>
   </item_name>
+  <item_name id="290">
+    <original xml:space="preserve">トータルエングレイバー</original>
+  </item_name>
   <item_name id="291">
     <original xml:space="preserve">クライシスアヴォイド</original>
     <translation xml:space="preserve">Crisis Avoid</translation>
+  </item_name>
+  <item_name id="293">
+    <original xml:space="preserve">ライオンハーテッド</original>
   </item_name>
   <item_name id="306">
     <original xml:space="preserve">クレセントワンズ</original>
@@ -578,6 +674,9 @@
     <original xml:space="preserve">ツイストサーペント</original>
     <translation xml:space="preserve">Twisted Serpent</translation>
   </item_name>
+  <item_name id="315">
+    <original xml:space="preserve">グラブドハート</original>
+  </item_name>
   <item_name id="316">
     <original xml:space="preserve">イビルアイスペシメンス</original>
   </item_name>
@@ -589,8 +688,68 @@
     <original xml:space="preserve">パイアスルーツ</original>
     <translation xml:space="preserve">Pious Roots</translation>
   </item_name>
+  <item_name id="319">
+    <original xml:space="preserve">リリースオブフォーチュン</original>
+  </item_name>
   <item_name id="320">
     <original xml:space="preserve">イデアライズ</original>
+  </item_name>
+  <item_name id="321">
+    <original xml:space="preserve">フライトラズリーン</original>
+  </item_name>
+  <item_name id="322">
+    <original xml:space="preserve">エキストラクター</original>
+  </item_name>
+  <item_name id="335">
+    <original xml:space="preserve">シュルトウントズューネ</original>
+  </item_name>
+  <item_name id="336">
+    <original xml:space="preserve">ムーンナハトシュテル</original>
+  </item_name>
+  <item_name id="337">
+    <original xml:space="preserve">モルゲングリューエン</original>
+  </item_name>
+  <item_name id="338">
+    <original xml:space="preserve">グルックスラッド</original>
+  </item_name>
+  <item_name id="339">
+    <original xml:space="preserve">アスプロネライダ</original>
+  </item_name>
+  <item_name id="340">
+    <original xml:space="preserve">ヴォルテクスフロウ</original>
+  </item_name>
+  <item_name id="341">
+    <original xml:space="preserve">ガンボルツァイト</original>
+  </item_name>
+  <item_name id="342">
+    <original xml:space="preserve">ツァウバークラフト</original>
+  </item_name>
+  <item_name id="343">
+    <original xml:space="preserve">ヴァイスメルクマール</original>
+  </item_name>
+  <item_name id="344">
+    <original xml:space="preserve">デンメルングリヒト</original>
+  </item_name>
+  <item_name id="345">
+    <original xml:space="preserve">ミーテムサイカーシス</original>
+  </item_name>
+  <item_name id="346">
+    <original xml:space="preserve">ケーリュケイオン</original>
+  </item_name>
+  <item_name id="347">
+    <original xml:space="preserve">ジークシュトラーセ</original>
+  </item_name>
+  <item_name id="348">
+    <original xml:space="preserve">クーニストラウム</original>
+  </item_name>
+  <item_name id="349">
+    <original xml:space="preserve">レリジャスビヨンド</original>
+  </item_name>
+  <item_name id="350">
+    <original xml:space="preserve">ゴルトイーファイ</original>
+  </item_name>
+  <item_name id="351">
+    <original xml:space="preserve">アンフィニッシュド</original>
   </item_name>
   <item_name id="422">
     <original xml:space="preserve">ホーンドヘルム</original>
@@ -999,6 +1158,18 @@
     <original xml:space="preserve">ヴァイキングヘルム</original>
     <translation xml:space="preserve">Viking Helm</translation>
   </item_name>
+  <item_name id="531">
+    <original xml:space="preserve">ギガントヘッド</original>
+  </item_name>
+  <item_name id="532">
+    <original xml:space="preserve">ダスクヘルム</original>
+  </item_name>
+  <item_name id="533">
+    <original xml:space="preserve">グリプスヘルム</original>
+  </item_name>
+  <item_name id="540">
+    <original xml:space="preserve">フェンリルヘッド</original>
+  </item_name>
   <item_name id="546">
     <original xml:space="preserve">ソレムアーマー</original>
   </item_name>
@@ -1040,6 +1211,18 @@
     <original xml:space="preserve">クルーエルアーマー</original>
     <translation xml:space="preserve">Cruel Armor</translation>
   </item_name>
+  <item_name id="557">
+    <original xml:space="preserve">獄卒のアームドベルト</original>
+  </item_name>
+  <item_name id="558">
+    <original xml:space="preserve">グリプスアーマー</original>
+  </item_name>
+  <item_name id="559">
+    <original xml:space="preserve">ドーンプレート</original>
+  </item_name>
+  <item_name id="566">
+    <original xml:space="preserve">フェンリルアーマー</original>
+  </item_name>
   <item_name id="572">
     <original xml:space="preserve">ソレムレッグ</original>
   </item_name>
@@ -1072,6 +1255,18 @@
   </item_name>
   <item_name id="582">
     <original xml:space="preserve">クルーエルグリーブ</original>
+  </item_name>
+  <item_name id="583">
+    <original xml:space="preserve">獄卒のグリーブ</original>
+  </item_name>
+  <item_name id="584">
+    <original xml:space="preserve">グリプスグリーブ</original>
+  </item_name>
+  <item_name id="585">
+    <original xml:space="preserve">サンセットキュイス</original>
+  </item_name>
+  <item_name id="592">
+    <original xml:space="preserve">フェンリルグリーブ</original>
   </item_name>
   <item_name id="598">
     <original xml:space="preserve">ソレムアーム</original>
@@ -1113,6 +1308,18 @@
   <item_name id="608">
     <original xml:space="preserve">クルーエルアーム</original>
     <translation xml:space="preserve">Cruel Arm</translation>
+  </item_name>
+  <item_name id="609">
+    <original xml:space="preserve">ブルートガントレット</original>
+  </item_name>
+  <item_name id="610">
+    <original xml:space="preserve">グリプスガントレット</original>
+  </item_name>
+  <item_name id="611">
+    <original xml:space="preserve">黄昏の篭手</original>
+  </item_name>
+  <item_name id="618">
+    <original xml:space="preserve">フェンリルガントレット</original>
   </item_name>
   <item_name id="624">
     <original xml:space="preserve">ヘッドギア</original>
@@ -1157,6 +1364,18 @@
     <original xml:space="preserve">パイレーツキャップ</original>
     <translation xml:space="preserve">Pilot's Cap</translation>
   </item_name>
+  <item_name id="635">
+    <original xml:space="preserve">シューターズフード</original>
+  </item_name>
+  <item_name id="636">
+    <original xml:space="preserve">キャプチャーフード</original>
+  </item_name>
+  <item_name id="637">
+    <original xml:space="preserve">武官のキャップ</original>
+  </item_name>
+  <item_name id="644">
+    <original xml:space="preserve">バッカニアキャップ</original>
+  </item_name>
   <item_name id="650">
     <original xml:space="preserve">レンジャージャケット</original>
     <translation xml:space="preserve">Ranger's Jacket</translation>
@@ -1198,6 +1417,18 @@
   <item_name id="660">
     <original xml:space="preserve">パイレーツジャケット</original>
     <translation xml:space="preserve">Pilot's Jacket</translation>
+  </item_name>
+  <item_name id="661">
+    <original xml:space="preserve">スケイルジャケット</original>
+  </item_name>
+  <item_name id="662">
+    <original xml:space="preserve">レイダースジャケット</original>
+  </item_name>
+  <item_name id="663">
+    <original xml:space="preserve">ハードスキンアーマー</original>
+  </item_name>
+  <item_name id="670">
+    <original xml:space="preserve">バッカニアジャケット</original>
   </item_name>
   <item_name id="676">
     <original xml:space="preserve">ホワイトサイハイ</original>
@@ -1245,6 +1476,18 @@
   <item_name id="689">
     <original xml:space="preserve">パイレーツレッグス</original>
   </item_name>
+  <item_name id="690">
+    <original xml:space="preserve">辺土の腰巻</original>
+  </item_name>
+  <item_name id="691">
+    <original xml:space="preserve">レイダースグリーブ</original>
+  </item_name>
+  <item_name id="692">
+    <original xml:space="preserve">頭目のレッグガード</original>
+  </item_name>
+  <item_name id="699">
+    <original xml:space="preserve">バッカニアレッグス</original>
+  </item_name>
   <item_name id="705">
     <original xml:space="preserve">コンポジットスリーブ</original>
     <translation xml:space="preserve">Assembled Sleeves</translation>
@@ -1282,6 +1525,18 @@
   <item_name id="714">
     <original xml:space="preserve">パイレーツアーム</original>
     <translation xml:space="preserve">Pilot's Arm</translation>
+  </item_name>
+  <item_name id="715">
+    <original xml:space="preserve">エージェントスリーブ</original>
+  </item_name>
+  <item_name id="716">
+    <original xml:space="preserve">アサルトスパイン</original>
+  </item_name>
+  <item_name id="717">
+    <original xml:space="preserve">頭目の手袋</original>
+  </item_name>
+  <item_name id="724">
+    <original xml:space="preserve">バッカニアアーム</original>
   </item_name>
   <item_name id="730">
     <original xml:space="preserve">セイクリッドフード</original>
@@ -1322,6 +1577,18 @@
   <item_name id="740">
     <original xml:space="preserve">叡智のサークレット</original>
     <translation xml:space="preserve">Wisdom Circlet</translation>
+  </item_name>
+  <item_name id="741">
+    <original xml:space="preserve">新月の円環</original>
+  </item_name>
+  <item_name id="742">
+    <original xml:space="preserve">カテドラルキャップ</original>
+  </item_name>
+  <item_name id="743">
+    <original xml:space="preserve">アデプトハット</original>
+  </item_name>
+  <item_name id="750">
+    <original xml:space="preserve">アストニッシュギア</original>
   </item_name>
   <item_name id="757">
     <original xml:space="preserve">セイクリッドローブ</original>
@@ -1365,6 +1632,18 @@
     <original xml:space="preserve">プレシャスローブ</original>
     <translation xml:space="preserve">Precious Robe</translation>
   </item_name>
+  <item_name id="768">
+    <original xml:space="preserve">タイドローブ</original>
+  </item_name>
+  <item_name id="769">
+    <original xml:space="preserve">ディバインローブ</original>
+  </item_name>
+  <item_name id="770">
+    <original xml:space="preserve">アデプトローブ</original>
+  </item_name>
+  <item_name id="777">
+    <original xml:space="preserve">アストニッシュローブ</original>
+  </item_name>
   <item_name id="784">
     <original xml:space="preserve">セイクリッドグリーブ</original>
   </item_name>
@@ -1397,6 +1676,18 @@
   </item_name>
   <item_name id="794">
     <original xml:space="preserve">プレシャスブーツ</original>
+  </item_name>
+  <item_name id="795">
+    <original xml:space="preserve">楽土の腰布</original>
+  </item_name>
+  <item_name id="796">
+    <original xml:space="preserve">ドミネーションブーツ</original>
+  </item_name>
+  <item_name id="797">
+    <original xml:space="preserve">妖鬼のグリーブ</original>
+  </item_name>
+  <item_name id="804">
+    <original xml:space="preserve">アストニッシュブーツ</original>
   </item_name>
   <item_name id="811">
     <original xml:space="preserve">セイクリッドバングル</original>
@@ -1437,6 +1728,18 @@
   <item_name id="821">
     <original xml:space="preserve">プレシャスバングル</original>
     <translation xml:space="preserve">Precious Bangle</translation>
+  </item_name>
+  <item_name id="822">
+    <original xml:space="preserve">ビクトリーバングル</original>
+  </item_name>
+  <item_name id="823">
+    <original xml:space="preserve">クランチバングル</original>
+  </item_name>
+  <item_name id="824">
+    <original xml:space="preserve">アデプトバングル</original>
+  </item_name>
+  <item_name id="831">
+    <original xml:space="preserve">アストニッシュアーム</original>
   </item_name>
   <item_name id="838">
     <original xml:space="preserve">シールダーヘルム</original>
@@ -1480,6 +1783,18 @@
     <original xml:space="preserve">プリンシパルヘルム</original>
     <translation xml:space="preserve">Principal Helm</translation>
   </item_name>
+  <item_name id="849">
+    <original xml:space="preserve">ジェネラルヘルム</original>
+  </item_name>
+  <item_name id="850">
+    <original xml:space="preserve">トライアンフヘルム</original>
+  </item_name>
+  <item_name id="851">
+    <original xml:space="preserve">グレーターアイズ</original>
+  </item_name>
+  <item_name id="858">
+    <original xml:space="preserve">デュミナスヘルム</original>
+  </item_name>
   <item_name id="864">
     <original xml:space="preserve">シールダーコート</original>
     <translation xml:space="preserve">Shielder's Coat</translation>
@@ -1522,6 +1837,18 @@
     <original xml:space="preserve">タクティシャンコート</original>
     <translation xml:space="preserve">Tactician's Coat</translation>
   </item_name>
+  <item_name id="875">
+    <original xml:space="preserve">トルーパーズコート</original>
+  </item_name>
+  <item_name id="876">
+    <original xml:space="preserve">トライアンフジャケット</original>
+  </item_name>
+  <item_name id="877">
+    <original xml:space="preserve">エンフォーサーズコート</original>
+  </item_name>
+  <item_name id="884">
+    <original xml:space="preserve">デュミナスクロス</original>
+  </item_name>
   <item_name id="890">
     <original xml:space="preserve">シールダーレッグス</original>
   </item_name>
@@ -1554,6 +1881,18 @@
   </item_name>
   <item_name id="901">
     <original xml:space="preserve">プリンシパルレッグス</original>
+  </item_name>
+  <item_name id="902">
+    <original xml:space="preserve">トルーパーズレッグス</original>
+  </item_name>
+  <item_name id="903">
+    <original xml:space="preserve">トライアンフグリーブ</original>
+  </item_name>
+  <item_name id="904">
+    <original xml:space="preserve">バウンティブーツ</original>
+  </item_name>
+  <item_name id="910">
+    <original xml:space="preserve">デュミナスレッグス</original>
   </item_name>
   <item_name id="916">
     <original xml:space="preserve">シールダーアーム</original>
@@ -1589,6 +1928,18 @@
   </item_name>
   <item_name id="926">
     <original xml:space="preserve">プリンシパルアーム</original>
+  </item_name>
+  <item_name id="927">
+    <original xml:space="preserve">トルーパーズグラブ</original>
+  </item_name>
+  <item_name id="928">
+    <original xml:space="preserve">トライアンフアーム</original>
+  </item_name>
+  <item_name id="929">
+    <original xml:space="preserve">グルエルナックル</original>
+  </item_name>
+  <item_name id="936">
+    <original xml:space="preserve">デュミナスアーム</original>
   </item_name>
   <item_name id="941">
     <original xml:space="preserve">ブラウンタイド</original>
@@ -1738,6 +2089,12 @@
     <original xml:space="preserve">貴婦人のコルセット</original>
     <translation xml:space="preserve">Noblewoman's Corset</translation>
   </item_name>
+  <item_name id="987">
+    <original xml:space="preserve">シルクブリオー</original>
+  </item_name>
+  <item_name id="988">
+    <original xml:space="preserve">エンダウドベスト</original>
+  </item_name>
   <item_name id="995">
     <original xml:space="preserve">シルキーバルジング</original>
   </item_name>
@@ -1769,6 +2126,9 @@
   </item_name>
   <item_name id="1004">
     <original xml:space="preserve">ネイチャーパンツ</original>
+  </item_name>
+  <item_name id="1005">
+    <original xml:space="preserve">ヴィラルパンツ</original>
   </item_name>
   <item_name id="1009">
     <original xml:space="preserve">ファーマシーマント</original>
@@ -1809,6 +2169,12 @@
   <item_name id="1020">
     <original xml:space="preserve">騎士団員のクローク</original>
   </item_name>
+  <item_name id="1021">
+    <original xml:space="preserve">オーダーケープ</original>
+  </item_name>
+  <item_name id="1022">
+    <original xml:space="preserve">調停者のマント</original>
+  </item_name>
   <item_name id="1025">
     <original xml:space="preserve">ベネフィットウェアR</original>
     <translation xml:space="preserve">Benefit Wear R</translation>
@@ -1820,11 +2186,23 @@
   <item_name id="1030">
     <original xml:space="preserve">ドリード礼拝堂の鍵</original>
   </item_name>
+  <item_name id="1031">
+    <original xml:space="preserve">水流制御室の鍵</original>
+  </item_name>
+  <item_name id="1032">
+    <original xml:space="preserve">ディナンの古鍵</original>
+  </item_name>
+  <item_name id="1038">
+    <original xml:space="preserve">ガルドノックの大門鍵</original>
+  </item_name>
   <item_name id="1044">
     <original xml:space="preserve">完全封鎖扉用鍵</original>
   </item_name>
   <item_name id="1049">
     <original xml:space="preserve">命の器</original>
+  </item_name>
+  <item_name id="1050">
+    <original xml:space="preserve">キースヒルトの命杯</original>
   </item_name>
   <item_name id="1074">
     <original xml:space="preserve">ケモノ生肉</original>
@@ -2027,6 +2405,27 @@
   <item_name id="1723">
     <original xml:space="preserve">メイジワンズ</original>
   </item_name>
+  <item_name id="1724">
+    <original xml:space="preserve">マジックボウ</original>
+  </item_name>
+  <item_name id="1725">
+    <original xml:space="preserve">グノエツィール</original>
+  </item_name>
+  <item_name id="1726">
+    <original xml:space="preserve">ケンブレッヒャー</original>
+  </item_name>
+  <item_name id="1727">
+    <original xml:space="preserve">ブロンツァボーゲン</original>
+  </item_name>
+  <item_name id="1728">
+    <original xml:space="preserve">ドッペルシュプアー</original>
+  </item_name>
+  <item_name id="1729">
+    <original xml:space="preserve">マギアキクロス</original>
+  </item_name>
+  <item_name id="1730">
+    <original xml:space="preserve">クヴェーレンクラフト</original>
+  </item_name>
   <item_name id="1746">
     <original xml:space="preserve">カットラス</original>
     <translation xml:space="preserve">Cutlass</translation>
@@ -2057,6 +2456,9 @@
   <item_name id="1754">
     <original xml:space="preserve">ファルカタ</original>
   </item_name>
+  <item_name id="1755">
+    <original xml:space="preserve">サウザントスティング</original>
+  </item_name>
   <item_name id="1756">
     <original xml:space="preserve">センスオブワウンド</original>
     <translation xml:space="preserve">Wounded Fury</translation>
@@ -2068,6 +2470,15 @@
   <item_name id="1758">
     <original xml:space="preserve">シルバーレイピア</original>
     <translation xml:space="preserve">Silver Rapier</translation>
+  </item_name>
+  <item_name id="1759">
+    <original xml:space="preserve">トゥレイスリピーデス</original>
+  </item_name>
+  <item_name id="1760">
+    <original xml:space="preserve">コンクラーズブレード</original>
+  </item_name>
+  <item_name id="1761">
+    <original xml:space="preserve">スティングレイ</original>
   </item_name>
   <item_name id="1762">
     <original xml:space="preserve">セイクリッドエッジ</original>
@@ -2085,6 +2496,9 @@
     <original xml:space="preserve">シルバーソーン</original>
     <translation xml:space="preserve">Silver Thorn</translation>
   </item_name>
+  <item_name id="1778">
+    <original xml:space="preserve">ティーバイスカード</original>
+  </item_name>
   <item_name id="1779">
     <original xml:space="preserve">キメラの紋章の盾</original>
     <translation xml:space="preserve">Mark of the Chimera</translation>
@@ -2092,6 +2506,9 @@
   <item_name id="1780">
     <original xml:space="preserve">マークオブアリズン</original>
     <translation xml:space="preserve">Mark of the Arisen</translation>
+  </item_name>
+  <item_name id="1781">
+    <original xml:space="preserve">シャインタルジュ</original>
   </item_name>
   <item_name id="1788">
     <original xml:space="preserve">ブラッディハイド</original>
@@ -2128,6 +2545,9 @@
   <item_name id="1796">
     <original xml:space="preserve">ラスターアカンサス</original>
   </item_name>
+  <item_name id="1797">
+    <original xml:space="preserve">ハンターボウ</original>
+  </item_name>
   <item_name id="1798">
     <original xml:space="preserve">ウイングリフィン</original>
     <translation xml:space="preserve">Griffinbane</translation>
@@ -2142,6 +2562,15 @@
   </item_name>
   <item_name id="1801">
     <original xml:space="preserve">アイデアルアクト</original>
+  </item_name>
+  <item_name id="1802">
+    <original xml:space="preserve">スクロールヒルトボウ</original>
+  </item_name>
+  <item_name id="1803">
+    <original xml:space="preserve">クリシュナ</original>
+  </item_name>
+  <item_name id="1804">
+    <original xml:space="preserve">エニグマ</original>
   </item_name>
   <item_name id="1817">
     <original xml:space="preserve">ドーンスタッフ</original>
@@ -2175,6 +2604,9 @@
     <original xml:space="preserve">ポータルインジケーター</original>
     <translation xml:space="preserve">Portal Indicator</translation>
   </item_name>
+  <item_name id="1826">
+    <original xml:space="preserve">ネイルフリード</original>
+  </item_name>
   <item_name id="1827">
     <original xml:space="preserve">ゴブリンディスミサル</original>
     <translation xml:space="preserve">Goblin Bane</translation>
@@ -2189,6 +2621,15 @@
   <item_name id="1830">
     <original xml:space="preserve">サイレントグレイス</original>
     <translation xml:space="preserve">Unspoken Grace</translation>
+  </item_name>
+  <item_name id="1831">
+    <original xml:space="preserve">カームリィクリング</original>
+  </item_name>
+  <item_name id="1832">
+    <original xml:space="preserve">ファントムディセント</original>
+  </item_name>
+  <item_name id="1833">
+    <original xml:space="preserve">魔破の杖</original>
   </item_name>
   <item_name id="1846">
     <original xml:space="preserve">トウィンクルヴィーナス</original>
@@ -2245,6 +2686,9 @@
   <item_name id="1868">
     <original xml:space="preserve">マークオブアドバンス</original>
   </item_name>
+  <item_name id="1869">
+    <original xml:space="preserve">エンジェルスキン</original>
+  </item_name>
   <item_name id="1870">
     <original xml:space="preserve">ゾンビグレイブ</original>
     <translation xml:space="preserve">Zombiebane</translation>
@@ -2256,8 +2700,17 @@
     <original xml:space="preserve">タイラントスケイル</original>
     <translation xml:space="preserve">Tyrant Scale</translation>
   </item_name>
+  <item_name id="1873">
+    <original xml:space="preserve">エヴァーブレイブ</original>
+  </item_name>
   <item_name id="1874">
     <original xml:space="preserve">セイヴァーフォート</original>
+  </item_name>
+  <item_name id="1875">
+    <original xml:space="preserve">フェイタルダイアグラム</original>
+  </item_name>
+  <item_name id="1876">
+    <original xml:space="preserve">ビザンティンガード</original>
   </item_name>
   <item_name id="1889">
     <original xml:space="preserve">バルディッシュダガー</original>
@@ -2305,9 +2758,15 @@
     <original xml:space="preserve">ブリッツダガー</original>
     <translation xml:space="preserve">Blitz Daggers</translation>
   </item_name>
+  <item_name id="1902">
+    <original xml:space="preserve">トータルエングレイバー</original>
+  </item_name>
   <item_name id="1903">
     <original xml:space="preserve">クライシスアヴォイド</original>
     <translation xml:space="preserve">Crisis Avoid</translation>
+  </item_name>
+  <item_name id="1905">
+    <original xml:space="preserve">ライオンハーテッド</original>
   </item_name>
   <item_name id="1918">
     <original xml:space="preserve">クレセントワンズ</original>
@@ -2345,6 +2804,9 @@
     <original xml:space="preserve">ツイストサーペント</original>
     <translation xml:space="preserve">Twisted Serpent</translation>
   </item_name>
+  <item_name id="1927">
+    <original xml:space="preserve">グラブドハート</original>
+  </item_name>
   <item_name id="1928">
     <original xml:space="preserve">イビルアイスペシメンス</original>
   </item_name>
@@ -2356,8 +2818,68 @@
     <original xml:space="preserve">パイアスルーツ</original>
     <translation xml:space="preserve">Pious Roots</translation>
   </item_name>
+  <item_name id="1931">
+    <original xml:space="preserve">リリースオブフォーチュン</original>
+  </item_name>
   <item_name id="1932">
     <original xml:space="preserve">イデアライズ</original>
+  </item_name>
+  <item_name id="1933">
+    <original xml:space="preserve">フライトラズリーン</original>
+  </item_name>
+  <item_name id="1934">
+    <original xml:space="preserve">エキストラクター</original>
+  </item_name>
+  <item_name id="1947">
+    <original xml:space="preserve">シュルトウントズューネ</original>
+  </item_name>
+  <item_name id="1948">
+    <original xml:space="preserve">ムーンナハトシュテル</original>
+  </item_name>
+  <item_name id="1949">
+    <original xml:space="preserve">モルゲングリューエン</original>
+  </item_name>
+  <item_name id="1950">
+    <original xml:space="preserve">グルックスラッド</original>
+  </item_name>
+  <item_name id="1951">
+    <original xml:space="preserve">アスプロネライダ</original>
+  </item_name>
+  <item_name id="1952">
+    <original xml:space="preserve">ヴォルテクスフロウ</original>
+  </item_name>
+  <item_name id="1953">
+    <original xml:space="preserve">ガンボルツァイト</original>
+  </item_name>
+  <item_name id="1954">
+    <original xml:space="preserve">ツァウバークラフト</original>
+  </item_name>
+  <item_name id="1955">
+    <original xml:space="preserve">ヴァイスメルクマール</original>
+  </item_name>
+  <item_name id="1956">
+    <original xml:space="preserve">デンメルングリヒト</original>
+  </item_name>
+  <item_name id="1957">
+    <original xml:space="preserve">ミーテムサイカーシス</original>
+  </item_name>
+  <item_name id="1958">
+    <original xml:space="preserve">ケーリュケイオン</original>
+  </item_name>
+  <item_name id="1959">
+    <original xml:space="preserve">ジークシュトラーセ</original>
+  </item_name>
+  <item_name id="1960">
+    <original xml:space="preserve">クーニストラウム</original>
+  </item_name>
+  <item_name id="1961">
+    <original xml:space="preserve">レリジャスビヨンド</original>
+  </item_name>
+  <item_name id="1962">
+    <original xml:space="preserve">ゴルトイーファイ</original>
+  </item_name>
+  <item_name id="1963">
+    <original xml:space="preserve">アンフィニッシュド</original>
   </item_name>
   <item_name id="2034">
     <original xml:space="preserve">ホーンドヘルム</original>
@@ -2766,6 +3288,18 @@
     <original xml:space="preserve">ヴァイキングヘルム</original>
     <translation xml:space="preserve">Viking Helm</translation>
   </item_name>
+  <item_name id="2143">
+    <original xml:space="preserve">ギガントヘッド</original>
+  </item_name>
+  <item_name id="2144">
+    <original xml:space="preserve">ダスクヘルム</original>
+  </item_name>
+  <item_name id="2145">
+    <original xml:space="preserve">グリプスヘルム</original>
+  </item_name>
+  <item_name id="2152">
+    <original xml:space="preserve">フェンリルヘッド</original>
+  </item_name>
   <item_name id="2158">
     <original xml:space="preserve">ソレムアーマー</original>
   </item_name>
@@ -2807,6 +3341,18 @@
     <original xml:space="preserve">クルーエルアーマー</original>
     <translation xml:space="preserve">Cruel Armor</translation>
   </item_name>
+  <item_name id="2169">
+    <original xml:space="preserve">獄卒のアームドベルト</original>
+  </item_name>
+  <item_name id="2170">
+    <original xml:space="preserve">グリプスアーマー</original>
+  </item_name>
+  <item_name id="2171">
+    <original xml:space="preserve">ドーンプレート</original>
+  </item_name>
+  <item_name id="2178">
+    <original xml:space="preserve">フェンリルアーマー</original>
+  </item_name>
   <item_name id="2184">
     <original xml:space="preserve">ソレムレッグ</original>
   </item_name>
@@ -2839,6 +3385,18 @@
   </item_name>
   <item_name id="2194">
     <original xml:space="preserve">クルーエルグリーブ</original>
+  </item_name>
+  <item_name id="2195">
+    <original xml:space="preserve">獄卒のグリーブ</original>
+  </item_name>
+  <item_name id="2196">
+    <original xml:space="preserve">グリプスグリーブ</original>
+  </item_name>
+  <item_name id="2197">
+    <original xml:space="preserve">サンセットキュイス</original>
+  </item_name>
+  <item_name id="2204">
+    <original xml:space="preserve">フェンリルグリーブ</original>
   </item_name>
   <item_name id="2210">
     <original xml:space="preserve">ソレムアーム</original>
@@ -2880,6 +3438,18 @@
   <item_name id="2220">
     <original xml:space="preserve">クルーエルアーム</original>
     <translation xml:space="preserve">Cruel Arm</translation>
+  </item_name>
+  <item_name id="2221">
+    <original xml:space="preserve">ブルートガントレット</original>
+  </item_name>
+  <item_name id="2222">
+    <original xml:space="preserve">グリプスガントレット</original>
+  </item_name>
+  <item_name id="2223">
+    <original xml:space="preserve">黄昏の篭手</original>
+  </item_name>
+  <item_name id="2230">
+    <original xml:space="preserve">フェンリルガントレット</original>
   </item_name>
   <item_name id="2236">
     <original xml:space="preserve">ヘッドギア</original>
@@ -2924,6 +3494,18 @@
     <original xml:space="preserve">パイレーツキャップ</original>
     <translation xml:space="preserve">Pilot's Cap</translation>
   </item_name>
+  <item_name id="2247">
+    <original xml:space="preserve">シューターズフード</original>
+  </item_name>
+  <item_name id="2248">
+    <original xml:space="preserve">キャプチャーフード</original>
+  </item_name>
+  <item_name id="2249">
+    <original xml:space="preserve">武官のキャップ</original>
+  </item_name>
+  <item_name id="2256">
+    <original xml:space="preserve">バッカニアキャップ</original>
+  </item_name>
   <item_name id="2262">
     <original xml:space="preserve">レンジャージャケット</original>
     <translation xml:space="preserve">Ranger's Jacket</translation>
@@ -2965,6 +3547,18 @@
   <item_name id="2272">
     <original xml:space="preserve">パイレーツジャケット</original>
     <translation xml:space="preserve">Pilot's Jacket</translation>
+  </item_name>
+  <item_name id="2273">
+    <original xml:space="preserve">スケイルジャケット</original>
+  </item_name>
+  <item_name id="2274">
+    <original xml:space="preserve">レイダースジャケット</original>
+  </item_name>
+  <item_name id="2275">
+    <original xml:space="preserve">ハードスキンアーマー</original>
+  </item_name>
+  <item_name id="2282">
+    <original xml:space="preserve">バッカニアジャケット</original>
   </item_name>
   <item_name id="2288">
     <original xml:space="preserve">ホワイトサイハイ</original>
@@ -3012,6 +3606,18 @@
   <item_name id="2301">
     <original xml:space="preserve">パイレーツレッグス</original>
   </item_name>
+  <item_name id="2302">
+    <original xml:space="preserve">辺土の腰巻</original>
+  </item_name>
+  <item_name id="2303">
+    <original xml:space="preserve">レイダースグリーブ</original>
+  </item_name>
+  <item_name id="2304">
+    <original xml:space="preserve">頭目のレッグガード</original>
+  </item_name>
+  <item_name id="2311">
+    <original xml:space="preserve">バッカニアレッグス</original>
+  </item_name>
   <item_name id="2317">
     <original xml:space="preserve">コンポジットスリーブ</original>
     <translation xml:space="preserve">Assembled Sleeves</translation>
@@ -3049,6 +3655,18 @@
   <item_name id="2326">
     <original xml:space="preserve">パイレーツアーム</original>
     <translation xml:space="preserve">Pilot's Arm</translation>
+  </item_name>
+  <item_name id="2327">
+    <original xml:space="preserve">エージェントスリーブ</original>
+  </item_name>
+  <item_name id="2328">
+    <original xml:space="preserve">アサルトスパイン</original>
+  </item_name>
+  <item_name id="2329">
+    <original xml:space="preserve">頭目の手袋</original>
+  </item_name>
+  <item_name id="2336">
+    <original xml:space="preserve">バッカニアアーム</original>
   </item_name>
   <item_name id="2342">
     <original xml:space="preserve">セイクリッドフード</original>
@@ -3089,6 +3707,18 @@
   <item_name id="2352">
     <original xml:space="preserve">叡智のサークレット</original>
     <translation xml:space="preserve">Wisdom Circlet</translation>
+  </item_name>
+  <item_name id="2353">
+    <original xml:space="preserve">新月の円環</original>
+  </item_name>
+  <item_name id="2354">
+    <original xml:space="preserve">カテドラルキャップ</original>
+  </item_name>
+  <item_name id="2355">
+    <original xml:space="preserve">アデプトハット</original>
+  </item_name>
+  <item_name id="2362">
+    <original xml:space="preserve">アストニッシュギア</original>
   </item_name>
   <item_name id="2369">
     <original xml:space="preserve">セイクリッドローブ</original>
@@ -3132,6 +3762,18 @@
     <original xml:space="preserve">プレシャスローブ</original>
     <translation xml:space="preserve">Precious Robe</translation>
   </item_name>
+  <item_name id="2380">
+    <original xml:space="preserve">タイドローブ</original>
+  </item_name>
+  <item_name id="2381">
+    <original xml:space="preserve">ディバインローブ</original>
+  </item_name>
+  <item_name id="2382">
+    <original xml:space="preserve">アデプトローブ</original>
+  </item_name>
+  <item_name id="2389">
+    <original xml:space="preserve">アストニッシュローブ</original>
+  </item_name>
   <item_name id="2396">
     <original xml:space="preserve">セイクリッドグリーブ</original>
   </item_name>
@@ -3164,6 +3806,18 @@
   </item_name>
   <item_name id="2406">
     <original xml:space="preserve">プレシャスブーツ</original>
+  </item_name>
+  <item_name id="2407">
+    <original xml:space="preserve">楽土の腰布</original>
+  </item_name>
+  <item_name id="2408">
+    <original xml:space="preserve">ドミネーションブーツ</original>
+  </item_name>
+  <item_name id="2409">
+    <original xml:space="preserve">妖鬼のグリーブ</original>
+  </item_name>
+  <item_name id="2416">
+    <original xml:space="preserve">アストニッシュブーツ</original>
   </item_name>
   <item_name id="2423">
     <original xml:space="preserve">セイクリッドバングル</original>
@@ -3204,6 +3858,18 @@
   <item_name id="2433">
     <original xml:space="preserve">プレシャスバングル</original>
     <translation xml:space="preserve">Precious Bangle</translation>
+  </item_name>
+  <item_name id="2434">
+    <original xml:space="preserve">ビクトリーバングル</original>
+  </item_name>
+  <item_name id="2435">
+    <original xml:space="preserve">クランチバングル</original>
+  </item_name>
+  <item_name id="2436">
+    <original xml:space="preserve">アデプトバングル</original>
+  </item_name>
+  <item_name id="2443">
+    <original xml:space="preserve">アストニッシュアーム</original>
   </item_name>
   <item_name id="2450">
     <original xml:space="preserve">シールダーヘルム</original>
@@ -3247,6 +3913,18 @@
     <original xml:space="preserve">プリンシパルヘルム</original>
     <translation xml:space="preserve">Principal Helm</translation>
   </item_name>
+  <item_name id="2461">
+    <original xml:space="preserve">ジェネラルヘルム</original>
+  </item_name>
+  <item_name id="2462">
+    <original xml:space="preserve">トライアンフヘルム</original>
+  </item_name>
+  <item_name id="2463">
+    <original xml:space="preserve">グレーターアイズ</original>
+  </item_name>
+  <item_name id="2470">
+    <original xml:space="preserve">デュミナスヘルム</original>
+  </item_name>
   <item_name id="2476">
     <original xml:space="preserve">シールダーコート</original>
     <translation xml:space="preserve">Shielder's Coat</translation>
@@ -3289,6 +3967,18 @@
     <original xml:space="preserve">タクティシャンコート</original>
     <translation xml:space="preserve">Tactician's Coat</translation>
   </item_name>
+  <item_name id="2487">
+    <original xml:space="preserve">トルーパーズコート</original>
+  </item_name>
+  <item_name id="2488">
+    <original xml:space="preserve">トライアンフジャケット</original>
+  </item_name>
+  <item_name id="2489">
+    <original xml:space="preserve">エンフォーサーズコート</original>
+  </item_name>
+  <item_name id="2496">
+    <original xml:space="preserve">デュミナスクロス</original>
+  </item_name>
   <item_name id="2502">
     <original xml:space="preserve">シールダーレッグス</original>
   </item_name>
@@ -3321,6 +4011,18 @@
   </item_name>
   <item_name id="2513">
     <original xml:space="preserve">プリンシパルレッグス</original>
+  </item_name>
+  <item_name id="2514">
+    <original xml:space="preserve">トルーパーズレッグス</original>
+  </item_name>
+  <item_name id="2515">
+    <original xml:space="preserve">トライアンフグリーブ</original>
+  </item_name>
+  <item_name id="2516">
+    <original xml:space="preserve">バウンティブーツ</original>
+  </item_name>
+  <item_name id="2522">
+    <original xml:space="preserve">デュミナスレッグス</original>
   </item_name>
   <item_name id="2528">
     <original xml:space="preserve">シールダーアーム</original>
@@ -3356,6 +4058,18 @@
   </item_name>
   <item_name id="2538">
     <original xml:space="preserve">プリンシパルアーム</original>
+  </item_name>
+  <item_name id="2539">
+    <original xml:space="preserve">トルーパーズグラブ</original>
+  </item_name>
+  <item_name id="2540">
+    <original xml:space="preserve">トライアンフアーム</original>
+  </item_name>
+  <item_name id="2541">
+    <original xml:space="preserve">グルエルナックル</original>
+  </item_name>
+  <item_name id="2548">
+    <original xml:space="preserve">デュミナスアーム</original>
   </item_name>
   <item_name id="2553">
     <original xml:space="preserve">ブラウンタイド</original>
@@ -3505,6 +4219,12 @@
     <original xml:space="preserve">貴婦人のコルセット</original>
     <translation xml:space="preserve">Noblewoman's Corset</translation>
   </item_name>
+  <item_name id="2599">
+    <original xml:space="preserve">シルクブリオー</original>
+  </item_name>
+  <item_name id="2600">
+    <original xml:space="preserve">エンダウドベスト</original>
+  </item_name>
   <item_name id="2607">
     <original xml:space="preserve">シルキーバルジング</original>
   </item_name>
@@ -3536,6 +4256,9 @@
   </item_name>
   <item_name id="2616">
     <original xml:space="preserve">ネイチャーパンツ</original>
+  </item_name>
+  <item_name id="2617">
+    <original xml:space="preserve">ヴィラルパンツ</original>
   </item_name>
   <item_name id="2621">
     <original xml:space="preserve">ファーマシーマント</original>
@@ -3575,6 +4298,12 @@
   </item_name>
   <item_name id="2632">
     <original xml:space="preserve">騎士団員のクローク</original>
+  </item_name>
+  <item_name id="2633">
+    <original xml:space="preserve">オーダーケープ</original>
+  </item_name>
+  <item_name id="2634">
+    <original xml:space="preserve">調停者のマント</original>
   </item_name>
   <item_name id="2637">
     <original xml:space="preserve">ベネフィットウェアR</original>
@@ -3766,6 +4495,27 @@
   <item_name id="2746">
     <original xml:space="preserve">メイジワンズ</original>
   </item_name>
+  <item_name id="2747">
+    <original xml:space="preserve">マジックボウ</original>
+  </item_name>
+  <item_name id="2748">
+    <original xml:space="preserve">グノエツィール</original>
+  </item_name>
+  <item_name id="2749">
+    <original xml:space="preserve">ケンブレッヒャー</original>
+  </item_name>
+  <item_name id="2750">
+    <original xml:space="preserve">ブロンツァボーゲン</original>
+  </item_name>
+  <item_name id="2751">
+    <original xml:space="preserve">ドッペルシュプアー</original>
+  </item_name>
+  <item_name id="2752">
+    <original xml:space="preserve">マギアキクロス</original>
+  </item_name>
+  <item_name id="2753">
+    <original xml:space="preserve">クヴェーレンクラフト</original>
+  </item_name>
   <item_name id="2769">
     <original xml:space="preserve">カットラス</original>
     <translation xml:space="preserve">Cutlass</translation>
@@ -3796,6 +4546,9 @@
   <item_name id="2777">
     <original xml:space="preserve">ファルカタ</original>
   </item_name>
+  <item_name id="2778">
+    <original xml:space="preserve">サウザントスティング</original>
+  </item_name>
   <item_name id="2779">
     <original xml:space="preserve">センスオブワウンド</original>
     <translation xml:space="preserve">Wounded Fury</translation>
@@ -3807,6 +4560,15 @@
   <item_name id="2781">
     <original xml:space="preserve">シルバーレイピア</original>
     <translation xml:space="preserve">Silver Rapier</translation>
+  </item_name>
+  <item_name id="2782">
+    <original xml:space="preserve">トゥレイスリピーデス</original>
+  </item_name>
+  <item_name id="2783">
+    <original xml:space="preserve">コンクラーズブレード</original>
+  </item_name>
+  <item_name id="2784">
+    <original xml:space="preserve">スティングレイ</original>
   </item_name>
   <item_name id="2785">
     <original xml:space="preserve">セイクリッドエッジ</original>
@@ -3824,6 +4586,9 @@
     <original xml:space="preserve">シルバーソーン</original>
     <translation xml:space="preserve">Silver Thorn</translation>
   </item_name>
+  <item_name id="2801">
+    <original xml:space="preserve">ティーバイスカード</original>
+  </item_name>
   <item_name id="2802">
     <original xml:space="preserve">キメラの紋章の盾</original>
     <translation xml:space="preserve">Mark of the Chimera</translation>
@@ -3831,6 +4596,9 @@
   <item_name id="2803">
     <original xml:space="preserve">マークオブアリズン</original>
     <translation xml:space="preserve">Mark of the Arisen</translation>
+  </item_name>
+  <item_name id="2804">
+    <original xml:space="preserve">シャインタルジュ</original>
   </item_name>
   <item_name id="2811">
     <original xml:space="preserve">ブラッディハイド</original>
@@ -3867,6 +4635,9 @@
   <item_name id="2819">
     <original xml:space="preserve">ラスターアカンサス</original>
   </item_name>
+  <item_name id="2820">
+    <original xml:space="preserve">ハンターボウ</original>
+  </item_name>
   <item_name id="2821">
     <original xml:space="preserve">ウイングリフィン</original>
     <translation xml:space="preserve">Griffinbane</translation>
@@ -3881,6 +4652,15 @@
   </item_name>
   <item_name id="2824">
     <original xml:space="preserve">アイデアルアクト</original>
+  </item_name>
+  <item_name id="2825">
+    <original xml:space="preserve">スクロールヒルトボウ</original>
+  </item_name>
+  <item_name id="2826">
+    <original xml:space="preserve">クリシュナ</original>
+  </item_name>
+  <item_name id="2827">
+    <original xml:space="preserve">エニグマ</original>
   </item_name>
   <item_name id="2840">
     <original xml:space="preserve">ドーンスタッフ</original>
@@ -3914,6 +4694,9 @@
     <original xml:space="preserve">ポータルインジケーター</original>
     <translation xml:space="preserve">Portal Indicator</translation>
   </item_name>
+  <item_name id="2849">
+    <original xml:space="preserve">ネイルフリード</original>
+  </item_name>
   <item_name id="2850">
     <original xml:space="preserve">ゴブリンディスミサル</original>
     <translation xml:space="preserve">Goblin Bane</translation>
@@ -3928,6 +4711,15 @@
   <item_name id="2853">
     <original xml:space="preserve">サイレントグレイス</original>
     <translation xml:space="preserve">Unspoken Grace</translation>
+  </item_name>
+  <item_name id="2854">
+    <original xml:space="preserve">カームリィクリング</original>
+  </item_name>
+  <item_name id="2855">
+    <original xml:space="preserve">ファントムディセント</original>
+  </item_name>
+  <item_name id="2856">
+    <original xml:space="preserve">魔破の杖</original>
   </item_name>
   <item_name id="2869">
     <original xml:space="preserve">トウィンクルヴィーナス</original>
@@ -3984,6 +4776,9 @@
   <item_name id="2891">
     <original xml:space="preserve">マークオブアドバンス</original>
   </item_name>
+  <item_name id="2892">
+    <original xml:space="preserve">エンジェルスキン</original>
+  </item_name>
   <item_name id="2893">
     <original xml:space="preserve">ゾンビグレイブ</original>
     <translation xml:space="preserve">Zombiebane</translation>
@@ -3995,8 +4790,17 @@
     <original xml:space="preserve">タイラントスケイル</original>
     <translation xml:space="preserve">Tyrant Scale</translation>
   </item_name>
+  <item_name id="2896">
+    <original xml:space="preserve">エヴァーブレイブ</original>
+  </item_name>
   <item_name id="2897">
     <original xml:space="preserve">セイヴァーフォート</original>
+  </item_name>
+  <item_name id="2898">
+    <original xml:space="preserve">フェイタルダイアグラム</original>
+  </item_name>
+  <item_name id="2899">
+    <original xml:space="preserve">ビザンティンガード</original>
   </item_name>
   <item_name id="2912">
     <original xml:space="preserve">バルディッシュダガー</original>
@@ -4044,9 +4848,15 @@
     <original xml:space="preserve">ブリッツダガー</original>
     <translation xml:space="preserve">Blitz Daggers</translation>
   </item_name>
+  <item_name id="2925">
+    <original xml:space="preserve">トータルエングレイバー</original>
+  </item_name>
   <item_name id="2926">
     <original xml:space="preserve">クライシスアヴォイド</original>
     <translation xml:space="preserve">Crisis Avoid</translation>
+  </item_name>
+  <item_name id="2928">
+    <original xml:space="preserve">ライオンハーテッド</original>
   </item_name>
   <item_name id="2941">
     <original xml:space="preserve">クレセントワンズ</original>
@@ -4084,6 +4894,9 @@
     <original xml:space="preserve">ツイストサーペント</original>
     <translation xml:space="preserve">Twisted Serpent</translation>
   </item_name>
+  <item_name id="2950">
+    <original xml:space="preserve">グラブドハート</original>
+  </item_name>
   <item_name id="2951">
     <original xml:space="preserve">イビルアイスペシメンス</original>
   </item_name>
@@ -4095,8 +4908,68 @@
     <original xml:space="preserve">パイアスルーツ</original>
     <translation xml:space="preserve">Pious Roots</translation>
   </item_name>
+  <item_name id="2954">
+    <original xml:space="preserve">リリースオブフォーチュン</original>
+  </item_name>
   <item_name id="2955">
     <original xml:space="preserve">イデアライズ</original>
+  </item_name>
+  <item_name id="2956">
+    <original xml:space="preserve">フライトラズリーン</original>
+  </item_name>
+  <item_name id="2957">
+    <original xml:space="preserve">エキストラクター</original>
+  </item_name>
+  <item_name id="2970">
+    <original xml:space="preserve">シュルトウントズューネ</original>
+  </item_name>
+  <item_name id="2971">
+    <original xml:space="preserve">ムーンナハトシュテル</original>
+  </item_name>
+  <item_name id="2972">
+    <original xml:space="preserve">モルゲングリューエン</original>
+  </item_name>
+  <item_name id="2973">
+    <original xml:space="preserve">グルックスラッド</original>
+  </item_name>
+  <item_name id="2974">
+    <original xml:space="preserve">アスプロネライダ</original>
+  </item_name>
+  <item_name id="2975">
+    <original xml:space="preserve">ヴォルテクスフロウ</original>
+  </item_name>
+  <item_name id="2976">
+    <original xml:space="preserve">ガンボルツァイト</original>
+  </item_name>
+  <item_name id="2977">
+    <original xml:space="preserve">ツァウバークラフト</original>
+  </item_name>
+  <item_name id="2978">
+    <original xml:space="preserve">ヴァイスメルクマール</original>
+  </item_name>
+  <item_name id="2979">
+    <original xml:space="preserve">デンメルングリヒト</original>
+  </item_name>
+  <item_name id="2980">
+    <original xml:space="preserve">ミーテムサイカーシス</original>
+  </item_name>
+  <item_name id="2981">
+    <original xml:space="preserve">ケーリュケイオン</original>
+  </item_name>
+  <item_name id="2982">
+    <original xml:space="preserve">ジークシュトラーセ</original>
+  </item_name>
+  <item_name id="2983">
+    <original xml:space="preserve">クーニストラウム</original>
+  </item_name>
+  <item_name id="2984">
+    <original xml:space="preserve">レリジャスビヨンド</original>
+  </item_name>
+  <item_name id="2985">
+    <original xml:space="preserve">ゴルトイーファイ</original>
+  </item_name>
+  <item_name id="2986">
+    <original xml:space="preserve">アンフィニッシュド</original>
   </item_name>
   <item_name id="3057">
     <original xml:space="preserve">ホーンドヘルム</original>
@@ -4505,6 +5378,18 @@
     <original xml:space="preserve">ヴァイキングヘルム</original>
     <translation xml:space="preserve">Viking Helm</translation>
   </item_name>
+  <item_name id="3166">
+    <original xml:space="preserve">ギガントヘッド</original>
+  </item_name>
+  <item_name id="3167">
+    <original xml:space="preserve">ダスクヘルム</original>
+  </item_name>
+  <item_name id="3168">
+    <original xml:space="preserve">グリプスヘルム</original>
+  </item_name>
+  <item_name id="3175">
+    <original xml:space="preserve">フェンリルヘッド</original>
+  </item_name>
   <item_name id="3181">
     <original xml:space="preserve">ソレムアーマー</original>
   </item_name>
@@ -4546,6 +5431,18 @@
     <original xml:space="preserve">クルーエルアーマー</original>
     <translation xml:space="preserve">Cruel Armor</translation>
   </item_name>
+  <item_name id="3192">
+    <original xml:space="preserve">獄卒のアームドベルト</original>
+  </item_name>
+  <item_name id="3193">
+    <original xml:space="preserve">グリプスアーマー</original>
+  </item_name>
+  <item_name id="3194">
+    <original xml:space="preserve">ドーンプレート</original>
+  </item_name>
+  <item_name id="3201">
+    <original xml:space="preserve">フェンリルアーマー</original>
+  </item_name>
   <item_name id="3207">
     <original xml:space="preserve">ソレムレッグ</original>
   </item_name>
@@ -4578,6 +5475,18 @@
   </item_name>
   <item_name id="3217">
     <original xml:space="preserve">クルーエルグリーブ</original>
+  </item_name>
+  <item_name id="3218">
+    <original xml:space="preserve">獄卒のグリーブ</original>
+  </item_name>
+  <item_name id="3219">
+    <original xml:space="preserve">グリプスグリーブ</original>
+  </item_name>
+  <item_name id="3220">
+    <original xml:space="preserve">サンセットキュイス</original>
+  </item_name>
+  <item_name id="3227">
+    <original xml:space="preserve">フェンリルグリーブ</original>
   </item_name>
   <item_name id="3233">
     <original xml:space="preserve">ソレムアーム</original>
@@ -4619,6 +5528,18 @@
   <item_name id="3243">
     <original xml:space="preserve">クルーエルアーム</original>
     <translation xml:space="preserve">Cruel Arm</translation>
+  </item_name>
+  <item_name id="3244">
+    <original xml:space="preserve">ブルートガントレット</original>
+  </item_name>
+  <item_name id="3245">
+    <original xml:space="preserve">グリプスガントレット</original>
+  </item_name>
+  <item_name id="3246">
+    <original xml:space="preserve">黄昏の篭手</original>
+  </item_name>
+  <item_name id="3253">
+    <original xml:space="preserve">フェンリルガントレット</original>
   </item_name>
   <item_name id="3259">
     <original xml:space="preserve">ヘッドギア</original>
@@ -4663,6 +5584,18 @@
     <original xml:space="preserve">パイレーツキャップ</original>
     <translation xml:space="preserve">Pilot's Cap</translation>
   </item_name>
+  <item_name id="3270">
+    <original xml:space="preserve">シューターズフード</original>
+  </item_name>
+  <item_name id="3271">
+    <original xml:space="preserve">キャプチャーフード</original>
+  </item_name>
+  <item_name id="3272">
+    <original xml:space="preserve">武官のキャップ</original>
+  </item_name>
+  <item_name id="3279">
+    <original xml:space="preserve">バッカニアキャップ</original>
+  </item_name>
   <item_name id="3285">
     <original xml:space="preserve">レンジャージャケット</original>
     <translation xml:space="preserve">Ranger's Jacket</translation>
@@ -4704,6 +5637,18 @@
   <item_name id="3295">
     <original xml:space="preserve">パイレーツジャケット</original>
     <translation xml:space="preserve">Pilot's Jacket</translation>
+  </item_name>
+  <item_name id="3296">
+    <original xml:space="preserve">スケイルジャケット</original>
+  </item_name>
+  <item_name id="3297">
+    <original xml:space="preserve">レイダースジャケット</original>
+  </item_name>
+  <item_name id="3298">
+    <original xml:space="preserve">ハードスキンアーマー</original>
+  </item_name>
+  <item_name id="3305">
+    <original xml:space="preserve">バッカニアジャケット</original>
   </item_name>
   <item_name id="3311">
     <original xml:space="preserve">ホワイトサイハイ</original>
@@ -4751,6 +5696,18 @@
   <item_name id="3324">
     <original xml:space="preserve">パイレーツレッグス</original>
   </item_name>
+  <item_name id="3325">
+    <original xml:space="preserve">辺土の腰巻</original>
+  </item_name>
+  <item_name id="3326">
+    <original xml:space="preserve">レイダースグリーブ</original>
+  </item_name>
+  <item_name id="3327">
+    <original xml:space="preserve">頭目のレッグガード</original>
+  </item_name>
+  <item_name id="3334">
+    <original xml:space="preserve">バッカニアレッグス</original>
+  </item_name>
   <item_name id="3340">
     <original xml:space="preserve">コンポジットスリーブ</original>
     <translation xml:space="preserve">Assembled Sleeves</translation>
@@ -4788,6 +5745,18 @@
   <item_name id="3349">
     <original xml:space="preserve">パイレーツアーム</original>
     <translation xml:space="preserve">Pilot's Arm</translation>
+  </item_name>
+  <item_name id="3350">
+    <original xml:space="preserve">エージェントスリーブ</original>
+  </item_name>
+  <item_name id="3351">
+    <original xml:space="preserve">アサルトスパイン</original>
+  </item_name>
+  <item_name id="3352">
+    <original xml:space="preserve">頭目の手袋</original>
+  </item_name>
+  <item_name id="3359">
+    <original xml:space="preserve">バッカニアアーム</original>
   </item_name>
   <item_name id="3365">
     <original xml:space="preserve">セイクリッドフード</original>
@@ -4828,6 +5797,18 @@
   <item_name id="3375">
     <original xml:space="preserve">叡智のサークレット</original>
     <translation xml:space="preserve">Wisdom Circlet</translation>
+  </item_name>
+  <item_name id="3376">
+    <original xml:space="preserve">新月の円環</original>
+  </item_name>
+  <item_name id="3377">
+    <original xml:space="preserve">カテドラルキャップ</original>
+  </item_name>
+  <item_name id="3378">
+    <original xml:space="preserve">アデプトハット</original>
+  </item_name>
+  <item_name id="3385">
+    <original xml:space="preserve">アストニッシュギア</original>
   </item_name>
   <item_name id="3392">
     <original xml:space="preserve">セイクリッドローブ</original>
@@ -4871,6 +5852,18 @@
     <original xml:space="preserve">プレシャスローブ</original>
     <translation xml:space="preserve">Precious Robe</translation>
   </item_name>
+  <item_name id="3403">
+    <original xml:space="preserve">タイドローブ</original>
+  </item_name>
+  <item_name id="3404">
+    <original xml:space="preserve">ディバインローブ</original>
+  </item_name>
+  <item_name id="3405">
+    <original xml:space="preserve">アデプトローブ</original>
+  </item_name>
+  <item_name id="3412">
+    <original xml:space="preserve">アストニッシュローブ</original>
+  </item_name>
   <item_name id="3419">
     <original xml:space="preserve">セイクリッドグリーブ</original>
   </item_name>
@@ -4903,6 +5896,18 @@
   </item_name>
   <item_name id="3429">
     <original xml:space="preserve">プレシャスブーツ</original>
+  </item_name>
+  <item_name id="3430">
+    <original xml:space="preserve">楽土の腰布</original>
+  </item_name>
+  <item_name id="3431">
+    <original xml:space="preserve">ドミネーションブーツ</original>
+  </item_name>
+  <item_name id="3432">
+    <original xml:space="preserve">妖鬼のグリーブ</original>
+  </item_name>
+  <item_name id="3439">
+    <original xml:space="preserve">アストニッシュブーツ</original>
   </item_name>
   <item_name id="3446">
     <original xml:space="preserve">セイクリッドバングル</original>
@@ -4943,6 +5948,18 @@
   <item_name id="3456">
     <original xml:space="preserve">プレシャスバングル</original>
     <translation xml:space="preserve">Precious Bangle</translation>
+  </item_name>
+  <item_name id="3457">
+    <original xml:space="preserve">ビクトリーバングル</original>
+  </item_name>
+  <item_name id="3458">
+    <original xml:space="preserve">クランチバングル</original>
+  </item_name>
+  <item_name id="3459">
+    <original xml:space="preserve">アデプトバングル</original>
+  </item_name>
+  <item_name id="3466">
+    <original xml:space="preserve">アストニッシュアーム</original>
   </item_name>
   <item_name id="3473">
     <original xml:space="preserve">シールダーヘルム</original>
@@ -4986,6 +6003,18 @@
     <original xml:space="preserve">プリンシパルヘルム</original>
     <translation xml:space="preserve">Principal Helm</translation>
   </item_name>
+  <item_name id="3484">
+    <original xml:space="preserve">ジェネラルヘルム</original>
+  </item_name>
+  <item_name id="3485">
+    <original xml:space="preserve">トライアンフヘルム</original>
+  </item_name>
+  <item_name id="3486">
+    <original xml:space="preserve">グレーターアイズ</original>
+  </item_name>
+  <item_name id="3493">
+    <original xml:space="preserve">デュミナスヘルム</original>
+  </item_name>
   <item_name id="3499">
     <original xml:space="preserve">シールダーコート</original>
     <translation xml:space="preserve">Shielder's Coat</translation>
@@ -5028,6 +6057,18 @@
     <original xml:space="preserve">タクティシャンコート</original>
     <translation xml:space="preserve">Tactician's Coat</translation>
   </item_name>
+  <item_name id="3510">
+    <original xml:space="preserve">トルーパーズコート</original>
+  </item_name>
+  <item_name id="3511">
+    <original xml:space="preserve">トライアンフジャケット</original>
+  </item_name>
+  <item_name id="3512">
+    <original xml:space="preserve">エンフォーサーズコート</original>
+  </item_name>
+  <item_name id="3519">
+    <original xml:space="preserve">デュミナスクロス</original>
+  </item_name>
   <item_name id="3525">
     <original xml:space="preserve">シールダーレッグス</original>
   </item_name>
@@ -5060,6 +6101,18 @@
   </item_name>
   <item_name id="3536">
     <original xml:space="preserve">プリンシパルレッグス</original>
+  </item_name>
+  <item_name id="3537">
+    <original xml:space="preserve">トルーパーズレッグス</original>
+  </item_name>
+  <item_name id="3538">
+    <original xml:space="preserve">トライアンフグリーブ</original>
+  </item_name>
+  <item_name id="3539">
+    <original xml:space="preserve">バウンティブーツ</original>
+  </item_name>
+  <item_name id="3545">
+    <original xml:space="preserve">デュミナスレッグス</original>
   </item_name>
   <item_name id="3551">
     <original xml:space="preserve">シールダーアーム</original>
@@ -5095,6 +6148,18 @@
   </item_name>
   <item_name id="3561">
     <original xml:space="preserve">プリンシパルアーム</original>
+  </item_name>
+  <item_name id="3562">
+    <original xml:space="preserve">トルーパーズグラブ</original>
+  </item_name>
+  <item_name id="3563">
+    <original xml:space="preserve">トライアンフアーム</original>
+  </item_name>
+  <item_name id="3564">
+    <original xml:space="preserve">グルエルナックル</original>
+  </item_name>
+  <item_name id="3571">
+    <original xml:space="preserve">デュミナスアーム</original>
   </item_name>
   <item_name id="3576">
     <original xml:space="preserve">ブラウンタイド</original>
@@ -5244,6 +6309,12 @@
     <original xml:space="preserve">貴婦人のコルセット</original>
     <translation xml:space="preserve">Noblewoman's Corset</translation>
   </item_name>
+  <item_name id="3622">
+    <original xml:space="preserve">シルクブリオー</original>
+  </item_name>
+  <item_name id="3623">
+    <original xml:space="preserve">エンダウドベスト</original>
+  </item_name>
   <item_name id="3630">
     <original xml:space="preserve">シルキーバルジング</original>
   </item_name>
@@ -5275,6 +6346,9 @@
   </item_name>
   <item_name id="3639">
     <original xml:space="preserve">ネイチャーパンツ</original>
+  </item_name>
+  <item_name id="3640">
+    <original xml:space="preserve">ヴィラルパンツ</original>
   </item_name>
   <item_name id="3644">
     <original xml:space="preserve">ファーマシーマント</original>
@@ -5314,6 +6388,12 @@
   </item_name>
   <item_name id="3655">
     <original xml:space="preserve">騎士団員のクローク</original>
+  </item_name>
+  <item_name id="3656">
+    <original xml:space="preserve">オーダーケープ</original>
+  </item_name>
+  <item_name id="3657">
+    <original xml:space="preserve">調停者のマント</original>
   </item_name>
   <item_name id="3660">
     <original xml:space="preserve">ベネフィットウェアR</original>
@@ -5505,6 +6585,27 @@
   <item_name id="3769">
     <original xml:space="preserve">メイジワンズ</original>
   </item_name>
+  <item_name id="3770">
+    <original xml:space="preserve">マジックボウ</original>
+  </item_name>
+  <item_name id="3771">
+    <original xml:space="preserve">グノエツィール</original>
+  </item_name>
+  <item_name id="3772">
+    <original xml:space="preserve">ケンブレッヒャー</original>
+  </item_name>
+  <item_name id="3773">
+    <original xml:space="preserve">ブロンツァボーゲン</original>
+  </item_name>
+  <item_name id="3774">
+    <original xml:space="preserve">ドッペルシュプアー</original>
+  </item_name>
+  <item_name id="3775">
+    <original xml:space="preserve">マギアキクロス</original>
+  </item_name>
+  <item_name id="3776">
+    <original xml:space="preserve">クヴェーレンクラフト</original>
+  </item_name>
   <item_name id="3792">
     <original xml:space="preserve">カットラス</original>
     <translation xml:space="preserve">Cutlass</translation>
@@ -5535,6 +6636,9 @@
   <item_name id="3800">
     <original xml:space="preserve">ファルカタ</original>
   </item_name>
+  <item_name id="3801">
+    <original xml:space="preserve">サウザントスティング</original>
+  </item_name>
   <item_name id="3802">
     <original xml:space="preserve">センスオブワウンド</original>
     <translation xml:space="preserve">Wounded Fury</translation>
@@ -5546,6 +6650,15 @@
   <item_name id="3804">
     <original xml:space="preserve">シルバーレイピア</original>
     <translation xml:space="preserve">Silver Rapier</translation>
+  </item_name>
+  <item_name id="3805">
+    <original xml:space="preserve">トゥレイスリピーデス</original>
+  </item_name>
+  <item_name id="3806">
+    <original xml:space="preserve">コンクラーズブレード</original>
+  </item_name>
+  <item_name id="3807">
+    <original xml:space="preserve">スティングレイ</original>
   </item_name>
   <item_name id="3808">
     <original xml:space="preserve">セイクリッドエッジ</original>
@@ -5563,6 +6676,9 @@
     <original xml:space="preserve">シルバーソーン</original>
     <translation xml:space="preserve">Silver Thorn</translation>
   </item_name>
+  <item_name id="3824">
+    <original xml:space="preserve">ティーバイスカード</original>
+  </item_name>
   <item_name id="3825">
     <original xml:space="preserve">キメラの紋章の盾</original>
     <translation xml:space="preserve">Mark of the Chimera</translation>
@@ -5570,6 +6686,9 @@
   <item_name id="3826">
     <original xml:space="preserve">マークオブアリズン</original>
     <translation xml:space="preserve">Mark of the Arisen</translation>
+  </item_name>
+  <item_name id="3827">
+    <original xml:space="preserve">シャインタルジュ</original>
   </item_name>
   <item_name id="3834">
     <original xml:space="preserve">ブラッディハイド</original>
@@ -5606,6 +6725,9 @@
   <item_name id="3842">
     <original xml:space="preserve">ラスターアカンサス</original>
   </item_name>
+  <item_name id="3843">
+    <original xml:space="preserve">ハンターボウ</original>
+  </item_name>
   <item_name id="3844">
     <original xml:space="preserve">ウイングリフィン</original>
     <translation xml:space="preserve">Griffinbane</translation>
@@ -5620,6 +6742,15 @@
   </item_name>
   <item_name id="3847">
     <original xml:space="preserve">アイデアルアクト</original>
+  </item_name>
+  <item_name id="3848">
+    <original xml:space="preserve">スクロールヒルトボウ</original>
+  </item_name>
+  <item_name id="3849">
+    <original xml:space="preserve">クリシュナ</original>
+  </item_name>
+  <item_name id="3850">
+    <original xml:space="preserve">エニグマ</original>
   </item_name>
   <item_name id="3863">
     <original xml:space="preserve">ドーンスタッフ</original>
@@ -5653,6 +6784,9 @@
     <original xml:space="preserve">ポータルインジケーター</original>
     <translation xml:space="preserve">Portal Indicator</translation>
   </item_name>
+  <item_name id="3872">
+    <original xml:space="preserve">ネイルフリード</original>
+  </item_name>
   <item_name id="3873">
     <original xml:space="preserve">ゴブリンディスミサル</original>
     <translation xml:space="preserve">Goblin Bane</translation>
@@ -5667,6 +6801,15 @@
   <item_name id="3876">
     <original xml:space="preserve">サイレントグレイス</original>
     <translation xml:space="preserve">Unspoken Grace</translation>
+  </item_name>
+  <item_name id="3877">
+    <original xml:space="preserve">カームリィクリング</original>
+  </item_name>
+  <item_name id="3878">
+    <original xml:space="preserve">ファントムディセント</original>
+  </item_name>
+  <item_name id="3879">
+    <original xml:space="preserve">魔破の杖</original>
   </item_name>
   <item_name id="3892">
     <original xml:space="preserve">トウィンクルヴィーナス</original>
@@ -5723,6 +6866,9 @@
   <item_name id="3914">
     <original xml:space="preserve">マークオブアドバンス</original>
   </item_name>
+  <item_name id="3915">
+    <original xml:space="preserve">エンジェルスキン</original>
+  </item_name>
   <item_name id="3916">
     <original xml:space="preserve">ゾンビグレイブ</original>
     <translation xml:space="preserve">Zombiebane</translation>
@@ -5734,8 +6880,17 @@
     <original xml:space="preserve">タイラントスケイル</original>
     <translation xml:space="preserve">Tyrant Scale</translation>
   </item_name>
+  <item_name id="3919">
+    <original xml:space="preserve">エヴァーブレイブ</original>
+  </item_name>
   <item_name id="3920">
     <original xml:space="preserve">セイヴァーフォート</original>
+  </item_name>
+  <item_name id="3921">
+    <original xml:space="preserve">フェイタルダイアグラム</original>
+  </item_name>
+  <item_name id="3922">
+    <original xml:space="preserve">ビザンティンガード</original>
   </item_name>
   <item_name id="3935">
     <original xml:space="preserve">バルディッシュダガー</original>
@@ -5783,9 +6938,15 @@
     <original xml:space="preserve">ブリッツダガー</original>
     <translation xml:space="preserve">Blitz Daggers</translation>
   </item_name>
+  <item_name id="3948">
+    <original xml:space="preserve">トータルエングレイバー</original>
+  </item_name>
   <item_name id="3949">
     <original xml:space="preserve">クライシスアヴォイド</original>
     <translation xml:space="preserve">Crisis Avoid</translation>
+  </item_name>
+  <item_name id="3951">
+    <original xml:space="preserve">ライオンハーテッド</original>
   </item_name>
   <item_name id="3964">
     <original xml:space="preserve">クレセントワンズ</original>
@@ -5823,6 +6984,9 @@
     <original xml:space="preserve">ツイストサーペント</original>
     <translation xml:space="preserve">Twisted Serpent</translation>
   </item_name>
+  <item_name id="3973">
+    <original xml:space="preserve">グラブドハート</original>
+  </item_name>
   <item_name id="3974">
     <original xml:space="preserve">イビルアイスペシメンス</original>
   </item_name>
@@ -5834,8 +6998,68 @@
     <original xml:space="preserve">パイアスルーツ</original>
     <translation xml:space="preserve">Pious Roots</translation>
   </item_name>
+  <item_name id="3977">
+    <original xml:space="preserve">リリースオブフォーチュン</original>
+  </item_name>
   <item_name id="3978">
     <original xml:space="preserve">イデアライズ</original>
+  </item_name>
+  <item_name id="3979">
+    <original xml:space="preserve">フライトラズリーン</original>
+  </item_name>
+  <item_name id="3980">
+    <original xml:space="preserve">エキストラクター</original>
+  </item_name>
+  <item_name id="3993">
+    <original xml:space="preserve">シュルトウントズューネ</original>
+  </item_name>
+  <item_name id="3994">
+    <original xml:space="preserve">ムーンナハトシュテル</original>
+  </item_name>
+  <item_name id="3995">
+    <original xml:space="preserve">モルゲングリューエン</original>
+  </item_name>
+  <item_name id="3996">
+    <original xml:space="preserve">グルックスラッド</original>
+  </item_name>
+  <item_name id="3997">
+    <original xml:space="preserve">アスプロネライダ</original>
+  </item_name>
+  <item_name id="3998">
+    <original xml:space="preserve">ヴォルテクスフロウ</original>
+  </item_name>
+  <item_name id="3999">
+    <original xml:space="preserve">ガンボルツァイト</original>
+  </item_name>
+  <item_name id="4000">
+    <original xml:space="preserve">ツァウバークラフト</original>
+  </item_name>
+  <item_name id="4001">
+    <original xml:space="preserve">ヴァイスメルクマール</original>
+  </item_name>
+  <item_name id="4002">
+    <original xml:space="preserve">デンメルングリヒト</original>
+  </item_name>
+  <item_name id="4003">
+    <original xml:space="preserve">ミーテムサイカーシス</original>
+  </item_name>
+  <item_name id="4004">
+    <original xml:space="preserve">ケーリュケイオン</original>
+  </item_name>
+  <item_name id="4005">
+    <original xml:space="preserve">ジークシュトラーセ</original>
+  </item_name>
+  <item_name id="4006">
+    <original xml:space="preserve">クーニストラウム</original>
+  </item_name>
+  <item_name id="4007">
+    <original xml:space="preserve">レリジャスビヨンド</original>
+  </item_name>
+  <item_name id="4008">
+    <original xml:space="preserve">ゴルトイーファイ</original>
+  </item_name>
+  <item_name id="4009">
+    <original xml:space="preserve">アンフィニッシュド</original>
   </item_name>
   <item_name id="4080">
     <original xml:space="preserve">ホーンドヘルム</original>
@@ -6244,6 +7468,18 @@
     <original xml:space="preserve">ヴァイキングヘルム</original>
     <translation xml:space="preserve">Viking Helm</translation>
   </item_name>
+  <item_name id="4189">
+    <original xml:space="preserve">ギガントヘッド</original>
+  </item_name>
+  <item_name id="4190">
+    <original xml:space="preserve">ダスクヘルム</original>
+  </item_name>
+  <item_name id="4191">
+    <original xml:space="preserve">グリプスヘルム</original>
+  </item_name>
+  <item_name id="4198">
+    <original xml:space="preserve">フェンリルヘッド</original>
+  </item_name>
   <item_name id="4204">
     <original xml:space="preserve">ソレムアーマー</original>
   </item_name>
@@ -6285,6 +7521,18 @@
     <original xml:space="preserve">クルーエルアーマー</original>
     <translation xml:space="preserve">Cruel Armor</translation>
   </item_name>
+  <item_name id="4215">
+    <original xml:space="preserve">獄卒のアームドベルト</original>
+  </item_name>
+  <item_name id="4216">
+    <original xml:space="preserve">グリプスアーマー</original>
+  </item_name>
+  <item_name id="4217">
+    <original xml:space="preserve">ドーンプレート</original>
+  </item_name>
+  <item_name id="4224">
+    <original xml:space="preserve">フェンリルアーマー</original>
+  </item_name>
   <item_name id="4230">
     <original xml:space="preserve">ソレムレッグ</original>
   </item_name>
@@ -6317,6 +7565,18 @@
   </item_name>
   <item_name id="4240">
     <original xml:space="preserve">クルーエルグリーブ</original>
+  </item_name>
+  <item_name id="4241">
+    <original xml:space="preserve">獄卒のグリーブ</original>
+  </item_name>
+  <item_name id="4242">
+    <original xml:space="preserve">グリプスグリーブ</original>
+  </item_name>
+  <item_name id="4243">
+    <original xml:space="preserve">サンセットキュイス</original>
+  </item_name>
+  <item_name id="4250">
+    <original xml:space="preserve">フェンリルグリーブ</original>
   </item_name>
   <item_name id="4256">
     <original xml:space="preserve">ソレムアーム</original>
@@ -6358,6 +7618,18 @@
   <item_name id="4266">
     <original xml:space="preserve">クルーエルアーム</original>
     <translation xml:space="preserve">Cruel Arm</translation>
+  </item_name>
+  <item_name id="4267">
+    <original xml:space="preserve">ブルートガントレット</original>
+  </item_name>
+  <item_name id="4268">
+    <original xml:space="preserve">グリプスガントレット</original>
+  </item_name>
+  <item_name id="4269">
+    <original xml:space="preserve">黄昏の篭手</original>
+  </item_name>
+  <item_name id="4276">
+    <original xml:space="preserve">フェンリルガントレット</original>
   </item_name>
   <item_name id="4282">
     <original xml:space="preserve">ヘッドギア</original>
@@ -6402,6 +7674,18 @@
     <original xml:space="preserve">パイレーツキャップ</original>
     <translation xml:space="preserve">Pilot's Cap</translation>
   </item_name>
+  <item_name id="4293">
+    <original xml:space="preserve">シューターズフード</original>
+  </item_name>
+  <item_name id="4294">
+    <original xml:space="preserve">キャプチャーフード</original>
+  </item_name>
+  <item_name id="4295">
+    <original xml:space="preserve">武官のキャップ</original>
+  </item_name>
+  <item_name id="4302">
+    <original xml:space="preserve">バッカニアキャップ</original>
+  </item_name>
   <item_name id="4308">
     <original xml:space="preserve">レンジャージャケット</original>
     <translation xml:space="preserve">Ranger's Jacket</translation>
@@ -6443,6 +7727,18 @@
   <item_name id="4318">
     <original xml:space="preserve">パイレーツジャケット</original>
     <translation xml:space="preserve">Pilot's Jacket</translation>
+  </item_name>
+  <item_name id="4319">
+    <original xml:space="preserve">スケイルジャケット</original>
+  </item_name>
+  <item_name id="4320">
+    <original xml:space="preserve">レイダースジャケット</original>
+  </item_name>
+  <item_name id="4321">
+    <original xml:space="preserve">ハードスキンアーマー</original>
+  </item_name>
+  <item_name id="4328">
+    <original xml:space="preserve">バッカニアジャケット</original>
   </item_name>
   <item_name id="4334">
     <original xml:space="preserve">ホワイトサイハイ</original>
@@ -6490,6 +7786,18 @@
   <item_name id="4347">
     <original xml:space="preserve">パイレーツレッグス</original>
   </item_name>
+  <item_name id="4348">
+    <original xml:space="preserve">辺土の腰巻</original>
+  </item_name>
+  <item_name id="4349">
+    <original xml:space="preserve">レイダースグリーブ</original>
+  </item_name>
+  <item_name id="4350">
+    <original xml:space="preserve">頭目のレッグガード</original>
+  </item_name>
+  <item_name id="4357">
+    <original xml:space="preserve">バッカニアレッグス</original>
+  </item_name>
   <item_name id="4363">
     <original xml:space="preserve">コンポジットスリーブ</original>
     <translation xml:space="preserve">Assembled Sleeves</translation>
@@ -6527,6 +7835,18 @@
   <item_name id="4372">
     <original xml:space="preserve">パイレーツアーム</original>
     <translation xml:space="preserve">Pilot's Arm</translation>
+  </item_name>
+  <item_name id="4373">
+    <original xml:space="preserve">エージェントスリーブ</original>
+  </item_name>
+  <item_name id="4374">
+    <original xml:space="preserve">アサルトスパイン</original>
+  </item_name>
+  <item_name id="4375">
+    <original xml:space="preserve">頭目の手袋</original>
+  </item_name>
+  <item_name id="4382">
+    <original xml:space="preserve">バッカニアアーム</original>
   </item_name>
   <item_name id="4388">
     <original xml:space="preserve">セイクリッドフード</original>
@@ -6567,6 +7887,18 @@
   <item_name id="4398">
     <original xml:space="preserve">叡智のサークレット</original>
     <translation xml:space="preserve">Wisdom Circlet</translation>
+  </item_name>
+  <item_name id="4399">
+    <original xml:space="preserve">新月の円環</original>
+  </item_name>
+  <item_name id="4400">
+    <original xml:space="preserve">カテドラルキャップ</original>
+  </item_name>
+  <item_name id="4401">
+    <original xml:space="preserve">アデプトハット</original>
+  </item_name>
+  <item_name id="4408">
+    <original xml:space="preserve">アストニッシュギア</original>
   </item_name>
   <item_name id="4415">
     <original xml:space="preserve">セイクリッドローブ</original>
@@ -6610,6 +7942,18 @@
     <original xml:space="preserve">プレシャスローブ</original>
     <translation xml:space="preserve">Precious Robe</translation>
   </item_name>
+  <item_name id="4426">
+    <original xml:space="preserve">タイドローブ</original>
+  </item_name>
+  <item_name id="4427">
+    <original xml:space="preserve">ディバインローブ</original>
+  </item_name>
+  <item_name id="4428">
+    <original xml:space="preserve">アデプトローブ</original>
+  </item_name>
+  <item_name id="4435">
+    <original xml:space="preserve">アストニッシュローブ</original>
+  </item_name>
   <item_name id="4442">
     <original xml:space="preserve">セイクリッドグリーブ</original>
   </item_name>
@@ -6642,6 +7986,18 @@
   </item_name>
   <item_name id="4452">
     <original xml:space="preserve">プレシャスブーツ</original>
+  </item_name>
+  <item_name id="4453">
+    <original xml:space="preserve">楽土の腰布</original>
+  </item_name>
+  <item_name id="4454">
+    <original xml:space="preserve">ドミネーションブーツ</original>
+  </item_name>
+  <item_name id="4455">
+    <original xml:space="preserve">妖鬼のグリーブ</original>
+  </item_name>
+  <item_name id="4462">
+    <original xml:space="preserve">アストニッシュブーツ</original>
   </item_name>
   <item_name id="4469">
     <original xml:space="preserve">セイクリッドバングル</original>
@@ -6682,6 +8038,18 @@
   <item_name id="4479">
     <original xml:space="preserve">プレシャスバングル</original>
     <translation xml:space="preserve">Precious Bangle</translation>
+  </item_name>
+  <item_name id="4480">
+    <original xml:space="preserve">ビクトリーバングル</original>
+  </item_name>
+  <item_name id="4481">
+    <original xml:space="preserve">クランチバングル</original>
+  </item_name>
+  <item_name id="4482">
+    <original xml:space="preserve">アデプトバングル</original>
+  </item_name>
+  <item_name id="4489">
+    <original xml:space="preserve">アストニッシュアーム</original>
   </item_name>
   <item_name id="4496">
     <original xml:space="preserve">シールダーヘルム</original>
@@ -6725,6 +8093,18 @@
     <original xml:space="preserve">プリンシパルヘルム</original>
     <translation xml:space="preserve">Principal Helm</translation>
   </item_name>
+  <item_name id="4507">
+    <original xml:space="preserve">ジェネラルヘルム</original>
+  </item_name>
+  <item_name id="4508">
+    <original xml:space="preserve">トライアンフヘルム</original>
+  </item_name>
+  <item_name id="4509">
+    <original xml:space="preserve">グレーターアイズ</original>
+  </item_name>
+  <item_name id="4516">
+    <original xml:space="preserve">デュミナスヘルム</original>
+  </item_name>
   <item_name id="4522">
     <original xml:space="preserve">シールダーコート</original>
     <translation xml:space="preserve">Shielder's Coat</translation>
@@ -6767,6 +8147,18 @@
     <original xml:space="preserve">タクティシャンコート</original>
     <translation xml:space="preserve">Tactician's Coat</translation>
   </item_name>
+  <item_name id="4533">
+    <original xml:space="preserve">トルーパーズコート</original>
+  </item_name>
+  <item_name id="4534">
+    <original xml:space="preserve">トライアンフジャケット</original>
+  </item_name>
+  <item_name id="4535">
+    <original xml:space="preserve">エンフォーサーズコート</original>
+  </item_name>
+  <item_name id="4542">
+    <original xml:space="preserve">デュミナスクロス</original>
+  </item_name>
   <item_name id="4548">
     <original xml:space="preserve">シールダーレッグス</original>
   </item_name>
@@ -6799,6 +8191,18 @@
   </item_name>
   <item_name id="4559">
     <original xml:space="preserve">プリンシパルレッグス</original>
+  </item_name>
+  <item_name id="4560">
+    <original xml:space="preserve">トルーパーズレッグス</original>
+  </item_name>
+  <item_name id="4561">
+    <original xml:space="preserve">トライアンフグリーブ</original>
+  </item_name>
+  <item_name id="4562">
+    <original xml:space="preserve">バウンティブーツ</original>
+  </item_name>
+  <item_name id="4568">
+    <original xml:space="preserve">デュミナスレッグス</original>
   </item_name>
   <item_name id="4574">
     <original xml:space="preserve">シールダーアーム</original>
@@ -6834,6 +8238,18 @@
   </item_name>
   <item_name id="4584">
     <original xml:space="preserve">プリンシパルアーム</original>
+  </item_name>
+  <item_name id="4585">
+    <original xml:space="preserve">トルーパーズグラブ</original>
+  </item_name>
+  <item_name id="4586">
+    <original xml:space="preserve">トライアンフアーム</original>
+  </item_name>
+  <item_name id="4587">
+    <original xml:space="preserve">グルエルナックル</original>
+  </item_name>
+  <item_name id="4594">
+    <original xml:space="preserve">デュミナスアーム</original>
   </item_name>
   <item_name id="4599">
     <original xml:space="preserve">ブラウンタイド</original>
@@ -6983,6 +8399,12 @@
     <original xml:space="preserve">貴婦人のコルセット</original>
     <translation xml:space="preserve">Noblewoman's Corset</translation>
   </item_name>
+  <item_name id="4645">
+    <original xml:space="preserve">シルクブリオー</original>
+  </item_name>
+  <item_name id="4646">
+    <original xml:space="preserve">エンダウドベスト</original>
+  </item_name>
   <item_name id="4653">
     <original xml:space="preserve">シルキーバルジング</original>
   </item_name>
@@ -7014,6 +8436,9 @@
   </item_name>
   <item_name id="4662">
     <original xml:space="preserve">ネイチャーパンツ</original>
+  </item_name>
+  <item_name id="4663">
+    <original xml:space="preserve">ヴィラルパンツ</original>
   </item_name>
   <item_name id="4667">
     <original xml:space="preserve">ファーマシーマント</original>
@@ -7053,6 +8478,12 @@
   </item_name>
   <item_name id="4678">
     <original xml:space="preserve">騎士団員のクローク</original>
+  </item_name>
+  <item_name id="4679">
+    <original xml:space="preserve">オーダーケープ</original>
+  </item_name>
+  <item_name id="4680">
+    <original xml:space="preserve">調停者のマント</original>
   </item_name>
   <item_name id="4683">
     <original xml:space="preserve">ベネフィットウェアR</original>
@@ -7244,6 +8675,27 @@
   <item_name id="4792">
     <original xml:space="preserve">メイジワンズ</original>
   </item_name>
+  <item_name id="4793">
+    <original xml:space="preserve">マジックボウ</original>
+  </item_name>
+  <item_name id="4794">
+    <original xml:space="preserve">グノエツィール</original>
+  </item_name>
+  <item_name id="4795">
+    <original xml:space="preserve">ケンブレッヒャー</original>
+  </item_name>
+  <item_name id="4796">
+    <original xml:space="preserve">ブロンツァボーゲン</original>
+  </item_name>
+  <item_name id="4797">
+    <original xml:space="preserve">ドッペルシュプアー</original>
+  </item_name>
+  <item_name id="4798">
+    <original xml:space="preserve">マギアキクロス</original>
+  </item_name>
+  <item_name id="4799">
+    <original xml:space="preserve">クヴェーレンクラフト</original>
+  </item_name>
   <item_name id="4815">
     <original xml:space="preserve">カットラス</original>
     <translation xml:space="preserve">Cutlass</translation>
@@ -7274,6 +8726,9 @@
   <item_name id="4823">
     <original xml:space="preserve">ファルカタ</original>
   </item_name>
+  <item_name id="4824">
+    <original xml:space="preserve">サウザントスティング</original>
+  </item_name>
   <item_name id="4825">
     <original xml:space="preserve">センスオブワウンド</original>
     <translation xml:space="preserve">Wounded Fury</translation>
@@ -7285,6 +8740,15 @@
   <item_name id="4827">
     <original xml:space="preserve">シルバーレイピア</original>
     <translation xml:space="preserve">Silver Rapier</translation>
+  </item_name>
+  <item_name id="4828">
+    <original xml:space="preserve">トゥレイスリピーデス</original>
+  </item_name>
+  <item_name id="4829">
+    <original xml:space="preserve">コンクラーズブレード</original>
+  </item_name>
+  <item_name id="4830">
+    <original xml:space="preserve">スティングレイ</original>
   </item_name>
   <item_name id="4831">
     <original xml:space="preserve">セイクリッドエッジ</original>
@@ -7302,6 +8766,9 @@
     <original xml:space="preserve">シルバーソーン</original>
     <translation xml:space="preserve">Silver Thorn</translation>
   </item_name>
+  <item_name id="4847">
+    <original xml:space="preserve">ティーバイスカード</original>
+  </item_name>
   <item_name id="4848">
     <original xml:space="preserve">キメラの紋章の盾</original>
     <translation xml:space="preserve">Mark of the Chimera</translation>
@@ -7309,6 +8776,9 @@
   <item_name id="4849">
     <original xml:space="preserve">マークオブアリズン</original>
     <translation xml:space="preserve">Mark of the Arisen</translation>
+  </item_name>
+  <item_name id="4850">
+    <original xml:space="preserve">シャインタルジュ</original>
   </item_name>
   <item_name id="4857">
     <original xml:space="preserve">ブラッディハイド</original>
@@ -7345,6 +8815,9 @@
   <item_name id="4865">
     <original xml:space="preserve">ラスターアカンサス</original>
   </item_name>
+  <item_name id="4866">
+    <original xml:space="preserve">ハンターボウ</original>
+  </item_name>
   <item_name id="4867">
     <original xml:space="preserve">ウイングリフィン</original>
     <translation xml:space="preserve">Griffinbane</translation>
@@ -7359,6 +8832,15 @@
   </item_name>
   <item_name id="4870">
     <original xml:space="preserve">アイデアルアクト</original>
+  </item_name>
+  <item_name id="4871">
+    <original xml:space="preserve">スクロールヒルトボウ</original>
+  </item_name>
+  <item_name id="4872">
+    <original xml:space="preserve">クリシュナ</original>
+  </item_name>
+  <item_name id="4873">
+    <original xml:space="preserve">エニグマ</original>
   </item_name>
   <item_name id="4886">
     <original xml:space="preserve">ドーンスタッフ</original>
@@ -7392,6 +8874,9 @@
     <original xml:space="preserve">ポータルインジケーター</original>
     <translation xml:space="preserve">Portal Indicator</translation>
   </item_name>
+  <item_name id="4895">
+    <original xml:space="preserve">ネイルフリード</original>
+  </item_name>
   <item_name id="4896">
     <original xml:space="preserve">ゴブリンディスミサル</original>
     <translation xml:space="preserve">Goblin Bane</translation>
@@ -7406,6 +8891,15 @@
   <item_name id="4899">
     <original xml:space="preserve">サイレントグレイス</original>
     <translation xml:space="preserve">Unspoken Grace</translation>
+  </item_name>
+  <item_name id="4900">
+    <original xml:space="preserve">カームリィクリング</original>
+  </item_name>
+  <item_name id="4901">
+    <original xml:space="preserve">ファントムディセント</original>
+  </item_name>
+  <item_name id="4902">
+    <original xml:space="preserve">魔破の杖</original>
   </item_name>
   <item_name id="4915">
     <original xml:space="preserve">トウィンクルヴィーナス</original>
@@ -7462,6 +8956,9 @@
   <item_name id="4937">
     <original xml:space="preserve">マークオブアドバンス</original>
   </item_name>
+  <item_name id="4938">
+    <original xml:space="preserve">エンジェルスキン</original>
+  </item_name>
   <item_name id="4939">
     <original xml:space="preserve">ゾンビグレイブ</original>
     <translation xml:space="preserve">Zombiebane</translation>
@@ -7473,8 +8970,17 @@
     <original xml:space="preserve">タイラントスケイル</original>
     <translation xml:space="preserve">Tyrant Scale</translation>
   </item_name>
+  <item_name id="4942">
+    <original xml:space="preserve">エヴァーブレイブ</original>
+  </item_name>
   <item_name id="4943">
     <original xml:space="preserve">セイヴァーフォート</original>
+  </item_name>
+  <item_name id="4944">
+    <original xml:space="preserve">フェイタルダイアグラム</original>
+  </item_name>
+  <item_name id="4945">
+    <original xml:space="preserve">ビザンティンガード</original>
   </item_name>
   <item_name id="4958">
     <original xml:space="preserve">バルディッシュダガー</original>
@@ -7522,9 +9028,15 @@
     <original xml:space="preserve">ブリッツダガー</original>
     <translation xml:space="preserve">Blitz Daggers</translation>
   </item_name>
+  <item_name id="4971">
+    <original xml:space="preserve">トータルエングレイバー</original>
+  </item_name>
   <item_name id="4972">
     <original xml:space="preserve">クライシスアヴォイド</original>
     <translation xml:space="preserve">Crisis Avoid</translation>
+  </item_name>
+  <item_name id="4974">
+    <original xml:space="preserve">ライオンハーテッド</original>
   </item_name>
   <item_name id="4987">
     <original xml:space="preserve">クレセントワンズ</original>
@@ -7562,6 +9074,9 @@
     <original xml:space="preserve">ツイストサーペント</original>
     <translation xml:space="preserve">Twisted Serpent</translation>
   </item_name>
+  <item_name id="4996">
+    <original xml:space="preserve">グラブドハート</original>
+  </item_name>
   <item_name id="4997">
     <original xml:space="preserve">イビルアイスペシメンス</original>
   </item_name>
@@ -7573,8 +9088,68 @@
     <original xml:space="preserve">パイアスルーツ</original>
     <translation xml:space="preserve">Pious Roots</translation>
   </item_name>
+  <item_name id="5000">
+    <original xml:space="preserve">リリースオブフォーチュン</original>
+  </item_name>
   <item_name id="5001">
     <original xml:space="preserve">イデアライズ</original>
+  </item_name>
+  <item_name id="5002">
+    <original xml:space="preserve">フライトラズリーン</original>
+  </item_name>
+  <item_name id="5003">
+    <original xml:space="preserve">エキストラクター</original>
+  </item_name>
+  <item_name id="5016">
+    <original xml:space="preserve">シュルトウントズューネ</original>
+  </item_name>
+  <item_name id="5017">
+    <original xml:space="preserve">ムーンナハトシュテル</original>
+  </item_name>
+  <item_name id="5018">
+    <original xml:space="preserve">モルゲングリューエン</original>
+  </item_name>
+  <item_name id="5019">
+    <original xml:space="preserve">グルックスラッド</original>
+  </item_name>
+  <item_name id="5020">
+    <original xml:space="preserve">アスプロネライダ</original>
+  </item_name>
+  <item_name id="5021">
+    <original xml:space="preserve">ヴォルテクスフロウ</original>
+  </item_name>
+  <item_name id="5022">
+    <original xml:space="preserve">ガンボルツァイト</original>
+  </item_name>
+  <item_name id="5023">
+    <original xml:space="preserve">ツァウバークラフト</original>
+  </item_name>
+  <item_name id="5024">
+    <original xml:space="preserve">ヴァイスメルクマール</original>
+  </item_name>
+  <item_name id="5025">
+    <original xml:space="preserve">デンメルングリヒト</original>
+  </item_name>
+  <item_name id="5026">
+    <original xml:space="preserve">ミーテムサイカーシス</original>
+  </item_name>
+  <item_name id="5027">
+    <original xml:space="preserve">ケーリュケイオン</original>
+  </item_name>
+  <item_name id="5028">
+    <original xml:space="preserve">ジークシュトラーセ</original>
+  </item_name>
+  <item_name id="5029">
+    <original xml:space="preserve">クーニストラウム</original>
+  </item_name>
+  <item_name id="5030">
+    <original xml:space="preserve">レリジャスビヨンド</original>
+  </item_name>
+  <item_name id="5031">
+    <original xml:space="preserve">ゴルトイーファイ</original>
+  </item_name>
+  <item_name id="5032">
+    <original xml:space="preserve">アンフィニッシュド</original>
   </item_name>
   <item_name id="5103">
     <original xml:space="preserve">ホーンドヘルム</original>
@@ -7983,6 +9558,18 @@
     <original xml:space="preserve">ヴァイキングヘルム</original>
     <translation xml:space="preserve">Viking Helm</translation>
   </item_name>
+  <item_name id="5212">
+    <original xml:space="preserve">ギガントヘッド</original>
+  </item_name>
+  <item_name id="5213">
+    <original xml:space="preserve">ダスクヘルム</original>
+  </item_name>
+  <item_name id="5214">
+    <original xml:space="preserve">グリプスヘルム</original>
+  </item_name>
+  <item_name id="5221">
+    <original xml:space="preserve">フェンリルヘッド</original>
+  </item_name>
   <item_name id="5227">
     <original xml:space="preserve">ソレムアーマー</original>
   </item_name>
@@ -8024,6 +9611,18 @@
     <original xml:space="preserve">クルーエルアーマー</original>
     <translation xml:space="preserve">Cruel Armor</translation>
   </item_name>
+  <item_name id="5238">
+    <original xml:space="preserve">獄卒のアームドベルト</original>
+  </item_name>
+  <item_name id="5239">
+    <original xml:space="preserve">グリプスアーマー</original>
+  </item_name>
+  <item_name id="5240">
+    <original xml:space="preserve">ドーンプレート</original>
+  </item_name>
+  <item_name id="5247">
+    <original xml:space="preserve">フェンリルアーマー</original>
+  </item_name>
   <item_name id="5253">
     <original xml:space="preserve">ソレムレッグ</original>
   </item_name>
@@ -8056,6 +9655,18 @@
   </item_name>
   <item_name id="5263">
     <original xml:space="preserve">クルーエルグリーブ</original>
+  </item_name>
+  <item_name id="5264">
+    <original xml:space="preserve">獄卒のグリーブ</original>
+  </item_name>
+  <item_name id="5265">
+    <original xml:space="preserve">グリプスグリーブ</original>
+  </item_name>
+  <item_name id="5266">
+    <original xml:space="preserve">サンセットキュイス</original>
+  </item_name>
+  <item_name id="5273">
+    <original xml:space="preserve">フェンリルグリーブ</original>
   </item_name>
   <item_name id="5279">
     <original xml:space="preserve">ソレムアーム</original>
@@ -8097,6 +9708,18 @@
   <item_name id="5289">
     <original xml:space="preserve">クルーエルアーム</original>
     <translation xml:space="preserve">Cruel Arm</translation>
+  </item_name>
+  <item_name id="5290">
+    <original xml:space="preserve">ブルートガントレット</original>
+  </item_name>
+  <item_name id="5291">
+    <original xml:space="preserve">グリプスガントレット</original>
+  </item_name>
+  <item_name id="5292">
+    <original xml:space="preserve">黄昏の篭手</original>
+  </item_name>
+  <item_name id="5299">
+    <original xml:space="preserve">フェンリルガントレット</original>
   </item_name>
   <item_name id="5305">
     <original xml:space="preserve">ヘッドギア</original>
@@ -8141,6 +9764,18 @@
     <original xml:space="preserve">パイレーツキャップ</original>
     <translation xml:space="preserve">Pilot's Cap</translation>
   </item_name>
+  <item_name id="5316">
+    <original xml:space="preserve">シューターズフード</original>
+  </item_name>
+  <item_name id="5317">
+    <original xml:space="preserve">キャプチャーフード</original>
+  </item_name>
+  <item_name id="5318">
+    <original xml:space="preserve">武官のキャップ</original>
+  </item_name>
+  <item_name id="5325">
+    <original xml:space="preserve">バッカニアキャップ</original>
+  </item_name>
   <item_name id="5331">
     <original xml:space="preserve">レンジャージャケット</original>
     <translation xml:space="preserve">Ranger's Jacket</translation>
@@ -8182,6 +9817,18 @@
   <item_name id="5341">
     <original xml:space="preserve">パイレーツジャケット</original>
     <translation xml:space="preserve">Pilot's Jacket</translation>
+  </item_name>
+  <item_name id="5342">
+    <original xml:space="preserve">スケイルジャケット</original>
+  </item_name>
+  <item_name id="5343">
+    <original xml:space="preserve">レイダースジャケット</original>
+  </item_name>
+  <item_name id="5344">
+    <original xml:space="preserve">ハードスキンアーマー</original>
+  </item_name>
+  <item_name id="5351">
+    <original xml:space="preserve">バッカニアジャケット</original>
   </item_name>
   <item_name id="5357">
     <original xml:space="preserve">ホワイトサイハイ</original>
@@ -8229,6 +9876,18 @@
   <item_name id="5370">
     <original xml:space="preserve">パイレーツレッグス</original>
   </item_name>
+  <item_name id="5371">
+    <original xml:space="preserve">辺土の腰巻</original>
+  </item_name>
+  <item_name id="5372">
+    <original xml:space="preserve">レイダースグリーブ</original>
+  </item_name>
+  <item_name id="5373">
+    <original xml:space="preserve">頭目のレッグガード</original>
+  </item_name>
+  <item_name id="5380">
+    <original xml:space="preserve">バッカニアレッグス</original>
+  </item_name>
   <item_name id="5386">
     <original xml:space="preserve">コンポジットスリーブ</original>
     <translation xml:space="preserve">Assembled Sleeves</translation>
@@ -8266,6 +9925,18 @@
   <item_name id="5395">
     <original xml:space="preserve">パイレーツアーム</original>
     <translation xml:space="preserve">Pilot's Arm</translation>
+  </item_name>
+  <item_name id="5396">
+    <original xml:space="preserve">エージェントスリーブ</original>
+  </item_name>
+  <item_name id="5397">
+    <original xml:space="preserve">アサルトスパイン</original>
+  </item_name>
+  <item_name id="5398">
+    <original xml:space="preserve">頭目の手袋</original>
+  </item_name>
+  <item_name id="5405">
+    <original xml:space="preserve">バッカニアアーム</original>
   </item_name>
   <item_name id="5411">
     <original xml:space="preserve">セイクリッドフード</original>
@@ -8306,6 +9977,18 @@
   <item_name id="5421">
     <original xml:space="preserve">叡智のサークレット</original>
     <translation xml:space="preserve">Wisdom Circlet</translation>
+  </item_name>
+  <item_name id="5422">
+    <original xml:space="preserve">新月の円環</original>
+  </item_name>
+  <item_name id="5423">
+    <original xml:space="preserve">カテドラルキャップ</original>
+  </item_name>
+  <item_name id="5424">
+    <original xml:space="preserve">アデプトハット</original>
+  </item_name>
+  <item_name id="5431">
+    <original xml:space="preserve">アストニッシュギア</original>
   </item_name>
   <item_name id="5438">
     <original xml:space="preserve">セイクリッドローブ</original>
@@ -8349,6 +10032,18 @@
     <original xml:space="preserve">プレシャスローブ</original>
     <translation xml:space="preserve">Precious Robe</translation>
   </item_name>
+  <item_name id="5449">
+    <original xml:space="preserve">タイドローブ</original>
+  </item_name>
+  <item_name id="5450">
+    <original xml:space="preserve">ディバインローブ</original>
+  </item_name>
+  <item_name id="5451">
+    <original xml:space="preserve">アデプトローブ</original>
+  </item_name>
+  <item_name id="5458">
+    <original xml:space="preserve">アストニッシュローブ</original>
+  </item_name>
   <item_name id="5465">
     <original xml:space="preserve">セイクリッドグリーブ</original>
   </item_name>
@@ -8381,6 +10076,18 @@
   </item_name>
   <item_name id="5475">
     <original xml:space="preserve">プレシャスブーツ</original>
+  </item_name>
+  <item_name id="5476">
+    <original xml:space="preserve">楽土の腰布</original>
+  </item_name>
+  <item_name id="5477">
+    <original xml:space="preserve">ドミネーションブーツ</original>
+  </item_name>
+  <item_name id="5478">
+    <original xml:space="preserve">妖鬼のグリーブ</original>
+  </item_name>
+  <item_name id="5485">
+    <original xml:space="preserve">アストニッシュブーツ</original>
   </item_name>
   <item_name id="5492">
     <original xml:space="preserve">セイクリッドバングル</original>
@@ -8421,6 +10128,18 @@
   <item_name id="5502">
     <original xml:space="preserve">プレシャスバングル</original>
     <translation xml:space="preserve">Precious Bangle</translation>
+  </item_name>
+  <item_name id="5503">
+    <original xml:space="preserve">ビクトリーバングル</original>
+  </item_name>
+  <item_name id="5504">
+    <original xml:space="preserve">クランチバングル</original>
+  </item_name>
+  <item_name id="5505">
+    <original xml:space="preserve">アデプトバングル</original>
+  </item_name>
+  <item_name id="5512">
+    <original xml:space="preserve">アストニッシュアーム</original>
   </item_name>
   <item_name id="5519">
     <original xml:space="preserve">シールダーヘルム</original>
@@ -8464,6 +10183,18 @@
     <original xml:space="preserve">プリンシパルヘルム</original>
     <translation xml:space="preserve">Principal Helm</translation>
   </item_name>
+  <item_name id="5530">
+    <original xml:space="preserve">ジェネラルヘルム</original>
+  </item_name>
+  <item_name id="5531">
+    <original xml:space="preserve">トライアンフヘルム</original>
+  </item_name>
+  <item_name id="5532">
+    <original xml:space="preserve">グレーターアイズ</original>
+  </item_name>
+  <item_name id="5539">
+    <original xml:space="preserve">デュミナスヘルム</original>
+  </item_name>
   <item_name id="5545">
     <original xml:space="preserve">シールダーコート</original>
     <translation xml:space="preserve">Shielder's Coat</translation>
@@ -8506,6 +10237,18 @@
     <original xml:space="preserve">タクティシャンコート</original>
     <translation xml:space="preserve">Tactician's Coat</translation>
   </item_name>
+  <item_name id="5556">
+    <original xml:space="preserve">トルーパーズコート</original>
+  </item_name>
+  <item_name id="5557">
+    <original xml:space="preserve">トライアンフジャケット</original>
+  </item_name>
+  <item_name id="5558">
+    <original xml:space="preserve">エンフォーサーズコート</original>
+  </item_name>
+  <item_name id="5565">
+    <original xml:space="preserve">デュミナスクロス</original>
+  </item_name>
   <item_name id="5571">
     <original xml:space="preserve">シールダーレッグス</original>
   </item_name>
@@ -8538,6 +10281,18 @@
   </item_name>
   <item_name id="5582">
     <original xml:space="preserve">プリンシパルレッグス</original>
+  </item_name>
+  <item_name id="5583">
+    <original xml:space="preserve">トルーパーズレッグス</original>
+  </item_name>
+  <item_name id="5584">
+    <original xml:space="preserve">トライアンフグリーブ</original>
+  </item_name>
+  <item_name id="5585">
+    <original xml:space="preserve">バウンティブーツ</original>
+  </item_name>
+  <item_name id="5591">
+    <original xml:space="preserve">デュミナスレッグス</original>
   </item_name>
   <item_name id="5597">
     <original xml:space="preserve">シールダーアーム</original>
@@ -8573,6 +10328,18 @@
   </item_name>
   <item_name id="5607">
     <original xml:space="preserve">プリンシパルアーム</original>
+  </item_name>
+  <item_name id="5608">
+    <original xml:space="preserve">トルーパーズグラブ</original>
+  </item_name>
+  <item_name id="5609">
+    <original xml:space="preserve">トライアンフアーム</original>
+  </item_name>
+  <item_name id="5610">
+    <original xml:space="preserve">グルエルナックル</original>
+  </item_name>
+  <item_name id="5617">
+    <original xml:space="preserve">デュミナスアーム</original>
   </item_name>
   <item_name id="5622">
     <original xml:space="preserve">ブラウンタイド</original>
@@ -8722,6 +10489,12 @@
     <original xml:space="preserve">貴婦人のコルセット</original>
     <translation xml:space="preserve">Noblewoman's Corset</translation>
   </item_name>
+  <item_name id="5668">
+    <original xml:space="preserve">シルクブリオー</original>
+  </item_name>
+  <item_name id="5669">
+    <original xml:space="preserve">エンダウドベスト</original>
+  </item_name>
   <item_name id="5676">
     <original xml:space="preserve">シルキーバルジング</original>
   </item_name>
@@ -8753,6 +10526,9 @@
   </item_name>
   <item_name id="5685">
     <original xml:space="preserve">ネイチャーパンツ</original>
+  </item_name>
+  <item_name id="5686">
+    <original xml:space="preserve">ヴィラルパンツ</original>
   </item_name>
   <item_name id="5690">
     <original xml:space="preserve">ファーマシーマント</original>
@@ -8793,6 +10569,12 @@
   <item_name id="5701">
     <original xml:space="preserve">騎士団員のクローク</original>
   </item_name>
+  <item_name id="5702">
+    <original xml:space="preserve">オーダーケープ</original>
+  </item_name>
+  <item_name id="5703">
+    <original xml:space="preserve">調停者のマント</original>
+  </item_name>
   <item_name id="5706">
     <original xml:space="preserve">ベネフィットウェアR</original>
     <translation xml:space="preserve">Benefit Wear R</translation>
@@ -8811,6 +10593,9 @@
   <item_name id="7542">
     <original xml:space="preserve">衣装：イリス</original>
     <translation xml:space="preserve">Outfit: イリス</translation>
+  </item_name>
+  <item_name id="7543">
+    <original xml:space="preserve">衣装：イリス-フード付ON</original>
   </item_name>
   <item_name id="7545">
     <original xml:space="preserve">衣装：ヴァネッサ</original>
@@ -8837,6 +10622,9 @@
   </item_name>
   <item_name id="7553">
     <original xml:space="preserve">癒しの妙薬・上</original>
+  </item_name>
+  <item_name id="7554">
+    <original xml:space="preserve">癒しの特撰薬</original>
   </item_name>
   <item_name id="7559">
     <original xml:space="preserve">砦への補給物資</original>
@@ -8868,6 +10656,9 @@
     <original xml:space="preserve">大猿の厚皮</original>
     <translation xml:space="preserve">Large Simian Thick Pelt</translation>
   </item_name>
+  <item_name id="7734">
+    <original xml:space="preserve">ブロブの溶肉</original>
+  </item_name>
   <item_name id="7735">
     <original xml:space="preserve">亡者の腐肉</original>
     <translation xml:space="preserve">Undead Carrion</translation>
@@ -8884,9 +10675,18 @@
     <original xml:space="preserve">リザードの上質な尾</original>
     <translation xml:space="preserve">High Quality Saurian Tail</translation>
   </item_name>
+  <item_name id="7739">
+    <original xml:space="preserve">白獅子の毛皮</original>
+  </item_name>
   <item_name id="7740">
     <original xml:space="preserve">巨大な眼球</original>
     <translation xml:space="preserve">Large Eyeball</translation>
+  </item_name>
+  <item_name id="7741">
+    <original xml:space="preserve">不吉な死肉</original>
+  </item_name>
+  <item_name id="7745">
+    <original xml:space="preserve">コカトリスの毒腺</original>
   </item_name>
   <item_name id="7747">
     <original xml:space="preserve">スフィンクスの爪</original>
@@ -8900,13 +10700,15 @@
     <original xml:space="preserve">小さな角</original>
     <translation xml:space="preserve">Small Horn</translation>
   </item_name>
+  <item_name id="7751">
+    <original xml:space="preserve">屍食鬼の角</original>
+  </item_name>
   <item_name id="7752">
     <original xml:space="preserve">ゴブリンの角</original>
     <translation xml:space="preserve">Goblin Horn</translation>
   </item_name>
-  <item_name id="7755">
-    <original xml:space="preserve">竜の大角</original>
-    <translation xml:space="preserve">Great Dragon Horn</translation>
+  <item_name id="7756">
+    <original xml:space="preserve">アングルスホーン</original>
   </item_name>
   <item_name id="7758">
     <original xml:space="preserve">グリフィンのクチバシ</original>
@@ -8952,6 +10754,9 @@
     <original xml:space="preserve">黒ドクロ</original>
     <translation xml:space="preserve">Black Skull</translation>
   </item_name>
+  <item_name id="7770">
+    <original xml:space="preserve">太い硬骨</original>
+  </item_name>
   <item_name id="7771">
     <original xml:space="preserve">巨大な硬骨</original>
     <translation xml:space="preserve">Giant Bone</translation>
@@ -8982,6 +10787,12 @@
   <item_name id="7779">
     <original xml:space="preserve">魔獣のタテガミ</original>
     <translation xml:space="preserve">Beast's Mane</translation>
+  </item_name>
+  <item_name id="7780">
+    <original xml:space="preserve">純白のタテガミ</original>
+  </item_name>
+  <item_name id="7782">
+    <original xml:space="preserve">銀色の剛毛</original>
   </item_name>
   <item_name id="7783">
     <original xml:space="preserve">ハーピーの風切り羽根</original>
@@ -9043,6 +10854,9 @@
     <original xml:space="preserve">小さな牙</original>
     <translation xml:space="preserve">Small Fang</translation>
   </item_name>
+  <item_name id="7799">
+    <original xml:space="preserve">ベヘモットファング</original>
+  </item_name>
   <item_name id="7801">
     <original xml:space="preserve">魔獣の爪</original>
     <translation xml:space="preserve">Beast Claw</translation>
@@ -9054,9 +10868,6 @@
   <item_name id="7804">
     <original xml:space="preserve">魔力を帯びた骨</original>
     <translation xml:space="preserve">Magick-Tinged Bone</translation>
-  </item_name>
-  <item_name id="7805">
-    <original xml:space="preserve">竜骨の大棘</original>
   </item_name>
   <item_name id="7807">
     <original xml:space="preserve">変異した獣骨塊</original>
@@ -9090,6 +10901,9 @@
     <original xml:space="preserve">スフィンクスの瑠璃羽根</original>
     <translation xml:space="preserve">Sphinx Azure Pinion</translation>
   </item_name>
+  <item_name id="7816">
+    <original xml:space="preserve">コカトリスの烏羽根</original>
+  </item_name>
   <item_name id="7820">
     <original xml:space="preserve">リンドブルムフィン</original>
     <translation xml:space="preserve">Lindwurm Fin</translation>
@@ -9120,6 +10934,12 @@
     <original xml:space="preserve">エナジーリキッド</original>
     <translation xml:space="preserve">Energy Liquid</translation>
   </item_name>
+  <item_name id="7831">
+    <original xml:space="preserve">祝福の雫</original>
+  </item_name>
+  <item_name id="7832">
+    <original xml:space="preserve">魔の水薬</original>
+  </item_name>
   <item_name id="7834">
     <original xml:space="preserve">スライムリキッド</original>
     <translation xml:space="preserve">Slime Liquid</translation>
@@ -9144,6 +10964,9 @@
   <item_name id="7841">
     <original xml:space="preserve">ブラックタール</original>
     <translation xml:space="preserve">Black Tar</translation>
+  </item_name>
+  <item_name id="7842">
+    <original xml:space="preserve">コカトリスの羊水</original>
   </item_name>
   <item_name id="7843">
     <original xml:space="preserve">粗砂</original>
@@ -9177,6 +11000,9 @@
     <original xml:space="preserve">白輝砂</original>
     <translation xml:space="preserve">White Shining Sand</translation>
   </item_name>
+  <item_name id="7852">
+    <original xml:space="preserve">サンドクリスタル</original>
+  </item_name>
   <item_name id="7853">
     <original xml:space="preserve">鉄鉱石の欠片</original>
     <translation xml:space="preserve">Iron Ore Shard</translation>
@@ -9201,9 +11027,15 @@
     <original xml:space="preserve">青銅鉱</original>
     <translation xml:space="preserve">Bronze Ore</translation>
   </item_name>
+  <item_name id="7859">
+    <original xml:space="preserve">金鉱石</original>
+  </item_name>
   <item_name id="7861">
     <original xml:space="preserve">赤鋼石</original>
     <translation xml:space="preserve">Hematite</translation>
+  </item_name>
+  <item_name id="7862">
+    <original xml:space="preserve">ミスリル鉱</original>
   </item_name>
   <item_name id="7863">
     <original xml:space="preserve">錬成鉱石</original>
@@ -9253,9 +11085,15 @@
     <original xml:space="preserve">青銅のインゴット</original>
     <translation xml:space="preserve">Bronze Ingot</translation>
   </item_name>
+  <item_name id="7877">
+    <original xml:space="preserve">金のインゴット</original>
+  </item_name>
   <item_name id="7879">
     <original xml:space="preserve">レッドクロム</original>
     <translation xml:space="preserve">Red Chromium</translation>
+  </item_name>
+  <item_name id="7880">
+    <original xml:space="preserve">ミスリルインゴット</original>
   </item_name>
   <item_name id="7881">
     <original xml:space="preserve">錬成プレート片</original>
@@ -9297,6 +11135,9 @@
     <original xml:space="preserve">アメジスト</original>
     <translation xml:space="preserve">Amethyst</translation>
   </item_name>
+  <item_name id="7898">
+    <original xml:space="preserve">エメラルド</original>
+  </item_name>
   <item_name id="7899">
     <original xml:space="preserve">サファイア</original>
     <translation xml:space="preserve">Sapphire</translation>
@@ -9324,6 +11165,9 @@
   <item_name id="7907">
     <original xml:space="preserve">スピネル</original>
     <translation xml:space="preserve">Spinel</translation>
+  </item_name>
+  <item_name id="7910">
+    <original xml:space="preserve">ピジョンブラッド</original>
   </item_name>
   <item_name id="7912">
     <original xml:space="preserve">ミストジェム</original>
@@ -9353,6 +11197,9 @@
     <original xml:space="preserve">すべすべ革</original>
     <translation xml:space="preserve">Smooth Leather</translation>
   </item_name>
+  <item_name id="7923">
+    <original xml:space="preserve">魔獣の革</original>
+  </item_name>
   <item_name id="7924">
     <original xml:space="preserve">ゴツゴツした革</original>
     <translation xml:space="preserve">Rugged Leather</translation>
@@ -9361,12 +11208,18 @@
     <original xml:space="preserve">巨人の剛皮</original>
     <translation xml:space="preserve">Giant Tough Pelt</translation>
   </item_name>
-  <item_name id="7926">
-    <original xml:space="preserve">重厚な竜革</original>
+  <item_name id="7927">
+    <original xml:space="preserve">なめらかな竜革</original>
   </item_name>
   <item_name id="7928">
     <original xml:space="preserve">竜革</original>
     <translation xml:space="preserve">Dragon Hide</translation>
+  </item_name>
+  <item_name id="7929">
+    <original xml:space="preserve">分厚い竜鱗</original>
+  </item_name>
+  <item_name id="7932">
+    <original xml:space="preserve">青灰色の竜鱗</original>
   </item_name>
   <item_name id="7934">
     <original xml:space="preserve">平布</original>
@@ -9400,6 +11253,9 @@
     <original xml:space="preserve">ドラゴンレザー</original>
     <translation xml:space="preserve">Dragonleather</translation>
   </item_name>
+  <item_name id="7942">
+    <original xml:space="preserve">耐撃強化布</original>
+  </item_name>
   <item_name id="7944">
     <original xml:space="preserve">亡者の衣</original>
     <translation xml:space="preserve">Burial Shroud</translation>
@@ -9411,6 +11267,12 @@
   <item_name id="7946">
     <original xml:space="preserve">血染めの赤布</original>
     <translation xml:space="preserve">Bloodstained Red Cloth</translation>
+  </item_name>
+  <item_name id="7947">
+    <original xml:space="preserve">不吉の黒布</original>
+  </item_name>
+  <item_name id="7948">
+    <original xml:space="preserve">カースドクロス</original>
   </item_name>
   <item_name id="7951">
     <original xml:space="preserve">細糸</original>
@@ -9439,6 +11301,9 @@
   <item_name id="7957">
     <original xml:space="preserve">魔封糸</original>
     <translation xml:space="preserve">Demon Thread</translation>
+  </item_name>
+  <item_name id="7958">
+    <original xml:space="preserve">ドローミ</original>
   </item_name>
   <item_name id="7960">
     <original xml:space="preserve">クモ糸</original>
@@ -9480,6 +11345,9 @@
     <original xml:space="preserve">セコイア材</original>
     <translation xml:space="preserve">Sequoia Wood</translation>
   </item_name>
+  <item_name id="7970">
+    <original xml:space="preserve">ブラックウッド</original>
+  </item_name>
   <item_name id="7971">
     <original xml:space="preserve">エントの枝</original>
     <translation xml:space="preserve">Ent Branch</translation>
@@ -9487,6 +11355,9 @@
   <item_name id="7972">
     <original xml:space="preserve">良質加工木材</original>
     <translation xml:space="preserve">High Quality Wood</translation>
+  </item_name>
+  <item_name id="7973">
+    <original xml:space="preserve">グランエントの大枝</original>
   </item_name>
   <item_name id="7974">
     <original xml:space="preserve">ベビーハーブ</original>
@@ -9528,13 +11399,22 @@
     <original xml:space="preserve">キングローリエ</original>
     <translation xml:space="preserve">King Bay Leaf</translation>
   </item_name>
+  <item_name id="7984">
+    <original xml:space="preserve">ディナンヒソップ</original>
+  </item_name>
   <item_name id="7985">
     <original xml:space="preserve">ゴブリンズリーフ</original>
     <translation xml:space="preserve">Goblin's Leaf</translation>
   </item_name>
+  <item_name id="7986">
+    <original xml:space="preserve">ゴブリンズフラワー</original>
+  </item_name>
   <item_name id="7987">
     <original xml:space="preserve">エントの葉</original>
     <translation xml:space="preserve">Ent Leaf</translation>
+  </item_name>
+  <item_name id="7988">
+    <original xml:space="preserve">エントの大緑葉</original>
   </item_name>
   <item_name id="7989">
     <original xml:space="preserve">小さな木の実</original>
@@ -9572,8 +11452,14 @@
     <original xml:space="preserve">ツキヨタケ</original>
     <translation xml:space="preserve">Moonlight Mushroom</translation>
   </item_name>
+  <item_name id="7999">
+    <original xml:space="preserve">パールマッシュルーム</original>
+  </item_name>
   <item_name id="8000">
     <original xml:space="preserve">トロールの毒苔</original>
+  </item_name>
+  <item_name id="8001">
+    <original xml:space="preserve">トロールの青毒苔</original>
   </item_name>
   <item_name id="8002">
     <original xml:space="preserve">白紙のスクロール</original>
@@ -9637,6 +11523,9 @@
   </item_name>
   <item_name id="8019">
     <original xml:space="preserve">折れた短剣</original>
+  </item_name>
+  <item_name id="8020">
+    <original xml:space="preserve">オークの飾り金具</original>
   </item_name>
   <item_name id="8024">
     <original xml:space="preserve">錆びた板金</original>
@@ -10607,6 +12496,21 @@
   <item_name id="8522">
     <original xml:space="preserve">アウトローマスク</original>
   </item_name>
+  <item_name id="8523">
+    <original xml:space="preserve">ベルセルカ</original>
+  </item_name>
+  <item_name id="8524">
+    <original xml:space="preserve">ベルセルカ</original>
+  </item_name>
+  <item_name id="8525">
+    <original xml:space="preserve">ベルセルカ</original>
+  </item_name>
+  <item_name id="8526">
+    <original xml:space="preserve">ベルセルカ</original>
+  </item_name>
+  <item_name id="8527">
+    <original xml:space="preserve">ベルセルカ</original>
+  </item_name>
   <item_name id="8528">
     <original xml:space="preserve">ビクトリーハイブーツ</original>
   </item_name>
@@ -10922,6 +12826,51 @@
   <item_name id="8612">
     <original xml:space="preserve">ノワールギャンベソン</original>
   </item_name>
+  <item_name id="8613">
+    <original xml:space="preserve">ヴァルゴキャミソール</original>
+  </item_name>
+  <item_name id="8614">
+    <original xml:space="preserve">ヴァルゴキャミソール</original>
+  </item_name>
+  <item_name id="8615">
+    <original xml:space="preserve">ヴァルゴキャミソール</original>
+  </item_name>
+  <item_name id="8616">
+    <original xml:space="preserve">ヴァルゴキャミソール</original>
+  </item_name>
+  <item_name id="8617">
+    <original xml:space="preserve">ヴァルゴキャミソール</original>
+  </item_name>
+  <item_name id="8618">
+    <original xml:space="preserve">コートオブプレート</original>
+  </item_name>
+  <item_name id="8619">
+    <original xml:space="preserve">コートオブプレート</original>
+  </item_name>
+  <item_name id="8620">
+    <original xml:space="preserve">コートオブプレート</original>
+  </item_name>
+  <item_name id="8621">
+    <original xml:space="preserve">コートオブプレート</original>
+  </item_name>
+  <item_name id="8622">
+    <original xml:space="preserve">コートオブプレート</original>
+  </item_name>
+  <item_name id="8623">
+    <original xml:space="preserve">白陽のスケイル</original>
+  </item_name>
+  <item_name id="8624">
+    <original xml:space="preserve">白陽のスケイル</original>
+  </item_name>
+  <item_name id="8625">
+    <original xml:space="preserve">白陽のスケイル</original>
+  </item_name>
+  <item_name id="8626">
+    <original xml:space="preserve">白陽のスケイル</original>
+  </item_name>
+  <item_name id="8627">
+    <original xml:space="preserve">白陽のスケイル</original>
+  </item_name>
   <item_name id="8628">
     <original xml:space="preserve">ステディベスト</original>
     <translation xml:space="preserve">Steady Vest</translation>
@@ -11196,6 +13145,66 @@
   </item_name>
   <item_name id="8737">
     <original xml:space="preserve">セントリータイツ</original>
+  </item_name>
+  <item_name id="8738">
+    <original xml:space="preserve">ジャングルパンツ</original>
+  </item_name>
+  <item_name id="8739">
+    <original xml:space="preserve">ジャングルパンツ</original>
+  </item_name>
+  <item_name id="8740">
+    <original xml:space="preserve">ジャングルパンツ</original>
+  </item_name>
+  <item_name id="8741">
+    <original xml:space="preserve">ジャングルパンツ</original>
+  </item_name>
+  <item_name id="8742">
+    <original xml:space="preserve">ジャングルパンツ</original>
+  </item_name>
+  <item_name id="8743">
+    <original xml:space="preserve">リベルバンデッド</original>
+  </item_name>
+  <item_name id="8744">
+    <original xml:space="preserve">リベルバンデッド</original>
+  </item_name>
+  <item_name id="8745">
+    <original xml:space="preserve">リベルバンデッド</original>
+  </item_name>
+  <item_name id="8746">
+    <original xml:space="preserve">リベルバンデッド</original>
+  </item_name>
+  <item_name id="8747">
+    <original xml:space="preserve">リベルバンデッド</original>
+  </item_name>
+  <item_name id="8748">
+    <original xml:space="preserve">ヴァイスホーズ</original>
+  </item_name>
+  <item_name id="8749">
+    <original xml:space="preserve">ヴァイスホーズ</original>
+  </item_name>
+  <item_name id="8750">
+    <original xml:space="preserve">ヴァイスホーズ</original>
+  </item_name>
+  <item_name id="8751">
+    <original xml:space="preserve">ヴァイスホーズ</original>
+  </item_name>
+  <item_name id="8752">
+    <original xml:space="preserve">ヴァイスホーズ</original>
+  </item_name>
+  <item_name id="8753">
+    <original xml:space="preserve">タスクブレイカー</original>
+  </item_name>
+  <item_name id="8754">
+    <original xml:space="preserve">タスクブレイカー</original>
+  </item_name>
+  <item_name id="8755">
+    <original xml:space="preserve">タスクブレイカー</original>
+  </item_name>
+  <item_name id="8756">
+    <original xml:space="preserve">タスクブレイカー</original>
+  </item_name>
+  <item_name id="8757">
+    <original xml:space="preserve">タスクブレイカー</original>
   </item_name>
   <item_name id="8783">
     <original xml:space="preserve">ショルダーケープ</original>
@@ -11537,6 +13546,36 @@
   <item_name id="8872">
     <original xml:space="preserve">歌姫のクローク</original>
   </item_name>
+  <item_name id="8873">
+    <original xml:space="preserve">ディープフォレストマント</original>
+  </item_name>
+  <item_name id="8874">
+    <original xml:space="preserve">ディープフォレストマント</original>
+  </item_name>
+  <item_name id="8875">
+    <original xml:space="preserve">ディープフォレストマント</original>
+  </item_name>
+  <item_name id="8876">
+    <original xml:space="preserve">ディープフォレストマント</original>
+  </item_name>
+  <item_name id="8877">
+    <original xml:space="preserve">ディープフォレストマント</original>
+  </item_name>
+  <item_name id="8878">
+    <original xml:space="preserve">ラプターマント</original>
+  </item_name>
+  <item_name id="8879">
+    <original xml:space="preserve">ラプターマント</original>
+  </item_name>
+  <item_name id="8880">
+    <original xml:space="preserve">ラプターマント</original>
+  </item_name>
+  <item_name id="8881">
+    <original xml:space="preserve">ラプターマント</original>
+  </item_name>
+  <item_name id="8882">
+    <original xml:space="preserve">ラプターマント</original>
+  </item_name>
   <item_name id="8928">
     <original xml:space="preserve">緑草の指輪</original>
   </item_name>
@@ -11724,6 +13763,9 @@
     <original xml:space="preserve">ツインジェムピアス</original>
     <translation xml:space="preserve">Twin Gem Earrings</translation>
   </item_name>
+  <item_name id="8985">
+    <original xml:space="preserve">ロイヤルフェザーピアス</original>
+  </item_name>
   <item_name id="8986">
     <original xml:space="preserve">シェルビーズピアス</original>
     <translation xml:space="preserve">Shell Bead Earrings</translation>
@@ -11786,9 +13828,39 @@
   <item_name id="9007">
     <original xml:space="preserve">ワンダラーリストリング</original>
   </item_name>
+  <item_name id="9009">
+    <original xml:space="preserve">華精の指輪</original>
+  </item_name>
+  <item_name id="9010">
+    <original xml:space="preserve">魔獣革のブレスレット</original>
+  </item_name>
   <item_name id="9013">
     <original xml:space="preserve">ミスティフェザーピアス</original>
     <translation xml:space="preserve">Misty Feather Earrings</translation>
+  </item_name>
+  <item_name id="9015">
+    <original xml:space="preserve">魔石のチェーン</original>
+  </item_name>
+  <item_name id="9016">
+    <original xml:space="preserve">エレメントチェーン</original>
+  </item_name>
+  <item_name id="9017">
+    <original xml:space="preserve">樹印のリング</original>
+  </item_name>
+  <item_name id="9019">
+    <original xml:space="preserve">砦守のリング</original>
+  </item_name>
+  <item_name id="9020">
+    <original xml:space="preserve">賢者のリング</original>
+  </item_name>
+  <item_name id="9021">
+    <original xml:space="preserve">気発のイヤリング</original>
+  </item_name>
+  <item_name id="9022">
+    <original xml:space="preserve">敏速のイヤリング</original>
+  </item_name>
+  <item_name id="9023">
+    <original xml:space="preserve">解印のイヤリング</original>
   </item_name>
   <item_name id="9049">
     <original xml:space="preserve">白衛騎士団の盾</original>
@@ -12238,14 +14310,23 @@
     <original xml:space="preserve">双力のクレスト</original>
     <translation xml:space="preserve">Biforce Crest</translation>
   </item_name>
+  <item_name id="9197">
+    <original xml:space="preserve">蛮力のクレスト</original>
+  </item_name>
   <item_name id="9199">
     <original xml:space="preserve">魔のクレスト</original>
   </item_name>
   <item_name id="9200">
     <original xml:space="preserve">双魔のクレスト</original>
   </item_name>
+  <item_name id="9201">
+    <original xml:space="preserve">昇魔のクレスト</original>
+  </item_name>
   <item_name id="9203">
     <original xml:space="preserve">強撃のクレスト</original>
+  </item_name>
+  <item_name id="9204">
+    <original xml:space="preserve">衝撃のクレスト</original>
   </item_name>
   <item_name id="9205">
     <original xml:space="preserve">卒倒のクレスト</original>
@@ -12318,6 +14399,9 @@
   <item_name id="9229">
     <original xml:space="preserve">造魔破壊のクレスト</original>
   </item_name>
+  <item_name id="9230">
+    <original xml:space="preserve">造魔破壊のクレスト2</original>
+  </item_name>
   <item_name id="9231">
     <original xml:space="preserve">人間斃しのクレスト</original>
   </item_name>
@@ -12378,6 +14462,9 @@
   <item_name id="9252">
     <original xml:space="preserve">脆弱のクレスト</original>
   </item_name>
+  <item_name id="9253">
+    <original xml:space="preserve">石化のクレスト</original>
+  </item_name>
   <item_name id="9257">
     <original xml:space="preserve">延焼のクレスト</original>
   </item_name>
@@ -12399,8 +14486,14 @@
   <item_name id="9263">
     <original xml:space="preserve">聖吸のクレスト</original>
   </item_name>
+  <item_name id="9264">
+    <original xml:space="preserve">白聖吸のクレスト</original>
+  </item_name>
   <item_name id="9265">
     <original xml:space="preserve">闇霧のクレスト</original>
+  </item_name>
+  <item_name id="9266">
+    <original xml:space="preserve">黒闇霧のクレスト</original>
   </item_name>
   <item_name id="9267">
     <original xml:space="preserve">炎防低下のクレスト</original>
@@ -12423,8 +14516,14 @@
   <item_name id="9273">
     <original xml:space="preserve">聖防低下のクレスト</original>
   </item_name>
+  <item_name id="9274">
+    <original xml:space="preserve">聖防激減のクレスト</original>
+  </item_name>
   <item_name id="9275">
     <original xml:space="preserve">闇防低下のクレスト</original>
+  </item_name>
+  <item_name id="9276">
+    <original xml:space="preserve">闇防激減のクレスト</original>
   </item_name>
   <item_name id="9277">
     <original xml:space="preserve">物攻低下のクレスト</original>
@@ -12463,11 +14562,17 @@
   <item_name id="9288">
     <original xml:space="preserve">防守のクレスト</original>
   </item_name>
+  <item_name id="9289">
+    <original xml:space="preserve">堅守のクレスト</original>
+  </item_name>
   <item_name id="9291">
     <original xml:space="preserve">智のクレスト</original>
   </item_name>
   <item_name id="9292">
     <original xml:space="preserve">良智のクレスト</original>
+  </item_name>
+  <item_name id="9293">
+    <original xml:space="preserve">秀智のクレスト</original>
   </item_name>
   <item_name id="9295">
     <original xml:space="preserve">忍耐のクレスト</original>
@@ -12523,17 +14628,32 @@
   <item_name id="9314">
     <original xml:space="preserve">防延焼のクレスト</original>
   </item_name>
+  <item_name id="9315">
+    <original xml:space="preserve">強防延焼のクレスト</original>
+  </item_name>
   <item_name id="9317">
     <original xml:space="preserve">防凍結のクレスト</original>
+  </item_name>
+  <item_name id="9318">
+    <original xml:space="preserve">強防凍結のクレスト</original>
   </item_name>
   <item_name id="9320">
     <original xml:space="preserve">防感電のクレスト</original>
   </item_name>
+  <item_name id="9321">
+    <original xml:space="preserve">強防感電のクレスト</original>
+  </item_name>
   <item_name id="9323">
     <original xml:space="preserve">防聖吸のクレスト</original>
   </item_name>
+  <item_name id="9324">
+    <original xml:space="preserve">強防聖吸のクレスト</original>
+  </item_name>
   <item_name id="9326">
     <original xml:space="preserve">防闇霧のクレスト</original>
+  </item_name>
+  <item_name id="9327">
+    <original xml:space="preserve">強防闇霧のクレスト</original>
   </item_name>
   <item_name id="9329">
     <original xml:space="preserve">抗毒のクレスト</original>
@@ -12571,11 +14691,47 @@
   <item_name id="9340">
     <original xml:space="preserve">絶油のクレスト</original>
   </item_name>
+  <item_name id="9341">
+    <original xml:space="preserve">抗封のクレスト</original>
+  </item_name>
   <item_name id="9345">
     <original xml:space="preserve">抗弱のクレスト</original>
   </item_name>
   <item_name id="9346">
     <original xml:space="preserve">絶弱のクレスト</original>
+  </item_name>
+  <item_name id="9347">
+    <original xml:space="preserve">抗石のクレスト</original>
+  </item_name>
+  <item_name id="9351">
+    <original xml:space="preserve">サーヴァントフェイト</original>
+  </item_name>
+  <item_name id="9352">
+    <original xml:space="preserve">サーヴァントフェイト</original>
+  </item_name>
+  <item_name id="9353">
+    <original xml:space="preserve">サーヴァントフェイト</original>
+  </item_name>
+  <item_name id="9354">
+    <original xml:space="preserve">サーヴァントフェイト</original>
+  </item_name>
+  <item_name id="9355">
+    <original xml:space="preserve">サーヴァントフェイト</original>
+  </item_name>
+  <item_name id="9356">
+    <original xml:space="preserve">ディープクリムゾン</original>
+  </item_name>
+  <item_name id="9357">
+    <original xml:space="preserve">ディープクリムゾン</original>
+  </item_name>
+  <item_name id="9358">
+    <original xml:space="preserve">ディープクリムゾン</original>
+  </item_name>
+  <item_name id="9359">
+    <original xml:space="preserve">ディープクリムゾン</original>
+  </item_name>
+  <item_name id="9360">
+    <original xml:space="preserve">ディープクリムゾン</original>
   </item_name>
   <item_name id="9361">
     <original xml:space="preserve">高級ガラエキス</original>
@@ -12584,6 +14740,9 @@
   <item_name id="9362">
     <original xml:space="preserve">高級ガラエキス・上</original>
     <translation xml:space="preserve">Superior Elite Gala Extract</translation>
+  </item_name>
+  <item_name id="9363">
+    <original xml:space="preserve">濃厚ガラエキス</original>
   </item_name>
   <item_name id="9365">
     <original xml:space="preserve">迅速薬</original>
@@ -12794,9 +14953,21 @@
     <original xml:space="preserve">盗賊の小鍵</original>
     <translation xml:space="preserve">Small Thief's Key</translation>
   </item_name>
+  <item_name id="9431">
+    <original xml:space="preserve">衣装：イリス-フード付OFF</original>
+  </item_name>
   <item_name id="9432">
     <original xml:space="preserve">衣装：キースヒルトOFF</original>
     <translation xml:space="preserve">Outfit: キースヒルトOFF</translation>
+  </item_name>
+  <item_name id="9458">
+    <original xml:space="preserve">レスタニアグラス</original>
+  </item_name>
+  <item_name id="9459">
+    <original xml:space="preserve">レスタニアアンバー</original>
+  </item_name>
+  <item_name id="9460">
+    <original xml:space="preserve">レスタニアクォーツ</original>
   </item_name>
   <item_name id="9464">
     <original xml:space="preserve">衣装：キースヒルト武器OFF</original>
@@ -12812,6 +14983,9 @@
   </item_name>
   <item_name id="9467">
     <original xml:space="preserve">匠のランタン</original>
+  </item_name>
+  <item_name id="9468">
+    <original xml:space="preserve">衣装：イリス-フード付OFF負傷</original>
   </item_name>
   <item_name id="9469">
     <original xml:space="preserve">術士_男女_1-1</original>
@@ -13110,6 +15284,21 @@
   <item_name id="9578">
     <original xml:space="preserve">エンジェルサークレット</original>
   </item_name>
+  <item_name id="9579">
+    <original xml:space="preserve">ドミニオンズシール</original>
+  </item_name>
+  <item_name id="9580">
+    <original xml:space="preserve">ドミニオンズシール</original>
+  </item_name>
+  <item_name id="9581">
+    <original xml:space="preserve">ドミニオンズシール</original>
+  </item_name>
+  <item_name id="9582">
+    <original xml:space="preserve">ドミニオンズシール</original>
+  </item_name>
+  <item_name id="9583">
+    <original xml:space="preserve">ドミニオンズシール</original>
+  </item_name>
   <item_name id="9584">
     <original xml:space="preserve">エンブレムベルト</original>
     <translation xml:space="preserve">Emblem Belt</translation>
@@ -13335,6 +15524,21 @@
     <original xml:space="preserve">ジャスティスホルダー</original>
     <translation xml:space="preserve">Justice Holder</translation>
   </item_name>
+  <item_name id="9644">
+    <original xml:space="preserve">暁のドレープ</original>
+  </item_name>
+  <item_name id="9645">
+    <original xml:space="preserve">暁のドレープ</original>
+  </item_name>
+  <item_name id="9646">
+    <original xml:space="preserve">暁のドレープ</original>
+  </item_name>
+  <item_name id="9647">
+    <original xml:space="preserve">暁のドレープ</original>
+  </item_name>
+  <item_name id="9648">
+    <original xml:space="preserve">暁のドレープ</original>
+  </item_name>
   <item_name id="9649">
     <original xml:space="preserve">グリードグラブ</original>
   </item_name>
@@ -13394,6 +15598,21 @@
   </item_name>
   <item_name id="9668">
     <original xml:space="preserve">シャイニーハンズ</original>
+  </item_name>
+  <item_name id="9669">
+    <original xml:space="preserve">レイジンググラブ</original>
+  </item_name>
+  <item_name id="9670">
+    <original xml:space="preserve">レイジンググラブ</original>
+  </item_name>
+  <item_name id="9671">
+    <original xml:space="preserve">レイジンググラブ</original>
+  </item_name>
+  <item_name id="9672">
+    <original xml:space="preserve">レイジンググラブ</original>
+  </item_name>
+  <item_name id="9673">
+    <original xml:space="preserve">レイジンググラブ</original>
   </item_name>
   <item_name id="9674">
     <original xml:space="preserve">ベネフィットホーズR</original>
@@ -13545,6 +15764,21 @@
   <item_name id="9723">
     <original xml:space="preserve">カテドラルボトム</original>
   </item_name>
+  <item_name id="9724">
+    <original xml:space="preserve">ラインオブエレガンス</original>
+  </item_name>
+  <item_name id="9725">
+    <original xml:space="preserve">ラインオブエレガンス</original>
+  </item_name>
+  <item_name id="9726">
+    <original xml:space="preserve">ラインオブエレガンス</original>
+  </item_name>
+  <item_name id="9727">
+    <original xml:space="preserve">ラインオブエレガンス</original>
+  </item_name>
+  <item_name id="9728">
+    <original xml:space="preserve">ラインオブエレガンス</original>
+  </item_name>
   <item_name id="9739">
     <original xml:space="preserve">ウィンドクローク</original>
     <translation xml:space="preserve">Wind Cloak</translation>
@@ -13644,6 +15878,21 @@
   </item_name>
   <item_name id="9768">
     <original xml:space="preserve">オフィサーマント</original>
+  </item_name>
+  <item_name id="9769">
+    <original xml:space="preserve">ヘビースポウダー</original>
+  </item_name>
+  <item_name id="9770">
+    <original xml:space="preserve">ヘビースポウダー</original>
+  </item_name>
+  <item_name id="9771">
+    <original xml:space="preserve">ヘビースポウダー</original>
+  </item_name>
+  <item_name id="9772">
+    <original xml:space="preserve">ヘビースポウダー</original>
+  </item_name>
+  <item_name id="9773">
+    <original xml:space="preserve">ヘビースポウダー</original>
   </item_name>
   <item_name id="9774">
     <original xml:space="preserve">貴族_男_1-1</original>
@@ -14162,6 +16411,21 @@
   <item_name id="9952">
     <original xml:space="preserve">ラストラスシールド</original>
   </item_name>
+  <item_name id="9953">
+    <original xml:space="preserve">光の紋章の盾</original>
+  </item_name>
+  <item_name id="9954">
+    <original xml:space="preserve">光の紋章の盾</original>
+  </item_name>
+  <item_name id="9955">
+    <original xml:space="preserve">光の紋章の盾</original>
+  </item_name>
+  <item_name id="9956">
+    <original xml:space="preserve">光の紋章の盾</original>
+  </item_name>
+  <item_name id="9957">
+    <original xml:space="preserve">光の紋章の盾</original>
+  </item_name>
   <item_name id="9963">
     <original xml:space="preserve">サンクションロッド</original>
     <translation xml:space="preserve">Sanction Shield</translation>
@@ -14241,6 +16505,21 @@
   <item_name id="9982">
     <original xml:space="preserve">シュペルノヴァ</original>
     <translation xml:space="preserve">Super Nova</translation>
+  </item_name>
+  <item_name id="9983">
+    <original xml:space="preserve">ヴァーチェスオーロラ</original>
+  </item_name>
+  <item_name id="9984">
+    <original xml:space="preserve">ヴァーチェスオーロラ</original>
+  </item_name>
+  <item_name id="9985">
+    <original xml:space="preserve">ヴァーチェスオーロラ</original>
+  </item_name>
+  <item_name id="9986">
+    <original xml:space="preserve">ヴァーチェスオーロラ</original>
+  </item_name>
+  <item_name id="9987">
+    <original xml:space="preserve">ヴァーチェスオーロラ</original>
   </item_name>
   <item_name id="9998">
     <original xml:space="preserve">ストライクロッド</original>
@@ -14418,6 +16697,36 @@
   <item_name id="10051">
     <original xml:space="preserve">カテドラルファイア</original>
     <translation xml:space="preserve">Cathedral Fire</translation>
+  </item_name>
+  <item_name id="10052">
+    <original xml:space="preserve">リーサルパイル</original>
+  </item_name>
+  <item_name id="10053">
+    <original xml:space="preserve">リーサルパイル</original>
+  </item_name>
+  <item_name id="10054">
+    <original xml:space="preserve">リーサルパイル</original>
+  </item_name>
+  <item_name id="10055">
+    <original xml:space="preserve">リーサルパイル</original>
+  </item_name>
+  <item_name id="10056">
+    <original xml:space="preserve">リーサルパイル</original>
+  </item_name>
+  <item_name id="10057">
+    <original xml:space="preserve">パニッシュメント</original>
+  </item_name>
+  <item_name id="10058">
+    <original xml:space="preserve">パニッシュメント</original>
+  </item_name>
+  <item_name id="10059">
+    <original xml:space="preserve">パニッシュメント</original>
+  </item_name>
+  <item_name id="10060">
+    <original xml:space="preserve">パニッシュメント</original>
+  </item_name>
+  <item_name id="10061">
+    <original xml:space="preserve">パニッシュメント</original>
   </item_name>
   <item_name id="10067">
     <original xml:space="preserve">人敵用al230002_0_1</original>
@@ -14602,6 +16911,9 @@
   <item_name id="10128">
     <original xml:space="preserve">戦士盗賊_男_特殊枠5</original>
   </item_name>
+  <item_name id="10129">
+    <original xml:space="preserve">NPC用_wp305010</original>
+  </item_name>
   <item_name id="10130">
     <original xml:space="preserve">NPC用_wp306019</original>
   </item_name>
@@ -14635,6 +16947,9 @@
   </item_name>
   <item_name id="10141">
     <original xml:space="preserve">NPC用_wp304001</original>
+  </item_name>
+  <item_name id="10143">
+    <original xml:space="preserve">NPC用_wp308007</original>
   </item_name>
   <item_name id="10144">
     <original xml:space="preserve">NPC用_wp305005</original>
@@ -14716,6 +17031,21 @@
   </item_name>
   <item_name id="10210">
     <original xml:space="preserve">閃光のクロスレイピア</original>
+  </item_name>
+  <item_name id="10211">
+    <original xml:space="preserve">邪印のモーニングスター</original>
+  </item_name>
+  <item_name id="10212">
+    <original xml:space="preserve">邪印のモーニングスター</original>
+  </item_name>
+  <item_name id="10213">
+    <original xml:space="preserve">邪印のモーニングスター</original>
+  </item_name>
+  <item_name id="10214">
+    <original xml:space="preserve">邪印のモーニングスター</original>
+  </item_name>
+  <item_name id="10215">
+    <original xml:space="preserve">邪印のモーニングスター</original>
   </item_name>
   <item_name id="10216">
     <original xml:space="preserve">ソードオブネメシス</original>
@@ -14832,6 +17162,21 @@
   <item_name id="10295">
     <original xml:space="preserve">閃光のゲイジングロウ</original>
   </item_name>
+  <item_name id="10296">
+    <original xml:space="preserve">邪印のカーストゥーム</original>
+  </item_name>
+  <item_name id="10297">
+    <original xml:space="preserve">邪印のカーストゥーム</original>
+  </item_name>
+  <item_name id="10298">
+    <original xml:space="preserve">邪印のカーストゥーム</original>
+  </item_name>
+  <item_name id="10299">
+    <original xml:space="preserve">邪印のカーストゥーム</original>
+  </item_name>
+  <item_name id="10300">
+    <original xml:space="preserve">邪印のカーストゥーム</original>
+  </item_name>
   <item_name id="10301">
     <original xml:space="preserve">ウォールオブネメシス</original>
     <translation xml:space="preserve">Wall of Nemesis</translation>
@@ -14887,6 +17232,21 @@
   <item_name id="10325">
     <original xml:space="preserve">閃光のパリ―イングダガ―</original>
   </item_name>
+  <item_name id="10326">
+    <original xml:space="preserve">邪印のスパートゥリア</original>
+  </item_name>
+  <item_name id="10327">
+    <original xml:space="preserve">邪印のスパートゥリア</original>
+  </item_name>
+  <item_name id="10328">
+    <original xml:space="preserve">邪印のスパートゥリア</original>
+  </item_name>
+  <item_name id="10329">
+    <original xml:space="preserve">邪印のスパートゥリア</original>
+  </item_name>
+  <item_name id="10330">
+    <original xml:space="preserve">邪印のスパートゥリア</original>
+  </item_name>
   <item_name id="10336">
     <original xml:space="preserve">閃光のフラッドレイ</original>
   </item_name>
@@ -14901,6 +17261,21 @@
   </item_name>
   <item_name id="10340">
     <original xml:space="preserve">閃光のフラッドレイ</original>
+  </item_name>
+  <item_name id="10341">
+    <original xml:space="preserve">邪印のヴァインストーク</original>
+  </item_name>
+  <item_name id="10342">
+    <original xml:space="preserve">邪印のヴァインストーク</original>
+  </item_name>
+  <item_name id="10343">
+    <original xml:space="preserve">邪印のヴァインストーク</original>
+  </item_name>
+  <item_name id="10344">
+    <original xml:space="preserve">邪印のヴァインストーク</original>
+  </item_name>
+  <item_name id="10345">
+    <original xml:space="preserve">邪印のヴァインストーク</original>
   </item_name>
   <item_name id="10346">
     <original xml:space="preserve">ボウオブネメシス</original>
@@ -14922,6 +17297,21 @@
     <original xml:space="preserve">ボウオブネメシス</original>
     <translation xml:space="preserve">Bow of Nemesis</translation>
   </item_name>
+  <item_name id="10376">
+    <original xml:space="preserve">邪印のソウルランペイジ</original>
+  </item_name>
+  <item_name id="10377">
+    <original xml:space="preserve">邪印のソウルランペイジ</original>
+  </item_name>
+  <item_name id="10378">
+    <original xml:space="preserve">邪印のソウルランペイジ</original>
+  </item_name>
+  <item_name id="10379">
+    <original xml:space="preserve">邪印のソウルランペイジ</original>
+  </item_name>
+  <item_name id="10380">
+    <original xml:space="preserve">邪印のソウルランペイジ</original>
+  </item_name>
   <item_name id="10386">
     <original xml:space="preserve">閃光のアズールクロウサー</original>
   </item_name>
@@ -14936,6 +17326,21 @@
   </item_name>
   <item_name id="10390">
     <original xml:space="preserve">閃光のアズールクロウサー</original>
+  </item_name>
+  <item_name id="10391">
+    <original xml:space="preserve">邪印のブラッドスタッフ</original>
+  </item_name>
+  <item_name id="10392">
+    <original xml:space="preserve">邪印のブラッドスタッフ</original>
+  </item_name>
+  <item_name id="10393">
+    <original xml:space="preserve">邪印のブラッドスタッフ</original>
+  </item_name>
+  <item_name id="10394">
+    <original xml:space="preserve">邪印のブラッドスタッフ</original>
+  </item_name>
+  <item_name id="10395">
+    <original xml:space="preserve">邪印のブラッドスタッフ</original>
   </item_name>
   <item_name id="10396">
     <original xml:space="preserve">スタッフオブネメシス</original>
@@ -14971,6 +17376,21 @@
   </item_name>
   <item_name id="10410">
     <original xml:space="preserve">閃光のツインウィズダム</original>
+  </item_name>
+  <item_name id="10411">
+    <original xml:space="preserve">邪印のレラジェケーン</original>
+  </item_name>
+  <item_name id="10412">
+    <original xml:space="preserve">邪印のレラジェケーン</original>
+  </item_name>
+  <item_name id="10413">
+    <original xml:space="preserve">邪印のレラジェケーン</original>
+  </item_name>
+  <item_name id="10414">
+    <original xml:space="preserve">邪印のレラジェケーン</original>
+  </item_name>
+  <item_name id="10415">
+    <original xml:space="preserve">邪印のレラジェケーン</original>
   </item_name>
   <item_name id="10441">
     <original xml:space="preserve">ネメシスアーマー</original>
@@ -15051,6 +17471,21 @@
   <item_name id="10522">
     <original xml:space="preserve">ネメシスウェア</original>
     <translation xml:space="preserve">Nemesis Wear</translation>
+  </item_name>
+  <item_name id="10639">
+    <original xml:space="preserve">オーフリングケイン【翠】</original>
+  </item_name>
+  <item_name id="10640">
+    <original xml:space="preserve">オーフリングケイン【翠】</original>
+  </item_name>
+  <item_name id="10641">
+    <original xml:space="preserve">オーフリングケイン【翠】</original>
+  </item_name>
+  <item_name id="10642">
+    <original xml:space="preserve">オーフリングケイン【翠】</original>
+  </item_name>
+  <item_name id="10643">
+    <original xml:space="preserve">オーフリングケイン【翠】</original>
   </item_name>
   <item_name id="10644">
     <original xml:space="preserve">オーフリングケイン【蒼】</original>
@@ -15174,6 +17609,21 @@
   <item_name id="10727">
     <original xml:space="preserve">オーフリングボウ【蒼】</original>
     <translation xml:space="preserve">Olfring Bow (Blue)</translation>
+  </item_name>
+  <item_name id="10728">
+    <original xml:space="preserve">オーフリングボウ【天】</original>
+  </item_name>
+  <item_name id="10729">
+    <original xml:space="preserve">オーフリングボウ【天】</original>
+  </item_name>
+  <item_name id="10730">
+    <original xml:space="preserve">オーフリングボウ【天】</original>
+  </item_name>
+  <item_name id="10731">
+    <original xml:space="preserve">オーフリングボウ【天】</original>
+  </item_name>
+  <item_name id="10732">
+    <original xml:space="preserve">オーフリングボウ【天】</original>
   </item_name>
   <item_name id="10738">
     <original xml:space="preserve">オーフリングボウ【玄】</original>
@@ -15315,11 +17765,164 @@
     <original xml:space="preserve">オーフリングロッド【地】</original>
     <translation xml:space="preserve">Olfring Rod (Earth)</translation>
   </item_name>
+  <item_name id="10803">
+    <original xml:space="preserve">仮装の頭飾　リュウＡ</original>
+  </item_name>
+  <item_name id="10804">
+    <original xml:space="preserve">仮装の頭飾　リュウＡ</original>
+  </item_name>
+  <item_name id="10805">
+    <original xml:space="preserve">仮装の頭飾　リュウＡ</original>
+  </item_name>
+  <item_name id="10806">
+    <original xml:space="preserve">仮装の頭飾　リュウＡ</original>
+  </item_name>
+  <item_name id="10807">
+    <original xml:space="preserve">仮装の頭飾　リュウＡ</original>
+  </item_name>
+  <item_name id="10808">
+    <original xml:space="preserve">仮装の頭飾　リュウＢ</original>
+  </item_name>
+  <item_name id="10809">
+    <original xml:space="preserve">仮装の頭飾　リュウＢ</original>
+  </item_name>
+  <item_name id="10810">
+    <original xml:space="preserve">仮装の頭飾　リュウＢ</original>
+  </item_name>
+  <item_name id="10811">
+    <original xml:space="preserve">仮装の頭飾　リュウＢ</original>
+  </item_name>
+  <item_name id="10812">
+    <original xml:space="preserve">仮装の頭飾　リュウＢ</original>
+  </item_name>
+  <item_name id="10813">
+    <original xml:space="preserve">仮装の頭飾　ガイルＡ</original>
+  </item_name>
+  <item_name id="10814">
+    <original xml:space="preserve">仮装の頭飾　ガイルＡ</original>
+  </item_name>
+  <item_name id="10815">
+    <original xml:space="preserve">仮装の頭飾　ガイルＡ</original>
+  </item_name>
+  <item_name id="10816">
+    <original xml:space="preserve">仮装の頭飾　ガイルＡ</original>
+  </item_name>
+  <item_name id="10817">
+    <original xml:space="preserve">仮装の頭飾　ガイルＡ</original>
+  </item_name>
+  <item_name id="10818">
+    <original xml:space="preserve">仮装の頭飾　ガイルＢ</original>
+  </item_name>
+  <item_name id="10819">
+    <original xml:space="preserve">仮装の頭飾　ガイルＢ</original>
+  </item_name>
+  <item_name id="10820">
+    <original xml:space="preserve">仮装の頭飾　ガイルＢ</original>
+  </item_name>
+  <item_name id="10821">
+    <original xml:space="preserve">仮装の頭飾　ガイルＢ</original>
+  </item_name>
+  <item_name id="10822">
+    <original xml:space="preserve">仮装の頭飾　ガイルＢ</original>
+  </item_name>
+  <item_name id="10833">
+    <original xml:space="preserve">仮装の頭飾　ベガＡ</original>
+  </item_name>
+  <item_name id="10834">
+    <original xml:space="preserve">仮装の頭飾　ベガＡ</original>
+  </item_name>
+  <item_name id="10835">
+    <original xml:space="preserve">仮装の頭飾　ベガＡ</original>
+  </item_name>
+  <item_name id="10836">
+    <original xml:space="preserve">仮装の頭飾　ベガＡ</original>
+  </item_name>
+  <item_name id="10837">
+    <original xml:space="preserve">仮装の頭飾　ベガＡ</original>
+  </item_name>
+  <item_name id="10838">
+    <original xml:space="preserve">仮装の頭飾　ベガＢ</original>
+  </item_name>
+  <item_name id="10839">
+    <original xml:space="preserve">仮装の頭飾　ベガＢ</original>
+  </item_name>
+  <item_name id="10840">
+    <original xml:space="preserve">仮装の頭飾　ベガＢ</original>
+  </item_name>
+  <item_name id="10841">
+    <original xml:space="preserve">仮装の頭飾　ベガＢ</original>
+  </item_name>
+  <item_name id="10842">
+    <original xml:space="preserve">仮装の頭飾　ベガＢ</original>
+  </item_name>
+  <item_name id="10863">
+    <original xml:space="preserve">仮装の頭飾　チュンリーＡ</original>
+  </item_name>
+  <item_name id="10864">
+    <original xml:space="preserve">仮装の頭飾　チュンリーＡ</original>
+  </item_name>
+  <item_name id="10865">
+    <original xml:space="preserve">仮装の頭飾　チュンリーＡ</original>
+  </item_name>
+  <item_name id="10866">
+    <original xml:space="preserve">仮装の頭飾　チュンリーＡ</original>
+  </item_name>
+  <item_name id="10867">
+    <original xml:space="preserve">仮装の頭飾　チュンリーＡ</original>
+  </item_name>
+  <item_name id="10868">
+    <original xml:space="preserve">仮装の頭飾　チュンリーＢ</original>
+  </item_name>
+  <item_name id="10869">
+    <original xml:space="preserve">仮装の頭飾　チュンリーＢ</original>
+  </item_name>
+  <item_name id="10870">
+    <original xml:space="preserve">仮装の頭飾　チュンリーＢ</original>
+  </item_name>
+  <item_name id="10871">
+    <original xml:space="preserve">仮装の頭飾　チュンリーＢ</original>
+  </item_name>
+  <item_name id="10872">
+    <original xml:space="preserve">仮装の頭飾　チュンリーＢ</original>
+  </item_name>
+  <item_name id="10873">
+    <original xml:space="preserve">仮装の頭飾　Ｅ．本田Ａ</original>
+  </item_name>
+  <item_name id="10874">
+    <original xml:space="preserve">仮装の頭飾　Ｅ．本田Ａ</original>
+  </item_name>
+  <item_name id="10875">
+    <original xml:space="preserve">仮装の頭飾　Ｅ．本田Ａ</original>
+  </item_name>
+  <item_name id="10876">
+    <original xml:space="preserve">仮装の頭飾　Ｅ．本田Ａ</original>
+  </item_name>
+  <item_name id="10877">
+    <original xml:space="preserve">仮装の頭飾　Ｅ．本田Ａ</original>
+  </item_name>
+  <item_name id="10878">
+    <original xml:space="preserve">仮装の頭飾　Ｅ．本田Ｂ</original>
+  </item_name>
+  <item_name id="10879">
+    <original xml:space="preserve">仮装の頭飾　Ｅ．本田Ｂ</original>
+  </item_name>
+  <item_name id="10880">
+    <original xml:space="preserve">仮装の頭飾　Ｅ．本田Ｂ</original>
+  </item_name>
+  <item_name id="10881">
+    <original xml:space="preserve">仮装の頭飾　Ｅ．本田Ｂ</original>
+  </item_name>
+  <item_name id="10882">
+    <original xml:space="preserve">仮装の頭飾　Ｅ．本田Ｂ</original>
+  </item_name>
   <item_name id="10983">
     <original xml:space="preserve">戦功勲章【大狼】</original>
   </item_name>
   <item_name id="10984">
     <original xml:space="preserve">戦功勲章【獅子】</original>
+  </item_name>
+  <item_name id="10985">
+    <original xml:space="preserve">白翼輝晶</original>
   </item_name>
   <item_name id="10987">
     <original xml:space="preserve">欠けた竜骨石</original>
@@ -15329,6 +17932,9 @@
   </item_name>
   <item_name id="10989">
     <original xml:space="preserve">輝く竜骨石</original>
+  </item_name>
+  <item_name id="10990">
+    <original xml:space="preserve">レスタライト</original>
   </item_name>
   <item_name id="10999">
     <original xml:space="preserve">ハイデル印記章</original>
@@ -15357,6 +17963,21 @@
   <item_name id="11005">
     <original xml:space="preserve">バートランド印記章</original>
     <translation xml:space="preserve">Betland Medal</translation>
+  </item_name>
+  <item_name id="11006">
+    <original xml:space="preserve">ディナン印記章</original>
+  </item_name>
+  <item_name id="11007">
+    <original xml:space="preserve">バートランド北部印記章</original>
+  </item_name>
+  <item_name id="11011">
+    <original xml:space="preserve">鱗砂</original>
+  </item_name>
+  <item_name id="11012">
+    <original xml:space="preserve">大粒の鱗砂</original>
+  </item_name>
+  <item_name id="11013">
+    <original xml:space="preserve">古層の鱗砂</original>
   </item_name>
   <item_name id="11020">
     <original xml:space="preserve">新人覚者のバトルケープ</original>
@@ -15433,6 +18054,18 @@
   <item_name id="11044">
     <original xml:space="preserve">新人覚者のタイトクロス</original>
   </item_name>
+  <item_name id="11046">
+    <original xml:space="preserve">ジャンプ力アップ</original>
+  </item_name>
+  <item_name id="11047">
+    <original xml:space="preserve">クライム速度アップ</original>
+  </item_name>
+  <item_name id="11049">
+    <original xml:space="preserve">飛翔の腕輪</original>
+  </item_name>
+  <item_name id="11050">
+    <original xml:space="preserve">握速の腕輪</original>
+  </item_name>
   <item_name id="11051">
     <original xml:space="preserve">グランドミッションコース</original>
     <translation xml:space="preserve">Grand Mission Course</translation>
@@ -15440,5 +18073,326 @@
   <item_name id="11052">
     <original xml:space="preserve">ネットカフェ特典</original>
     <translation xml:space="preserve">Net Cafe Privilege</translation>
+  </item_name>
+  <item_name id="11072">
+    <original xml:space="preserve">ストレイトソード</original>
+  </item_name>
+  <item_name id="11073">
+    <original xml:space="preserve">ストレイトソード</original>
+  </item_name>
+  <item_name id="11074">
+    <original xml:space="preserve">ストレイトソード</original>
+  </item_name>
+  <item_name id="11075">
+    <original xml:space="preserve">ストレイトソード</original>
+  </item_name>
+  <item_name id="11076">
+    <original xml:space="preserve">ストレイトソード</original>
+  </item_name>
+  <item_name id="11077">
+    <original xml:space="preserve">ホープライトマクハエラ</original>
+  </item_name>
+  <item_name id="11078">
+    <original xml:space="preserve">ホープライトマクハエラ</original>
+  </item_name>
+  <item_name id="11079">
+    <original xml:space="preserve">ホープライトマクハエラ</original>
+  </item_name>
+  <item_name id="11080">
+    <original xml:space="preserve">ホープライトマクハエラ</original>
+  </item_name>
+  <item_name id="11081">
+    <original xml:space="preserve">ホープライトマクハエラ</original>
+  </item_name>
+  <item_name id="11082">
+    <original xml:space="preserve">ソウニィラウディ</original>
+  </item_name>
+  <item_name id="11083">
+    <original xml:space="preserve">ソウニィラウディ</original>
+  </item_name>
+  <item_name id="11084">
+    <original xml:space="preserve">ソウニィラウディ</original>
+  </item_name>
+  <item_name id="11085">
+    <original xml:space="preserve">ソウニィラウディ</original>
+  </item_name>
+  <item_name id="11086">
+    <original xml:space="preserve">ソウニィラウディ</original>
+  </item_name>
+  <item_name id="11087">
+    <original xml:space="preserve">ブラックウォール</original>
+  </item_name>
+  <item_name id="11088">
+    <original xml:space="preserve">ブラックウォール</original>
+  </item_name>
+  <item_name id="11089">
+    <original xml:space="preserve">ブラックウォール</original>
+  </item_name>
+  <item_name id="11090">
+    <original xml:space="preserve">ブラックウォール</original>
+  </item_name>
+  <item_name id="11091">
+    <original xml:space="preserve">ブラックウォール</original>
+  </item_name>
+  <item_name id="11092">
+    <original xml:space="preserve">トゥームストーン</original>
+  </item_name>
+  <item_name id="11093">
+    <original xml:space="preserve">トゥームストーン</original>
+  </item_name>
+  <item_name id="11094">
+    <original xml:space="preserve">トゥームストーン</original>
+  </item_name>
+  <item_name id="11095">
+    <original xml:space="preserve">トゥームストーン</original>
+  </item_name>
+  <item_name id="11096">
+    <original xml:space="preserve">トゥームストーン</original>
+  </item_name>
+  <item_name id="11097">
+    <original xml:space="preserve">エリプスシールド</original>
+  </item_name>
+  <item_name id="11098">
+    <original xml:space="preserve">エリプスシールド</original>
+  </item_name>
+  <item_name id="11099">
+    <original xml:space="preserve">エリプスシールド</original>
+  </item_name>
+  <item_name id="11100">
+    <original xml:space="preserve">エリプスシールド</original>
+  </item_name>
+  <item_name id="11101">
+    <original xml:space="preserve">エリプスシールド</original>
+  </item_name>
+  <item_name id="11102">
+    <original xml:space="preserve">トゥーエッジ</original>
+  </item_name>
+  <item_name id="11103">
+    <original xml:space="preserve">トゥーエッジ</original>
+  </item_name>
+  <item_name id="11104">
+    <original xml:space="preserve">トゥーエッジ</original>
+  </item_name>
+  <item_name id="11105">
+    <original xml:space="preserve">トゥーエッジ</original>
+  </item_name>
+  <item_name id="11106">
+    <original xml:space="preserve">トゥーエッジ</original>
+  </item_name>
+  <item_name id="11107">
+    <original xml:space="preserve">クエスターダガー</original>
+  </item_name>
+  <item_name id="11108">
+    <original xml:space="preserve">クエスターダガー</original>
+  </item_name>
+  <item_name id="11109">
+    <original xml:space="preserve">クエスターダガー</original>
+  </item_name>
+  <item_name id="11110">
+    <original xml:space="preserve">クエスターダガー</original>
+  </item_name>
+  <item_name id="11111">
+    <original xml:space="preserve">クエスターダガー</original>
+  </item_name>
+  <item_name id="11112">
+    <original xml:space="preserve">ゴールドスティレット</original>
+  </item_name>
+  <item_name id="11113">
+    <original xml:space="preserve">ゴールドスティレット</original>
+  </item_name>
+  <item_name id="11114">
+    <original xml:space="preserve">ゴールドスティレット</original>
+  </item_name>
+  <item_name id="11115">
+    <original xml:space="preserve">ゴールドスティレット</original>
+  </item_name>
+  <item_name id="11116">
+    <original xml:space="preserve">ゴールドスティレット</original>
+  </item_name>
+  <item_name id="11117">
+    <original xml:space="preserve">ナクトラルボウ</original>
+  </item_name>
+  <item_name id="11118">
+    <original xml:space="preserve">ナクトラルボウ</original>
+  </item_name>
+  <item_name id="11119">
+    <original xml:space="preserve">ナクトラルボウ</original>
+  </item_name>
+  <item_name id="11120">
+    <original xml:space="preserve">ナクトラルボウ</original>
+  </item_name>
+  <item_name id="11121">
+    <original xml:space="preserve">ナクトラルボウ</original>
+  </item_name>
+  <item_name id="11122">
+    <original xml:space="preserve">コンポジットエイマー</original>
+  </item_name>
+  <item_name id="11123">
+    <original xml:space="preserve">コンポジットエイマー</original>
+  </item_name>
+  <item_name id="11124">
+    <original xml:space="preserve">コンポジットエイマー</original>
+  </item_name>
+  <item_name id="11125">
+    <original xml:space="preserve">コンポジットエイマー</original>
+  </item_name>
+  <item_name id="11126">
+    <original xml:space="preserve">コンポジットエイマー</original>
+  </item_name>
+  <item_name id="11127">
+    <original xml:space="preserve">リジットストレイン</original>
+  </item_name>
+  <item_name id="11128">
+    <original xml:space="preserve">リジットストレイン</original>
+  </item_name>
+  <item_name id="11129">
+    <original xml:space="preserve">リジットストレイン</original>
+  </item_name>
+  <item_name id="11130">
+    <original xml:space="preserve">リジットストレイン</original>
+  </item_name>
+  <item_name id="11131">
+    <original xml:space="preserve">リジットストレイン</original>
+  </item_name>
+  <item_name id="11132">
+    <original xml:space="preserve">ヘイルングボーゲン</original>
+  </item_name>
+  <item_name id="11133">
+    <original xml:space="preserve">ヘイルングボーゲン</original>
+  </item_name>
+  <item_name id="11134">
+    <original xml:space="preserve">ヘイルングボーゲン</original>
+  </item_name>
+  <item_name id="11135">
+    <original xml:space="preserve">ヘイルングボーゲン</original>
+  </item_name>
+  <item_name id="11136">
+    <original xml:space="preserve">ヘイルングボーゲン</original>
+  </item_name>
+  <item_name id="11137">
+    <original xml:space="preserve">グリーフアトリブト</original>
+  </item_name>
+  <item_name id="11138">
+    <original xml:space="preserve">グリーフアトリブト</original>
+  </item_name>
+  <item_name id="11139">
+    <original xml:space="preserve">グリーフアトリブト</original>
+  </item_name>
+  <item_name id="11140">
+    <original xml:space="preserve">グリーフアトリブト</original>
+  </item_name>
+  <item_name id="11141">
+    <original xml:space="preserve">グリーフアトリブト</original>
+  </item_name>
+  <item_name id="11142">
+    <original xml:space="preserve">シュバルツフォーゲル</original>
+  </item_name>
+  <item_name id="11143">
+    <original xml:space="preserve">シュバルツフォーゲル</original>
+  </item_name>
+  <item_name id="11144">
+    <original xml:space="preserve">シュバルツフォーゲル</original>
+  </item_name>
+  <item_name id="11145">
+    <original xml:space="preserve">シュバルツフォーゲル</original>
+  </item_name>
+  <item_name id="11146">
+    <original xml:space="preserve">シュバルツフォーゲル</original>
+  </item_name>
+  <item_name id="11147">
+    <original xml:space="preserve">サインポスター</original>
+  </item_name>
+  <item_name id="11148">
+    <original xml:space="preserve">サインポスター</original>
+  </item_name>
+  <item_name id="11149">
+    <original xml:space="preserve">サインポスター</original>
+  </item_name>
+  <item_name id="11150">
+    <original xml:space="preserve">サインポスター</original>
+  </item_name>
+  <item_name id="11151">
+    <original xml:space="preserve">サインポスター</original>
+  </item_name>
+  <item_name id="11152">
+    <original xml:space="preserve">キュアビリティブランチ</original>
+  </item_name>
+  <item_name id="11153">
+    <original xml:space="preserve">キュアビリティブランチ</original>
+  </item_name>
+  <item_name id="11154">
+    <original xml:space="preserve">キュアビリティブランチ</original>
+  </item_name>
+  <item_name id="11155">
+    <original xml:space="preserve">キュアビリティブランチ</original>
+  </item_name>
+  <item_name id="11156">
+    <original xml:space="preserve">キュアビリティブランチ</original>
+  </item_name>
+  <item_name id="11157">
+    <original xml:space="preserve">ゴールドケイン</original>
+  </item_name>
+  <item_name id="11158">
+    <original xml:space="preserve">ゴールドケイン</original>
+  </item_name>
+  <item_name id="11159">
+    <original xml:space="preserve">ゴールドケイン</original>
+  </item_name>
+  <item_name id="11160">
+    <original xml:space="preserve">ゴールドケイン</original>
+  </item_name>
+  <item_name id="11161">
+    <original xml:space="preserve">ゴールドケイン</original>
+  </item_name>
+  <item_name id="11162">
+    <original xml:space="preserve">ヴァリアントヘリックス</original>
+  </item_name>
+  <item_name id="11163">
+    <original xml:space="preserve">ヴァリアントヘリックス</original>
+  </item_name>
+  <item_name id="11164">
+    <original xml:space="preserve">ヴァリアントヘリックス</original>
+  </item_name>
+  <item_name id="11165">
+    <original xml:space="preserve">ヴァリアントヘリックス</original>
+  </item_name>
+  <item_name id="11166">
+    <original xml:space="preserve">ヴァリアントヘリックス</original>
+  </item_name>
+  <item_name id="11167">
+    <original xml:space="preserve">スィールドカラミティ</original>
+  </item_name>
+  <item_name id="11168">
+    <original xml:space="preserve">スィールドカラミティ</original>
+  </item_name>
+  <item_name id="11169">
+    <original xml:space="preserve">スィールドカラミティ</original>
+  </item_name>
+  <item_name id="11170">
+    <original xml:space="preserve">スィールドカラミティ</original>
+  </item_name>
+  <item_name id="11171">
+    <original xml:space="preserve">スィールドカラミティ</original>
+  </item_name>
+  <item_name id="11172">
+    <original xml:space="preserve">フォークドワンズ</original>
+  </item_name>
+  <item_name id="11173">
+    <original xml:space="preserve">フォークドワンズ</original>
+  </item_name>
+  <item_name id="11174">
+    <original xml:space="preserve">フォークドワンズ</original>
+  </item_name>
+  <item_name id="11175">
+    <original xml:space="preserve">フォークドワンズ</original>
+  </item_name>
+  <item_name id="11176">
+    <original xml:space="preserve">フォークドワンズ</original>
+  </item_name>
+  <item_name id="11211">
+    <original xml:space="preserve">翼紋のリングプレート</original>
+  </item_name>
+  <item_name id="11212">
+    <original xml:space="preserve">掌紋のリングプレート</original>
   </item_name>
 </item_data>
