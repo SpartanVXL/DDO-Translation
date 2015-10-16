@@ -25,8 +25,8 @@
     <key>char_sel_del_chara_select</key>
     <original xml:space="preserve">削除するキャラクターを選択してください
 削除したキャラクターは二度と復活できません</original>
-    <!-- NEEDS REVIEW -->
-    <translation xml:space="preserve">Please select the character to be deleted</translation>
+    <translation xml:space="preserve">Please select the character to be deleted.
+The deleted character cannot be restored.</translation>
   </message>
   <message>
     <key>char_sel_del_info</key>

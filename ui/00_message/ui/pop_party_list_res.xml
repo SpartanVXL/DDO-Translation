@@ -250,11 +250,9 @@
     <original xml:space="preserve">※進行に変化があった場合は、クイックパーティーの登録が解除されます
 ※パーティー内のポーンは、合流時にパーティーから外れます
 ※登録時のジョブと異なる場合は、合流時に元のジョブに戻ります</original>
-    <!-- NEEDS REVIEW -->
-    <translation xml:space="preserve">※If there is a change in quest progress, the registration will be
-canceled.
-※If there are pawns in party when the quick party forms,
-they will be dismissed.</translation>
+    <translation xml:space="preserve">※If quest progress changes, the registration will be canceled.
+※If there are pawns in party, they will be dismissed.
+※If your job is different, you will return to your original job.</translation>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_MainPurpose_Main</key>

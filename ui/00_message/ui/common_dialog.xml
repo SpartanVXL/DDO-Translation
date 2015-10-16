@@ -1120,7 +1120,6 @@ Are you sure?</translation>
     <key>ana_mitem_opt_alert</key>
     <original xml:space="preserve">【ご注意】アイテムの中に&lt;OPCS&gt;が含まれています
 ※&lt;OPCS&gt;は受け取ると発動します</original>
-    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">[Warning] There is a &lt;OPCS&gt; in the mail.
 ※If you receive the &lt;OPCS&gt;, its effect will be activated.</translation>
   </message>
@@ -1171,7 +1170,6 @@ from your blacklist?</translation>
   <message>
     <key>ana_mitem_get_opt_course</key>
     <original xml:space="preserve">&lt;OPCS&gt;  x &lt;VAL&gt; を発動しました</original>
-    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">&lt;OPCS&gt; x&lt;VAL&gt; effect has been activated.</translation>
   </message>
   <message>
@@ -1255,14 +1253,12 @@ from your blacklist?</translation>
   <message>
     <key>ana_charge_course_limit_1h</key>
     <original xml:space="preserve">&lt;NAME ETC&gt; の期限が、残り1時間をきりました</original>
-    <!-- NEEDS REVIEW -->
-    <translation xml:space="preserve">&lt;NAME ETC&gt; only has 1 hour remaining.</translation>
+    <translation xml:space="preserve">&lt;NAME ETC&gt; has 1 hour remaining.</translation>
   </message>
   <message>
     <key>ana_charge_course_limit_24h</key>
     <original xml:space="preserve">&lt;NAME ETC&gt; の期限が、残り24時間をきりました</original>
-    <!-- NEEDS REVIEW -->
-    <translation xml:space="preserve">&lt;NAME ETC&gt; only has 24 hours remaining.</translation>
+    <translation xml:space="preserve">&lt;NAME ETC&gt; has 24 hours remaining.</translation>
   </message>
   <message>
     <key>ana_charge_course_end</key>
@@ -1460,7 +1456,6 @@ Are you sure?</translation>
   <message>
     <key>ana_itembox_submenu_tooltip_sendspbox_nonsp</key>
     <original xml:space="preserve">拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">Storage expansion is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
   </message>
   <message>
@@ -1637,7 +1632,6 @@ Are you sure?</translation>
   <message>
     <key>ana_box_err_exspace</key>
     <original xml:space="preserve">拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">You cannot use the expanded storage box.
 The effect of ＜&lt;OPCS&gt;＞ will allow this.</translation>
   </message>
@@ -1659,7 +1653,6 @@ The effect of ＜&lt;OPCS&gt;＞ will allow this.</translation>
   <message>
     <key>ana_notion_exbox_without_charge</key>
     <original xml:space="preserve">本ボックスは＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">This box is available with the effects of ＜&lt;OPCS&gt;＞.</translation>
   </message>
   <message>
@@ -2081,7 +2074,6 @@ Please disband the party.</translation>
   <message>
     <key>ana_rimstone_menu_ex_lost_pawn</key>
     <original xml:space="preserve">＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">This is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
   </message>
   <message>
@@ -2127,7 +2119,6 @@ Are you sure?</translation>
   <message>
     <key>ana_error_no_target_opcs</key>
     <original xml:space="preserve">＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <!-- NEEDS REVIEW -->
     <translation xml:space="preserve">This is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
   </message>
   <message>
