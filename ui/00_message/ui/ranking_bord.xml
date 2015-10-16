@@ -1,0 +1,119 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>RANKING_MSG_TITLE_EN</key>
+    <original xml:space="preserve">Ranking Board</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_NAME</key>
+    <original xml:space="preserve">名前</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_CLAN</key>
+    <original xml:space="preserve">クラン</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_POINT</key>
+    <original xml:space="preserve">スコア</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_RANK</key>
+    <original xml:space="preserve">位</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_PERIOD</key>
+    <original xml:space="preserve">開催期間：&lt;DATE&gt; ～ &lt;DATE&gt;</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_UPDATE</key>
+    <original xml:space="preserve">集計日：&lt;DATE&gt;</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_DIAROG_NONE</key>
+    <original xml:space="preserve">集計していません</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_ANNOUNCE_STARTED</key>
+    <original xml:space="preserve">ランキング集計を開始しました。
+※途中経過は新聞にて告知されます。</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_BUTTON_SHOW_MYSELF</key>
+    <original xml:space="preserve">自分の順位を表示</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_BUTTON_BACK</key>
+    <original xml:space="preserve">通常ランキングに戻る</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_NOENTRY</key>
+    <original xml:space="preserve">このコンテンツには未参加です。</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_NOCONTENTS</key>
+    <original xml:space="preserve">現在表示可能なコンテンツはありません。</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_NORANKING</key>
+    <original xml:space="preserve">現在表示可能なランキングはありません。</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_JOINING</key>
+    <original xml:space="preserve">参加中</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_TITLE_JP</key>
+    <original xml:space="preserve">ランキングボード</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_TITLE2_JP</key>
+    <original xml:space="preserve">ランキング</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_TITLE2_EN</key>
+    <original xml:space="preserve">Ranking</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_VAL</key>
+    <original xml:space="preserve">&lt;VAL&gt;</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_DATE_PERIOD</key>
+    <original xml:space="preserve">&lt;DATE&gt; ～ &lt;DATE&gt;</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_HOLDING</key>
+    <original xml:space="preserve">開催中</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_END</key>
+    <original xml:space="preserve">終了</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_ALL</key>
+    <original xml:space="preserve">全て</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_CLAN_JP</key>
+    <original xml:space="preserve">クラン</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_RANKS</key>
+    <original xml:space="preserve">&lt;VAL&gt;位</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_STATE_PREPARATION</key>
+    <original xml:space="preserve">開戦準備中</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_STATE_RANKING</key>
+    <original xml:space="preserve">戦果分析中</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_STATE_RECEIVING</key>
+    <original xml:space="preserve">報酬配分中</original>
+  </message>
+  <message>
+    <key>RANKING_MSG_STATE_NOPARTIN</key>
+    <original xml:space="preserve">参加受付中</original>
+  </message>
+</resource>

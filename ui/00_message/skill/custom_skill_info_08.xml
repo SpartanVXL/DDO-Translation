@@ -1,0 +1,76 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_95</key>
+    <original xml:space="preserve">氷属性の複数の魔矢を一点に集中して放つ
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で魔矢の本数増加（４→６）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_92</key>
+    <original xml:space="preserve">魔矢を放ち、着弾地点に体力回復効果のある
+魔法球を展開する（対不死には攻撃）
+味方に接触させれば魔法球が吸着する
+&lt;COL ffdc78&gt;LV UP毎に回復力上昇
+LV.６でターゲット数増加（２→４）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_93</key>
+    <original xml:space="preserve">魔矢を放ち、着弾地点に状態異常回復効果
+のある魔法球を展開する（対不死には攻撃）
+味方に接触させれば魔法球が吸着する
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費減少
+LV.６でターゲット数増加（１→２）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_94</key>
+    <original xml:space="preserve">起爆性のある魔矢を放つ
+敵に刺さった魔矢への攻撃には爆発がともなう
+爆発に接触した周囲の敵は中心地に吹き飛ぶ
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で爆発範囲が拡張&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_97</key>
+    <original xml:space="preserve">聖属性の魔矢を放ち、着弾場所に魔法球を
+展開する。敵に接触させた場合魔法球が付着し
+継続して体力を奪う
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で魔法球継続時間が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_98</key>
+    <original xml:space="preserve">敵の物理攻撃力と魔法攻撃力を
+一定時間低下させる魔矢を放つ
+&lt;COL ffdc78&gt;LV UP毎に低下力の強化
+LV.６でターゲット数増加（３→５）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_99</key>
+    <original xml:space="preserve">敵の物理防御力と魔法防御力を
+一定時間低下させる魔矢を放つ
+&lt;COL ffdc78&gt;LV UP毎に低下力の強化
+LV.６でターゲット数増加（３→５）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_96</key>
+    <original xml:space="preserve">壁に反射し、敵を追従する雷属性の魔矢を放つ
+反射させる度に威力が上昇する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で反射回数が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_100</key>
+    <original xml:space="preserve">魔矢を放ち、着弾地点にスタミナ回復効果のある
+魔法球を展開する。味方に接触させれば魔法球が
+吸着する（対不死には攻撃）
+&lt;COL ffdc78&gt;LV UP毎に魔法球継続時間の延長
+LV.６で詠唱速度が上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_101</key>
+    <original xml:space="preserve">敵の耐久力を一定時間低下させる魔矢を放つ
+&lt;COL ffdc78&gt;LV UP毎に低下力の強化
+LV.６で詠唱速度が上昇／
+ターゲット数増加（５→７）&lt;/COL&gt;</original>
+  </message>
+</resource>
