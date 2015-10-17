@@ -15218,6 +15218,9 @@ Physical Attack +4</translation>
   <item_info id="9197">
     <original xml:space="preserve">装着した武器の威力が強まるクレスト
 物理攻撃力＋６</original>
+    <translation xml:space="preserve">A crest that grants physical power
+when equipped.
+Physical Attack +6</translation>
   </item_info>
   <item_info id="9199">
     <original xml:space="preserve">装着した武器の魔力が強まるクレスト
@@ -15236,6 +15239,9 @@ Magick Attack +4</translation>
   <item_info id="9201">
     <original xml:space="preserve">装着した武器の魔力が強まるクレスト
 魔法攻撃力＋６</original>
+    <translation xml:space="preserve">A crest that grants magick power
+when equipped.
+Magick Attack +6</translation>
   </item_info>
   <item_info id="9203">
     <original xml:space="preserve">装着した武器の吹き飛ばし力が上がるクレスト
@@ -15247,6 +15253,9 @@ Blow Power +8</translation>
   <item_info id="9204">
     <original xml:space="preserve">装着した武器の吹き飛ばし力が上がるクレスト
 吹き飛ばし力＋１５</original>
+    <translation xml:space="preserve">A crest that grants blow power
+when equipped.
+Blow Power +15</translation>
   </item_info>
   <item_info id="9205">
     <original xml:space="preserve">装着した武器の気絶攻力が上がるクレスト
@@ -15400,11 +15409,14 @@ Cursed Slayer +8</translation>
 【造魔】＋５</original>
     <translation xml:space="preserve">A crest that grants a slayer effect
 when equipped.
-Golem Slayer +5</translation>
+Rock Slayer +5</translation>
   </item_info>
   <item_info id="9230">
     <original xml:space="preserve">装着した武器に対敵特効を付与するクレスト
 【造魔】＋８</original>
+    <translation xml:space="preserve">A crest that grants a slayer effect
+when equipped.
+Rock Slayer +8</translation>
   </item_info>
   <item_info id="9231">
     <original xml:space="preserve">装着した武器に対敵特効を付与するクレスト
@@ -15549,6 +15561,9 @@ Inflicts Frail +20</translation>
   <item_info id="9253">
     <original xml:space="preserve">装着した武器に状態異常を付与するクレスト
 【石化】蓄積値＋１０</original>
+    <translation xml:space="preserve">A crest that grants a debilitation effect
+when equipped.
+Inflicts Petrify +10</translation>
   </item_info>
   <item_info id="9257">
     <original xml:space="preserve">装着した武器の魔法属性を炎にするクレスト
@@ -15602,6 +15617,9 @@ Inflicts Holy Drain +13</translation>
   <item_info id="9264">
     <original xml:space="preserve">装着した武器の魔法属性を聖にするクレスト
 さらに【聖吸】蓄積値＋２０</original>
+    <translation xml:space="preserve">A crest that grants a magical holy attribute effect
+when equipped.
+Inflicts Holy Drain +20</translation>
   </item_info>
   <item_info id="9265">
     <original xml:space="preserve">装着した武器の魔法属性を闇にするクレスト
@@ -15613,6 +15631,9 @@ Inflicts Blind +13</translation>
   <item_info id="9266">
     <original xml:space="preserve">装着した武器の魔法属性を闇にするクレスト
 さらに【闇霧】蓄積値＋２０</original>
+    <translation xml:space="preserve">A crest that grants a magical dark attribute effect
+when equipped.
+Inflicts Blind +20</translation>
   </item_info>
   <item_info id="9267">
     <original xml:space="preserve">装着した武器に状態異常を付与するクレスト
@@ -15666,6 +15687,9 @@ Inflicts Holy Resist Down +15</translation>
   <item_info id="9274">
     <original xml:space="preserve">装着した武器に状態異常を付与するクレスト
 【聖防低下】蓄積値＋２２</original>
+    <translation xml:space="preserve">A crest that grants a debilitation effect
+when equipped.
+Inflicts Holy Resist Down +22</translation>
   </item_info>
   <item_info id="9275">
     <original xml:space="preserve">装着した武器に状態異常を付与するクレスト
@@ -15677,6 +15701,9 @@ Inflicts Dark Resist Down +15</translation>
   <item_info id="9276">
     <original xml:space="preserve">装着した武器に状態異常を付与するクレスト
 【闇防低下】蓄積値＋２２</original>
+    <translation xml:space="preserve">A crest that grants a debilitation effect
+when equipped.
+Inflicts Dark Resist Down +22</translation>
   </item_info>
   <item_info id="9277">
     <original xml:space="preserve">装着した武器に状態異常を付与するクレスト
@@ -15765,6 +15792,9 @@ Physical Defense +3</translation>
   <item_info id="9289">
     <original xml:space="preserve">装着した防具の守りが強まるクレスト
 物理防御力＋４</original>
+    <translation xml:space="preserve">A crest that grants defense
+when equipped to armor.
+Physical Defense +4</translation>
   </item_info>
   <item_info id="9291">
     <original xml:space="preserve">装着した防具の魔防が強まるクレスト
@@ -15783,6 +15813,9 @@ Magick Defense +3</translation>
   <item_info id="9293">
     <original xml:space="preserve">装着した防具の魔防が強まるクレスト
 魔法防御力＋４</original>
+    <translation xml:space="preserve">A crest that grants magick defense
+when equipped to armor.
+Magick Defense +4</translation>
   </item_info>
   <item_info id="9295">
     <original xml:space="preserve">装着した防具の耐久力が上昇するクレスト
@@ -15913,6 +15946,9 @@ Catching Fire Resist +4</translation>
   <item_info id="9315">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
 延焼耐性+５</original>
+    <translation xml:space="preserve">A crest that grants magical attribute resistance
+when equipped to armor.
+Catching Fire Resist +5</translation>
   </item_info>
   <item_info id="9317">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
@@ -15924,6 +15960,9 @@ Frozen Solid Resist +4</translation>
   <item_info id="9318">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
 凍結耐性+５</original>
+    <translation xml:space="preserve">A crest that grants magical attribute resistance
+when equipped to armor.
+Frozen Solid Resist +5</translation>
   </item_info>
   <item_info id="9320">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
@@ -15935,6 +15974,9 @@ Shock Resist +4</translation>
   <item_info id="9321">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
 感電耐性+５</original>
+    <translation xml:space="preserve">A crest that grants magical attribute resistance
+when equipped to armor.
+Shock Resist +5</translation>
   </item_info>
   <item_info id="9323">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
@@ -15946,6 +15988,9 @@ Holy Drain Resist +4</translation>
   <item_info id="9324">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
 聖吸耐性+５</original>
+    <translation xml:space="preserve">A crest that grants magical attribute resistance
+when equipped to armor.
+Holy Drain Resist +5</translation>
   </item_info>
   <item_info id="9326">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
@@ -15957,6 +16002,9 @@ Blind Resist +4</translation>
   <item_info id="9327">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
 闇霧耐性+５</original>
+    <translation xml:space="preserve">A crest that grants magical attribute resistance
+when equipped to armor.
+Blind Resist +5</translation>
   </item_info>
   <item_info id="9329">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
@@ -16045,6 +16093,9 @@ Tar Resist +6</translation>
   <item_info id="9341">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
 封印耐性+４</original>
+    <translation xml:space="preserve">A crest that grants debilitation resistance
+when equipped to armor.
+Skill Stifling Resist +4</translation>
   </item_info>
   <item_info id="9345">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
@@ -16063,6 +16114,9 @@ Frail Resist +6</translation>
   <item_info id="9347">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
 石化耐性+４</original>
+    <translation xml:space="preserve">A crest that grants debilitation resistance
+when equipped to armor.
+Petrify Resist +4</translation>
   </item_info>
   <item_info id="9351">
     <original xml:space="preserve">控えめな装飾と独特の重心バランスが特徴の短剣
