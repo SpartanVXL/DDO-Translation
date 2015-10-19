@@ -1,5 +1,7 @@
 # DDO-Translation
 
+UPDATE: Each xml file has an entry for the original japanese text encased in an <original xml:space="preserve"></original> tag. When entering in your translation simply press enter to make a new line and encase your translated text in a <translation xml:space="preserve"></translation> tag. If you are unsure of what this looks like please take a look at some files that have already been translated to see an example.
+
 UPDATE: When doing translation please open up your own branch for your changes. When you feel that your edits are ready for review please open a pull request to have your branch merged into master. This lets people see your request, the changes it makes as well as allowing them to comment/feedback on it before merging. If you are unsure of how branching works please read the github wiki or other guides on git branching.
 
 This is a repository for the translation of Dragon's Dogma Online.
