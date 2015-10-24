@@ -1,152 +1,202 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <original xml:space="preserve">協力し、ともに使命達成を</original>
+    <translation xml:space="preserve">Let us co-operate and achieve our mission together.</translation>
   </message>
   <message>
     <original xml:space="preserve">よろしくお願い申し上げる</original>
+    <translation xml:space="preserve">It is nice to meet you.</translation>
   </message>
   <message>
     <original xml:space="preserve">同行の覚者よ、あなたに忠義を尽くそう</original>
+    <translation xml:space="preserve">To my Arisen companion, I pledge my loyalty.</translation>
   </message>
   <message>
     <original xml:space="preserve">信頼に足る方とお見受けした</original>
+    <translation xml:space="preserve">From your appearance you look like a trustworthy person.</translation>
   </message>
   <message>
     <original xml:space="preserve">任務成功に向け、最善を尽くす所存</original>
+    <translation xml:space="preserve">Let our best intentions go towards our missions success.</translation>
   </message>
   <message>
     <original xml:space="preserve">良き連携のために、最大限努力しよう</original>
+    <translation xml:space="preserve">Let us make every effort towards good cooperation.</translation>
   </message>
   <message>
     <original xml:space="preserve">我が主、同士の存在を確認</original>
+    <translation xml:space="preserve">My lord, I have confirmed the presence of a comrade.</translation>
   </message>
   <message>
     <original xml:space="preserve">任務終了</original>
+    <translation xml:space="preserve">Mission completed.</translation>
   </message>
   <message>
     <original xml:space="preserve">ほぼ計算通り</original>
+    <translation xml:space="preserve">Almost as predicted.</translation>
   </message>
   <message>
     <original xml:space="preserve">この成功は必然</original>
+    <translation xml:space="preserve">This success was inevitable.</translation>
   </message>
   <message>
     <original xml:space="preserve">――これは、想定外の結果</original>
+    <translation xml:space="preserve">This was an unexpected result.</translation>
   </message>
   <message>
     <original xml:space="preserve">基本能力、上昇</original>
+    <translation xml:space="preserve">My basic abilities have risen.</translation>
   </message>
   <message>
     <original xml:space="preserve">より高度な戦闘力を獲得！</original>
+    <translation xml:space="preserve">I've gained even more advance fighting power!</translation>
   </message>
   <message>
     <original xml:space="preserve">この力、全て我が主の為に</original>
+    <translation xml:space="preserve">This power, it is all for your benefit.</translation>
   </message>
   <message>
     <original xml:space="preserve">まずは周辺状況の確認を</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <original xml:space="preserve">帰路の確保を怠らぬよう</original>
+    <translation xml:space="preserve">Let us first confirm our surroundings.</translation>
   </message>
   <message>
     <original xml:space="preserve">敵影認識。警戒態勢へ</original>
+    <translation xml:space="preserve">I see the enemies shadow. Be alert.</translation>
   </message>
   <message>
     <original xml:space="preserve">討伐対象を捕捉</original>
+    <translation xml:space="preserve">Grab the supressed target.</translation>
   </message>
   <message>
     <original xml:space="preserve">敵を発見！　油断なきよう</original>
+    <translation xml:space="preserve">Enemy sighted! Do not let your guard down.</translation>
   </message>
   <message>
     <original xml:space="preserve">脅威となる敵発見。慎重に！</original>
+    <translation xml:space="preserve">Threat discoverd. Discretion advised!</translation>
   </message>
   <message>
     <original xml:space="preserve">強敵と判断――最大の警戒を！</original>
+    <translation xml:space="preserve">A formidable enemy..use your utmost caution against it.</translation>
   </message>
   <message>
     <original xml:space="preserve">支援感謝する</original>
+    <translation xml:space="preserve">I thank you for your aid.</translation>
   </message>
   <message>
     <original xml:space="preserve">支援要求！</original>
+    <translation xml:space="preserve">I require aid!</translation>
   </message>
   <message>
     <original xml:space="preserve">まずい、救援を！</original>
+    <translation xml:space="preserve">This is bad, I need aid!</translation>
   </message>
   <message>
     <original xml:space="preserve">せ、戦線――離脱――</original>
+    <translation xml:space="preserve">V-vanguard...withdraw...</translation>
   </message>
   <message>
     <original xml:space="preserve">不覚！　行動――不能に――</original>
+    <translation xml:space="preserve">What a blunder! I am...unable to act...</translation>
   </message>
   <message>
     <original xml:space="preserve">敵排除、開始する！</original>
+    <translation xml:space="preserve">Commencing enemy removal!</translation>
   </message>
   <message>
     <original xml:space="preserve">戦闘態勢へ移行！</original>
+    <translation xml:space="preserve">Let us move to battle stances!</translation>
   </message>
   <message>
     <original xml:space="preserve">対象沈黙。まずまずの戦果</original>
+    <translation xml:space="preserve">Target silenced. Some reasonable loot.</translation>
   </message>
   <message>
     <original xml:space="preserve">脅威の排除を完了</original>
+    <translation xml:space="preserve">Enemy extermination complete.</translation>
   </message>
   <message>
     <original xml:space="preserve">戦闘終了！　我々の勝利</original>
+    <translation xml:space="preserve">The battle has ended! This is our victory.</translation>
   </message>
   <message>
     <original xml:space="preserve">対象の足止めに成功！</original>
+    <translation xml:space="preserve">Interference of the enemy, successful!</translation>
   </message>
   <message>
     <original xml:space="preserve">負傷はあるが、問題なし</original>
+    <translation xml:space="preserve">I have some injuries, but nothing to worry about.</translation>
   </message>
   <message>
     <original xml:space="preserve">状態注意。　早めの対処を</original>
+    <translation xml:space="preserve">Watch yourself. Deal with it quickly.</translation>
   </message>
   <message>
     <original xml:space="preserve">負傷部位、拡大――！</original>
+    <translation xml:space="preserve">My injuries...are increasing!</translation>
   </message>
   <message>
     <original xml:space="preserve">この状況での任務継続は困難――</original>
+    <translation xml:space="preserve">In this situation continuing our mission would be difficult</translation>
   </message>
   <message>
     <original xml:space="preserve">く、早急な立て直しが必要――</original>
+    <translation xml:space="preserve">Ugh, require immediate support.</translation>
   </message>
   <message>
     <original xml:space="preserve">なっ！？　これでは全ての戦略が無駄に――</original>
+    <translation xml:space="preserve">Wha-!? With this all our strategy is in vain.</translation>
   </message>
   <message>
     <original xml:space="preserve">少々――時間を――</original>
+    <translation xml:space="preserve">A little...time...</translation>
   </message>
   <message>
     <original xml:space="preserve">ただちに回復する！</original>
+    <translation xml:space="preserve">I recover immediately!</translation>
   </message>
   <message>
     <original xml:space="preserve">敵の誘導は、私が</original>
+    <translation xml:space="preserve">I will incite the enemy.</translation>
   </message>
   <message>
     <original xml:space="preserve">援護する！</original>
+    <translation xml:space="preserve">I'll back you up!</translation>
   </message>
   <message>
     <original xml:space="preserve">回避する！</original>
+    <translation xml:space="preserve">Evading!</translation>
   </message>
   <message>
     <original xml:space="preserve">そこ！</original>
+    <translation xml:space="preserve">Over there!</translation>
   </message>
   <message>
     <original xml:space="preserve">必中！</original>
+    <translation xml:space="preserve">Engaging!</translation>
   </message>
   <message>
     <original xml:space="preserve">必ず仕留める！</original>
+    <translation xml:space="preserve">I always kill the enemy!</translation>
   </message>
   <message>
     <original xml:space="preserve">ここから跳躍を！</original>
+    <translation xml:space="preserve">I'm jumping from here!</translation>
   </message>
   <message>
     <original xml:space="preserve">了解した</original>
+    <translation xml:space="preserve">Understood.</translation>
   </message>
   <message>
     <original xml:space="preserve">命令に従う</original>
+    <translation xml:space="preserve">I will follow your orders.</translation>
   </message>
   <message>
     <original xml:space="preserve">承服しかねる</original>
+    <translation xml:space="preserve">I am unable to comply.</translation>
   </message>
 </resource>
