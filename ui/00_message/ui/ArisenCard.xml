@@ -6,6 +6,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_ARISENCARDJP</key>
     <original xml:space="preserve">覚者プロフィール</original>
+	<translation xml:space="preserve">Arisen Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PAWNCARD</key>
@@ -14,10 +15,12 @@
   <message>
     <key>ARISEN_CARD_TEXT_PAWNCARDJP</key>
     <original xml:space="preserve">ポーンプロフィール</original>
+	<translation xml:space="preserve">Pawn Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CARDMENU</key>
     <original xml:space="preserve">プロフィールの編集</original>
+	<translation xml:space="preserve">Edit Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CLAN</key>
@@ -30,6 +33,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_MEMBER</key>
     <original xml:space="preserve">メンバー数</original>
+	<translation xml:space="preserve">Members</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_JOBLV</key>
@@ -54,22 +58,27 @@
   <message>
     <key>ARISEN_CARD_TEXT_STYLE</key>
     <original xml:space="preserve">プレイスタイル</original>
+	<translation xml:space="preserve">Play Style</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPROFILE</key>
     <original xml:space="preserve">プロフィール</original>
+	<translation xml:space="preserve">Profile</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABSTATUS</key>
     <original xml:space="preserve">ステータス</original>
+	<translation xml:space="preserve">Status</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABSKILLABI</key>
     <original xml:space="preserve">スキル・アビリティ</original>
+	<translation xml:space="preserve">Skills / Abilities</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABHISTORY</key>
     <original xml:space="preserve">ヒストリー</original>
+	<translation xml:space="preserve">History</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPLAYER</key>
