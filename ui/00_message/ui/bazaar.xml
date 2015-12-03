@@ -58,7 +58,7 @@
   <message>
     <key>bazaar_msg_searchresult_num</key>
     <original xml:space="preserve">件</original>
-    <translation xml:space="preserve">results</translation>
+    <translation xml:space="preserve">Search Results</translation>
   </message>
   <message>
     <key>bazaar_msg_category_l_mineral</key>
@@ -213,7 +213,7 @@
   <message>
     <key>bazaar_msg_itemlist_disp_number_num</key>
     <original xml:space="preserve">個</original>
-    <translation xml:space="preserve"></translation>
+    <translation xml:space="preserve">Individual</translation>
   </message>
   <message>
     <key>bazaar_msg_buy_distribution</key>
@@ -266,6 +266,7 @@ Total Price: &lt;VAL GOLD&gt;</translation>
   <message>
     <key>bazaar_msg_info_exhibit</key>
     <original xml:space="preserve">出品中相場</original>
+    <translation xml:space="preserve">Exhibit Infos</translation>
   </message>
   <message>
     <key>bazaar_msg_info_disp_tradingday</key>

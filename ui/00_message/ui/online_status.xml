@@ -22,18 +22,22 @@
   <message>
     <key>ONLINE_STATUS_ENTRYBOARD</key>
     <original xml:space="preserve">エントリーボード登録中</original>
+	<translation xml:space="preserve">Board Registration</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_QUICKMATCH</key>
     <original xml:space="preserve">クイックマッチ待機中</original>
+	<translation xml:space="preserve">Quick Match</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_EVENT</key>
     <original xml:space="preserve">イベント中</original>
+	<translation xml:space="preserve">Event</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_CONTENTS</key>
     <original xml:space="preserve">コンテンツ中</original>
+	<translation xml:space="preserve">Contents</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_PTL</key>

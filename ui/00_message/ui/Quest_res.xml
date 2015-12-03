@@ -7,6 +7,7 @@
   <message>
     <key>QUEST_MSG_LB_PROV</key>
     <original xml:space="preserve">受注条件</original>
+    <translation xml:space="preserve">Orders conditions</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_NOTHING</key>
@@ -16,6 +17,7 @@
   <message>
     <key>QUEST_MSG_LB_REQ</key>
     <original xml:space="preserve">依頼内容</original>
+    <translation xml:space="preserve">Request content</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_REWARD</key>
@@ -35,6 +37,7 @@
   <message>
     <key>QUEST_MSG_LB_RIM</key>
     <original xml:space="preserve">リム</original>
+    <translation xml:space="preserve">Rift</translation>
   </message>
   <message>
     <key>QUEST_MSG_PRIOD</key>
@@ -117,6 +120,7 @@
   <message>
     <key>QUEST_MSG_LB_CLEARED</key>
     <original xml:space="preserve">クリア回数</original>
+    <translation xml:space="preserve">Total Cleared</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_ADDINFO</key>
@@ -130,6 +134,7 @@
   <message>
     <key>QUEST_MSG_NAME_AREA</key>
     <original xml:space="preserve">エリア名</original>
+    <translation xml:space="preserve">Area</translation>
   </message>
   <message>
     <key>QUEST_MSG_UN_AP</key>
@@ -143,14 +148,17 @@
   <message>
     <key>QUEST_MSG_LB_CHARGINFO</key>
     <original xml:space="preserve">課金情報</original>
+    <translation xml:space="preserve">Billing Infos</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_GOAL</key>
     <original xml:space="preserve">目的</original>
+    <translation xml:space="preserve">Goal</translation>
   </message>
   <message>
     <key>QUEST_MSG_OPERATION</key>
     <original xml:space="preserve">クエスト操作</original>
+    <translation xml:space="preserve">Quest Operation</translation>
   </message>
   <message>
     <key>QUEST_MSG_MENU_CANCELLATION</key>
@@ -180,6 +188,7 @@
   <message>
     <key>QUEST_MSG_QUESTLIST</key>
     <original xml:space="preserve">受注クエスト一覧</original>
+    <translation xml:space="preserve">Orders Quest List</translation>
   </message>
   <message>
     <key>QUEST_MSG_BOARD_TITLE01</key>
@@ -246,6 +255,7 @@
   <message>
     <key>QUEST_MSG_BN_UNDETECTED</key>
     <original xml:space="preserve">未公開ボーナス</original>
+    <translation xml:space="preserve">Undetected Bonus</translation>
   </message>
   <message>
     <key>QUEST_MSG_BN_REPLAY</key>
@@ -260,10 +270,12 @@
   <message>
     <key>QUEST_MSG_PROGRESS_CONDITION</key>
     <original xml:space="preserve">進行条件</original>
+    <translation xml:space="preserve">Condition progress</translation>
   </message>
   <message>
     <key>QUEST_MSG_HOLDING_PERIOD</key>
     <original xml:space="preserve">開催期間</original>
+    <translation xml:space="preserve">Holding Period</translation>
   </message>
   <message>
     <key>QUEST_MSG_WAIT_ORDER_QUEST</key>
@@ -372,6 +384,7 @@
   <message>
     <key>QUEST_MSG_BONUS_TIME</key>
     <original xml:space="preserve">ボーナス発生中</original>
+    <translation xml:space="preserve">Bonus Time</translation>
   </message>
   <message>
     <key>QUEST_MSG_OPTION_COURSE</key>
@@ -420,10 +433,12 @@
   <message>
     <key>QUEST_MSG_RAIDB_TITLE</key>
     <original xml:space="preserve">スコア倍率ボーナス</original>
+    <translation xml:space="preserve">Score Multiplier Bonus</translation>
   </message>
   <message>
     <key>QUEST_MSG_RAIDb_BODY</key>
     <original xml:space="preserve">&lt;VAL&gt;倍からスタート</original>
+    <translation xml:space="preserve">Start from &lt;VAL&gt;times</translation>
   </message>
   <message>
     <key>QUEST_MSG_OUT_LEADER</key>
@@ -464,6 +479,7 @@
   <message>
     <key>QUEST_MSG_BN_TIMEBONUS</key>
     <original xml:space="preserve">タイムボーナス</original>
+    <translation xml:space="preserve">Time Bonus</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_TIMEBONUS</key>

@@ -2,46 +2,57 @@
   <message>
     <key>CLAN_SEARCH_MSG_NAME</key>
     <original xml:space="preserve">クランの名前</original>
+    <translation xml:space="preserve">Clan Name</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_RANK</key>
     <original xml:space="preserve">ランク</original>
+    <translation xml:space="preserve">Rank</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_MEMBER</key>
     <original xml:space="preserve">メンバー数</original>
+    <translation xml:space="preserve">Members</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_MOTTO</key>
     <original xml:space="preserve">モットー</original>
+    <translation xml:space="preserve">Motto</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_ATIME</key>
     <original xml:space="preserve">活動時間帯</original>
+    <translation xml:space="preserve">Time active</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_STYLE</key>
     <original xml:space="preserve">特徴</original>
+    <translation xml:space="preserve">Style</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_OK</key>
     <original xml:space="preserve">完了</original>
+    <translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_CANCEL</key>
     <original xml:space="preserve">キャンセル</original>
+    <translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_SEARCH_BACK</key>
     <original xml:space="preserve">検索条件変更に戻る</original>
+    <translation xml:space="preserve">Return to seach criteria</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_MEMBER_LIST</key>
     <original xml:space="preserve">メンバー</original>
+    <translation xml:space="preserve">Member</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_DATE</key>
     <original xml:space="preserve">設立日</original>
+    <translation xml:space="preserve">Founded</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_ORLESS</key>
@@ -74,10 +85,12 @@
   <message>
     <key>CLAN_SEARCH_INDEX_JP</key>
     <original xml:space="preserve">クラン検索</original>
+    <original xml:space="preserve">Clan Search</original>
   </message>
   <message>
     <key>CLAN_SEARCH_SHORT_NAME</key>
     <original xml:space="preserve">略称で検索</original>
+    <translation xml:space="preserve">Abbreviation</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_RANK_EN</key>
@@ -86,6 +99,7 @@
   <message>
     <key>CLAN_SEARCH_MSG_NOT_FOUND</key>
     <original xml:space="preserve">クランが見つかりませんでした</original>
+    <translation xml:space="preserve">Clan was not found.</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_NAME_FORMAT</key>

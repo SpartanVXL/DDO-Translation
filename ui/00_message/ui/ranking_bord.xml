@@ -6,30 +6,37 @@
   <message>
     <key>RANKING_MSG_NAME</key>
     <original xml:space="preserve">名前</original>
+    <translation xml:space="preserve">Name</translation>
   </message>
   <message>
     <key>RANKING_MSG_CLAN</key>
     <original xml:space="preserve">クラン</original>
+    <translation xml:space="preserve">Clan</translation>
   </message>
   <message>
     <key>RANKING_MSG_POINT</key>
     <original xml:space="preserve">スコア</original>
+    <translation xml:space="preserve">Score</translation>
   </message>
   <message>
     <key>RANKING_MSG_RANK</key>
     <original xml:space="preserve">位</original>
+    <translation xml:space="preserve">Rank</translation>
   </message>
   <message>
     <key>RANKING_MSG_PERIOD</key>
     <original xml:space="preserve">開催期間：&lt;DATE&gt; ～ &lt;DATE&gt;</original>
+    <translation xml:space="preserve">Period: &lt;DATE&gt; ～ &lt;DATE&gt;</translation>
   </message>
   <message>
     <key>RANKING_MSG_UPDATE</key>
     <original xml:space="preserve">集計日：&lt;DATE&gt;</original>
+    <translation xml:space="preserve">Update: &lt;DATE&gt;</translation>
   </message>
   <message>
     <key>RANKING_MSG_DIAROG_NONE</key>
     <original xml:space="preserve">集計していません</original>
+    <translation xml:space="preserve">Not counting.</translation>
   </message>
   <message>
     <key>RANKING_MSG_ANNOUNCE_STARTED</key>
@@ -39,10 +46,12 @@
   <message>
     <key>RANKING_MSG_BUTTON_SHOW_MYSELF</key>
     <original xml:space="preserve">自分の順位を表示</original>
+    <translation xml:space="preserve">Show your order</translation>
   </message>
   <message>
     <key>RANKING_MSG_BUTTON_BACK</key>
     <original xml:space="preserve">通常ランキングに戻る</original>
+    <translation xml:space="preserve">Return</translation>
   </message>
   <message>
     <key>RANKING_MSG_NOENTRY</key>
@@ -63,10 +72,12 @@
   <message>
     <key>RANKING_MSG_TITLE_JP</key>
     <original xml:space="preserve">ランキングボード</original>
+    <original xml:space="preserve">Ranking Board</original>
   </message>
   <message>
     <key>RANKING_MSG_TITLE2_JP</key>
     <original xml:space="preserve">ランキング</original>
+    <original xml:space="preserve">Ranking</original>
   </message>
   <message>
     <key>RANKING_MSG_TITLE2_EN</key>
@@ -83,22 +94,27 @@
   <message>
     <key>RANKING_MSG_HOLDING</key>
     <original xml:space="preserve">開催中</original>
+    <translation xml:space="preserve">In session</translation>
   </message>
   <message>
     <key>RANKING_MSG_END</key>
     <original xml:space="preserve">終了</original>
+    <translation xml:space="preserve">End</translation>
   </message>
   <message>
     <key>RANKING_MSG_ALL</key>
     <original xml:space="preserve">全て</original>
+    <translation xml:space="preserve">All</translation>
   </message>
   <message>
     <key>RANKING_MSG_CLAN_JP</key>
     <original xml:space="preserve">クラン</original>
+    <translation xml:space="preserve">Clan</translation>
   </message>
   <message>
     <key>RANKING_MSG_RANKS</key>
     <original xml:space="preserve">&lt;VAL&gt;位</original>
+    <translation xml:space="preserve">Rank &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>RANKING_MSG_STATE_PREPARATION</key>

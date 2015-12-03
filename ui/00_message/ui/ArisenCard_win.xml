@@ -60,7 +60,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_STYLE</key>
     <original xml:space="preserve">プレイスタイル</original>
-    <translation xml:space="preserve">Play Style</translation>
+    <translation xml:space="preserve">Gameplay</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPROFILE</key>
@@ -100,22 +100,22 @@
   <message>
     <key>ARISEN_CARD_TEXT_PHYSICALATK</key>
     <original xml:space="preserve">物理攻撃力</original>
-    <translation xml:space="preserve">Physical Attack</translation>
+    <translation xml:space="preserve">Phys.Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_MAGICALATK</key>
     <original xml:space="preserve">魔法攻撃力</original>
-    <translation xml:space="preserve">Magick Attack</translation>
+    <translation xml:space="preserve">Magic.Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PHYSICALDEF</key>
     <original xml:space="preserve">物理防御力</original>
-    <translation xml:space="preserve">Physical Defense</translation>
+    <translation xml:space="preserve">Phys.Def</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_MAGICALDEF</key>
     <original xml:space="preserve">魔法防御力</original>
-    <translation xml:space="preserve">Magick Defense</translation>
+    <translation xml:space="preserve">Magic.Def</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_OFFENCE</key>
@@ -129,7 +129,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_CHANCEATK</key>
     <original xml:space="preserve">チャンス攻力</original>
-    <translation xml:space="preserve">Chance Attack</translation>
+    <translation xml:space="preserve">Chance</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TIREDATK</key>
@@ -252,22 +252,27 @@
   <message>
     <key>ARISEN_CARD_TEXT_ADV</key>
     <original xml:space="preserve">冒険</original>
+	<translation xml:space="preserve">Adventure</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_BATTLE</key>
     <original xml:space="preserve">戦闘</original>
+	<translation xml:space="preserve">Combat</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_GATHER</key>
     <original xml:space="preserve">収集</original>
+	<translation xml:space="preserve">Collection</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_GROW</key>
     <original xml:space="preserve">成長</original>
+	<translation xml:space="preserve">Growth</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_OHTER</key>
     <original xml:space="preserve">その他</original>
+	<translation xml:space="preserve">Other</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ORBTITLE</key>
@@ -339,7 +344,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_MAGIC</key>
     <original xml:space="preserve">魔力</original>
-    <translation xml:space="preserve">Magick</translation>
+    <translation xml:space="preserve">Magical Power</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_KNOCKBACK</key>
@@ -364,7 +369,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_INVITEPARTY</key>
     <original xml:space="preserve">パーティー参加</original>
-    <translation xml:space="preserve">Party Setting</translation>
+    <translation xml:space="preserve">Party Invitation</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HISTORYGETACHIEVE</key>

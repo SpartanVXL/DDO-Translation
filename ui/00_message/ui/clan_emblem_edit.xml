@@ -2,18 +2,22 @@
   <message>
     <key>CLAN_EME_TEXT_MARK</key>
     <original xml:space="preserve">マーク</original>
+	<translation xml:space="preserve">Mark</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_BASE</key>
     <original xml:space="preserve">ベース</original>
+	<translation xml:space="preserve">Base</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_COL_M</key>
     <original xml:space="preserve">メインカラー</original>
+	<translation xml:space="preserve">Main Color</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_COL_S</key>
     <original xml:space="preserve">サブカラー</original>
+	<translation xml:space="preserve">Sub Color</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_PREV</key>
@@ -22,10 +26,12 @@
   <message>
     <key>CLAN_EME_TEXT_DECIDE</key>
     <original xml:space="preserve">決定</original>
+	<translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_CANCEL</key>
     <original xml:space="preserve">キャンセル</original>
+	<translation xml:space="preserve">Cancel</translation>
   </message>
   <message>
     <key>CLAN_EME_TEXT_TITLE_EN</key>
@@ -34,5 +40,6 @@
   <message>
     <key>CLAN_EME_TEXT_TITLE_JP</key>
     <original xml:space="preserve">エンブレム編集</original>
+	<translation xml:space="preserve">Emblem Edit</translation>
   </message>
 </resource>

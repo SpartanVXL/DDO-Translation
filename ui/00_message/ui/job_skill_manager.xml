@@ -2,22 +2,27 @@
   <message>
     <key>title_change_job_skill</key>
     <original xml:space="preserve">転職・戦技補佐</original>
+    <translation xml:space="preserve">Change Job Skills</translation>
   </message>
   <message>
     <key>title_change_skill</key>
     <original xml:space="preserve">戦技補佐</original>
+    <translation xml:space="preserve">Job Skill Manager</translation>
   </message>
   <message>
     <key>option_change_job</key>
     <original xml:space="preserve">転職</original>
+    <translation xml:space="preserve">Change Jobs</translation>
   </message>
   <message>
     <key>option_change_skill</key>
     <original xml:space="preserve">スキル習得/装備</original>
+    <translation xml:space="preserve">Change Skills</translation>
   </message>
   <message>
     <key>option_change_ability</key>
     <original xml:space="preserve">アビリティ習得/装備</original>
+    <translation xml:space="preserve">Change Abilities</translation>
   </message>
   <message>
     <key>heading_change_skill_ability</key>
@@ -42,6 +47,7 @@
   <message>
     <key>button_get</key>
     <original xml:space="preserve">習得</original>
+    <translation xml:space="preserve">Learn</translation>
   </message>
   <message>
     <key>button_levelup</key>
@@ -121,6 +127,7 @@ to level it up?</translation>
   <message>
     <key>dropdown_ability_search</key>
     <original xml:space="preserve">検索結果</original>
+    <translation xml:space="preserve">Search Results</translation>
   </message>
   <message>
     <key>announce_ability_search_result</key>
@@ -177,6 +184,7 @@ to level it up?</translation>
   <message>
     <key>custom_skill_cmd_title</key>
     <original xml:space="preserve">操作選択</original>
+    <translation xml:space="preserve">Select Skills</translation>
   </message>
   <message>
     <key>custom_skill_cmd_remove</key>
@@ -210,10 +218,12 @@ to level it up?</translation>
   <message>
     <key>error_server_request_fail</key>
     <original xml:space="preserve">通信リクエストに失敗しました</original>
+    <translation xml:space="preserve">Server failed requests.</translation>
   </message>
   <message>
     <key>get_conditions</key>
     <original xml:space="preserve">習得条件</original>
+    <translation xml:space="preserve">Prereq.</translation>
   </message>
   <message>
     <key>need_jp_to_get</key>
@@ -232,12 +242,12 @@ to level it up?</translation>
   <message>
     <key>preset_default_name</key>
     <original xml:space="preserve">プリセット</original>
-    <translation xml:space="preserve">Preset #</translation>
+    <translation xml:space="preserve">Default Preset</translation>
   </message>
   <message>
     <key>preset_unregist</key>
     <original xml:space="preserve">未登録</original>
-    <translation xml:space="preserve">Unregistered</translation>
+    <translation xml:space="preserve">Unregistered.</translation>
   </message>
   <message>
     <key>job_change_error_capacity_over</key>

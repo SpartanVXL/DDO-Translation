@@ -11,7 +11,7 @@
   <message>
     <key>pick_item_select</key>
     <original xml:space="preserve">使用するアイテムを選択</original>
-    <translation xml:space="preserve">Select which item to use</translation>
+    <translation xml:space="preserve">Select which item to use.</translation>
   </message>
   <message>
     <key>pick_item_noselect</key>
@@ -31,16 +31,16 @@
   <message>
     <key>pick_item_limit</key>
     <original xml:space="preserve">所持数が上限に達しました</original>
-    <translation xml:space="preserve">You cannot hold more of this item</translation>
+    <translation xml:space="preserve">You cannot hold more of this item.</translation>
   </message>
   <message>
     <key>pick_item_not_get</key>
     <original xml:space="preserve">アイテムバッグがいっぱいのため、すべてを受け取ることができません</original>
-    <translation xml:space="preserve">Your item bag is full and you cannot receive all the items</translation>
+    <translation xml:space="preserve">Your item bag is full and you cannot receive all the items.</translation>
   </message>
   <message>
     <key>pick_item_limit_max</key>
     <original xml:space="preserve">アイテムバッグがいっぱいのため、受け取ることができません</original>
-    <translation xml:space="preserve">Your item bag is full</translation>
+    <translation xml:space="preserve">Your item bag is full.</translation>
   </message>
 </resource>

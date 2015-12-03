@@ -10,39 +10,47 @@
   <message>
     <key>mr_msg_element</key>
     <original xml:space="preserve">項目</original>
+	<translation xml:space="preserve">Items</translation>
   </message>
   <message>
     <key>mr_msg_finish</key>
     <original xml:space="preserve">完了</original>
+	<translation xml:space="preserve">Cleared</translation>
   </message>
   <message>
     <key>mr_msg_get</key>
     <original xml:space="preserve">を獲得！</original>
+	<translation xml:space="preserve">Claim!</translation>
   </message>
   <message>
     <key>mr_msg_lobby</key>
     <original xml:space="preserve">秒後にロビーに戻ります</original>
-    <translation xml:space="preserve">you will return to the lobby</translation>
+    <translation xml:space="preserve">You will return to the lobby.</translation>
   </message>
   <message>
     <key>mr_msg_no_reward</key>
     <original xml:space="preserve">報酬はありません</original>
+	<translation xml:space="preserve">There is no reward.</translation>
   </message>
   <message>
     <key>mr_msg_no_element</key>
     <original xml:space="preserve">項目はありません</original>
+	<translation xml:space="preserve">There is no item.</translation>
   </message>
   <message>
     <key>mr_msg_times</key>
     <original xml:space="preserve">回数</original>
+	<translation xml:space="preserve">Times</translation>
   </message>
   <message>
     <key>mr_msg_sum</key>
     <original xml:space="preserve">小計</original>
+	<translation xml:space="preserve">Subtotal</translation>
   </message>
   <message>
     <key>mr_msg_deathpenalty</key>
     <original xml:space="preserve">死亡ペナルティ</original>
+	<translation xml:space="preserve">Death Penalty</translation>
   </message>
   <message>
     <key>mr_msg_tec_score</key>
@@ -55,30 +63,37 @@
   <message>
     <key>mr_msg_tab_reward</key>
     <original xml:space="preserve">報酬</original>
+	<translation xml:space="preserve">Reward</translation>
   </message>
   <message>
     <key>mr_msg_tab_score</key>
     <original xml:space="preserve">スコア詳細</original>
+	<translation xml:space="preserve">Score</translation>
   </message>
   <message>
     <key>mr_msg_head_timebonus</key>
     <original xml:space="preserve">残タイムスコア</original>
+	<translation xml:space="preserve">Time Score Left</translation>
   </message>
   <message>
     <key>mr_msg_head_timebonus_powered</key>
     <original xml:space="preserve">タイムボーナス</original>
+	<translation xml:space="preserve">Time Bonus</translation>
   </message>
   <message>
     <key>mr_msg_head_reward_normal</key>
     <original xml:space="preserve">基本報酬</original>
+	<translation xml:space="preserve">Basic Reward</translation>
   </message>
   <message>
     <key>mr_msg_head_reward_parts</key>
     <original xml:space="preserve">部位破壊報酬</original>
+	<translation xml:space="preserve">Break Parts Reward</translation>
   </message>
   <message>
     <key>mr_msg_head_reward_opcs</key>
     <original xml:space="preserve">&lt;OPCS&gt;報酬</original>
+	<translation xml:space="preserve">">&lt;OPCS&gt;Reward</translation>
   </message>
   <message>
     <key>mr_msg_title_en</key>
@@ -87,13 +102,16 @@
   <message>
     <key>mr_msg_title_jp</key>
     <original xml:space="preserve">ミッションリザルト</original>
+	<translation xml:space="preserve">Mission Result</translation>
   </message>
   <message>
     <key>mr_msg_parts_break</key>
     <original xml:space="preserve">部位破壊</original>
+	<translation xml:space="preserve">Break Parts</translation>
   </message>
   <message>
     <key>mr_msg_result_reward</key>
     <original xml:space="preserve">リザルト報酬を獲得！</original>
+	<translation xml:space="preserve">Earn result reward!</translation>
   </message>
 </resource>

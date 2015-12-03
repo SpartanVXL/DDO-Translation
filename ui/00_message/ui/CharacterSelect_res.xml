@@ -19,7 +19,7 @@
   <message>
     <key>char_sel_delete</key>
     <original xml:space="preserve">キャラクターの削除</original>
-    <translation xml:space="preserve">Delete</translation>
+    <translation xml:space="preserve">Delete Character</translation>
   </message>
   <message>
     <key>char_sel_del_chara_select</key>
@@ -40,6 +40,7 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_code</key>
     <original xml:space="preserve">確認コード：</original>
+    <translation xml:space="preserve">Confirm Code:</translation>
   </message>
   <message>
     <key>char_sel_decide</key>
@@ -64,14 +65,17 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_del_alert</key>
     <original xml:space="preserve">を削除します</original>
+    <translation xml:space="preserve">Carefull Deletion</translation>
   </message>
   <message>
     <key>char_sel_del_finish</key>
     <original xml:space="preserve">キャラクターの削除が完了しました</original>
+    <translation xml:space="preserve">You Character has been deleted.</translation>
   </message>
   <message>
     <key>char_sel_del_error</key>
     <original xml:space="preserve">確認コードが間違っています</original>
+    <translation xml:space="preserve">The Confirmation Code is incorrect.</translation>
   </message>
   <message>
     <key>char_sel_bonus</key>
@@ -80,19 +84,22 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_no_bonus</key>
     <original xml:space="preserve">発動中の&lt;OPCS&gt;はありません</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>char_sel_fourwords</key>
     <original xml:space="preserve">（半角英数4文字）</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>char_sel_announce_charover</key>
     <original xml:space="preserve">キャラクター作成上限です</original>
+    <translation xml:space="preserve">Character creation is the upper limit.</translation>
   </message>
   <message>
     <key>char_sel_add_newchar</key>
     <original xml:space="preserve">新規作成</original>
-    <translation xml:space="preserve">Create</translation>
+    <translation xml:space="preserve">Create a new character.</translation>
   </message>
   <message>
     <key>char_sel_button_zoom</key>

@@ -6,6 +6,7 @@
   <message>
     <key>fgc_title_jp</key>
     <original xml:space="preserve">グループチャット</original>
+	<translation xml:space="preserve">Group Chat</translation>
   </message>
   <message>
     <key>fgc_cate_name</key>
@@ -35,6 +36,7 @@
   <message>
     <key>fgc_cate_number_of_participants</key>
     <original xml:space="preserve">参加人数</original>
+	<translation xml:space="preserve">Participants</translation>
   </message>
   <message>
     <key>fgc_button_invitation</key>
@@ -44,9 +46,11 @@
   <message>
     <key>fgc_button_roomout</key>
     <original xml:space="preserve">グループから退室</original>
+	<translation xml:space="preserve">Exit from the group.</translation>
   </message>
   <message>
     <key>fgc_ana_nonfgc</key>
     <original xml:space="preserve">グループチャットが組まれていません</original>
+	<translation xml:space="preserve">Group Chat is not organized.</translation>
   </message>
 </resource>

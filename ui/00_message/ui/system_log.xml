@@ -252,6 +252,7 @@
   <message>
     <key>syslog_quest_order</key>
     <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞が受注待ちになりました</original>
+    <translation xml:space="preserve">＜&lt;NAME QUEST&gt;＞ is now waiting for orders.</translation>
   </message>
   <message>
     <key>syslog_quest_discontinue</key>
@@ -262,6 +263,8 @@
     <key>syslog_reward_box_limit_notion</key>
     <original xml:space="preserve">報酬ボックスの容量が少なくなっています
 古い報酬を失う可能性があります</original>
+    <translation xml:space="preserve">Your reward box is full.
+When it exceeds capacity, the oldest reward will be lost.</translation>
   </message>
   <message>
     <key>syslog_quest_update</key>
@@ -274,22 +277,27 @@
   <message>
     <key>syslog_quest_partyquest_set</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;がパーティークエストに設定されました</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt; has been set to the party quest. </translation>
   </message>
   <message>
     <key>syslog_quest_partyquest_unset</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;がパーティークエストから外されました</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt; has been removed from the party quest.</translation>
   </message>
   <message>
     <key>syslog_quest_ready_start</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;がイベント準備・パーティー招集を行いました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; is ready to start.</translation>
   </message>
   <message>
     <key>syslog_quest_ready_ready</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;が進行準備完了になりました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; is now ready.</translation>
   </message>
   <message>
     <key>syslog_quest_meinquest_enable</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;が受注可能になりました</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt; is now available for order.</translation>
   </message>
   <message>
     <key>syslog_quest_stopedquest_enable</key>
@@ -337,7 +345,7 @@ Gained &lt;VAL AP&gt;.</translation>
     <key>syslog_jobmaster_order_clear</key>
     <original xml:space="preserve">ジョブ修練ログ「&lt;VAL&gt;」の課題を達成しました
 ジョブマスターに報告してください</original>
-    <translation xml:space="preserve">Job training log "&lt;VAL&gt;" has been completed.
+    <translation xml:space="preserve">Job training log 「&lt;VAL&gt;」has been completed.
 Report to the Job Master.</translation>
   </message>
   <message>
@@ -367,18 +375,22 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_content_enemy_engage</key>
     <original xml:space="preserve">&lt;EMNM n&gt;が乱入しました</original>
+    <translation xml:space="preserve">&lt;EMNM n&gt; was engaged.</translation>
   </message>
   <message>
     <key>syslog_content_convoy_hp_half</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;のHPが50％をきりました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has now half HP 50%.</translation>
   </message>
   <message>
     <key>syslog_content_convoy_hp_little</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;のHPが瀕死状態です</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; is moribund.</translation>
   </message>
   <message>
     <key>syslog_content_convoy_hp_zero</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;が倒れました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has fallen.</translation>
   </message>
   <message>
     <key>syslog_content_pawn_rescure_success</key>
@@ -391,14 +403,17 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_content_pawn_get_pawn</key>
     <original xml:space="preserve">セカンドポーンが仲間に加わりました</original>
+    <translation xml:space="preserve">Second pawn has been added to fellow.</translation>
   </message>
   <message>
     <key>syslog_content_boss_beat</key>
     <original xml:space="preserve">&lt;EMNM n&gt;を退けました</original>
+    <translation xml:space="preserve">&lt;EMNM n&gt; has been beaten.</translation>
   </message>
   <message>
     <key>syslog_content_boss_defeat</key>
     <original xml:space="preserve">&lt;EMNM n&gt;を討伐しました</original>
+    <translation xml:space="preserve">&lt;EMNM n&gt; has been defeated.</translation>
   </message>
   <message>
     <key>syslog_content_end_by_clear</key>
@@ -422,14 +437,17 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_content_anounce_prepare</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;が準備期間中です</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt; is in preparation period.</translation>
   </message>
   <message>
     <key>syslog_content_anounce_hold</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;が開催期間中です</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt; is being hold period.</translation>
   </message>
   <message>
     <key>syslog_content_anounce_calcurate</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;が集計期間中です</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt; is in total period.</translation>
   </message>
   <message>
     <key>syslog_content_anounce_reward</key>
@@ -1079,12 +1097,12 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_stone</key>
     <original xml:space="preserve">黄金石&lt;VAL&gt;個を消費して、ロットを1回行いました</original>
-    <translation xml:space="preserve">&lt;VAL&gt; golden gemstones will be consumed to lot 1 time.</translation>
+    <translation xml:space="preserve">&lt;VAL&gt; Golden Gemstones will be consumed to lot 1 time.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_stones</key>
     <original xml:space="preserve">黄金石&lt;VAL&gt;個を消費して、ロットを&lt;VAL&gt;連続でまわしました</original>
-    <translation xml:space="preserve">&lt;VAL&gt; golden gemstones will be consumed to lot &lt;VAL&gt; times in succession.</translation>
+    <translation xml:space="preserve">&lt;VAL&gt; Golden Gemstones will be consumed to lot &lt;VAL&gt; times in succession.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_ticket</key>
@@ -1156,6 +1174,8 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
     <key>syslog_quest_progress_failed</key>
     <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞の進行に失敗しました
 クエストログで進行状況を確認してください</original>
+    <translation xml:space="preserve">Please check the progress in the quest log, 
+    which failed to progress of ＜&lt;NAME QUEST&gt;＞</translation>
   </message>
   <message>
     <key>syslog_break_region_lose_raid_boss</key>

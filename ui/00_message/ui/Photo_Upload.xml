@@ -22,18 +22,22 @@
   <message>
     <key>pu_msg_004</key>
     <original xml:space="preserve">写真送信中</original>
+	<translation xml:space="preserve">Photos send.</translation>
   </message>
   <message>
     <key>pu_msg_005</key>
     <original xml:space="preserve">電源を切らないでください</original>
+	<translation xml:space="preserve">Please do not turn off the power.</translation>
   </message>
   <message>
     <key>pu_msg_009</key>
     <original xml:space="preserve">通信エラーが発生しました</original>
+	<translation xml:space="preserve">A communication error occurred.</translation>
   </message>
   <message>
     <key>pu_msg_006</key>
     <original xml:space="preserve">送信が完了しました</original>
+	<translation xml:space="preserve">Transmission has been completed.</translation>
   </message>
   <message>
     <key>pu_msg_007</key>
@@ -43,5 +47,6 @@
   <message>
     <key>pu_msg_008</key>
     <original xml:space="preserve">通信中のため、投稿できません</original>
+	<translation xml:space="preserve">Due to communication error, you can not  post your Photo.</translation>
   </message>
 </resource>

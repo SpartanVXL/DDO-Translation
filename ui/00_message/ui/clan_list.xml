@@ -2,18 +2,22 @@
   <message>
     <key>GMD_CLAN_LIST_TAB_JOIN_REQ</key>
     <original xml:space="preserve">加入希望者リスト</original>
+    <translation xml:space="preserve">Joining Request</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITE</key>
     <original xml:space="preserve">招待リスト</original>
+	<translation xml:space="preserve">Invitation List</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_APPLY</key>
     <original xml:space="preserve">加入申請中リスト</original>
+	<translation xml:space="preserve">Apply</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITED</key>
     <original xml:space="preserve">クランからの招待</original>
+	<translation xml:space="preserve">Invitation from Clan</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TOP_EN</key>
@@ -22,10 +26,12 @@
   <message>
     <key>GMD_CLAN_LIST_TOP_JP</key>
     <original xml:space="preserve">クランリスト</original>
+	<translation xml:space="preserve">Clan List</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_COLUMN_NAME</key>
     <original xml:space="preserve">名前</original>
+	<translation xml:space="preserve">Name</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_COLUMN_CLAN</key>
@@ -40,17 +46,21 @@
   <message>
     <key>GMD_CLAN_LIST_NO_JOIN_REQ</key>
     <original xml:space="preserve">加入申請がありません</original>
+	<translation xml:space="preserve">There is no subscription application.</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_INVITE</key>
     <original xml:space="preserve">招待していません</original>
+	<translation xml:space="preserve">Not invited.</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_APPLY</key>
     <original xml:space="preserve">加入申請していません</original>
+	<translation xml:space="preserve">Not applied.</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_INVITED</key>
     <original xml:space="preserve">招待されていません</original>
+	<translation xml:space="preserve">Not invited.</translation>
   </message>
 </resource>
