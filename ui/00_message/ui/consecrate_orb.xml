@@ -10,6 +10,10 @@
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
 　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+    <translation xml:space="preserve">以下の能力を取得します。よろしいですか？
+      
+  Ability：&lt;NAME SKILL&gt;
+  Acquire for：&lt;VAL BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_2ND_0</key>
@@ -17,6 +21,10 @@
 
 　取得能力：&lt;NAME SKILL&gt;
 　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+    <translation xml:space="preserve">以下の能力を取得します。よろしいですか？
+      
+  Ability：&lt;NAME SKILL&gt;
+  Acquire for：&lt;VAL BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_1</key>
@@ -25,6 +33,11 @@
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
 　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+    <translation xml:space="preserve">以下の能力を取得します。よろしいですか？
+(次回から隣接する能力のみが取得可能になります)
+　
+  Ability：&lt;NAME SKILL&gt;+&lt;VAL&gt;
+  Acquire for：&lt;VAL BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_0</key>
@@ -33,6 +46,11 @@
 
 　取得能力：&lt;NAME SKILL&gt;
 　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+    <translation xml:space="preserve">以下の能力を取得します。よろしいですか？
+(次回から隣接する能力のみが取得可能になります)
+
+  Ability：&lt;NAME SKILL&gt;
+  Aquire for：&lt;VAL BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_RELEASE_PERCENT</key>
@@ -56,6 +74,7 @@
   <message>
     <key>ORB_TEXT_ERR_GETED</key>
     <original xml:space="preserve">すでに取得済みの能力です</original>
+    <translation xml:space="preserve">Already acquired.</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_COMP_1</key>
@@ -63,6 +82,10 @@
 以下の能力を取得できます。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;</original>
+    <translation xml:space="preserve">必要なトータルレベルに達しているので
+以下の能力を取得できます。よろしいですか？
+      
+  Ability：&lt;NAME SKILL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_COMP_2</key>
@@ -70,6 +93,10 @@
 以下の能力を取得できます。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
+    <translation xml:space="preserve">必要なトータルレベルに達しているので
+以下の能力を取得できます。よろしいですか？
+      
+　Ability：&lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ALLCOMP_1</key>
@@ -77,22 +104,30 @@
 以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;</original>
+    <translation xml:space="preserve">これ以外のすべての能力を取得した功績を称え
+以下の能力を取得します。よろしいですか？
+      
+ 　Ability：&lt;NAME SKILL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_RELEASE_INDEX</key>
     <original xml:space="preserve">取得率</original>
+    <translation xml:space="preserve">Acquisition Rate</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_SCENARIO</key>
     <original xml:space="preserve">この階層はまだ解放されていません</original>
+    <translation xml:space="preserve">This scenario has not yet started.</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_BO_LACK</key>
     <original xml:space="preserve">ブラッドオーブが不足しています</original>
+    <translation xml:space="preserve">Blood Orbs are missing.</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_ALLCOMP</key>
     <original xml:space="preserve">これ以外のすべての能力を取得することで選択できます</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_COMP</key>
@@ -105,10 +140,12 @@
   <message>
     <key>ORB_TEXT_SKILL_GET_ANOUNCE_2</key>
     <original xml:space="preserve">&lt;NAME SKILL&gt;+&lt;VAL&gt;を取得しました</original>
+    <translation xml:space="preserve">You have to get &lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ANOUNCE_1</key>
     <original xml:space="preserve">&lt;NAME SKILL&gt;を取得しました</original>
+    <translation xml:space="preserve">You have to get &lt;NAME SKILL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ALLCOMP_2</key>
@@ -116,6 +153,10 @@
 以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
+    <translation xml:space="preserve">これ以外のすべての能力を取得した功績を称え
+以下の能力を取得します。よろしいですか？
+
+　Ability：&lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_NAME</key>
@@ -129,9 +170,11 @@
   <message>
     <key>ORB_TEXT_NOW_TOTALLEVEL</key>
     <original xml:space="preserve">現在のトータルレベル</original>
+    <translation xml:space="preserve">Current Total Level</translation>
   </message>
   <message>
     <key>ORB_TEXT_GET_TOTALLEVEL</key>
     <original xml:space="preserve">必要なトータルレベル</original>
+    <translation xml:space="preserve">Required Total Level</translation>
   </message>
 </resource>

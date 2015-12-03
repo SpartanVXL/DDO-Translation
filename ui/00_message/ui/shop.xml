@@ -119,22 +119,27 @@ not be able to equip this item.&lt;/COL&gt;
   <message>
     <key>title_weapon</key>
     <original xml:space="preserve">武具屋</original>
+    <translation xml:space="preserve">Equipment</translation>
   </message>
   <message>
     <key>title_item</key>
     <original xml:space="preserve">道具屋</original>
+    <translation xml:space="preserve">Item</translation>
   </message>
   <message>
     <key>title_material</key>
     <original xml:space="preserve">素材屋</original>
+    <translation xml:space="preserve">Material</translation>
   </message>
   <message>
     <key>title_orb_enhance_material</key>
     <original xml:space="preserve">オーブ交換：クレスト</original>
+    <translation xml:space="preserve">Orb Exchange: Crests</translation>
   </message>
   <message>
     <key>title_orb_craft_material</key>
     <original xml:space="preserve">オーブ交換：レア素材</original>
+    <translation xml:space="preserve">Orb Exchange: Rare Material</translation>
   </message>
   <message>
     <key>heading_sell</key>
@@ -149,10 +154,12 @@ not be able to equip this item.&lt;/COL&gt;
   <message>
     <key>dialog_buy_how_many</key>
     <original xml:space="preserve">いくつ購入しますか？</original>
+    <translation xml:space="preserve">How many items do you want to buy ?</translation>
   </message>
   <message>
     <key>dialog_sell_how_many</key>
     <original xml:space="preserve">いくつ売却しますか？</original>
+    <translation xml:space="preserve">How many items do you want to sell ?</translation>
   </message>
   <message>
     <key>dialog_decide_buy</key>
@@ -161,6 +168,11 @@ not be able to equip this item.&lt;/COL&gt;
 　アイテム：&lt;NAME ITEM&gt;
 　合計個数：&lt;VAL&gt;個
 　購入価格：&lt;VAL GOLD&gt;</original>
+    <translation xml:space="preserve">Are you sure you want to buy the following?
+	
+ Item：&lt;NAME ITEM&gt;
+ Amount：×&lt;VAL&gt;
+ Buy Price：&lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>dialog_decide_sell</key>
@@ -169,7 +181,13 @@ not be able to equip this item.&lt;/COL&gt;
 　アイテム：&lt;NAME ITEM&gt;
 　合計個数：&lt;VAL&gt;個
 　売却価格：&lt;VAL GOLD&gt;</original>
+    <translation xml:space="preserve">Are you sure you want to sell the following ?
+	
+ Item：&lt;NAME ITEM&gt;
+ Amount：×&lt;VAL&gt;
+ Sale Price：&lt;VAL GOLD&gt;</translation>
   </message>
+  
   <message>
     <key>SHOP_TEXT_BUY_TITLE</key>
     <original xml:space="preserve">Buy</original>
@@ -182,6 +200,7 @@ not be able to equip this item.&lt;/COL&gt;
   <message>
     <key>SHOP_TEXT_EQUIPCHANGE</key>
     <original xml:space="preserve">試着切り替え</original>
+    <translation xml:space="preserve">Change Equipment</translation>
   </message>
   <message>
     <key>SHOP_TEXT_PREVIEW</key>
@@ -205,9 +224,15 @@ not be able to equip this item.&lt;/COL&gt;
 　アイテム：&lt;NAME ITEM&gt;
 　合計個数：&lt;VAL&gt;個
 　購入価格：&lt;VAL BO&gt;</original>
+    <translation xml:space="preserve">Are you sure you want to buy the following?
+	
+ Item：&lt;NAME ITEM&gt;
+ Amount：×&lt;VAL&gt;
+ Buy Price：&lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>SHOP_TEXT_CHOOSE_TRY_ON</key>
     <original xml:space="preserve">試着する対象を選択してください</original>
+    <translation xml:space="preserve">Please select the item you want to try on.</translation>
   </message>
 </resource>

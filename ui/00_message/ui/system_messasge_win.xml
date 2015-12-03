@@ -2,11 +2,12 @@
   <message>
     <key>sys_announce_controllernotconnect</key>
     <original xml:space="preserve">&lt;PFWD 0&gt;が接続されていません</original>
+    <translation xml:space="preserve">&lt;PFWD 0&gt; is not connected.</translation>
   </message>
   <message>
     <key>sys_announce_check_strage</key>
     <original xml:space="preserve">ハードディスクドライブの容量をチェックしています</original>
-    <translation xml:space="preserve">Checking HDD capacity</translation>
+    <translation xml:space="preserve">Checking HDD capacity...</translation>
   </message>
   <message>
     <key>sys_announce_notenoughstorage</key>
@@ -23,12 +24,17 @@
     <key>sys_announce_newsave</key>
     <original xml:space="preserve">新規にセーブデータを作成しています
 PCの電源を切らないでください</original>
+    <translation xml:space="preserve">Creating a new save data...
+Please do not turn off your PC.</translation>
   </message>
   <message>
     <key>sys_announce_savedata_broken</key>
     <original xml:space="preserve">セーブデータが破損しています
 セーブデータを破棄して
 新規に作成しますか？</original>
+    <translation xml:space="preserve">The save data is corrupted,
+previous data will not be saved.
+Do you want to create a new save data ?</translation>
   </message>
   <message>
     <key>sys_announce_ps3_loadfail</key>
@@ -47,33 +53,43 @@ PCの電源を切らないでください</original>
     <key>sys_announce_goto_launcher</key>
     <original xml:space="preserve">セーブデータを準備できませんでした
 ランチャーへ戻ります</original>
+    <translation xml:space="preserve">Unable to load the save data.
+You will return to the Launcher.</translation>
   </message>
   <message>
     <key>sys_announce_failedsave</key>
     <original xml:space="preserve">セーブデータの保存に失敗しました</original>
+    <translation xml:space="preserve">Failed to save the save data.</translation>
   </message>
   <message>
     <key>sys_announce_checkingsave</key>
     <original xml:space="preserve">セーブデータをチェックしています
 PCの電源を切らないでください</original>
-    <translation xml:space="preserve">Checking save data
-Please do not turn off your PC</translation>
+    <translation xml:space="preserve">Checking save data...
+Please do not turn off your PC.</translation>
   </message>
   <message>
     <key>sys_announce_check_strage_fail</key>
     <original xml:space="preserve">ハードディスクドライブ容量の
 チェックに失敗しました
 ランチャーへ戻ります</original>
+    <translation xml:space="preserve">Failed to check HDD Capacity.
+You will return to the launcher.
+    </translation>
   </message>
   <message>
     <key>sys_announce_trophy_fail</key>
     <original xml:space="preserve">トロフィーデータの準備に失敗しました
 ランチャーへ戻ります</original>
+    <translation xml:space="preserve">Failed to load trophy data.
+You will return to the Launcher.</translation>
   </message>
   <message>
     <key>sys_announce_firstoption</key>
     <original xml:space="preserve">操作デバイスを選択してください
 ※この項目はオプションで変更できます</original>
+    <translation xml:space="preserve">Please select your device
+※This option can be changed in Device Settings.</translation>
   </message>
   <message>
     <key>sys_announce_choice_pad</key>
@@ -82,6 +98,7 @@ Please do not turn off your PC</translation>
   <message>
     <key>sys_announce_choice_mouse</key>
     <original xml:space="preserve">マウス・キーボード</original>
+    <translation xml:space="preserve">Mouse and Keyboard</translation>
   </message>
   <message>
     <key>sys_announce_calibration</key>
@@ -92,6 +109,7 @@ Please do not turn off your PC</translation>
   <message>
     <key>sys_announce_saving</key>
     <original xml:space="preserve">設定を保存します</original>
+    <translation xml:space="preserve">Saving changes...</translation>
   </message>
   <message>
     <key>sys_announce_exit</key>
@@ -101,6 +119,6 @@ Please do not turn off your PC</translation>
   <message>
     <key>sys_announce_connecting</key>
     <original xml:space="preserve">サーバーと通信中です</original>
-    <translation xml:space="preserve">Connecting to server</translation>
+    <translation xml:space="preserve">Connecting to server...</translation>
   </message>
 </resource>

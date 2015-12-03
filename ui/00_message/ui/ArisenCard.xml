@@ -37,7 +37,7 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_JOBLV</key>
-    <original xml:space="preserve">Job LV</original>
+    <original xml:space="preserve">Job LV.</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PROFILE</key>
@@ -85,10 +85,12 @@
   <message>
     <key>ARISEN_CARD_TEXT_TABPLAYER</key>
     <original xml:space="preserve">功績・覚者力</original>
+    <translation xml:space="preserve">Achievements / Inherited Dragon Force</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_TABPAWN</key>
     <original xml:space="preserve">評価・オーブ</original>
+    <translation xml:space="preserve">Rating / Inherited Dragon Force</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_STATUS</key>
@@ -97,12 +99,12 @@
   <message>
     <key>ARISEN_CARD_TEXT_PHYSICALATK</key>
     <original xml:space="preserve">物理攻撃力</original>
-    <translation xml:space="preserve">Physical</translation>
+    <translation xml:space="preserve">Phys.Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_MAGICALATK</key>
     <original xml:space="preserve">魔法攻撃力</original>
-    <translation xml:space="preserve">Magickal</translation>
+    <translation xml:space="preserve">Magic.Attack</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_PHYSICALDEF</key>
@@ -231,7 +233,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_CHARACTER</key>
     <original xml:space="preserve">性格：</original>
-    <translation xml:space="preserve">Personality:v</translation>
+    <translation xml:space="preserve">Personality:</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_HP</key>
@@ -400,6 +402,7 @@
   <message>
     <key>ARISEN_CARD_TEXT_NOWRENTAL</key>
     <original xml:space="preserve">レンタル中</original>
+    <translation xml:space="preserve">Now rented.</translation>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SENID</key>
