@@ -2,74 +2,92 @@
   <message>
     <key>EDIT_MSG_GUIDE_NAME</key>
     <original xml:space="preserve">名前を設定します</original>
+    <translation xml:space="preserve">Select a Character's Name.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_SEX</key>
     <original xml:space="preserve">性別を設定します</original>
+    <translation xml:space="preserve">Select a Gender.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_PRESET</key>
     <original xml:space="preserve">プリセットを選択できます</original>
+    <translation xml:space="preserve">Select a Preset.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_RANDOM</key>
     <original xml:space="preserve">顔や肌色をランダムで設定します</original>
+    <translation xml:space="preserve">Randomize Face and Skin Color. </translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_HAIR</key>
     <original xml:space="preserve">髪のパーツやカラーを設定します</original>
+    <translation xml:space="preserve">Select a Hair Style and Color.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_BONE</key>
     <original xml:space="preserve">顔の輪郭を設定します</original>
+    <translation xml:space="preserve">Select a Face Shape</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_EYE</key>
     <original xml:space="preserve">目のパーツやカラー、大きさ等を設定します</original>
+    <translation xml:space="preserve">Customize your Character's Eye.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_EYEBROW</key>
     <original xml:space="preserve">眉のパーツやカラー、間隔等を設定します</original>
+    <translation xml:space="preserve">Customize your Character's Eyebrow.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_NOSE</key>
     <original xml:space="preserve">鼻のパーツや位置等を設定します</original>
+    <translation xml:space="preserve">Customize your Character's Nose</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_MOUSE</key>
     <original xml:space="preserve">口のパーツや幅等を設定します</original>
+    <translation xml:space="preserve">Customize your Character's Mouth.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_EAR</key>
     <original xml:space="preserve">耳の大きさや向きを設定します</original>
+    <translation xml:space="preserve">Customize your Character's Ear</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_FASHION</key>
     <original xml:space="preserve">化粧や傷/その他、しわ等を設定します</original>
+    <translation xml:space="preserve">Customize your Character's Make Up and Fashion.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_COLOR</key>
     <original xml:space="preserve">様々なカラーを設定します</original>
+    <translation xml:space="preserve">Customize your Character's Skin and Body Color.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_BODY</key>
     <original xml:space="preserve">肌のカラーや体格を設定します</original>
+    <translation xml:space="preserve">Customize your Character's Body Type.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_VOICE</key>
     <original xml:space="preserve">声を設定します</original>
+    <translation xml:space="preserve">Customize your Character's Voice.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_PERSONAL</key>
     <original xml:space="preserve">口調を設定します</original>
+    <translation xml:space="preserve">Customize your Character's Personality.</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_VOICE_FREQUENTLY</key>
     <original xml:space="preserve">発言頻度を設定します</original>
+    <translation xml:space="preserve">Select your Character's Speech Frequency.</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_HISTORY</key>
     <original xml:space="preserve">ヒストリー</original>
+    <translation xml:space="preserve">History</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_HISTORY_L</key>
@@ -102,11 +120,12 @@
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CHANGE_EQUIP</key>
     <original xml:space="preserve">試着</original>
+    <translation xml:space="preserve">Change Equipment</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CHANGE_LOCATION</key>
     <original xml:space="preserve">背景切替</original>
-    <translation xml:space="preserve">Background</translation>
+    <translation xml:space="preserve">Change Background</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_TRIAL_MOTION</key>
@@ -121,6 +140,6 @@
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_TRIAL_VOICE</key>
     <original xml:space="preserve">ボイスの試聴</original>
-    <translation xml:space="preserve">Listen to Voice</translation>
+    <translation xml:space="preserve">Demo Voice</translation>
   </message>
 </resource>

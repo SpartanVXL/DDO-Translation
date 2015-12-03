@@ -17,10 +17,12 @@
   <message>
     <key>CLAN_SCOUT_MSG_ATIME</key>
     <original xml:space="preserve">活動時間帯</original>
+    <translation xml:space="preserve">Time active</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_STYLE</key>
     <original xml:space="preserve">特徴</original>
+    <translation xml:space="preserve">Characteristic</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_NAME</key>
@@ -53,6 +55,7 @@
   <message>
     <key>CLAN_SCOUT_MSG_OK</key>
     <original xml:space="preserve">完了</original>
+    <translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_CANCEL</key>
@@ -62,6 +65,7 @@
   <message>
     <key>CLAN_SCOUT_MSG_DECIDE</key>
     <original xml:space="preserve">決定</original>
+    <translation xml:space="preserve">OK</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_MSG_VAL</key>
@@ -98,10 +102,12 @@
   <message>
     <key>CLAN_SCOUT_INDEX_JP</key>
     <original xml:space="preserve">スカウトエントリー</original>
+    <original xml:space="preserve">Scout Entry</original>
   </message>
   <message>
     <key>CLAN_SCOUT_COMMENT_EN</key>
     <original xml:space="preserve">コメント</original>
+    <original xml:space="preserve">Comment</original>
   </message>
   <message>
     <key>CLAN_SCOUT_COMMENT_JP</key>
@@ -110,7 +116,7 @@
   <message>
     <key>CLAN_SCOUT_JOB_LV</key>
     <original xml:space="preserve">ジョブ</original>
-    <translation xml:space="preserve">Job</translation>
+    <translation xml:space="preserve">Job Lv.</translation>
   </message>
   <message>
     <key>CLAN_SCOUT_NAME</key>
@@ -128,5 +134,6 @@
   <message>
     <key>CLAN_SCOUT_NO_SPECIFIED</key>
     <original xml:space="preserve">指定なし</original>
+    <translation xml:space="preserve">None specified.</translation>
   </message>
 </resource>

@@ -62,7 +62,7 @@
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL04</key>
     <original xml:space="preserve">消耗品の生産数アップ</original>
-    <translation xml:space="preserve">onsumable Production Quantity</translation>
+    <translation xml:space="preserve">Consumable Production Quantity</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL05</key>
@@ -81,7 +81,6 @@
   <message>
     <key>RIM_POP_MSG_OWNER_M_FAMILY</key>
     <original xml:space="preserve">Family Name</original>
-    <translation xml:space="preserve">Last Name</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_OWNER_M_PAWN</key>
@@ -116,9 +115,11 @@
   <message>
     <key>RIM_POP_MSG_SEARCH_JOB</key>
     <original xml:space="preserve">ジョブで探す</original>
+    <translation xml:space="preserve">Search for Job</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SEARCH_CRAFTSKILL</key>
     <original xml:space="preserve">クラフトスキルで探す</original>
+    <translation xml:space="preserve">Search for Craft Skill</translation>
   </message>
 </resource>

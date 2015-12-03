@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>EDIT_MSG_TITLE_PLAYER_EDIT</key>
-    <original xml:space="preserve">Player Edit</original>
+    <original xml:space="preserve">Character Edit</original>
   </message>
   <message>
     <key>EDIT_MSG_TITLE_PAWN_EDIT</key>
@@ -25,7 +25,7 @@
   <message>
     <key>EDIT_MSG_CATE_RANDOM</key>
     <original xml:space="preserve">ランダム</original>
-    <translation xml:space="preserve">Random</translation>
+    <translation xml:space="preserve">Randomize</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_HAIR</key>
@@ -40,12 +40,12 @@
   <message>
     <key>EDIT_MSG_CATE_EYE</key>
     <original xml:space="preserve">目</original>
-    <translation xml:space="preserve">Eyes</translation>
+    <translation xml:space="preserve">Eye</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_EYEBROW</key>
     <original xml:space="preserve">眉</original>
-    <translation xml:space="preserve">Brows</translation>
+    <translation xml:space="preserve">Eyebrow</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_NOSE</key>
@@ -119,7 +119,7 @@
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation xml:space="preserve">Please enter the name you want
+    <translation xml:space="preserve">Please enter the Character's Name.
 
 
 Notes
@@ -142,8 +142,7 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation xml:space="preserve">First/last name
-Please enter both
+    <translation xml:space="preserve">Please enter both Character's First / Last Name.
 
 Notes
  ・' (apostrophe) can be used
@@ -188,7 +187,7 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation xml:space="preserve">&lt;COL AA1414&gt;Too short, or too long&lt;/COL&gt;
+    <translation xml:space="preserve">&lt;COL AA1414&gt;Too short, or too long.&lt;/COL&gt;
 
 
 Notes
@@ -211,7 +210,7 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation xml:space="preserve">&lt;COL AA1414&gt;Contains unacceptable characters&lt;/COL&gt;
+    <translation xml:space="preserve">&lt;COL AA1414&gt;Contains unacceptable characters.&lt;/COL&gt;
 
 
 Notes
@@ -234,7 +233,7 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation xml:space="preserve">&lt;COL AA1414&gt;Contains unacceptable word&lt;/COL&gt;
+    <translation xml:space="preserve">&lt;COL AA1414&gt;Contains unacceptable words.&lt;/COL&gt;
 
 
 Notes
@@ -257,7 +256,7 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation xml:space="preserve">&lt;COL AA1414&gt;Name already in use&lt;/COL&gt;
+    <translation xml:space="preserve">&lt;COL AA1414&gt;Name already in use.&lt;/COL&gt;
 
 
 Notes
@@ -536,7 +535,7 @@ Notes
   <message>
     <key>EDIT_MSG_TYPE_MASSLE</key>
     <original xml:space="preserve">筋肉量</original>
-    <translation xml:space="preserve">Muscle</translation>
+    <translation xml:space="preserve">Musculature</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FAT</key>
@@ -661,7 +660,7 @@ Notes
   <message>
     <key>EDIT_MSG_TYPE_FREQUENTLY_3</key>
     <original xml:space="preserve">たまに喋る</original>
-    <translation xml:space="preserve">Seldomly</translation>
+    <translation xml:space="preserve">Seldom</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_FREQUENTLY_4</key>
@@ -719,12 +718,10 @@ Notes
   <message>
     <key>EDIT_MSG_SUB_TITLE_EYE</key>
     <original xml:space="preserve">Eye</original>
-    <translation xml:space="preserve">Eyes</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_EYEBROW</key>
     <original xml:space="preserve">Eyebrow</original>
-    <translation xml:space="preserve">Brows</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_NOSE</key>
@@ -737,12 +734,10 @@ Notes
   <message>
     <key>EDIT_MSG_SUB_TITLE_EAR</key>
     <original xml:space="preserve">Ear</original>
-    <translation xml:space="preserve">Ears</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_MAKE</key>
     <original xml:space="preserve">Make Up</original>
-    <translation xml:space="preserve">Makeup</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_COLOR</key>
@@ -751,7 +746,6 @@ Notes
   <message>
     <key>EDIT_MSG_SUB_TITLE_BODY</key>
     <original xml:space="preserve">Body Type</original>
-    <translation xml:space="preserve">Body Shape</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_VOICE</key>
@@ -764,7 +758,6 @@ Notes
   <message>
     <key>EDIT_MSG_SUB_TITLE_VOICE_FREQUENTLY</key>
     <original xml:space="preserve">Talk Frequency</original>
-    <translation xml:space="preserve">Speech Rate</translation>
   </message>
   <message>
     <key>EDIT_MSG_TITLE_BEAUTYSALON</key>

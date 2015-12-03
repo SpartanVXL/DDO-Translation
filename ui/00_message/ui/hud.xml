@@ -90,27 +90,31 @@
   <message>
     <key>hud_quest_ann_caution_deco</key>
     <original xml:space="preserve">Defeat the enemy !</original>
-    <translation xml:space="preserve">Defeat the enemy!</translation>
   </message>
   <message>
     <key>hud_pawn_ann_lost</key>
     <original xml:space="preserve">&lt;VAL&gt; がポーン郷にある異界の狭間へ送られました</original>
+    <translation xml:space="preserve">Your &lt;VAL&gt; is lost/dead.</translation>
   </message>
   <message>
     <key>hud_pawn_ann_rescue_start</key>
     <original xml:space="preserve">&lt;VAL&gt; を襲いかかる敵から救出せよ</original>
+    <translation xml:space="preserve">You started to rescue &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>hud_pawn_ann_rescue_failed</key>
     <original xml:space="preserve">&lt;VAL&gt; の呪縛を解くことができなかった</original>
+    <translation xml:space="preserve">You failed to rescue &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>hud_pawn_ann_rescue_clear</key>
     <original xml:space="preserve">&lt;VAL&gt; の呪縛が解け、リムの淵辺で目を覚ました</original>
+    <translation xml:space="preserve">You have successfully rescued &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>hud_pawn_ann_resurrection</key>
     <original xml:space="preserve">&lt;VAL&gt; が復活し、待機状態に戻りました</original>
+    <translation xml:space="preserve">&lt;VAL&gt; has been resurrected.</translation>
   </message>
   <message>
     <key>hud_disp_infinity</key>
@@ -119,6 +123,7 @@
   <message>
     <key>hud_get_announce_pawnlvup</key>
     <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;LEVEL&gt;にUPしました</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>hud_enemy_nodamage</key>
@@ -175,6 +180,7 @@
   <message>
     <key>hud_generalpurpose_clear_deco</key>
     <original xml:space="preserve">目的を達成しました</original>
+    <translation xml:space="preserve">Goal Cleared</translation>
   </message>
   <message>
     <key>hud_change_tx_tank</key>

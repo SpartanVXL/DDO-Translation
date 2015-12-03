@@ -2,7 +2,7 @@
   <message>
     <key>OPTION_MSG_CATEGORY_DISPLAY</key>
     <original xml:space="preserve">ディスプレイ設定</original>
-    <translation xml:space="preserve">Display</translation>
+    <translation xml:space="preserve">Display Settings</translation>
   </message>
   <message>
     <key>OPTION_MSG_TAB_GAMMA</key>
@@ -12,17 +12,17 @@
   <message>
     <key>OPTION_MSG_CATEGORY_SOUND</key>
     <original xml:space="preserve">サウンド設定</original>
-    <translation xml:space="preserve">Sound</translation>
+    <translation xml:space="preserve">Sound Settings</translation>
   </message>
   <message>
     <key>OPTION_MSG_TAB_SE_SYSTEM</key>
     <original xml:space="preserve">システム音</original>
-    <translation xml:space="preserve">System</translation>
+    <translation xml:space="preserve">Sound System</translation>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_GAMEPAD</key>
     <original xml:space="preserve">&lt;PFWD 0&gt;設定</original>
-    <translation xml:space="preserve">&lt;PFWD 0&gt; Setting</translation>
+    <translation xml:space="preserve">&lt;PFWD 0&gt; Configuration</translation>
   </message>
   <message>
     <key>OPTION_MSG_OTHERS</key>
@@ -51,12 +51,12 @@
   <message>
     <key>OPTION_MSG_SE_TELL</key>
     <original xml:space="preserve">チャットログ受信音</original>
-    <translation xml:space="preserve">Tell Sound</translation>
+    <translation xml:space="preserve">Chat Log Sound</translation>
   </message>
   <message>
     <key>OPTION_MSG_SE_OTHERSYSTEMS</key>
     <original xml:space="preserve">その他のシステム音</original>
-    <translation xml:space="preserve">Other</translation>
+    <translation xml:space="preserve">Other System Sound</translation>
   </message>
   <message>
     <key>OPTION_MSG_VOICE_NPC</key>
@@ -183,12 +183,11 @@
   <message>
     <key>OPTION_MSG_TITLE_M_TITLE00</key>
     <original xml:space="preserve">Device Config</original>
-    <translation xml:space="preserve">System Config</translation>
   </message>
   <message>
     <key>OPTION_MSG_TITLE_M_TITLE01</key>
     <original xml:space="preserve">デバイス設定</original>
-    <translation xml:space="preserve">System Config</translation>
+    <translation xml:space="preserve">Device Settings</translation>
   </message>
   <message>
     <key>OPTION_MSG_TITLE_M_TITLE02</key>
@@ -197,12 +196,12 @@
   <message>
     <key>OPTION_MSG_TITLE_M_TITLE03</key>
     <original xml:space="preserve">ゲーム設定</original>
-    <translation xml:space="preserve">Game Config</translation>
+    <translation xml:space="preserve">Game Settings</translation>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_ONLINESTATES</key>
     <original xml:space="preserve">ネットワークステータス</original>
-    <translation xml:space="preserve">Online Status</translation>
+    <translation xml:space="preserve">Network Status</translation>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_PCAMERA</key>
@@ -277,12 +276,12 @@
   <message>
     <key>OPTION_MSG_CAPTION_PARTY_DISP</key>
     <original xml:space="preserve">パーティーメンバー</original>
-    <translation xml:space="preserve">Party</translation>
+    <translation xml:space="preserve">Party members</translation>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_OTHERS_DISP</key>
     <original xml:space="preserve">他人</original>
-    <translation xml:space="preserve">Other</translation>
+    <translation xml:space="preserve">Others</translation>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_NPC_DISP</key>
@@ -296,12 +295,12 @@
   <message>
     <key>OPTION_MSG_CAPTION_CHATLOG</key>
     <original xml:space="preserve">チャットログ設定</original>
-    <translation xml:space="preserve">Settings</translation>
+    <translation xml:space="preserve">Chat Log Settings</translation>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_LOGCOLLER</key>
     <original xml:space="preserve">ログカラー設定</original>
-    <translation xml:space="preserve">Colors</translation>
+    <translation xml:space="preserve">Log Color Settings</translation>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CHATSE</key>
@@ -331,7 +330,7 @@
   <message>
     <key>OPTION_MSG_ONLINESTATES</key>
     <original xml:space="preserve">自分のネットワークステータス</original>
-    <translation xml:space="preserve">Your Status</translation>
+    <translation xml:space="preserve">Network Status</translation>
   </message>
   <message>
     <key>OPTION_MSG_VERTICAL_INV</key>
@@ -408,7 +407,7 @@
   <message>
     <key>OPTION_MSG_ISPTORCH</key>
     <original xml:space="preserve">ポーンのランタンを表示する</original>
-    <translation xml:space="preserve">Display Pawn Lanterns</translation>
+    <translation xml:space="preserve">Display Pawn Lantern</translation>
   </message>
   <message>
     <key>OPTION_MSG_IDLEEMOT_CTGR</key>
@@ -431,7 +430,7 @@
   <message>
     <key>OPTION_MSG_AC_DISCLOSETYPE</key>
     <original xml:space="preserve">覚者プロフィールの公開設定</original>
-    <translation xml:space="preserve">Visibility</translation>
+    <translation xml:space="preserve">Arisen Profile Visibility</translation>
   </message>
   <message>
     <key>OPTION_MSG_ISMAPROUND</key>
@@ -456,12 +455,12 @@
   <message>
     <key>OPTION_MSG_ISMAPTEXT</key>
     <original xml:space="preserve">マップ上にテキスト表示する</original>
-    <translation xml:space="preserve">Display Text</translation>
+    <translation xml:space="preserve">Display Text on Map</translation>
   </message>
   <message>
     <key>OPTION_MSG_HUDTRANCERATE</key>
     <original xml:space="preserve">HUD情報の不透明度</original>
-    <translation xml:space="preserve">Opacity</translation>
+    <translation xml:space="preserve">HUD Opacity</translation>
   </message>
   <message>
     <key>OPTION_MSG_QUESTGUID</key>
@@ -481,7 +480,7 @@
   <message>
     <key>OPTION_MSG_ISDYINGEFFECT</key>
     <original xml:space="preserve">プレイヤー瀕死時に画面演出を入れる</original>
-    <translation xml:space="preserve">Enable Dying Effect</translation>
+    <translation xml:space="preserve">Enable Death Effect</translation>
   </message>
   <message>
     <key>OPTION_MSG_ISPHOTOHUD</key>
@@ -496,7 +495,7 @@
   <message>
     <key>OPTION_MSG_NAMETIPE1</key>
     <original xml:space="preserve">名前の表示タイプ</original>
-    <translation xml:space="preserve">Name Display Type</translation>
+    <translation xml:space="preserve">Display Name Type</translation>
   </message>
   <message>
     <key>OPTION_MSG_ISCLANNAME</key>
@@ -627,7 +626,7 @@
   <message>
     <key>OPTION_MSG_CHOICE_FAMILY_FIRST1</key>
     <original xml:space="preserve">すべて</original>
-    <translation xml:space="preserve">Full</translation>
+    <translation xml:space="preserve">All</translation>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_FAMILY_F1</key>

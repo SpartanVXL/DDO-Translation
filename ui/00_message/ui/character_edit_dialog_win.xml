@@ -21,7 +21,7 @@
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_CONTINUE</key>
     <original xml:space="preserve">いいえ</original>
-    <translation xml:space="preserve">Cancel</translation>
+    <translation xml:space="preserve">No</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_BACKSPACE</key>
@@ -36,10 +36,12 @@
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_ONLINESHOP</key>
     <original xml:space="preserve">オンラインショップで購入する</original>
+    <translation xml:space="preserve">Buy in the Online Shop</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_EDIT_SAVE</key>
     <original xml:space="preserve">エディットをセーブする</original>
+    <translation xml:space="preserve">Backup will be saved.</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CHOICE_SAVE</key>
@@ -55,6 +57,8 @@
     <key>EDIT_MSG_DIALOG_EDIT_CANCEL</key>
     <original xml:space="preserve">エディットを終了して
 前の画面に戻りますか？</original>
+    <translation xml:space="preserve">Do you want to
+    ruturn to the previous Edits?</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_EDIT_FIX</key>
@@ -65,6 +69,8 @@
     <key>EDIT_MSG_DIALOG_SALON_CANCEL</key>
     <original xml:space="preserve">美容院をキャンセルします
 よろしいですか？</original>
+    <translation xml:space="preserve">Are you sure you want
+    to cancel Fashion Edits ? </translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SALON_FIX</key>
@@ -75,6 +81,7 @@
   <message>
     <key>EDIT_MSG_DIALOG_SALON_NOTGP</key>
     <original xml:space="preserve">黄金石が足りません</original>
+    <translation xml:space="preserve">Not enough Gold</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_LOAD</key>
@@ -83,20 +90,29 @@
 性別や顔、体型などのモデルに関する
 エディット情報をセーブ
 またはロードすることができます</original>
+    <translation xml:space="preserve">Edit the save / load
+    
+    You can save / load the Body Customization.
+    Gender, Face Shape and Body Type.
+    </translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_WORD</key>
     <original xml:space="preserve">現在のエディット情報をセーブします</original>
+    <translation xml:space="preserve">Save new changes.</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_DATE</key>
     <original xml:space="preserve">エディットデータ：</original>
+    <translation xml:space="preserve">Edit Data: </translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_LOAD_OVERWRITE</key>
     <original xml:space="preserve">ロードしたエディット情報を
 今のモデルに
 適用してもよろしいですか？</original>
+    <translation xml:space="preserve">Are you sure you want
+    to overwrite previous saved edits and use current edits ?</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_ERROR_LOAD_NG_DATA</key>
@@ -136,17 +152,15 @@
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD</key>
     <original xml:space="preserve">セーブするスロットを選択してください</original>
-    <translation xml:space="preserve">Please select the slot to save</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD</key>
     <original xml:space="preserve">ロードするスロットを選択してください</original>
-    <translation xml:space="preserve">Please select the slot to load</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_DATE</key>
     <original xml:space="preserve">作成日時</original>
-    <translation xml:space="preserve">Creation Time</translation>
+    <translation xml:space="preserve">Created</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR</key>
@@ -167,16 +181,21 @@
     <key>EDIT_MSG_DIALOG_PC_SAVE_OVERWRITE</key>
     <original xml:space="preserve">既存のセーブデータに
 上書きしてもよろしいですか？</original>
+    <translation xml:space="preserve">Are you sure you want
+    to overwrite the existing saved data?</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVING</key>
     <original xml:space="preserve">保存しています
 PC本体の電源を
 切らないでください</original>
+    <translation xml:space="preserve">Saving...
+    Please do not turn off the PC power.</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVE_FINISH</key>
     <original xml:space="preserve">セーブが終了しました</original>
+    <translation xml:space="preserve">Save has ended.</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_ERROR_HDD_NOSPACE</key>
@@ -188,21 +207,26 @@ PC本体の電源を
     <key>EDIT_MSG_DIALOG_PC_ERROR_SAVE_FAILED</key>
     <original xml:space="preserve">セーブデータの保存に
 失敗しました</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_LOADING</key>
     <original xml:space="preserve">ロードしています
 PC本体の電源を
 切らないでください</original>
+    <translation xml:space="preserve">Loading...
+    Please do not turn off the PC power.</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_LOAD_FINISH</key>
     <original xml:space="preserve">ロードが終了しました</original>
+    <translation xml:space="preserve">Loading is finished.</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_ERROR_LOAD_CRASH_DATA</key>
     <original xml:space="preserve">セーブデータが破損しているため
 ロードできません</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_ERROR_LOAD_FAILED</key>
@@ -212,16 +236,20 @@ PC本体の電源を
   <message>
     <key>EDIT_MSG_DIALOG_PC_DELETE_DATA</key>
     <original xml:space="preserve">セーブデータを削除してもよろしいですか？</original>
+    <translation xml:space="preserve">Are you sure you want to delete your save data ?</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_DELETING</key>
     <original xml:space="preserve">削除しています
 PC本体の電源を
 切らないでください</original>
+    <translation xml:space="preserve">Deleting...
+    Please do not turn off the PC power.</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_DELETE_FINISH</key>
     <original xml:space="preserve">削除しました</original>
+    <translation xml:space="preserve">Deleted.</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_ERROR_DELETE_FAILED</key>

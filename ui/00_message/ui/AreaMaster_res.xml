@@ -25,15 +25,17 @@
   <message>
     <key>areamaster_msg_bought</key>
     <original xml:space="preserve">購入済み</original>
+    <translation xml:space="preserve">Purchased</translation>
   </message>
   <message>
     <key>areamaster_msg_recommend</key>
     <original xml:space="preserve">推奨</original>
+    <translation xml:space="preserve">Recommandation</translation>
   </message>
   <message>
     <key>areamaster_msg_enemyinfo</key>
     <original xml:space="preserve">魔物情報</original>
-    <translation xml:space="preserve">Monster Information</translation>
+    <translation xml:space="preserve">Enemy Infos</translation>
   </message>
   <message>
     <key>areamaster_msg_masking</key>
@@ -42,6 +44,7 @@
   <message>
     <key>areamaster_msg_mainreward</key>
     <original xml:space="preserve">メイン報酬</original>
+    <translation xml:space="preserve">Main reward</translation>
   </message>
   <message>
     <key>areamaster_msg_clearbonus</key>
@@ -51,10 +54,12 @@
   <message>
     <key>areamaster_msg_price</key>
     <original xml:space="preserve">情報料金</original>
+    <translation xml:space="preserve">Price</translation>
   </message>
   <message>
     <key>areamaster_msg_button_buy</key>
     <original xml:space="preserve">情報購入</original>
+    <translation xml:space="preserve">Buy</translation>
   </message>
   <message>
     <key>areamaster_msg_dialog_buy</key>
@@ -68,6 +73,7 @@
   <message>
     <key>areamaster_msg_spot_info</key>
     <original xml:space="preserve">スポット情報</original>
+    <translation xml:space="preserve">Spot Infos</translation>
   </message>
   <message>
     <key>areamaster_msg_populator</key>
@@ -115,10 +121,12 @@
   <message>
     <key>areamaster_msg_last_week</key>
     <original xml:space="preserve">先週</original>
+    <translation xml:space="preserve">Last Week</translation>
   </message>
   <message>
     <key>areamaster_msg_this_week</key>
     <original xml:space="preserve">今週</original>
+    <translation xml:space="preserve">This Week</translation>
   </message>
   <message>
     <key>areamaster_msg_bonus_point</key>
@@ -127,6 +135,7 @@
   <message>
     <key>areamaster_msg_limited_bonus</key>
     <original xml:space="preserve">期間限定ボーナス</original>
+    <translation xml:space="preserve">Limited Bonus</translation>
   </message>
   <message>
     <key>areamaster_msg_target</key>
@@ -192,6 +201,7 @@
   <message>
     <key>areamaster_msg_close</key>
     <original xml:space="preserve">現在は封鎖されている</original>
+    <translation xml:space="preserve">Currently blocked.</translation>
   </message>
   <message>
     <key>areamaster_msg_gold</key>

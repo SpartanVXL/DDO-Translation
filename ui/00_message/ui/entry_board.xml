@@ -43,7 +43,7 @@
   <message>
     <key>entry_board_search_search_job</key>
     <original xml:space="preserve">ジョブを指定して探す</original>
-    <translation xml:space="preserve">Search Jobs Allowed</translation>
+    <translation xml:space="preserve">Search Jobs Allowed.</translation>
   </message>
   <message>
     <key>entry_board_search_search</key>
@@ -205,10 +205,12 @@
   <message>
     <key>entry_board_mission_info_recommand</key>
     <original xml:space="preserve">推奨</original>
+    <translation xml:space="preserve">Recommandation</translation>
   </message>
   <message>
     <key>entry_board_mission_info_war_situation</key>
     <original xml:space="preserve">戦況</original>
+    <translation xml:space="preserve">Tactical</translation>
   </message>
   <message>
     <key>entry_board_mission_info_decide</key>
@@ -238,6 +240,7 @@
   <message>
     <key>entry_board_info_no</key>
     <original xml:space="preserve">戻る</original>
+    <translation xml:space="preserve">Return</translation>
   </message>
   <message>
     <key>entry_board_info_member_check</key>
@@ -256,6 +259,7 @@
   <message>
     <key>entry_board_contents_title_j</key>
     <original xml:space="preserve">コンテンツ窓口</original>
+    <original xml:space="preserve">Contents</original>
   </message>
   <message>
     <key>entry_board_contents_event</key>
@@ -265,6 +269,7 @@
   <message>
     <key>entry_board_mission_info_condition</key>
     <original xml:space="preserve">受注条件</original>
+    <translation xml:space="preserve">Orders</translation>
   </message>
   <message>
     <key>entry_board_info_no_designate_job</key>
@@ -367,29 +372,36 @@
   <message>
     <key>entry_board_search_search_party</key>
     <original xml:space="preserve">パーティーメンバー</original>
+    <translation xml:space="preserve">Party Members</translation>
   </message>
   <message>
     <key>entry_board_search_search_groupchat</key>
     <original xml:space="preserve">グループチャット</original>
+    <translation xml:space="preserve">Group Chat</translation>
   </message>
   <message>
     <key>entry_board_info_comment</key>
     <original xml:space="preserve">コメント　：</original>
+    <translation xml:space="preserve">Comment　：</translation>
   </message>
   <message>
     <key>entry_board_pop_event_info_ranking</key>
     <original xml:space="preserve">ランキング順位</original>
+    <translation xml:space="preserve">Ranking</translation>
   </message>
   <message>
     <key>entry_board_pop_event_info_score_technical</key>
     <original xml:space="preserve">テクニカルスコア</original>
+    <translation xml:space="preserve">Technical Score</translation>
   </message>
   <message>
     <key>entry_board_pop_event_info_score_total</key>
     <original xml:space="preserve">トータルスコア</original>
+    <translation xml:space="preserve">Total Score</translation>
   </message>
   <message>
     <key>entry_board_pop_event_info_ranking_unit</key>
     <original xml:space="preserve">位</original>
+    <translation xml:space="preserve">Rank</translation>
   </message>
 </resource>

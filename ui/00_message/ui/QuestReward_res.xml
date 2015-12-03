@@ -11,10 +11,12 @@
   <message>
     <key>REWARD_MSG_LB_POCKET_G</key>
     <original xml:space="preserve">所持金</original>
+    <translation xml:space="preserve">Gold</translation>
   </message>
   <message>
     <key>REWARD_MSG_LB_POCKET_R</key>
     <original xml:space="preserve">所持リム</original>
+    <translation xml:space="preserve">Rim</translation>
   </message>
   <message>
     <key>REWARD_MSG_LB_POCKET_BO</key>
@@ -39,6 +41,7 @@
   <message>
     <key>REWARD_MSG_TAB_EQUIPMENT</key>
     <original xml:space="preserve">武具</original>
+    <translation xml:space="preserve">Equipment</translation>
   </message>
   <message>
     <key>REWARD_MSG_TAB_JOB</key>
@@ -52,6 +55,7 @@
   <message>
     <key>REWARD_MSG_NOTION_ITEMOVER</key>
     <original xml:space="preserve">保管ボックスがあふれてしまうため受け取りできません</original>
+    <translation xml:space="preserve">You cannot claim your items, your storage box is full.</translation>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_PLZ_PICK</key>
@@ -206,5 +210,6 @@ Total Sale: &lt;VAL GOLD&gt;</translation>
   <message>
     <key>REWARD_MSG_REWARD_PARTS</key>
     <original xml:space="preserve">部位破壊報酬</original>
+    <translation xml:space="preserve">Borken Parts rewards.</translation>
   </message>
 </resource>
