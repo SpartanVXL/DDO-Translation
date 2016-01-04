@@ -1,0 +1,85 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_80</key>
+    <original xml:space="preserve">大剣を突き刺し、勢いよく斬り上げる
+敵を高く打ち上げることが可能
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_82</key>
+    <original xml:space="preserve">大剣の切っ先を前方に構え、
+敵を押しこみながら突進する
+&lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;で任意方向へ移動できる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で移動距離が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_81</key>
+    <original xml:space="preserve">前方に踏み込みながら剣の柄を打ち込む
+敵を怯ませやすく、怒り状態の敵のスタミナも
+減らしやすい
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６でスタミナ消費減少／攻撃範囲拡大&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_83</key>
+    <original xml:space="preserve">後方へ避けつつ攻撃を繰り出す
+とっさの回避手段としても有効
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６でモーション変化／追加入力で追加攻撃
+敵の攻撃を直前回避時、追加攻撃の威力上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_84</key>
+    <original xml:space="preserve">素早く大剣を回転させ、
+自身の全周囲になぎ払い攻撃を繰り出す
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_85</key>
+    <original xml:space="preserve">力を溜め、刀身で敵を叩きつける
+敵を気絶させやすい
+溜め満了の瞬間にボタンを離すと威力大幅上昇
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で溜め段階拡張（１→２）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_87</key>
+    <original xml:space="preserve">上空に対して鋭い突きを繰り出す
+空中の敵などに有効
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃範囲拡大／攻撃ヒット数増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_86</key>
+    <original xml:space="preserve">大剣を構えて待機、敵の攻撃を弾き返した後、
+連続動作で反撃する
+敵の攻撃を弾き返したときのみ、連続行動を行う
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加／当身の受付時間延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_90</key>
+    <original xml:space="preserve">一歩踏み込み、敵の攻撃を受けとめる。様々な動作
+から発動することができる（連続では行えない）
+攻撃を受けとめるとリベンジゲージが大きく増加
+&lt;COL ffdc78&gt;LV UP毎にリベンジゲージ蓄積値上昇
+LV.６でのけぞり、吹き飛び中でも発動可能&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_89</key>
+    <original xml:space="preserve">大剣を左右交互に振り下ろし、連続して敵を斬り刻む
+ボタンの連打で攻撃回数が増加する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で最大攻撃回数増加（７→１１）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_91</key>
+    <original xml:space="preserve">高く跳躍し、一点集中で力強く大剣を突き立てる
+攻撃範囲は狭いが威力は絶大
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+  </message>
+</resource>

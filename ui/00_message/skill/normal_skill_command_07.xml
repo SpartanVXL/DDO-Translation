@@ -1,0 +1,42 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>NORMAL_SKILL_COMMAND_07_103</key>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
+  </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_07_104</key>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;後、少し遅らせて&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;後、少し遅らせて&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
+  </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_07_105</key>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;長押し後、離すと発動&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;長押し後、離すと発動</original>
+  </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_07_106</key>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;長押し後、離すと発動&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;長押し後、離すと発動</original>
+  </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_07_107</key>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;または&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</original>
+  </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_07_108</key>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;または&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す</original>
+  </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_07_109</key>
+    <original xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;空中で&lt;ICON MOUSE_CL_L&gt;をクリック</original>
+  </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_07_110</key>
+    <original xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_ATTACK_1&gt;を押す&lt;KEYM&gt;空中で&lt;ICON MOUSE_CL_R&gt;をクリック</original>
+  </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_07_111</key>
+    <original xml:space="preserve">&lt;PADM&gt;ぶっとび中に&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;ぶっとび中に&lt;ICON KB_SPACE&gt;を押す</original>
+  </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_07_112</key>
+    <original xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;長押し後、離すと発動&lt;KEYM&gt;しがみつき中に左クリック長押し後、離すと発動</original>
+  </message>
+</resource>

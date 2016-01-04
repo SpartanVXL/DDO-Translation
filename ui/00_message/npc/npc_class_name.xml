@@ -81,11 +81,14 @@
   </message>
   <message>
     <original xml:space="preserve">グランドミッション：太古の強者</original>
-	<translation xml:space="preserve">Grand Mission: 太古の強者</translation>
+    <translation xml:space="preserve">Grand Mission: 太古の強者</translation>
   </message>
   <message>
     <original xml:space="preserve">宿屋</original>
     <translation xml:space="preserve">Inn</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">グランドミッション：失われた秩序</original>
   </message>
   <message>
     <original xml:space="preserve">クラフト係官</original>
@@ -141,7 +144,7 @@
   </message>
   <message>
     <original xml:space="preserve">店員</original>
-	<translation xml:space="preserve">Waitress</translation>
+    <translation xml:space="preserve">Waitress</translation>
   </message>
   <message>
     <original xml:space="preserve">エリアマスター</original>
@@ -165,7 +168,7 @@
   </message>
   <message>
     <original xml:space="preserve">店員</original>
-	<translation xml:space="preserve">Waitress</translation>
+    <translation xml:space="preserve">Waitress</translation>
   </message>
   <message>
     <original xml:space="preserve">冒険仲介係</original>
@@ -237,15 +240,15 @@
   </message>
   <message>
     <original xml:space="preserve">泉の係官</original>
-	<translation xml:space="preserve">Springs Manager</translation>
+    <translation xml:space="preserve">Springs Manager</translation>
   </message>
   <message>
     <original xml:space="preserve">泉の係官</original>
-	<translation xml:space="preserve">Springs Manager</translation>
+    <translation xml:space="preserve">Springs Manager</translation>
   </message>
   <message>
     <original xml:space="preserve">泉の係官</original>
-	<translation xml:space="preserve">Springs Manager</translation>
+    <translation xml:space="preserve">Springs Manager</translation>
   </message>
   <message>
     <original xml:space="preserve">冒険仲介係</original>
@@ -261,22 +264,54 @@
   </message>
   <message>
     <original xml:space="preserve">宿・戦技補佐</original>
+    <translation xml:space="preserve">Inn / Arts Support</translation>
   </message>
   <message>
     <original xml:space="preserve">エリアマスター</original>
-	<translation xml:space="preserve">Area Master</translation>
+    <translation xml:space="preserve">Area Master</translation>
   </message>
   <message>
     <original xml:space="preserve">道具屋</original>
-	<translation xml:space="preserve">Item Shop</translation>
+    <translation xml:space="preserve">Item Shop</translation>
   </message>
   <message>
     <original xml:space="preserve">素材屋</original>
-	<translation xml:space="preserve">Material Shop</translation>
+    <translation xml:space="preserve">Material Shop</translation>
   </message>
   <message>
     <original xml:space="preserve">冒険仲介係</original>
-	<translation xml:space="preserve">Adventure Organizer</translation>
+    <translation xml:space="preserve">Adventure Organizer</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">よろず屋</original>
+    <translation xml:space="preserve">General Shop</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">道具屋</original>
+    <translation xml:space="preserve">Item Shop</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">宿・戦技補佐</original>
+    <translation xml:space="preserve">Inn / Arts Support</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">道具屋</original>
+    <translation xml:space="preserve">Item Shop</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">ジョブマスター：ウォリアー</original>
+  </message>
+  <message>
+    <original xml:space="preserve">店員</original>
+    <translation xml:space="preserve">Waitress</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター</original>
+    <translation xml:space="preserve">Area Master</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">冒険仲介係</original>
+    <translation xml:space="preserve">Adventure Organizer</translation>
   </message>
   <message>
     <original xml:space="preserve">よろず屋</original>
@@ -319,6 +354,22 @@
     <translation xml:space="preserve">Adventure Organizer</translation>
   </message>
   <message>
+    <original xml:space="preserve">宿・戦技補佐</original>
+    <translation xml:space="preserve">Inn / Arts Support</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター</original>
+    <translation xml:space="preserve">Area Master</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">よろず屋</original>
+    <translation xml:space="preserve">General Shop</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">冒険仲介係</original>
+    <translation xml:space="preserve">Adventure Organizer</translation>
+  </message>
+  <message>
     <original xml:space="preserve">ジョブマスター：シールドセージ</original>
     <translation xml:space="preserve">Job Master: Shield Sage</translation>
   </message>
@@ -328,7 +379,7 @@
   </message>
   <message>
     <original xml:space="preserve">宿・ジョブマスター：Ｅアーチャ―</original>
-	<translation xml:space="preserve">Inn / Job Master: Element Archer</translation>
+    <translation xml:space="preserve">Inn / Job Master: Element Archer</translation>
   </message>
   <message>
     <original xml:space="preserve">道具屋・ジョブマスター：ハンター</original>
@@ -336,7 +387,11 @@
   </message>
   <message>
     <original xml:space="preserve">ジョブマスター：シーカー</original>
-	<translation xml:space="preserve">Job Master: Seeker</translation>
+    <translation xml:space="preserve">Job Master: Seeker</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター・宿</original>
+    <translation xml:space="preserve">Area Master / Inn</translation>
   </message>
   <message>
     <original xml:space="preserve">エリアマスター・宿</original>
@@ -344,7 +399,7 @@
   </message>
   <message>
     <original xml:space="preserve">エリアマスター・道具屋</original>
-	<translation xml:space="preserve">Area Master / Item Shop</translation>
+    <translation xml:space="preserve">Area Master / Item Shop</translation>
   </message>
   <message>
     <original xml:space="preserve">復活力・ログインスタンプ</original>

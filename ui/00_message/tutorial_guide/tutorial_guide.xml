@@ -97,7 +97,7 @@
   <message>
     <key>TUTORIAL_57</key>
     <original xml:space="preserve">エレメントアーチャーの戦術的役割</original>
-   <translation xml:space="preserve">Tactical role of the Elemental Archer</translation>
+    <translation xml:space="preserve">Tactical role of the Elemental Archer</translation>
   </message>
   <message>
     <key>TUTORIAL_66</key>
@@ -123,6 +123,10 @@
     <key>TUTORIAL_70</key>
     <original xml:space="preserve">シーカーの戦術的役割</original>
     <translation xml:space="preserve">Tactical role of the Seeker</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_71</key>
+    <original xml:space="preserve">ウォリアーの戦術的役割</original>
   </message>
   <message>
     <key>TUTORIAL_72</key>
@@ -153,6 +157,10 @@
     <key>TUTORIAL_77</key>
     <original xml:space="preserve">シーカーの戦法：基本</original>
     <translation xml:space="preserve">Basic Tactics: Seeker</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_78</key>
+    <original xml:space="preserve">ウォリアーの戦法：基本</original>
   </message>
   <message>
     <key>TUTORIAL_79</key>
@@ -396,6 +404,10 @@
     <original xml:space="preserve">戦徒の契り</original>
   </message>
   <message>
+    <key>TUTORIAL_176</key>
+    <original xml:space="preserve">着飾り装備</original>
+  </message>
+  <message>
     <key>TUTORIAL_177</key>
     <original xml:space="preserve">ハンターの戦法：追記</original>
     <translation xml:space="preserve">Advanced Tactics: Hunter</translation>
@@ -455,8 +467,16 @@
     <translation xml:space="preserve">Advanced Tactics: Elemental Archer</translation>
   </message>
   <message>
+    <key>TUTORIAL_216</key>
+    <original xml:space="preserve">ウォリアーの戦法：追記</original>
+  </message>
+  <message>
     <key>TUTORIAL_219</key>
     <original xml:space="preserve">太古の強者</original>
+  </message>
+  <message>
+    <key>TUTORIAL_220</key>
+    <original xml:space="preserve">失われた秩序</original>
   </message>
   <message>
     <key>TUTORIAL_222</key>
@@ -577,5 +597,9 @@
   <message>
     <key>TUTORIAL_255</key>
     <original xml:space="preserve">鑑定交換</original>
+  </message>
+  <message>
+    <key>TUTORIAL_257</key>
+    <original xml:space="preserve">レスタニア第三節　到達</original>
   </message>
 </resource>

@@ -162,15 +162,15 @@
   </message>
   <message>
     <key>hud_get_announce_bo_ex</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT BO&gt; &lt;VAL&gt;</original>
+    <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT BO&gt;</original>
   </message>
   <message>
     <key>hud_get_announce_r_ex</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT R&gt; &lt;VAL&gt;</original>
+    <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT R&gt;</original>
   </message>
   <message>
     <key>hud_get_announce_xp_ex</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT XP&gt; &lt;VAL&gt;</original>
+    <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT XP&gt;</original>
   </message>
   <message>
     <key>hud_generalpurpose_clear_deco</key>
@@ -186,7 +186,7 @@
   </message>
   <message>
     <key>hud_get_announce_g_ex</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT G&gt; &lt;VAL&gt;</original>
+    <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT G&gt;</original>
   </message>
   <message>
     <key>hud_get_announce_goldstone</key>
@@ -232,6 +232,6 @@
   </message>
   <message>
     <key>hud_get_announce_rp_ex</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT RP&gt; &lt;VAL&gt;</original>
+    <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT RP&gt;</original>
   </message>
 </resource>

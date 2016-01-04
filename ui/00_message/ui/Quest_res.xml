@@ -469,4 +469,8 @@
     <key>QUEST_MSG_BONUS_REWARD_TIMEBONUS</key>
     <original xml:space="preserve">スコア倍率が最大&lt;VAL&gt;倍！</original>
   </message>
+  <message>
+    <key>QUEST_MSG_PARTY_LARGE</key>
+    <original xml:space="preserve">８人パーティー状態では進行できません</original>
+  </message>
 </resource>

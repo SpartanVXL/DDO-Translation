@@ -1,13 +1,15 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q40000060_00_60</key>
-    <original xml:space="preserve">白翼覚者隊・手配要請　ハイデル平原</original>
+    <original xml:space="preserve">＜エリアオーダー＞ハイデル補給</original>
+    <!-- NEEDS REVIEW -->
+    <!--白翼覚者隊・手配要請　ハイデル平原-->
     <translation xml:space="preserve">White Wings: Inspection (Hidell Plains)</translation>
   </message>
   <message>
     <key>q40000060_00_60</key>
-    <original xml:space="preserve">テル滞在中の覚者様に、神殿より通達です
-任地にて、もし&lt;LQIM&gt;を発見した場合、ただちに確保し&lt;LQVA&gt;個を神殿まで納品願います
-現在必要性が高いため、何卒手配をお願いします</original>
+    <original xml:space="preserve">エリアマスターのアルフレドだ
+テルでこのほど、&lt;LQIM&gt;を50個確保する必要が出たのだが、ある分をかき集めても&lt;LQVA&gt;個足りないのだ
+どうか、不足分の補給に協力いただけないだろうか</original>
   </message>
 </resource>

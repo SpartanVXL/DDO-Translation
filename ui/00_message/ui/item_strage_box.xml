@@ -188,4 +188,18 @@
     <original xml:space="preserve">アイテムを買う</original>
     <translation xml:space="preserve">Buy</translation>
   </message>
+  <message>
+    <key>item_btnguide_multichoice</key>
+    <original xml:space="preserve">複数選択</original>
+  </message>
+  <message>
+    <key>item_conf_disposal</key>
+    <original xml:space="preserve">以下のアイテムを破棄します。よろしいですか？</original>
+  </message>
+  <message>
+    <key>item_conf_buy</key>
+    <original xml:space="preserve">以下のアイテムを売却します。よろしいですか？
+
+　売却価格：&lt;VAL GOLD&gt;</original>
+  </message>
 </resource>

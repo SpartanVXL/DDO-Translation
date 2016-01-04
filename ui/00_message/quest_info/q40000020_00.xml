@@ -1,13 +1,16 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q40000020_00_20</key>
-    <original xml:space="preserve">白翼覚者隊・手配要請　ハイデル平原</original>
+    <original xml:space="preserve">＜エリアオーダー＞白竜神殿補給</original>
+    <!-- NEEDS REVIEW -->
+    <!--白翼覚者隊・手配要請　ハイデル平原-->
     <translation xml:space="preserve">White Wings: Inspection (Hidell Plains)</translation>
   </message>
   <message>
     <key>q40000020_00_20</key>
-    <original xml:space="preserve">現地滞在中の覚者様に、神殿より通達です
-任地にて、もし&lt;LQIM&gt;を発見した場合はただちに確保し&lt;LQVA&gt;個を神殿まで納品願います
-現在必要性が高いため、何卒手配をお願いします</original>
+    <original xml:space="preserve">神殿にいらっしゃる覚者さまに依頼です！
+現在レーゼでは武具や薬の材料になる&lt;LQIM&gt;の保管数が激減してまして、補給にも回せない状態です
+どうか&lt;LQVA&gt;個、入手し次第納品お願いします
+お礼にエリアポイントはたくさん支給しますね！</original>
   </message>
 </resource>

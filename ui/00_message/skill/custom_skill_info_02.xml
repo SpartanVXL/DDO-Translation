@@ -113,4 +113,12 @@ LV.６で移動距離が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で移動距離が延長&lt;/COL&gt;</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_27</key>
+    <original xml:space="preserve">自身の体に炎をまとい触れた敵にダメージを与える
+さらに武器の攻撃属性を炎にする
+ただし、発動中は自身の体力が徐々に減少する
+&lt;COL ffdc78&gt;LV UP毎に炎属性威力の上昇／体力減少軽減
+LV.６で最大持続時間が延長&lt;/COL&gt;</original>
+  </message>
 </resource>

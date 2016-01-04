@@ -43,7 +43,12 @@ Can also be done in the air.</translation>
     <key>NORMAL_SKILL_INFO_05_75</key>
     <original xml:space="preserve">大盾を構え、防御方向を固定する
 固定中は攻力吸収量が上がり、スキが減少
-空中でも発動可能</original>
+ロッドの選択属性と受けた攻撃が同属性だと
+吸収量増加。空中でも発動可能</original>
+    <!-- NEEDS REVIEW -->
+    <!--大盾を構え、防御方向を固定する
+固定中は攻力吸収量が上がり、スキが減少
+空中でも発動可能-->
     <translation xml:space="preserve">Affix your greatshield towards the enemy, increasing the amount the
     gauge will increase. Can be activated in the air.</translation>
   </message>
@@ -51,7 +56,12 @@ Can also be done in the air.</translation>
     <key>NORMAL_SKILL_INFO_05_76</key>
     <original xml:space="preserve">大盾で敵の攻撃をタイミングよく直前防御する
 多量の攻力を吸収し、スタミナ消費もゼロになる
-空中でも発動可能</original>
+ロッドの選択属性と受けた攻撃が同属性だと
+吸収量増加。空中でも発動可能</original>
+    <!-- NEEDS REVIEW -->
+    <!--大盾で敵の攻撃をタイミングよく直前防御する
+多量の攻力を吸収し、スタミナ消費もゼロになる
+空中でも発動可能-->
     <translation xml:space="preserve">Activate the greatshield as an enemy strikes you to increase the
     gauge by a large amount. Also consumes no stamina to block.</translation>
   </message>
