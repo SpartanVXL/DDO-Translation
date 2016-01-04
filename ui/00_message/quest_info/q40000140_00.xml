@@ -1,13 +1,15 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q40000140_00_140</key>
-    <original xml:space="preserve">白翼覚者隊・手配要請　ミスリウ森林</original>
+    <original xml:space="preserve">＜エリアオーダー＞ミスリウ補給</original>
+    <!-- NEEDS REVIEW -->
+    <!--白翼覚者隊・手配要請　ミスリウ森林-->
     <translation xml:space="preserve">White Wings: Inspection (Mysree Forest)</translation>
   </message>
   <message>
     <key>q40000140_00_140</key>
-    <original xml:space="preserve">現地滞在中の覚者様に、神殿より通達です
-任地にて、もし&lt;LQIM&gt;を発見した場合、ただちに確保し&lt;LQVA&gt;個を神殿まで納品願います
-現在必要性が高いため、何卒手配をお願いします</original>
+    <original xml:space="preserve">エリアマスターとして依頼させてもらうわ
+リンウッドで今、&lt;LQIM&gt;不足が深刻なの。数で言うと&lt;LQVA&gt;個ほどなのだけど
+どうかしら。協力してくれる人には、村を代表して十分なお礼を約束するわ</original>
   </message>
 </resource>

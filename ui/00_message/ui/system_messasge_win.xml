@@ -73,7 +73,7 @@ Please do not turn off your PC</translation>
   <message>
     <key>sys_announce_firstoption</key>
     <original xml:space="preserve">操作デバイスを選択してください
-※この項目はオプションで変更できます</original>
+※この項目はデバイス設定からいつでも変更できます</original>
   </message>
   <message>
     <key>sys_announce_choice_pad</key>
@@ -102,5 +102,23 @@ Please do not turn off your PC</translation>
     <key>sys_announce_connecting</key>
     <original xml:space="preserve">サーバーと通信中です</original>
     <translation xml:space="preserve">Connecting to server</translation>
+  </message>
+  <message>
+    <key>sys_announce_firstoption_uisize</key>
+    <original xml:space="preserve">UIの表示設定を選択してください
+(解像度1920×1080 以上で有効になります)</original>
+  </message>
+  <message>
+    <key>sys_announce_choice_uilarge</key>
+    <original xml:space="preserve">UIを拡大表示する</original>
+  </message>
+  <message>
+    <key>sys_announce_choice_uinormal</key>
+    <original xml:space="preserve">UIを拡大表示しない</original>
+  </message>
+  <message>
+    <key>sys_announce_firstoption_uisize_check</key>
+    <original xml:space="preserve">UIの表示サイズはこれでよろしいですか？
+※この項目はデバイス設定からいつでも変更できます</original>
   </message>
 </resource>

@@ -605,7 +605,10 @@ as well.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>TITLE_ARRANGEMENT_ITEM</key>
-    <original xml:space="preserve">アイテムバッグ、保管ボックスのアイテムを整理してください</original>
+    <original xml:space="preserve">アイテムバッグ、保管ボックスがいっぱいのため
+受け取ることができません
+
+作成アイテム：&lt;VAL&gt; × &lt;VAL&gt;</original>
   </message>
   <message>
     <key>TITLE_GET_ITEM</key>
@@ -963,5 +966,18 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>RECIPE_CATE_MATERIAL_OTHER</key>
     <original xml:space="preserve">その他</original>
+  </message>
+  <message>
+    <key>DIALOG_GET_XP_EX</key>
+    <original xml:space="preserve">クラフトを指揮していた&lt;NAME PAWN&gt;が
+クラフト経験値を&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;入手しました</original>
+  </message>
+  <message>
+    <key>EX_CHARGE_UNIT</key>
+    <original xml:space="preserve"> (+&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>COLOR_CHANGE_DISABLE</key>
+    <original xml:space="preserve">このアイテムはカラー変更できません</original>
   </message>
 </resource>

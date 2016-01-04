@@ -256,6 +256,10 @@
     <translation xml:space="preserve">Inflicts Petrifaction</translation>
   </message>
   <message>
+    <key>give_gold</key>
+    <original xml:space="preserve">与【黄金化】蓄積値</original>
+  </message>
+  <message>
     <key>give_cought_fire</key>
     <original xml:space="preserve">与【延焼】蓄積値</original>
     <translation xml:space="preserve">Inflicts Catching Fire</translation>
@@ -454,6 +458,10 @@
     <key>resist_petrify</key>
     <original xml:space="preserve">石化耐性</original>
     <translation xml:space="preserve">Resist Petrifaction</translation>
+  </message>
+  <message>
+    <key>resist_gold</key>
+    <original xml:space="preserve">黄金化耐性</original>
   </message>
   <message>
     <key>resist_fire_resist_down</key>
@@ -739,6 +747,10 @@
     <key>parts_jewelry</key>
     <original xml:space="preserve">ジュエリー</original>
     <translation xml:space="preserve">Jewelry</translation>
+  </message>
+  <message>
+    <key>parts_costume</key>
+    <original xml:space="preserve">一式装備</original>
   </message>
   <message>
     <key>item_tower_shield_collect_point</key>

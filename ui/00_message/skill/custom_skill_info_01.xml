@@ -107,4 +107,12 @@ LV.６で移動速度上昇／移動方向に左右追加&lt;/COL&gt;</original>
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_19</key>
+    <original xml:space="preserve">敵の攻撃を受け流しつつ剣を振り払って斬り抜ける
+&lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;により後方への斬り抜けも可能
+攻撃を受ける瞬間に発動すると威力が上昇する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃範囲拡大／敵の攻撃受付時間延長&lt;/COL&gt;</original>
+  </message>
 </resource>

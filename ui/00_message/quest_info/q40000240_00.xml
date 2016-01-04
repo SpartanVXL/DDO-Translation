@@ -1,13 +1,16 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q40000240_00_240</key>
-    <original xml:space="preserve">白翼覚者隊・手配要請　ミスリウ森林</original>
+    <original xml:space="preserve">＜エリアオーダー＞ポーン郷補給</original>
+    <!-- NEEDS REVIEW -->
+    <!--白翼覚者隊・手配要請　ミスリウ森林-->
     <translation xml:space="preserve">White Wings: Inspection (Mysree Forest)</translation>
   </message>
   <message>
     <key>q40000240_00_240</key>
-    <original xml:space="preserve">ポーン郷滞在中の覚者様に、神殿より通達です
-任地にて、もし&lt;LQIM&gt;を発見した場合、ただちに確保し&lt;LQVA&gt;個を神殿まで納品願います
-現在必要性が高いため、何卒手配をお願いします</original>
+    <original xml:space="preserve">里長として、訪れる覚者への頼みがある
+この聖堂を維持・運営するための物資、&lt;LQIM&gt;を&lt;LQVA&gt;個、どうか納めてもらいたいのだ
+ポーン郷は常に覚者とともにあらねばならぬ場所――
+どうか協力を</original>
   </message>
 </resource>

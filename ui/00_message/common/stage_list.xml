@@ -122,12 +122,12 @@
   <message>
     <key>STAGE_NAME_27</key>
     <original xml:space="preserve">食糧庫</original>
-	<translation xml:space="preserve">Supply Store</translation>
+    <translation xml:space="preserve">Supply Store</translation>
   </message>
   <message>
     <key>STAGE_NAME_28</key>
     <original xml:space="preserve">森の廃墟地下</original>
-	<translation xml:space="preserve">Forest Ruins Cellar</translation>
+    <translation xml:space="preserve">Forest Ruins Cellar</translation>
   </message>
   <message>
     <key>STAGE_NAME_29</key>
@@ -137,12 +137,16 @@
   <message>
     <key>STAGE_NAME_30</key>
     <original xml:space="preserve">廃墟の食糧庫</original>
-	<translation xml:space="preserve">Supply Stores Ruins</translation>
+    <translation xml:space="preserve">Supply Stores Ruins</translation>
   </message>
   <message>
     <key>STAGE_NAME_31</key>
     <original xml:space="preserve">崩れかけたワイン庫</original>
-	<translation xml:space="preserve">Wine Cellar Ruins</translation>
+    <translation xml:space="preserve">Wine Cellar Ruins</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_32</key>
+    <original xml:space="preserve">灯台の地下倉庫</original>
   </message>
   <message>
     <key>STAGE_NAME_33</key>
@@ -152,31 +156,39 @@
   <message>
     <key>STAGE_NAME_34</key>
     <original xml:space="preserve">浜辺の地下保管庫</original>
-	<translation xml:space="preserve">Beach Underground Stores</translation>
+    <translation xml:space="preserve">Beach Underground Stores</translation>
   </message>
   <message>
     <key>STAGE_NAME_35</key>
     <original xml:space="preserve">地下倉庫</original>
-	<translation xml:space="preserve">Underground Stores</translation>
+    <translation xml:space="preserve">Underground Stores</translation>
   </message>
   <message>
     <key>STAGE_NAME_36</key>
     <original xml:space="preserve">根の独房</original>
   </message>
   <message>
+    <key>STAGE_NAME_37</key>
+    <original xml:space="preserve">遺跡の地下室</original>
+  </message>
+  <message>
     <key>STAGE_NAME_38</key>
     <original xml:space="preserve">平原の廃墟地下室</original>
-	<translation xml:space="preserve">Cellar of Abandoned House in the Plains</translation>
+    <translation xml:space="preserve">Cellar of Abandoned House in the Plains</translation>
   </message>
   <message>
     <key>STAGE_NAME_39</key>
     <original xml:space="preserve">廃墟の地下室</original>
-	<translation xml:space="preserve">Ruins Cellar</translation>
+    <translation xml:space="preserve">Ruins Cellar</translation>
   </message>
   <message>
     <key>STAGE_NAME_40</key>
     <original xml:space="preserve">乾いた地下倉庫</original>
-	<translation xml:space="preserve">Dry Underground Stores</translation>
+    <translation xml:space="preserve">Dry Underground Stores</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_41</key>
+    <original xml:space="preserve">遺跡の地下室</original>
   </message>
   <message>
     <key>STAGE_NAME_42</key>
@@ -235,6 +247,54 @@
     <original xml:space="preserve">ドラワン組合宿　眠り狼亭</original>
   </message>
   <message>
+    <key>STAGE_NAME_54</key>
+    <original xml:space="preserve">ケイシーの雑貨店</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_55</key>
+    <original xml:space="preserve">隠者の家</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_56</key>
+    <original xml:space="preserve">術師の取引所</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_57</key>
+    <original xml:space="preserve">オズワルドの店</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_58</key>
+    <original xml:space="preserve">メルゴダ民の住居</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_59</key>
+    <original xml:space="preserve">メルゴダ民の住居</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_60</key>
+    <original xml:space="preserve">廃都の住居跡</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_61</key>
+    <original xml:space="preserve">ゾマ組合宿　金の杯亭</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_62</key>
+    <original xml:space="preserve">さる錬金術師の家</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_63</key>
+    <original xml:space="preserve">テオドール錬金工房</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_64</key>
+    <original xml:space="preserve">エリクシル精製室</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_65</key>
+    <original xml:space="preserve">廃都の住居跡</original>
+  </message>
+  <message>
     <key>STAGE_NAME_66</key>
     <original xml:space="preserve">グリッテン砦</original>
     <translation xml:space="preserve">Gritten Fort</translation>
@@ -256,7 +316,7 @@
   <message>
     <key>STAGE_NAME_70</key>
     <original xml:space="preserve">エルテ・ディナン</original>
-	<translation xml:space="preserve">Erte Deenan</translation>
+    <translation xml:space="preserve">Erte Deenan</translation>
   </message>
   <message>
     <key>STAGE_NAME_71</key>
@@ -271,12 +331,20 @@
   <message>
     <key>STAGE_NAME_73</key>
     <original xml:space="preserve">竜の巣</original>
-	<translation xml:space="preserve">Dragon's Nest</translation>
+    <translation xml:space="preserve">Dragon's Nest</translation>
   </message>
   <message>
     <key>STAGE_NAME_74</key>
     <original xml:space="preserve">禊の神殿</original>
-	<translation xml:space="preserve">Temple of Purification</translation>
+    <translation xml:space="preserve">Temple of Purification</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_76</key>
+    <original xml:space="preserve">亡都メルゴダ　下層</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_77</key>
+    <original xml:space="preserve">メルゴダ護政区</original>
   </message>
   <message>
     <key>STAGE_NAME_78</key>
@@ -294,14 +362,22 @@
     <translation xml:space="preserve">Kinoza Spa</translation>
   </message>
   <message>
+    <key>STAGE_NAME_81</key>
+    <original xml:space="preserve">禊の神殿　離殿</original>
+  </message>
+  <message>
     <key>STAGE_NAME_82</key>
     <original xml:space="preserve">古の祭祀場</original>
-	<translation xml:space="preserve">Ancient Place of Rituals</translation>
+    <translation xml:space="preserve">Ancient Place of Rituals</translation>
   </message>
   <message>
     <key>STAGE_NAME_83</key>
     <original xml:space="preserve">グリッテン砦</original>
-	<translation xml:space="preserve">Gritten Fort</translation>
+    <translation xml:space="preserve">Gritten Fort</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_84</key>
+    <original xml:space="preserve">亡都メルゴダ　王宮層</original>
   </message>
   <message>
     <key>STAGE_NAME_85</key>
@@ -315,7 +391,7 @@
   <message>
     <key>STAGE_NAME_87</key>
     <original xml:space="preserve">開かずの路</original>
-	<translation xml:space="preserve">Blocked Passage</translation>
+    <translation xml:space="preserve">Blocked Passage</translation>
   </message>
   <message>
     <key>STAGE_NAME_88</key>
@@ -338,6 +414,14 @@
     <translation xml:space="preserve">Betland Cemetary</translation>
   </message>
   <message>
+    <key>STAGE_NAME_93</key>
+    <original xml:space="preserve">怨嗟の祠</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_94</key>
+    <original xml:space="preserve">虚ろの小堂</original>
+  </message>
+  <message>
     <key>STAGE_NAME_95</key>
     <original xml:space="preserve">ホボリック洞穴</original>
     <translation xml:space="preserve">Hobolic Cave</translation>
@@ -350,7 +434,7 @@
   <message>
     <key>STAGE_NAME_97</key>
     <original xml:space="preserve">森民の地下道</original>
-	<translation xml:space="preserve">Forest People's Underground Passage</translation>
+    <translation xml:space="preserve">Forest People's Underground Passage</translation>
   </message>
   <message>
     <key>STAGE_NAME_98</key>
@@ -380,7 +464,7 @@
   <message>
     <key>STAGE_NAME_103</key>
     <original xml:space="preserve">悪鬼の岩窟</original>
-	<translation xml:space="preserve">Fiend's Cavern</translation>
+    <translation xml:space="preserve">Fiend's Cavern</translation>
   </message>
   <message>
     <key>STAGE_NAME_104</key>
@@ -390,7 +474,7 @@
   <message>
     <key>STAGE_NAME_105</key>
     <original xml:space="preserve">秘弓師の住居</original>
-	<translation xml:space="preserve">Secret Bowmaker's Home</translation>
+    <translation xml:space="preserve">Secret Bowmaker's Home</translation>
   </message>
   <message>
     <key>STAGE_NAME_106</key>
@@ -411,27 +495,27 @@
   <message>
     <key>STAGE_NAME_110</key>
     <original xml:space="preserve">深緑のテラス</original>
-	<translation xml:space="preserve">Dark Green Terrace</translation>
+    <translation xml:space="preserve">Dark Green Terrace</translation>
   </message>
   <message>
     <key>STAGE_NAME_111</key>
     <original xml:space="preserve">霊泉のテラス</original>
-	<translation xml:space="preserve">Sacred Spring Terrace</translation>
+    <translation xml:space="preserve">Sacred Spring Terrace</translation>
   </message>
   <message>
     <key>STAGE_NAME_112</key>
     <original xml:space="preserve">蒼葉のテラス</original>
-	<translation xml:space="preserve">Greenleaf Terrace</translation>
+    <translation xml:space="preserve">Greenleaf Terrace</translation>
   </message>
   <message>
     <key>STAGE_NAME_113</key>
     <original xml:space="preserve">斜陽のテラス</original>
-	<translation xml:space="preserve">Sunset Terrace</translation>
+    <translation xml:space="preserve">Sunset Terrace</translation>
   </message>
   <message>
     <key>STAGE_NAME_114</key>
     <original xml:space="preserve">月影のテラス</original>
-	<translation xml:space="preserve">Moonlight Terrace</translation>
+    <translation xml:space="preserve">Moonlight Terrace</translation>
   </message>
   <message>
     <key>STAGE_NAME_115</key>
@@ -448,7 +532,7 @@
   <message>
     <key>STAGE_NAME_118</key>
     <original xml:space="preserve">不浄の地下水道</original>
-	<translation xml:space="preserve">Foul Water Channel</translation>
+    <translation xml:space="preserve">Foul Water Channel</translation>
   </message>
   <message>
     <key>STAGE_NAME_119</key>
@@ -457,7 +541,7 @@
   <message>
     <key>STAGE_NAME_120</key>
     <original xml:space="preserve">旧騎士団連絡路</original>
-	<translation xml:space="preserve">Knights' Old Route</translation>
+    <translation xml:space="preserve">Knights' Old Route</translation>
   </message>
   <message>
     <key>STAGE_NAME_121</key>
@@ -474,7 +558,7 @@
   <message>
     <key>STAGE_NAME_124</key>
     <original xml:space="preserve">湖岸地下室</original>
-	<translation xml:space="preserve">Lakeside Cellar</translation>
+    <translation xml:space="preserve">Lakeside Cellar</translation>
   </message>
   <message>
     <key>STAGE_NAME_125</key>
@@ -483,7 +567,7 @@
   <message>
     <key>STAGE_NAME_126</key>
     <original xml:space="preserve">テルの枯れ井戸</original>
-	<translation xml:space="preserve">Tel's Withered Well</translation>
+    <translation xml:space="preserve">Tel's Withered Well</translation>
   </message>
   <message>
     <key>STAGE_NAME_127</key>
@@ -500,6 +584,14 @@
   <message>
     <key>STAGE_NAME_130</key>
     <original xml:space="preserve">朽ちかけた井戸</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_131</key>
+    <original xml:space="preserve">啼き井戸</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_132</key>
+    <original xml:space="preserve">賢者の古井戸</original>
   </message>
   <message>
     <key>STAGE_NAME_133</key>
@@ -529,22 +621,30 @@
   <message>
     <key>STAGE_NAME_138</key>
     <original xml:space="preserve">山頂の小堂</original>
-	<translation xml:space="preserve">Summit Chapel</translation>
+    <translation xml:space="preserve">Summit Chapel</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_139</key>
+    <original xml:space="preserve">標の祠　ザンドラ禁域</original>
   </message>
   <message>
     <key>STAGE_NAME_140</key>
     <original xml:space="preserve">異界の狭間</original>
-	<translation xml:space="preserve">The Rift</translation>
+    <translation xml:space="preserve">The Rift</translation>
   </message>
   <message>
     <key>STAGE_NAME_142</key>
     <original xml:space="preserve">異界の狭間</original>
-	<translation xml:space="preserve">The Rift</translation>
+    <translation xml:space="preserve">The Rift</translation>
   </message>
   <message>
     <key>STAGE_NAME_144</key>
     <original xml:space="preserve">第二のアーク</original>
-	<translation xml:space="preserve">The Second Ark</translation>
+    <translation xml:space="preserve">The Second Ark</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_145</key>
+    <original xml:space="preserve">第三のアーク</original>
   </message>
   <message>
     <key>STAGE_NAME_146</key>
@@ -554,7 +654,15 @@
   <message>
     <key>STAGE_NAME_147</key>
     <original xml:space="preserve">第二のアーク</original>
-	<translation xml:space="preserve">The Second Ark</translation>
+    <translation xml:space="preserve">The Second Ark</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_148</key>
+    <original xml:space="preserve">第三のアーク</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_149</key>
+    <original xml:space="preserve">湖底連絡路</original>
   </message>
   <message>
     <key>STAGE_NAME_150</key>
@@ -563,7 +671,7 @@
   <message>
     <key>STAGE_NAME_151</key>
     <original xml:space="preserve">ドリード水路跡</original>
-	<translation xml:space="preserve">Dreed Waterway Ruins</translation>
+    <translation xml:space="preserve">Dreed Waterway Ruins</translation>
   </message>
   <message>
     <key>STAGE_NAME_152</key>
@@ -573,7 +681,7 @@
   <message>
     <key>STAGE_NAME_153</key>
     <original xml:space="preserve">リンウッド地下水路</original>
-	<translation xml:space="preserve">Lynwood Underground Waterway</translation>
+    <translation xml:space="preserve">Lynwood Underground Waterway</translation>
   </message>
   <message>
     <key>STAGE_NAME_154</key>
@@ -583,7 +691,15 @@
   <message>
     <key>STAGE_NAME_155</key>
     <original xml:space="preserve">バートランド地下道</original>
-	<translation xml:space="preserve">Betland Underground Passage</translation>
+    <translation xml:space="preserve">Betland Underground Passage</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_156</key>
+    <original xml:space="preserve">テゴル治水路</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_157</key>
+    <original xml:space="preserve">メルゴダ大水網</original>
   </message>
   <message>
     <key>STAGE_NAME_158</key>
@@ -611,12 +727,16 @@
   <message>
     <key>STAGE_NAME_163</key>
     <original xml:space="preserve">神花のテラス</original>
-	<translation xml:space="preserve">Divine Blossom Terrace</translation>
+    <translation xml:space="preserve">Divine Blossom Terrace</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_164</key>
+    <original xml:space="preserve">旧地下実験所</original>
   </message>
   <message>
     <key>STAGE_NAME_165</key>
     <original xml:space="preserve">閉ざされた古井戸</original>
-	<translation xml:space="preserve">Sealed Old Well</translation>
+    <translation xml:space="preserve">Sealed Old Well</translation>
   </message>
   <message>
     <key>STAGE_NAME_166</key>
@@ -626,7 +746,15 @@
   <message>
     <key>STAGE_NAME_167</key>
     <original xml:space="preserve">呻きの枯れ井戸</original>
-	<translation xml:space="preserve">Groaning Old Well</translation>
+    <translation xml:space="preserve">Groaning Old Well</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_168</key>
+    <original xml:space="preserve">術師の地下泉</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_169</key>
+    <original xml:space="preserve">取水場跡</original>
   </message>
   <message>
     <key>STAGE_NAME_170</key>
@@ -898,6 +1026,10 @@
     <original xml:space="preserve">st0061 OM検証部屋（機能なしOM）</original>
   </message>
   <message>
+    <key>STAGE_NAME_237</key>
+    <original xml:space="preserve">メルゴダ居住区</original>
+  </message>
+  <message>
     <key>STAGE_NAME_238</key>
     <original xml:space="preserve">ハイデル地下霊廟　深部</original>
     <translation xml:space="preserve">Deep Hidell Catacombs</translation>
@@ -938,6 +1070,10 @@
     <original xml:space="preserve">パブ用ステージ</original>
   </message>
   <message>
+    <key>STAGE_NAME_304</key>
+    <original xml:space="preserve">エンディング用部屋</original>
+  </message>
+  <message>
     <key>STAGE_NAME_305</key>
     <original xml:space="preserve">st0070 ポーンダンジョン処理計測部屋</original>
   </message>
@@ -948,5 +1084,9 @@
   <message>
     <key>STAGE_NAME_307</key>
     <original xml:space="preserve">st0048 テスト部屋（矢萩）</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_308</key>
+    <original xml:space="preserve">メルゴダ護政区</original>
   </message>
 </resource>

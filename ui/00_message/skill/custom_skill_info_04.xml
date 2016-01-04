@@ -62,10 +62,15 @@ LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_45</key>
-    <original xml:space="preserve">状態異常を瞬時に治療する魔法エリアを発現させる
-（対不死には攻撃）
+    <original xml:space="preserve">一部の状態異常を瞬時に治療する魔法エリアを
+発現させる（対不死には攻撃）
 &lt;COL ffdc78&gt;LV UP毎に設置持続時間が延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--状態異常を瞬時に治療する魔法エリアを発現させる
+（対不死には攻撃）
+<COL ffdc78>LV UP毎に設置持続時間が延長
+LV.６で展開エリアのサイズ拡張</COL>-->
     <translation xml:space="preserve">Creates a magic area that instantly
 cures debilitations.
 (Inflicts damage to undead)
@@ -108,5 +113,12 @@ LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
 発現させる（対不死には攻撃）
 &lt;COL ffdc78&gt;LV UP毎に設置持続時間が延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_53</key>
+    <original xml:space="preserve">自身を中心に聖属性の巨大な魔法エリアを展開し
+侵入してきた敵に攻撃を与える
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
   </message>
 </resource>

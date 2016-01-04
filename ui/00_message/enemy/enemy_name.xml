@@ -120,6 +120,10 @@
     <translation xml:space="preserve">Alchemized Wolf</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_29</key>
+    <original xml:space="preserve">シャドーウルフ</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_30</key>
     <original xml:space="preserve">グリムワーグ</original>
     <translation xml:space="preserve">Grimwarg</translation>
@@ -140,6 +144,10 @@
     <translation xml:space="preserve">Alchemized Skeleton</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_34</key>
+    <original xml:space="preserve">ゴーストメイル</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_36</key>
     <original xml:space="preserve">スケルトンソーサラー</original>
     <translation xml:space="preserve">Skeleton Sorcerer</translation>
@@ -148,6 +156,10 @@
     <key>ENEMY_NAME_37</key>
     <original xml:space="preserve">スケルトンメイジ</original>
     <translation xml:space="preserve">Skeleton Mage</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_38</key>
+    <original xml:space="preserve">スケルトンウォリアー</original>
   </message>
   <message>
     <key>ENEMY_NAME_39</key>
@@ -190,6 +202,10 @@
     <translation xml:space="preserve">Saurian</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_47</key>
+    <original xml:space="preserve">コープストーチャー</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_48</key>
     <original xml:space="preserve">コープスパニッシャー</original>
     <translation xml:space="preserve">Corpse Punisher</translation>
@@ -203,6 +219,10 @@
     <key>ENEMY_NAME_50</key>
     <original xml:space="preserve">マッドマン</original>
     <translation xml:space="preserve">Mudman</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_51</key>
+    <original xml:space="preserve">ウォリアーアンデッド</original>
   </message>
   <message>
     <key>ENEMY_NAME_52</key>
@@ -220,6 +240,14 @@
     <translation xml:space="preserve">Undead</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_55</key>
+    <original xml:space="preserve">シャドーハーピー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_56</key>
+    <original xml:space="preserve">ハーピーアルケミー</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_57</key>
     <original xml:space="preserve">スノーハーピー</original>
     <translation xml:space="preserve">Snow Harpy</translation>
@@ -228,6 +256,10 @@
     <key>ENEMY_NAME_58</key>
     <original xml:space="preserve">ハーピー</original>
     <translation xml:space="preserve">Harpy</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_60</key>
+    <original xml:space="preserve">ミストウォリアー</original>
   </message>
   <message>
     <key>ENEMY_NAME_61</key>
@@ -248,6 +280,14 @@
     <key>ENEMY_NAME_64</key>
     <original xml:space="preserve">ミストファイター</original>
     <translation xml:space="preserve">Mist Fighter</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_65</key>
+    <original xml:space="preserve">メルガンシーカー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_66</key>
+    <original xml:space="preserve">バンデッドファイター</original>
   </message>
   <message>
     <key>ENEMY_NAME_67</key>
@@ -300,6 +340,10 @@
     <translation xml:space="preserve">Armored Cyclops</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_77</key>
+    <original xml:space="preserve">シャドーキメラ</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_78</key>
     <original xml:space="preserve">ホワイトキメラ</original>
     <translation xml:space="preserve">White Chimera</translation>
@@ -308,6 +352,18 @@
     <key>ENEMY_NAME_79</key>
     <original xml:space="preserve">キメラ</original>
     <translation xml:space="preserve">Chimera</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_80</key>
+    <original xml:space="preserve">ジオゴーレム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_81</key>
+    <original xml:space="preserve">ダムドゴーレム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_82</key>
+    <original xml:space="preserve">ゴリアテ</original>
   </message>
   <message>
     <key>ENEMY_NAME_83</key>
@@ -325,9 +381,33 @@
     <translation xml:space="preserve">Cockatrice</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_87</key>
+    <original xml:space="preserve">グリフィンアルケミー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_88</key>
+    <original xml:space="preserve">ブラックグリフィン</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_89</key>
     <original xml:space="preserve">スフィンクス</original>
     <translation xml:space="preserve">Sphinx</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_91</key>
+    <original xml:space="preserve">エメラルドアイ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_92</key>
+    <original xml:space="preserve">ラピスアイ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_93</key>
+    <original xml:space="preserve">ルビーアイ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_94</key>
+    <original xml:space="preserve">クリスタルアイ</original>
   </message>
   <message>
     <key>ENEMY_NAME_95</key>
@@ -350,6 +430,10 @@
     <translation xml:space="preserve">Ogre</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_99</key>
+    <original xml:space="preserve">エンプレスゴースト</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_100</key>
     <original xml:space="preserve">ウィッチ</original>
     <translation xml:space="preserve">Witch</translation>
@@ -360,6 +444,10 @@
     <translation xml:space="preserve">Wight</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_102</key>
+    <original xml:space="preserve">ゴルゴラン</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_103</key>
     <original xml:space="preserve">エルダードラゴン</original>
     <translation xml:space="preserve">Elder Dragon</translation>
@@ -368,6 +456,10 @@
     <key>ENEMY_NAME_104</key>
     <original xml:space="preserve">白竜</original>
     <translation xml:space="preserve">White Dragon</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_105</key>
+    <original xml:space="preserve">ディアマンテス</original>
   </message>
   <message>
     <key>ENEMY_NAME_106</key>
@@ -425,6 +517,14 @@
     <translation xml:space="preserve">Alchemized Goblin Fighter</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_117</key>
+    <original xml:space="preserve">イリス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_118</key>
+    <original xml:space="preserve">レオ</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_119</key>
     <original xml:space="preserve">ポーンファイター</original>
     <translation xml:space="preserve">Pawn Fighter</translation>
@@ -453,6 +553,10 @@
     <key>ENEMY_NAME_124</key>
     <original xml:space="preserve">ポーンメイジ</original>
     <translation xml:space="preserve">Pawn Mage</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_125</key>
+    <original xml:space="preserve">ポーンウォリアー</original>
   </message>
   <message>
     <key>ENEMY_NAME_126</key>
@@ -519,6 +623,62 @@
     <translation xml:space="preserve">Bandit Mage</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_141</key>
+    <original xml:space="preserve">ローグウォリアー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_142</key>
+    <original xml:space="preserve">バンデッドシーカー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_143</key>
+    <original xml:space="preserve">バンデッドハンター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_144</key>
+    <original xml:space="preserve">バンデッドヒーラー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_145</key>
+    <original xml:space="preserve">バンデッドガーダー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_146</key>
+    <original xml:space="preserve">バンデッドメイジ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_147</key>
+    <original xml:space="preserve">バンデッドウォリアー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_148</key>
+    <original xml:space="preserve">メルガンハンター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_149</key>
+    <original xml:space="preserve">メルガンヒーラー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_150</key>
+    <original xml:space="preserve">メルガンガーダー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_151</key>
+    <original xml:space="preserve">メルガンメイジ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_152</key>
+    <original xml:space="preserve">メルガンウォリアー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_153</key>
+    <original xml:space="preserve">メルガンエレメンター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_154</key>
+    <original xml:space="preserve">リビングアーマー</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_155</key>
     <original xml:space="preserve">オークエイマー</original>
     <translation xml:space="preserve">Orc Aimer</translation>
@@ -543,6 +703,10 @@
     <translation xml:space="preserve">Killer Bee</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_160</key>
+    <original xml:space="preserve">シャドーゴブリンリーダー</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_161</key>
     <original xml:space="preserve">ゴブリンボマー</original>
     <translation xml:space="preserve">Goblin Bomber</translation>
@@ -551,6 +715,26 @@
     <key>ENEMY_NAME_162</key>
     <original xml:space="preserve">ゴブリンキング</original>
     <translation xml:space="preserve">Goblin King</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_163</key>
+    <original xml:space="preserve">スリングシャドーゴブリン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_164</key>
+    <original xml:space="preserve">シャドーゴブリンファイター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_165</key>
+    <original xml:space="preserve">シャドーゴブリン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_166</key>
+    <original xml:space="preserve">ダムドゴブリンファイター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_167</key>
+    <original xml:space="preserve">ダムドスリングゴブリン</original>
   </message>
   <message>
     <key>ENEMY_NAME_168</key>
@@ -586,6 +770,10 @@
     <key>ENEMY_NAME_174</key>
     <original xml:space="preserve">謎の肉塊</original>
     <translation xml:space="preserve">Unspeakable Meat</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_175</key>
+    <original xml:space="preserve">メルガンファイター</original>
   </message>
   <message>
     <key>ENEMY_NAME_179</key>
