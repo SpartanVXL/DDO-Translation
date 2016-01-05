@@ -20,10 +20,6 @@ Fire attribute attacks.
     <original xml:space="preserve">エレメントチェンジで選択された属性と防御した
 敵攻撃の属性が同じとき攻力吸収量がさらに増加する
 &lt;COL ffdc78&gt;LV UP毎に攻力吸収量がより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--盾に付与した属性と防御した敵攻撃の属性が同じとき
-攻力の吸収量がさらに増加する
-<COL ffdc78>LV UP毎に攻力吸収量がより増加</COL>-->
     <translation xml:space="preserve">Increases Force Gauge when a blocked attack
 matches the element enchanted to your rod.
 &lt;COL ffdc78&gt;LV UP: Increases Force Gauge further.&lt;/COL&gt;</translation>
@@ -84,10 +80,6 @@ arrows will linger before exploding.
     <original xml:space="preserve">炎属性攻撃を受けても
 延焼の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--炎属性攻撃を受けても
-延焼の状態異常にかかりにくくなる
-<COL ffdc78>LV UP毎に耐性がより増加</COL>-->
     <translation xml:space="preserve">Decreases the rate at which you receive
 the debilitation "Catching Fire" when
 struck by Fire attribute attacks.
@@ -307,9 +299,6 @@ after your guard is broken.
     <key>ABILITY_INFO_123</key>
     <original xml:space="preserve">連係投げによるジャンプ高度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に高度がより上昇&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--連携投げによるジャンプ高度が上昇する
-<COL ffdc78>LV UP毎に高度がより上昇</COL>-->
     <translation xml:space="preserve">Increases jump height when assisted
 by another person.
 &lt;COL ffdc78&gt;LV UP: Increases jump height further.&lt;/COL&gt;</translation>
@@ -359,10 +348,6 @@ your bow is ready to fire.
     <original xml:space="preserve">氷属性攻撃を受けても
 凍結の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--氷属性攻撃を受けても
-凍結の状態異常にかかりにくくなる
-<COL ffdc78>LV UP毎に耐性がより増加</COL>-->
     <translation xml:space="preserve">Decreases the rate at which you receive
 the debilitation "Frozen Solid" when
 struck by Ice attribute attacks.
@@ -562,10 +547,6 @@ increasing the likelihood it will break enemy posture.
     <original xml:space="preserve">雷属性攻撃を受けても
 感電の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--雷属性攻撃を受けても
-感電の状態異常にかかりにくくなる
-<COL ffdc78>LV UP毎に耐性がより増加</COL>-->
     <translation xml:space="preserve">Decreases the rate at which you receive
 the debilitation "Shock" when
 struck by Thunder attribute attacks.

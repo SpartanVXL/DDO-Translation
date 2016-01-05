@@ -52,7 +52,7 @@
   <message>
     <key>pawn_command_620</key>
     <original xml:space="preserve">挑発スキル発動</original>
-    <translation xml:space="preserve">Taunt</translation>
+    <translation xml:space="preserve">Use Taunt Skills</translation>
   </message>
   <message>
     <key>pawn_command_621</key>
@@ -77,9 +77,7 @@
   <message>
     <key>pawn_command_625</key>
     <original xml:space="preserve">怯ませ・吹き飛ばし</original>
-    <!-- NEEDS REVIEW -->
-    <!--敵体勢崩し-->
-    <translation xml:space="preserve">Disrupt Enemy</translation>
+    <translation xml:space="preserve">Flinch Enemy</translation>
   </message>
   <message>
     <key>pawn_command_626</key>
@@ -133,14 +131,17 @@
   <message>
     <key>pawn_command_636</key>
     <original xml:space="preserve">エナジースポット発動</original>
+	<translation xml:space="preserve">Cast Energy Spot</translation>
   </message>
   <message>
     <key>pawn_command_637</key>
     <original xml:space="preserve">ソリッドライザー発動</original>
+	<translation xml:space="preserve">Cast Solid Riser</translation>
   </message>
   <message>
     <key>pawn_command_638</key>
     <original xml:space="preserve">ハンズオブゴッド発動</original>
+	<translation xml:space="preserve">Cast Hands of God</translation>
   </message>
   <message>
     <key>pawn_command_639</key>
@@ -150,5 +151,6 @@
   <message>
     <key>pawn_command_9499</key>
     <original xml:space="preserve">ゆさぶり命令</original>
+	<translation xml:space="preserve">Shake Command</translation>
   </message>
 </resource>

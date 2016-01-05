@@ -17,7 +17,7 @@
 &lt;COL ffdc78&gt;LV UPで選択可能属性が聖・闇を含む
 ５属性の＜ペンタエレメントチェンジ＞に進化&lt;/COL&gt;</original>
     <translation xml:space="preserve">Change the elemental attribute on your rod.
-（Ice/Fire/Thunder）
+(Ice/Fire/Thunder)
 Can also be done in the air.
 &lt;COL ffdc78&gt;LV UP Add the elements of Light and Darkness
 to the elements you can change to.&lt;/COL&gt;</translation>
@@ -28,7 +28,7 @@ to the elements you can change to.&lt;/COL&gt;</translation>
 （炎・氷・雷・聖・闇のいずれか）
 空中でも発動可能</original>
     <translation xml:space="preserve">Change the elemental attribute on your rod.
-（Ice/Fire/Thunder/Light/Darkness）
+(Ice/Fire/Thunder/Light/Darkness)
 Can also be done in the air.</translation>
   </message>
   <message>
@@ -37,7 +37,7 @@ Can also be done in the air.</translation>
 ロッドの選択属性と受けた攻撃が同属性だと
 吸収量増加。空中でも発動可能</original>
     <translation xml:space="preserve">Block the enemy's attack with your greatshield to charge
-    the gauge with the current element on your rod. Can also be activated in the air.</translation>
+    the gauge with the current element on your rod. Can be activated in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_75</key>
@@ -45,12 +45,9 @@ Can also be done in the air.</translation>
 固定中は攻力吸収量が上がり、スキが減少
 ロッドの選択属性と受けた攻撃が同属性だと
 吸収量増加。空中でも発動可能</original>
-    <!-- NEEDS REVIEW -->
-    <!--大盾を構え、防御方向を固定する
-固定中は攻力吸収量が上がり、スキが減少
-空中でも発動可能-->
     <translation xml:space="preserve">Affix your greatshield towards the enemy, increasing the amount the
-    gauge will increase. Can be activated in the air.</translation>
+    gauge will increase. Gauge increase is larger if the attack matches the element on your rod.
+	Can be activated in the air.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_76</key>
@@ -58,12 +55,9 @@ Can also be done in the air.</translation>
 多量の攻力を吸収し、スタミナ消費もゼロになる
 ロッドの選択属性と受けた攻撃が同属性だと
 吸収量増加。空中でも発動可能</original>
-    <!-- NEEDS REVIEW -->
-    <!--大盾で敵の攻撃をタイミングよく直前防御する
-多量の攻力を吸収し、スタミナ消費もゼロになる
-空中でも発動可能-->
     <translation xml:space="preserve">Activate the greatshield as an enemy strikes you to increase the
-    gauge by a large amount. Also consumes no stamina to block.</translation>
+    gauge by a large amount. Gauge increase is larger if the attack matches the element on your rod.
+	Consumes no stamina on block.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_77</key>
@@ -106,7 +100,7 @@ Can also be done in the air.</translation>
 攻撃時フォースゲージ1本以上なら消費し技性能上昇</original>
     <translation xml:space="preserve">Immediately after blocking, either attack
     the enemy to increase enmity or dodge backwards.
-    Will consume 1 force gauge to increase effects if avaliable.</translation>
+    Will consume 1 force gauge to increase effects if available.</translation>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_91</key>
@@ -115,6 +109,6 @@ Can also be done in the air.</translation>
 フォースゲージ１本以上の時、消費して技性能上昇</original>
     <translation xml:space="preserve">While clinging to an enemy, attack with
     the current selected attribute.
-    Will consume 1 bar of force gauge to enhance the effect if avaliable.</translation>
+    Will consume 1 bar of force gauge to enhance the effect if available.</translation>
   </message>
 </resource>

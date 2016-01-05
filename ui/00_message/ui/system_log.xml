@@ -897,11 +897,8 @@ They will leave the party.</translation>
     <key>syslog_areamaster_ap_get_ex</key>
     <original xml:space="preserve">&lt;NAME AREA&gt;のエリアポイント
 &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;を獲得しました</original>
-    <!-- NEEDS REVIEW -->
-    <!--<NAME AREA>のエリアポイント
-<VAL AP>(+<VAL>)を獲得しました-->
     <translation xml:space="preserve">Area points for &lt;NAME AREA&gt;:
-Gained &lt;VAL AP&gt; (+&lt;VAL&gt;).</translation>
+Gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;.</translation>
   </message>
   <message>
     <key>syslog_mission_jp_get</key>
@@ -911,9 +908,7 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;).</translation>
   <message>
     <key>syslog_mission_jp_get_ex</key>
     <original xml:space="preserve">ジョブポイントを&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT JP&gt;獲得しました</original>
-    <!-- NEEDS REVIEW -->
-    <!--ジョブポイントを<VAL JP>(+<VAL>)獲得しました-->
-    <translation xml:space="preserve">Obtained &lt;VAL JP&gt; (+&lt;VAL&gt;).</translation>
+    <translation xml:space="preserve">Obtained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT JP&gt;.</translation>
   </message>
   <message>
     <key>syslog_quest_pawn_xp_get</key>
@@ -923,9 +918,7 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;).</translation>
   <message>
     <key>syslog_quest_pawn_xp_get_ex</key>
     <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;獲得しました</original>
-    <!-- NEEDS REVIEW -->
-    <!--<NAME PAWN>が<VAL XP>(+<VAL>)獲得しました-->
-    <translation xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL XP&gt; (+&lt;VAL&gt;).</translation>
+    <translation xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;.</translation>
   </message>
   <message>
     <key>syslog_mission_pawn_jp</key>
@@ -935,9 +928,7 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;).</translation>
   <message>
     <key>syslog_mission_pawn_jp_ex</key>
     <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT JP&gt;獲得しました</original>
-    <!-- NEEDS REVIEW -->
-    <!--<NAME PAWN>が<VAL JP>(+<VAL>)獲得しました-->
-    <translation xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL JP&gt; (+&lt;VAL&gt;).</translation>
+    <translation xml:space="preserve">&lt;NAME PAWN&gt; gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT JP&gt;.</translation>
   </message>
   <message>
     <key>syslog_goldstone_get</key>
@@ -1149,9 +1140,7 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   <message>
     <key>syslog_rentalpoint_get_ex</key>
     <original xml:space="preserve">レンタルポイントを&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT RP&gt;獲得しました</original>
-    <!-- NEEDS REVIEW -->
-    <!--レンタルポイントを<VAL RP>(+<VAL>)獲得しました-->
-    <translation xml:space="preserve">Obtained &lt;VAL RP&gt; (+&lt;VAL&gt;).</translation>
+    <translation xml:space="preserve">Obtained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT RP&gt;.</translation>
   </message>
   <message>
     <key>syslog_rentalpoint_lost</key>
