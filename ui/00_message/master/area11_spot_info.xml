@@ -12,7 +12,7 @@
     <original xml:space="preserve">禁じられた地にもっとも近い、探索者の拠点
 すでに元の住民はおらず、旧時代の宝や発見を
 求める者達が遺跡を再利用し、宿や商店を開いて
-いる。この町の武具屋には剣豪《ウォリアー》
+いる。この町のよろず屋には剣豪《ウォリアー》
 として名高いオリバーが滞在している</original>
   </message>
   <message>
@@ -40,19 +40,14 @@
   </message>
   <message>
     <key>SPOT_INFO_</key>
-    <original xml:space="preserve">死者の丘、祠墓地前に広がる陰鬱な庭
-そこに何者かが突如として現れ、盗掘者を
-皆殺しにしたという
-墓荒らしと間違われぬためにも、周囲は避けて
-通る方が賢明だろう</original>
+    <original xml:space="preserve">今のところ警戒情報はない</original>
   </message>
   <message>
     <key>SPOT_INFO_</key>
     <original xml:space="preserve">ザンドラ東部、《死者の丘》と呼ばれる地にある
-地下礼拝堂。冥界の王を奉るための場所であり
-深部には黒騎士が守る呪われた秘宝があると
-墓荒らしの間でまことしやかに囁かれている
-挑んだ者全てが帰らなかったため、封鎖された</original>
+地下礼拝堂。秘宝が眠るという噂があり
+これまで多くの盗掘者が挑んだものの、
+その全てが帰らなかったため、封鎖された</original>
   </message>
   <message>
     <key>SPOT_INFO_</key>
@@ -70,14 +65,6 @@
   </message>
   <message>
     <key>SPOT_INFO_</key>
-    <original xml:space="preserve">ザンドラ灯台の地下倉庫
-もしかするとまだ使える物資も残っている
-かもしれないが、じめじめとした僻地の
-地下はそれよりも不浄なもののほうが多く
-溜まっているだろう</original>
-  </message>
-  <message>
-    <key>SPOT_INFO_</key>
     <original xml:space="preserve">東ザンドラ廃墟群と呼ばれる亡都の周辺都市は
 いまだわずかに当時の生活様式が見て取れ、錬金
 遺物も発掘される。廃墟の中には屋内や
@@ -86,11 +73,11 @@
   </message>
   <message>
     <key>SPOT_INFO_</key>
-    <original xml:space="preserve">《死者の丘》では比較的規模の小さな祠
-本来は地下墓地だったが、入り込んだ魔獣達に
-遺体のほとんどは食われてしまっている
-死者はほぼ空の地下墓地だが、内部には別の
-存在が潜んでいるかもしれない</original>
+    <original xml:space="preserve">ザンドラ灯台の地下倉庫
+もしかするとまだ使える物資も残っている
+かもしれないが、じめじめとした僻地の
+地下はそれよりも不浄なもののほうが多く
+溜まっているだろう</original>
   </message>
   <message>
     <key>SPOT_INFO_</key>
@@ -99,6 +86,14 @@
 一帯でも特に不吉な場所とされている
 近寄れば、冥府の執行者により魂を奪われる
 という噂がある</original>
+  </message>
+  <message>
+    <key>SPOT_INFO_</key>
+    <original xml:space="preserve">《死者の丘》では比較的規模の小さな祠
+本来は地下墓地だったが、入り込んだ魔獣達に
+遺体のほとんどは食われてしまっている
+死者はほぼ空の地下墓地だが、内部には別の
+存在が潜んでいるかもしれない</original>
   </message>
   <message>
     <key>SPOT_INFO_</key>
