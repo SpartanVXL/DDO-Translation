@@ -277,9 +277,11 @@
   <message>
     <key>PopPartyList_QuickPartyEdit_PTLeader</key>
     <original xml:space="preserve">パーティーリーダーＯＫ</original>
+    <translation xml:space="preserve">Party Leader</translation>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_PTLeaderBrief</key>
     <original xml:space="preserve">(パーティーが組まれた時、リーダー候補になります)</original>
+    <translation xml:space="preserve">(When the party forms, you will be a candidate to be leader)</translation>
   </message>
 </resource>
