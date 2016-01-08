@@ -46,12 +46,12 @@
   <message>
     <key>SHOP_TEXT_SELECTBUYNUM</key>
     <original xml:space="preserve">購入する個数を入力してください</original>
-    <translation xml:space="preserve">Please select the number you want to buy</translation>
+    <translation xml:space="preserve">Please select the amount to buy.</translation>
   </message>
   <message>
     <key>SHOP_TEXT_SELECTSELLNUM</key>
     <original xml:space="preserve">売却する個数を入力してください</original>
-    <translation xml:space="preserve">Please select the number you want to sell</translation>
+    <translation xml:space="preserve">Please select the amount to sell.</translation>
   </message>
   <message>
     <key>SHOP_TEXT_ATTENTIONBUY_1</key>
@@ -62,9 +62,9 @@
 　購入価格：&lt;VAL GOLD&gt;</original>
     <translation xml:space="preserve">Are you sure you want to buy the following?
 
-　Item：&lt;NAME ITEM&gt;
-　Amount：×&lt;VAL&gt;
-　Buy Price：&lt;VAL GOLD&gt;</translation>
+　Item: &lt;NAME ITEM&gt;
+　Amount: x&lt;VAL&gt;
+　Buy Price: &lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>SHOP_TEXT_ATTENTIONSELL</key>
@@ -75,9 +75,9 @@
 　売却価格：&lt;VAL GOLD&gt;</original>
     <translation xml:space="preserve">Are you sure you want to sell the following?
 
-　Item：&lt;NAME ITEM&gt;
-　Amount：×&lt;VAL&gt;
-　Sell Price：&lt;VAL GOLD&gt;</translation>
+　Item: &lt;NAME ITEM&gt;
+　Amount: x&lt;VAL&gt;
+　Sell Price: &lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>SHOP_TEXT_MANNEQUIN</key>
@@ -97,9 +97,9 @@
 &lt;COL AA1414&gt;Due to your job or level you will
 not be able to equip this item.&lt;/COL&gt;
 
-　Item：&lt;NAME ITEM&gt;
-　Amount：×&lt;VAL&gt;
-　Buy Price：&lt;VAL GOLD&gt;</translation>
+　Item: &lt;NAME ITEM&gt;
+　Amount: x&lt;VAL&gt;
+　Buy Price: &lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>SHOP_TEXT_BTN_GUIDE_SELL</key>
