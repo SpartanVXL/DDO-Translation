@@ -32,7 +32,7 @@
   <message>
     <key>CONDITION_NAME_16</key>
     <original xml:space="preserve">封印</original>
-    <translation xml:space="preserve">Sealed</translation>
+    <translation xml:space="preserve">Skills Stifled</translation>
   </message>
   <message>
     <key>CONDITION_NAME_17</key>
@@ -52,6 +52,7 @@
   <message>
     <key>CONDITION_NAME_20</key>
     <original xml:space="preserve">黄金化</original>
+    <translation xml:space="preserve">Golden</translation>
   </message>
   <message>
     <key>CONDITION_NAME_21</key>
@@ -71,46 +72,57 @@
   <message>
     <key>CONDITION_NAME_24</key>
     <original xml:space="preserve">聖吸</original>
+    <translation xml:space="preserve">Holy Drain</translation>
   </message>
   <message>
     <key>CONDITION_NAME_25</key>
     <original xml:space="preserve">闇霧</original>
+    <translation xml:space="preserve">Blinded</translation>
   </message>
   <message>
     <key>CONDITION_NAME_26</key>
     <original xml:space="preserve">炎防低下</original>
+    <translation xml:space="preserve">Fire Resist Down</translation>
   </message>
   <message>
     <key>CONDITION_NAME_27</key>
     <original xml:space="preserve">氷防低下</original>
+    <translation xml:space="preserve">Ice Resist Down</translation>
   </message>
   <message>
     <key>CONDITION_NAME_28</key>
     <original xml:space="preserve">雷防低下</original>
+    <translation xml:space="preserve">Thunder Resist Down</translation>
   </message>
   <message>
     <key>CONDITION_NAME_29</key>
     <original xml:space="preserve">聖防低下</original>
+    <translation xml:space="preserve">Holy Resist Down</translation>
   </message>
   <message>
     <key>CONDITION_NAME_30</key>
     <original xml:space="preserve">闇防低下</original>
+    <translation xml:space="preserve">Dark Resist Down</translation>
   </message>
   <message>
     <key>CONDITION_NAME_31</key>
     <original xml:space="preserve">物攻低下</original>
+    <translation xml:space="preserve">Physical Attack Down</translation>
   </message>
   <message>
     <key>CONDITION_NAME_32</key>
     <original xml:space="preserve">物防低下</original>
+    <translation xml:space="preserve">Physical Defense Down</translation>
   </message>
   <message>
     <key>CONDITION_NAME_33</key>
     <original xml:space="preserve">魔攻低下</original>
+    <translation xml:space="preserve">Magick Attack Down</translation>
   </message>
   <message>
     <key>CONDITION_NAME_34</key>
     <original xml:space="preserve">魔防低下</original>
+    <translation xml:space="preserve">Magick Defense Down</translation>
   </message>
   <message>
     <key>CONDITION_NAME_35</key>
@@ -120,81 +132,101 @@
   <message>
     <key>CONDITION_NAME_36</key>
     <original xml:space="preserve">物攻上昇</original>
+    <translation xml:space="preserve">Physical Attack Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_37</key>
     <original xml:space="preserve">物防上昇</original>
+    <translation xml:space="preserve">Physical Defense Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_38</key>
     <original xml:space="preserve">魔攻上昇</original>
+    <translation xml:space="preserve">Magick Attack Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_39</key>
     <original xml:space="preserve">魔防上昇</original>
+    <translation xml:space="preserve">Magick Defense Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_40</key>
     <original xml:space="preserve">吹き飛ばし力上昇</original>
+    <translation xml:space="preserve">Blow Power Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_41</key>
     <original xml:space="preserve">耐久力上昇</original>
+    <translation xml:space="preserve">Endurance Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_42</key>
     <original xml:space="preserve">生命治癒力上昇</original>
+    <translation xml:space="preserve">Healing Power Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_43</key>
     <original xml:space="preserve">炎防上昇</original>
+    <translation xml:space="preserve">Fire Resist Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_44</key>
     <original xml:space="preserve">氷防上昇</original>
+    <translation xml:space="preserve">Ice Resist Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_45</key>
     <original xml:space="preserve">雷防上昇</original>
+    <translation xml:space="preserve">Thunder Resist Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_46</key>
     <original xml:space="preserve">聖防上昇</original>
+    <translation xml:space="preserve">Holy Resist Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_47</key>
     <original xml:space="preserve">闇防上昇</original>
+    <translation xml:space="preserve">Dark Resist Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_48</key>
     <original xml:space="preserve">炎攻付加</original>
+    <translation xml:space="preserve">Add Fire Attack</translation>
   </message>
   <message>
     <key>CONDITION_NAME_49</key>
     <original xml:space="preserve">氷攻付加</original>
+    <translation xml:space="preserve">Add Ice Attack</translation>
   </message>
   <message>
     <key>CONDITION_NAME_50</key>
     <original xml:space="preserve">雷攻付加</original>
+    <translation xml:space="preserve">Add Thunder Attack</translation>
   </message>
   <message>
     <key>CONDITION_NAME_51</key>
     <original xml:space="preserve">聖攻付加</original>
+    <translation xml:space="preserve">Add Holy Attack</translation>
   </message>
   <message>
     <key>CONDITION_NAME_52</key>
     <original xml:space="preserve">闇攻付加</original>
+    <translation xml:space="preserve">Add Dark Attack</translation>
   </message>
   <message>
     <key>CONDITION_NAME_53</key>
     <original xml:space="preserve">体力上昇</original>
+    <translation xml:space="preserve">Max Health Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_54</key>
     <original xml:space="preserve">スタミナ上昇</original>
+    <translation xml:space="preserve">Max Stamina Up</translation>
   </message>
   <message>
     <key>CONDITION_NAME_57</key>
     <original xml:space="preserve">強化</original>
+    <translation xml:space="preserve">Strengthed</translation>
   </message>
 </resource>

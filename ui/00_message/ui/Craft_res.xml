@@ -309,7 +309,7 @@
     <original xml:space="preserve">クラフトを指揮していた&lt;NAME PAWN&gt;が
 クラフト経験値を&lt;VAL XP&gt;入手しました</original>
     <translation xml:space="preserve">For being the craft leader, &lt;NAME PAWN&gt;
-has gained &lt;VAL XP&gt; craft experience.</translation>
+has gained &lt;VAL XP&gt; crafting experience.</translation>
   </message>
   <message>
     <key>HEADING_REMAIN</key>
@@ -958,19 +958,24 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>GUIDE_MSG_CHARACTER_CHANGE</key>
     <original xml:space="preserve">試着切り替え</original>
+    <translation xml:space="preserve">Change Character</translation>
   </message>
   <message>
     <key>TITLE_MSG_CHARACTER_CHANGE</key>
     <original xml:space="preserve">キャラクターを選択してください</original>
+    <translation xml:space="preserve">Please select the character.</translation>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_OTHER</key>
     <original xml:space="preserve">その他</original>
+    <translation xml:space="preserve">Other</translation>
   </message>
   <message>
     <key>DIALOG_GET_XP_EX</key>
     <original xml:space="preserve">クラフトを指揮していた&lt;NAME PAWN&gt;が
 クラフト経験値を&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;入手しました</original>
+    <translation xml:space="preserve">For being the craft leader, &lt;NAME PAWN&gt;
+has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</translation>
   </message>
   <message>
     <key>EX_CHARGE_UNIT</key>

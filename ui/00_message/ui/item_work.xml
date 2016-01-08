@@ -42,6 +42,7 @@
   <message>
     <key>ITEM_WORK_9</key>
     <original xml:space="preserve">「封印」解消</original>
+    <translation xml:space="preserve">Cure Skill Stifling</translation>
   </message>
   <message>
     <key>ITEM_WORK_10</key>
@@ -51,10 +52,12 @@
   <message>
     <key>ITEM_WORK_11</key>
     <original xml:space="preserve">「石化」解消</original>
+    <translation xml:space="preserve">Cure Petrification</translation>
   </message>
   <message>
     <key>ITEM_WORK_12</key>
     <original xml:space="preserve">「黄金化」解消</original>
+    <translation xml:space="preserve">Cure Golden</translation>
   </message>
   <message>
     <key>ITEM_WORK_13</key>
@@ -69,27 +72,27 @@
   <message>
     <key>ITEM_WORK_15</key>
     <original xml:space="preserve">「炎防低下」解消</original>
-    <translation xml:space="preserve">Cure Fire Resist Down</translation>
+    <translation xml:space="preserve">Cure Fire Res. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_16</key>
     <original xml:space="preserve">「氷防低下」解消　</original>
-    <translation xml:space="preserve">Cure Ice Resist Down</translation>
+    <translation xml:space="preserve">Cure Ice Res. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_17</key>
     <original xml:space="preserve">「雷防低下」解消</original>
-    <translation xml:space="preserve">Cure Thunder Resist Down</translation>
+    <translation xml:space="preserve">Cure Thunder Res. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_18</key>
     <original xml:space="preserve">「聖防低下」解消</original>
-    <translation xml:space="preserve">Cure Holy Resist Down</translation>
+    <translation xml:space="preserve">Cure Holy Res. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_19</key>
     <original xml:space="preserve">「闇防低下」解消</original>
-    <translation xml:space="preserve">Cure Dark Resist Down</translation>
+    <translation xml:space="preserve">Cure Dark Res. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_20</key>
@@ -144,7 +147,7 @@
   <message>
     <key>ITEM_WORK_30</key>
     <original xml:space="preserve">「生命治癒力上昇」付加</original>
-    <translation xml:space="preserve">Grant Healing Force Up</translation>
+    <translation xml:space="preserve">Grant Healing Power Up</translation>
   </message>
   <message>
     <key>ITEM_WORK_31</key>

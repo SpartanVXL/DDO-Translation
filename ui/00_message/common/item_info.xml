@@ -19285,12 +19285,14 @@ specified status effect.</translation>
   <item_info id="9193">
     <original xml:space="preserve">装着した武器の重量が減少するクレスト
 装備重量－１０%</original>
-    <translation xml:space="preserve">A crest that reduces the weight of weapons
+    <translation xml:space="preserve">A crest that reduces the weight of weapons.
 Equipment Weight -10%</translation>
   </item_info>
   <item_info id="9194">
     <original xml:space="preserve">装着した武器の重量が減少するクレスト
 装備重量－１５%</original>
+    <translation xml:space="preserve">A crest that reduces the weight of weapons.
+Equipment Weight -15%</translation>
   </item_info>
   <item_info id="9195">
     <original xml:space="preserve">装着した武器の威力が強まるクレスト
@@ -19316,6 +19318,9 @@ Physical Attack +6</translation>
   <item_info id="9198">
     <original xml:space="preserve">装着した武器の威力が強まるクレスト
 物理攻撃力＋７</original>
+    <translation xml:space="preserve">A crest that grants physical power
+when equipped.
+Physical Attack +7</translation>
   </item_info>
   <item_info id="9199">
     <original xml:space="preserve">装着した武器の魔力が強まるクレスト
@@ -19341,6 +19346,9 @@ Magick Attack +6</translation>
   <item_info id="9202">
     <original xml:space="preserve">装着した武器の魔力が強まるクレスト
 魔法攻撃力＋７</original>
+    <translation xml:space="preserve">A crest that grants magick power
+when equipped.
+Magick Attack +7</translation>
   </item_info>
   <item_info id="9203">
     <original xml:space="preserve">装着した武器の吹き飛ばし力が上がるクレスト
@@ -19555,6 +19563,9 @@ Dragon Slayer +5</translation>
   <item_info id="9236">
     <original xml:space="preserve">装着した武器に対敵特効を付与するクレスト
 【竜族】＋８</original>
+    <translation xml:space="preserve">A crest that grants a slayer effect
+when equipped.
+Dragon Slayer +8</translation>
   </item_info>
   <item_info id="9237">
     <original xml:space="preserve">装着した武器に対敵特効を付与するクレスト
@@ -19566,6 +19577,9 @@ Demon Slayer +5</translation>
   <item_info id="9238">
     <original xml:space="preserve">装着した武器に対敵特効を付与するクレスト
 【魔族】＋８</original>
+    <translation xml:space="preserve">A crest that grants a slayer effect
+when equipped.
+Demon Slayer +8</translation>
   </item_info>
   <item_info id="9239">
     <original xml:space="preserve">装着した武器に状態異常を付与するクレスト
@@ -19670,11 +19684,14 @@ Inflicts Frail +20</translation>
 【石化】蓄積値＋１０</original>
     <translation xml:space="preserve">A crest that grants a debilitation effect
 when equipped.
-Inflicts Petrify +10</translation>
+Inflicts Petrification +10</translation>
   </item_info>
   <item_info id="9254">
     <original xml:space="preserve">装着した武器に状態異常を付与するクレスト
 【石化】蓄積値＋１５</original>
+    <translation xml:space="preserve">A crest that grants a debilitation effect
+when equipped.
+Inflicts Petrification +15</translation>
   </item_info>
   <item_info id="9257">
     <original xml:space="preserve">装着した武器の魔法属性を炎にするクレスト
@@ -19910,6 +19927,9 @@ Physical Defense +4</translation>
   <item_info id="9290">
     <original xml:space="preserve">装着した防具の守りが強まるクレスト
 物理防御力＋５</original>
+    <translation xml:space="preserve">A crest that grants defense
+when equipped to armor.
+Physical Defense +5</translation>
   </item_info>
   <item_info id="9291">
     <original xml:space="preserve">装着した防具の魔防が強まるクレスト
@@ -19935,6 +19955,9 @@ Magick Defense +4</translation>
   <item_info id="9294">
     <original xml:space="preserve">装着した防具の魔防が強まるクレスト
 魔法防御力＋５</original>
+    <translation xml:space="preserve">A crest that grants magick defense
+when equipped to armor.
+Magick Defense +5</translation>
   </item_info>
   <item_info id="9295">
     <original xml:space="preserve">装着した防具の耐久力が上昇するクレスト
@@ -19946,6 +19969,9 @@ Endurance +4</translation>
   <item_info id="9296">
     <original xml:space="preserve">装着した防具の耐久力が上昇するクレスト
 耐久力補正＋８</original>
+    <translation xml:space="preserve">A crest that grants endurance
+when equipped to armor.
+Endurance +8</translation>
   </item_info>
   <item_info id="9297">
     <original xml:space="preserve">装着した防具の生命治癒力が増すクレスト
@@ -19957,6 +19983,9 @@ Healing Power +1</translation>
   <item_info id="9298">
     <original xml:space="preserve">装着した防具の生命治癒力が増すクレスト
 生命治癒力補正＋２</original>
+    <translation xml:space="preserve">A crest that grants healing power
+when equipped to armor.
+Healing Power +2</translation>
   </item_info>
   <item_info id="9299">
     <original xml:space="preserve">装着した防具の炎耐性が上がるクレスト
@@ -20080,6 +20109,9 @@ Catching Fire Resist +5</translation>
   <item_info id="9316">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
 延焼耐性+６</original>
+    <translation xml:space="preserve">A crest that grants magical attribute resistance
+when equipped to armor.
+Catching Fire Resist +6</translation>
   </item_info>
   <item_info id="9317">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
@@ -20098,6 +20130,9 @@ Frozen Solid Resist +5</translation>
   <item_info id="9319">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
 凍結耐性+６</original>
+    <translation xml:space="preserve">A crest that grants magical attribute resistance
+when equipped to armor.
+Frozen Solid Resist +6</translation>
   </item_info>
   <item_info id="9320">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
@@ -20116,6 +20151,9 @@ Shock Resist +5</translation>
   <item_info id="9322">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
 感電耐性+６</original>
+    <translation xml:space="preserve">A crest that grants magical attribute resistance
+when equipped to armor.
+Shock Resist +6</translation>
   </item_info>
   <item_info id="9323">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
@@ -20134,6 +20172,9 @@ Holy Drain Resist +5</translation>
   <item_info id="9325">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
 聖吸耐性+６</original>
+    <translation xml:space="preserve">A crest that grants magical attribute resistance
+when equipped to armor.
+Holy Drain Resist +6</translation>
   </item_info>
   <item_info id="9326">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
@@ -20152,6 +20193,9 @@ Blind Resist +5</translation>
   <item_info id="9328">
     <original xml:space="preserve">装着した防具の属性異常耐性が増すクレスト
 闇霧耐性+６</original>
+    <translation xml:space="preserve">A crest that grants magical attribute resistance
+when equipped to armor.
+Blind Resist +6</translation>
   </item_info>
   <item_info id="9329">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
@@ -20247,14 +20291,23 @@ Skill Stifling Resist +4</translation>
   <item_info id="9342">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
 封印耐性+６</original>
+    <translation xml:space="preserve">A crest that grants debilitation resistance
+when equipped to armor.
+Skill Stifling Resist +6</translation>
   </item_info>
   <item_info id="9343">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
 呪い耐性+４</original>
+    <translation xml:space="preserve">A crest that grants debilitation resistance
+when equipped to armor.
+Curse Resist +4</translation>
   </item_info>
   <item_info id="9344">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
 呪い耐性+６</original>
+    <translation xml:space="preserve">A crest that grants debilitation resistance
+when equipped to armor.
+Curse Resist +6</translation>
   </item_info>
   <item_info id="9345">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
@@ -20275,15 +20328,21 @@ Frail Resist +6</translation>
 石化耐性+４</original>
     <translation xml:space="preserve">A crest that grants debilitation resistance
 when equipped to armor.
-Petrify Resist +4</translation>
+Petrification Resist +4</translation>
   </item_info>
   <item_info id="9348">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
 石化耐性+６</original>
+    <translation xml:space="preserve">A crest that grants debilitation resistance
+when equipped to armor.
+Petrification Resist +6</translation>
   </item_info>
   <item_info id="9349">
     <original xml:space="preserve">装着した防具の状態異常耐性が増すクレスト
 黄金化耐性+４</original>
+    <translation xml:space="preserve">A crest that grants debilitation resistance
+when equipped to armor.
+Golden Resist +4</translation>
   </item_info>
   <item_info id="9351">
     <original xml:space="preserve">控えめな装飾と独特の重心バランスが特徴の短剣
