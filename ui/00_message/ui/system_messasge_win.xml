@@ -6,7 +6,7 @@
   <message>
     <key>sys_announce_check_strage</key>
     <original xml:space="preserve">ハードディスクドライブの容量をチェックしています</original>
-    <translation xml:space="preserve">Checking HDD capacity</translation>
+    <translation xml:space="preserve">Checking HDD capacity.</translation>
   </message>
   <message>
     <key>sys_announce_notenoughstorage</key>
@@ -56,8 +56,8 @@ PCの電源を切らないでください</original>
     <key>sys_announce_checkingsave</key>
     <original xml:space="preserve">セーブデータをチェックしています
 PCの電源を切らないでください</original>
-    <translation xml:space="preserve">Checking save data
-Please do not turn off your PC</translation>
+    <translation xml:space="preserve">Checking save data.
+Please do not turn off your PC.</translation>
   </message>
   <message>
     <key>sys_announce_check_strage_fail</key>
@@ -101,7 +101,7 @@ Please do not turn off your PC</translation>
   <message>
     <key>sys_announce_connecting</key>
     <original xml:space="preserve">サーバーと通信中です</original>
-    <translation xml:space="preserve">Connecting to server</translation>
+    <translation xml:space="preserve">Connecting to server.</translation>
   </message>
   <message>
     <key>sys_announce_firstoption_uisize</key>
