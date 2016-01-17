@@ -1,1447 +1,1137 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
-  <message>
-    <key>namedparam_0</key>
-    <original xml:space="preserve">----</original>
-  </message>
-  <message>
-    <key>namedparam_47</key>
-    <original xml:space="preserve">修練用</original>
-    <translation xml:space="preserve">Training </translation>
-  </message>
-  <message>
-    <key>namedparam_48</key>
-    <original xml:space="preserve">捕囚サイクロプス</original>
-    <translation xml:space="preserve">Captive Cyclops</translation>
-  </message>
-  <message>
-    <key>namedparam_52</key>
-    <original xml:space="preserve">さまようポーン</original>
-    <translation xml:space="preserve">Lost Pawn</translation>
-  </message>
-  <message>
-    <key>namedparam_53</key>
-    <original xml:space="preserve">要警戒</original>
-    <translation xml:space="preserve">Vigilant </translation>
-  </message>
-  <message>
-    <key>namedparam_54</key>
-    <original xml:space="preserve">凶悪</original>
-    <translation xml:space="preserve">Brutal </translation>
-  </message>
-  <message>
-    <key>namedparam_56</key>
-    <original xml:space="preserve">危機的</original>
-    <translation xml:space="preserve">Dangerous </translation>
-  </message>
-  <message>
-    <key>namedparam_57</key>
-    <original xml:space="preserve">伝説級</original>
-    <translation xml:space="preserve">Legendary </translation>
-  </message>
-  <message>
-    <key>namedparam_59</key>
-    <original xml:space="preserve">八騎喰らい</original>
-  </message>
-  <message>
-    <key>namedparam_60</key>
-    <original xml:space="preserve">百騎喰らい</original>
-  </message>
-  <message>
-    <key>namedparam_120</key>
-    <original xml:space="preserve">亡都巨人兵</original>
-  </message>
-  <message>
-    <key>namedparam_122</key>
-    <original xml:space="preserve">ゴブリンの尖兵</original>
-    <translation xml:space="preserve">Goblin Vanguard</translation>
-  </message>
-  <message>
-    <key>namedparam_123</key>
-    <original xml:space="preserve">ゴブリンの哨戒兵</original>
-    <translation xml:space="preserve">Goblin Patrol</translation>
-  </message>
-  <message>
-    <key>namedparam_124</key>
-    <original xml:space="preserve">ゴブリンの補給兵</original>
-    <translation xml:space="preserve">Goblin Reinforcement</translation>
-  </message>
-  <message>
-    <key>namedparam_125</key>
-    <original xml:space="preserve">オーク侵略兵</original>
-    <translation xml:space="preserve">Orc Raider</translation>
-  </message>
-  <message>
-    <key>namedparam_126</key>
-    <original xml:space="preserve">キラービー進攻種</original>
-    <translation xml:space="preserve">Invasive Killer Bee</translation>
-  </message>
-  <message>
-    <key>namedparam_127</key>
-    <original xml:space="preserve">5本角のガルゴ</original>
-    <translation xml:space="preserve">Galugo the Pentagram</translation>
-  </message>
-  <message>
-    <key>namedparam_128</key>
-    <original xml:space="preserve">ガルゴの手下</original>
-    <translation xml:space="preserve">Galugo's Minion</translation>
-  </message>
-  <message>
-    <key>namedparam_129</key>
-    <original xml:space="preserve">集いし</original>
-    <translation xml:space="preserve">Flocking </translation>
-  </message>
-  <message>
-    <key>namedparam_130</key>
-    <original xml:space="preserve">集いし</original>
-    <translation xml:space="preserve">Flocking </translation>
-  </message>
-  <message>
-    <key>namedparam_131</key>
-    <original xml:space="preserve">集いし</original>
-    <translation xml:space="preserve">Flocking </translation>
-  </message>
-  <message>
-    <key>namedparam_132</key>
-    <original xml:space="preserve">集いし</original>
-    <translation xml:space="preserve">Flocking </translation>
-  </message>
-  <message>
-    <key>namedparam_133</key>
-    <original xml:space="preserve">森乱のエイプ</original>
-    <translation xml:space="preserve">Disturbed Forest Ape</translation>
-  </message>
-  <message>
-    <key>namedparam_134</key>
-    <original xml:space="preserve">囚われし</original>
-    <translation xml:space="preserve">Captive</translation>
-  </message>
-  <message>
-    <key>namedparam_135</key>
-    <original xml:space="preserve">囚われし</original>
-    <translation xml:space="preserve">Captive</translation>
-  </message>
-  <message>
-    <key>namedparam_136</key>
-    <original xml:space="preserve">さまよえるポーン</original>
-    <translation xml:space="preserve">Wandering Pawn</translation>
-  </message>
-  <message>
-    <key>namedparam_137</key>
-    <original xml:space="preserve">さまよえるポーン</original>
-    <translation xml:space="preserve">Wandering Pawn</translation>
-  </message>
-  <message>
-    <key>namedparam_138</key>
-    <original xml:space="preserve">さまよえるポーン</original>
-    <translation xml:space="preserve">Wandering Pawn</translation>
-  </message>
-  <message>
-    <key>namedparam_139</key>
-    <original xml:space="preserve">異形の大スケルトン</original>
-    <translation xml:space="preserve">Large Deformed Skeleton</translation>
-  </message>
-  <message>
-    <key>namedparam_140</key>
-    <original xml:space="preserve">精錬</original>
-    <translation xml:space="preserve">Refined </translation>
-  </message>
-  <message>
-    <key>namedparam_141</key>
-    <original xml:space="preserve">人喰い</original>
-    <translation xml:space="preserve">Man-eating </translation>
-  </message>
-  <message>
-    <key>namedparam_142</key>
-    <original xml:space="preserve">猛る</original>
-    <translation xml:space="preserve">Fierce </translation>
-  </message>
-  <message>
-    <key>namedparam_143</key>
-    <original xml:space="preserve">縄張り荒らしの巨人</original>
-    <translation xml:space="preserve">Territorial Giant</translation>
-  </message>
-  <message>
-    <key>namedparam_144</key>
-    <original xml:space="preserve">縄張り荒らしの妖鳥</original>
-    <translation xml:space="preserve">Territorial Demon Bird</translation>
-  </message>
-  <message>
-    <key>namedparam_145</key>
-    <original xml:space="preserve">オーク侵略兵</original>
-    <translation xml:space="preserve">Orc Raider</translation>
-  </message>
-  <message>
-    <key>namedparam_146</key>
-    <original xml:space="preserve">砦破り</original>
-    <translation xml:space="preserve">Fort-breaker </translation>
-  </message>
-  <message>
-    <key>namedparam_147</key>
-    <original xml:space="preserve">強襲の</original>
-    <translation xml:space="preserve">Raider </translation>
-  </message>
-  <message>
-    <key>namedparam_148</key>
-    <original xml:space="preserve">召喚されし牙竜</original>
-    <translation xml:space="preserve">Summoned Fanged Dragon</translation>
-  </message>
-  <message>
-    <key>namedparam_149</key>
-    <original xml:space="preserve">異形のオオカミ</original>
-    <translation xml:space="preserve">Deformed Wolf</translation>
-  </message>
-  <message>
-    <key>namedparam_150</key>
-    <original xml:space="preserve">異形のゴブリン</original>
-    <translation xml:space="preserve">Deformed Goblin</translation>
-  </message>
-  <message>
-    <key>namedparam_151</key>
-    <original xml:space="preserve">異形のゴブリン</original>
-    <translation xml:space="preserve">Deformed Goblin</translation>
-  </message>
-  <message>
-    <key>namedparam_152</key>
-    <original xml:space="preserve">オーク尖兵</original>
-    <translation xml:space="preserve">Orc Vanguard</translation>
-  </message>
-  <message>
-    <key>namedparam_153</key>
-    <original xml:space="preserve">オーク侵略兵</original>
-    <translation xml:space="preserve">Orc Invader</translation>
-  </message>
-  <message>
-    <key>namedparam_154</key>
-    <original xml:space="preserve">軍狼</original>
-    <translation xml:space="preserve">Wolf Unit </translation>
-  </message>
-  <message>
-    <key>namedparam_155</key>
-    <original xml:space="preserve">オーク軍指揮官</original>
-    <translation xml:space="preserve">Orc Commander</translation>
-  </message>
-  <message>
-    <key>namedparam_156</key>
-    <original xml:space="preserve">オーク突撃兵</original>
-    <translation xml:space="preserve">Orc Assailant</translation>
-  </message>
-  <message>
-    <key>namedparam_157</key>
-    <original xml:space="preserve">軍竜</original>
-    <translation xml:space="preserve">Dragon Unit </translation>
-  </message>
-  <message>
-    <key>namedparam_158</key>
-    <original xml:space="preserve">オーク追撃兵</original>
-    <translation xml:space="preserve">Orc Pursuer</translation>
-  </message>
-  <message>
-    <key>namedparam_159</key>
-    <original xml:space="preserve">オーク軍指揮官</original>
-    <translation xml:space="preserve">Orc Commander</translation>
-  </message>
-  <message>
-    <key>namedparam_160</key>
-    <original xml:space="preserve">オーク突撃兵</original>
-    <translation xml:space="preserve">Orc Assailant</translation>
-  </message>
-  <message>
-    <key>namedparam_161</key>
-    <original xml:space="preserve">オーク投撃兵</original>
-    <translation xml:space="preserve">Orc Thrower</translation>
-  </message>
-  <message>
-    <key>namedparam_162</key>
-    <original xml:space="preserve">オーク軍少将</original>
-    <translation xml:space="preserve">Orc Major General</translation>
-  </message>
-  <message>
-    <key>namedparam_163</key>
-    <original xml:space="preserve">番兵</original>
-    <translation xml:space="preserve">Sentinel</translation>
-  </message>
-  <message>
-    <key>namedparam_164</key>
-    <original xml:space="preserve">オーク兵</original>
-    <translation xml:space="preserve">Orc Soldier</translation>
-  </message>
-  <message>
-    <key>namedparam_165</key>
-    <original xml:space="preserve">オーク精鋭兵</original>
-    <translation xml:space="preserve">Orc Elite</translation>
-  </message>
-  <message>
-    <key>namedparam_166</key>
-    <original xml:space="preserve">黒鉄の巨人兵</original>
-  </message>
-  <message>
-    <key>namedparam_167</key>
-    <original xml:space="preserve">錬魔スケルトン</original>
-  </message>
-  <message>
-    <key>namedparam_168</key>
-    <original xml:space="preserve">氷竜</original>
-  </message>
-  <message>
-    <key>namedparam_169</key>
-    <original xml:space="preserve">オーク残存兵</original>
-  </message>
-  <message>
-    <key>namedparam_170</key>
-    <original xml:space="preserve">錬魔ゴブリン</original>
-  </message>
-  <message>
-    <key>namedparam_171</key>
-    <original xml:space="preserve">紫銅の巨人兵</original>
-  </message>
-  <message>
-    <key>namedparam_172</key>
-    <original xml:space="preserve">炎練</original>
-  </message>
-  <message>
-    <key>namedparam_173</key>
-    <original xml:space="preserve">錬成強化グリフィン</original>
-  </message>
-  <message>
-    <key>namedparam_174</key>
-    <original xml:space="preserve">錬魔ハーピー</original>
-  </message>
-  <message>
-    <key>namedparam_175</key>
-    <original xml:space="preserve">錬成強化グリフィン</original>
-  </message>
-  <message>
-    <key>namedparam_176</key>
-    <original xml:space="preserve">錬魔ハーピー</original>
-  </message>
-  <message>
-    <key>namedparam_187</key>
-    <original xml:space="preserve">兎喰らいの</original>
-    <translation xml:space="preserve">Rabbit-eating </translation>
-  </message>
-  <message>
-    <key>namedparam_188</key>
-    <original xml:space="preserve">ビンシャの手下</original>
-    <translation xml:space="preserve">Binsha's Henchman</translation>
-  </message>
-  <message>
-    <key>namedparam_189</key>
-    <original xml:space="preserve">橋守のビンシャ</original>
-    <translation xml:space="preserve">Binsha the Bridge-Keeper</translation>
-  </message>
-  <message>
-    <key>namedparam_190</key>
-    <original xml:space="preserve">変種</original>
-    <translation xml:space="preserve">Mutated </translation>
-  </message>
-  <message>
-    <key>namedparam_191</key>
-    <original xml:space="preserve">大喰いのラージリザード</original>
-    <translation xml:space="preserve">Gluttonous Giant Saurian</translation>
-  </message>
-  <message>
-    <key>namedparam_192</key>
-    <original xml:space="preserve">黒狼団のローグ</original>
-    <translation xml:space="preserve">Black Wolf Rogue</translation>
-  </message>
-  <message>
-    <key>namedparam_193</key>
-    <original xml:space="preserve">黒狼団の首領</original>
-    <translation xml:space="preserve">Black Wolf Leader</translation>
-  </message>
-  <message>
-    <key>namedparam_195</key>
-    <original xml:space="preserve">隠れ浜のならず者</original>
-    <translation xml:space="preserve">Hidden Beach Rogue</translation>
-  </message>
-  <message>
-    <key>namedparam_200</key>
-    <original xml:space="preserve">マーテル・ハーピー</original>
-    <translation xml:space="preserve">Mother Harpy</translation>
-  </message>
-  <message>
-    <key>namedparam_201</key>
-    <original xml:space="preserve">棘角のギョームル</original>
-    <translation xml:space="preserve">Gyomuru the Barbed Horn</translation>
-  </message>
-  <message>
-    <key>namedparam_202</key>
-    <original xml:space="preserve">ギョームルの手下</original>
-    <translation xml:space="preserve">Gyomuru's Minion</translation>
-  </message>
-  <message>
-    <key>namedparam_203</key>
-    <original xml:space="preserve">ルフローの亡霊</original>
-    <translation xml:space="preserve">Specter of Ruflow</translation>
-  </message>
-  <message>
-    <key>namedparam_204</key>
-    <original xml:space="preserve">村民の成れの果て</original>
-    <translation xml:space="preserve">Former Villager</translation>
-  </message>
-  <message>
-    <key>namedparam_205</key>
-    <original xml:space="preserve">青爪浜の</original>
-    <translation xml:space="preserve">Blue Claw Beach </translation>
-  </message>
-  <message>
-    <key>namedparam_206</key>
-    <original xml:space="preserve">グリッガの手下</original>
-    <translation xml:space="preserve">Gurigga's Minion</translation>
-  </message>
-  <message>
-    <key>namedparam_207</key>
-    <original xml:space="preserve">緑鬼グリッガ</original>
-    <translation xml:space="preserve">Gurigga the Green Demon</translation>
-  </message>
-  <message>
-    <key>namedparam_208</key>
-    <original xml:space="preserve">唸り猿</original>
-    <translation xml:space="preserve">Howler Ape</translation>
-  </message>
-  <message>
-    <key>namedparam_209</key>
-    <original xml:space="preserve">裂き猿</original>
-    <translation xml:space="preserve">Ripper Ape</translation>
-  </message>
-  <message>
-    <key>namedparam_210</key>
-    <original xml:space="preserve">豚喰い猿</original>
-    <translation xml:space="preserve">Pig-eating Ape</translation>
-  </message>
-  <message>
-    <key>namedparam_212</key>
-    <original xml:space="preserve">オールドグロウ・エント</original>
-    <translation xml:space="preserve">Old Grown Ent</translation>
-  </message>
-  <message>
-    <key>namedparam_213</key>
-    <original xml:space="preserve">古代種</original>
-    <translation xml:space="preserve">Ancient </translation>
-  </message>
-  <message>
-    <key>namedparam_214</key>
-    <original xml:space="preserve">古代種</original>
-    <translation xml:space="preserve">Ancient </translation>
-  </message>
-  <message>
-    <key>namedparam_215</key>
-    <original xml:space="preserve">坑道荒らし</original>
-    <translation xml:space="preserve">Tunnel Thief</translation>
-  </message>
-  <message>
-    <key>namedparam_216</key>
-    <original xml:space="preserve">宝狩りのグリフィン</original>
-    <translation xml:space="preserve">Treasure Seeking Griffon</translation>
-  </message>
-  <message>
-    <key>namedparam_217</key>
-    <original xml:space="preserve">盗掘種</original>
-    <translation xml:space="preserve"> Grave Robber</translation>
-  </message>
-  <message>
-    <key>namedparam_218</key>
-    <original xml:space="preserve">奇種</original>
-    <translation xml:space="preserve">Strange</translation>
-  </message>
-  <message>
-    <key>namedparam_219</key>
-    <original xml:space="preserve">タイガーテール・サルファー</original>
-    <translation xml:space="preserve">Sulfur Tiger-Tail</translation>
-  </message>
-  <message>
-    <key>namedparam_220</key>
-    <original xml:space="preserve">スノーグーラー・ハーピー</original>
-    <translation xml:space="preserve">Snow Gura Harpy</translation>
-  </message>
-  <message>
-    <key>namedparam_221</key>
-    <original xml:space="preserve">妖歌のローレライ</original>
-    <translation xml:space="preserve">Demon Songtress Lorelei</translation>
-  </message>
-  <message>
-    <key>namedparam_222</key>
-    <original xml:space="preserve">剛腕のコロッサス</original>
-    <translation xml:space="preserve">Gowan the Colossus</translation>
-  </message>
-  <message>
-    <key>namedparam_223</key>
-    <original xml:space="preserve">オッドの精鋭</original>
-    <translation xml:space="preserve">Odd's Elite</translation>
-  </message>
-  <message>
-    <key>namedparam_224</key>
-    <original xml:space="preserve">盾破りのオッド</original>
-    <translation xml:space="preserve">Odd the Shield-breaker</translation>
-  </message>
-  <message>
-    <key>namedparam_225</key>
-    <original xml:space="preserve">レイクニュート</original>
-    <translation xml:space="preserve">Lake Newt</translation>
-  </message>
-  <message>
-    <key>namedparam_226</key>
-    <original xml:space="preserve">セラー湖の水竜</original>
-    <translation xml:space="preserve">Water Dragon of Cellar Lake</translation>
-  </message>
-  <message>
-    <key>namedparam_227</key>
-    <original xml:space="preserve">葉影の密猟者</original>
-    <translation xml:space="preserve">Shadow Poacher</translation>
-  </message>
-  <message>
-    <key>namedparam_228</key>
-    <original xml:space="preserve">密猟者の護衛</original>
-    <translation xml:space="preserve">Poacher Guard</translation>
-  </message>
-  <message>
-    <key>namedparam_229</key>
-    <original xml:space="preserve">忘れられた亡霊</original>
-    <translation xml:space="preserve">Forgotten Spectre</translation>
-  </message>
-  <message>
-    <key>namedparam_230</key>
-    <original xml:space="preserve">目覚めし亡者</original>
-    <translation xml:space="preserve">Enlighten Undead</translation>
-  </message>
-  <message>
-    <key>namedparam_231</key>
-    <original xml:space="preserve">さまよう亡者</original>
-    <translation xml:space="preserve">Wandering Undead</translation>
-  </message>
-  <message>
-    <key>namedparam_232</key>
-    <original xml:space="preserve">帰還のヨトン</original>
-    <translation xml:space="preserve">Yoton the Returned</translation>
-  </message>
-  <message>
-    <key>namedparam_233</key>
-    <original xml:space="preserve">コバルトニュート</original>
-    <translation xml:space="preserve">Cobalt Newt</translation>
-  </message>
-  <message>
-    <key>namedparam_234</key>
-    <original xml:space="preserve">遠征準備の小隊長</original>
-    <translation xml:space="preserve">Battle-Ready Platoon Leader</translation>
-  </message>
-  <message>
-    <key>namedparam_235</key>
-    <original xml:space="preserve">オーク遊撃兵</original>
-    <translation xml:space="preserve">Orc Spy</translation>
-  </message>
-  <message>
-    <key>namedparam_236</key>
-    <original xml:space="preserve">オーク偵察兵</original>
-    <translation xml:space="preserve">Orc Spy</translation>
-  </message>
-  <message>
-    <key>namedparam_237</key>
-    <original xml:space="preserve">強化養成ワーグ</original>
-  </message>
-  <message>
-    <key>namedparam_238</key>
-    <original xml:space="preserve">魔犬飼育担当兵長</original>
-  </message>
-  <message>
-    <key>namedparam_239</key>
-    <original xml:space="preserve">魔犬飼育担当兵</original>
-  </message>
-  <message>
-    <key>namedparam_240</key>
-    <original xml:space="preserve">双牙の軍竜ベヘモット</original>
-  </message>
-  <message>
-    <key>namedparam_241</key>
-    <original xml:space="preserve">淀みの泥人形</original>
-  </message>
-  <message>
-    <key>namedparam_242</key>
-    <original xml:space="preserve">淀みの水精</original>
-  </message>
-  <message>
-    <key>namedparam_243</key>
-    <original xml:space="preserve">泉の徘徊霊</original>
-    <translation xml:space="preserve">Wandering Spirits of the Spring</translation>
-  </message>
-  <message>
-    <key>namedparam_245</key>
-    <original xml:space="preserve">泉の徘徊霊</original>
-    <translation xml:space="preserve">Wandering Spirits of the Spring</translation>
-  </message>
-  <message>
-    <key>namedparam_246</key>
-    <original xml:space="preserve">泉の徘徊霊</original>
-    <translation xml:space="preserve">Wandering Spirits of the Spring</translation>
-  </message>
-  <message>
-    <key>namedparam_247</key>
-    <original xml:space="preserve">泉の徘徊霊</original>
-    <translation xml:space="preserve">Wandering Spirits of the Spring</translation>
-  </message>
-  <message>
-    <key>namedparam_248</key>
-    <original xml:space="preserve">エルフイーター・</original>
-    <translation xml:space="preserve">Elf Eater </translation>
-  </message>
-  <message>
-    <key>namedparam_249</key>
-    <original xml:space="preserve">錆鉄の巨人兵</original>
-  </message>
-  <message>
-    <key>namedparam_250</key>
-    <original xml:space="preserve">錆鉄の錬魔ゴブリン</original>
-  </message>
-  <message>
-    <key>namedparam_251</key>
-    <original xml:space="preserve">メルゴダ巡視兵団</original>
-  </message>
-  <message>
-    <key>namedparam_252</key>
-    <original xml:space="preserve">メルゴダ女守官</original>
-  </message>
-  <message>
-    <key>namedparam_253</key>
-    <original xml:space="preserve">ザンドラ・バルバロイ</original>
-  </message>
-  <message>
-    <key>namedparam_254</key>
-    <original xml:space="preserve">ザンドラ・バルバロイ</original>
-  </message>
-  <message>
-    <key>namedparam_255</key>
-    <original xml:space="preserve">ザンドラ・バルバロイ</original>
-  </message>
-  <message>
-    <key>namedparam_256</key>
-    <original xml:space="preserve">ザンドラ・バルバロイ</original>
-  </message>
-  <message>
-    <key>namedparam_257</key>
-    <original xml:space="preserve">ザンドラ・バルバロイ</original>
-  </message>
-  <message>
-    <key>namedparam_258</key>
-    <original xml:space="preserve">ザンドラ・バルバロイ</original>
-  </message>
-  <message>
-    <key>namedparam_259</key>
-    <original xml:space="preserve">ザンドラ・バルバロイ</original>
-  </message>
-  <message>
-    <key>namedparam_264</key>
-    <original xml:space="preserve">白獅子アルバス</original>
-  </message>
-  <message>
-    <key>namedparam_265</key>
-    <original xml:space="preserve">斥候のコロッサス</original>
-    <translation xml:space="preserve">Colossus Patrol</translation>
-  </message>
-  <message>
-    <key>namedparam_267</key>
-    <original xml:space="preserve">強襲用コロッサス</original>
-  </message>
-  <message>
-    <key>namedparam_269</key>
-    <original xml:space="preserve">不浄の土人形</original>
-  </message>
-  <message>
-    <key>namedparam_270</key>
-    <original xml:space="preserve">不浄の肉塊虫</original>
-  </message>
-  <message>
-    <key>namedparam_271</key>
-    <original xml:space="preserve">炎熱のジオゴーレム</original>
-  </message>
-  <message>
-    <key>namedparam_277</key>
-    <original xml:space="preserve">合成用ゴブリンアルケミー</original>
-  </message>
-  <message>
-    <key>namedparam_278</key>
-    <original xml:space="preserve">合成用アイ</original>
-  </message>
-  <message>
-    <key>namedparam_283</key>
-    <original xml:space="preserve">先発隊長</original>
-    <translation xml:space="preserve">Vanguard Captain </translation>
-  </message>
-  <message>
-    <key>namedparam_284</key>
-    <original xml:space="preserve">切込隊長</original>
-    <translation xml:space="preserve">Raider Captain </translation>
-  </message>
-  <message>
-    <key>namedparam_285</key>
-    <original xml:space="preserve">先発兵</original>
-    <translation xml:space="preserve"> Vanguard Soldier</translation>
-  </message>
-  <message>
-    <key>namedparam_298</key>
-    <original xml:space="preserve">呪われた骸</original>
-    <translation xml:space="preserve">Cursed Skeleton </translation>
-  </message>
-  <message>
-    <key>namedparam_299</key>
-    <original xml:space="preserve">呪われた魔女</original>
-    <translation xml:space="preserve">Cursed Witch </translation>
-  </message>
-  <message>
-    <key>namedparam_300</key>
-    <original xml:space="preserve">呪われた女帝</original>
-    <translation xml:space="preserve">Cursed Empress </translation>
-  </message>
-  <message>
-    <key>namedparam_303</key>
-    <original xml:space="preserve">討伐対象</original>
-    <translation xml:space="preserve">Subjugation Target </translation>
-  </message>
-  <message>
-    <key>namedparam_304</key>
-    <original xml:space="preserve">レイド・</original>
-    <translation xml:space="preserve">Raid </translation>
-  </message>
-  <message>
-    <key>namedparam_305</key>
-    <original xml:space="preserve">路番の</original>
-    <translation xml:space="preserve">Path-Guard </translation>
-  </message>
-  <message>
-    <key>namedparam_306</key>
-    <original xml:space="preserve">路番の</original>
-    <translation xml:space="preserve">Path-Guard </translation>
-  </message>
-  <message>
-    <key>namedparam_307</key>
-    <original xml:space="preserve">穢れの助神官</original>
-    <translation xml:space="preserve">Defiled Assistant Priest</translation>
-  </message>
-  <message>
-    <key>namedparam_308</key>
-    <original xml:space="preserve">穢れの土人形</original>
-    <translation xml:space="preserve">Defiled Mudman</translation>
-  </message>
-  <message>
-    <key>namedparam_309</key>
-    <original xml:space="preserve">穢れの信徒</original>
-    <translation xml:space="preserve">Defiled Follower</translation>
-  </message>
-  <message>
-    <key>namedparam_310</key>
-    <original xml:space="preserve">亡者司祭メンヴィル</original>
-    <translation xml:space="preserve">Menvili the Undead Priest</translation>
-  </message>
-  <message>
-    <key>namedparam_311</key>
-    <original xml:space="preserve">疫呪の使徒</original>
-    <translation xml:space="preserve">Plague Apostle</translation>
-  </message>
-  <message>
-    <key>namedparam_312</key>
-    <original xml:space="preserve">ムジナ団狼使い</original>
-    <translation xml:space="preserve">Badger Wolf Tamer</translation>
-  </message>
-  <message>
-    <key>namedparam_313</key>
-    <original xml:space="preserve">テイムド・ダイアウルフ</original>
-    <translation xml:space="preserve">Tamed Direwolf</translation>
-  </message>
-  <message>
-    <key>namedparam_314</key>
-    <original xml:space="preserve">ブリア宝奪団</original>
-    <translation xml:space="preserve">Breya Treasure Bandit</translation>
-  </message>
-  <message>
-    <key>namedparam_316</key>
-    <original xml:space="preserve">財宝守りの海竜</original>
-    <translation xml:space="preserve">Sea Dragon the Treasure Guardian</translation>
-  </message>
-  <message>
-    <key>namedparam_319</key>
-    <original xml:space="preserve">水路の大猿</original>
-    <translation xml:space="preserve">Dread Ape of the Aqueduct</translation>
-  </message>
-  <message>
-    <key>namedparam_321</key>
-    <original xml:space="preserve">魔獅子シンガ</original>
-    <translation xml:space="preserve">Magic Lion Singa</translation>
-  </message>
-  <message>
-    <key>namedparam_322</key>
-    <original xml:space="preserve">ピット・</original>
-    <translation xml:space="preserve">Pit </translation>
-  </message>
-  <message>
-    <key>namedparam_324</key>
-    <original xml:space="preserve">ボルドバンガー・</original>
-    <translation xml:space="preserve">Volden Banger </translation>
-  </message>
-  <message>
-    <key>namedparam_325</key>
-    <original xml:space="preserve">強炭性</original>
-  </message>
-  <message>
-    <key>namedparam_327</key>
-    <original xml:space="preserve">ムジナ団頭領</original>
-    <translation xml:space="preserve">Badger Chieftain</translation>
-  </message>
-  <message>
-    <key>namedparam_328</key>
-    <original xml:space="preserve">ムジナ団員</original>
-    <translation xml:space="preserve">Badger Member</translation>
-  </message>
-  <message>
-    <key>namedparam_329</key>
-    <original xml:space="preserve">ケイブ・</original>
-    <translation xml:space="preserve">Cave </translation>
-  </message>
-  <message>
-    <key>namedparam_331</key>
-    <original xml:space="preserve">カタコンベ・プリースト</original>
-    <translation xml:space="preserve">Catacombs Priest</translation>
-  </message>
-  <message>
-    <key>namedparam_332</key>
-    <original xml:space="preserve">カタコンベの守兵</original>
-    <translation xml:space="preserve">Catacombs Guard</translation>
-  </message>
-  <message>
-    <key>namedparam_341</key>
-    <original xml:space="preserve">いびき鳴り</original>
-    <translation xml:space="preserve">Snoring </translation>
-  </message>
-  <message>
-    <key>namedparam_342</key>
-    <original xml:space="preserve">魔女の従僕</original>
-    <translation xml:space="preserve">Witch's Servants</translation>
-  </message>
-  <message>
-    <key>namedparam_343</key>
-    <original xml:space="preserve">魔女マリヴェラ</original>
-    <translation xml:space="preserve">Maribel the Witch</translation>
-  </message>
-  <message>
-    <key>namedparam_344</key>
-    <original xml:space="preserve">魔女の従僕</original>
-    <translation xml:space="preserve">Witch's Servants</translation>
-  </message>
-  <message>
-    <key>namedparam_345</key>
-    <original xml:space="preserve">死体齧りの</original>
-    <translation xml:space="preserve">Corpse-eating </translation>
-  </message>
-  <message>
-    <key>namedparam_346</key>
-    <original xml:space="preserve">グレイブワーグ</original>
-    <translation xml:space="preserve">Gravewarg</translation>
-  </message>
-  <message>
-    <key>namedparam_347</key>
-    <original xml:space="preserve">戦鬼ゲソム</original>
-    <translation xml:space="preserve">Gesomu the War Demon</translation>
-  </message>
-  <message>
-    <key>namedparam_348</key>
-    <original xml:space="preserve">戦鬼の副官</original>
-    <translation xml:space="preserve">War Demon's Lieutenant</translation>
-  </message>
-  <message>
-    <key>namedparam_349</key>
-    <original xml:space="preserve">蒼葉の</original>
-    <translation xml:space="preserve"> </translation>
-  </message>
-  <message>
-    <key>namedparam_350</key>
-    <original xml:space="preserve">蒼葉の</original>
-  </message>
-  <message>
-    <key>namedparam_351</key>
-    <original xml:space="preserve">“白い災厄”エルダーアングルス</original>
-    <translation xml:space="preserve">"White Calamity" Elder Angules</translation>
-  </message>
-  <message>
-    <key>namedparam_352</key>
-    <original xml:space="preserve">影穴の軍狼</original>
-    <translation xml:space="preserve">Wolves of Shadows</translation>
-  </message>
-  <message>
-    <key>namedparam_353</key>
-    <original xml:space="preserve">影穴の部隊兵</original>
-    <translation xml:space="preserve">Troops of Shadows </translation>
-  </message>
-  <message>
-    <key>namedparam_354</key>
-    <original xml:space="preserve">神花の</original>
-    <translation xml:space="preserve">God Flower </translation>
-  </message>
-  <message>
-    <key>namedparam_357</key>
-    <original xml:space="preserve">ケイブ・</original>
-    <translation xml:space="preserve">Cave </translation>
-  </message>
-  <message>
-    <key>namedparam_358</key>
-    <original xml:space="preserve">テゴル不死兵</original>
-    <translation xml:space="preserve">Tegol the Immortal</translation>
-  </message>
-  <message>
-    <key>namedparam_359</key>
-    <original xml:space="preserve">納骨堂の屍食鬼</original>
-    <translation xml:space="preserve">Ossuary Ghoul</translation>
-  </message>
-  <message>
-    <key>namedparam_360</key>
-    <original xml:space="preserve">ドラワン不死兵</original>
-    <translation xml:space="preserve">Dolan the Immortal</translation>
-  </message>
-  <message>
-    <key>namedparam_361</key>
-    <original xml:space="preserve">ピット・</original>
-  </message>
-  <message>
-    <key>namedparam_362</key>
-    <original xml:space="preserve">魔女ノシュギア</original>
-  </message>
-  <message>
-    <key>namedparam_363</key>
-    <original xml:space="preserve">ピット・</original>
-    <translation xml:space="preserve">Pit </translation>
-  </message>
-  <message>
-    <key>namedparam_364</key>
-    <original xml:space="preserve">分隊</original>
-    <translation xml:space="preserve"> Squad</translation>
-  </message>
-  <message>
-    <key>namedparam_365</key>
-    <original xml:space="preserve">封呪の</original>
-  </message>
-  <message>
-    <key>namedparam_366</key>
-    <original xml:space="preserve">封呪の</original>
-  </message>
-  <message>
-    <key>namedparam_367</key>
-    <original xml:space="preserve">高輝度</original>
-  </message>
-  <message>
-    <key>namedparam_381</key>
-    <original xml:space="preserve">不死薬被検者</original>
-  </message>
-  <message>
-    <key>namedparam_382</key>
-    <original xml:space="preserve">セラーケイブ・</original>
-  </message>
-  <message>
-    <key>namedparam_383</key>
-    <original xml:space="preserve">セラーケイブ・</original>
-  </message>
-  <message>
-    <key>namedparam_384</key>
-    <original xml:space="preserve">錬魔士ヒエニムス</original>
-  </message>
-  <message>
-    <key>namedparam_385</key>
-    <original xml:space="preserve">高純度ストーンアイ</original>
-  </message>
-  <message>
-    <key>namedparam_386</key>
-    <original xml:space="preserve">霊薬師セルギウス</original>
-  </message>
-  <message>
-    <key>namedparam_387</key>
-    <original xml:space="preserve">キーテイカー・</original>
-    <translation xml:space="preserve">Key Bearer </translation>
-  </message>
-  <message>
-    <key>namedparam_390</key>
-    <original xml:space="preserve">キーテイカー・</original>
-    <translation xml:space="preserve">Key Bearer </translation>
-  </message>
-  <message>
-    <key>namedparam_391</key>
-    <original xml:space="preserve">キーテイカー・</original>
-    <translation xml:space="preserve">Key Bearer </translation>
-  </message>
-  <message>
-    <key>namedparam_400</key>
-    <original xml:space="preserve">さまよえる戦徒</original>
-    <translation xml:space="preserve">Corrupted Pawn</translation>
-  </message>
-  <message>
-    <key>namedparam_401</key>
-    <original xml:space="preserve">ポーンクラッシャー</original>
-    <translation xml:space="preserve">Pawn Crusher</translation>
-  </message>
-  <message>
-    <key>namedparam_403</key>
-    <original xml:space="preserve">はぐれ</original>
-    <translation xml:space="preserve">Rogue </translation>
-  </message>
-  <message>
-    <key>namedparam_406</key>
-    <original xml:space="preserve">侵攻兵</original>
-    <translation xml:space="preserve">Invader </translation>
-  </message>
-  <message>
-    <key>namedparam_407</key>
-    <original xml:space="preserve">精鋭兵</original>
-    <translation xml:space="preserve">Elite </translation>
-  </message>
-  <message>
-    <key>namedparam_408</key>
-    <original xml:space="preserve">総大将</original>
-    <translation xml:space="preserve">Supreme Commander </translation>
-  </message>
-  <message>
-    <key>namedparam_409</key>
-    <original xml:space="preserve">大隊長</original>
-    <translation xml:space="preserve">Battalion Commander </translation>
-  </message>
-  <message>
-    <key>namedparam_410</key>
-    <original xml:space="preserve">強襲兵</original>
-    <translation xml:space="preserve">Raider </translation>
-  </message>
-  <message>
-    <key>namedparam_413</key>
-    <original xml:space="preserve">？？？</original>
-    <translation xml:space="preserve">？？？</translation>
-  </message>
-  <message>
-    <key>namedparam_414</key>
-    <original xml:space="preserve">破砦用</original>
-    <translation xml:space="preserve">Wall-breaker </translation>
-  </message>
-  <message>
-    <key>namedparam_415</key>
-    <original xml:space="preserve">召喚されし</original>
-    <translation xml:space="preserve">Summoned </translation>
-  </message>
-  <message>
-    <key>namedparam_416</key>
-    <original xml:space="preserve">部隊長</original>
-    <translation xml:space="preserve">Commanding Officer </translation>
-  </message>
-  <message>
-    <key>namedparam_417</key>
-    <original xml:space="preserve">小隊長</original>
-    <translation xml:space="preserve"> Platoon Leader</translation>
-  </message>
-  <message>
-    <key>namedparam_418</key>
-    <original xml:space="preserve">急襲の</original>
-    <translation xml:space="preserve">Raider </translation>
-  </message>
-  <message>
-    <key>namedparam_419</key>
-    <original xml:space="preserve">？？？</original>
-    <translation xml:space="preserve">？？？</translation>
-  </message>
-  <message>
-    <key>namedparam_420</key>
-    <original xml:space="preserve">？？？</original>
-    <translation xml:space="preserve">？？？</translation>
-  </message>
-  <message>
-    <key>namedparam_421</key>
-    <original xml:space="preserve">瘴気の魔獣</original>
-    <translation xml:space="preserve">Miasmic Demon </translation>
-  </message>
-  <message>
-    <key>namedparam_446</key>
-    <original xml:space="preserve">強襲の</original>
-    <translation xml:space="preserve">Raider </translation>
-  </message>
-  <message>
-    <key>namedparam_447</key>
-    <original xml:space="preserve">特攻の</original>
-    <translation xml:space="preserve">Kamikaze </translation>
-  </message>
-  <message>
-    <key>namedparam_448</key>
-    <original xml:space="preserve">血珠の</original>
-    <translation xml:space="preserve">Blood Orb </translation>
-  </message>
-  <message>
-    <key>namedparam_449</key>
-    <original xml:space="preserve">時番</original>
-    <translation xml:space="preserve">Time Bonus</translation>
-  </message>
-  <message>
-    <key>namedparam_450</key>
-    <original xml:space="preserve">珍種</original>
-  </message>
-  <message>
-    <key>namedparam_451</key>
-    <original xml:space="preserve"></original>
-  </message>
-  <message>
-    <key>namedparam_454</key>
-    <original xml:space="preserve">穢れの術師</original>
-    <translation xml:space="preserve">Corrupter</translation>
-  </message>
-  <message>
-    <key>namedparam_455</key>
-    <original xml:space="preserve">異界の邪霊</original>
-    <translation xml:space="preserve">Wraith of the Underworld</translation>
-  </message>
-  <message>
-    <key>namedparam_456</key>
-    <original xml:space="preserve">骨噛み</original>
-    <translation xml:space="preserve">Bone-eating </translation>
-  </message>
-  <message>
-    <key>namedparam_457</key>
-    <original xml:space="preserve">ゴブリンイーター・</original>
-    <translation xml:space="preserve">Goblin-eating </translation>
-  </message>
-  <message>
-    <key>namedparam_458</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_459</key>
-    <original xml:space="preserve">ヤング・</original>
-    <translation xml:space="preserve">Young </translation>
-  </message>
-  <message>
-    <key>namedparam_460</key>
-    <original xml:space="preserve">ララバイ・クイーン</original>
-    <translation xml:space="preserve">Lullaby Queen</translation>
-  </message>
-  <message>
-    <key>namedparam_462</key>
-    <original xml:space="preserve">魔壁の時番</original>
-    <translation xml:space="preserve">(Time Bonus)Magic-Shell </translation>
-  </message>
-  <message>
-    <key>namedparam_463</key>
-    <original xml:space="preserve">鉄壁の時番</original>
-    <translation xml:space="preserve">(Time Bonus)Iron-Clad </translation>
-  </message>
-  <message>
-    <key>namedparam_464</key>
-    <original xml:space="preserve">強激の時番</original>
-    <translation xml:space="preserve">(Time Bonus)Herculean </translation>
-  </message>
-  <message>
-    <key>namedparam_465</key>
-    <original xml:space="preserve">魔激の時番</original>
-    <translation xml:space="preserve">(Time Bonus)Mystical </translation>
-  </message>
-  <message>
-    <key>namedparam_466</key>
-    <original xml:space="preserve">竜族？</original>
-    <translation xml:space="preserve">Dragon Race?</translation>
-  </message>
-  <message>
-    <key>namedparam_467</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_468</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_469</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_470</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_471</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_472</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_473</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_474</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_475</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_476</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_477</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_478</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_483</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_484</key>
-    <original xml:space="preserve"></original>
-  </message>
-  <message>
-    <key>namedparam_485</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_488</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_489</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_490</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_491</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_492</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_493</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_494</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_495</key>
-    <original xml:space="preserve">ディナン・ピアサー</original>
-    <translation xml:space="preserve">Deenan Piercer</translation>
-  </message>
-  <message>
-    <key>namedparam_497</key>
-    <original xml:space="preserve">賞金首</original>
-    <translation xml:space="preserve">Bounty </translation>
-  </message>
-  <message>
-    <key>namedparam_498</key>
-    <original xml:space="preserve">金装のスケルトン</original>
-    <translation xml:space="preserve">Gold Clothed Skeleton </translation>
-  </message>
-  <message>
-    <key>namedparam_499</key>
-    <original xml:space="preserve">錬術の女守官</original>
-    <translation xml:space="preserve">Alchemized Amazon</translation>
-  </message>
-  <message>
-    <key>namedparam_500</key>
-    <original xml:space="preserve">テイムド・</original>
-    <translation xml:space="preserve">Tamed </translation>
-  </message>
-  <message>
-    <key>namedparam_501</key>
-    <original xml:space="preserve"></original>
-  </message>
-  <message>
-    <key>namedparam_502</key>
-    <original xml:space="preserve"></original>
-  </message>
-  <message>
-    <key>namedparam_506</key>
-    <original xml:space="preserve">穢れの大魔像</original>
-    <translation xml:space="preserve">Impure Giant Demon</translation>
-  </message>
-  <message>
-    <key>namedparam_507</key>
-    <original xml:space="preserve">ケイブレイダー</original>
-    <translation xml:space="preserve">Cave Raider</translation>
-  </message>
-  <message>
-    <key>namedparam_508</key>
-    <original xml:space="preserve">大騒音の主</original>
-    <translation xml:space="preserve">Lord of Rock</translation>
-  </message>
-  <message>
-    <key>namedparam_510</key>
-    <original xml:space="preserve">錬魔グリフィンNo.04</original>
-  </message>
-  <message>
-    <key>namedparam_511</key>
-    <original xml:space="preserve">煉獄の幽姫</original>
-  </message>
-  <message>
-    <key>namedparam_512</key>
-    <original xml:space="preserve">賞金首</original>
-  </message>
-  <message>
-    <key>namedparam_513</key>
-    <original xml:space="preserve">賞金首</original>
-  </message>
-  <message>
-    <key>namedparam_514</key>
-    <original xml:space="preserve">賞金首</original>
-  </message>
-  <message>
-    <key>namedparam_515</key>
-    <original xml:space="preserve">ブラックウィング</original>
-  </message>
-  <message>
-    <key>namedparam_516</key>
-    <original xml:space="preserve">ディープレイク・リンドブルム</original>
-  </message>
-  <message>
-    <key>namedparam_517</key>
-    <original xml:space="preserve">烈翼の禽獅子</original>
-  </message>
-  <message>
-    <key>namedparam_518</key>
-    <original xml:space="preserve">猛牙の銀獅子</original>
-  </message>
-  <message>
-    <key>namedparam_519</key>
-    <original xml:space="preserve">幽姫の従士</original>
-  </message>
-  <message>
-    <key>namedparam_520</key>
-    <original xml:space="preserve">幽姫の騎士</original>
-  </message>
-  <message>
-    <key>namedparam_522</key>
-    <original xml:space="preserve">石呪を振りまく魔</original>
-  </message>
-  <message>
-    <key>namedparam_524</key>
-    <original xml:space="preserve">闇呪をもたらす魔</original>
-  </message>
-  <message>
-    <key>namedparam_525</key>
-    <original xml:space="preserve">強装巨人兵-Ⅱ型</original>
-  </message>
-  <message>
-    <key>namedparam_526</key>
-    <original xml:space="preserve">強装巨人兵-試作型</original>
-  </message>
-  <message>
-    <key>namedparam_527</key>
-    <original xml:space="preserve">穢れの大魔像</original>
-  </message>
-  <message>
-    <key>namedparam_528</key>
-    <original xml:space="preserve">大騒音の主</original>
-  </message>
-  <message>
-    <key>namedparam_529</key>
-    <original xml:space="preserve">ケイブレイダー</original>
-  </message>
-  <message>
-    <key>namedparam_530</key>
-    <original xml:space="preserve">ララバイ・クィーン</original>
-  </message>
-  <message>
-    <key>namedparam_531</key>
-    <original xml:space="preserve">ラウドネス・</original>
-  </message>
-  <message>
-    <key>namedparam_532</key>
-    <original xml:space="preserve">ディナン・ピアサー</original>
-  </message>
-  <message>
-    <key>namedparam_541</key>
-    <original xml:space="preserve">呪われた魔鳥</original>
-  </message>
-  <message>
-    <key>namedparam_542</key>
-    <original xml:space="preserve">総大将・鬼神</original>
-  </message>
-  <message>
-    <key>namedparam_543</key>
-    <original xml:space="preserve">呪われた巨鳥</original>
-  </message>
-  <message>
-    <key>namedparam_544</key>
-    <original xml:space="preserve">呪われた騎士</original>
-  </message>
-  <message>
-    <key>namedparam_545</key>
-    <original xml:space="preserve"></original>
-  </message>
-  <message>
-    <key>namedparam_546</key>
-    <original xml:space="preserve"></original>
-  </message>
-  <message>
-    <key>namedparam_547</key>
-    <original xml:space="preserve"></original>
-  </message>
-  <message>
-    <key>namedparam_548</key>
-    <original xml:space="preserve"></original>
-  </message>
-  <message>
-    <key>namedparam_549</key>
-    <original xml:space="preserve"></original>
-  </message>
-  <message>
-    <key>namedparam_550</key>
-    <original xml:space="preserve">？？？</original>
-  </message>
-  <message>
-    <key>namedparam_551</key>
-    <original xml:space="preserve">危機的</original>
-  </message>
-  <message>
-    <key>namedparam_552</key>
-    <original xml:space="preserve">危機的</original>
-  </message>
-  <message>
-    <key>namedparam_553</key>
-    <original xml:space="preserve">危機的</original>
-  </message>
-  <message>
-    <key>namedparam_554</key>
-    <original xml:space="preserve">危機的</original>
-  </message>
-  <message>
-    <key>namedparam_555</key>
-    <original xml:space="preserve">危機的</original>
-  </message>
-  <message>
-    <key>namedparam_556</key>
-    <original xml:space="preserve">危機的</original>
-  </message>
-  <message>
-    <key>namedparam_557</key>
-    <original xml:space="preserve">危機的</original>
-  </message>
-</resource>
+﻿<!-- Valid types: None, Prefix, Suffix, Replace -->
+<named_params>
+  <named_param id="47">
+    <original type="Prefix" xml:space="preserve">修練用</original>
+    <translation type="Prefix" xml:space="preserve">Training </translation>
+  </named_param>
+  <named_param id="48">
+    <original type="Replace" xml:space="preserve">捕囚サイクロプス</original>
+    <translation type="Replace" xml:space="preserve">Captive Cyclops</translation>
+  </named_param>
+  <named_param id="52">
+    <original type="Replace" xml:space="preserve">さまようポーン</original>
+    <translation type="Replace" xml:space="preserve">Lost Pawn</translation>
+  </named_param>
+  <named_param id="53">
+    <original type="Prefix" xml:space="preserve">要警戒</original>
+    <translation type="Prefix" xml:space="preserve">Vigilant </translation>
+  </named_param>
+  <named_param id="54">
+    <original type="Prefix" xml:space="preserve">凶悪</original>
+    <translation type="Prefix" xml:space="preserve">Brutal </translation>
+  </named_param>
+  <named_param id="56">
+    <original type="Prefix" xml:space="preserve">危機的</original>
+    <translation type="Prefix" xml:space="preserve">Dangerous </translation>
+  </named_param>
+  <named_param id="57">
+    <original type="Prefix" xml:space="preserve">伝説級</original>
+    <translation type="Prefix" xml:space="preserve">Legendary </translation>
+  </named_param>
+  <named_param id="59">
+    <original type="Replace" xml:space="preserve">八騎喰らい</original>
+  </named_param>
+  <named_param id="60">
+    <original type="Replace" xml:space="preserve">百騎喰らい</original>
+  </named_param>
+  <named_param id="120">
+    <original type="Prefix" xml:space="preserve">亡都巨人兵</original>
+  </named_param>
+  <named_param id="122">
+    <original type="Replace" xml:space="preserve">ゴブリンの尖兵</original>
+    <translation type="Replace" xml:space="preserve">Goblin Vanguard</translation>
+  </named_param>
+  <named_param id="123">
+    <original type="Replace" xml:space="preserve">ゴブリンの哨戒兵</original>
+    <translation type="Replace" xml:space="preserve">Goblin Patrol</translation>
+  </named_param>
+  <named_param id="124">
+    <original type="Replace" xml:space="preserve">ゴブリンの補給兵</original>
+    <translation type="Replace" xml:space="preserve">Goblin Reinforcement</translation>
+  </named_param>
+  <named_param id="125">
+    <original type="Replace" xml:space="preserve">オーク侵略兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Raider</translation>
+  </named_param>
+  <named_param id="126">
+    <original type="Replace" xml:space="preserve">キラービー進攻種</original>
+    <translation type="Replace" xml:space="preserve">Invasive Killer Bee</translation>
+  </named_param>
+  <named_param id="127">
+    <original type="Replace" xml:space="preserve">5本角のガルゴ</original>
+    <translation type="Replace" xml:space="preserve">Galugo the Pentagram</translation>
+  </named_param>
+  <named_param id="128">
+    <original type="Replace" xml:space="preserve">ガルゴの手下</original>
+    <translation type="Replace" xml:space="preserve">Galugo's Minion</translation>
+  </named_param>
+  <named_param id="129">
+    <original type="Prefix" xml:space="preserve">集いし</original>
+    <translation type="Prefix" xml:space="preserve">Flocking </translation>
+  </named_param>
+  <named_param id="130">
+    <original type="Prefix" xml:space="preserve">集いし</original>
+    <translation type="Prefix" xml:space="preserve">Flocking </translation>
+  </named_param>
+  <named_param id="131">
+    <original type="Prefix" xml:space="preserve">集いし</original>
+    <translation type="Prefix" xml:space="preserve">Flocking </translation>
+  </named_param>
+  <named_param id="132">
+    <original type="Prefix" xml:space="preserve">集いし</original>
+    <translation type="Prefix" xml:space="preserve">Flocking </translation>
+  </named_param>
+  <named_param id="133">
+    <original type="Replace" xml:space="preserve">森乱のエイプ</original>
+    <translation type="Replace" xml:space="preserve">Disturbed Forest Ape</translation>
+  </named_param>
+  <named_param id="134">
+    <original type="Replace" xml:space="preserve">囚われし</original>
+    <translation type="Replace" xml:space="preserve">Captive</translation>
+  </named_param>
+  <named_param id="135">
+    <original type="Replace" xml:space="preserve">囚われし</original>
+    <translation type="Replace" xml:space="preserve">Captive</translation>
+  </named_param>
+  <named_param id="136">
+    <original type="Replace" xml:space="preserve">さまよえるポーン</original>
+    <translation type="Replace" xml:space="preserve">Wandering Pawn</translation>
+  </named_param>
+  <named_param id="137">
+    <original type="Replace" xml:space="preserve">さまよえるポーン</original>
+    <translation type="Replace" xml:space="preserve">Wandering Pawn</translation>
+  </named_param>
+  <named_param id="138">
+    <original type="Replace" xml:space="preserve">さまよえるポーン</original>
+    <translation type="Replace" xml:space="preserve">Wandering Pawn</translation>
+  </named_param>
+  <named_param id="139">
+    <original type="Replace" xml:space="preserve">異形の大スケルトン</original>
+    <translation type="Replace" xml:space="preserve">Large Deformed Skeleton</translation>
+  </named_param>
+  <named_param id="140">
+    <original type="Prefix" xml:space="preserve">精錬</original>
+    <translation type="Prefix" xml:space="preserve">Refined </translation>
+  </named_param>
+  <named_param id="141">
+    <original type="Prefix" xml:space="preserve">人喰い</original>
+    <translation type="Prefix" xml:space="preserve">Man-eating </translation>
+  </named_param>
+  <named_param id="142">
+    <original type="Prefix" xml:space="preserve">猛る</original>
+    <translation type="Prefix" xml:space="preserve">Fierce </translation>
+  </named_param>
+  <named_param id="143">
+    <original type="Replace" xml:space="preserve">縄張り荒らしの巨人</original>
+    <translation type="Replace" xml:space="preserve">Territorial Giant</translation>
+  </named_param>
+  <named_param id="144">
+    <original type="Replace" xml:space="preserve">縄張り荒らしの妖鳥</original>
+    <translation type="Replace" xml:space="preserve">Territorial Demon Bird</translation>
+  </named_param>
+  <named_param id="145">
+    <original type="Replace" xml:space="preserve">オーク侵略兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Raider</translation>
+  </named_param>
+  <named_param id="146">
+    <original type="Prefix" xml:space="preserve">砦破り</original>
+    <translation type="Prefix" xml:space="preserve">Fort-breaker </translation>
+  </named_param>
+  <named_param id="147">
+    <original type="Prefix" xml:space="preserve">強襲の</original>
+    <translation type="Prefix" xml:space="preserve">Raider </translation>
+  </named_param>
+  <named_param id="148">
+    <original type="Replace" xml:space="preserve">召喚されし牙竜</original>
+    <translation type="Replace" xml:space="preserve">Summoned Fanged Dragon</translation>
+  </named_param>
+  <named_param id="149">
+    <original type="Replace" xml:space="preserve">異形のオオカミ</original>
+    <translation type="Replace" xml:space="preserve">Deformed Wolf</translation>
+  </named_param>
+  <named_param id="150">
+    <original type="Replace" xml:space="preserve">異形のゴブリン</original>
+    <translation type="Replace" xml:space="preserve">Deformed Goblin</translation>
+  </named_param>
+  <named_param id="151">
+    <original type="Replace" xml:space="preserve">異形のゴブリン</original>
+    <translation type="Replace" xml:space="preserve">Deformed Goblin</translation>
+  </named_param>
+  <named_param id="152">
+    <original type="Replace" xml:space="preserve">オーク尖兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Vanguard</translation>
+  </named_param>
+  <named_param id="153">
+    <original type="Replace" xml:space="preserve">オーク侵略兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Invader</translation>
+  </named_param>
+  <named_param id="154">
+    <original type="Prefix" xml:space="preserve">軍狼</original>
+    <translation type="Prefix" xml:space="preserve">Wolf Unit </translation>
+  </named_param>
+  <named_param id="155">
+    <original type="Replace" xml:space="preserve">オーク軍指揮官</original>
+    <translation type="Replace" xml:space="preserve">Orc Commander</translation>
+  </named_param>
+  <named_param id="156">
+    <original type="Replace" xml:space="preserve">オーク突撃兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Assailant</translation>
+  </named_param>
+  <named_param id="157">
+    <original type="Prefix" xml:space="preserve">軍竜</original>
+    <translation type="Prefix" xml:space="preserve">Dragon Unit </translation>
+  </named_param>
+  <named_param id="158">
+    <original type="Replace" xml:space="preserve">オーク追撃兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Pursuer</translation>
+  </named_param>
+  <named_param id="159">
+    <original type="Replace" xml:space="preserve">オーク軍指揮官</original>
+    <translation type="Replace" xml:space="preserve">Orc Commander</translation>
+  </named_param>
+  <named_param id="160">
+    <original type="Replace" xml:space="preserve">オーク突撃兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Assailant</translation>
+  </named_param>
+  <named_param id="161">
+    <original type="Replace" xml:space="preserve">オーク投撃兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Thrower</translation>
+  </named_param>
+  <named_param id="162">
+    <original type="Replace" xml:space="preserve">オーク軍少将</original>
+    <translation type="Replace" xml:space="preserve">Orc Major General</translation>
+  </named_param>
+  <named_param id="163">
+    <original type="Prefix" xml:space="preserve">番兵</original>
+    <translation type="Prefix" xml:space="preserve">Sentinel</translation>
+  </named_param>
+  <named_param id="164">
+    <original type="Replace" xml:space="preserve">オーク兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Soldier</translation>
+  </named_param>
+  <named_param id="165">
+    <original type="Replace" xml:space="preserve">オーク精鋭兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Elite</translation>
+  </named_param>
+  <named_param id="166">
+    <original type="Replace" xml:space="preserve">黒鉄の巨人兵</original>
+  </named_param>
+  <named_param id="167">
+    <original type="Replace" xml:space="preserve">錬魔スケルトン</original>
+  </named_param>
+  <named_param id="168">
+    <original type="Prefix" xml:space="preserve">氷竜</original>
+  </named_param>
+  <named_param id="169">
+    <original type="Replace" xml:space="preserve">オーク残存兵</original>
+  </named_param>
+  <named_param id="170">
+    <original type="Replace" xml:space="preserve">錬魔ゴブリン</original>
+  </named_param>
+  <named_param id="171">
+    <original type="Replace" xml:space="preserve">紫銅の巨人兵</original>
+  </named_param>
+  <named_param id="172">
+    <original type="Prefix" xml:space="preserve">炎練</original>
+  </named_param>
+  <named_param id="173">
+    <original type="Replace" xml:space="preserve">錬成強化グリフィン</original>
+  </named_param>
+  <named_param id="174">
+    <original type="Replace" xml:space="preserve">錬魔ハーピー</original>
+  </named_param>
+  <named_param id="175">
+    <original type="Replace" xml:space="preserve">錬成強化グリフィン</original>
+  </named_param>
+  <named_param id="176">
+    <original type="Replace" xml:space="preserve">錬魔ハーピー</original>
+  </named_param>
+  <named_param id="187">
+    <original type="Prefix" xml:space="preserve">兎喰らいの</original>
+    <translation type="Prefix" xml:space="preserve">Rabbit-eating </translation>
+  </named_param>
+  <named_param id="188">
+    <original type="Replace" xml:space="preserve">ビンシャの手下</original>
+    <translation type="Replace" xml:space="preserve">Binsha's Henchman</translation>
+  </named_param>
+  <named_param id="189">
+    <original type="Replace" xml:space="preserve">橋守のビンシャ</original>
+    <translation type="Replace" xml:space="preserve">Binsha the Bridge-Keeper</translation>
+  </named_param>
+  <named_param id="190">
+    <original type="Suffix" xml:space="preserve">変種</original>
+    <translation type="Prefix" xml:space="preserve">Mutated </translation>
+  </named_param>
+  <named_param id="191">
+    <original type="Replace" xml:space="preserve">大喰いのラージリザード</original>
+    <translation type="Replace" xml:space="preserve">Gluttonous Giant Saurian</translation>
+  </named_param>
+  <named_param id="192">
+    <original type="Replace" xml:space="preserve">黒狼団のローグ</original>
+    <translation type="Replace" xml:space="preserve">Black Wolf Rogue</translation>
+  </named_param>
+  <named_param id="193">
+    <original type="Replace" xml:space="preserve">黒狼団の首領</original>
+    <translation type="Replace" xml:space="preserve">Black Wolf Leader</translation>
+  </named_param>
+  <named_param id="195">
+    <original type="Replace" xml:space="preserve">隠れ浜のならず者</original>
+    <translation type="Replace" xml:space="preserve">Hidden Beach Rogue</translation>
+  </named_param>
+  <named_param id="200">
+    <original type="Replace" xml:space="preserve">マーテル・ハーピー</original>
+    <translation type="Replace" xml:space="preserve">Mother Harpy</translation>
+  </named_param>
+  <named_param id="201">
+    <original type="Replace" xml:space="preserve">棘角のギョームル</original>
+    <translation type="Replace" xml:space="preserve">Gyomuru the Barbed Horn</translation>
+  </named_param>
+  <named_param id="202">
+    <original type="Replace" xml:space="preserve">ギョームルの手下</original>
+    <translation type="Replace" xml:space="preserve">Gyomuru's Minion</translation>
+  </named_param>
+  <named_param id="203">
+    <original type="Replace" xml:space="preserve">ルフローの亡霊</original>
+    <translation type="Replace" xml:space="preserve">Specter of Ruflow</translation>
+  </named_param>
+  <named_param id="204">
+    <original type="Replace" xml:space="preserve">村民の成れの果て</original>
+    <translation type="Replace" xml:space="preserve">Former Villager</translation>
+  </named_param>
+  <named_param id="205">
+    <original type="Prefix" xml:space="preserve">青爪浜の</original>
+    <translation type="Prefix" xml:space="preserve">Blue Claw Beach </translation>
+  </named_param>
+  <named_param id="206">
+    <original type="Replace" xml:space="preserve">グリッガの手下</original>
+    <translation type="Replace" xml:space="preserve">Gurigga's Minion</translation>
+  </named_param>
+  <named_param id="207">
+    <original type="Replace" xml:space="preserve">緑鬼グリッガ</original>
+    <translation type="Replace" xml:space="preserve">Gurigga the Green Demon</translation>
+  </named_param>
+  <named_param id="208">
+    <original type="Replace" xml:space="preserve">唸り猿</original>
+    <translation type="Replace" xml:space="preserve">Howler Ape</translation>
+  </named_param>
+  <named_param id="209">
+    <original type="Replace" xml:space="preserve">裂き猿</original>
+    <translation type="Replace" xml:space="preserve">Ripper Ape</translation>
+  </named_param>
+  <named_param id="210">
+    <original type="Replace" xml:space="preserve">豚喰い猿</original>
+    <translation type="Replace" xml:space="preserve">Pig-eating Ape</translation>
+  </named_param>
+  <named_param id="212">
+    <original type="Replace" xml:space="preserve">オールドグロウ・エント</original>
+    <translation type="Replace" xml:space="preserve">Old Grown Ent</translation>
+  </named_param>
+  <named_param id="213">
+    <original type="Suffix" xml:space="preserve">古代種</original>
+    <translation type="Prefix" xml:space="preserve">Ancient </translation>
+  </named_param>
+  <named_param id="214">
+    <original type="Suffix" xml:space="preserve">古代種</original>
+    <translation type="Prefix" xml:space="preserve">Ancient </translation>
+  </named_param>
+  <named_param id="215">
+    <original type="Replace" xml:space="preserve">坑道荒らし</original>
+    <translation type="Replace" xml:space="preserve">Tunnel Thief</translation>
+  </named_param>
+  <named_param id="216">
+    <original type="Replace" xml:space="preserve">宝狩りのグリフィン</original>
+    <translation type="Replace" xml:space="preserve">Treasure Seeking Griffon</translation>
+  </named_param>
+  <named_param id="217">
+    <original type="Suffix" xml:space="preserve">盗掘種</original>
+    <translation type="Suffix" xml:space="preserve"> Grave Robber</translation>
+  </named_param>
+  <named_param id="218">
+    <original type="Suffix" xml:space="preserve">奇種</original>
+    <translation type="Suffix" xml:space="preserve">Strange</translation>
+  </named_param>
+  <named_param id="219">
+    <original type="Replace" xml:space="preserve">タイガーテール・サルファー</original>
+    <translation type="Replace" xml:space="preserve">Sulfur Tiger-Tail</translation>
+  </named_param>
+  <named_param id="220">
+    <original type="Replace" xml:space="preserve">スノーグーラー・ハーピー</original>
+    <translation type="Replace" xml:space="preserve">Snow Gura Harpy</translation>
+  </named_param>
+  <named_param id="221">
+    <original type="Replace" xml:space="preserve">妖歌のローレライ</original>
+    <translation type="Replace" xml:space="preserve">Demon Songtress Lorelei</translation>
+  </named_param>
+  <named_param id="222">
+    <original type="Replace" xml:space="preserve">剛腕のコロッサス</original>
+    <translation type="Replace" xml:space="preserve">Gowan the Colossus</translation>
+  </named_param>
+  <named_param id="223">
+    <original type="Replace" xml:space="preserve">オッドの精鋭</original>
+    <translation type="Replace" xml:space="preserve">Odd's Elite</translation>
+  </named_param>
+  <named_param id="224">
+    <original type="Replace" xml:space="preserve">盾破りのオッド</original>
+    <translation type="Replace" xml:space="preserve">Odd the Shield-breaker</translation>
+  </named_param>
+  <named_param id="225">
+    <original type="Replace" xml:space="preserve">レイクニュート</original>
+    <translation type="Replace" xml:space="preserve">Lake Newt</translation>
+  </named_param>
+  <named_param id="226">
+    <original type="Replace" xml:space="preserve">セラー湖の水竜</original>
+    <translation type="Replace" xml:space="preserve">Water Dragon of Cellar Lake</translation>
+  </named_param>
+  <named_param id="227">
+    <original type="Replace" xml:space="preserve">葉影の密猟者</original>
+    <translation type="Replace" xml:space="preserve">Shadow Poacher</translation>
+  </named_param>
+  <named_param id="228">
+    <original type="Replace" xml:space="preserve">密猟者の護衛</original>
+    <translation type="Replace" xml:space="preserve">Poacher Guard</translation>
+  </named_param>
+  <named_param id="229">
+    <original type="Replace" xml:space="preserve">忘れられた亡霊</original>
+    <translation type="Replace" xml:space="preserve">Forgotten Spectre</translation>
+  </named_param>
+  <named_param id="230">
+    <original type="Replace" xml:space="preserve">目覚めし亡者</original>
+    <translation type="Replace" xml:space="preserve">Enlighten Undead</translation>
+  </named_param>
+  <named_param id="231">
+    <original type="Replace" xml:space="preserve">さまよう亡者</original>
+    <translation type="Replace" xml:space="preserve">Wandering Undead</translation>
+  </named_param>
+  <named_param id="232">
+    <original type="Replace" xml:space="preserve">帰還のヨトン</original>
+    <translation type="Replace" xml:space="preserve">Yoton the Returned</translation>
+  </named_param>
+  <named_param id="233">
+    <original type="Replace" xml:space="preserve">コバルトニュート</original>
+    <translation type="Replace" xml:space="preserve">Cobalt Newt</translation>
+  </named_param>
+  <named_param id="234">
+    <original type="Replace" xml:space="preserve">遠征準備の小隊長</original>
+    <translation type="Replace" xml:space="preserve">Battle-Ready Platoon Leader</translation>
+  </named_param>
+  <named_param id="235">
+    <original type="Replace" xml:space="preserve">オーク遊撃兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Spy</translation>
+  </named_param>
+  <named_param id="236">
+    <original type="Replace" xml:space="preserve">オーク偵察兵</original>
+    <translation type="Replace" xml:space="preserve">Orc Spy</translation>
+  </named_param>
+  <named_param id="237">
+    <original type="Replace" xml:space="preserve">強化養成ワーグ</original>
+  </named_param>
+  <named_param id="238">
+    <original type="Replace" xml:space="preserve">魔犬飼育担当兵長</original>
+  </named_param>
+  <named_param id="239">
+    <original type="Replace" xml:space="preserve">魔犬飼育担当兵</original>
+  </named_param>
+  <named_param id="240">
+    <original type="Replace" xml:space="preserve">双牙の軍竜ベヘモット</original>
+  </named_param>
+  <named_param id="241">
+    <original type="Prefix" xml:space="preserve">淀みの泥人形</original>
+  </named_param>
+  <named_param id="242">
+    <original type="Prefix" xml:space="preserve">淀みの水精</original>
+  </named_param>
+  <named_param id="243">
+    <original type="Replace" xml:space="preserve">泉の徘徊霊</original>
+    <translation type="Replace" xml:space="preserve">Wandering Spirits of the Spring</translation>
+  </named_param>
+  <named_param id="245">
+    <original type="Replace" xml:space="preserve">泉の徘徊霊</original>
+    <translation type="Replace" xml:space="preserve">Wandering Spirits of the Spring</translation>
+  </named_param>
+  <named_param id="246">
+    <original type="Replace" xml:space="preserve">泉の徘徊霊</original>
+    <translation type="Replace" xml:space="preserve">Wandering Spirits of the Spring</translation>
+  </named_param>
+  <named_param id="247">
+    <original type="Replace" xml:space="preserve">泉の徘徊霊</original>
+    <translation type="Replace" xml:space="preserve">Wandering Spirits of the Spring</translation>
+  </named_param>
+  <named_param id="248">
+    <original type="Prefix" xml:space="preserve">エルフイーター・</original>
+    <translation type="Prefix" xml:space="preserve">Elf Eater </translation>
+  </named_param>
+  <named_param id="249">
+    <original type="Replace" xml:space="preserve">錆鉄の巨人兵</original>
+  </named_param>
+  <named_param id="250">
+    <original type="Replace" xml:space="preserve">錆鉄の錬魔ゴブリン</original>
+  </named_param>
+  <named_param id="251">
+    <original type="Replace" xml:space="preserve">メルゴダ巡視兵団</original>
+  </named_param>
+  <named_param id="252">
+    <original type="Replace" xml:space="preserve">メルゴダ女守官</original>
+  </named_param>
+  <named_param id="253">
+    <original type="Replace" xml:space="preserve">ザンドラ・バルバロイ</original>
+  </named_param>
+  <named_param id="254">
+    <original type="Replace" xml:space="preserve">ザンドラ・バルバロイ</original>
+  </named_param>
+  <named_param id="255">
+    <original type="Replace" xml:space="preserve">ザンドラ・バルバロイ</original>
+  </named_param>
+  <named_param id="256">
+    <original type="Replace" xml:space="preserve">ザンドラ・バルバロイ</original>
+  </named_param>
+  <named_param id="257">
+    <original type="Replace" xml:space="preserve">ザンドラ・バルバロイ</original>
+  </named_param>
+  <named_param id="258">
+    <original type="Replace" xml:space="preserve">ザンドラ・バルバロイ</original>
+  </named_param>
+  <named_param id="259">
+    <original type="Replace" xml:space="preserve">ザンドラ・バルバロイ</original>
+  </named_param>
+  <named_param id="264">
+    <original type="Replace" xml:space="preserve">白獅子アルバス</original>
+  </named_param>
+  <named_param id="265">
+    <original type="Replace" xml:space="preserve">斥候のコロッサス</original>
+    <translation type="Replace" xml:space="preserve">Colossus Patrol</translation>
+  </named_param>
+  <named_param id="267">
+    <original type="Replace" xml:space="preserve">強襲用コロッサス</original>
+  </named_param>
+  <named_param id="269">
+    <original type="Replace" xml:space="preserve">不浄の土人形</original>
+  </named_param>
+  <named_param id="270">
+    <original type="Replace" xml:space="preserve">不浄の肉塊虫</original>
+  </named_param>
+  <named_param id="271">
+    <original type="Replace" xml:space="preserve">炎熱のジオゴーレム</original>
+  </named_param>
+  <named_param id="277">
+    <original type="Replace" xml:space="preserve">合成用ゴブリンアルケミー</original>
+  </named_param>
+  <named_param id="278">
+    <original type="Replace" xml:space="preserve">合成用アイ</original>
+  </named_param>
+  <named_param id="283">
+    <original type="Prefix" xml:space="preserve">先発隊長</original>
+    <translation type="Prefix" xml:space="preserve">Vanguard Captain </translation>
+  </named_param>
+  <named_param id="284">
+    <original type="Prefix" xml:space="preserve">切込隊長</original>
+    <translation type="Prefix" xml:space="preserve">Raider Captain </translation>
+  </named_param>
+  <named_param id="285">
+    <original type="Suffix" xml:space="preserve">先発兵</original>
+    <translation type="Suffix" xml:space="preserve"> Vanguard Soldier</translation>
+  </named_param>
+  <named_param id="298">
+    <original type="Replace" xml:space="preserve">呪われた骸</original>
+    <translation type="Replace" xml:space="preserve">Cursed Skeleton</translation>
+  </named_param>
+  <named_param id="299">
+    <original type="Replace" xml:space="preserve">呪われた魔女</original>
+    <translation type="Replace" xml:space="preserve">Cursed Witch</translation>
+  </named_param>
+  <named_param id="300">
+    <original type="Replace" xml:space="preserve">呪われた女帝</original>
+    <translation type="Replace" xml:space="preserve">Cursed Empress</translation>
+  </named_param>
+  <named_param id="303">
+    <original type="Prefix" xml:space="preserve">討伐対象</original>
+    <translation type="Prefix" xml:space="preserve">Subjugation Target </translation>
+  </named_param>
+  <named_param id="304">
+    <original type="Prefix" xml:space="preserve">レイド・</original>
+    <translation type="Prefix" xml:space="preserve">Raid </translation>
+  </named_param>
+  <named_param id="305">
+    <original type="Prefix" xml:space="preserve">路番の</original>
+    <translation type="Prefix" xml:space="preserve">Path-Guard </translation>
+  </named_param>
+  <named_param id="306">
+    <original type="Prefix" xml:space="preserve">路番の</original>
+    <translation type="Prefix" xml:space="preserve">Path-Guard </translation>
+  </named_param>
+  <named_param id="307">
+    <original type="Replace" xml:space="preserve">穢れの助神官</original>
+    <translation type="Replace" xml:space="preserve">Defiled Assistant Priest</translation>
+  </named_param>
+  <named_param id="308">
+    <original type="Replace" xml:space="preserve">穢れの土人形</original>
+    <translation type="Replace" xml:space="preserve">Defiled Mudman</translation>
+  </named_param>
+  <named_param id="309">
+    <original type="Replace" xml:space="preserve">穢れの信徒</original>
+    <translation type="Replace" xml:space="preserve">Defiled Follower</translation>
+  </named_param>
+  <named_param id="310">
+    <original type="Replace" xml:space="preserve">亡者司祭メンヴィル</original>
+    <translation type="Replace" xml:space="preserve">Menvili the Undead Priest</translation>
+  </named_param>
+  <named_param id="311">
+    <original type="Replace" xml:space="preserve">疫呪の使徒</original>
+    <translation type="Replace" xml:space="preserve">Plague Apostle</translation>
+  </named_param>
+  <named_param id="312">
+    <original type="Replace" xml:space="preserve">ムジナ団狼使い</original>
+    <translation type="Replace" xml:space="preserve">Badger Wolf Tamer</translation>
+  </named_param>
+  <named_param id="313">
+    <original type="Replace" xml:space="preserve">テイムド・ダイアウルフ</original>
+    <translation type="Replace" xml:space="preserve">Tamed Direwolf</translation>
+  </named_param>
+  <named_param id="314">
+    <original type="Replace" xml:space="preserve">ブリア宝奪団</original>
+    <translation type="Replace" xml:space="preserve">Breya Treasure Bandit</translation>
+  </named_param>
+  <named_param id="316">
+    <original type="Replace" xml:space="preserve">財宝守りの海竜</original>
+    <translation type="Replace" xml:space="preserve">Sea Dragon the Treasure Guardian</translation>
+  </named_param>
+  <named_param id="319">
+    <original type="Replace" xml:space="preserve">水路の大猿</original>
+    <translation type="Replace" xml:space="preserve">Dread Ape of the Aqueduct</translation>
+  </named_param>
+  <named_param id="321">
+    <original type="Replace" xml:space="preserve">魔獅子シンガ</original>
+    <translation type="Replace" xml:space="preserve">Magic Lion Singa</translation>
+  </named_param>
+  <named_param id="322">
+    <original type="Prefix" xml:space="preserve">ピット・</original>
+    <translation type="Prefix" xml:space="preserve">Pit </translation>
+  </named_param>
+  <named_param id="324">
+    <original type="Prefix" xml:space="preserve">ボルドバンガー・</original>
+    <translation type="Prefix" xml:space="preserve">Volden Banger </translation>
+  </named_param>
+  <named_param id="325">
+    <original type="Prefix" xml:space="preserve">強炭性</original>
+  </named_param>
+  <named_param id="327">
+    <original type="Replace" xml:space="preserve">ムジナ団頭領</original>
+    <translation type="Replace" xml:space="preserve">Badger Chieftain</translation>
+  </named_param>
+  <named_param id="328">
+    <original type="Replace" xml:space="preserve">ムジナ団員</original>
+    <translation type="Replace" xml:space="preserve">Badger Member</translation>
+  </named_param>
+  <named_param id="329">
+    <original type="Prefix" xml:space="preserve">ケイブ・</original>
+    <translation type="Prefix" xml:space="preserve">Cave </translation>
+  </named_param>
+  <named_param id="331">
+    <original type="Replace" xml:space="preserve">カタコンベ・プリースト</original>
+    <translation type="Replace" xml:space="preserve">Catacombs Priest</translation>
+  </named_param>
+  <named_param id="332">
+    <original type="Replace" xml:space="preserve">カタコンベの守兵</original>
+    <translation type="Replace" xml:space="preserve">Catacombs Guard</translation>
+  </named_param>
+  <named_param id="341">
+    <original type="Prefix" xml:space="preserve">いびき鳴り</original>
+    <translation type="Prefix" xml:space="preserve">Snoring </translation>
+  </named_param>
+  <named_param id="342">
+    <original type="Replace" xml:space="preserve">魔女の従僕</original>
+    <translation type="Replace" xml:space="preserve">Witch's Servants</translation>
+  </named_param>
+  <named_param id="343">
+    <original type="Replace" xml:space="preserve">魔女マリヴェラ</original>
+    <translation type="Replace" xml:space="preserve">Maribel the Witch</translation>
+  </named_param>
+  <named_param id="344">
+    <original type="Replace" xml:space="preserve">魔女の従僕</original>
+    <translation type="Replace" xml:space="preserve">Witch's Servants</translation>
+  </named_param>
+  <named_param id="345">
+    <original type="Prefix" xml:space="preserve">死体齧りの</original>
+    <translation type="Prefix" xml:space="preserve">Corpse-eating </translation>
+  </named_param>
+  <named_param id="346">
+    <original type="Replace" xml:space="preserve">グレイブワーグ</original>
+    <translation type="Replace" xml:space="preserve">Gravewarg</translation>
+  </named_param>
+  <named_param id="347">
+    <original type="Replace" xml:space="preserve">戦鬼ゲソム</original>
+    <translation type="Replace" xml:space="preserve">Gesomu the War Demon</translation>
+  </named_param>
+  <named_param id="348">
+    <original type="Replace" xml:space="preserve">戦鬼の副官</original>
+    <translation type="Replace" xml:space="preserve">War Demon's Lieutenant</translation>
+  </named_param>
+  <named_param id="349">
+  	<!-- NEEDS REVIEW -->
+    <original type="Prefix" xml:space="preserve">蒼葉の</original>
+    <translation type="Prefix" xml:space="preserve"> </translation>
+  </named_param>
+  <named_param id="350">
+    <original type="Prefix" xml:space="preserve">蒼葉の</original>
+  </named_param>
+  <named_param id="351">
+    <original type="Replace" xml:space="preserve">“白い災厄”エルダーアングルス</original>
+    <translation type="Replace" xml:space="preserve">"White Calamity" Elder Angules</translation>
+  </named_param>
+  <named_param id="352">
+    <original type="Replace" xml:space="preserve">影穴の軍狼</original>
+    <translation type="Replace" xml:space="preserve">Wolves of Shadows</translation>
+  </named_param>
+  <named_param id="353">
+    <original type="Replace" xml:space="preserve">影穴の部隊兵</original>
+    <translation type="Replace" xml:space="preserve">Troops of Shadows</translation>
+  </named_param>
+  <named_param id="354">
+    <original type="Prefix" xml:space="preserve">神花の</original>
+    <translation type="Prefix" xml:space="preserve">God Flower </translation>
+  </named_param>
+  <named_param id="357">
+    <original type="Prefix" xml:space="preserve">ケイブ・</original>
+    <translation type="Prefix" xml:space="preserve">Cave </translation>
+  </named_param>
+  <named_param id="358">
+    <original type="Replace" xml:space="preserve">テゴル不死兵</original>
+    <translation type="Replace" xml:space="preserve">Tegol the Immortal</translation>
+  </named_param>
+  <named_param id="359">
+    <original type="Replace" xml:space="preserve">納骨堂の屍食鬼</original>
+    <translation type="Replace" xml:space="preserve">Ossuary Ghoul</translation>
+  </named_param>
+  <named_param id="360">
+    <original type="Replace" xml:space="preserve">ドラワン不死兵</original>
+    <translation type="Replace" xml:space="preserve">Dolan the Immortal</translation>
+  </named_param>
+  <named_param id="361">
+    <original type="Prefix" xml:space="preserve">ピット・</original>
+  </named_param>
+  <named_param id="362">
+    <original type="Replace" xml:space="preserve">魔女ノシュギア</original>
+  </named_param>
+  <named_param id="363">
+    <original type="Prefix" xml:space="preserve">ピット・</original>
+    <translation type="Prefix" xml:space="preserve">Pit </translation>
+  </named_param>
+  <named_param id="364">
+  	<!-- NEEDS REVIEW -->
+    <original type="Prefix" xml:space="preserve">分隊</original>
+    <translation type="Prefix" xml:space="preserve"> Squad</translation>
+  </named_param>
+  <named_param id="365">
+    <original type="Prefix" xml:space="preserve">封呪の</original>
+  </named_param>
+  <named_param id="366">
+    <original type="Prefix" xml:space="preserve">封呪の</original>
+  </named_param>
+  <named_param id="367">
+    <original type="Prefix" xml:space="preserve">高輝度</original>
+  </named_param>
+  <named_param id="381">
+    <original type="Replace" xml:space="preserve">不死薬被検者</original>
+  </named_param>
+  <named_param id="382">
+    <original type="Prefix" xml:space="preserve">セラーケイブ・</original>
+  </named_param>
+  <named_param id="383">
+    <original type="Prefix" xml:space="preserve">セラーケイブ・</original>
+  </named_param>
+  <named_param id="384">
+    <original type="Replace" xml:space="preserve">錬魔士ヒエニムス</original>
+  </named_param>
+  <named_param id="385">
+    <original type="Replace" xml:space="preserve">高純度ストーンアイ</original>
+  </named_param>
+  <named_param id="386">
+    <original type="Replace" xml:space="preserve">霊薬師セルギウス</original>
+  </named_param>
+  <named_param id="387">
+    <original type="Prefix" xml:space="preserve">キーテイカー・</original>
+    <translation type="Prefix" xml:space="preserve">Key Bearer </translation>
+  </named_param>
+  <named_param id="390">
+    <original type="Prefix" xml:space="preserve">キーテイカー・</original>
+    <translation type="Prefix" xml:space="preserve">Key Bearer </translation>
+  </named_param>
+  <named_param id="391">
+    <original type="Prefix" xml:space="preserve">キーテイカー・</original>
+    <translation type="Prefix" xml:space="preserve">Key Bearer </translation>
+  </named_param>
+  <named_param id="400">
+    <original type="Replace" xml:space="preserve">さまよえる戦徒</original>
+    <translation type="Replace" xml:space="preserve">Corrupted Pawn</translation>
+  </named_param>
+  <named_param id="401">
+    <original type="Replace" xml:space="preserve">ポーンクラッシャー</original>
+    <translation type="Replace" xml:space="preserve">Pawn Crusher</translation>
+  </named_param>
+  <named_param id="403">
+    <original type="Prefix" xml:space="preserve">はぐれ</original>
+    <translation type="Prefix" xml:space="preserve">Rogue </translation>
+  </named_param>
+  <named_param id="406">
+    <original type="Suffix" xml:space="preserve">侵攻兵</original>
+    <translation type="Prefix" xml:space="preserve">Invader </translation>
+  </named_param>
+  <named_param id="407">
+    <original type="Prefix" xml:space="preserve">精鋭兵</original>
+    <translation type="Prefix" xml:space="preserve">Elite </translation>
+  </named_param>
+  <named_param id="408">
+    <original type="Prefix" xml:space="preserve">総大将</original>
+    <translation type="Prefix" xml:space="preserve">Supreme Commander </translation>
+  </named_param>
+  <named_param id="409">
+    <original type="Prefix" xml:space="preserve">大隊長</original>
+    <translation type="Prefix" xml:space="preserve">Battalion Commander </translation>
+  </named_param>
+  <named_param id="410">
+    <original type="Suffix" xml:space="preserve">強襲兵</original>
+    <translation type="Prefix" xml:space="preserve">Raider </translation>
+  </named_param>
+  <named_param id="413">
+    <original type="Replace" xml:space="preserve">？？？</original>
+  </named_param>
+  <named_param id="414">
+    <original type="Prefix" xml:space="preserve">破砦用</original>
+    <translation type="Prefix" xml:space="preserve">Wall-breaker </translation>
+  </named_param>
+  <named_param id="415">
+    <original type="Prefix" xml:space="preserve">召喚されし</original>
+    <translation type="Prefix" xml:space="preserve">Summoned </translation>
+  </named_param>
+  <named_param id="416">
+    <original type="Prefix" xml:space="preserve">部隊長</original>
+    <translation type="Prefix" xml:space="preserve">Commanding Officer </translation>
+  </named_param>
+  <named_param id="417">
+  	<!-- NEEDS REVIEW -->
+    <original type="Suffix" xml:space="preserve">小隊長</original>
+    <translation type="Prefix" xml:space="preserve"> Platoon Leader</translation>
+  </named_param>
+  <named_param id="418">
+    <original type="Prefix" xml:space="preserve">急襲の</original>
+    <translation type="Prefix" xml:space="preserve">Raider </translation>
+  </named_param>
+  <named_param id="419">
+    <original type="Replace" xml:space="preserve">？？？</original>
+  </named_param>
+  <named_param id="420">
+    <original type="Replace" xml:space="preserve">？？？</original>
+  </named_param>
+  <named_param id="421">
+    <original type="Replace" xml:space="preserve">瘴気の魔獣</original>
+    <translation type="Replace" xml:space="preserve">Miasmic Demon</translation>
+  </named_param>
+  <named_param id="446">
+    <original type="Prefix" xml:space="preserve">強襲の</original>
+    <translation type="Prefix" xml:space="preserve">Raider </translation>
+  </named_param>
+  <named_param id="447">
+    <original type="Prefix" xml:space="preserve">特攻の</original>
+    <translation type="Prefix" xml:space="preserve">Kamikaze </translation>
+  </named_param>
+  <named_param id="448">
+    <original type="Prefix" xml:space="preserve">血珠の</original>
+    <translation type="Prefix" xml:space="preserve">Blood Orb </translation>
+  </named_param>
+  <named_param id="449">
+    <original type="Prefix" xml:space="preserve">時番</original>
+    <translation type="Prefix" xml:space="preserve">Time Bonus</translation>
+  </named_param>
+  <named_param id="450">
+    <original type="Suffix" xml:space="preserve">珍種</original>
+  </named_param>
+  <named_param id="451">
+    <original type="Suffix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="454">
+    <original type="Replace" xml:space="preserve">穢れの術師</original>
+    <translation type="Replace" xml:space="preserve">Corrupter</translation>
+  </named_param>
+  <named_param id="455">
+    <original type="Replace" xml:space="preserve">異界の邪霊</original>
+    <translation type="Replace" xml:space="preserve">Wraith of the Underworld</translation>
+  </named_param>
+  <named_param id="456">
+    <original type="Prefix" xml:space="preserve">骨噛み</original>
+    <translation type="Prefix" xml:space="preserve">Bone-eating </translation>
+  </named_param>
+  <named_param id="457">
+    <original type="Prefix" xml:space="preserve">ゴブリンイーター・</original>
+    <translation type="Prefix" xml:space="preserve">Goblin-eating </translation>
+  </named_param>
+  <named_param id="458">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="459">
+    <original type="Prefix" xml:space="preserve">ヤング・</original>
+    <translation type="Prefix" xml:space="preserve">Young </translation>
+  </named_param>
+  <named_param id="460">
+    <original type="Replace" xml:space="preserve">ララバイ・クイーン</original>
+    <translation type="Replace" xml:space="preserve">Lullaby Queen</translation>
+  </named_param>
+  <named_param id="462">
+    <original type="Prefix" xml:space="preserve">魔壁の時番</original>
+    <translation type="Prefix" xml:space="preserve">(Time Bonus)Magic-Shell </translation>
+  </named_param>
+  <named_param id="463">
+    <original type="Prefix" xml:space="preserve">鉄壁の時番</original>
+    <translation type="Prefix" xml:space="preserve">(Time Bonus)Iron-Clad </translation>
+  </named_param>
+  <named_param id="464">
+    <original type="Prefix" xml:space="preserve">強激の時番</original>
+    <translation type="Prefix" xml:space="preserve">(Time Bonus)Herculean </translation>
+  </named_param>
+  <named_param id="465">
+    <original type="Prefix" xml:space="preserve">魔激の時番</original>
+    <translation type="Prefix" xml:space="preserve">(Time Bonus)Mystical </translation>
+  </named_param>
+  <named_param id="466">
+    <original type="Replace" xml:space="preserve">竜族？</original>
+    <translation type="Replace" xml:space="preserve">Dragon Race?</translation>
+  </named_param>
+  <named_param id="467">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="468">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="469">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="470">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="471">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="472">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="473">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="474">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="475">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="476">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="477">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="478">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="483">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="484">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="485">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="488">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="489">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="490">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="491">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="492">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="493">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="494">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="495">
+    <original type="Replace" xml:space="preserve">ディナン・ピアサー</original>
+    <translation type="Replace" xml:space="preserve">Deenan Piercer</translation>
+  </named_param>
+  <named_param id="497">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+    <translation type="Prefix" xml:space="preserve">Bounty </translation>
+  </named_param>
+  <named_param id="498">
+    <original type="Replace" xml:space="preserve">金装のスケルトン</original>
+    <translation type="Replace" xml:space="preserve">Gold Clothed Skeleton</translation>
+  </named_param>
+  <named_param id="499">
+    <original type="Replace" xml:space="preserve">錬術の女守官</original>
+    <translation type="Replace" xml:space="preserve">Alchemized Amazon</translation>
+  </named_param>
+  <named_param id="500">
+    <original type="Prefix" xml:space="preserve">テイムド・</original>
+    <translation type="Prefix" xml:space="preserve">Tamed </translation>
+  </named_param>
+  <named_param id="501">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="502">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="506">
+    <original type="Replace" xml:space="preserve">穢れの大魔像</original>
+    <translation type="Replace" xml:space="preserve">Impure Giant Demon</translation>
+  </named_param>
+  <named_param id="507">
+    <original type="Replace" xml:space="preserve">ケイブレイダー</original>
+    <translation type="Replace" xml:space="preserve">Cave Raider</translation>
+  </named_param>
+  <named_param id="508">
+    <original type="Replace" xml:space="preserve">大騒音の主</original>
+    <translation type="Replace" xml:space="preserve">Lord of Rock</translation>
+  </named_param>
+  <named_param id="510">
+    <original type="Replace" xml:space="preserve">錬魔グリフィンNo.04</original>
+  </named_param>
+  <named_param id="511">
+    <original type="Replace" xml:space="preserve">煉獄の幽姫</original>
+  </named_param>
+  <named_param id="512">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="513">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="514">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="515">
+    <original type="Replace" xml:space="preserve">ブラックウィング</original>
+  </named_param>
+  <named_param id="516">
+    <original type="Replace" xml:space="preserve">ディープレイク・リンドブルム</original>
+  </named_param>
+  <named_param id="517">
+    <original type="Replace" xml:space="preserve">烈翼の禽獅子</original>
+  </named_param>
+  <named_param id="518">
+    <original type="Replace" xml:space="preserve">猛牙の銀獅子</original>
+  </named_param>
+  <named_param id="519">
+    <original type="Replace" xml:space="preserve">幽姫の従士</original>
+  </named_param>
+  <named_param id="520">
+    <original type="Replace" xml:space="preserve">幽姫の騎士</original>
+  </named_param>
+  <named_param id="522">
+    <original type="Replace" xml:space="preserve">石呪を振りまく魔</original>
+  </named_param>
+  <named_param id="524">
+    <original type="Replace" xml:space="preserve">闇呪をもたらす魔</original>
+  </named_param>
+  <named_param id="525">
+    <original type="Replace" xml:space="preserve">強装巨人兵-Ⅱ型</original>
+  </named_param>
+  <named_param id="526">
+    <original type="Replace" xml:space="preserve">強装巨人兵-試作型</original>
+  </named_param>
+  <named_param id="527">
+    <original type="Replace" xml:space="preserve">穢れの大魔像</original>
+  </named_param>
+  <named_param id="528">
+    <original type="Replace" xml:space="preserve">大騒音の主</original>
+  </named_param>
+  <named_param id="529">
+    <original type="Replace" xml:space="preserve">ケイブレイダー</original>
+  </named_param>
+  <named_param id="530">
+    <original type="Replace" xml:space="preserve">ララバイ・クィーン</original>
+  </named_param>
+  <named_param id="531">
+    <original type="Prefix" xml:space="preserve">ラウドネス・</original>
+  </named_param>
+  <named_param id="532">
+    <original type="Replace" xml:space="preserve">ディナン・ピアサー</original>
+  </named_param>
+  <named_param id="541">
+    <original type="Replace" xml:space="preserve">呪われた魔鳥</original>
+  </named_param>
+  <named_param id="542">
+    <original type="Prefix" xml:space="preserve">総大将・鬼神</original>
+  </named_param>
+  <named_param id="543">
+    <original type="Replace" xml:space="preserve">呪われた巨鳥</original>
+  </named_param>
+  <named_param id="544">
+    <original type="Replace" xml:space="preserve">呪われた騎士</original>
+  </named_param>
+  <named_param id="545">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="546">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="547">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="548">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="549">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="550">
+    <original type="Replace" xml:space="preserve">？？？</original>
+  </named_param>
+  <named_param id="551">
+    <original type="Prefix" xml:space="preserve">危機的</original>
+  </named_param>
+  <named_param id="552">
+    <original type="Prefix" xml:space="preserve">危機的</original>
+  </named_param>
+  <named_param id="553">
+    <original type="Prefix" xml:space="preserve">危機的</original>
+  </named_param>
+  <named_param id="554">
+    <original type="Prefix" xml:space="preserve">危機的</original>
+  </named_param>
+  <named_param id="555">
+    <original type="Prefix" xml:space="preserve">危機的</original>
+  </named_param>
+  <named_param id="556">
+    <original type="Prefix" xml:space="preserve">危機的</original>
+  </named_param>
+  <named_param id="557">
+    <original type="Prefix" xml:space="preserve">危機的</original>
+  </named_param>
+</named_params>
