@@ -43,13 +43,16 @@
   <message>
     <key>CUSTOM_SKILL_COMMAND_03_42</key>
     <original xml:space="preserve">セットボタンを押す</original>
+    <translation xml:space="preserve">Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_03_40</key>
     <original xml:space="preserve">&lt;PADM&gt;セットボタンで構え後、&lt;ICON PAD_L2&gt;または&lt;ICON PAD_R2&gt;で発射&lt;KEYM&gt;セットボタンで構え後、セットボタンで発射</original>
+    <translation xml:space="preserve">&lt;PADM&gt;While holding the assigned button, press &lt;ICON PAD_L2&gt; or &lt;ICON PAD_R2&gt; to shoot.&lt;KEYM&gt;While holding the assigned button, press the fire button to shoot.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_03_41</key>
     <original xml:space="preserve">&lt;PADM&gt;セットボタンで構え後、&lt;ICON PAD_L2&gt;または&lt;ICON PAD_R2&gt;で発射&lt;KEYM&gt;セットボタンで構え後、セットボタンで発射</original>
+    <translation xml:space="preserve">&lt;PADM&gt;While holding the assigned button, press &lt;ICON PAD_L2&gt; or &lt;ICON PAD_R2&gt; to shoot.&lt;KEYM&gt;While holding the assigned button, press the fire button to shoot.</translation>
   </message>
 </resource>
