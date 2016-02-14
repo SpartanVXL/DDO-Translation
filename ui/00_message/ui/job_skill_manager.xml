@@ -22,7 +22,7 @@
   <message>
     <key>heading_change_skill_ability</key>
     <original xml:space="preserve">スキル・アビリティ習得/装備</original>
-    <translation xml:space="preserve">Learn/Equip Skills and Abilities</translation>
+    <translation xml:space="preserve">Learn/Equip Skills and Augments</translation>
   </message>
   <message>
     <key>tab_normal_skill</key>
@@ -37,7 +37,7 @@
   <message>
     <key>tab_ability</key>
     <original xml:space="preserve">アビリティ</original>
-    <translation xml:space="preserve">Abilities</translation>
+    <translation xml:space="preserve">Augments</translation>
   </message>
   <message>
     <key>button_get</key>
@@ -77,7 +77,7 @@
   <message>
     <key>option_overwrite</key>
     <original xml:space="preserve">装備中のアビリティを登録</original>
-    <translation xml:space="preserve">Register Equipped Abilities</translation>
+    <translation xml:space="preserve">Register Equipped Augments</translation>
   </message>
   <message>
     <key>option_rename</key>
@@ -149,7 +149,7 @@ to level it up?</translation>
   </message>
   <message>
     <key>heading_ability</key>
-    <original xml:space="preserve">Abilities</original>
+    <original xml:space="preserve">Augments</original>
   </message>
   <message>
     <key>heading_command</key>
@@ -168,11 +168,11 @@ to level it up?</translation>
   <message>
     <key>ability_type_secret</key>
     <original xml:space="preserve">シークレットアビリティ</original>
-    <translation xml:space="preserve">Secret Abilities</translation>
+    <translation xml:space="preserve">Secret Augments</translation>
   </message>
   <message>
     <key>heading_change_skill_ability_eng</key>
-    <original xml:space="preserve">Skills/Abilities</original>
+    <original xml:space="preserve">Skills/Augments</original>
   </message>
   <message>
     <key>custom_skill_cmd_title</key>

@@ -40,7 +40,7 @@ LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
 blare on impact, breaking enemy guard.
 Will also launch nearby enemies.
 &lt;COL ffdc78&gt;LV UP: Increases blow power.
-LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_36</key>
@@ -74,7 +74,7 @@ LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
     <translation xml:space="preserve">Applies an explosive stun effect to all
 arrows loaded. Increases damage inflicted.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_35</key>
@@ -95,6 +95,11 @@ LV.6: Increases total charge stages (1→2).&lt;/COL&gt;</translation>
 敵との間合いを素早く離す
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費減少／発動中の耐久力上昇
 LV.６でモーション変化／すり抜け時間延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Quickly dodges backwards, creating distance
+between you and your enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina cost.
+Increases Endurance during usage.
+LV.6: Motion changes. Increases invulnerability time.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_40</key>
@@ -102,6 +107,10 @@ LV.６でモーション変化／すり抜け時間延長&lt;/COL&gt;</original>
 渾身の力で空に放ち、敵の頭上に降らせる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で矢の発射数増加（３→５）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Coat multiple arrows in gunpowder and send them
+skyward to rain down on a broad area.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases arrows fired (3→5).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_41</key>
@@ -110,5 +119,10 @@ LV.６で矢の発射数増加（３→５）&lt;/COL&gt;</original>
 敵を怯ませやすくなる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃速度上昇&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Continously shoot multiple arrows as you press
+the button. As you shoot more arrows, it becomes
+easier to stagger enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases attack speed.&lt;/COL&gt;</translation>
   </message>
 </resource>

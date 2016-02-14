@@ -105,6 +105,11 @@ Adds wind pressure to the blast.&lt;/COL&gt;</translation>
 &lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;で任意方向に移動できる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で移動距離が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Rotate your daggers at high speed, slashing nearby
+enemies. Use the &lt;PADM&gt;left stick&lt;KEYM&gt;move key&lt;/KEYM&gt; to move while rotating.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases movement distance.
+Increases number of hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_31</key>
@@ -112,6 +117,10 @@ LV.６で移動距離が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
 鋭いスライディング攻撃を繰り出す
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で移動距離が延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Grapple the enemy with your seeker rope, staggering
+them and sliding through with a sharp attack.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases movement distance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_27</key>
@@ -120,5 +129,10 @@ LV.６で移動距離が延長&lt;/COL&gt;</original>
 ただし、発動中は自身の体力が徐々に減少する
 &lt;COL ffdc78&gt;LV UP毎に炎属性威力の上昇／体力減少軽減
 LV.６で最大持続時間が延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Sets your body ablaze, inflicting damage to enemies
+you touch and adds Fire attribute to your attacks.
+However, your health will gradually drain during use.
+&lt;COL ffdc78&gt;LV UP: Increases damage. Decreases health drain.
+LV.6: Increases duration of the effect.&lt;/COL&gt;</translation>
   </message>
 </resource>

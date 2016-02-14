@@ -81,7 +81,7 @@ LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
     <translation xml:space="preserve">After charging, fire a magic sphere that emits
 an intense light of the Holy attribute in a wide area.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_54</key>
@@ -89,10 +89,11 @@ LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
 大爆発を起こし、周囲の敵に大ダメージを与える
 &lt;COL ffdc78&gt;LV UP毎に発動中のスタミナ消費減少
 LV.６で攻撃威力の上昇／攻撃範囲拡大&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Charge magic within your body. When your health is exhausted,
-create a large explosion dealing large damage to enemies.
-&lt;COL ffdc78&gt;LV UP: Decreases stamina consumption.
-LV.6: Increases damage and range of the effect.&lt;/COL&gt;</translation>
+    <translation xml:space="preserve">Charge magic within your body. When your health is
+exhausted, create a wide explosion dealing
+large damage to enemies.
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption.
+LV.6: Increases the damage and range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_55</key>
@@ -101,6 +102,11 @@ LV.6: Increases damage and range of the effect.&lt;/COL&gt;</translation>
 フィールドシフトに対応
 &lt;COL ffdc78&gt;LV UP毎に離脱後の効果持続時間延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Emits an aura of Endurance.
+Applies a temporary increase to nearby allies.
+Can be used with Field Shift.
+&lt;COL ffdc78&gt;LV UP: Increases duration after leaving the aura.
+LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_52</key>
@@ -108,6 +114,10 @@ LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
 発現させる（対不死には攻撃）
 &lt;COL ffdc78&gt;LV UP毎に設置持続時間が延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Creates a magic area that rapidly regenerates Stamina.
+(Inflicts damage to undead)
+&lt;COL ffdc78&gt;LV UP: Increases duration of the effect.
+LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_53</key>
@@ -115,5 +125,9 @@ LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
 侵入してきた敵に攻撃を与える
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Creates a wide magic area of the Holy attribute
+centered on yourself, dealing damage to enemies.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
 </resource>

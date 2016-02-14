@@ -100,12 +100,21 @@ LV.6: Motion changes. Increases number of hits.&lt;/COL&gt;</translation>
 &lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;により特定方向に移動できる
 &lt;COL ffdc78&gt;LV UP毎に防御性能の上昇／スタミナ消費減少
 LV.６で移動速度上昇／移動方向に左右追加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">A quick forward lunge while guarding with a shield.
+Use the &lt;PADM&gt;left stick&lt;KEYM&gt;move key&lt;/KEYM&gt; to dash in a specific direction.
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina cost to block.
+LV.6: Able to dash left and right. Increases speed.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_16</key>
     <original xml:space="preserve">素早く剣を突き、直後に引き抜く二段攻撃を放つ
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Delivers a quick stab and withdrawal slash
+without distancing user and target, allowing
+for further blows thereafter.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases number of hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_19</key>
@@ -114,5 +123,10 @@ LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
 攻撃を受ける瞬間に発動すると威力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃範囲拡大／敵の攻撃受付時間延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Holds the blade in wait, deflecting and seamlessly
+countering enemy attacks. Use the &lt;PADM&gt;left stick&lt;KEYM&gt;move key&lt;/KEYM&gt; to move
+forward or back. Perfect blocks deal more damage.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases range. Increases counter duration.&lt;/COL&gt;</translation>
   </message>
 </resource>

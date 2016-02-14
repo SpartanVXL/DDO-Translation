@@ -20,7 +20,7 @@ to repeat the spell.&lt;/COL&gt;</translation>
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
     <translation xml:space="preserve">Emit lightning in a range outwards from you.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_74</key>
@@ -55,7 +55,7 @@ LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
     <translation xml:space="preserve">After charging magic,
 generate a towering wall of flame.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_73</key>
@@ -64,8 +64,8 @@ LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で衝撃波が３方向化&lt;/COL&gt;</original>
     <translation xml:space="preserve">After charging magic, brandish your archistaff,
-releasing a blade-shaped shockwave with
-Lightning/Slash attributes.
+releasing a blade-shaped shockwave.
+Inflicts damage with Lightning and Slash attributes.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Shockwave will fire in 3 directions.&lt;/COL&gt;</translation>
   </message>
@@ -77,7 +77,7 @@ LV.6: Shockwave will fire in 3 directions.&lt;/COL&gt;</translation>
 LV.６で岩塊数が増加（１→２）&lt;/COL&gt;</original>
     <translation xml:space="preserve">After charging magic, shake the earth,
 sending eruptions of stone high into the air.
-Inflicts damage of the Darkness attribute.
+Inflicts damage with Darkness and Impact attributes.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases number of rocks (1→2).&lt;/COL&gt;</translation>
   </message>
@@ -97,6 +97,10 @@ LV.6: Increases number of meteors (4→7).&lt;/COL&gt;</translation>
     <original xml:space="preserve">魔力を溜めた後、敵の頭上に落雷を発生させる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で落雷数が増加（３→５）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">After charging magic, smite the enemy
+from above with tongues of lightning.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases number of lightning strikes (3→5).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_78</key>
@@ -104,6 +108,10 @@ LV.６で落雷数が増加（３→５）&lt;/COL&gt;</original>
 霧に侵入した全ての敵に継続ダメージを与える
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
+    <translation xml:space="preserve">After charging magic, conjure a dense dark fog overhead
+that deals continous damage to enemies within.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_06_77</key>
@@ -111,5 +119,10 @@ LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
 氷・射属性によるダメージを与える
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
+    <translation xml:space="preserve">After charging magic, conjure a twisting spike
+of ice that thrusts forward from the ground.
+Inflicts damage with Ice and Shot attributes.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
 </resource>

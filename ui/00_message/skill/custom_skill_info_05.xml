@@ -21,7 +21,7 @@ LV.６で照射範囲拡大&lt;/COL&gt;</original>
 Slowly accumulates the Torpor debilitation over time.
 With more than 1 Force Gauge, the effect will increase.
 &lt;COL ffdc78&gt;LV UP: Increases the rate of Torpor accumulation.
-LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_05_59</key>
@@ -34,7 +34,7 @@ LV.６で照射範囲拡大&lt;/COL&gt;</original>
 Slowly accumulates the Sleep debilitation over time.
 With more than 1 Force Gauge, the effect will increase.
 &lt;COL ffdc78&gt;LV UP: Increases the rate of Sleep accumulation.
-LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_05_60</key>
@@ -58,7 +58,7 @@ LV.６で効果範囲拡大&lt;/COL&gt;</original>
 for nearby allies. (Determined by element granted to rod)
 With more than 1 Force Gauge, the duration will increase.
 &lt;COL ffdc78&gt;LV UP: Increases duration and power of the effect.
-LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_05_61</key>
@@ -70,7 +70,7 @@ LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
 wide range. Staggers large enemies and
 some formidable foes.
 &lt;COL ffdc78&gt;LV UP: Shortens casting time.
-LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_05_63</key>
@@ -82,8 +82,8 @@ LV.６で射程距離延長&lt;/COL&gt;</original>
     <translation xml:space="preserve">Use magic to create an anchor, binding the enemy.
 Inflicts ATK Down, MATK Down, and slowly builds
 DEF Down, MDEF Down to large and some formidable enemies.
-&lt;COL ffdc78&gt;LV UP: Decreases stamina consumption.
-LV.6: Increases range of the effect.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption.
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_05_57</key>
@@ -102,6 +102,11 @@ LV.6: Makes the effect protect all of your sides.&lt;/COL&gt;</translation>
 フォースゲージ１本以上の時、消費して技性能上昇
 &lt;COL ffdc78&gt;LV UP毎に選択中属性の異常値上昇
 LV.６で照射範囲拡大&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Channel a light from your rod towards the enemy.
+Slowly accumulates a debilitation that decreases attribute
+defense of enemies. (Determined by element granted to rod)
+&lt;COL ffdc78&gt;LV UP: Increases the rate of debilitation accumulation.
+LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_05_66</key>
@@ -110,6 +115,11 @@ LV.６で照射範囲拡大&lt;/COL&gt;</original>
 フォースゲージ１本以上の時、消費して技性能上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で構え持続時間延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Deflect enemy attacks with your greatshield, stunning them.
+The impact will accumulate debilitations on enemies.
+With more than 1 Force Gauge, the effect will increase.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases the duration of the counter stance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_05_64</key>
@@ -117,5 +127,9 @@ LV.６で構え持続時間延長&lt;/COL&gt;</original>
 空間内にいる味方へのダメージを無効化する
 &lt;COL ffdc78&gt;LV UP毎に詠唱時間短縮
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Guard an area around you,
+nullifying damage for all allies nearby.
+&lt;COL ffdc78&gt;LV UP: Shortens casting time.
+LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
   </message>
 </resource>
