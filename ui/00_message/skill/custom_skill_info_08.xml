@@ -4,6 +4,10 @@
     <original xml:space="preserve">氷属性の複数の魔矢を一点に集中して放つ
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で魔矢の本数増加（４→６）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fire multiple magickal arrows with
+the Ice attribute at a single point.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases magickal arrows fired (4→6).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_92</key>
@@ -12,6 +16,11 @@ LV.６で魔矢の本数増加（４→６）&lt;/COL&gt;</original>
 味方に接触させれば魔法球が吸着する
 &lt;COL ffdc78&gt;LV UP毎に回復力上昇／展開エリア拡張
 LV.６でターゲット数増加（２→４）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fire magickal arrows that emit an area of health
+restoration at the impact point. (Inflicts damage to undead)
+The field will attach to an ally if the arrow makes contact.
+&lt;COL ffdc78&gt;LV UP: Increases healing power. Increases size of the effect.
+LV.6: Increases number of targets (2→4).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_93</key>
@@ -20,6 +29,11 @@ LV.６でターゲット数増加（２→４）&lt;/COL&gt;</original>
 味方に接触させれば魔法球が吸着する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費減少
 LV.６でターゲット数増加（１→２）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fire magickal arrows that emit an area of debilitation
+recovery at the impact point. (Inflicts damage to undead)
+The field will attach to an ally if the arrow makes contact.
+&lt;COL ffdc78&gt;LV UP: Reduces stamina cost.
+LV.6: Increases number of targets (1→2).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_94</key>
@@ -28,6 +42,11 @@ LV.６でターゲット数増加（１→２）&lt;/COL&gt;</original>
 爆発に接触した周囲の敵は中心地に吹き飛ぶ
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で爆発範囲が拡張&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Loose a magickal arrow that attaches to enemies.
+Upon attacking the magickal arrow, it will trigger an explosion.
+Enemies in contact with the explosion will be knocked away.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases the range of the explosions.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_97</key>
@@ -36,6 +55,11 @@ LV.６で爆発範囲が拡張&lt;/COL&gt;</original>
 継続して体力を奪う
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で魔法球継続時間が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fire magickal arrows of the Holy attribute. The arrows 
+will emit a magickal sphere upon impact. Enemies in
+contact with the sphere will continously take damage.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases duration of spheres. Increases number of hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_98</key>
@@ -43,6 +67,11 @@ LV.６で魔法球継続時間が延長／攻撃ヒット数増加&lt;/COL&gt;</
 一定時間低下させる魔矢を放つ
 &lt;COL ffdc78&gt;LV UP毎に低下力の強化
 LV.６でターゲット数増加（３→５）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fire magickal arrows that decrease the
+Physical and Magickal attack power of
+enemies for a period of time.
+&lt;COL ffdc78&gt;LV UP: Increases the rate of debilitation accumulation.
+LV.6: Increases number of targets (3→5).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_99</key>
@@ -50,6 +79,11 @@ LV.６でターゲット数増加（３→５）&lt;/COL&gt;</original>
 一定時間低下させる魔矢を放つ
 &lt;COL ffdc78&gt;LV UP毎に低下力の強化
 LV.６でターゲット数増加（３→５）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fire magickal arrows that decrease the
+Physical and Magickal defense of
+enemies for a period of time.
+&lt;COL ffdc78&gt;LV UP: Increases the rate of debilitation accumulation.
+LV.6: Increases number of targets (3→5).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_96</key>
@@ -57,6 +91,10 @@ LV.６でターゲット数増加（３→５）&lt;/COL&gt;</original>
 反射させる度に威力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で反射回数が増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Loose a magickal arrow that increases in
+power as it ricochets towards its target.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.6: Increases the number of ricochets.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_100</key>
@@ -65,6 +103,11 @@ LV.６で反射回数が増加&lt;/COL&gt;</original>
 吸着する（対不死には攻撃）
 &lt;COL ffdc78&gt;LV UP毎に魔法球継続時間の延長／展開エリア拡張
 LV.６で詠唱速度が上昇&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fire magickal arrows that emit an area of Stamina
+restoration at the impact point. (Inflicts damage to undead)
+The field will attach to an ally if the arrow makes contact.
+&lt;COL ffdc78&gt;LV UP: Increases duration. Increases size of the effect.
+LV.6: Increases casting speed.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_101</key>
@@ -72,6 +115,11 @@ LV.６で詠唱速度が上昇&lt;/COL&gt;</original>
 &lt;COL ffdc78&gt;LV UP毎に低下力の強化
 LV.６で詠唱速度が上昇／
 ターゲット数増加（５→７）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fire magickal arrows that decrease the
+Endurance of enemies for a period of time.
+&lt;COL ffdc78&gt;LV UP: Increases the rate of debilitation accumulation.
+LV.6: Increases casting speed.
+Increases number of targets (5→7).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_08_102</key>
@@ -80,5 +128,10 @@ LV.６で詠唱速度が上昇／
 魔法球を展開する。コアは構え中に発見可能
 &lt;COL ffdc78&gt;LV UP毎に低下力の強化
 LV.６で魔法球継続時間が延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Loose a magickal arrow that attaches to revealed
+weakpoints of enemies and forms a sphere. Greatly
+decreases the Stamina of enemies when attacked.
+&lt;COL ffdc78&gt;LV UP: Increases the stamina reduction.
+LV.6: Increases the duration of the sphere.&lt;/COL&gt;</translation>
   </message>
 </resource>
