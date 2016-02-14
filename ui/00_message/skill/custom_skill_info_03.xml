@@ -95,6 +95,10 @@ LV.6: Increases total charge stages (1→2).&lt;/COL&gt;</translation>
 敵との間合いを素早く離す
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費減少／発動中の耐久力上昇
 LV.６でモーション変化／すり抜け時間延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Quickly leap backwards, avoiding damage.
+A method to quickly gain distance from an enemy.
+&lt;COL ffdc78&gt;LV UP: Lowers stamina cost and increases avoidance.
+LV.６: Motion changes, and amplifies evasion time.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_40</key>
@@ -102,6 +106,10 @@ LV.６でモーション変化／すり抜け時間延長&lt;/COL&gt;</original>
 渾身の力で空に放ち、敵の頭上に降らせる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で矢の発射数増加（３→５）&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Launches several gunpowder laced arrows
+skyward to rain down on enemies from above.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.６:Increases number of arrows fired to 5. &lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_41</key>
@@ -110,5 +118,10 @@ LV.６で矢の発射数増加（３→５）&lt;/COL&gt;</original>
 敵を怯ませやすくなる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃速度上昇&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Unleashes a barrage of arrows unto your target with repeated button presses.
+Number of shots available increases with more enemies nearby.
+Easily staggers opponents.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.６: Increased rate of fire.&lt;/COL&gt;</translation>
   </message>
 </resource>
