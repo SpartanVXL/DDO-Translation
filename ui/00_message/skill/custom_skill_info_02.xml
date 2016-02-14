@@ -105,6 +105,10 @@ Adds wind pressure to the blast.&lt;/COL&gt;</translation>
 &lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;で任意方向に移動できる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で移動距離が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Spin around in a flurry of dagger strikes, drawing enemies inward.
+&lt;PADM&gt;Left Control Stick&lt;KEYM&gt;Directional Keys&lt;/KEYM&gt;to move about while attacking.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.６: Increases movement speed and the number of strikes.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_31</key>
@@ -112,6 +116,10 @@ LV.６で移動距離が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
 鋭いスライディング攻撃を繰り出す
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で移動距離が延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Fires the seeker rope at an enemy and reels
+the user in for a sharp sliding attack.
+&lt;COL ffdc78&gt;LV UP: Increases damage.
+LV.６: Extends the range of movement.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_27</key>
@@ -120,5 +128,10 @@ LV.６で移動距離が延長&lt;/COL&gt;</original>
 ただし、発動中は自身の体力が徐々に減少する
 &lt;COL ffdc78&gt;LV UP毎に炎属性威力の上昇／体力減少軽減
 LV.６で最大持続時間が延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Sets the user's body ablaze, damaging any nearby enemies.
+Also applies fire attributes to weapon attacks.
+Gradually drains the user's stamina while active.
+&lt;COL ffdc78&gt;LV UP: Increases fire damage and decreases stamina consumption.
+LV.６: Maximizes the effect's duration.&lt;/COL&gt;</translation>
   </message>
 </resource>
