@@ -1,210 +1,292 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <original xml:space="preserve">いいか――
 覚者の初陣には白竜の特別な加護がある</original>
+    <translation xml:space="preserve">Listen carefully.
+The Arisen are blessed by the White Dragon for their first battle.</translation>
   </message>
   <message>
     <original xml:space="preserve">だから、実力以上の戦いができるはずだ
 思う存分暴れてくれ</original>
+    <translation xml:space="preserve">Your strength will be far greater than normal.
+Let loose and don't hold anything back.</translation>
   </message>
   <message>
     <original xml:space="preserve">砦の守備隊は、ヴァネッサをはじめ精鋭ぞろい</original>
+    <translation xml:space="preserve">The fort's troops are Vanessa's 
+handpicked elite!</translation>
   </message>
   <message>
     <original xml:space="preserve">救援要請なんて、もしかして初めてかも？</original>
+    <translation xml:space="preserve">To even call for reinforcements...
+Have they ever done that?</translation>
   </message>
   <message>
     <original xml:space="preserve">ここまでオークに押し込まれることなど
 この３００年、なかったことだ</original>
+    <translation xml:space="preserve">For 300 years, the Orcs haven't managed
+to advance this far... until now.</translation>
   </message>
   <message>
     <original xml:space="preserve">情勢はこの上なく深刻――さあ、急ぐぞ！</original>
+    <translation xml:space="preserve">'Tis more than a dire situation.
+Now, advance!</translation>
   </message>
   <message>
     <original xml:space="preserve">武器、用意！　構えろ！</original>
+    <translation xml:space="preserve">Weapons ready! Steel yourselves!</translation>
   </message>
   <message>
     <original xml:space="preserve">走れ～！</original>
+    <translation xml:space="preserve">Forward!</translation>
   </message>
   <message>
     <original xml:space="preserve">隙あらば掴みかかるんだ
 デカイ敵はよじ登って戦え</original>
+    <translation xml:space="preserve">Find an opportunity to grab them.
+Climb onto larger foes and strike!</translation>
   </message>
   <message>
     <original xml:space="preserve">体力減ったら回復アイテム！　自己責任だぞ！</original>
+    <translation xml:space="preserve">Use a recovery item should you falter!
+That's your responsibility!</translation>
   </message>
   <message>
     <original xml:space="preserve">ほら、砦へ急いで！</original>
+    <translation xml:space="preserve">Quickly, to the fortress!</translation>
   </message>
   <message>
     <original xml:space="preserve">立派立派、まだ生きてる！　やるねえ！</original>
+    <translation xml:space="preserve">Splendid, splendid! Still 
+alive! Alriiight!</translation>
   </message>
   <message>
     <original xml:space="preserve">あのね――わたしの心配より自分の心配！</original>
+    <translation xml:space="preserve">Hey now, your concerns are greater than mine!</translation>
   </message>
   <message>
     <original xml:space="preserve">ここはまだ演習のようなもの――さあ、砦へ急げ！</original>
+    <translation xml:space="preserve">'Tis just as we practiced!
+Now, to the fort!</translation>
   </message>
   <message>
     <original xml:space="preserve">バタバタしてるが、動きは悪くない
 自信を持って戦え！</original>
+    <translation xml:space="preserve">A bit gaudy, but your movements are good.
+Fight with confidence!</translation>
   </message>
   <message>
     <original xml:space="preserve">さあ、砦へ突入だ！</original>
   </message>
+    <translation xml:space="preserve">Go! Charge into the fort!</translation>
   <message>
     <original xml:space="preserve">おい、どこへいく！</original>
+    <translation xml:space="preserve">Hey, where are you going!</translation>
   </message>
   <message>
     <original xml:space="preserve">そっちじゃないぞ！</original>
+    <translation xml:space="preserve">Not that way!</translation>
   </message>
   <message>
     <original xml:space="preserve">こっちへ来い！</original>
+    <translation xml:space="preserve">Come this way!</translation>
   </message>
   <message>
     <original xml:space="preserve">おい、回復しておけ！</original>
+    <translation xml:space="preserve">Ser, mind your condition!</translation>
   </message>
   <message>
     <original xml:space="preserve">回復アイテムを使うんだ！</original>
+    <translation xml:space="preserve">Make use of recovery items!</translation>
   </message>
   <message>
     <original xml:space="preserve">もっと体力に気を配れ！</original>
+    <translation xml:space="preserve">Be mindful of your limits!</translation>
   </message>
   <message>
     <original xml:space="preserve">くそ――回復してくれ</original>
+    <translation xml:space="preserve">Blast! I need healing!</translation>
   </message>
   <message>
     <original xml:space="preserve">すまん――自力回復できん</original>
+    <translation xml:space="preserve">My apologies... I am unable to heal myself.</translation>
   </message>
   <message>
     <original xml:space="preserve">俺を見殺しにする気か！</original>
+    <translation xml:space="preserve">You mean to let me die?!</translation>
   </message>
   <message>
     <original xml:space="preserve">そっちじゃないって！</original>
+    <translation xml:space="preserve">Not over there!</translation>
   </message>
   <message>
     <original xml:space="preserve">ちゃんとついてきてよ！</original>
+    <translation xml:space="preserve">Come along now!</translation>
   </message>
   <message>
     <original xml:space="preserve">どこいく気！？</original>
+    <translation xml:space="preserve">Where are you off to!?</translation>
   </message>
   <message>
     <original xml:space="preserve">ほら、回復しなさい、回復！</original>
+    <translation xml:space="preserve">Ah, please aid! Heal me!</translation>
   </message>
   <message>
     <original xml:space="preserve">死にたいの？　いやなら回復！</original>
+    <translation xml:space="preserve">Do you wish me to die? If not, heal me!</translation>
   </message>
   <message>
     <original xml:space="preserve">回復しなさいってば！</original>
+    <translation xml:space="preserve">Someone heal me already!</translation>
   </message>
   <message>
     <original xml:space="preserve">わたし、回復してほしいんだけど</original>
+    <translation xml:space="preserve">I would appreciate some healing.</translation>
   </message>
   <message>
     <original xml:space="preserve">こっち見て――回復して――</original>
+    <translation xml:space="preserve">Over here... help...</translation>
   </message>
   <message>
     <original xml:space="preserve">お願い――見捨てないで――</original>
+    <translation xml:space="preserve">Please... don't abandon me...</translation>
   </message>
   <message>
     <original xml:space="preserve">戦場の咆哮が聞こえるか？　
 扉の先は、おそらく敵味方入り交じる混戦状態――</original>
+    <translation xml:space="preserve">Hear the roar of the battleground?
+'Tis a mix of both friend and foe clashing forces.</translation>
   </message>
   <message>
     <original xml:space="preserve">さあ、やっちゃって！
 今日のあんたには白竜の加護があるんだから！</original>
+    <translation xml:space="preserve">Alright, charge!
+The White Dragon will protect you!</translation>
   </message>
   <message>
     <original xml:space="preserve">さあ！　全てのオークどもを切り倒せ！</original>
+    <translation xml:space="preserve">Okay! Cut down every one of these foul orcs!</translation>
   </message>
   <message>
     <original xml:space="preserve">ぷんぷん臭ってくるね
 ああ、腹立つ！　許さないから！</original>
+    <translation xml:space="preserve">What an intense odor.
+Oh, I'm mad now! No mercy!</translation>
   </message>
   <message>
     <original xml:space="preserve">次から次へと来るぞ！　体力に気をつけろ</original>
+    <translation xml:space="preserve">'Tis one after the other! Heed your stamina!</translation>
   </message>
   <message>
     <original xml:space="preserve">ひとりで全部倒してしまえ！　遠慮は無用だ！</original>
+    <translation xml:space="preserve">Fell them all with reckless abandon!</translation>
   </message>
   <message>
     <original xml:space="preserve">いいぞ！　その調子だ！</original>
+    <translation xml:space="preserve">Good! Keep it up!</translation>
   </message>
   <message>
     <original xml:space="preserve">ほら、来てるよ！　やっちゃえ！</original>
+    <translation xml:space="preserve">There, more of them! Charge!</translation>
   </message>
   <message>
     <original xml:space="preserve">もう、鼻が曲がる～！　さっさと終わらせよう！</original>
+    <translation xml:space="preserve">Ah, my poor nose...! Let's finish this quickly!</translation>
   </message>
   <message>
     <original xml:space="preserve">いいねえ！　あとはまかせちゃおうかな</original>
+    <translation xml:space="preserve">Nice! I owe you one!</translation>
   </message>
   <message>
     <original xml:space="preserve">いい調子だぞ！</original>
+    <translation xml:space="preserve">We're doing good!</translation>
   </message>
   <message>
     <original xml:space="preserve">敵は残り少ないぞ！　押せ！</original>
+    <translation xml:space="preserve">Their numbers dwindle! Finish it!</translation>
   </message>
   <message>
     <original xml:space="preserve">追い風に乗れ！</original>
+    <translation xml:space="preserve">Make use of our advantage!</translation>
   </message>
   <message>
     <original xml:space="preserve">くそっ！　敵、増兵だ！</original>
+    <translation xml:space="preserve">Blast! Enemy reinforcements!</translation>
   </message>
   <message>
     <original xml:space="preserve">増援だ！　気を引きしめろ！</original>
+    <translation xml:space="preserve">Reinforcements! Steel yourself!</translation>
   </message>
   <message>
     <original xml:space="preserve">まだいたのか！</original>
+    <translation xml:space="preserve">There are more still!</translation>
   </message>
   <message>
     <original xml:space="preserve">もう少しだよ！</original>
+    <translation xml:space="preserve">Just a bit more!</translation>
   </message>
   <message>
     <original xml:space="preserve">いい感じ！　このまま！</original>
+    <translation xml:space="preserve">Good! Like that!</translation>
   </message>
   <message>
     <original xml:space="preserve">優勢優勢！</original>
+    <translation xml:space="preserve">Strength! Power!</translation>
   </message>
   <message>
     <original xml:space="preserve">まだいたか！　くう～！</original>
+    <translation xml:space="preserve">More of them!? Grrr!</translation>
   </message>
   <message>
     <original xml:space="preserve">残念、敵が増えちゃった！</original>
+    <translation xml:space="preserve">I'm afraid they've grown in number!</translation>
   </message>
   <message>
     <original xml:space="preserve">あーあ、敵、増援だ！</original>
+    <translation xml:space="preserve">Oh no... Enemy reinforcements!</translation>
   </message>
   <message>
     <original xml:space="preserve">頼りにしてるぞ、新人！</original>
+    <translation xml:space="preserve">You're up, newcomer!</translation>
   </message>
   <message>
     <original xml:space="preserve">ここまで攻め込まれるとは――不覚！</original>
+    <translation xml:space="preserve">They were foolish to invade this far!</translation>
   </message>
   <message>
     <original xml:space="preserve">オークはまだまだいる！
 一匹残らず倒すぞ！</original>
+    <translation xml:space="preserve">Orcs still remain!
+Fell them to the very last!</translation>
   </message>
   <message>
     <original xml:space="preserve">さすが、レオ隊長が見込んだ新人だな！
 このまま砦を掃除するぞ！</original>
+    <translation xml:space="preserve">Leo was right to about you, as ever!
+We'll clean the fort in no time!</translation>
   </message>
   <message>
     <original xml:space="preserve">敵には&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;／&lt;KEYN RU&gt;&lt;KEYM&gt;左／右クリック&lt;/KEYM&gt;&lt;/COL&gt;で基本攻撃！</original>
+    <translation xml:space="preserve">Use&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;／&lt;KEYN RU&gt;&lt;KEYM&gt;Left/Right Click&lt;/KEYM&gt;&lt;/COL&gt;to attack enemies！</translation>
   </message>
   <message>
     <original xml:space="preserve">さらなる攻撃として&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN L1&gt;／&lt;KEYN R1&gt;&lt;KEYM&gt;Shift／Ctrlキー&lt;/KEYM&gt;&lt;/COL&gt;を押しながら&lt;/KEYM&gt;&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Hold down&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN L1&gt;／&lt;KEYN R1&gt;&lt;KEYM&gt;Shift／Ctrl Key&lt;/KEYM&gt;&lt;/COL&gt;and press&lt;/KEYM&gt;&lt;/COL&gt;</translation>
   </message>
   <message>
     <original xml:space="preserve">&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;か&lt;KEYN RU&gt;&lt;KEYM&gt;左／右クリック&lt;/KEYM&gt;&lt;/COL&gt;でカスタムスキルだ！</original>
+    <translation xml:space="preserve">&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;or&lt;KEYN RU&gt;&lt;KEYM&gt;Right/Left Click&lt;/KEYM&gt;&lt;/COL&gt;to perform custom skills!</translation>
   </message>
   <message>
     <original xml:space="preserve">技は画面右下のガイドで確認！</original>
+    <translation xml:space="preserve">Your skills are shown at the bottom right of your screen!</translation>
   </message>
   <message>
     <original xml:space="preserve">オークや大型の敵には近づき、&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RR&gt;&lt;KEYM&gt;Eキー&lt;/KEYM&gt;&lt;/COL&gt;でしがみついて攻撃だ！</original>
+    <translation xml:space="preserve">To grab your enemies, press&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RR&gt;&lt;KEYM&gt;E Key&lt;/KEYM&gt;&lt;/COL&gt;, which can even be used to climb Orcs and other larger foes！</translation>
   </message>
   <message>
     <original xml:space="preserve">走る時は&lt;COL ff7575&gt;&lt;PADM&gt;移動方向に&lt;KEYN L_STICK&gt;を倒しながら押し込み&lt;KEYM&gt;同じ移動キー２回押し&lt;/KEYM&gt;&lt;/COL&gt;でダッシュだ！</original>
+    <translation xml:space="preserve">While running,&lt;COL ff7575&gt;&lt;PADM&gt;press down on the&lt;KEYN L_STICK&gt;while pushing in a direction&lt;KEYM&gt;tap the same directional key twice&lt;/KEYM&gt;&lt;/COL&gt;to sprint!</translation> 
   </message>
 </resource>
