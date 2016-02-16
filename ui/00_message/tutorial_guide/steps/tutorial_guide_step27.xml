@@ -9,6 +9,14 @@
 &lt;COL ffdc78&gt;ダッシュ：&lt;/COL&gt;&lt;PADM&gt;移動中【&lt;ICON PAD_L3&gt;ボタン】押し込み&lt;KEYM&gt;同じ移動キーを２回押す&lt;/KEYM&gt;
 
 &lt;COL ffdc78&gt;ジャンプ：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON STG_JUMP&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_SPACE&gt;】&lt;/KEYM&gt;</original>
+     <translation xml:space="preserve">Fundamental Basics
+
+
+&lt;COL ffdc78&gt;Movement：&lt;/COL&gt;&lt;PADM&gt;【Left Control Stick】&lt;KEYM&gt;【&lt;ICON KB_W&gt;&lt;ICON KB_A&gt;&lt;ICON KB_S&gt;&lt;ICON KB_D&gt;】&lt;/KEYM&gt;
+
+&lt;COL ffdc78&gt;Sprint：&lt;/COL&gt;&lt;PADM&gt;Press the【&lt;ICON PAD_L3&gt;button】while moving.&lt;KEYM&gt;Tap the same directional key twice.&lt;/KEYM&gt;
+
+&lt;COL ffdc78&gt;Jump：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON STG_JUMP&gt;button】&lt;KEYM&gt;【&lt;ICON KB_SPACE&gt;】&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_46</key>
@@ -20,5 +28,14 @@
 &lt;COL ffdc78&gt;視点のリセット：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;ボタン】&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_1&gt;】&lt;/KEYM&gt;
 
 &lt;COL ffdc78&gt;視点距離の切替：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;ボタン】素早く２回押し&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_4&gt;前後】&lt;/KEYM&gt;</original>
+
+    <translation xml:space="preserve">Operating the Camera
+
+
+&lt;COL ffdc78&gt;Camera Movement：&lt;/COL&gt;&lt;PADM&gt;【Right Control Stick】&lt;KEYM&gt;【&lt;ICON MOUSE&gt;】&lt;/KEYM&gt;
+
+&lt;COL ffdc78&gt;Reset Camera Position：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;button】&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_1&gt;】&lt;/KEYM&gt;
+
+&lt;COL ffdc78&gt;Camera Distance：&lt;/COL&gt;&lt;PADM&gt;【&lt;ICON PAD_R3&gt;button】quickly tapped twice.&lt;KEYM&gt;【&lt;ICON MOUSE_WHL_4&gt; forwards and backwards】&lt;/KEYM&gt;</translation>
   </message>
 </resource>
