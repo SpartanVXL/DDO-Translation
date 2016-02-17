@@ -9,6 +9,14 @@
 成功すれば、クラフトレベルの上限が
 引き上げられ、より高度なアイテムの生産が
 行えるようになります</original>
+    <translation xml:space="preserve">When a pawn reaches certain craft levels, a
+&lt;COL ffdc78&gt;《Craft Level Promotion Exam》&lt;/COL&gt;will be
+issued for them.
+
+Upon crafting the requested&lt;COL ffdc78&gt;《Promotion Recipe》&lt;/COL&gt;,
+their crafting level will increase,
+allowing them to create even more
+powerful items for the Arisen.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_383</key>
@@ -19,5 +27,12 @@
 なお、《装備品の強化》や《クレスト装着》は
 クラフトレベルに関係なく
 材料さえあれば行うことができます</original>
+    <translation xml:space="preserve">&lt;COL ffdc78&gt;Please keep in mind that your pawn
+will not be able to gain any experience from
+further item creation until the exam is cleared.&lt;/COL&gt;
+
+《Item Enhancement》and《Crest Affixing》can
+can still be conducted, as
+they are unrelated to crafting level.</translation>
   </message>
 </resource>

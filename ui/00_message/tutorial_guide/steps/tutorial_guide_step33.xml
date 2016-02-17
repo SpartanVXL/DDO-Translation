@@ -9,17 +9,28 @@
 
 &lt;COL ffdc78&gt;レベル（Ｌｖ）が高い敵ほど強力です&lt;/COL&gt;
 自分のレベルと合った敵と戦いましょう</original>
+    <translation xml:space="preserve">There are many hostile enemies
+throughout Lestania. Giant monsters,
+creatures that hunt in packs,
+foes that would use magic or poison,
+and even some that only appear during
+rain, or at night.
+
+&lt;COL ffdc78&gt;Level（Ｌｖ）dictates the strength of a foe.&lt;/COL&gt;
+Mind that you fight enemies near
+your own level.</original></translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_79</key>
-    <original xml:space="preserve">敵を倒すとレベルアップに必要な
-&lt;COL ffdc78&gt;経験値（ＸＰ）&lt;/COL&gt;が得られます
-時にはアイテムを落とすこともあるため
-積極的に立ち向かいましょう
+    <original xml:space="preserve">Defeating enemies yields you
+&lt;COL ffdc78&gt;Experience（ＸＰ）&lt;/COL&gt;with which to level up.
+Enemies may occasionally drop items.
+Proactively fight your enemies!
 
-&lt;COL ffdc78&gt;また、敵により弱点となる属性や
-狙うべき弱点部位が異なります&lt;/COL&gt;
-敵の特性を知り、弱点を突くことで
-より戦闘は有利になるでしょう</original>
+&lt;COL ffdc78&gt;Each enemy has its own weak points
+that receive extra damage.&lt;/COL&gt;
+Find your enemies' weak points
+and strike them to gain an upper hand.</original>
+    <translation xml:space="preserve"></translation>
   </message>
 </resource>

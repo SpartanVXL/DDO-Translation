@@ -10,6 +10,15 @@
 目的地や現在地がどのエリアか&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;
 ゲームメニュー《ワールド》の&lt;COL ffdc78&gt;《マップ》&lt;/COL&gt;で
 確認するクセをつけるといいでしょう</original>
+    <translation xml:space="preserve">The world is divided into several grand regions.
+
+Respectively, 《Hydel Plains》、
+《Breya Coast》、《Mysree Forest》and other similar
+names are an example of these regions.
+
+To see your location on the map, press&lt;PADM&gt;【&lt;ICON PAD_START&gt;button】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;
+and choose the 《World》column's&lt;COL ffdc78&gt;《Map》&lt;/COL&gt;selection.
+This will be very useful in your adventures.</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_95</key>
@@ -19,5 +28,13 @@
 
 エリアの特色を把握することで
 冒険を有利にすすめられます</original>
+    <translation xml:space="preserve">Each area is home to an array of
+quests, items, shops, unique 
+monsters and challenges 
+of all kinds!
+
+Exploring each area well will
+ensure that you don't miss out
+on any lucrative opportunities!</translation>
   </message>
 </resource>
