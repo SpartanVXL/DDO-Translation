@@ -519,9 +519,7 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_om_door_open_by_enemy</key>
     <original xml:space="preserve">閉ざされていた道が開けた</original>
-    <!-- NEEDS REVIEW -->
-    <!--敵によって閉ざされていた道が開けた-->
-    <translation xml:space="preserve">The door has been opened by the enemy.</translation>
+    <translation xml:space="preserve">A path that was closed is now open.</translation>
   </message>
   <message>
     <key>syslog_om_door_open_by_gimmik</key>

@@ -149,7 +149,7 @@ to level it up?</translation>
   </message>
   <message>
     <key>heading_ability</key>
-    <original xml:space="preserve">Abilities</original>
+    <original xml:space="preserve">Augments</original>
   </message>
   <message>
     <key>heading_command</key>
@@ -172,7 +172,7 @@ to level it up?</translation>
   </message>
   <message>
     <key>heading_change_skill_ability_eng</key>
-    <original xml:space="preserve">Skills/Abilities</original>
+    <original xml:space="preserve">Skills/Augments</original>
   </message>
   <message>
     <key>custom_skill_cmd_title</key>
@@ -214,6 +214,7 @@ to level it up?</translation>
   <message>
     <key>get_conditions</key>
     <original xml:space="preserve">習得条件</original>
+	<translation xml:space="preserve">Requires Unlock</translation>
   </message>
   <message>
     <key>need_jp_to_get</key>
@@ -294,9 +295,11 @@ to level it up?</translation>
   <message>
     <key>need_splimit_to_get_skill_info</key>
     <original xml:space="preserve">特殊条件により解放</original>
+	<translation xml:space="preserve">Unlocked by completing special conditions.</translation>
   </message>
   <message>
     <key>btn_guide_change_skill_pallet</key>
     <original xml:space="preserve">スキルパレット切り替え</original>
+	<translation xml:space="preserve">Switch Skill Pallette</translation>
   </message>
 </resource>

@@ -79,16 +79,10 @@ LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
 物防低下・魔防低下の状態異常値を蓄積させる
 &lt;COL ffdc78&gt;LV UP毎に拘束中スタミナ消費減少／状態異常値上昇
 LV.６で射程距離延長&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--魔法のアンカーを射出し、敵を一定時間拘束する
-大型の敵や一部の強敵には、物攻低下・魔攻低下・
-物防低下・魔防低下の状態異常値を蓄積させる
-<COL ffdc78>LV UP毎に拘束中のスタミナ消費減少
-LV.６で射程距離延長</COL>-->
     <translation xml:space="preserve">Use magick to create an anchor, binding the enemy.
 Inflicts ATK Down, MATK Down, and slowly builds
 DEF Down, MDEF Down to large and some formidable enemies.
-&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption.
+&lt;COL ffdc78&gt;LV UP: Decrease Stamina cost. Increase Debilitation rate.
 LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
