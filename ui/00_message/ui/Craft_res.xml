@@ -949,7 +949,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CATEGORY_CLASS_UP_EXAM</key>
     <original xml:space="preserve">昇格試験</original>
-    <translation xml:space="preserve">Promotion</translation>
+    <translation xml:space="preserve">Promotion Test</translation>
   </message>
   <message>
     <key>MSG_NO_CLASS_UP_EXAM</key>
@@ -989,14 +989,17 @@ has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</tran
   <message>
     <key>CATEGORY_FURNITURE</key>
     <original xml:space="preserve">家具</original>
+    <translation xml:space="preserve">Furniture</translation>
   </message>
   <message>
     <key>CRAFT_FURNITURE_NOTHING</key>
     <original xml:space="preserve">家具レシピがありません</original>
+    <translation xml:space="preserve">There are no furniture recipes</translation>
   </message>
   <message>
     <key>ERROR_CANT_MAKE_FURNITURE</key>
     <original xml:space="preserve">作成済み、または作成中の家具は選択できません</original>
+    <translation xml:space="preserve">Furniture already created or being created cannot be selected</translation>
   </message>
   <message>
     <key>DIALOG_USE_FUNITURE_GUIDE</key>
