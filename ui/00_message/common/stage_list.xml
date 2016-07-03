@@ -86,8 +86,8 @@
   </message>
   <message>
     <key>STAGE_NAME_20</key>
-    <original xml:space="preserve">ヤンクスのよろず屋</original>
-    <translation xml:space="preserve">Yanks' General Shop</translation>
+    <original xml:space="preserve">ヤンクスの武器屋</original>
+    <translation xml:space="preserve">Yanks' Weapon Shop</translation>
   </message>
   <message>
     <key>STAGE_NAME_21</key>
@@ -232,7 +232,7 @@
   </message>
   <message>
     <key>STAGE_NAME_50</key>
-    <original xml:space="preserve">ブランドン道具店</original>
+    <original xml:space="preserve">ブランドン武具店</original>
   </message>
   <message>
     <key>STAGE_NAME_51</key>
@@ -262,7 +262,7 @@
   </message>
   <message>
     <key>STAGE_NAME_57</key>
-    <original xml:space="preserve">オズワルドの店</original>
+    <original xml:space="preserve">オズワルドの武具店</original>
   </message>
   <message>
     <key>STAGE_NAME_58</key>
@@ -345,6 +345,10 @@
     <translation xml:space="preserve">Temple of Purification</translation>
   </message>
   <message>
+    <key>STAGE_NAME_75</key>
+    <original xml:space="preserve">黄金宮</original>
+  </message>
+  <message>
     <key>STAGE_NAME_76</key>
     <original xml:space="preserve">亡都メルゴダ　下層</original>
   </message>
@@ -419,6 +423,10 @@
     <key>STAGE_NAME_91</key>
     <original xml:space="preserve">バートランド墓地</original>
     <translation xml:space="preserve">Betland Cemetary</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_92</key>
+    <original xml:space="preserve">死王の迷宮</original>
   </message>
   <message>
     <key>STAGE_NAME_93</key>
@@ -648,6 +656,10 @@
     <key>STAGE_NAME_142</key>
     <original xml:space="preserve">異界の狭間</original>
     <translation xml:space="preserve">The Rift</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_143</key>
+    <original xml:space="preserve">アーク</original>
   </message>
   <message>
     <key>STAGE_NAME_144</key>
@@ -906,7 +918,7 @@
   </message>
   <message>
     <key>STAGE_NAME_203</key>
-    <original xml:space="preserve">st0030 テスト部屋（吉岡）</original>
+    <original xml:space="preserve">st0030 テスト部屋（ジュンウェイ）</original>
   </message>
   <message>
     <key>STAGE_NAME_204</key>
@@ -1077,6 +1089,26 @@
     <original xml:space="preserve">st0047 テスト部屋（成田）</original>
   </message>
   <message>
+    <key>STAGE_NAME_286</key>
+    <original xml:space="preserve">古の祭祀場</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_288</key>
+    <original xml:space="preserve">亡都メルゴダ　王宮層</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_289</key>
+    <original xml:space="preserve">黄金宮</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_290</key>
+    <original xml:space="preserve">青静の遺跡</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_293</key>
+    <original xml:space="preserve">冥き大地下墓地</original>
+  </message>
+  <message>
     <key>STAGE_NAME_300</key>
     <original xml:space="preserve">グリッテン砦</original>
     <translation xml:space="preserve">Gritten Fort</translation>
@@ -1105,5 +1137,134 @@
     <key>STAGE_NAME_308</key>
     <original xml:space="preserve">メルゴダ護政区</original>
     <translation xml:space="preserve">Mergoda Security District</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_316</key>
+    <original xml:space="preserve">侵食魔の巣窟</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_317</key>
+    <original xml:space="preserve">調査隊駐屯地</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_318</key>
+    <original xml:space="preserve">不浄の掃き溜め</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_320</key>
+    <original xml:space="preserve">群像の岩屋</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_321</key>
+    <original xml:space="preserve">侵食魔の巣窟　奥底</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_330</key>
+    <original xml:space="preserve">氷気の遺路</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_331</key>
+    <original xml:space="preserve">せせらぎの地下聖堂</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_333</key>
+    <original xml:space="preserve">モルトバ遺跡</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_335</key>
+    <original xml:space="preserve">魔赤島</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_348</key>
+    <original xml:space="preserve">覚者の自室</original>
+    <translation xml:space="preserve">Arisen's Room</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_349</key>
+    <original xml:space="preserve">鍛練の小部屋</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_350</key>
+    <original xml:space="preserve">メイリーフの寝室</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_351</key>
+    <original xml:space="preserve">st0080 40/50しがみつき段差</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_352</key>
+    <original xml:space="preserve">st0081 40/50クライム段差</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_353</key>
+    <original xml:space="preserve">st0082 40/40しがみつき円柱</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_354</key>
+    <original xml:space="preserve">st0083 40/40クライム円柱</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_355</key>
+    <original xml:space="preserve">st0084 50/50しがみつき中央段差</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_356</key>
+    <original xml:space="preserve">st0085 60/30細長</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_357</key>
+    <original xml:space="preserve">st0086 60/30細長段差</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_358</key>
+    <original xml:space="preserve">st0087 10～12谷間</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_359</key>
+    <original xml:space="preserve">st0088 二重床・スロープ</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_360</key>
+    <original xml:space="preserve">st0089 細長柱</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_365</key>
+    <original xml:space="preserve">小塔傍の枯れ井戸</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_406</key>
+    <original xml:space="preserve">アーク　裏層</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_410</key>
+    <original xml:space="preserve">灼熱の封鎖道</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_427</key>
+    <original xml:space="preserve">霧幻のテラス</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_431</key>
+    <original xml:space="preserve">罪人の修獄</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_433</key>
+    <original xml:space="preserve">魔赤島</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_437</key>
+    <original xml:space="preserve">st0066 OM検証部屋ver2.0（機能ありOM）</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_438</key>
+    <original xml:space="preserve">st0067 OM検証部屋ver2.0（機能なしOM）</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_442</key>
+    <original xml:space="preserve">ボルド大坑道</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_452</key>
+    <original xml:space="preserve">古の祭祀場</original>
   </message>
 </resource>

@@ -96,12 +96,45 @@ The deleted character cannot be restored.</translation>
   </message>
   <message>
     <key>char_sel_button_zoom</key>
-    <original xml:space="preserve">モデル回転 / ズーム</original>
-    <translation xml:space="preserve">Rotate / Zoom</translation>
+    <original xml:space="preserve">モデル回転&lt;PADM&gt; / ズーム&lt;/PADM&gt;</original>
+    <translation xml:space="preserve">Rotate&lt;PADM&gt;  / Zoom&lt;/PADM&gt;</translation>
   </message>
   <message>
     <key>char_sel_button_rota</key>
     <original xml:space="preserve">カメラ操作</original>
     <translation xml:space="preserve">Camera</translation>
+  </message>
+  <message>
+    <key>char_sel_button_clan_notice</key>
+    <original xml:space="preserve">クランへの通知設定</original>
+  </message>
+  <message>
+    <key>char_sel_affiliation_clan</key>
+    <original xml:space="preserve">所属クラン</original>
+  </message>
+  <message>
+    <key>char_sel_clan_notice_info</key>
+    <original xml:space="preserve">クランメンバーへ自分のステータスを通知する</original>
+  </message>
+  <message>
+    <key>char_sel_on</key>
+    <original xml:space="preserve">ON</original>
+  </message>
+  <message>
+    <key>char_sel_off</key>
+    <original xml:space="preserve">OFF</original>
+  </message>
+  <message>
+    <key>char_sel_clan_notice_conf</key>
+    <original xml:space="preserve">クランメンバーへ自分のステータスを通知しますか？
+※この項目はゲーム設定からいつでも変更できます</original>
+  </message>
+  <message>
+    <key>char_sel_clan_notice_conf_yes</key>
+    <original xml:space="preserve">通知を行う</original>
+  </message>
+  <message>
+    <key>char_sel_clan_notice_conf_no</key>
+    <original xml:space="preserve">通知を行わない</original>
   </message>
 </resource>

@@ -130,4 +130,20 @@ centered on yourself, dealing damage to enemies.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_51</key>
+    <original xml:space="preserve">精神を集中し、自身を中心に味方の技発動時間を
+大幅に短縮する祈りを捧げる
+ゲージが表示される全ての溜め行動、詠唱が対象
+&lt;COL ffdc78&gt;LV UP毎に展開中のスタミナ消費減少
+LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_133</key>
+    <original xml:space="preserve">自身を中心に、生命治癒力を
+一時的に上昇させる魔法エリアを展開する
+フィールドシフトに対応
+&lt;COL ffdc78&gt;LV UP毎に離脱後の効果持続時間延長
+LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
+  </message>
 </resource>

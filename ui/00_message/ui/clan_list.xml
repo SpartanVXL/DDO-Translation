@@ -13,7 +13,7 @@
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITED</key>
-    <original xml:space="preserve">クランからの招待</original>
+    <original xml:space="preserve">スカウトエントリー招待</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TOP_EN</key>
@@ -52,5 +52,9 @@
   <message>
     <key>GMD_CLAN_LIST_NO_INVITED</key>
     <original xml:space="preserve">招待されていません</original>
+  </message>
+  <message>
+    <key>GMD_CLAN_LIST_TAB_INVITED_DIRECT</key>
+    <original xml:space="preserve">直接招待</original>
   </message>
 </resource>

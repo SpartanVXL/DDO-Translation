@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20995000_00_271</key>
-    <original xml:space="preserve">暴走する竜力</original>
+    <original xml:space="preserve">アルケム・エクストラクトを求めて</original>
   </message>
   <message>
     <key>q20995000_00_271</key>
@@ -10,25 +10,37 @@
   </message>
   <message>
     <key>q20995000_00_271</key>
-    <original xml:space="preserve">詳細ははっきりしないが、何らかの助けを欲する者が
-&lt;NAME AREA&gt;にいるらしい</original>
+    <original xml:space="preserve">&lt;NAME AREA&gt;からの報告によると
+魔物の勢力が一時的に増し、危険な状況にあるという</original>
   </message>
   <message>
     <key>q20995000_00_271</key>
-    <original xml:space="preserve">最近、メルゴダで、竜らしき影が
-徘徊しているって、もっぱらの噂だ
-俺も確かめに、その場所に行ったんだが
-噂は本当だった、まったくおぞましい光景だったよ
-あそこには近付かないのが身のためだ</original>
+    <original xml:space="preserve">《封じの玄室》――あの場所は、“かの者”の影響を
+もっとも強く受けた、秘術と関わりの深き場所――
+錬魔や黄金竜の力とした命の力を、かの者が
+どのように転用するかは我々にも分かりません
+ただ、想像だにできぬ恐ろしいその企みが成就
+する前に、手を打てればいいのですが――</original>
   </message>
   <message>
-    <key>q20995000_00_1143</key>
-    <original xml:space="preserve">竜力の源となる敵の正体を暴く</original>
+    <key>q20995000_00_1149</key>
+    <original xml:space="preserve">＜禊の神殿＞で邪悪な気配の源を探る</original>
   </message>
   <message>
-    <key>q20995000_00_806</key>
-    <original xml:space="preserve">遭遇した敵を討伐する</original>
-    <translation xml:space="preserve">Defeat the enemies encountered.</translation>
+    <key>q20995000_00_1150</key>
+    <original xml:space="preserve">邪悪な魔物を討伐する</original>
+  </message>
+  <message>
+    <key>q20995000_00_804</key>
+    <original xml:space="preserve">依頼者に報告する</original>
+  </message>
+  <message>
+    <key>q20995000_00_1151</key>
+    <original xml:space="preserve">＜メルゴダ王宮層＞でさらなる邪悪な気配の源を探る</original>
+  </message>
+  <message>
+    <key>q20995000_00_1152</key>
+    <original xml:space="preserve">邪悪の根源である敵を討伐する</original>
   </message>
   <message>
     <key>q20995000_00_804</key>

@@ -1,0 +1,25 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>TUTORIAL_STEP_471</key>
+    <original xml:space="preserve">戦技補佐画面から&lt;COL ffdc78&gt;《カスタムスキルパレット》&lt;/COL&gt;を
+２つ登録できるようになりました
+
+＜戦技補佐画面でのパレットの切り替え方法＞
+戦技補佐画面のスキル登録時に
+&lt;PADM&gt;【&lt;ICON PAD_RL&gt;】&lt;KEYM&gt;【&lt;ICON KB_SHIFT&gt;】&lt;/KEYM&gt;でパレットを切替え可能</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_472</key>
+    <original xml:space="preserve">セットした２つのパレットは
+いつでも切り替える事が可能です
+
+＜通常時のパレットの切り替え方法＞
+&lt;PADM&gt;【&lt;ICON PAD_R3&gt;】&lt;KEYM&gt;【&lt;ICON KB_B&gt;】&lt;/KEYM&gt;長押し
+
+※パレットが切り替わるまでは無防備になるため
+　戦闘中は注意しましょう
+
+※戦闘エリアでのパレット切り替えには
+　スタミナが消費されます</original>
+  </message>
+</resource>

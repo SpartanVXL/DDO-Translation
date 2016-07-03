@@ -67,18 +67,11 @@
     <translation xml:space="preserve">Change Opacity</translation>
   </message>
   <message>
-    <key>map_menumap_guide_resetcursor</key>
-    <original xml:space="preserve">カーソルリセット</original>
-    <translation xml:space="preserve">Reset Cursor</translation>
+    <key>map_menumap_guide_change_freemarker</key>
+    <original xml:space="preserve">フリーマーカーの切り替え</original>
   </message>
   <message>
-    <key>map_menumap_guide_changemap</key>
-    <original xml:space="preserve">マップ切替</original>
-    <translation xml:space="preserve">Change Map</translation>
-  </message>
-  <message>
-    <key>map_menumap_guide_speedup</key>
-    <original xml:space="preserve">カーソルスピードアップ</original>
-    <translation xml:space="preserve">Cursor Speed</translation>
+    <key>map_menumap_guide_change_land</key>
+    <original xml:space="preserve">大陸の切り替え</original>
   </message>
 </resource>

@@ -6,11 +6,12 @@
   </message>
   <message>
     <key>caplink_friend_list</key>
-    <original xml:space="preserve">カプトモリスト</original>
+    <original xml:space="preserve">Capfriend List</original>
   </message>
   <message>
     <key>caplink_talk</key>
     <original xml:space="preserve">カプトーク</original>
+    <translation xml:space="preserve">Captalk</translation>
   </message>
   <message>
     <key>caplink_search</key>
@@ -23,11 +24,13 @@
   </message>
   <message>
     <key>caplink_achievement</key>
-    <original xml:space="preserve">アチーブメント</original>
+    <original xml:space="preserve">カプトロフィー</original>
+    <translation xml:space="preserve">Captrophy</translation>
   </message>
   <message>
     <key>caplink_title_caplink_j</key>
     <original xml:space="preserve">カプリンクメニュー</original>
+    <translation xml:space="preserve">Caplink</translation>
   </message>
   <message>
     <key>caplink_title_menu_e</key>
@@ -148,6 +151,7 @@
   <message>
     <key>caplink_close_all</key>
     <original xml:space="preserve">非公開</original>
+    <translation xml:space="preserve">Private</translation>
   </message>
   <message>
     <key>caplink_allow</key>
@@ -157,18 +161,22 @@
   <message>
     <key>caplink_open_captomo</key>
     <original xml:space="preserve">カプトモのみ公開</original>
+    <translation xml:space="preserve">Public to Capfriends</translation>
   </message>
   <message>
     <key>caplink_close</key>
     <original xml:space="preserve">非公開</original>
+    <translation xml:space="preserve">Private</translation>
   </message>
   <message>
     <key>caplink_open_public</key>
     <original xml:space="preserve">全員に公開</original>
+    <translation xml:space="preserve">Public to Everyone</translation>
   </message>
   <message>
     <key>caplink_open</key>
     <original xml:space="preserve">公開</original>
+    <translation xml:space="preserve">Public</translation>
   </message>
   <message>
     <key>caplink_notice_invite_games</key>
@@ -197,27 +205,32 @@
   <message>
     <key>caplink_allosing_searched</key>
     <original xml:space="preserve">検索可能設定</original>
+    <translation xml:space="preserve">Can Be Searched</translation>
   </message>
   <message>
     <key>caplink_profile_expose</key>
     <original xml:space="preserve">プロフィールの公開</original>
+    <translation xml:space="preserve">Profile Visibility</translation>
   </message>
   <message>
     <key>caplink_profile_config</key>
     <original xml:space="preserve">プロフィール設定</original>
+    <translation xml:space="preserve">Profile Settings</translation>
   </message>
   <message>
     <key>caplink_expose_ddo_online_state</key>
     <original xml:space="preserve">オンライン状態の公開</original>
+    <translation xml:space="preserve">Online Status Visibility</translation>
   </message>
   <message>
     <key>caplink_expose_ddo_records</key>
     <original xml:space="preserve">プレイ情報の公開</original>
+    <translation xml:space="preserve">Play Data Visibility</translation>
   </message>
   <message>
     <key>caplink_ddo_config</key>
     <original xml:space="preserve">Dragon's Dogma Online設定</original>
-    <translation xml:space="preserve">Dragon's Dogma Online Config</translation>
+    <translation xml:space="preserve">Dragon's Dogma Online Settings</translation>
   </message>
   <message>
     <key>caplink_button_guid</key>
@@ -256,6 +269,7 @@
   <message>
     <key>caplink_comment</key>
     <original xml:space="preserve">コメント</original>
+    <translation xml:space="preserve">Comment</translation>
   </message>
   <message>
     <key>caplink_captomo_pass</key>
@@ -264,6 +278,7 @@
   <message>
     <key>caplink_capname</key>
     <original xml:space="preserve">カプネーム</original>
+    <translation xml:space="preserve">Capname</translation>
   </message>
   <message>
     <key>caplink_tab_captomo_appling</key>
@@ -677,6 +692,7 @@
   <message>
     <key>caplink_profile_open_captomo_from_captomo</key>
     <original xml:space="preserve">カプトモのカプトモまで公開</original>
+    <translation xml:space="preserve">Public to Capfriends of Capfriends</translation>
   </message>
   <message>
     <key>caplink_profile_reception_captomo</key>
@@ -862,5 +878,90 @@
   <message>
     <key>caplink_captomolist_caption_ignore_time</key>
     <original xml:space="preserve">設定日時</original>
+  </message>
+  <message>
+    <key>caplink_captomolist_caption_invited_content</key>
+    <original xml:space="preserve">ゲーム</original>
+  </message>
+  <message>
+    <key>caplink_captomolist_caption_invited_time</key>
+    <original xml:space="preserve">招待日時</original>
+  </message>
+  <message>
+    <key>caplink_tab_captomo_invited</key>
+    <original xml:space="preserve">招待一覧</original>
+  </message>
+  <message>
+    <key>caplink_submenu_confirm_invited_message</key>
+    <original xml:space="preserve">メッセージを確認する</original>
+  </message>
+  <message>
+    <key>caplink_dialog_delete_invited_message</key>
+    <original xml:space="preserve">%sからの招待を消去しますか？</original>
+  </message>
+  <message>
+    <key>caplink_dialog_delete_invited_message_done</key>
+    <original xml:space="preserve">%sからの招待を消去しました。</original>
+  </message>
+  <message>
+    <key>caplink_title_achievement_e</key>
+    <original xml:space="preserve">Captrophy</original>
+  </message>
+  <message>
+    <key>caplink_notice_receive_reward</key>
+    <original xml:space="preserve">報酬を受け取りました</original>
+  </message>
+  <message>
+    <key>caplink_achievement_complete</key>
+    <original xml:space="preserve">達成</original>
+  </message>
+  <message>
+    <key>caplink_achievement_not_complete</key>
+    <original xml:space="preserve">未達成</original>
+  </message>
+  <message>
+    <key>caplink_achievement_receive_enable</key>
+    <original xml:space="preserve">受け取り可</original>
+  </message>
+  <message>
+    <key>caplink_achievement_received</key>
+    <original xml:space="preserve">受け取り済</original>
+  </message>
+  <message>
+    <key>caplink_achievement_receive</key>
+    <original xml:space="preserve">受け取る</original>
+  </message>
+  <message>
+    <key>caplink_achievement_difficulty</key>
+    <original xml:space="preserve">難易度</original>
+  </message>
+  <message>
+    <key>caplink_achievement_condition</key>
+    <original xml:space="preserve">条件</original>
+  </message>
+  <message>
+    <key>caplink_achievement_reward</key>
+    <original xml:space="preserve">報酬</original>
+  </message>
+  <message>
+    <key>caplink_achievement_period_infinity</key>
+    <original xml:space="preserve">無制限</original>
+  </message>
+  <message>
+    <key>caplink_confirm_receive_reward</key>
+    <original xml:space="preserve">報酬を受け取りますか</original>
+  </message>
+  <message>
+    <key>caplink_ddon_fullname</key>
+    <original xml:space="preserve">ドラゴンズドグマオンライン</original>
+  </message>
+  <message>
+    <key>caplink_ddon_condition</key>
+    <original xml:space="preserve">DDON達成条件</original>
+  </message>
+  <message>
+    <key>caplink_ddon_condition_explanation</key>
+    <original xml:space="preserve">DDONで条件を達成すると
+他タイトルで報酬が受け取れます</original>
   </message>
 </resource>

@@ -1,0 +1,15 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>job_select_title</key>
+    <original xml:space="preserve">Job Select</original>
+  </message>
+  <message>
+    <key>job_orb_tree_complete_percentage</key>
+    <original xml:space="preserve">&lt;VAL&gt; %</original>
+  </message>
+  <message>
+    <key>job_orb_tree_err_not_release</key>
+    <original xml:space="preserve">まだ解放されていません
+&lt;VAL&gt;のジョブマスターを訪ねてください</original>
+  </message>
+</resource>

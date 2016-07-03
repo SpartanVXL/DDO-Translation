@@ -36,8 +36,8 @@
   </message>
   <message>
     <key>CLAN_STATUS_MSG_LOBBY</key>
-    <original xml:space="preserve">ロビー</original>
-    <translation xml:space="preserve">Lobby</translation>
+    <original xml:space="preserve">ワールド</original>
+    <translation xml:space="preserve">World</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_DATE</key>
@@ -105,5 +105,17 @@
     <key>CLAN_STATUS_MSG_GUIDE_EDIT</key>
     <original xml:space="preserve">クランステータスの編集</original>
     <translation xml:space="preserve">Edit Status</translation>
+  </message>
+  <message>
+    <key>CLAN_STATUS_MSG_DATE_LAST_LOGIN</key>
+    <original xml:space="preserve">最終ログイン日</original>
+  </message>
+  <message>
+    <key>CLAN_STATUS_MSG_GUIDE_CHECK_CLANAP</key>
+    <original xml:space="preserve">累計ポイントの確認</original>
+  </message>
+  <message>
+    <key>CLAN_STATUS_MSG_NOT_AFFILIATION_CLAN</key>
+    <original xml:space="preserve">クランに加入していません</original>
   </message>
 </resource>

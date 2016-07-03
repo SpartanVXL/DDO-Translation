@@ -147,6 +147,14 @@
     <translation xml:space="preserve">Disconnected</translation>
   </message>
   <message>
+    <key>hud_job_alchemist_normal_medal</key>
+    <original xml:space="preserve">遅延のエリクシル</original>
+  </message>
+  <message>
+    <key>hud_job_alchemist_change_medal</key>
+    <original xml:space="preserve">エリクシル切替</original>
+  </message>
+  <message>
     <key>hud_skill_move</key>
     <original xml:space="preserve">発動</original>
     <translation xml:space="preserve">Activate</translation>
@@ -174,7 +182,7 @@
   </message>
   <message>
     <key>hud_generalpurpose_clear_deco</key>
-    <original xml:space="preserve">目的を達成しました</original>
+    <original xml:space="preserve">Defeated the enemy !</original>
   </message>
   <message>
     <key>hud_change_tx_tank</key>
@@ -233,5 +241,33 @@
   <message>
     <key>hud_get_announce_rp_ex</key>
     <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT RP&gt;</original>
+  </message>
+  <message>
+    <key>hud_commongauge_button_barrage_square</key>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RL&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;&lt;/KEYM&gt;</original>
+  </message>
+  <message>
+    <key>hud_commontext_sorcery_cs13</key>
+    <original xml:space="preserve">氷柱を放つ：</original>
+  </message>
+  <message>
+    <key>hud_commontext_sorcery_cs14</key>
+    <original xml:space="preserve">アンカーを消滅させる：&lt;PADM&gt;&lt;ICON PAD_RR&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_E&gt;キー&lt;/KEYM&gt;</original>
+  </message>
+  <message>
+    <key>hud_commongauge_button_barrage_triangle</key>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RU&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;&lt;/KEYM&gt;</original>
+  </message>
+  <message>
+    <key>hud_commontext_all_reliefcancel</key>
+    <original xml:space="preserve">救済を中断する：&lt;PADM&gt;&lt;ICON PAD_RD&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;キー&lt;/KEYM&gt;</original>
+  </message>
+  <message>
+    <key>hud_commontext_cs_button_square</key>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;クリック&lt;/KEYM&gt;</original>
+  </message>
+  <message>
+    <key>hud_commontext_cs_button_triangle</key>
+    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RU&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;クリック&lt;/KEYM&gt;</original>
   </message>
 </resource>

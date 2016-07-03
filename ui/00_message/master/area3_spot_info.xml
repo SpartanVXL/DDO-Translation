@@ -26,9 +26,9 @@
   <message>
     <key>SPOT_INFO_</key>
     <original xml:space="preserve">魔女エメラダが住む森林の家
-彼女に教えを請うことができれば
-《ソーサラー》として破壊の魔術への入門が
-認められるかもしれない</original>
+彼女に教えを請うことで
+《ソーサラー》として破壊の魔術の
+深淵により近づくことができるだろう</original>
   </message>
   <message>
     <key>SPOT_INFO_</key>
@@ -92,6 +92,14 @@
   </message>
   <message>
     <key>SPOT_INFO_</key>
+    <original xml:space="preserve">リンウッドからミスリウ森林深部へと向かう一本道の
+中ほどにある、少し開けた場所。背の高い木々が多く
+鬱蒼としている上に靄が出やすく、開けた印象の割に
+視界が悪い。そのためか盗賊や魔物が潜みやすく
+森を抜ける際の一番の難所と言われる</original>
+  </message>
+  <message>
+    <key>SPOT_INFO_</key>
     <original xml:space="preserve">ポーンの民が渡る、この世ならざる空間
 世界の淵辺にあたるとされ、普通の人間には足を
 踏み入れるどころか、入口を見ることすらできない
@@ -115,10 +123,17 @@
   </message>
   <message>
     <key>SPOT_INFO_</key>
-    <original xml:space="preserve">森林奥にひっそりと残された遺跡
-いつの時代、何の目的で造られたのか一切が謎に
-包まれている。だが、床に敷かれたモザイクの
-図案から竜と覚者に関連するのではと推測される
-また、竜力が淀みやすい危険な場所でもある</original>
+    <original xml:space="preserve">普通の人間には入口を見ることすらできない
+世界の淵辺にあたるとされる空間の深層部
+この空間がどのようにして成り立ち、どこに
+続いていくのか未だ知る者はいない</original>
+  </message>
+  <message>
+    <key>SPOT_INFO_</key>
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【宝飾】の扉あり&lt;/COL&gt;
+ミスリウ森林から深部へ続く洞穴に埋もれていた古い
+地下墓地。夜間、どこからともなく森に現れる不死者
+達はこの墳墓から彷徨い出たものらしい。長く封じら
+れていたため、あまり見ない魔物が潜む可能性が高い</original>
   </message>
 </resource>

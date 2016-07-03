@@ -56,7 +56,7 @@
   </message>
   <message>
     <key>menu_clan</key>
-    <original xml:space="preserve">クラン</original>
+    <original xml:space="preserve">クランステータス</original>
     <translation xml:space="preserve">Clan</translation>
   </message>
   <message>
@@ -260,5 +260,9 @@
   <message>
     <key>menu_ps_items</key>
     <original xml:space="preserve"></original>
+  </message>
+  <message>
+    <key>menu_clan_management</key>
+    <original xml:space="preserve">クラン管理</original>
   </message>
 </resource>

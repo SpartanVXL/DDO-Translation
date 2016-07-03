@@ -1,4 +1,4 @@
-<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <original xml:space="preserve">いいか――
 覚者の初陣には白竜の特別な加護がある</original>
@@ -78,7 +78,6 @@ Fight with confidence!</translation>
   <message>
     <original xml:space="preserve">さあ、砦へ突入だ！</original>
   </message>
-    <translation xml:space="preserve">Go! Charge into the fort!</translation>
   <message>
     <original xml:space="preserve">おい、どこへいく！</original>
     <translation xml:space="preserve">Hey, where are you going!</translation>
@@ -287,6 +286,6 @@ We'll clean the fort in no time!</translation>
   </message>
   <message>
     <original xml:space="preserve">走る時は&lt;COL ff7575&gt;&lt;PADM&gt;移動方向に&lt;KEYN L_STICK&gt;を倒しながら押し込み&lt;KEYM&gt;同じ移動キー２回押し&lt;/KEYM&gt;&lt;/COL&gt;でダッシュだ！</original>
-    <translation xml:space="preserve">While running,&lt;COL ff7575&gt;&lt;PADM&gt;press down on the&lt;KEYN L_STICK&gt;while pushing in a direction&lt;KEYM&gt;tap the same directional key twice&lt;/KEYM&gt;&lt;/COL&gt;to sprint!</translation> 
+    <translation xml:space="preserve">While running,&lt;COL ff7575&gt;&lt;PADM&gt;press down on the&lt;KEYN L_STICK&gt;while pushing in a direction&lt;KEYM&gt;tap the same directional key twice&lt;/KEYM&gt;&lt;/COL&gt;to sprint!</translation>
   </message>
 </resource>

@@ -266,7 +266,7 @@
   </message>
   <message>
     <key>poptop_clan_invite</key>
-    <original xml:space="preserve">クランからの招待</original>
+    <original xml:space="preserve">スカウトエントリー招待</original>
     <translation xml:space="preserve">View Invites</translation>
   </message>
   <message>
@@ -361,5 +361,33 @@
   <message>
     <key>poptop_entryboard_ready</key>
     <original xml:space="preserve">準備完了</original>
+  </message>
+  <message>
+    <key>poptop_clan_interval_now</key>
+    <original xml:space="preserve">インターバル期間中</original>
+  </message>
+  <message>
+    <key>poptop_entryboard_less_member_go</key>
+    <original xml:space="preserve">少人数でパーティーを組む</original>
+  </message>
+  <message>
+    <key>poptop_depositbox_menutop_en</key>
+    <original xml:space="preserve">Menu</original>
+  </message>
+  <message>
+    <key>poptop_depositbox_menutop_jp</key>
+    <original xml:space="preserve">メニュー</original>
+  </message>
+  <message>
+    <key>poptop_depositbox_menu_01</key>
+    <original xml:space="preserve">通常枠</original>
+  </message>
+  <message>
+    <key>poptop_clan_invite_direct</key>
+    <original xml:space="preserve">直接招待</original>
+  </message>
+  <message>
+    <key>poptop_depositbox_menu_ex01</key>
+    <original xml:space="preserve">拡張枠</original>
   </message>
 </resource>

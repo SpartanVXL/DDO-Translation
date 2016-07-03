@@ -1473,7 +1473,7 @@ Are you sure you want to exit configuration?</translation>
   </message>
   <message>
     <key>OPTION_MSG_TAB_EFFECT</key>
-    <original xml:space="preserve">エフェクト</original>
+    <original xml:space="preserve">効果</original>
     <translation xml:space="preserve">Effects</translation>
   </message>
   <message>
@@ -1578,5 +1578,53 @@ Are you sure you want to exit configuration?</translation>
     <key>OPTION_MSG_UI_BIGSIZE</key>
     <original xml:space="preserve">UIを拡大表示する (解像度1920×1080 以上で有効)</original>
     <translation xml:space="preserve">Enlarge UI (Resolution 1920×1080 or higher)</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_CAPTION_CLAN</key>
+    <original xml:space="preserve">クラン</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_CLAN_PRIVACY_NOTICE</key>
+    <original xml:space="preserve">クランメンバーへ自分のステータスを通知する</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY</key>
+    <original xml:space="preserve">他プレイヤーのエフェクト透明度</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_NORMAL</key>
+    <original xml:space="preserve">通常</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_THIN</key>
+    <original xml:space="preserve">薄い</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_NONE</key>
+    <original xml:space="preserve">無し</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_LIGHT_SOURCE_NUM</key>
+    <original xml:space="preserve">光源の個数</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_LIGHT_SOURCE_NUM_MANY</key>
+    <original xml:space="preserve">多い</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_LIGHT_SOURCE_NUM_NORMAL</key>
+    <original xml:space="preserve">通常</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_LIGHT_SOURCE_NUM_FEW</key>
+    <original xml:space="preserve">少ない</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_MORETHIN</key>
+    <original xml:space="preserve">かなり薄い</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_CAPTION_LIGHT</key>
+    <original xml:space="preserve">ライティング全般</original>
   </message>
 </resource>

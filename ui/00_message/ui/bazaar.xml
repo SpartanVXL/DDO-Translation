@@ -502,4 +502,16 @@ or the exhibition was canceled)</translation>
     <original xml:space="preserve">一致する情報が多いため、すべてを取得できませんでした</original>
     <translation xml:space="preserve">There were too many results.</translation>
   </message>
+  <message>
+    <key>bazaar_msg_exhibit_set_number_limit</key>
+    <original xml:space="preserve">※&lt;VAL&gt; 個まで</original>
+  </message>
+  <message>
+    <key>bazaar_msg_disp_access_frequency_error</key>
+    <original xml:space="preserve">サーバーへのアクセス頻度が高いため
+一定時間、商品検索のご利用を制限いたします
+時間を置いてもう一度お試しいただくか
+アクセス頻度を下げてご利用いただきますよう
+お願いいたします</original>
+  </message>
 </resource>

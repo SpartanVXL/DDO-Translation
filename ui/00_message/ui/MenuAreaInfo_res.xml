@@ -30,11 +30,19 @@
   </message>
   <message>
     <key>mai_msg_weekly</key>
-    <original xml:space="preserve">今週の獲得ポイント</original>
-    <translation xml:space="preserve">Gained this week</translation>
+    <original xml:space="preserve">今週の獲得AP</original>
+    <translation xml:space="preserve">AP gained this week</translation>
   </message>
   <message>
     <key>mai_msg_rank</key>
     <original xml:space="preserve">Rank</original>
+  </message>
+  <message>
+    <key>mai_msg_clan_point_total</key>
+    <original xml:space="preserve">クラン累計AP</original>
+  </message>
+  <message>
+    <key>mai_msg_clan_point_max</key>
+    <original xml:space="preserve">クラン最大貢献AP</original>
   </message>
 </resource>

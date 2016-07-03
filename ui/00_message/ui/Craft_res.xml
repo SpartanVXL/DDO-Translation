@@ -220,7 +220,8 @@
   </message>
   <message>
     <key>DIALOG_CONFIRM_START</key>
-    <original xml:space="preserve">このアイテムを作成しますか？</original>
+    <original xml:space="preserve">このアイテムを通常作成します
+よろしいですか？</original>
     <translation xml:space="preserve">Are you sure you want to craft this item?</translation>
   </message>
   <message>
@@ -942,12 +943,16 @@ as well.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>TAB_CLASS_UP_EXAM</key>
-    <original xml:space="preserve">昇格試験</original>
+    <original xml:space="preserve">特殊</original>
+    <!-- NEEDS REVIEW -->
+    <!--昇格試験-->
     <translation xml:space="preserve">Promotion</translation>
   </message>
   <message>
     <key>CATEGORY_CLASS_UP_EXAM</key>
-    <original xml:space="preserve">試験一覧</original>
+    <original xml:space="preserve">昇格試験</original>
+    <!-- NEEDS REVIEW -->
+    <!--試験一覧-->
     <translation xml:space="preserve">Promotion</translation>
   </message>
   <message>
@@ -984,5 +989,66 @@ has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</tran
   <message>
     <key>COLOR_CHANGE_DISABLE</key>
     <original xml:space="preserve">このアイテムはカラー変更できません</original>
+  </message>
+  <message>
+    <key>CATEGORY_FURNITURE</key>
+    <original xml:space="preserve">家具</original>
+  </message>
+  <message>
+    <key>CRAFT_FURNITURE_NOTHING</key>
+    <original xml:space="preserve">家具レシピがありません</original>
+  </message>
+  <message>
+    <key>ERROR_CANT_MAKE_FURNITURE</key>
+    <original xml:space="preserve">作成済み、または作成中の家具は選択できません</original>
+  </message>
+  <message>
+    <key>DIALOG_USE_FUNITURE_GUIDE</key>
+    <original xml:space="preserve">受け取った家具アイテムは
+覚者の自室で配置することができます</original>
+  </message>
+  <message>
+    <key>RECIPE_CATE_MATERIAL_AREA</key>
+    <original xml:space="preserve">地域素材</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_CHOICE_CREATION_TYPE</key>
+    <original xml:space="preserve">作成方法を選んでください</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_TYPE_START</key>
+    <original xml:space="preserve">通常作成</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_TYPE_EX_CREATE</key>
+    <original xml:space="preserve">黄金石を使用して作成</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_EX_CREATE</key>
+    <original xml:space="preserve">アイテムの作成がその場で完了します
+&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;を消費して作成しますか？
+(所持数：&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>DIALOG_EX_CREATE</key>
+    <original xml:space="preserve">アイテムの作成が完了しました</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_EX_CREATE_ERROR</key>
+    <original xml:space="preserve">黄金石が不足しています
+その場で作成完了するには&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;が必要です
+(所持数：&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_TYPE_JUMP_ONLINESHOP</key>
+    <original xml:space="preserve">オンラインショップを開く</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_CHOICE_STOP_TYPE</key>
+    <original xml:space="preserve">まだアイテム作成が完了していません</original>
+  </message>
+  <message>
+    <key>DIALOG_CONFIRM_TYPE_STOP</key>
+    <original xml:space="preserve">アイテム生産を中止</original>
   </message>
 </resource>

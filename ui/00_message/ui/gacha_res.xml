@@ -237,4 +237,9 @@
     <key>gacha_msg_diable_ticket_to_gacha</key>
     <original xml:space="preserve">このトレジャーズロットではシルバーチケットは使用できません</original>
   </message>
+  <message>
+    <key>gacha_msg_annotation</key>
+    <original xml:space="preserve">※提供確率は小数点第3位を四捨五入して表示しています
+　このため、合計が100%にならない場合もございます</original>
+  </message>
 </resource>

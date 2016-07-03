@@ -31,7 +31,31 @@
   </message>
   <message>
     <key>ACHIEVEMENT_MSG_WALLPAPER_EXPLANATION</key>
-    <original xml:space="preserve">獲得した背景は覚者プロフィールで使用できます</original>
+    <original xml:space="preserve">背景を獲得すると、覚者プロフィールで使用できます</original>
     <translation xml:space="preserve">Unlocked backgrounds can be used in the Arisen profile.</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_MSG_FURNITURE</key>
+    <original xml:space="preserve">家具レシピ</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_MSG_NOT_COMPLETE</key>
+    <original xml:space="preserve">未達成</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_MSG_RECEIVE_ENABLE</key>
+    <original xml:space="preserve">受け取り可</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_MSG_RECEIVED</key>
+    <original xml:space="preserve">受け取り済</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_MSG_FURNITURE_EXPLANATION</key>
+    <original xml:space="preserve">家具レシピを獲得すると、クラフトで家具が作成できます</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_MSG_RECEIVE_NOTICE</key>
+    <original xml:space="preserve">アチーブメント報酬を受け取りました</original>
   </message>
 </resource>

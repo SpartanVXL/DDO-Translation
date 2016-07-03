@@ -86,6 +86,14 @@
   </message>
   <message>
     <key>SPOT_INFO_</key>
+    <original xml:space="preserve">テルの西、《アーク》に近い通路
+元は特筆すべきこともないただの通路だったが
+付近を通りかかった人々から、ここで耳慣れぬ
+金属が擦れるような音を聞いたという噂が
+流れ始めたため、調査の対象となった</original>
+  </message>
+  <message>
+    <key>SPOT_INFO_</key>
     <original xml:space="preserve">旧時代、各地に祭られた白竜の祭壇の一つ
 動乱のおりに一度は廃墟化したものの
 現在は見習い騎士や新人覚者の修行場として
@@ -138,5 +146,13 @@
 圧倒的な存在感は他に比類するものがなく、この
 物体が現在レスタニアに存在するあらゆる技術
 魔術の域を大きく凌駕していることは間違いない</original>
+  </message>
+  <message>
+    <key>SPOT_INFO_</key>
+    <original xml:space="preserve">&lt;COL ffdc78&gt;【宝飾】の扉あり&lt;/COL&gt;
+テルの西に落下したアークの裏側から続く別階層
+表側とは異なり、こちらには恐るべき危険性を
+秘めた大型の錬魔も確認されたという。後に神殿を
+攻める足がかりとして準備されていた可能性がある</original>
   </message>
 </resource>

@@ -341,6 +341,18 @@
     <original xml:space="preserve">リビングアーマーを200体討伐</original>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_662</key>
+    <original xml:space="preserve">デスナイトを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_663</key>
+    <original xml:space="preserve">デスナイトを100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_664</key>
+    <original xml:space="preserve">デスナイトを200体討伐</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_668</key>
     <original xml:space="preserve">スケルトンアルケミーを30体討伐</original>
     <translation xml:space="preserve">Kill 30 Alchemic Skeletons</translation>
@@ -839,6 +851,18 @@
     <original xml:space="preserve">グリフィンアルケミーを100体討伐</original>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_980</key>
+    <original xml:space="preserve">ナイトメアを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_981</key>
+    <original xml:space="preserve">ナイトメアを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_982</key>
+    <original xml:space="preserve">ナイトメアを100体討伐</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_983</key>
     <original xml:space="preserve">《ジュエルアイ》系エネミーを30体討伐</original>
   </message>
@@ -849,6 +873,18 @@
   <message>
     <key>ACHIEVEMENT_INFO_985</key>
     <original xml:space="preserve">《ジュエルアイ》系エネミーを300体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_995</key>
+    <original xml:space="preserve">アルケミーアイを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_996</key>
+    <original xml:space="preserve">アルケミーアイを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_997</key>
+    <original xml:space="preserve">アルケミーアイを100体討伐</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_998</key>
@@ -944,6 +980,54 @@
     <original xml:space="preserve">エンプレスゴーストを100体討伐</original>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1022</key>
+    <original xml:space="preserve">ドレイクを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1023</key>
+    <original xml:space="preserve">ドレイクを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1024</key>
+    <original xml:space="preserve">ドレイクを100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1300</key>
+    <original xml:space="preserve">ミストドレイクを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1301</key>
+    <original xml:space="preserve">ミストドレイクを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1302</key>
+    <original xml:space="preserve">ミストドレイクを100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1025</key>
+    <original xml:space="preserve">ウィルムを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1026</key>
+    <original xml:space="preserve">ウィルムを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1027</key>
+    <original xml:space="preserve">ウィルムを100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1303</key>
+    <original xml:space="preserve">ミストウィルムを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1304</key>
+    <original xml:space="preserve">ミストウィルムを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1305</key>
+    <original xml:space="preserve">ミストウィルムを100体討伐</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1028</key>
     <original xml:space="preserve">リンドブルムを10体討伐</original>
     <translation xml:space="preserve">Kill 10 Lindwurms</translation>
@@ -1016,6 +1100,18 @@
     <translation xml:space="preserve">Kill 100 《Orc Leader》 enemies</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1070</key>
+    <original xml:space="preserve">ギガン・マキナを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1071</key>
+    <original xml:space="preserve">ギガン・マキナを30体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1072</key>
+    <original xml:space="preserve">ギガン・マキナを100体討伐</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1082</key>
     <original xml:space="preserve">ズールを1体討伐</original>
   </message>
@@ -1044,57 +1140,73 @@
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1091</key>
-    <original xml:space="preserve">白竜にブラッドオーブを捧げ
-覚者の体力値を初めて強化</original>
+    <original xml:space="preserve">竜力の継承で覚者の体力値を初めて強化</original>
+    <!-- NEEDS REVIEW -->
+    <!--白竜にブラッドオーブを捧げ
+覚者の体力値を初めて強化-->
     <translation xml:space="preserve">Get your first Health upgrade by
 offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1092</key>
-    <original xml:space="preserve">白竜にブラッドオーブを捧げ
-覚者の体力値を20回強化</original>
+    <original xml:space="preserve">竜力の継承で覚者の体力値を20回強化</original>
+    <!-- NEEDS REVIEW -->
+    <!--白竜にブラッドオーブを捧げ
+覚者の体力値を20回強化-->
     <translation xml:space="preserve">Increase Health 20 times by
 offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1093</key>
-    <original xml:space="preserve">白竜にブラッドオーブを捧げ
-覚者のスタミナ値を初めて強化</original>
+    <original xml:space="preserve">竜力の継承で覚者のスタミナ値を初めて強化</original>
+    <!-- NEEDS REVIEW -->
+    <!--白竜にブラッドオーブを捧げ
+覚者のスタミナ値を初めて強化-->
     <translation xml:space="preserve">Get your first Stamina upgrade by
 offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1094</key>
-    <original xml:space="preserve">白竜にブラッドオーブを捧げ
-覚者のスタミナ値を28回強化</original>
+    <original xml:space="preserve">竜力の継承で覚者のスタミナ値を28回強化</original>
+    <!-- NEEDS REVIEW -->
+    <!--白竜にブラッドオーブを捧げ
+覚者のスタミナ値を28回強化-->
     <translation xml:space="preserve">Increase Stamina 28 times by
 offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1095</key>
-    <original xml:space="preserve">白竜にブラッドオーブを捧げ
-覚者のアビリティコストを初めて強化</original>
+    <original xml:space="preserve">竜力の継承で覚者のアビリティコストを初めて強化</original>
+    <!-- NEEDS REVIEW -->
+    <!--白竜にブラッドオーブを捧げ
+覚者のアビリティコストを初めて強化-->
     <translation xml:space="preserve">Get your first Ability Cost upgrade by
 offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1096</key>
-    <original xml:space="preserve">白竜にブラッドオーブを捧げ
-覚者のアビリティコストを12回強化</original>
+    <original xml:space="preserve">竜力の継承で覚者のアビリティコストを12回強化</original>
+    <!-- NEEDS REVIEW -->
+    <!--白竜にブラッドオーブを捧げ
+覚者のアビリティコストを12回強化-->
     <translation xml:space="preserve">Increase Ability Cost 12 times by
 offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1097</key>
-    <original xml:space="preserve">白竜にブラッドオーブを捧げ
-メインポーン契約枠を初めて増加</original>
+    <original xml:space="preserve">竜力の継承でメインポーン契約枠を初めて増加</original>
+    <!-- NEEDS REVIEW -->
+    <!--白竜にブラッドオーブを捧げ
+メインポーン契約枠を初めて増加-->
     <translation xml:space="preserve">Increase your main pawn contract limit for the first time
 by offering Blood Orbs to the White Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1098</key>
-    <original xml:space="preserve">白竜にブラッドオーブを捧げ
-サポートポーン雇用枠を2回増加</original>
+    <original xml:space="preserve">竜力の継承でサポートポーン雇用枠を2回増加</original>
+    <!-- NEEDS REVIEW -->
+    <!--白竜にブラッドオーブを捧げ
+サポートポーン雇用枠を2回増加-->
     <translation xml:space="preserve">Increase your main pawn contract limit 2 times
 by offering Blood Orbs to the White Dragon</translation>
   </message>
@@ -1111,6 +1223,11 @@ by offering Blood Orbs to the White Dragon</translation>
     <translation xml:space="preserve">Reach level 40 as a Fighter</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1101</key>
+    <original xml:space="preserve">ファイターのジョブレベルが
+60に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1102</key>
     <original xml:space="preserve">ハンターのジョブレベルが
 10に到達</original>
@@ -1121,6 +1238,11 @@ by offering Blood Orbs to the White Dragon</translation>
     <original xml:space="preserve">ハンターのジョブレベルが
 40に到達</original>
     <translation xml:space="preserve">Reach level 40 as a Hunter</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1104</key>
+    <original xml:space="preserve">ハンターのジョブレベルが
+60に到達</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1105</key>
@@ -1135,6 +1257,11 @@ by offering Blood Orbs to the White Dragon</translation>
     <translation xml:space="preserve">Reach level 40 as a Priest</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1107</key>
+    <original xml:space="preserve">プリーストのジョブレベルが
+60に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1108</key>
     <original xml:space="preserve">シールドセージのジョブレベルが
 10に到達</original>
@@ -1145,6 +1272,11 @@ by offering Blood Orbs to the White Dragon</translation>
     <original xml:space="preserve">シールドセージのジョブレベルが
 40に到達</original>
     <translation xml:space="preserve">Reach level 40 as a Shield Sage</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1110</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが
+60に到達</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1111</key>
@@ -1159,6 +1291,11 @@ by offering Blood Orbs to the White Dragon</translation>
     <translation xml:space="preserve">Reach level 40 as a Seeker</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1113</key>
+    <original xml:space="preserve">シーカーのジョブレベルが
+60に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1114</key>
     <original xml:space="preserve">ソーサラーのジョブレベルが
 10に到達</original>
@@ -1171,6 +1308,11 @@ by offering Blood Orbs to the White Dragon</translation>
     <translation xml:space="preserve">Reach level 40 as a Sorcerer</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1116</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが
+60に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1117</key>
     <original xml:space="preserve">エレメントアーチャーのジョブレベルが
 10に到達</original>
@@ -1181,6 +1323,11 @@ by offering Blood Orbs to the White Dragon</translation>
 40に到達</original>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1119</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが
+60に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1120</key>
     <original xml:space="preserve">ウォリアーのジョブレベルが
 10に到達</original>
@@ -1189,6 +1336,55 @@ by offering Blood Orbs to the White Dragon</translation>
     <key>ACHIEVEMENT_INFO_1121</key>
     <original xml:space="preserve">ウォリアーのジョブレベルが
 40に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1122</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが
+60に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1123</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが
+10に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1124</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが
+40に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1125</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが
+60に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1126</key>
+    <original xml:space="preserve">ファイター・シーカー・ウォリアーの
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1127</key>
+    <original xml:space="preserve">ハンター・エレメントアーチャーの
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1128</key>
+    <original xml:space="preserve">シールドセージ・アルケミストの
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1129</key>
+    <original xml:space="preserve">プリースト・エレメントアーチャーの
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1130</key>
+    <original xml:space="preserve">プリースト・ソーサラー・シールドセージの
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1132</key>
+    <original xml:space="preserve">9種のジョブレベルが60に到達</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1133</key>
@@ -1268,6 +1464,11 @@ level 10 as a Fighter</translation>
 level 40 as a Fighter</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1148</key>
+    <original xml:space="preserve">メインポーン（ファイター）の
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1149</key>
     <original xml:space="preserve">メインポーン（ハンター）の
 ジョブレベルが10に到達</original>
@@ -1280,6 +1481,11 @@ level 10 as a Hunter</translation>
 ジョブレベルが40に到達</original>
     <translation xml:space="preserve">Have a main pawn reach
 level 40 as a Hunter</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1151</key>
+    <original xml:space="preserve">メインポーン（ハンター）の
+ジョブレベルが60に到達</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1152</key>
@@ -1296,6 +1502,11 @@ level 10 as a Priest</translation>
 level 40 as a Priest</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1154</key>
+    <original xml:space="preserve">メインポーン（プリースト）の
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1155</key>
     <original xml:space="preserve">メインポーン（シールドセージ）の
 ジョブレベルが10に到達</original>
@@ -1308,6 +1519,11 @@ level 10 as a Shield Sage</translation>
 ジョブレベルが40に到達</original>
     <translation xml:space="preserve">Have a main pawn reach
 level 40 as a Shield Sage</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1157</key>
+    <original xml:space="preserve">メインポーン（シールドセージ）の
+ジョブレベルが60に到達</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1158</key>
@@ -1324,6 +1540,11 @@ level 10 as a Sorcerer</translation>
 level 40 as a Sorcerer</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1160</key>
+    <original xml:space="preserve">メインポーン（ソーサラー）の
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1161</key>
     <original xml:space="preserve">メインポーン（シーカー）の
 ジョブレベルが10に到達</original>
@@ -1338,6 +1559,11 @@ level 10 as a Seeker</translation>
 level 40 as a Seeker</translation>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1163</key>
+    <original xml:space="preserve">メインポーン（シーカー）の
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1164</key>
     <original xml:space="preserve">メインポーン（エレメントアーチャー）の
 ジョブレベルが10に到達</original>
@@ -1348,6 +1574,11 @@ level 40 as a Seeker</translation>
 ジョブレベルが40に到達</original>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1166</key>
+    <original xml:space="preserve">メインポーン（エレメントアーチャー）の
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1167</key>
     <original xml:space="preserve">メインポーン（ウォリアー）の
 ジョブレベルが10に到達</original>
@@ -1356,6 +1587,26 @@ level 40 as a Seeker</translation>
     <key>ACHIEVEMENT_INFO_1168</key>
     <original xml:space="preserve">メインポーン（ウォリアー）の
 ジョブレベルが40に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1169</key>
+    <original xml:space="preserve">メインポーン（ウォリアー）の
+ジョブレベルが60に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1170</key>
+    <original xml:space="preserve">メインポーン（アルケミスト）の
+ジョブレベルが10に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1171</key>
+    <original xml:space="preserve">メインポーン（アルケミスト）の
+ジョブレベルが40に到達</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1172</key>
+    <original xml:space="preserve">メインポーン（アルケミスト）の
+ジョブレベルが60に到達</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1173</key>
@@ -1370,6 +1621,11 @@ level 5 in crafting</translation>
 15に到達</original>
     <translation xml:space="preserve">Have a main pawn reach
 level 15 in crafting</translation>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1175</key>
+    <original xml:space="preserve">メインポーンのクラフトレベルが
+30に到達</original>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1176</key>
@@ -3982,5 +4238,1097 @@ level 15 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_1724</key>
     <original xml:space="preserve">エレメントアーチャーのジョブレベルが60になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1784</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが2になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1785</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが3になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1786</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが4になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1787</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが5になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1788</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが6になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1789</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが7になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1790</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが8になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1791</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが9になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1792</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが10になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1793</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが11になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1794</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが12になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1795</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが13になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1796</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが14になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1797</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが15になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1798</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが16になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1799</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが17になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1800</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが18になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1801</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが19になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1802</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが20になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1803</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが21になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1804</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが22になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1805</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが23になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1806</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが24になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1807</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが25になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1808</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが26になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1809</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが27になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1810</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが28になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1811</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが29になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1812</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが30になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1813</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが31になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1814</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが32になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1815</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが33になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1816</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが34になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1817</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが35になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1818</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが36になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1819</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが37になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1820</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが38になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1821</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが39になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1822</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが40になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1823</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが41になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1824</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが42になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1825</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが43になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1826</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが44になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1827</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが45になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1828</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが46になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1829</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが47になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1830</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが48になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1831</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが49になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1832</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが50になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1833</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが51になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1834</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが52になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1835</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが53になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1836</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが54になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1837</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが55になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1838</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが56になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1839</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが57になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1840</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが58になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1841</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが59になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1842</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが60になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2285</key>
+    <original xml:space="preserve">クエスト「レスタニアの命運」クリア</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2289</key>
+    <original xml:space="preserve">グランドミッションを10回攻略</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2290</key>
+    <original xml:space="preserve">グランドミッションを50回攻略</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2291</key>
+    <original xml:space="preserve">グランドミッションを100回攻略</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2292</key>
+    <original xml:space="preserve">エクストリームミッションを10回攻略</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2293</key>
+    <original xml:space="preserve">エクストリームミッションを50回攻略</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2294</key>
+    <original xml:space="preserve">エクストリームミッションを100回攻略</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2308</key>
+    <original xml:space="preserve">鑑定交換で10個鑑定</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2309</key>
+    <original xml:space="preserve">鑑定交換で50個鑑定</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2310</key>
+    <original xml:space="preserve">鑑定交換で100個鑑定</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2311</key>
+    <original xml:space="preserve">自室を入手した</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2312</key>
+    <original xml:space="preserve">家具を作成した</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2313</key>
+    <original xml:space="preserve">パートナーポーンの好感度を上げた</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2314</key>
+    <original xml:space="preserve">パートナーポーンの好感度をさらに上げた</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2315</key>
+    <original xml:space="preserve">パートナーポーンの好感度をもっと上げた</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2316</key>
+    <original xml:space="preserve">《侵食ホブゴブリン》系エネミーを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2318</key>
+    <original xml:space="preserve">侵食ダイアウルフを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2319</key>
+    <original xml:space="preserve">ボルトグリムワーグを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2320</key>
+    <original xml:space="preserve">《スカーレット》系エネミーを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2321</key>
+    <original xml:space="preserve">エリミネーターを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2322</key>
+    <original xml:space="preserve">ガーゴイルを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2323</key>
+    <original xml:space="preserve">ストリクスを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2324</key>
+    <original xml:space="preserve">侵食スノーハーピーを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2325</key>
+    <original xml:space="preserve">《ゴアサイクロプス》系エネミーを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2326</key>
+    <original xml:space="preserve">侵食グリフィンを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2327</key>
+    <original xml:space="preserve">マンイーターを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2328</key>
+    <original xml:space="preserve">ゴーストを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2329</key>
+    <original xml:space="preserve">フロスト・マキナを50体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2330</key>
+    <original xml:space="preserve">スカージを1体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2331</key>
+    <original xml:space="preserve">スカージを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2332</key>
+    <original xml:space="preserve">スカージを100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2333</key>
+    <original xml:space="preserve">カースドラゴンを1体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2334</key>
+    <original xml:space="preserve">カースドラゴンを10体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2335</key>
+    <original xml:space="preserve">カースドラゴンを100体討伐</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1946</key>
+    <original xml:space="preserve">ファイターのジョブレベルが61になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1947</key>
+    <original xml:space="preserve">ファイターのジョブレベルが62になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1948</key>
+    <original xml:space="preserve">ファイターのジョブレベルが63になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1949</key>
+    <original xml:space="preserve">ファイターのジョブレベルが64になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1950</key>
+    <original xml:space="preserve">ファイターのジョブレベルが65になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1951</key>
+    <original xml:space="preserve">ファイターのジョブレベルが66になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1952</key>
+    <original xml:space="preserve">ファイターのジョブレベルが67になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1953</key>
+    <original xml:space="preserve">ファイターのジョブレベルが68になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1954</key>
+    <original xml:space="preserve">ファイターのジョブレベルが69になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1955</key>
+    <original xml:space="preserve">ファイターのジョブレベルが70になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1956</key>
+    <original xml:space="preserve">ファイターのジョブレベルが71になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1957</key>
+    <original xml:space="preserve">ファイターのジョブレベルが72になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1958</key>
+    <original xml:space="preserve">ファイターのジョブレベルが73になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1959</key>
+    <original xml:space="preserve">ファイターのジョブレベルが74になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1960</key>
+    <original xml:space="preserve">ファイターのジョブレベルが75になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1961</key>
+    <original xml:space="preserve">ファイターのジョブレベルが76になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1962</key>
+    <original xml:space="preserve">ファイターのジョブレベルが77になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1963</key>
+    <original xml:space="preserve">ファイターのジョブレベルが78になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1964</key>
+    <original xml:space="preserve">ファイターのジョブレベルが79になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1965</key>
+    <original xml:space="preserve">ファイターのジョブレベルが80になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1966</key>
+    <original xml:space="preserve">シーカーのジョブレベルが61になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1967</key>
+    <original xml:space="preserve">シーカーのジョブレベルが62になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1968</key>
+    <original xml:space="preserve">シーカーのジョブレベルが63になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1969</key>
+    <original xml:space="preserve">シーカーのジョブレベルが64になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1970</key>
+    <original xml:space="preserve">シーカーのジョブレベルが65になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1971</key>
+    <original xml:space="preserve">シーカーのジョブレベルが66になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1972</key>
+    <original xml:space="preserve">シーカーのジョブレベルが67になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1973</key>
+    <original xml:space="preserve">シーカーのジョブレベルが68になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1974</key>
+    <original xml:space="preserve">シーカーのジョブレベルが69になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1975</key>
+    <original xml:space="preserve">シーカーのジョブレベルが70になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1976</key>
+    <original xml:space="preserve">シーカーのジョブレベルが71になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1977</key>
+    <original xml:space="preserve">シーカーのジョブレベルが72になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1978</key>
+    <original xml:space="preserve">シーカーのジョブレベルが73になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1979</key>
+    <original xml:space="preserve">シーカーのジョブレベルが74になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1980</key>
+    <original xml:space="preserve">シーカーのジョブレベルが75になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1981</key>
+    <original xml:space="preserve">シーカーのジョブレベルが76になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1982</key>
+    <original xml:space="preserve">シーカーのジョブレベルが77になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1983</key>
+    <original xml:space="preserve">シーカーのジョブレベルが78になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1984</key>
+    <original xml:space="preserve">シーカーのジョブレベルが79になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1985</key>
+    <original xml:space="preserve">シーカーのジョブレベルが80になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1986</key>
+    <original xml:space="preserve">ハンターのジョブレベルが61になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1987</key>
+    <original xml:space="preserve">ハンターのジョブレベルが62になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1988</key>
+    <original xml:space="preserve">ハンターのジョブレベルが63になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1989</key>
+    <original xml:space="preserve">ハンターのジョブレベルが64になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1990</key>
+    <original xml:space="preserve">ハンターのジョブレベルが65になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1991</key>
+    <original xml:space="preserve">ハンターのジョブレベルが66になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1992</key>
+    <original xml:space="preserve">ハンターのジョブレベルが67になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1993</key>
+    <original xml:space="preserve">ハンターのジョブレベルが68になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1994</key>
+    <original xml:space="preserve">ハンターのジョブレベルが69になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1995</key>
+    <original xml:space="preserve">ハンターのジョブレベルが70になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1996</key>
+    <original xml:space="preserve">ハンターのジョブレベルが71になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1997</key>
+    <original xml:space="preserve">ハンターのジョブレベルが72になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1998</key>
+    <original xml:space="preserve">ハンターのジョブレベルが73になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1999</key>
+    <original xml:space="preserve">ハンターのジョブレベルが74になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2000</key>
+    <original xml:space="preserve">ハンターのジョブレベルが75になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2001</key>
+    <original xml:space="preserve">ハンターのジョブレベルが76になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2002</key>
+    <original xml:space="preserve">ハンターのジョブレベルが77になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2003</key>
+    <original xml:space="preserve">ハンターのジョブレベルが78になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2004</key>
+    <original xml:space="preserve">ハンターのジョブレベルが79になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2005</key>
+    <original xml:space="preserve">ハンターのジョブレベルが80になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2006</key>
+    <original xml:space="preserve">プリーストのジョブレベルが61になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2007</key>
+    <original xml:space="preserve">プリーストのジョブレベルが62になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2008</key>
+    <original xml:space="preserve">プリーストのジョブレベルが63になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2009</key>
+    <original xml:space="preserve">プリーストのジョブレベルが64になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2010</key>
+    <original xml:space="preserve">プリーストのジョブレベルが65になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2011</key>
+    <original xml:space="preserve">プリーストのジョブレベルが66になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2012</key>
+    <original xml:space="preserve">プリーストのジョブレベルが67になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2013</key>
+    <original xml:space="preserve">プリーストのジョブレベルが68になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2014</key>
+    <original xml:space="preserve">プリーストのジョブレベルが69になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2015</key>
+    <original xml:space="preserve">プリーストのジョブレベルが70になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2016</key>
+    <original xml:space="preserve">プリーストのジョブレベルが71になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2017</key>
+    <original xml:space="preserve">プリーストのジョブレベルが72になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2018</key>
+    <original xml:space="preserve">プリーストのジョブレベルが73になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2019</key>
+    <original xml:space="preserve">プリーストのジョブレベルが74になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2020</key>
+    <original xml:space="preserve">プリーストのジョブレベルが75になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2021</key>
+    <original xml:space="preserve">プリーストのジョブレベルが76になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2022</key>
+    <original xml:space="preserve">プリーストのジョブレベルが77になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2023</key>
+    <original xml:space="preserve">プリーストのジョブレベルが78になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2024</key>
+    <original xml:space="preserve">プリーストのジョブレベルが79になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2025</key>
+    <original xml:space="preserve">プリーストのジョブレベルが80になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2026</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが61になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2027</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが62になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2028</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが63になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2029</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが64になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2030</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが65になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2031</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが66になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2032</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが67になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2033</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが68になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2034</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが69になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2035</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが70になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2036</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが71になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2037</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが72になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2038</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが73になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2039</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが74になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2040</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが75になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2041</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが76になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2042</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが77になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2043</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが78になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2044</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが79になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2045</key>
+    <original xml:space="preserve">シールドセージのジョブレベルが80になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2046</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが61になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2047</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが62になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2048</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが63になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2049</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが64になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2050</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが65になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2051</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが66になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2052</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが67になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2053</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが68になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2054</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが69になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2055</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが70になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2056</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが71になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2057</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが72になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2058</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが73になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2059</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが74になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2060</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが75になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2061</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが76になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2062</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが77になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2063</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが78になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2064</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが79になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2065</key>
+    <original xml:space="preserve">ソーサラーのジョブレベルが80になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2066</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが61になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2067</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが62になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2068</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが63になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2069</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが64になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2070</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが65になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2071</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが66になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2072</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが67になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2073</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが68になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2074</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが69になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2075</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが70になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2076</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが71になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2077</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが72になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2078</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが73になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2079</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが74になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2080</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが75になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2081</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが76になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2082</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが77になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2083</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが78になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2084</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが79になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2085</key>
+    <original xml:space="preserve">ウォリアーのジョブレベルが80になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2086</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが61になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2087</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが62になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2088</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが63になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2089</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが64になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2090</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが65になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2091</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが66になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2092</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが67になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2093</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが68になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2094</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが69になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2095</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが70になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2096</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが71になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2097</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが72になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2098</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが73になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2099</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが74になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2100</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが75になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2101</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが76になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2102</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが77になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2103</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが78になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2104</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが79になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2105</key>
+    <original xml:space="preserve">エレメントアーチャーのジョブレベルが80になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2106</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが61になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2107</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが62になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2108</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが63になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2109</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが64になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2110</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが65になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2111</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが66になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2112</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが67になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2113</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが68になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2114</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが69になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2115</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが70になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2116</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが71になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2117</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが72になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2118</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが73になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2119</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが74になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2120</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが75になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2121</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが76になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2122</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが77になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2123</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが78になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2124</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが79になった</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_2125</key>
+    <original xml:space="preserve">アルケミストのジョブレベルが80になった</original>
   </message>
 </resource>

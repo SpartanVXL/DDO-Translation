@@ -34,6 +34,9 @@
   <named_param id="60">
     <original type="Replace" xml:space="preserve">百騎喰らい</original>
   </named_param>
+  <named_param id="61">
+    <original type="Replace" xml:space="preserve">万騎喰らい</original>
+  </named_param>
   <named_param id="120">
     <original type="Prefix" xml:space="preserve">亡都巨人兵</original>
   </named_param>
@@ -245,6 +248,12 @@
   </named_param>
   <named_param id="176">
     <original type="Replace" xml:space="preserve">錬魔ハーピー</original>
+  </named_param>
+  <named_param id="181">
+    <original type="Prefix" xml:space="preserve">時番</original>
+  </named_param>
+  <named_param id="182">
+    <original type="Prefix" xml:space="preserve">鍵守り</original>
   </named_param>
   <named_param id="187">
     <original type="Prefix" xml:space="preserve">兎喰らいの</original>
@@ -493,6 +502,18 @@
   <named_param id="259">
     <original type="Replace" xml:space="preserve">ザンドラ・バルバロイ</original>
   </named_param>
+  <named_param id="260">
+    <original type="Replace" xml:space="preserve">大将級オーク残党頭</original>
+  </named_param>
+  <named_param id="261">
+    <original type="Replace" xml:space="preserve">オーク残党兵</original>
+  </named_param>
+  <named_param id="262">
+    <original type="Replace" xml:space="preserve">オーク残党兵</original>
+  </named_param>
+  <named_param id="263">
+    <original type="Replace" xml:space="preserve">嘆きのモーラ</original>
+  </named_param>
   <named_param id="264">
     <original type="Replace" xml:space="preserve">白獅子アルバス</original>
   </named_param>
@@ -512,11 +533,32 @@
   <named_param id="271">
     <original type="Replace" xml:space="preserve">炎熱のジオゴーレム</original>
   </named_param>
+  <named_param id="272">
+    <original type="Prefix" xml:space="preserve">テイムド・</original>
+  </named_param>
+  <named_param id="273">
+    <original type="Replace" xml:space="preserve">テイマー・バルバロイ</original>
+  </named_param>
+  <named_param id="274">
+    <original type="Replace" xml:space="preserve">虚ろの処刑人</original>
+  </named_param>
+  <named_param id="276">
+    <original type="Replace" xml:space="preserve">祠の守兵</original>
+  </named_param>
   <named_param id="277">
     <original type="Replace" xml:space="preserve">合成用ゴブリンアルケミー</original>
   </named_param>
   <named_param id="278">
     <original type="Replace" xml:space="preserve">合成用アイ</original>
+  </named_param>
+  <named_param id="279">
+    <original type="Replace" xml:space="preserve">メルガン・エンジニア</original>
+  </named_param>
+  <named_param id="280">
+    <original type="Replace" xml:space="preserve">ギガン・マキナ・カスタム</original>
+  </named_param>
+  <named_param id="282">
+    <original type="Replace" xml:space="preserve">クローン・ズール</original>
   </named_param>
   <named_param id="283">
     <original type="Prefix" xml:space="preserve">先発隊長</original>
@@ -726,6 +768,15 @@
   <named_param id="367">
     <original type="Prefix" xml:space="preserve">高輝度</original>
   </named_param>
+  <named_param id="378">
+    <original type="Replace" xml:space="preserve">冥土の黒騎士</original>
+  </named_param>
+  <named_param id="379">
+    <original type="Replace" xml:space="preserve">呪われし番兵</original>
+  </named_param>
+  <named_param id="380">
+    <original type="Replace" xml:space="preserve">呪われし女官</original>
+  </named_param>
   <named_param id="381">
     <original type="Replace" xml:space="preserve">不死薬被検者</original>
   </named_param>
@@ -820,6 +871,54 @@
   <named_param id="421">
     <original type="Replace" xml:space="preserve">瘴気の魔獣</original>
     <translation type="Replace" xml:space="preserve">Miasmic Demon</translation>
+  </named_param>
+  <named_param id="423">
+    <original type="Prefix" xml:space="preserve">第１守備隊 </original>
+  </named_param>
+  <named_param id="424">
+    <original type="Prefix" xml:space="preserve">第２守備隊</original>
+  </named_param>
+  <named_param id="425">
+    <original type="Prefix" xml:space="preserve">第３守備隊 </original>
+  </named_param>
+  <named_param id="426">
+    <original type="Prefix" xml:space="preserve">第３守備隊 </original>
+  </named_param>
+  <named_param id="427">
+    <original type="Prefix" xml:space="preserve">第５守備隊 </original>
+  </named_param>
+  <named_param id="428">
+    <original type="Prefix" xml:space="preserve">第６守備隊 </original>
+  </named_param>
+  <named_param id="431">
+    <original type="Prefix" xml:space="preserve">幻影牙竜</original>
+  </named_param>
+  <named_param id="432">
+    <original type="Prefix" xml:space="preserve">幻影魔竜</original>
+  </named_param>
+  <named_param id="433">
+    <original type="Replace" xml:space="preserve">製造番号1017 ゴリアテ改</original>
+  </named_param>
+  <named_param id="434">
+    <original type="Replace" xml:space="preserve">リターン・ズール</original>
+  </named_param>
+  <named_param id="435">
+    <original type="Replace" xml:space="preserve">天上の幽姫</original>
+  </named_param>
+  <named_param id="436">
+    <original type="Replace" xml:space="preserve">虚無の騎士</original>
+  </named_param>
+  <named_param id="437">
+    <original type="Prefix" xml:space="preserve">無より生み出されし</original>
+  </named_param>
+  <named_param id="438">
+    <original type="Replace" xml:space="preserve">製造番号1020 ゴリアテ改</original>
+  </named_param>
+  <named_param id="439">
+    <original type="Suffix" xml:space="preserve">・デスペアー</original>
+  </named_param>
+  <named_param id="440">
+    <original type="Prefix" xml:space="preserve">黄金竜</original>
   </named_param>
   <named_param id="446">
     <original type="Prefix" xml:space="preserve">強襲の</original>
@@ -1129,5 +1228,1052 @@
   </named_param>
   <named_param id="557">
     <original type="Prefix" xml:space="preserve">危機的</original>
+  </named_param>
+  <named_param id="559">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="560">
+    <original type="Prefix" xml:space="preserve">魔壁の護衛隊</original>
+  </named_param>
+  <named_param id="561">
+    <original type="Prefix" xml:space="preserve">鉄壁の護衛隊</original>
+  </named_param>
+  <named_param id="563">
+    <original type="Replace" xml:space="preserve">ダンジョンキーボス</original>
+  </named_param>
+  <named_param id="564">
+    <original type="Replace" xml:space="preserve">レスタライト・確率大</original>
+  </named_param>
+  <named_param id="567">
+    <original type="Replace" xml:space="preserve">ハイレスタライト・確率大</original>
+  </named_param>
+  <named_param id="569">
+    <original type="Replace" xml:space="preserve">鱗砂・確率大</original>
+  </named_param>
+  <named_param id="570">
+    <original type="Replace" xml:space="preserve">大粒の鱗砂・確率大</original>
+  </named_param>
+  <named_param id="571">
+    <original type="Prefix" xml:space="preserve">輸送番</original>
+  </named_param>
+  <named_param id="572">
+    <original type="Prefix" xml:space="preserve">輸送番</original>
+  </named_param>
+  <named_param id="573">
+    <original type="Prefix" xml:space="preserve">輸送番</original>
+  </named_param>
+  <named_param id="574">
+    <original type="Replace" xml:space="preserve">Cダンジョンボスドロップ</original>
+  </named_param>
+  <named_param id="575">
+    <original type="Suffix" xml:space="preserve">・ブレイズ</original>
+  </named_param>
+  <named_param id="576">
+    <original type="Prefix" xml:space="preserve">護衛隊 </original>
+  </named_param>
+  <named_param id="581">
+    <original type="Replace" xml:space="preserve">レスタライト・確率小</original>
+  </named_param>
+  <named_param id="582">
+    <original type="Replace" xml:space="preserve">ハイレスタライト・確率小</original>
+  </named_param>
+  <named_param id="583">
+    <original type="Replace" xml:space="preserve">侵食アイテム確定ドロップ</original>
+  </named_param>
+  <named_param id="584">
+    <original type="Replace" xml:space="preserve">獄炎の大魔像</original>
+  </named_param>
+  <named_param id="585">
+    <original type="Replace" xml:space="preserve">汚泥の傀儡</original>
+  </named_param>
+  <named_param id="586">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="587">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="588">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="589">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="590">
+    <original type="Prefix" xml:space="preserve">頑鋼の</original>
+  </named_param>
+  <named_param id="591">
+    <original type="Prefix" xml:space="preserve">要警戒</original>
+  </named_param>
+  <named_param id="592">
+    <original type="Replace" xml:space="preserve">ディープミスト・ウィルム</original>
+  </named_param>
+  <named_param id="593">
+    <original type="Replace" xml:space="preserve">ディープニュート</original>
+  </named_param>
+  <named_param id="594">
+    <original type="Prefix" xml:space="preserve">艶羽根</original>
+  </named_param>
+  <named_param id="595">
+    <original type="Prefix" xml:space="preserve">太牙の</original>
+  </named_param>
+  <named_param id="596">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="597">
+    <original type="Prefix" xml:space="preserve">虹眼の</original>
+  </named_param>
+  <named_param id="598">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="599">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="600">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="601">
+    <original type="Prefix" xml:space="preserve">剛皮の</original>
+  </named_param>
+  <named_param id="602">
+    <original type="Replace" xml:space="preserve">ケイブレイダー・ドレイク</original>
+  </named_param>
+  <named_param id="603">
+    <original type="Replace" xml:space="preserve">ケイブレイダー・エンプレス</original>
+  </named_param>
+  <named_param id="604">
+    <original type="Prefix" xml:space="preserve">光角の</original>
+  </named_param>
+  <named_param id="605">
+    <original type="Replace" xml:space="preserve">ブラックウィドウ</original>
+  </named_param>
+  <named_param id="606">
+    <original type="Replace" xml:space="preserve">エントアンガー</original>
+  </named_param>
+  <named_param id="607">
+    <original type="Prefix" xml:space="preserve">活枝の</original>
+  </named_param>
+  <named_param id="608">
+    <original type="Prefix" xml:space="preserve">凶悪</original>
+  </named_param>
+  <named_param id="609">
+    <original type="Prefix" xml:space="preserve">威容の</original>
+  </named_param>
+  <named_param id="610">
+    <original type="Replace" xml:space="preserve">蒼氷のウィルム</original>
+  </named_param>
+  <named_param id="611">
+    <original type="Replace" xml:space="preserve">赤熱のギガン・マキナ</original>
+  </named_param>
+  <named_param id="612">
+    <original type="Prefix" xml:space="preserve">石影の</original>
+  </named_param>
+  <named_param id="613">
+    <original type="Prefix" xml:space="preserve">恐声の</original>
+  </named_param>
+  <named_param id="614">
+    <original type="Prefix" xml:space="preserve">黒艶の</original>
+  </named_param>
+  <named_param id="615">
+    <original type="Prefix" xml:space="preserve">業火の</original>
+  </named_param>
+  <named_param id="616">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="617">
+    <original type="Prefix" xml:space="preserve">朱炎の</original>
+  </named_param>
+  <named_param id="618">
+    <original type="Prefix" xml:space="preserve">白亜の</original>
+  </named_param>
+  <named_param id="619">
+    <original type="Replace" xml:space="preserve">グリフィン・ノワール</original>
+  </named_param>
+  <named_param id="620">
+    <original type="Replace" xml:space="preserve">デスナイト・ノワール</original>
+  </named_param>
+  <named_param id="621">
+    <original type="Prefix" xml:space="preserve">暗鉄の</original>
+  </named_param>
+  <named_param id="622">
+    <original type="Replace" xml:space="preserve">石呪をもたらす魔鶏</original>
+  </named_param>
+  <named_param id="623">
+    <original type="Replace" xml:space="preserve">暴虐の一つ目</original>
+  </named_param>
+  <named_param id="624">
+    <original type="Replace" xml:space="preserve">凶牙の霧竜</original>
+  </named_param>
+  <named_param id="625">
+    <original type="Replace" xml:space="preserve">凶爪の白獅子</original>
+  </named_param>
+  <named_param id="626">
+    <original type="Prefix" xml:space="preserve">氷結の</original>
+  </named_param>
+  <named_param id="627">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="628">
+    <original type="Replace" xml:space="preserve">強装巨人兵-Ⅲ型</original>
+  </named_param>
+  <named_param id="629">
+    <original type="Replace" xml:space="preserve">炎装造魔兵-実戦型</original>
+  </named_param>
+  <named_param id="631">
+    <original type="Replace" xml:space="preserve">冥き深奥の主</original>
+  </named_param>
+  <named_param id="632">
+    <original type="Replace" xml:space="preserve">ディアマンテスの影</original>
+  </named_param>
+  <named_param id="633">
+    <original type="Replace" xml:space="preserve">灼けつく竜力</original>
+  </named_param>
+  <named_param id="634">
+    <original type="Replace" xml:space="preserve">凍てつく竜力</original>
+  </named_param>
+  <named_param id="635">
+    <original type="Replace" xml:space="preserve">クローン・ズール</original>
+  </named_param>
+  <named_param id="636">
+    <original type="Replace" xml:space="preserve">ダムドデストロイヤー</original>
+  </named_param>
+  <named_param id="637">
+    <original type="Replace" xml:space="preserve">ギガンブレイカー</original>
+  </named_param>
+  <named_param id="638">
+    <original type="Replace" xml:space="preserve">デモリッションファング</original>
+  </named_param>
+  <named_param id="639">
+    <original type="Replace" xml:space="preserve">死を呼ぶ闇騎士</original>
+  </named_param>
+  <named_param id="640">
+    <original type="Replace" xml:space="preserve">カラミティコーラ</original>
+  </named_param>
+  <named_param id="641">
+    <original type="Replace" xml:space="preserve">死を招く魔姫</original>
+  </named_param>
+  <named_param id="642">
+    <original type="Replace" xml:space="preserve">霜竜フロストウィルム</original>
+  </named_param>
+  <named_param id="643">
+    <original type="Replace" xml:space="preserve">灼竜ファイアドレイク</original>
+  </named_param>
+  <named_param id="644">
+    <original type="Replace" xml:space="preserve">大角の戦鬼将</original>
+  </named_param>
+  <named_param id="645">
+    <original type="Replace" xml:space="preserve">オーク軍精鋭隊</original>
+  </named_param>
+  <named_param id="646">
+    <original type="Replace" xml:space="preserve">戦鬼覇王モゴック</original>
+  </named_param>
+  <named_param id="647">
+    <original type="Replace" xml:space="preserve">軍獣サヴェッジキメラ</original>
+  </named_param>
+  <named_param id="648">
+    <original type="Replace" xml:space="preserve">オーク軍近衛隊</original>
+  </named_param>
+  <named_param id="649">
+    <original type="Replace" xml:space="preserve">スカルサージェント</original>
+  </named_param>
+  <named_param id="650">
+    <original type="Replace" xml:space="preserve">メイルサージェント</original>
+  </named_param>
+  <named_param id="653">
+    <original type="Replace" xml:space="preserve">大鴉ハーピー</original>
+  </named_param>
+  <named_param id="654">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="655">
+    <original type="Prefix" xml:space="preserve">要警戒</original>
+  </named_param>
+  <named_param id="656">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="657">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="658">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="659">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="660">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="661">
+    <original type="Prefix" xml:space="preserve">凶悪</original>
+  </named_param>
+  <named_param id="662">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="663">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="664">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="665">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="666">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="667">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="668">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="670">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="672">
+    <original type="Prefix" xml:space="preserve">復讐の戦鬼</original>
+  </named_param>
+  <named_param id="678">
+    <original type="Prefix" xml:space="preserve">孤高の凶獣 </original>
+  </named_param>
+  <named_param id="680">
+    <original type="Replace" xml:space="preserve">モゴック親衛隊長 </original>
+  </named_param>
+  <named_param id="682">
+    <original type="Prefix" xml:space="preserve">力に魅かれし</original>
+  </named_param>
+  <named_param id="683">
+    <original type="Prefix" xml:space="preserve">霊炎の</original>
+  </named_param>
+  <named_param id="684">
+    <original type="Prefix" xml:space="preserve">霊氷の</original>
+  </named_param>
+  <named_param id="691">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="692">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="693">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="694">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="695">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="696">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="697">
+    <original type="Replace" xml:space="preserve">白の獅子王</original>
+  </named_param>
+  <named_param id="698">
+    <original type="Prefix" xml:space="preserve">百戦鬼将</original>
+  </named_param>
+  <named_param id="699">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="700">
+    <original type="Prefix" xml:space="preserve">鍵守り</original>
+  </named_param>
+  <named_param id="701">
+    <original type="Prefix" xml:space="preserve">鍵守り</original>
+  </named_param>
+  <named_param id="702">
+    <original type="Prefix" xml:space="preserve">鍵守り</original>
+  </named_param>
+  <named_param id="703">
+    <original type="Prefix" xml:space="preserve">鍵守り</original>
+  </named_param>
+  <named_param id="704">
+    <original type="Prefix" xml:space="preserve">鍵守り</original>
+  </named_param>
+  <named_param id="705">
+    <original type="Replace" xml:space="preserve">深奥の従者</original>
+  </named_param>
+  <named_param id="706">
+    <original type="Replace" xml:space="preserve">深奥の魔女</original>
+  </named_param>
+  <named_param id="707">
+    <original type="Replace" xml:space="preserve">虚無の追跡者</original>
+  </named_param>
+  <named_param id="708">
+    <original type="Replace" xml:space="preserve">対の紅竜</original>
+  </named_param>
+  <named_param id="709">
+    <original type="Replace" xml:space="preserve">対の蒼竜</original>
+  </named_param>
+  <named_param id="710">
+    <original type="Prefix" xml:space="preserve">第２守備隊</original>
+  </named_param>
+  <named_param id="711">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="712">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="713">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="714">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="715">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="716">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="717">
+    <original type="Prefix" xml:space="preserve">第１守備隊</original>
+  </named_param>
+  <named_param id="718">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="719">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="720">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="721">
+    <original type="Prefix" xml:space="preserve">第１守備隊 </original>
+  </named_param>
+  <named_param id="722">
+    <original type="Prefix" xml:space="preserve">練習</original>
+  </named_param>
+  <named_param id="768">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="812">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="813">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="814">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="815">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="816">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="817">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="818">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="819">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="820">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="821">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="822">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="823">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="824">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="825">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="826">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="827">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="828">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="829">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="830">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="831">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="832">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="855">
+    <original type="Replace" xml:space="preserve">ダークビショップ</original>
+  </named_param>
+  <named_param id="856">
+    <original type="Prefix" xml:space="preserve">（仮）封印の</original>
+  </named_param>
+  <named_param id="857">
+    <original type="Prefix" xml:space="preserve">はぐれ</original>
+  </named_param>
+  <named_param id="858">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="860">
+    <original type="Prefix" xml:space="preserve">最終練磨</original>
+  </named_param>
+  <named_param id="862">
+    <original type="Prefix" xml:space="preserve">最終練磨</original>
+  </named_param>
+  <named_param id="864">
+    <original type="Prefix" xml:space="preserve">最終練磨</original>
+  </named_param>
+  <named_param id="866">
+    <original type="Prefix" xml:space="preserve">最終練磨</original>
+  </named_param>
+  <named_param id="868">
+    <original type="Prefix" xml:space="preserve">最終練磨</original>
+  </named_param>
+  <named_param id="870">
+    <original type="Prefix" xml:space="preserve">最終練磨</original>
+  </named_param>
+  <named_param id="872">
+    <original type="Prefix" xml:space="preserve">最終練磨</original>
+  </named_param>
+  <named_param id="874">
+    <original type="Prefix" xml:space="preserve">最終練磨</original>
+  </named_param>
+  <named_param id="876">
+    <original type="Prefix" xml:space="preserve">最終練磨</original>
+  </named_param>
+  <named_param id="877">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="890">
+    <original type="Prefix" xml:space="preserve">残党</original>
+  </named_param>
+  <named_param id="891">
+    <original type="Prefix" xml:space="preserve">徘徊</original>
+  </named_param>
+  <named_param id="892">
+    <original type="Replace" xml:space="preserve">スパーク・ブルー</original>
+  </named_param>
+  <named_param id="893">
+    <original type="Replace" xml:space="preserve">子攫いのメリーティア</original>
+  </named_param>
+  <named_param id="894">
+    <original type="Replace" xml:space="preserve">坑道の骸骨騎士</original>
+  </named_param>
+  <named_param id="895">
+    <original type="Replace" xml:space="preserve">霧に揺らぐ人影</original>
+  </named_param>
+  <named_param id="896">
+    <original type="Prefix" xml:space="preserve">ディスターブ・</original>
+  </named_param>
+  <named_param id="897">
+    <original type="Replace" xml:space="preserve">木立の石像鬼</original>
+  </named_param>
+  <named_param id="898">
+    <original type="Prefix" xml:space="preserve">異端の</original>
+  </named_param>
+  <named_param id="899">
+    <original type="Replace" xml:space="preserve">侵食に抗う戦鬼</original>
+  </named_param>
+  <named_param id="900">
+    <original type="Replace" xml:space="preserve">虚ろの騎士</original>
+  </named_param>
+  <named_param id="901">
+    <original type="Replace" xml:space="preserve">跡地荒らしの黒大鷲</original>
+  </named_param>
+  <named_param id="902">
+    <original type="Replace" xml:space="preserve">蝕まれし狂鷲</original>
+  </named_param>
+  <named_param id="904">
+    <original type="Replace" xml:space="preserve">製造番号1056 強襲型ゴリアテ</original>
+  </named_param>
+  <named_param id="905">
+    <original type="Prefix" xml:space="preserve">ルインズ・</original>
+  </named_param>
+  <named_param id="907">
+    <original type="Prefix" xml:space="preserve">ボルディック・</original>
+  </named_param>
+  <named_param id="908">
+    <original type="Prefix" xml:space="preserve">忘却の</original>
+  </named_param>
+  <named_param id="909">
+    <original type="Replace" xml:space="preserve">怨姫ヴィルヘルミーナ</original>
+  </named_param>
+  <named_param id="919">
+    <original type="Replace" xml:space="preserve">哀惜の幽鬼</original>
+  </named_param>
+  <named_param id="920">
+    <original type="Replace" xml:space="preserve">未知の魔物？</original>
+  </named_param>
+  <named_param id="921">
+    <original type="Replace" xml:space="preserve">ズール</original>
+  </named_param>
+  <named_param id="922">
+    <original type="Prefix" xml:space="preserve">討伐対象</original>
+  </named_param>
+  <named_param id="923">
+    <original type="Prefix" xml:space="preserve">討伐対象</original>
+  </named_param>
+  <named_param id="924">
+    <original type="Prefix" xml:space="preserve">討伐対象</original>
+  </named_param>
+  <named_param id="925">
+    <original type="Replace" xml:space="preserve">巣窟の主</original>
+  </named_param>
+  <named_param id="926">
+    <original type="Prefix" xml:space="preserve">手負いの</original>
+  </named_param>
+  <named_param id="927">
+    <original type="Prefix" xml:space="preserve">手負いの</original>
+  </named_param>
+  <named_param id="928">
+    <original type="Prefix" xml:space="preserve">牙剥く</original>
+  </named_param>
+  <named_param id="929">
+    <original type="Replace" xml:space="preserve">ズール</original>
+  </named_param>
+  <named_param id="930">
+    <original type="Prefix" xml:space="preserve">襲来</original>
+  </named_param>
+  <named_param id="931">
+    <original type="Prefix" xml:space="preserve">襲来</original>
+  </named_param>
+  <named_param id="932">
+    <original type="Prefix" xml:space="preserve">襲来</original>
+  </named_param>
+  <named_param id="933">
+    <original type="Replace" xml:space="preserve">侵食されし有翼</original>
+  </named_param>
+  <named_param id="957">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="958">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="959">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="960">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="961">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="962">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="963">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="964">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="965">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="966">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="967">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="970">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="971">
+    <original type="Prefix" xml:space="preserve">宝守</original>
+  </named_param>
+  <named_param id="972">
+    <original type="Prefix" xml:space="preserve">宝守</original>
+  </named_param>
+  <named_param id="973">
+    <original type="Prefix" xml:space="preserve">宝守</original>
+  </named_param>
+  <named_param id="974">
+    <original type="Prefix" xml:space="preserve">宝守</original>
+  </named_param>
+  <named_param id="975">
+    <original type="Prefix" xml:space="preserve">宝守</original>
+  </named_param>
+  <named_param id="976">
+    <original type="Prefix" xml:space="preserve">宝守</original>
+  </named_param>
+  <named_param id="977">
+    <original type="Prefix" xml:space="preserve">宝守</original>
+  </named_param>
+  <named_param id="978">
+    <original type="Prefix" xml:space="preserve">宝守</original>
+  </named_param>
+  <named_param id="983">
+    <original type="Prefix" xml:space="preserve">宝守</original>
+  </named_param>
+  <named_param id="984">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="985">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="986">
+    <original type="Prefix" xml:space="preserve">宝守</original>
+  </named_param>
+  <named_param id="987">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="988">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="989">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="990">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="991">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="992">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="993">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="994">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="997">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="999">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="1000">
+    <original type="Prefix" xml:space="preserve">宝魔主</original>
+  </named_param>
+  <named_param id="1001">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1002">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1003">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1004">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1005">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1006">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1007">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1008">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1009">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1010">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1011">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1012">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1013">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1014">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1015">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1016">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1017">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1018">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1019">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1020">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1021">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1022">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1045">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1046">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1047">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1048">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1049">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1050">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1051">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1052">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1053">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1054">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1055">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1056">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1057">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1058">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1059">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1060">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1061">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1062">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1063">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1064">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1065">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1066">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1087">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1088">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1089">
+    <original type="Suffix" xml:space="preserve">・エクストラ</original>
+  </named_param>
+  <named_param id="1092">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1093">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1094">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1095">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1096">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1097">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1098">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1099">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1100">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1101">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1102">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1114">
+    <original type="None" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1115">
+    <original type="None" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1116">
+    <original type="None" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1117">
+    <original type="None" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1118">
+    <original type="Prefix" xml:space="preserve">昌石を秘めた</original>
+  </named_param>
+  <named_param id="1119">
+    <original type="Prefix" xml:space="preserve">財宝を秘めた</original>
+  </named_param>
+  <named_param id="1120">
+    <original type="Prefix" xml:space="preserve">竜力を秘めた</original>
+  </named_param>
+  <named_param id="1121">
+    <original type="Prefix" xml:space="preserve">宝飾を秘めた</original>
+  </named_param>
+  <named_param id="1130">
+    <original type="Prefix" xml:space="preserve">宝飾を秘めた</original>
+  </named_param>
+  <named_param id="1132">
+    <original type="Prefix" xml:space="preserve">召喚士</original>
+  </named_param>
+  <named_param id="1133">
+    <original type="Prefix" xml:space="preserve">甦生した</original>
+  </named_param>
+  <named_param id="1134">
+    <original type="Prefix" xml:space="preserve">甦生した</original>
+  </named_param>
+  <named_param id="1135">
+    <original type="Prefix" xml:space="preserve">黒闇より甦りし</original>
+  </named_param>
+  <named_param id="1136">
+    <original type="Prefix" xml:space="preserve">甦生した</original>
+  </named_param>
+  <named_param id="1137">
+    <original type="Prefix" xml:space="preserve">異界の</original>
+  </named_param>
+  <named_param id="1138">
+    <original type="Prefix" xml:space="preserve">狭間の</original>
+  </named_param>
+  <named_param id="1139">
+    <original type="Prefix" xml:space="preserve">隷下部隊</original>
+  </named_param>
+  <named_param id="1140">
+    <original type="Prefix" xml:space="preserve">隷下部隊長</original>
+  </named_param>
+  <named_param id="1141">
+    <original type="Prefix" xml:space="preserve">隷下部大隊長</original>
+  </named_param>
+  <named_param id="1142">
+    <original type="Prefix" xml:space="preserve">甦生したボルドバンガー・</original>
+  </named_param>
+  <named_param id="1143">
+    <original type="Prefix" xml:space="preserve">第一練磨</original>
+  </named_param>
+  <named_param id="1144">
+    <original type="Prefix" xml:space="preserve">第二練磨</original>
+  </named_param>
+  <named_param id="1145">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1146">
+    <original type="Replace" xml:space="preserve">礎の番人</original>
+  </named_param>
+  <named_param id="1147">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1149">
+    <original type="Prefix" xml:space="preserve">甦生した</original>
+  </named_param>
+  <named_param id="1151">
+    <original type="Prefix" xml:space="preserve">召喚士</original>
+  </named_param>
+  <named_param id="1152">
+    <original type="Prefix" xml:space="preserve">甦生した</original>
+  </named_param>
+  <named_param id="1157">
+    <original type="Prefix" xml:space="preserve">甦生した</original>
+  </named_param>
+  <named_param id="1158">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="1159">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="1160">
+    <original type="Prefix" xml:space="preserve">賞金首</original>
+  </named_param>
+  <named_param id="1161">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1162">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1163">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1164">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1165">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1166">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1167">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1168">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1178">
+    <original type="Prefix" xml:space="preserve"></original>
+  </named_param>
+  <named_param id="1180">
+    <original type="Replace" xml:space="preserve">ＨＰ２倍だよ！</original>
+  </named_param>
+  <named_param id="1181">
+    <original type="Replace" xml:space="preserve">のけぞりぶっとび２倍だよ！</original>
+  </named_param>
+  <named_param id="1182">
+    <original type="Replace" xml:space="preserve">ゆさぶり２倍だよ！</original>
+  </named_param>
+  <named_param id="1186">
+    <original type="Prefix" xml:space="preserve">蒼葉の</original>
+  </named_param>
+  <named_param id="1187">
+    <original type="Prefix" xml:space="preserve">蒼葉の</original>
+  </named_param>
+  <named_param id="1188">
+    <original type="Prefix" xml:space="preserve">死体齧りの</original>
+  </named_param>
+  <named_param id="1189">
+    <original type="Replace" xml:space="preserve">グレイブワーグ</original>
+  </named_param>
+  <named_param id="1190">
+    <original type="Prefix" xml:space="preserve"></original>
   </named_param>
 </named_params>

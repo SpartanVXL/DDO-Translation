@@ -105,11 +105,9 @@
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_LOAD_OVERWRITE_AT</key>
-    <original xml:space="preserve">ロードしたエディットデータに
-使用できない項目が含まれています
-
-使用できない項目はデフォルト設定にして
-現在のモデルに適用してもよろしいですか？</original>
+    <original xml:space="preserve">ロードしたエディットデータは
+設定できない項目が含まれているため
+使用できません</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_ERROR_LOAD_NG_SEX</key>

@@ -203,4 +203,37 @@
 
 　売却価格：&lt;VAL GOLD&gt;</original>
   </message>
+  <message>
+    <key>item_title_depositbox_en</key>
+    <original xml:space="preserve">Storage Chest</original>
+  </message>
+  <message>
+    <key>item_title_depositbox_jp</key>
+    <original xml:space="preserve">格納チェスト</original>
+  </message>
+  <message>
+    <key>option_send_depositbox</key>
+    <original xml:space="preserve">格納チェストに送る</original>
+  </message>
+  <message>
+    <key>item_msg_guid_todeposit</key>
+    <original xml:space="preserve">格納チェストに移動</original>
+  </message>
+  <message>
+    <key>item_btnguide_select_all</key>
+    <original xml:space="preserve">全選択</original>
+  </message>
+  <message>
+    <key>item_btnguide_select_all_cancel</key>
+    <original xml:space="preserve">全選択解除</original>
+  </message>
+  <message>
+    <key>submenu_jump_onlineshop</key>
+    <original xml:space="preserve">オンラインショップを開く</original>
+  </message>
+  <message>
+    <key>item_conf_jump_onlineshop</key>
+    <original xml:space="preserve">オンラインショップを開きます
+よろしいですか？</original>
+  </message>
 </resource>
