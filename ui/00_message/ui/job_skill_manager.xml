@@ -214,7 +214,7 @@ to level it up?</translation>
   <message>
     <key>get_conditions</key>
     <original xml:space="preserve">習得条件</original>
-	<translation xml:space="preserve">Requires Unlock</translation>
+	<translation xml:space="preserve">Learning Conditions</translation>
   </message>
   <message>
     <key>need_jp_to_get</key>
@@ -258,7 +258,7 @@ to level it up?</translation>
   <message>
     <key>release_condition_master_subject</key>
     <original xml:space="preserve">ジョブマスターの課題をクリアする</original>
-    <translation xml:space="preserve">Clear the Job Master Order</translation>
+    <translation xml:space="preserve">Clear the Job Master Order.</translation>
   </message>
   <message>
     <key>job_msg_job</key>
@@ -287,15 +287,17 @@ to level it up?</translation>
   <message>
     <key>job_cahnge_no_ability_notice</key>
     <original xml:space="preserve">アビリティがセットされていません</original>
+	<translation xml:space="preserve">Your augments have been reset.</translation>
   </message>
   <message>
     <key>need_splimit_to_get</key>
     <original xml:space="preserve">特殊条件</original>
+	<translation xml:space="preserve">Special Conditions</translation>
   </message>
   <message>
     <key>need_splimit_to_get_skill_info</key>
     <original xml:space="preserve">特殊条件により解放</original>
-	<translation xml:space="preserve">Unlocked by completing special conditions.</translation>
+	<translation xml:space="preserve">Unlocked by clearing special conditions.</translation>
   </message>
   <message>
     <key>btn_guide_change_skill_pallet</key>

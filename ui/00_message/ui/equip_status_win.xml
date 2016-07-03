@@ -202,7 +202,7 @@
   <message>
     <key>status_gain_jewerly_slot</key>
     <original xml:space="preserve">ジュエリー装備スロット</original>
-    <translation xml:space="preserve">Accessory Slots</translation>
+    <translation xml:space="preserve">Jewelry Slots</translation>
   </message>
   <message>
     <key>status_gain_main_pawn</key>
@@ -232,7 +232,7 @@
   <message>
     <key>status_error_storage_box_full</key>
     <original xml:space="preserve">保管ボックスがいっぱいです</original>
-    <translation xml:space="preserve">Storage box is full</translation>
+    <translation xml:space="preserve">Storage box is full.</translation>
   </message>
   <message>
     <key>status_buttonguide_equip</key>
@@ -242,7 +242,7 @@
   <message>
     <key>status_error_storage_bag_full</key>
     <original xml:space="preserve">アイテムバッグがいっぱいです</original>
-    <translation xml:space="preserve">Item bag is full</translation>
+    <translation xml:space="preserve">Item bag is full.</translation>
   </message>
   <message>
     <key>status_total_job_level</key>
@@ -259,6 +259,7 @@
   <message>
     <key>status_equip_jewelry_slot_num</key>
     <original xml:space="preserve">ジュエリー装備可能数：%d</original>
+	<translation xml:space="preserve">Max jewelry that can be equipped: %d</translation>
   </message>
   <message>
     <key>status_equip_jewelry_category_num</key>

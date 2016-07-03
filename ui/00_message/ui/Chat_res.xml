@@ -61,7 +61,7 @@
   <message>
     <key>MSG_NONAME</key>
     <original xml:space="preserve">名前が入力されていません</original>
-    <translation xml:space="preserve">You must enter a channel name</translation>
+    <translation xml:space="preserve">You must enter a channel name.</translation>
   </message>
   <message>
     <key>MSG_VIEWLOG</key>
@@ -76,6 +76,7 @@
   <message>
     <key>MSG_CHEDIT</key>
     <original xml:space="preserve">チャンネルの編集</original>
+	<translation xml:space="preserve">Edit Channel</translation>
   </message>
   <message>
     <key>MSG_CHATMODE</key>
@@ -89,21 +90,26 @@
   <message>
     <key>MSG_ADDCH</key>
     <original xml:space="preserve">チャンネルの追加</original>
+	<translation xml:space="preserve">Add Channel</translation>
   </message>
   <message>
     <key>MSG_CHANGE_TO</key>
     <original xml:space="preserve">宛て先の変更</original>
+	<translation xml:space="preserve">Change Destination</translation>
   </message>
   <message>
     <key>MSG_SWITCH_CH</key>
     <original xml:space="preserve">チャンネルの切り替え</original>
+	<translation xml:space="preserve">Switch Channel</translation>
   </message>
   <message>
     <key>MSG_NOT_SPEAK_A_WHILE</key>
     <original xml:space="preserve">しばらく発言できません</original>
+	<translation xml:space="preserve">You cannot speak for a while.</translation>
   </message>
   <message>
     <key>MSG_NOT_SPEAK_A_FEW_SECONDS</key>
     <original xml:space="preserve">発言できません あと&lt;VAL&gt;秒</original>
+	<translation xml:space="preserve">You cannot speak for &lt;VAL&gt; seconds.</translation>
   </message>
 </resource>
