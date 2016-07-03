@@ -6,16 +6,11 @@
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で最大移動距離が延長／
 突進距離最長時に敵のガード状態を崩す&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--前方に猛ダッシュしつつ鋭い突き攻撃を放つ
-突進距離に応じて威力が上昇する
-<COL ffdc78>LV UP毎に攻撃威力の上昇
-LV.６で最大移動距離が延長</COL>-->
-    <translation xml:space="preserve">Rushes at the target and visits
-a powerful blow upon them.
-Damage increases the further you dash.
+    <translation xml:space="preserve">Rushes at the target and visits a powerful blow
+upon them. Damage increases the further you dash.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
-LV.6: Increases maximum rush distance.&lt;/COL&gt;</translation>
+LV.6: Increases maximum rush distance.
+Breaks enemy guard when rushing at maximum range.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_12</key>
