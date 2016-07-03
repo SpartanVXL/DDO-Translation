@@ -1,0 +1,26 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>TUTORIAL_STEP_165</key>
+    <original xml:space="preserve">アルケミストは、錬成物質による攻撃で
+敵の注目を集め、多彩な状態異常と特殊移動
+で戦況を操る術師です
+
+＜基本操作／攻撃＞
+&lt;PADM&gt;　【&lt;ICON STG_ATTACK_0&gt;ボタン】アルケム（錬成）&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_L&gt;】アルケム（錬成）&lt;/KEYM&gt;
+&lt;PADM&gt;　【&lt;ICON STG_ATTACK_1&gt;ボタン】クラスター（集中錬成）&lt;KEYM&gt;　【&lt;ICON MOUSE_CL_R&gt;】クラスター（集中錬成）&lt;/KEYM&gt;
+　※《錬成値》の蓄積により強く注目を引きつけます</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_344</key>
+    <original xml:space="preserve">機動力と回避力に優れており
+特殊移動を活かした鋭い立ち回りが可能です
+ただし特殊移動はスタミナを消費するため
+残量には注意しましょう
+
+＜基本操作／回避＞
+&lt;PADM&gt;　【&lt;ICON PAD_L1&gt;／&lt;ICON PAD_R1&gt;ボタン】＋【&lt;ICON STG_JUMP&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_Q&gt;】アルケム・フーガ（回避錬成）&lt;/KEYM&gt;
+&lt;PADM&gt;　　　　　　アルケム・フーガ（回避錬成）&lt;/PADM&gt;
+
+また、成長により新たな特殊移動を習得できます</original>
+  </message>
+</resource>

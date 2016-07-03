@@ -173,7 +173,7 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_KG</key>
-    <original xml:space="preserve">&lt;VAL&gt; </original>
+    <original xml:space="preserve">&lt;VAL&gt;</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_SKILL</key>
@@ -181,7 +181,7 @@
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_ABILITY</key>
-    <original xml:space="preserve">Augments</original>
+    <original xml:space="preserve">Abilities</original>
   </message>
   <message>
     <key>ARISEN_CARD_TEXT_CUSTOMSKILL</key>
@@ -441,5 +441,13 @@
     <key>ARISEN_CARD_TEXT_DATING</key>
     <original xml:space="preserve">日付</original>
     <translation xml:space="preserve">Date</translation>
+  </message>
+  <message>
+    <key>ARISEN_CARD_TEXT_PARTNER</key>
+    <original xml:space="preserve">Partner</original>
+  </message>
+  <message>
+    <key>ARISEN_CARD_TEXT_LIKABILITY</key>
+    <original xml:space="preserve">プレゼントした数</original>
   </message>
 </resource>

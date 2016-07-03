@@ -65,4 +65,15 @@ charge to finish.</translation>
     <translation xml:space="preserve">Charge. Press the assigned button and wait for the
 charge to finish.</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_06_79</key>
+    <original xml:space="preserve">セットボタンを押して詠唱、詠唱完了で発動
+発動後、爆発が出るまでに&lt;PADM&gt;左スティック上下&lt;KEYM&gt;移動キー&lt;ICON KB_W&gt;&lt;ICON KB_S&gt;&lt;/KEYM&gt;で攻撃範囲調整</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_06_137</key>
+    <original xml:space="preserve">セットボタンを押して詠唱、詠唱完了で氷塊発現
+発現後、再度セットボタン&lt;PADM&gt;または&lt;ICON PAD_L2&gt;か&lt;ICON PAD_R2&gt;&lt;/PADM&gt;を押すと射出
+&lt;PADM&gt;&lt;ICON PAD_RR&gt;&lt;KEYM&gt;&lt;ICON KB_E&gt;&lt;/KEYM&gt;を押すと氷塊解除</original>
+  </message>
 </resource>

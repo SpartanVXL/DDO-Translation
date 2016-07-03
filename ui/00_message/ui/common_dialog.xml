@@ -340,8 +340,11 @@ entryboard registration?</translation>
   </message>
   <message>
     <key>ana_member_less_party_q</key>
-    <original xml:space="preserve">規定人数に足りていませんがパーティーを組みます。
+    <original xml:space="preserve">規定人数に足りていませんがパーティーを組みます
 よろしいですか？</original>
+    <!-- NEEDS REVIEW -->
+    <!--規定人数に足りていませんがパーティーを組みます。
+よろしいですか？-->
     <translation xml:space="preserve">There are not enough members,
 but the party will be formed. Are you sure?</translation>
   </message>
@@ -784,7 +787,9 @@ you cannot unlock the Warp Crystal.</translation>
   </message>
   <message>
     <key>ana_warp_disable_large_party</key>
-    <original xml:space="preserve">８人パーティー中は使用できません</original>
+    <original xml:space="preserve">特定のコンテンツ中は使用できません</original>
+    <!-- NEEDS REVIEW -->
+    <!--８人パーティー中は使用できません-->
     <translation xml:space="preserve">You cannot warp in an 8 person party.</translation>
   </message>
   <message>
@@ -1787,14 +1792,15 @@ The effect of ＜&lt;OPCS&gt;＞ will allow this.</translation>
     <translation xml:space="preserve">Please select the purpose of the adventure.</translation>
   </message>
   <message>
-    <key>ana_freemarker_set</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;がフリーマーカーを設定しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has set a free marker.</translation>
+    <key>ana_freemarker_delete</key>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;の&lt;VAL&gt;番フリーマーカー情報を削除しました</original>
   </message>
   <message>
-    <key>ana_freemaker_update</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;のフリーマーカー情報を反映しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has updated the position of the free marker.</translation>
+    <key>ana_freemarker_set</key>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;の&lt;VAL&gt;番フリーマーカー情報を反映しました</original>
+    <!-- NEEDS REVIEW -->
+    <!--<NAME TARGET>がフリーマーカーを設定しました-->
+    <translation xml:space="preserve">&lt;NAME TARGET&gt; has set a free marker.</translation>
   </message>
   <message>
     <key>ana_quest_info_assept</key>
@@ -2057,7 +2063,9 @@ If this continues for &lt;VAL&gt; minutes, you will be disconnected.</translatio
   </message>
   <message>
     <key>ana_pl_num_lobby_in</key>
-    <original xml:space="preserve">ロビー &lt;NAME LOBBY&gt; へ移動しました</original>
+    <original xml:space="preserve">ワールド &lt;NAME LOBBY&gt; へ移動しました</original>
+    <!-- NEEDS REVIEW -->
+    <!--ロビー <NAME LOBBY> へ移動しました-->
     <translation xml:space="preserve">You moved to lobby &lt;NAME LOBBY&gt;</translation>
   </message>
   <message>
@@ -2298,7 +2306,7 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_craftskillreset_ng_ticket</key>
-    <original xml:space="preserve">使えません</original>
+    <original xml:space="preserve">クラフトスキルリセット権がありません</original>
   </message>
   <message>
     <key>ana_craftskillreset_ng_craft</key>
@@ -2310,11 +2318,14 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_craftskillreset_conf</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;に使用しますか？</original>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;の
+クラフトスキルをリセットしますか？
+※クラフトスキルリセット権が消費されます</original>
   </message>
   <message>
     <key>ana_craftskillreset_dec</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;は使用しました</original>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;の
+クラフトスキルをリセットしました</original>
   </message>
   <message>
     <key>ana_storageextension_dec</key>
@@ -2323,11 +2334,140 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_craftskillreset_dec_guide</key>
-    <original xml:space="preserve">ご利用は
-リムストーンで行えます</original>
+    <original xml:space="preserve">クラフトスキルリセットのご利用は
+リムストーンでおこなえます</original>
   </message>
   <message>
     <key>ana_quest_invalid_status_change</key>
     <original xml:space="preserve">クエスト状況が変化したため進行できませんでした</original>
+  </message>
+  <message>
+    <key>ana_storage_num_increase</key>
+    <original xml:space="preserve">保管ボックスのアイテム枠数が増加しました</original>
+  </message>
+  <message>
+    <key>ana_CLAN_ERR_INTERVAL</key>
+    <original xml:space="preserve">クランインターバル期間中のためできません</original>
+  </message>
+  <message>
+    <key>ana_already_received_supplies</key>
+    <original xml:space="preserve">すでに支援品を受け取っています</original>
+  </message>
+  <message>
+    <key>ana_warning_barricade_out</key>
+    <original xml:space="preserve">戦闘エリアから離れています</original>
+  </message>
+  <message>
+    <key>ana_warp_barricade_out</key>
+    <original xml:space="preserve">戦闘エリアを出たためワープします</original>
+  </message>
+  <message>
+    <key>ana_PARTNERPAWN_SET_ng_configured</key>
+    <original xml:space="preserve">すでに設定済みです</original>
+  </message>
+  <message>
+    <key>ana_PARTNERPAWN_SET_ng_myroom_only</key>
+    <original xml:space="preserve">自室のリムストーンでのみ設定できます</original>
+  </message>
+  <message>
+    <key>ana_PARTNERPAWN_SET_ng_reward_unacquired</key>
+    <original xml:space="preserve">リワードがあるときは変更できません</original>
+  </message>
+  <message>
+    <key>ana_PARTNERPAWN_SET_ok_decision</key>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;をパートナーポーンに設定しました</original>
+  </message>
+  <message>
+    <key>ana_PARTNERPAWN_SET_conf</key>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;を
+パートナーポーンに設定しますか？</original>
+  </message>
+  <message>
+    <key>ana_error_no_target_service</key>
+    <original xml:space="preserve">オンラインショップより対象のサービスを
+ご購入いただくことで使用可能となります</original>
+  </message>
+  <message>
+    <key>ana_om_door_open_by_enemy</key>
+    <original xml:space="preserve">閉ざされていた道が開けた</original>
+  </message>
+  <message>
+    <key>ana_partner_pawn_rim_day</key>
+    <original xml:space="preserve">1日1回しか渡すことができません</original>
+  </message>
+  <message>
+    <key>ana_partner_pawn_rim_max</key>
+    <original xml:space="preserve">これ以上渡すことができません</original>
+  </message>
+  <message>
+    <key>ana_partner_pawn_rwmsg_edit</key>
+    <original xml:space="preserve">ポーンに新しい髪型の提案を受け
+エディットパーツが増えました！</original>
+  </message>
+  <message>
+    <key>ana_partner_pawn_rwmsg_ability</key>
+    <original xml:space="preserve">ポーンに戦技の提案を受け
+シークレットアビリティを獲得！</original>
+  </message>
+  <message>
+    <key>ana_partner_pawn_rwmsg_emo</key>
+    <original xml:space="preserve">ポーンに新しいエモートを教えてもらった！</original>
+  </message>
+  <message>
+    <key>ana_partner_pawn_rwmsg_talk</key>
+    <original xml:space="preserve">ポーンの会話が増えました！</original>
+  </message>
+  <message>
+    <key>ana_partner_pawn_lpup</key>
+    <original xml:space="preserve">パートナーポーンとの絆が深まった</original>
+  </message>
+  <message>
+    <key>ana_quest_announce_set_discover_add</key>
+    <original xml:space="preserve">未公開クエスト「%s」を発見した！</original>
+  </message>
+  <message>
+    <key>ana_mission_order_err_condition</key>
+    <original xml:space="preserve">受注条件を満たしていません</original>
+  </message>
+  <message>
+    <key>ana_mission_order_err_condition_ir</key>
+    <original xml:space="preserve">アイテムランクの条件を満たしていません</original>
+  </message>
+  <message>
+    <key>ana_unauthorized_cannotuse</key>
+    <original xml:space="preserve">権限がないため使用できません</original>
+  </message>
+  <message>
+    <key>ana_clan_invite_q_direct</key>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+クランに直接招待します。よろしいですか？</original>
+  </message>
+  <message>
+    <key>ana_clan_invite_direct</key>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+クランに直接招待しました</original>
+  </message>
+  <message>
+    <key>ana_disp_cleartime</key>
+    <original xml:space="preserve">クリアタイム</original>
+  </message>
+  <message>
+    <key>ana_PAWN_DELETE_ERR_PARTNER</key>
+    <original xml:space="preserve">パートナーポーンは削除できません</original>
+  </message>
+  <message>
+    <key>ana_craftskillreset_ng_0point</key>
+    <original xml:space="preserve">ポイントが割り振られていないため使用できません</original>
+  </message>
+  <message>
+    <key>ana_not_login_cogid_ng_caplink</key>
+    <original xml:space="preserve">「カプリンク」を使用するには
+カプコンオンラインゲームズ(COG)のIDでログインする必要があります</original>
+  </message>
+  <message>
+    <key>ana_not_login_cogid_ng_support</key>
+    <original xml:space="preserve">「サポート・報告」を使用するには
+カプコンオンラインゲームズ(COG)のIDでログインする必要があります
+お問い合わせについては公式サイトをご覧ください</original>
   </message>
 </resource>

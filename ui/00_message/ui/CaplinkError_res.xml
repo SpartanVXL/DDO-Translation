@@ -144,7 +144,7 @@
     <original xml:space="preserve">エラー：相手プレイヤーにブロックされています</original>
   </message>
   <message>
-    <key>caplink_err_maintenance</key>
+    <key>caplink_maintenance_notice</key>
     <original xml:space="preserve">カプリンクがメンテナンス中です
 申し訳ありませんが、しばらくしてから再度実行してください</original>
   </message>
@@ -167,5 +167,14 @@
   <message>
     <key>caplink_err_ignore_friend</key>
     <original xml:space="preserve">エラー：無視設定のプレイヤーにはカプトモ申請できません</original>
+  </message>
+  <message>
+    <key>caplink_err_maintenance</key>
+    <original xml:space="preserve">カプリンクは現在メンテナンス中です</original>
+  </message>
+  <message>
+    <key>caplink_not_connect_notice</key>
+    <original xml:space="preserve">現在カプリンクは使用できません
+申し訳ありませんが、しばらくしてから再度実行してください</original>
   </message>
 </resource>

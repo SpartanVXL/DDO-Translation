@@ -134,4 +134,20 @@
     <key>ORB_TEXT_GET_TOTALLEVEL</key>
     <original xml:space="preserve">必要なトータルレベル</original>
   </message>
+  <message>
+    <key>ORB_TEXT_JOB_ORB_TREE</key>
+    <original xml:space="preserve">竜力の継承２</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_ERR_NOT_CONNECT</key>
+    <original xml:space="preserve">下につながっている能力を取得するまで選択できません</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_ERR_NOT_CLEAR_QUEST</key>
+    <original xml:space="preserve">条件のクエストをクリアしていません</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_CONDITION_QUEST</key>
+    <original xml:space="preserve">条件：以下のクエストをクリア</original>
+  </message>
 </resource>

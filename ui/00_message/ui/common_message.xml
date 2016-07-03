@@ -298,7 +298,7 @@
   </message>
   <message>
     <key>common_indicator_lobby</key>
-    <original xml:space="preserve">Lobby</original>
+    <original xml:space="preserve">World</original>
   </message>
   <message>
     <key>common_key_alt</key>
@@ -468,5 +468,65 @@
   <message>
     <key>common_unit_rp</key>
     <original xml:space="preserve">RP</original>
+  </message>
+  <message>
+    <key>common_guide_drag_mousedrag</key>
+    <original xml:space="preserve">つかむ(ドラッグ操作)</original>
+  </message>
+  <message>
+    <key>common_percent</key>
+    <original xml:space="preserve">%</original>
+  </message>
+  <message>
+    <key>common_enemy_transform_erosion_01</key>
+    <original xml:space="preserve">・軽度</original>
+  </message>
+  <message>
+    <key>common_enemy_transform_erosion_02</key>
+    <original xml:space="preserve">・重度</original>
+  </message>
+  <message>
+    <key>common_enemy_transform_erosion_03</key>
+    <original xml:space="preserve">・危険</original>
+  </message>
+  <message>
+    <key>common_switch_deposit</key>
+    <original xml:space="preserve">通常枠</original>
+  </message>
+  <message>
+    <key>common_unit_multiplication</key>
+    <original xml:space="preserve">×</original>
+  </message>
+  <message>
+    <key>common_quest_unpublished</key>
+    <original xml:space="preserve">？？？？？？</original>
+  </message>
+  <message>
+    <key>common_custom_skill_pallet_sub</key>
+    <original xml:space="preserve">パレット サブ</original>
+  </message>
+  <message>
+    <key>common_custom_skill_pallet_main</key>
+    <original xml:space="preserve">パレット メイン</original>
+  </message>
+  <message>
+    <key>common_equip_ir</key>
+    <original xml:space="preserve">IR.</original>
+  </message>
+  <message>
+    <key>common_unitname_craftskillreset</key>
+    <original xml:space="preserve">クラフトスキルリセット</original>
+  </message>
+  <message>
+    <key>common_switch_deposit_ex01</key>
+    <original xml:space="preserve">拡張枠</original>
+  </message>
+  <message>
+    <key>common_colon</key>
+    <original xml:space="preserve">：</original>
+  </message>
+  <message>
+    <key>common_nakaten</key>
+    <original xml:space="preserve">・</original>
   </message>
 </resource>

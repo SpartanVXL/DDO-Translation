@@ -45,6 +45,10 @@
     <translation xml:space="preserve">Hobgoblin Leader</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_10</key>
+    <original xml:space="preserve">ギガン・マキナ</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_11</key>
     <original xml:space="preserve">モゴック</original>
     <translation xml:space="preserve">Mogok</translation>
@@ -95,6 +99,14 @@
     <translation xml:space="preserve">Ooze</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_21</key>
+    <original xml:space="preserve">ミストウィルム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_22</key>
+    <original xml:space="preserve">ミストドレイク</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_23</key>
     <original xml:space="preserve">ベヘモット</original>
     <translation xml:space="preserve">Behemoth</translation>
@@ -108,6 +120,14 @@
     <key>ENEMY_NAME_25</key>
     <original xml:space="preserve">リンドブルム</original>
     <translation xml:space="preserve">Lindwurm</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_26</key>
+    <original xml:space="preserve">ウィルム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_27</key>
+    <original xml:space="preserve">ドレイク</original>
   </message>
   <message>
     <key>ENEMY_NAME_180</key>
@@ -148,6 +168,10 @@
     <key>ENEMY_NAME_34</key>
     <original xml:space="preserve">ゴーストメイル</original>
     <translation xml:space="preserve">Ghost Mail</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_35</key>
+    <original xml:space="preserve">デスナイト</original>
   </message>
   <message>
     <key>ENEMY_NAME_36</key>
@@ -206,12 +230,16 @@
   </message>
   <message>
     <key>ENEMY_NAME_47</key>
-    <original xml:space="preserve">コープストーチャー</original>
+    <original xml:space="preserve">コープストーチャー・フロスト</original>
+    <!-- NEEDS REVIEW -->
+    <!--コープストーチャー-->
     <translation xml:space="preserve">Corpse Torturer</translation>
   </message>
   <message>
     <key>ENEMY_NAME_48</key>
-    <original xml:space="preserve">コープスパニッシャー</original>
+    <original xml:space="preserve">コープスパニッシャー・フロスト</original>
+    <!-- NEEDS REVIEW -->
+    <!--コープスパニッシャー-->
     <translation xml:space="preserve">Corpse Punisher</translation>
   </message>
   <message>
@@ -263,6 +291,10 @@
     <key>ENEMY_NAME_58</key>
     <original xml:space="preserve">ハーピー</original>
     <translation xml:space="preserve">Harpy</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_59</key>
+    <original xml:space="preserve">ミストアルケミスト</original>
   </message>
   <message>
     <key>ENEMY_NAME_60</key>
@@ -395,6 +427,10 @@
     <translation xml:space="preserve">Cockatrice</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_86</key>
+    <original xml:space="preserve">ナイトメア</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_87</key>
     <original xml:space="preserve">グリフィンアルケミー</original>
     <translation xml:space="preserve">Alchemized Griffin</translation>
@@ -408,6 +444,10 @@
     <key>ENEMY_NAME_89</key>
     <original xml:space="preserve">スフィンクス</original>
     <translation xml:space="preserve">Sphinx</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_90</key>
+    <original xml:space="preserve">アルケミーアイ</original>
   </message>
   <message>
     <key>ENEMY_NAME_91</key>
@@ -589,6 +629,10 @@
     <translation xml:space="preserve">Pawn Element Archer</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_127</key>
+    <original xml:space="preserve">ポーンアルケミスト</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_128</key>
     <original xml:space="preserve">フォレストゴブリン</original>
     <translation xml:space="preserve">Forest Goblin</translation>
@@ -622,6 +666,10 @@
     <key>ENEMY_NAME_134</key>
     <original xml:space="preserve">ゴブリンアルケミー</original>
     <translation xml:space="preserve">Alchemized Goblin</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_135</key>
+    <original xml:space="preserve">メルガンアルケミスト</original>
   </message>
   <message>
     <key>ENEMY_NAME_136</key>
@@ -826,5 +874,189 @@
   <message>
     <key>ENEMY_NAME_179</key>
     <original xml:space="preserve">？？？</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_182</key>
+    <original xml:space="preserve">侵食ホブゴブリン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_185</key>
+    <original xml:space="preserve">侵食ダイアウルフ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_187</key>
+    <original xml:space="preserve">ボルトグリムワーグ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_190</key>
+    <original xml:space="preserve">スケルトン・フレイム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_191</key>
+    <original xml:space="preserve">スケルトン・フロスト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_192</key>
+    <original xml:space="preserve">スケルトン・ボルト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_193</key>
+    <original xml:space="preserve">スケルトン・ルクス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_194</key>
+    <original xml:space="preserve">スケルトン・ダーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_195</key>
+    <original xml:space="preserve">スケルトンブルート・フレイム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_196</key>
+    <original xml:space="preserve">スケルトンブルート・フロスト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_197</key>
+    <original xml:space="preserve">スケルトンブルート・ボルト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_198</key>
+    <original xml:space="preserve">スケルトンブルート・ルクス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_199</key>
+    <original xml:space="preserve">スケルトンブルート・ダーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_200</key>
+    <original xml:space="preserve">ラージニュート</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_202</key>
+    <original xml:space="preserve">エリミネーター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_211</key>
+    <original xml:space="preserve">ガーゴイル</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_214</key>
+    <original xml:space="preserve">ストリクス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_215</key>
+    <original xml:space="preserve">侵食スノーハーピー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_219</key>
+    <original xml:space="preserve">アクアジェリー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_220</key>
+    <original xml:space="preserve">パイロスライム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_221</key>
+    <original xml:space="preserve">フリージングスライム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_222</key>
+    <original xml:space="preserve">エレキスライム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_223</key>
+    <original xml:space="preserve">フォトンスライム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_224</key>
+    <original xml:space="preserve">ディムスライム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_240</key>
+    <original xml:space="preserve">侵食ゴアサイクロプス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_246</key>
+    <original xml:space="preserve">侵食グリフィン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_249</key>
+    <original xml:space="preserve">マンイーター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_252</key>
+    <original xml:space="preserve">ゴースト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_253</key>
+    <original xml:space="preserve">カースドラゴン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_254</key>
+    <original xml:space="preserve">侵食ベヘモット</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_259</key>
+    <original xml:space="preserve">フロスト・マキナ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_272</key>
+    <original xml:space="preserve">スカージ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_274</key>
+    <original xml:space="preserve">黒騎士</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_277</key>
+    <original xml:space="preserve">リザードマンセージ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_278</key>
+    <original xml:space="preserve">侵食ホブゴブリンファイター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_279</key>
+    <original xml:space="preserve">侵食スリングホブゴブリン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_298</key>
+    <original xml:space="preserve">オークに進化したゴブリン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_299</key>
+    <original xml:space="preserve">アシッドブロブ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_300</key>
+    <original xml:space="preserve">オイルジェリー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_301</key>
+    <original xml:space="preserve">スカーレットファイター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_302</key>
+    <original xml:space="preserve">スカーレットシーカー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_303</key>
+    <original xml:space="preserve">スカーレットハンター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_304</key>
+    <original xml:space="preserve">スカーレットヒーラー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_305</key>
+    <original xml:space="preserve">スカーレットガーダー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_306</key>
+    <original xml:space="preserve">スカーレットメイジ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_307</key>
+    <original xml:space="preserve">スカーレットウォリアー</original>
   </message>
 </resource>

@@ -23,7 +23,7 @@
   </message>
   <message>
     <key>caplink_achievement</key>
-    <original xml:space="preserve">アチーブメント</original>
+    <original xml:space="preserve">カプトロフィー</original>
   </message>
   <message>
     <key>caplink_title_caplink_j</key>
@@ -862,5 +862,90 @@
   <message>
     <key>caplink_captomolist_caption_ignore_time</key>
     <original xml:space="preserve">設定日時</original>
+  </message>
+  <message>
+    <key>caplink_captomolist_caption_invited_content</key>
+    <original xml:space="preserve">ゲーム</original>
+  </message>
+  <message>
+    <key>caplink_captomolist_caption_invited_time</key>
+    <original xml:space="preserve">招待日時</original>
+  </message>
+  <message>
+    <key>caplink_tab_captomo_invited</key>
+    <original xml:space="preserve">招待一覧</original>
+  </message>
+  <message>
+    <key>caplink_submenu_confirm_invited_message</key>
+    <original xml:space="preserve">メッセージを確認する</original>
+  </message>
+  <message>
+    <key>caplink_dialog_delete_invited_message</key>
+    <original xml:space="preserve">%sからの招待を消去しますか？</original>
+  </message>
+  <message>
+    <key>caplink_dialog_delete_invited_message_done</key>
+    <original xml:space="preserve">%sからの招待を消去しました。</original>
+  </message>
+  <message>
+    <key>caplink_title_achievement_e</key>
+    <original xml:space="preserve">Captrophy</original>
+  </message>
+  <message>
+    <key>caplink_notice_receive_reward</key>
+    <original xml:space="preserve">報酬を受け取りました</original>
+  </message>
+  <message>
+    <key>caplink_achievement_complete</key>
+    <original xml:space="preserve">達成</original>
+  </message>
+  <message>
+    <key>caplink_achievement_not_complete</key>
+    <original xml:space="preserve">未達成</original>
+  </message>
+  <message>
+    <key>caplink_achievement_receive_enable</key>
+    <original xml:space="preserve">受け取り可</original>
+  </message>
+  <message>
+    <key>caplink_achievement_received</key>
+    <original xml:space="preserve">受け取り済</original>
+  </message>
+  <message>
+    <key>caplink_achievement_receive</key>
+    <original xml:space="preserve">受け取る</original>
+  </message>
+  <message>
+    <key>caplink_achievement_difficulty</key>
+    <original xml:space="preserve">難易度</original>
+  </message>
+  <message>
+    <key>caplink_achievement_condition</key>
+    <original xml:space="preserve">条件</original>
+  </message>
+  <message>
+    <key>caplink_achievement_reward</key>
+    <original xml:space="preserve">報酬</original>
+  </message>
+  <message>
+    <key>caplink_achievement_period_infinity</key>
+    <original xml:space="preserve">無制限</original>
+  </message>
+  <message>
+    <key>caplink_confirm_receive_reward</key>
+    <original xml:space="preserve">報酬を受け取りますか</original>
+  </message>
+  <message>
+    <key>caplink_ddon_fullname</key>
+    <original xml:space="preserve">ドラゴンズドグマオンライン</original>
+  </message>
+  <message>
+    <key>caplink_ddon_condition</key>
+    <original xml:space="preserve">DDON達成条件</original>
+  </message>
+  <message>
+    <key>caplink_ddon_condition_explanation</key>
+    <original xml:space="preserve">DDONで条件を達成すると
+他タイトルで報酬が受け取れます</original>
   </message>
 </resource>

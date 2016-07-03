@@ -4,7 +4,12 @@
     <original xml:space="preserve">大剣を突き刺し、勢いよく斬り上げる
 敵を高く打ち上げることが可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--大剣を突き刺し、勢いよく斬り上げる
+敵を高く打ち上げることが可能
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加</COL>-->
     <translation xml:space="preserve">Stabs foes then fiercely slashes upward.
 Can send foes flying high into the air.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
@@ -134,5 +139,19 @@ a concentrated point with great force. The attack's
 range is very narrow, but it carries tremendous power.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases number of hits.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_88</key>
+    <original xml:space="preserve">力を十分に溜めた後、渾身の一撃を繰り出す
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で剣に風圧が追加／攻撃ヒット数増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_139</key>
+    <original xml:space="preserve">しがみついた状態で勢いよく大剣を突き刺し、
+体を上下に揺さぶりながら抉る
+ボタンの連打で揺さぶり回数が増加する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で最大揺さぶり回数増加&lt;/COL&gt;</original>
   </message>
 </resource>

@@ -12,12 +12,18 @@
     <translation xml:space="preserve">Historian</translation>
   </message>
   <message>
+    <original xml:space="preserve">ジョブマスター：アルケミスト</original>
+  </message>
+  <message>
     <original xml:space="preserve">ジョブマスター：ファイター</original>
     <translation xml:space="preserve">Job Master: Fighter</translation>
   </message>
   <message>
     <original xml:space="preserve">よろず屋</original>
     <translation xml:space="preserve">General Shop</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">グランドミッション</original>
   </message>
   <message>
     <original xml:space="preserve">よろず屋</original>
@@ -80,8 +86,14 @@
     <translation xml:space="preserve">Lestania News</translation>
   </message>
   <message>
+    <original xml:space="preserve">グランドミッション：目覚めし闇の魔物</original>
+  </message>
+  <message>
     <original xml:space="preserve">グランドミッション：太古の強者</original>
     <translation xml:space="preserve">Grand Mission: 太古の強者</translation>
+  </message>
+  <message>
+    <original xml:space="preserve">グランドミッション：眩き黄金</original>
   </message>
   <message>
     <original xml:space="preserve">宿屋</original>
@@ -127,10 +139,6 @@
     <translation xml:space="preserve">Item Shop</translation>
   </message>
   <message>
-    <original xml:space="preserve">道具屋</original>
-    <translation xml:space="preserve">Item Shop</translation>
-  </message>
-  <message>
     <original xml:space="preserve">素材屋</original>
     <translation xml:space="preserve">Material Shop</translation>
   </message>
@@ -175,16 +183,11 @@
     <translation xml:space="preserve">Adventure Organizer</translation>
   </message>
   <message>
-    <original xml:space="preserve">エリアマスター</original>
-    <translation xml:space="preserve">Area Master</translation>
-  </message>
-  <message>
     <original xml:space="preserve">素材屋</original>
     <translation xml:space="preserve">Material Shop</translation>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
-    <translation xml:space="preserve">General Shop</translation>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">宿・戦技補佐</original>
@@ -195,24 +198,15 @@
     <translation xml:space="preserve">Adventure Organizer</translation>
   </message>
   <message>
-    <original xml:space="preserve">エリアマスター</original>
-    <translation xml:space="preserve">Area Master</translation>
-  </message>
-  <message>
     <original xml:space="preserve">宿・戦技補佐</original>
     <translation xml:space="preserve">Inn / Arts Support</translation>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
-    <translation xml:space="preserve">General Shop</translation>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">冒険仲介係</original>
     <translation xml:space="preserve">Adventure Organizer</translation>
-  </message>
-  <message>
-    <original xml:space="preserve">エリアマスター</original>
-    <translation xml:space="preserve">Area Master</translation>
   </message>
   <message>
     <original xml:space="preserve">素材屋</original>
@@ -255,14 +249,6 @@
     <translation xml:space="preserve">Adventure Organizer</translation>
   </message>
   <message>
-    <original xml:space="preserve">受付</original>
-    <translation xml:space="preserve">Receptionist</translation>
-  </message>
-  <message>
-    <original xml:space="preserve">よろず屋</original>
-    <translation xml:space="preserve">General Shop</translation>
-  </message>
-  <message>
     <original xml:space="preserve">宿・戦技補佐</original>
     <translation xml:space="preserve">Inn / Arts Support</translation>
   </message>
@@ -271,8 +257,7 @@
     <translation xml:space="preserve">Area Master</translation>
   </message>
   <message>
-    <original xml:space="preserve">道具屋</original>
-    <translation xml:space="preserve">Item Shop</translation>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">素材屋</original>
@@ -283,8 +268,7 @@
     <translation xml:space="preserve">Adventure Organizer</translation>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
-    <translation xml:space="preserve">General Shop</translation>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">道具屋</original>
@@ -314,8 +298,7 @@
     <translation xml:space="preserve">Adventure Organizer</translation>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
-    <translation xml:space="preserve">General Shop</translation>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">宿・戦技補佐</original>
@@ -362,8 +345,7 @@
     <translation xml:space="preserve">Area Master</translation>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
-    <translation xml:space="preserve">General Shop</translation>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">冒険仲介係</original>
@@ -398,16 +380,24 @@
     <translation xml:space="preserve">Area Master / Inn</translation>
   </message>
   <message>
+    <original xml:space="preserve">エリアマスター</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター</original>
+  </message>
+  <message>
     <original xml:space="preserve">エリアマスター・道具屋</original>
     <translation xml:space="preserve">Area Master / Item Shop</translation>
   </message>
   <message>
-    <original xml:space="preserve">復活力・ログインスタンプ</original>
-    <translation xml:space="preserve">Revival Power / Login Stamp</translation>
+    <original xml:space="preserve">道具屋</original>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
-    <translation xml:space="preserve">General Shop</translation>
+    <original xml:space="preserve">復活力・ログインスタンプ</original>
+    <translation xml:space="preserve">Revival Power / Login Stamp</translation>
   </message>
   <message>
     <original xml:space="preserve">鑑定交換</original>
@@ -417,6 +407,40 @@
     <translation xml:space="preserve">General Shop</translation>
   </message>
   <message>
+    <original xml:space="preserve">よろず屋</original>
+  </message>
+  <message>
+    <original xml:space="preserve">自室の管理</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エクストリームトーナメント</original>
+  </message>
+  <message>
+    <original xml:space="preserve">受付</original>
+  </message>
+  <message>
+    <original xml:space="preserve">よろず屋</original>
+    <translation xml:space="preserve">General Shop</translation>
+  </message>
+  <message>
     <original xml:space="preserve">現れしポーン</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エクストリームミッション</original>
+  </message>
+  <message>
+    <original xml:space="preserve">宿・戦技補佐</original>
+  </message>
+  <message>
+    <original xml:space="preserve">よろず屋</original>
+  </message>
+  <message>
+    <original xml:space="preserve">冒険仲介係</original>
+  </message>
+  <message>
+    <original xml:space="preserve">ジョブマスター：スピリットランサー</original>
   </message>
 </resource>

@@ -77,7 +77,9 @@
   </message>
   <message>
     <key>party_list_lobby</key>
-    <original xml:space="preserve">ロビー</original>
+    <original xml:space="preserve">ワールド</original>
+    <!-- NEEDS REVIEW -->
+    <!--ロビー-->
     <translation xml:space="preserve">Lobby</translation>
   </message>
   <message>
@@ -180,5 +182,17 @@
     <key>party_list_simple_req_btn</key>
     <original xml:space="preserve">簡易要請</original>
     <translation xml:space="preserve">Simple Request</translation>
+  </message>
+  <message>
+    <key>party_list_pt_search</key>
+    <original xml:space="preserve">パーティー検索</original>
+  </message>
+  <message>
+    <key>party_list_pl_search_notfound</key>
+    <original xml:space="preserve">一致する情報は見つかりませんでした</original>
+  </message>
+  <message>
+    <key>party_list_pl_name_empty</key>
+    <original xml:space="preserve">(指定なし)</original>
   </message>
 </resource>

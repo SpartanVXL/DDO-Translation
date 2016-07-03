@@ -4,7 +4,13 @@
     <original xml:space="preserve">前方に猛ダッシュしつつ鋭い突き攻撃を放つ
 突進距離に応じて威力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で最大移動距離が延長&lt;/COL&gt;</original>
+LV.６で最大移動距離が延長／
+突進距離最長時に敵のガード状態を崩す&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--前方に猛ダッシュしつつ鋭い突き攻撃を放つ
+突進距離に応じて威力が上昇する
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で最大移動距離が延長</COL>-->
     <translation xml:space="preserve">Rushes at the target and visits
 a powerful blow upon them.
 Damage increases the further you dash.
@@ -128,5 +134,20 @@ countering enemy attacks. Use the &lt;PADM&gt;left stick&lt;KEYM&gt;move key&lt;
 forward or back. Perfect blocks deal more damage.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases range. Increases counter duration.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_17</key>
+    <original xml:space="preserve">高威力の剣舞を広範囲に繰り出す
+初段を敵に接触させれば連撃に移行する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_120</key>
+    <original xml:space="preserve">しがみついた状態から、力を溜めこみ豪快に切り払う
+溜め中は敵の揺さぶりにも耐え、
+ボタンの連打で威力が上昇する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加／必要入力回数減少&lt;/COL&gt;</original>
   </message>
 </resource>

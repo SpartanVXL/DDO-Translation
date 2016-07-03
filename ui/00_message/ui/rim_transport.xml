@@ -25,7 +25,9 @@
   </message>
   <message>
     <key>option_transport_other</key>
-    <original xml:space="preserve">他の礎へ転移</original>
+    <original xml:space="preserve">各地の礎へ転移</original>
+    <!-- NEEDS REVIEW -->
+    <!--他の礎へ転移-->
     <translation xml:space="preserve">Warp to Warp Crystal</translation>
   </message>
   <message>
@@ -75,7 +77,9 @@ warp crystal as your base?</translation>
   </message>
   <message>
     <key>option_transport_rim</key>
-    <original xml:space="preserve">リムストーンへ転移</original>
+    <original xml:space="preserve">神殿内へ転移</original>
+    <!-- NEEDS REVIEW -->
+    <!--リムストーンへ転移-->
     <translation xml:space="preserve">Warp to Riftstone</translation>
   </message>
   <message>
@@ -135,5 +139,9 @@ the party leader?</translation>
   <message>
     <key>title_rim_transport</key>
     <original xml:space="preserve">Warp</original>
+  </message>
+  <message>
+    <key>error_already_favorite</key>
+    <original xml:space="preserve">すでにマイ拠点登録済みの礎です</original>
   </message>
 </resource>

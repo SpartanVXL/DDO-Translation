@@ -125,4 +125,19 @@ Inflicts damage with Ice and Shot attributes.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_79</key>
+    <original xml:space="preserve">魔力を溜めて凝縮し、無属性の魔球を発現させる
+周囲に魔力を解放し大ダメージを与える
+爆発範囲は調節可能で、狭いほど高威力
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で爆発範囲の限界幅が拡張&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_137</key>
+    <original xml:space="preserve">魔力を溜めた後、氷の矢を放つ氷塊を発現させ、
+任意のタイミングで矢を高速射出する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で矢の数が増加／溜め攻撃が可能&lt;/COL&gt;</original>
+  </message>
 </resource>

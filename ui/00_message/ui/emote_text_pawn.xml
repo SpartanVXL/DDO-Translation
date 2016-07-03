@@ -1,7 +1,9 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>emote_text_pawn_7506</key>
-    <original xml:space="preserve">あいさつ</original>
+    <original xml:space="preserve">あいさつ・１</original>
+    <!-- NEEDS REVIEW -->
+    <!--あいさつ-->
     <translation xml:space="preserve">Wave</translation>
   </message>
   <message>
@@ -188,5 +190,17 @@
     <key>emote_text_pawn_7543</key>
     <original xml:space="preserve">トレーニング</original>
     <translation xml:space="preserve">Train</translation>
+  </message>
+  <message>
+    <key>emote_text_pawn_9715</key>
+    <original xml:space="preserve">あいさつ・２</original>
+  </message>
+  <message>
+    <key>emote_text_pawn_9716</key>
+    <original xml:space="preserve">歓喜</original>
+  </message>
+  <message>
+    <key>emote_text_pawn_9717</key>
+    <original xml:space="preserve">居眠り</original>
   </message>
 </resource>

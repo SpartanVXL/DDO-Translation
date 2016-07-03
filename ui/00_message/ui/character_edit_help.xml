@@ -91,7 +91,9 @@
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CAMERA_ZOOM</key>
-    <original xml:space="preserve">モデル回転 / ズーム</original>
+    <original xml:space="preserve">モデル回転&lt;PADM&gt; / ズーム&lt;/PADM&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--モデル回転 / ズーム-->
     <translation xml:space="preserve">Rotate / Zoom</translation>
   </message>
   <message>

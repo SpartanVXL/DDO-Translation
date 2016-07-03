@@ -149,7 +149,7 @@ to level it up?</translation>
   </message>
   <message>
     <key>heading_ability</key>
-    <original xml:space="preserve">Augments</original>
+    <original xml:space="preserve">Abilities</original>
   </message>
   <message>
     <key>heading_command</key>
@@ -172,7 +172,7 @@ to level it up?</translation>
   </message>
   <message>
     <key>heading_change_skill_ability_eng</key>
-    <original xml:space="preserve">Skills/Augments</original>
+    <original xml:space="preserve">Skills/Abilities</original>
   </message>
   <message>
     <key>custom_skill_cmd_title</key>
@@ -282,5 +282,21 @@ to level it up?</translation>
   <message>
     <key>job_msg_total_job_level</key>
     <original xml:space="preserve">Total &lt;VAL LV&gt;</original>
+  </message>
+  <message>
+    <key>job_cahnge_no_ability_notice</key>
+    <original xml:space="preserve">アビリティがセットされていません</original>
+  </message>
+  <message>
+    <key>need_splimit_to_get</key>
+    <original xml:space="preserve">特殊条件</original>
+  </message>
+  <message>
+    <key>need_splimit_to_get_skill_info</key>
+    <original xml:space="preserve">特殊条件により解放</original>
+  </message>
+  <message>
+    <key>btn_guide_change_skill_pallet</key>
+    <original xml:space="preserve">スキルパレット切り替え</original>
   </message>
 </resource>

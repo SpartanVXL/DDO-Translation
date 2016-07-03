@@ -144,7 +144,7 @@
   </message>
   <message>
     <key>status_heading_resist_status</key>
-    <original xml:space="preserve">Resistance</original>
+    <original xml:space="preserve">Other Status</original>
   </message>
   <message>
     <key>status_preset_title</key>
@@ -255,5 +255,17 @@
   <message>
     <key>status_craft_title</key>
     <original xml:space="preserve">Craft</original>
+  </message>
+  <message>
+    <key>status_equip_jewelry_slot_num</key>
+    <original xml:space="preserve">ジュエリー装備可能数：%d</original>
+  </message>
+  <message>
+    <key>status_equip_jewelry_category_num</key>
+    <original xml:space="preserve">%s (%d/%d)</original>
+  </message>
+  <message>
+    <key>status_heading_resist_details</key>
+    <original xml:space="preserve">Details</original>
   </message>
 </resource>

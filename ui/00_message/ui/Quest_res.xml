@@ -471,6 +471,27 @@
   </message>
   <message>
     <key>QUEST_MSG_PARTY_LARGE</key>
-    <original xml:space="preserve">８人パーティー状態では進行できません</original>
+    <original xml:space="preserve">特定のコンテンツ中は進行できません</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_SELECT_REWARD_ONLY_ONE</key>
+    <original xml:space="preserve">選択報酬</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_BONUS_REWARD_DAILY</key>
+    <original xml:space="preserve">１日１回「基本報酬」
+レア素材入手可能！</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_BN_DAILY</key>
+    <original xml:space="preserve">デイリーボーナス</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ENEMYINFO</key>
+    <original xml:space="preserve">魔物情報</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_DELIVERYINFO</key>
+    <original xml:space="preserve">クリアに必要な納品情報</original>
   </message>
 </resource>

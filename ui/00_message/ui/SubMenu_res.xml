@@ -271,6 +271,14 @@
   </message>
   <message>
     <key>msg_SUB_MENU_CRAFTSKILLRESET</key>
-    <original xml:space="preserve">使用する</original>
+    <original xml:space="preserve">クラフトポイントのリセット</original>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_PARTNERPAWN_SET</key>
+    <original xml:space="preserve">パートナーポーンに設定</original>
+  </message>
+  <message>
+    <key>msg_SUB_MENU_CLAN_INVITE_DIRECT</key>
+    <original xml:space="preserve">クランに直接招待する</original>
   </message>
 </resource>

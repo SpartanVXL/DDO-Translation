@@ -518,7 +518,9 @@ Report to the Job Master.</translation>
   </message>
   <message>
     <key>syslog_om_door_open_by_enemy</key>
-    <original xml:space="preserve">敵によって閉ざされていた道が開けた</original>
+    <original xml:space="preserve">閉ざされていた道が開けた</original>
+    <!-- NEEDS REVIEW -->
+    <!--敵によって閉ざされていた道が開けた-->
     <translation xml:space="preserve">The door has been opened by the enemy.</translation>
   </message>
   <message>
@@ -1160,5 +1162,42 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   <message>
     <key>syslog_break_region_lose_raid_boss</key>
     <original xml:space="preserve">&lt;VAL&gt;の部位が壊れた！</original>
+  </message>
+  <message>
+    <key>syslog_clan_member_login</key>
+    <original xml:space="preserve">%sがログインしました</original>
+  </message>
+  <message>
+    <key>syslog_clan_member_getachievement</key>
+    <original xml:space="preserve">%sがアチーブメント「%s」を獲得しました</original>
+  </message>
+  <message>
+    <key>syslog_quiq_mach_purpose</key>
+    <original xml:space="preserve">冒険目的＜&lt;NAME ETC&gt;＞
+小目的＜&lt;NAME ETC&gt;＞の条件でマッチングしました</original>
+  </message>
+  <message>
+    <key>syslog_name_etc_use</key>
+    <original xml:space="preserve">&lt;NAME ETC&gt; を使用しました</original>
+  </message>
+  <message>
+    <key>syslog_name_etc_buy</key>
+    <original xml:space="preserve">&lt;NAME ETC&gt; を購入しました</original>
+  </message>
+  <message>
+    <key>syslog_captrophy_complete</key>
+    <original xml:space="preserve">カプトロフィーの条件を達成しました</original>
+  </message>
+  <message>
+    <key>syslog_exm_divide_player</key>
+    <original xml:space="preserve">&lt;VAL&gt;が強制転移させられた</original>
+  </message>
+  <message>
+    <key>syslog_exm_return_player</key>
+    <original xml:space="preserve">パーティーメンバーが転移先から復帰した！</original>
+  </message>
+  <message>
+    <key>syslog_quest_stop_content_reset</key>
+    <original xml:space="preserve">クエストが進行不能のため、コンテンツ中断をおこなってください</original>
   </message>
 </resource>

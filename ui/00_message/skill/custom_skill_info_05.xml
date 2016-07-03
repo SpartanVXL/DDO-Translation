@@ -77,8 +77,14 @@ LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
     <original xml:space="preserve">魔法のアンカーを射出し、敵を一定時間拘束する
 大型の敵や一部の強敵には、物攻低下・魔攻低下・
 物防低下・魔防低下の状態異常値を蓄積させる
-&lt;COL ffdc78&gt;LV UP毎に拘束中のスタミナ消費減少
+&lt;COL ffdc78&gt;LV UP毎に拘束中スタミナ消費減少／状態異常値上昇
 LV.６で射程距離延長&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--魔法のアンカーを射出し、敵を一定時間拘束する
+大型の敵や一部の強敵には、物攻低下・魔攻低下・
+物防低下・魔防低下の状態異常値を蓄積させる
+<COL ffdc78>LV UP毎に拘束中のスタミナ消費減少
+LV.６で射程距離延長</COL>-->
     <translation xml:space="preserve">Use magick to create an anchor, binding the enemy.
 Inflicts ATK Down, MATK Down, and slowly builds
 DEF Down, MDEF Down to large and some formidable enemies.
@@ -131,5 +137,21 @@ LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
 nullifying damage for all allies nearby.
 &lt;COL ffdc78&gt;LV UP: Shortens casting time.
 LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_67</key>
+    <original xml:space="preserve">魔法のアンカーを射出し、捕らえた敵から攻力を
+吸収することでフォースゲージを溜める
+ヒット中、&lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;で任意方向へ移動可能
+&lt;COL ffdc78&gt;LV UP毎にヒット中のスタミナ消費減少
+LV.６で射程距離延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_136</key>
+    <original xml:space="preserve">ロッドの放射光を敵に照らしつづけることで
+敵に石化の状態異常値を蓄積させる
+フォースゲージの残存分、消費しつつ技性能上昇
+&lt;COL ffdc78&gt;LV UP毎に石化の異常値上昇
+LV.６で照射範囲拡大&lt;/COL&gt;</original>
   </message>
 </resource>
