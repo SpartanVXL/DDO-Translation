@@ -6,11 +6,12 @@
   </message>
   <message>
     <key>caplink_friend_list</key>
-    <original xml:space="preserve">カプトモリスト</original>
+    <original xml:space="preserve">Capfriend List</original>
   </message>
   <message>
     <key>caplink_talk</key>
     <original xml:space="preserve">カプトーク</original>
+    <translation xml:space="preserve">Captalk</translation>
   </message>
   <message>
     <key>caplink_search</key>
@@ -24,10 +25,12 @@
   <message>
     <key>caplink_achievement</key>
     <original xml:space="preserve">カプトロフィー</original>
+    <translation xml:space="preserve">Captrophy</translation>
   </message>
   <message>
     <key>caplink_title_caplink_j</key>
     <original xml:space="preserve">カプリンクメニュー</original>
+    <translation xml:space="preserve">Caplink</translation>
   </message>
   <message>
     <key>caplink_title_menu_e</key>
@@ -148,6 +151,7 @@
   <message>
     <key>caplink_close_all</key>
     <original xml:space="preserve">非公開</original>
+    <translation xml:space="preserve">Private</translation>
   </message>
   <message>
     <key>caplink_allow</key>
@@ -157,18 +161,22 @@
   <message>
     <key>caplink_open_captomo</key>
     <original xml:space="preserve">カプトモのみ公開</original>
+    <translation xml:space="preserve">Public to Capfriends</translation>
   </message>
   <message>
     <key>caplink_close</key>
     <original xml:space="preserve">非公開</original>
+    <translation xml:space="preserve">Private</translation>
   </message>
   <message>
     <key>caplink_open_public</key>
     <original xml:space="preserve">全員に公開</original>
+    <translation xml:space="preserve">Public to Everyone</translation>
   </message>
   <message>
     <key>caplink_open</key>
     <original xml:space="preserve">公開</original>
+    <translation xml:space="preserve">Public</translation>
   </message>
   <message>
     <key>caplink_notice_invite_games</key>
@@ -197,27 +205,32 @@
   <message>
     <key>caplink_allosing_searched</key>
     <original xml:space="preserve">検索可能設定</original>
+    <translation xml:space="preserve">Can Be Searched</translation>
   </message>
   <message>
     <key>caplink_profile_expose</key>
     <original xml:space="preserve">プロフィールの公開</original>
+    <translation xml:space="preserve">Profile Visibility</translation>
   </message>
   <message>
     <key>caplink_profile_config</key>
     <original xml:space="preserve">プロフィール設定</original>
+    <translation xml:space="preserve">Profile Settings</translation>
   </message>
   <message>
     <key>caplink_expose_ddo_online_state</key>
     <original xml:space="preserve">オンライン状態の公開</original>
+    <translation xml:space="preserve">Online Status Visibility</translation>
   </message>
   <message>
     <key>caplink_expose_ddo_records</key>
     <original xml:space="preserve">プレイ情報の公開</original>
+    <translation xml:space="preserve">Play Data Visibility</translation>
   </message>
   <message>
     <key>caplink_ddo_config</key>
     <original xml:space="preserve">Dragon's Dogma Online設定</original>
-    <translation xml:space="preserve">Dragon's Dogma Online Config</translation>
+    <translation xml:space="preserve">Dragon's Dogma Online Settings</translation>
   </message>
   <message>
     <key>caplink_button_guid</key>
@@ -256,6 +269,7 @@
   <message>
     <key>caplink_comment</key>
     <original xml:space="preserve">コメント</original>
+    <translation xml:space="preserve">Comment</translation>
   </message>
   <message>
     <key>caplink_captomo_pass</key>
@@ -264,6 +278,7 @@
   <message>
     <key>caplink_capname</key>
     <original xml:space="preserve">カプネーム</original>
+    <translation xml:space="preserve">Capname</translation>
   </message>
   <message>
     <key>caplink_tab_captomo_appling</key>
@@ -677,6 +692,7 @@
   <message>
     <key>caplink_profile_open_captomo_from_captomo</key>
     <original xml:space="preserve">カプトモのカプトモまで公開</original>
+    <translation xml:space="preserve">Public to Capfriends of Capfriends</translation>
   </message>
   <message>
     <key>caplink_profile_reception_captomo</key>
