@@ -12,12 +12,12 @@
   <message>
     <key>ENEMY_NAME_3</key>
     <original xml:space="preserve">シールドゴブリン</original>
-    <translation xml:space="preserve">Goblin Blocker</translation>
+    <translation xml:space="preserve">Shield Goblin</translation>
   </message>
   <message>
     <key>ENEMY_NAME_4</key>
     <original xml:space="preserve">スリングゴブリン</original>
-    <translation xml:space="preserve">Goblin Slinger</translation>
+    <translation xml:space="preserve">Sling Goblin</translation>
   </message>
   <message>
     <key>ENEMY_NAME_5</key>
@@ -37,7 +37,7 @@
   <message>
     <key>ENEMY_NAME_8</key>
     <original xml:space="preserve">スリングホブゴブリン</original>
-    <translation xml:space="preserve">Hobgoblin Slinger</translation>
+    <translation xml:space="preserve">Sling Hobgoblin</translation>
   </message>
   <message>
     <key>ENEMY_NAME_9</key>
@@ -57,12 +57,12 @@
   <message>
     <key>ENEMY_NAME_12</key>
     <original xml:space="preserve">ジェネラルオーク</original>
-    <translation xml:space="preserve">Orc General</translation>
+    <translation xml:space="preserve">General Orc</translation>
   </message>
   <message>
     <key>ENEMY_NAME_13</key>
     <original xml:space="preserve">キャプテンオーク</original>
-    <translation xml:space="preserve">Orc Captain</translation>
+    <translation xml:space="preserve">Captain Orc</translation>
   </message>
   <message>
     <key>ENEMY_NAME_14</key>
@@ -122,7 +122,7 @@
   <message>
     <key>ENEMY_NAME_25</key>
     <original xml:space="preserve">リンドブルム</original>
-    <translation xml:space="preserve">Lindwyrm</translation>
+    <translation xml:space="preserve">Lindwurm</translation>
   </message>
   <message>
     <key>ENEMY_NAME_26</key>
@@ -212,7 +212,7 @@
   <message>
     <key>ENEMY_NAME_42</key>
     <original xml:space="preserve">ロックリザード</original>
-    <translation xml:space="preserve">Stone Saurian</translation>
+    <translation xml:space="preserve">Rock Saurian</translation>
   </message>
   <message>
     <key>ENEMY_NAME_43</key>
@@ -257,7 +257,7 @@
   <message>
     <key>ENEMY_NAME_51</key>
     <original xml:space="preserve">ウォリアーアンデッド</original>
-    <translation xml:space="preserve">Undead Warrior</translation>
+    <translation xml:space="preserve">Warrior Undead</translation>
   </message>
   <message>
     <key>ENEMY_NAME_52</key>
@@ -337,7 +337,7 @@
   <message>
     <key>ENEMY_NAME_67</key>
     <original xml:space="preserve">ローグファイター</original>
-    <translation xml:space="preserve">Bandit Fighter</translation>
+    <translation xml:space="preserve">Rogue Fighter</translation>
   </message>
   <message>
     <key>ENEMY_NAME_68</key>
@@ -452,7 +452,7 @@
   <message>
     <key>ENEMY_NAME_90</key>
     <original xml:space="preserve">アルケミーアイ</original>
-    <translation xml:space="preserve">Alchemized Eye</translation>
+    <translation xml:space="preserve">Alchemy Eye</translation>
   </message>
   <message>
     <key>ENEMY_NAME_91</key>
@@ -512,7 +512,7 @@
   <message>
     <key>ENEMY_NAME_102</key>
     <original xml:space="preserve">ゴルゴラン</original>
-    <translation xml:space="preserve">Golgoron</translation>
+    <translation xml:space="preserve">Golgorran</translation>
   </message>
   <message>
     <key>ENEMY_NAME_103</key>
@@ -547,7 +547,7 @@
   <message>
     <key>ENEMY_NAME_109</key>
     <original xml:space="preserve">野ブタ</original>
-    <translation xml:space="preserve">Wild Pig</translation>
+    <translation xml:space="preserve">Boar</translation>
   </message>
   <message>
     <key>ENEMY_NAME_110</key>
@@ -597,47 +597,47 @@
   <message>
     <key>ENEMY_NAME_119</key>
     <original xml:space="preserve">ポーンファイター</original>
-    <translation xml:space="preserve">Fighter Pawn</translation>
+    <translation xml:space="preserve">Pawn Fighter</translation>
   </message>
   <message>
     <key>ENEMY_NAME_120</key>
     <original xml:space="preserve">ポーンシーカー</original>
-    <translation xml:space="preserve">Seeker Pawn</translation>
+    <translation xml:space="preserve">Pawn Seeker</translation>
   </message>
   <message>
     <key>ENEMY_NAME_121</key>
     <original xml:space="preserve">ポーンハンター</original>
-    <translation xml:space="preserve">Hunter Pawn</translation>
+    <translation xml:space="preserve">Pawn Hunter</translation>
   </message>
   <message>
     <key>ENEMY_NAME_122</key>
     <original xml:space="preserve">ポーンヒーラー</original>
-    <translation xml:space="preserve">Healer Pawn</translation>
+    <translation xml:space="preserve">Pawn Healer</translation>
   </message>
   <message>
     <key>ENEMY_NAME_123</key>
     <original xml:space="preserve">ポーンガーダー</original>
-    <translation xml:space="preserve">Guardian Pawn</translation>
+    <translation xml:space="preserve">Pawn Defender</translation>
   </message>
   <message>
     <key>ENEMY_NAME_124</key>
     <original xml:space="preserve">ポーンメイジ</original>
-    <translation xml:space="preserve">Mage Pawn</translation>
+    <translation xml:space="preserve">Pawn Mage</translation>
   </message>
   <message>
     <key>ENEMY_NAME_125</key>
     <original xml:space="preserve">ポーンウォリアー</original>
-    <translation xml:space="preserve">Warrior Pawn</translation>
+    <translation xml:space="preserve">Pawn Warrior</translation>
   </message>
   <message>
     <key>ENEMY_NAME_126</key>
     <original xml:space="preserve">ポーンエレメンター</original>
-    <translation xml:space="preserve">Element Archer Pawn</translation>
+    <translation xml:space="preserve">Pawn Element Archer</translation>
   </message>
   <message>
     <key>ENEMY_NAME_127</key>
     <original xml:space="preserve">ポーンアルケミスト</original>
-    <translation xml:space="preserve">Alchemist Pawn</translation>
+    <translation xml:space="preserve">Pawn Alchemist</translation>
   </message>
   <message>
     <key>ENEMY_NAME_128</key>
@@ -652,7 +652,7 @@
   <message>
     <key>ENEMY_NAME_130</key>
     <original xml:space="preserve">スリングフォレストゴブリン</original>
-    <translation xml:space="preserve">Forest Goblin Slinger</translation>
+    <translation xml:space="preserve">Sling Forest Goblin</translation>
   </message>
   <message>
     <key>ENEMY_NAME_131</key>
@@ -667,7 +667,7 @@
   <message>
     <key>ENEMY_NAME_133</key>
     <original xml:space="preserve">スリングレッドキャップ</original>
-    <translation xml:space="preserve">Redcap Slinger</translation>
+    <translation xml:space="preserve">Sling Redcap</translation>
   </message>
   <message>
     <key>ENEMY_NAME_134</key>
@@ -677,36 +677,37 @@
   <message>
     <key>ENEMY_NAME_135</key>
     <original xml:space="preserve">メルガンアルケミスト</original>
+    <translation xml:space="preserve">Mergan Alchemist</translation>
   </message>
   <message>
     <key>ENEMY_NAME_136</key>
     <original xml:space="preserve">ローグシーカー</original>
-    <translation xml:space="preserve">Bandit Seeker</translation>
+    <translation xml:space="preserve">Rogue Seeker</translation>
   </message>
   <message>
     <key>ENEMY_NAME_137</key>
     <original xml:space="preserve">ローグハンター</original>
-    <translation xml:space="preserve">Bandit Hunter</translation>
+    <translation xml:space="preserve">Rogue Hunter</translation>
   </message>
   <message>
     <key>ENEMY_NAME_138</key>
     <original xml:space="preserve">ローグヒーラー</original>
-    <translation xml:space="preserve">Bandit Healer</translation>
+    <translation xml:space="preserve">Rogue Healer</translation>
   </message>
   <message>
     <key>ENEMY_NAME_139</key>
     <original xml:space="preserve">ローグガーダー</original>
-    <translation xml:space="preserve">Bandit Guardian</translation>
+    <translation xml:space="preserve">Rogue Defender</translation>
   </message>
   <message>
     <key>ENEMY_NAME_140</key>
     <original xml:space="preserve">ローグメイジ</original>
-    <translation xml:space="preserve">Bandit Mage</translation>
+    <translation xml:space="preserve">Rogue Mage</translation>
   </message>
   <message>
     <key>ENEMY_NAME_141</key>
     <original xml:space="preserve">ローグウォリアー</original>
-    <translation xml:space="preserve">Bandit Warrior</translation>
+    <translation xml:space="preserve">Rogue Warrior</translation>
   </message>
   <message>
     <key>ENEMY_NAME_142</key>
@@ -726,7 +727,7 @@
   <message>
     <key>ENEMY_NAME_145</key>
     <original xml:space="preserve">バンデッドガーダー</original>
-    <translation xml:space="preserve">Banded Guardian</translation>
+    <translation xml:space="preserve">Banded Defender</translation>
   </message>
   <message>
     <key>ENEMY_NAME_146</key>
@@ -751,7 +752,7 @@
   <message>
     <key>ENEMY_NAME_150</key>
     <original xml:space="preserve">メルガンガーダー</original>
-    <translation xml:space="preserve">Mergan Guardian</translation>
+    <translation xml:space="preserve">Mergan Defender</translation>
   </message>
   <message>
     <key>ENEMY_NAME_151</key>
@@ -816,7 +817,7 @@
   <message>
     <key>ENEMY_NAME_163</key>
     <original xml:space="preserve">スリングシャドーゴブリン</original>
-    <translation xml:space="preserve">Shadow Goblin Slinger</translation>
+    <translation xml:space="preserve">Shadow Sling Goblin</translation>
   </message>
   <message>
     <key>ENEMY_NAME_164</key>
@@ -836,7 +837,7 @@
   <message>
     <key>ENEMY_NAME_167</key>
     <original xml:space="preserve">ダムドスリングゴブリン</original>
-    <translation xml:space="preserve">Damned Goblin Slinger</translation>
+    <translation xml:space="preserve">Damned Sling Goblin</translation>
   </message>
   <message>
     <key>ENEMY_NAME_168</key>
@@ -846,7 +847,7 @@
   <message>
     <key>ENEMY_NAME_169</key>
     <original xml:space="preserve">スリングゴブリンアルケミー</original>
-    <translation xml:space="preserve">Alchemized Goblin Slinger</translation>
+    <translation xml:space="preserve">Alchemized Sling Goblin</translation>
   </message>
   <message>
     <key>ENEMY_NAME_170</key>
@@ -856,7 +857,7 @@
   <message>
     <key>ENEMY_NAME_171</key>
     <original xml:space="preserve">ロックリザードスピネル</original>
-    <translation xml:space="preserve">Spinel Stone Saurian</translation>
+    <translation xml:space="preserve">Rock Saurian Spinel</translation>
   </message>
   <message>
     <key>ENEMY_NAME_172</key>
@@ -881,6 +882,7 @@
   <message>
     <key>ENEMY_NAME_179</key>
     <original xml:space="preserve">？？？</original>
+    <translation xml:space="preserve">???</translation>
   </message>
   <message>
     <key>ENEMY_NAME_182</key>
@@ -955,7 +957,7 @@
   <message>
     <key>ENEMY_NAME_202</key>
     <original xml:space="preserve">エリミネーター</original>
-    <translation xml:space="preserve">Elminator</translation>
+    <translation xml:space="preserve">Eliminator</translation>
   </message>
   <message>
     <key>ENEMY_NAME_211</key>
@@ -1060,7 +1062,7 @@
   <message>
     <key>ENEMY_NAME_279</key>
     <original xml:space="preserve">侵食スリングホブゴブリン</original>
-    <translation xml:space="preserve">Infected Hobgoblin Slinger</translation>
+    <translation xml:space="preserve">Infected Sling Hobgoblin</translation>
   </message>
   <message>
     <key>ENEMY_NAME_298</key>
@@ -1100,7 +1102,7 @@
   <message>
     <key>ENEMY_NAME_305</key>
     <original xml:space="preserve">スカーレットガーダー</original>
-    <translation xml:space="preserve">Scarlet Guardian</translation>
+    <translation xml:space="preserve">Scarlet Defender</translation>
   </message>
   <message>
     <key>ENEMY_NAME_306</key>
