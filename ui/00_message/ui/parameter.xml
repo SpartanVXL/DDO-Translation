@@ -533,7 +533,7 @@
   <message>
     <key>item_categoryname_special</key>
     <original xml:space="preserve">ジョブ専用</original>
-    <translation xml:space="preserve">Job Item</translation>
+    <translation xml:space="preserve">Job</translation>
   </message>
   <message>
     <key>material_cateforyname_metal</key>
@@ -718,12 +718,12 @@
   <message>
     <key>parts_body_armor</key>
     <original xml:space="preserve">胴アーマー</original>
-    <translation xml:space="preserve">Torso Armor</translation>
+    <translation xml:space="preserve">Body Armor</translation>
   </message>
   <message>
     <key>parts_body_wear</key>
     <original xml:space="preserve">胴ウェア</original>
-    <translation xml:space="preserve">Chest Clothing</translation>
+    <translation xml:space="preserve">Body Clothing</translation>
   </message>
   <message>
     <key>parts_arm_armor</key>
@@ -738,12 +738,12 @@
   <message>
     <key>parts_leg_wear</key>
     <original xml:space="preserve">脚ウェア</original>
-    <translation xml:space="preserve">Leg Clothing</translation>
+    <translation xml:space="preserve">Legwear</translation>
   </message>
   <message>
     <key>parts_overwear</key>
     <original xml:space="preserve">オーバーウェア</original>
-    <translation xml:space="preserve">Outerwear</translation>
+    <translation xml:space="preserve">Overwear</translation>
   </message>
   <message>
     <key>parts_jewelry</key>
@@ -753,7 +753,7 @@
   <message>
     <key>parts_costume</key>
     <original xml:space="preserve">一式装備</original>
-    <translation xml:space="preserve">Costume</translation>
+    <translation xml:space="preserve">Ensemble</translation>
   </message>
   <message>
     <key>item_tower_shield_collect_point</key>
