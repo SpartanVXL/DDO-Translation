@@ -304,7 +304,7 @@
   <message>
     <key>DIALOG_RECEIPT_SUCCESS</key>
     <original xml:space="preserve">&lt;NAME ITEM&gt;　&lt;VAL&gt;個を受け取りました</original>
-	<translation xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; obtained.</translation>
+    <translation xml:space="preserve">&lt;NAME ITEM&gt; x&lt;VAL&gt; obtained.</translation>
   </message>
   <message>
     <key>DIALOG_GET_XP</key>
@@ -1014,17 +1014,17 @@ has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</tran
   <message>
     <key>DIALOG_CONFIRM_CHOICE_CREATION_TYPE</key>
     <original xml:space="preserve">作成方法を選んでください</original>
-	<translation xml:space="preserve">Please choose the creation type.</translation>
+    <translation xml:space="preserve">Please choose the creation type.</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_START</key>
     <original xml:space="preserve">通常作成</original>
-	<translation xml:space="preserve">Create normally</translation>
+    <translation xml:space="preserve">Create normally</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_EX_CREATE</key>
     <original xml:space="preserve">黄金石を使用して作成</original>
-	<translation xml:space="preserve">Create using Golden Gemstones</translation>
+    <translation xml:space="preserve">Create using Golden Gemstones</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_EX_CREATE</key>
