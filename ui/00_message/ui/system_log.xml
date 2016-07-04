@@ -996,7 +996,8 @@ Gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;.</translation>
   <message>
     <key>syslog_login_unclaimed_qreward</key>
     <original xml:space="preserve">保管ボックスに未受け取りのクエスト報酬があります</original>
-    <translation xml:space="preserve">There are quest rewards awaiting claim at the storage box.</translation>
+    <translation xml:space="preserve">There are quest rewards awaiting claim at the
+storage box.</translation>
   </message>
   <message>
     <key>syslog_quest_repeat_reward</key>
@@ -1164,6 +1165,7 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   <message>
     <key>syslog_clan_member_login</key>
     <original xml:space="preserve">%sがログインしました</original>
+	<translation xml:space="preserve">%s has logged in.</translation>
   </message>
   <message>
     <key>syslog_clan_member_getachievement</key>

@@ -804,7 +804,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>RECIPE_CATE_USE_ITEM_KEY</key>
     <original xml:space="preserve">鍵・採集・探索</original>
-    <translation xml:space="preserve">Key / Gathering / Exploration</translation>
+    <translation xml:space="preserve">Exploration</translation>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_JOB</key>
@@ -1010,6 +1010,7 @@ has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</tran
   <message>
     <key>RECIPE_CATE_MATERIAL_AREA</key>
     <original xml:space="preserve">地域素材</original>
+	<translation xml:space="preserve">Regional</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_CHOICE_CREATION_TYPE</key>
@@ -1031,20 +1032,28 @@ has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</tran
     <original xml:space="preserve">アイテムの作成がその場で完了します
 &lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;を消費して作成しますか？
 (所持数：&lt;VAL&gt;)</original>
+    <translation xml:space="preserve">The item will be created immediately.
+This will consume &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;.
+(You have: &lt;VAL&gt;)</translation>
   </message>
   <message>
     <key>DIALOG_EX_CREATE</key>
     <original xml:space="preserve">アイテムの作成が完了しました</original>
+	<translation xml:space="preserve">Item creation complete.</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_EX_CREATE_ERROR</key>
     <original xml:space="preserve">黄金石が不足しています
 その場で作成完了するには&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;が必要です
 (所持数：&lt;VAL&gt;)</original>
+    <translation xml:space="preserve">You do not have enough Golden Gemstones.
+Creating this item requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;.
+(You have: &lt;VAL&gt;)</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_JUMP_ONLINESHOP</key>
     <original xml:space="preserve">オンラインショップを開く</original>
+	<translation xml:space="preserve">Open the online shop</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_CHOICE_STOP_TYPE</key>
