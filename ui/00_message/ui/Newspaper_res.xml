@@ -200,6 +200,7 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_icon_ending</key>
     <original xml:space="preserve">終了直前</original>
+	<translation xml:space="preserve">Ending</translation>
   </message>
   <message>
     <key>np_msg_noquickpt</key>
@@ -290,12 +291,14 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
 ＜Bonus Condition＞
 　・Complete the target World Quest with other players.
 　　With a full party, clear the quest &lt;VAL&gt; times.
-　　(Hybrid party with players and pawns is OK)
+　　(Hybrid party with player and pawn is OK)
 
 ＜Bonus Content＞
-　・The quest reward (XP/G/R/AP) will be increased.
-　・The bonus may be penalized/disabled if level difference is high/quests are not
-   on the same progress.
+　・The quest reward (XP/G/R/AP) will be
+  increased.
+　・The bonus may be penalized/disabled if level
+  difference is high/quests are not
+  on the same progress.
 
 　※Target quest will change daily.
 　※Within the quest log, you can check
