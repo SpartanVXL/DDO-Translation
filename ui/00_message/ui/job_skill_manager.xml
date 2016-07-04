@@ -57,7 +57,7 @@
   </message>
   <message>
     <key>heading_current_ability</key>
-    <original xml:space="preserve">Set Ability</original>
+    <original xml:space="preserve">Set Augment</original>
   </message>
   <message>
     <key>option_filter</key>
@@ -125,6 +125,7 @@ to level it up?</translation>
   <message>
     <key>announce_ability_search_result</key>
     <original xml:space="preserve">&lt;VAL&gt;件見つかりました</original>
+	<translation xml:space="preserve">Found &lt;VAL&gt; results.</translation>
   </message>
   <message>
     <key>job_infomation_window_title_infomation</key>
@@ -163,7 +164,7 @@ to level it up?</translation>
   <message>
     <key>error_set_already</key>
     <original xml:space="preserve">既にセット済みです</original>
-    <translation xml:space="preserve">That ability is already set.</translation>
+    <translation xml:space="preserve">That augment is already set.</translation>
   </message>
   <message>
     <key>ability_type_secret</key>
@@ -186,7 +187,7 @@ to level it up?</translation>
   <message>
     <key>btn_guide_set_ability</key>
     <original xml:space="preserve">アビリティの装備</original>
-    <translation xml:space="preserve">Set Ability</translation>
+    <translation xml:space="preserve">Set Augment</translation>
   </message>
   <message>
     <key>btn_guide_sub_menu</key>

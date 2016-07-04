@@ -36,10 +36,12 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_code_text</key>
     <original xml:space="preserve">確認コード &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt; を入力してください</original>
+	<translation xml:space="preserve">Please enter the confirmation code &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt;.</translation>
   </message>
   <message>
     <key>char_sel_code</key>
     <original xml:space="preserve">確認コード：</original>
+	<translation xml:space="preserve">Confirmation Code:</translation>
   </message>
   <message>
     <key>char_sel_decide</key>
@@ -59,7 +61,7 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_plz_wait</key>
     <original xml:space="preserve">しばらくお待ちください</original>
-    <translation xml:space="preserve">Please wait</translation>
+    <translation xml:space="preserve">Please wait.</translation>
   </message>
   <message>
     <key>char_sel_del_alert</key>
@@ -68,10 +70,12 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_del_finish</key>
     <original xml:space="preserve">キャラクターの削除が完了しました</original>
+	<translation xml:space="preserve">Character deletion is complete.</translation>
   </message>
   <message>
     <key>char_sel_del_error</key>
     <original xml:space="preserve">確認コードが間違っています</original>
+	<translation xml:space="preserve">The confirmation code is incorrect.</translation>
   </message>
   <message>
     <key>char_sel_bonus</key>
@@ -80,6 +84,7 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_no_bonus</key>
     <original xml:space="preserve">発動中の&lt;OPCS&gt;はありません</original>
+	<translation xml:space="preserve">There is no &lt;OPCS&gt; currently active.</translation>
   </message>
   <message>
     <key>char_sel_fourwords</key>
@@ -88,6 +93,7 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_announce_charover</key>
     <original xml:space="preserve">キャラクター作成上限です</original>
+	<translation xml:space="preserve">You have the maximum amount of characters.</translation>
   </message>
   <message>
     <key>char_sel_add_newchar</key>
@@ -107,14 +113,17 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_button_clan_notice</key>
     <original xml:space="preserve">クランへの通知設定</original>
+	<translation xml:space="preserve">Clan Notification Setting</translation>
   </message>
   <message>
     <key>char_sel_affiliation_clan</key>
     <original xml:space="preserve">所属クラン</original>
+	<translation xml:space="preserve">Affiliated Clan</translation>
   </message>
   <message>
     <key>char_sel_clan_notice_info</key>
     <original xml:space="preserve">クランメンバーへ自分のステータスを通知する</original>
+	<translation xml:space="preserve">Provide Status to Your Clan</translation>
   </message>
   <message>
     <key>char_sel_on</key>
@@ -128,13 +137,17 @@ The deleted character cannot be restored.</translation>
     <key>char_sel_clan_notice_conf</key>
     <original xml:space="preserve">クランメンバーへ自分のステータスを通知しますか？
 ※この項目はゲーム設定からいつでも変更できます</original>
+<translation xml:space="preserve">Would you like to send your status to clan members?
+※This can be changed any time from the game settings.</translation>
   </message>
   <message>
     <key>char_sel_clan_notice_conf_yes</key>
     <original xml:space="preserve">通知を行う</original>
+	<translation xml:space="preserve">Notify</translation>
   </message>
   <message>
     <key>char_sel_clan_notice_conf_no</key>
     <original xml:space="preserve">通知を行わない</original>
+	<translation xml:space="preserve">Do not notify</translation>
   </message>
 </resource>
