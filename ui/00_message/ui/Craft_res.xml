@@ -809,7 +809,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>RECIPE_CATE_USE_ITEM_JOB</key>
     <original xml:space="preserve">ジョブ専用道具</original>
-    <translation xml:space="preserve">Job Item</translation>
+    <translation xml:space="preserve">Job</translation>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_INGOT</key>
@@ -1010,7 +1010,7 @@ has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</tran
   <message>
     <key>RECIPE_CATE_MATERIAL_AREA</key>
     <original xml:space="preserve">地域素材</original>
-	<translation xml:space="preserve">Regional</translation>
+    <translation xml:space="preserve">Regional</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_CHOICE_CREATION_TYPE</key>
@@ -1039,7 +1039,7 @@ This will consume &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;.
   <message>
     <key>DIALOG_EX_CREATE</key>
     <original xml:space="preserve">アイテムの作成が完了しました</original>
-	<translation xml:space="preserve">Item creation complete.</translation>
+    <translation xml:space="preserve">Item creation complete.</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_EX_CREATE_ERROR</key>
@@ -1053,7 +1053,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>DIALOG_CONFIRM_TYPE_JUMP_ONLINESHOP</key>
     <original xml:space="preserve">オンラインショップを開く</original>
-	<translation xml:space="preserve">Open the online shop</translation>
+    <translation xml:space="preserve">Open the online shop</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_CHOICE_STOP_TYPE</key>
