@@ -353,7 +353,7 @@ but the party will be formed. Are you sure?</translation>
   <message>
     <key>ana_transport_error</key>
     <original>礎を解放する条件をみたしていません</original>
-    <translation>You do not meet the conditions to go to the warp crystal.</translation>
+    <translation>You do not meet the conditions to go to the Portcrystal.</translation>
   </message>
   <message>
     <key>ana_countdown_die</key>
@@ -740,33 +740,33 @@ from the content?</translation>
   <message>
     <key>ana_warp_regist_error</key>
     <original>拠点の礎の解放に失敗しました</original>
-    <translation>Failed to register warp.</translation>
+    <translation>Failed to register Portcrystal.</translation>
   </message>
   <message>
     <key>ana_warp_regist_error_main_quest</key>
     <original>メインクエストの進行度が不足しているため
 拠点の礎の解放に失敗しました</original>
     <translation>Because of your progress in the main quests, 
-you cannot register this warp.</translation>
+you cannot register this Portcrystal.</translation>
   </message>
   <message>
     <key>ana_warp_regist_error_area_rank</key>
     <original>エリアランクが不足しているため
 拠点の礎の解放に失敗しました</original>
     <translation>Because your area rank is too low, 
-you cannot register this warp.</translation>
+you cannot register this Portcrystal.</translation>
   </message>
   <message>
     <key>ana_pt_warp_begin</key>
     <original>&lt;NAME TARGET&gt;が＜&lt;VAL&gt;＞にリム転移しました
 &lt;VAL PARTY_WARP_SEC&gt;秒の間、同行リム転移が可能です</original>
-    <translation>&lt;NAME TARGET&gt; has rift warped to ＜&lt;VAL&gt;＞.
-Within &lt;VAL PARTY_WARP_SEC&gt; seconds, you can warp with them.</translation>
+    <translation>&lt;NAME TARGET&gt; has teleported to ＜&lt;VAL&gt;＞.
+Within &lt;VAL PARTY_WARP_SEC&gt; seconds, you can teleport with them.</translation>
   </message>
   <message>
     <key>ana_warp_point_release</key>
     <original>拠点の礎「&lt;NAME SPOT&gt;」を解放しました</original>
-    <translation>Warp Crystal 「&lt;NAME SPOT&gt;」 has been unlocked.</translation>
+    <translation>Portcrystal for "&lt;NAME SPOT&gt;" has been unlocked.</translation>
   </message>
   <message>
     <key>ana_warp_regist_error_area_or_quest</key>
@@ -775,17 +775,17 @@ Within &lt;VAL PARTY_WARP_SEC&gt; seconds, you can warp with them.</translation>
 拠点の礎の解放に失敗しました</original>
     <translation>Because of your progression in the main quest 
 or your area rank, 
-you cannot unlock the Warp Crystal.</translation>
+you cannot unlock the Portcrystal.</translation>
   </message>
   <message>
     <key>ana_warp_disable_battle</key>
     <original>戦闘中は使用できません</original>
-    <translation>You cannot warp during battle.</translation>
+    <translation>You cannot teleport during battle.</translation>
   </message>
   <message>
     <key>ana_warp_disable_large_party</key>
     <original>特定のコンテンツ中は使用できません</original>
-    <translation>You cannot warp in this content.</translation>
+    <translation>You cannot teleport in this content.</translation>
   </message>
   <message>
     <key>ana_event_skip</key>
@@ -1598,7 +1598,7 @@ Are you sure?</translation>
   <message>
     <key>ana_news_err_favorite_warp</key>
     <original>拠点をマイ拠点に登録していないためリム転移できません</original>
-    <translation>You cannot rift warp because it is not registered as a favorite.</translation>
+    <translation>You cannot teleport because it is not registered as a favorite.</translation>
   </message>
   <message>
     <key>ana_quest_order_err_condition</key>
@@ -1813,7 +1813,7 @@ The effect of ＜&lt;OPCS&gt;＞ will allow this.</translation>
   <message>
     <key>ana_pt_mem_warp_begin</key>
     <original>&lt;NAME TARGET&gt;が＜&lt;VAL&gt;＞にリム転移しました</original>
-    <translation>&lt;NAME TARGET&gt; has rift warped to ＜&lt;VAL&gt;＞.</translation>
+    <translation>&lt;NAME TARGET&gt; has teleported to ＜&lt;VAL&gt;＞.</translation>
   </message>
   <message>
     <key>ana_quest_info_update</key>
@@ -2092,7 +2092,7 @@ Are you sure?</translation>
   <message>
     <key>ana_lostpawn_resque_rim_err</key>
     <original>リムが足りないためできません</original>
-    <translation>You do not have enough rift crystals.</translation>
+    <translation>You do not have enough Rift Crystals.</translation>
   </message>
   <message>
     <key>ana_lostpawn_rescue</key>

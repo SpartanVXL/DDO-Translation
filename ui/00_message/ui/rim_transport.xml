@@ -6,17 +6,17 @@
   <message>
     <key>title_sub_dragon_foundation</key>
     <original>竜の礎</original>
-    <translation>Dragon Crystal</translation>
+    <translation>Dragon's Keystone</translation>
   </message>
   <message>
     <key>title_sub_rim_transport</key>
     <original>リム転移</original>
-    <translation>Rift Warp</translation>
+    <translation>Teleport</translation>
   </message>
   <message>
     <key>title_sub_transport_foundation</key>
     <original>拠点の礎</original>
-    <translation>Warp Crystal</translation>
+    <translation>Portcrystal</translation>
   </message>
   <message>
     <key>heading_current_place</key>
@@ -26,7 +26,7 @@
   <message>
     <key>option_transport_other</key>
     <original>各地の礎へ転移</original>
-    <translation>Warp to Warp Crystal</translation>
+    <translation>Teleport to Portcrystal</translation>
   </message>
   <message>
     <key>option_registration</key>
@@ -36,7 +36,7 @@
   <message>
     <key>title_choice</key>
     <original>転移先の礎を選択</original>
-    <translation>Select Warp Crystal Destination</translation>
+    <translation>Select Portcrystal Destination</translation>
   </message>
   <message>
     <key>heading_pay_rim</key>
@@ -47,22 +47,22 @@
     <key>dialog_transport_check</key>
     <original>選択した礎にリム転移します
 よろしいですか？</original>
-    <translation>Are you sure you want to rift warp to the
-selected location?</translation>
+    <translation>Are you sure you want to teleport to the
+selected Portcrystal?</translation>
   </message>
   <message>
     <key>dialog_registration_check</key>
     <original>この礎をマイ拠点に登録します
 よろしいですか？</original>
     <translation>Are you sure you want to register this
-warp crystal as your base?</translation>
+Portcrystal as your base?</translation>
   </message>
   <message>
     <key>dialog_overwrite_check</key>
     <original>この礎をマイ拠点として上書き登録します
 よろしいですか？</original>
     <translation>Are you sure you want to overwrite this
-warp crystal as your base?</translation>
+Portcrystal as your base?</translation>
   </message>
   <message>
     <key>option_not_registration</key>
@@ -71,18 +71,18 @@ warp crystal as your base?</translation>
   <message>
     <key>heading_registered</key>
     <original>登録済の礎</original>
-    <translation>Registered Warp Crystals</translation>
+    <translation>Registered Portcrystals</translation>
   </message>
   <message>
     <key>option_transport_rim</key>
     <original>神殿内へ転移</original>
-    <translation>Warp to Rift Stone</translation>
+    <translation>Teleport to Riftstone</translation>
   </message>
   <message>
     <key>diarog_transport_rim_check</key>
     <original>選択したリムストーンへ転移します
 よろしいですか？</original>
-    <translation>Are you sure you want to warp to the
+    <translation>Are you sure you want to teleport to the
 selected Riftstone?</translation>
   </message>
   <message>
@@ -93,34 +93,34 @@ selected Riftstone?</translation>
   <message>
     <key>announce_cannot_use</key>
     <original>転移可能な礎がありません</original>
-    <translation>There is no possible place to warp.</translation>
+    <translation>There is no possible place to teleport.</translation>
   </message>
   <message>
     <key>notice_pt_warp_over</key>
     <original>パーティー同行リム転移の期限が切れました</original>
-    <translation>The time limit to warp with the party has expired.</translation>
+    <translation>The time limit to teleport with the party has expired.</translation>
   </message>
   <message>
     <key>list_name_pt_warp</key>
     <original>&lt;COL ffdc78&gt;パーティー同行リム転移&lt;/COL&gt;</original>
-    <translation>&lt;COL ffdc78&gt; Warp with Party&lt;/COL&gt;</translation>
+    <translation>&lt;COL ffdc78&gt; Teleport with Party&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>dialog_pt_warp_check</key>
     <original>パーティーリーダーのいるところへ転移します
 よろしいですか？</original>
-    <translation>Are you sure you want to warp with
+    <translation>Are you sure you want to teleport with
 the party leader?</translation>
   </message>
   <message>
     <key>notice_pt_warp_limit</key>
     <original>パーティー同行リム転移残り時間 &lt;VAL&gt;秒です</original>
-    <translation>There are &lt;VAL&gt; seconds remaining to warp with the party.</translation>
+    <translation>There are &lt;VAL&gt; seconds remaining to teleport with the party.</translation>
   </message>
   <message>
     <key>error_warp_fail</key>
     <original>転移に失敗しました</original>
-    <translation>Failed to warp.</translation>
+    <translation>Failed to teleport.</translation>
   </message>
   <message>
     <key>error_regist_fail</key>
@@ -134,7 +134,7 @@ the party leader?</translation>
   </message>
   <message>
     <key>title_rim_transport</key>
-    <original>Warp</original>
+    <original>Teleport</original>
   </message>
   <message>
     <key>error_already_favorite</key>

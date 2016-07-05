@@ -544,7 +544,7 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_om_warp</key>
     <original>&lt;NAME TARGET&gt;はリム転移した</original>
-    <translation>&lt;NAME TARGET&gt; has warped through the rift.</translation>
+    <translation>&lt;NAME TARGET&gt; has teleported through the rift.</translation>
   </message>
   <message>
     <key>syslog_om_crank</key>
@@ -754,7 +754,7 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_pawn_lost_escape</key>
     <original>&lt;NAME PAWN&gt;がロストを回避してリムストーンに帰還しました</original>
-    <translation>&lt;NAME PAWN&gt; has been lost and sent to the riftstone.</translation>
+    <translation>&lt;NAME PAWN&gt; has been lost and sent to the Riftstone.</translation>
   </message>
   <message>
     <key>syslog_charge_course_start</key>
