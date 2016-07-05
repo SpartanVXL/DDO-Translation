@@ -5,7 +5,7 @@
 &lt;COL ffdc78&gt;LV UP毎にぶれ幅がさらに軽減&lt;/COL&gt;</original>
     <translation xml:space="preserve">Keeps your arrows from flying off mark
 when you loose them whilst in motion.
-&lt;COL ffdc78&gt;LV UP: Decreases shaking width further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further decreases deviation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_62</key>
@@ -13,7 +13,7 @@ when you loose them whilst in motion.
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
     <translation xml:space="preserve">Decreases damage received from
 Fire attribute attacks.
-&lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further decreases damage.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_82</key>
@@ -22,7 +22,7 @@ Fire attribute attacks.
 &lt;COL ffdc78&gt;LV UP毎に攻力吸収量がより増加&lt;/COL&gt;</original>
     <translation xml:space="preserve">Increases Force Gauge when a blocked attack
 matches the element enchanted to your rod.
-&lt;COL ffdc78&gt;LV UP: Increases Force Gauge further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further increases Force Gauge.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_111</key>
@@ -31,7 +31,7 @@ matches the element enchanted to your rod.
 &lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</original>
     <translation xml:space="preserve">Makes it harder for an enemy to throw
 you off whilst you're clinging to it.
-&lt;COL ffdc78&gt;LV UP: Decreases likelihood of stagger further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further decreases likelihood of stagger.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_126</key>
@@ -40,37 +40,45 @@ you off whilst you're clinging to it.
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
     <translation xml:space="preserve">Increases the Blow Power of Magic Trap,
 allowing it to break enemy posture more easily.
-&lt;COL ffdc78&gt;LV UP: Increases Blow Power further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further increases Blow Power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_159</key>
     <original xml:space="preserve">瀕死状態中に回復魔法を受けたとき
 体力回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に回復速度がより上昇&lt;/COL&gt;</original>
+    <translation xml:space="preserve">While in a near-death state, increases health recovery speed when affected by healing spells.
+&lt;COL ffdc78&gt;LV UP: Further increases recovery speed.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_181</key>
     <original xml:space="preserve">リベンジゲージ満了時、魔人斬り、真・魔人斬りで
 繰り出す初動攻撃の吹き飛ばし力が増加する
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">When your Revenge Gauge is consumed, your Demon Slayer and True Demon Slayer's intial quake has increased Blow Power.
+&lt;COL ffdc78&gt;LV UP: Further increases Blow Power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_205</key>
     <original xml:space="preserve">アルケム・フーガ成功時にスタミナが回復する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Recovers your stamina upon a successful Alchem Fuga.
+&lt;COL ffdc78&gt;LV UP: Further increases stamina recovery.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_231</key>
     <original xml:space="preserve">トゲや鍾乳石などの危険物との接触時に
 受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Reduces damage from hazards such as spikes or stalactites.
+&lt;COL ffdc78&gt;LV UP: Further reduces damage taken.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_4</key>
     <original xml:space="preserve">盾弾きの発動時に敵を気絶させやすくなる
 &lt;COL ffdc78&gt;LV UP毎に気絶攻力がより増加&lt;/COL&gt;</original>
     <translation xml:space="preserve">Increases the Knockout Power of perfect blocks.
-&lt;COL ffdc78&gt;LV UP: Increases Knockout Power further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further increases Knockout Power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_34</key>
@@ -78,7 +86,7 @@ allowing it to break enemy posture more easily.
 &lt;COL ffdc78&gt;LV UP毎に時間がより延長&lt;/COL&gt;</original>
     <translation xml:space="preserve">Extends the time period that explosive
 arrows will linger before exploding.
-&lt;COL ffdc78&gt;LV UP: Extends time further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further extends time.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_67</key>
@@ -88,7 +96,7 @@ arrows will linger before exploding.
     <translation xml:space="preserve">Decreases the rate at which you receive
 the debilitation "Catching Fire" when
 struck by Fire attribute attacks.
-&lt;COL ffdc78&gt;LV UP: Increases resistance further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further increases resistance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_85</key>
@@ -96,7 +104,7 @@ struck by Fire attribute attacks.
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費量さらに軽減&lt;/COL&gt;</original>
     <translation xml:space="preserve">Decreases the Stamina consumed when
 you block attacks with your shield.
-&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further decreases Stamina consumption.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_116</key>
@@ -105,37 +113,45 @@ you block attacks with your shield.
 &lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</original>
     <translation xml:space="preserve">Decreases likelihood of being
 staggered while rolling.
-&lt;COL ffdc78&gt;LV UP: Decreases likelihood further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further decreases likelihood.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_142</key>
     <original xml:space="preserve">フローティング中のスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
     <translation xml:space="preserve">Decreases Stamina consumption while using Levitate.
-&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further decreases Stamina consumption.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_166</key>
     <original xml:space="preserve">瀕死状態中に生命力が増加し、
 体力の治癒上限値が下がりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に生命治癒力がより増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">While in a near-death state, increases maximum health and decreases the likelihood of maximum recoverable health lowering.
+&lt;COL ffdc78&gt;LV UP: Further increases health recovery.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_191</key>
     <original xml:space="preserve">体力が一定量以上のとき
 耐久力が上昇し、体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐久力がより増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">When your health is above a certain amount, increases your poise and makes you harder to stagger.
+&lt;COL ffdc78&gt;LV UP: Further increases poise.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_206</key>
     <original xml:space="preserve">攻撃時に、より敵の注目を集めるようになる
 &lt;COL ffdc78&gt;LV UP毎に敵からの注目度がより増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Increases threat generation when attacking.
+&lt;COL ffdc78&gt;LV UP: Further increases threat generation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_232</key>
     <original xml:space="preserve">鉱泉に浸かったときの
 効能持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Increases the effect length of mineral spring baths.
+&lt;COL ffdc78&gt;LV UP: Further increases effect length.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_15</key>
@@ -143,7 +159,7 @@ staggered while rolling.
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
     <translation xml:space="preserve">Decreases the Stamina consumed when
 you grapple-hold opponents.
-&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further decreases Stamina consumption.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_42</key>
@@ -152,7 +168,7 @@ you grapple-hold opponents.
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
     <translation xml:space="preserve">Increases your Blow Power
 when you stand at death's door.
-&lt;COL ffdc78&gt;LV UP: Increases Blow Power further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further increases Blow Power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_57</key>
@@ -161,7 +177,7 @@ when you stand at death's door.
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
     <translation xml:space="preserve">Provides allies with increased Defense
 after picking them up from incapacitation.
-&lt;COL ffdc78&gt;LV UP: Increases duration of the effect.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further increases duration of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_79</key>
@@ -170,44 +186,52 @@ after picking them up from incapacitation.
 &lt;COL ffdc78&gt;LV UP毎に敵からの注目度がより増加&lt;/COL&gt;</original>
     <translation xml:space="preserve">Increases the rate at which Attract
 generates enemy attention.
-&lt;COL ffdc78&gt;LV UP: Increases attention further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further increases attention.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_109</key>
     <original xml:space="preserve">揺さぶりによるスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
     <translation xml:space="preserve">Decreases Stamina consumed by the "Shake" action.
-&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further decreases Stamina consumption.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_137</key>
     <original xml:space="preserve">瀕死状態中の魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に魔力がより増加&lt;/COL&gt;</original>
     <translation xml:space="preserve">Amplifies your Magick when you stand at death's door.
-&lt;COL ffdc78&gt;LV UP: Increases Magick further.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further increases Magick.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_154</key>
     <original xml:space="preserve">回復効果を持つ助真の矢の飛距離が
 延長される
 &lt;COL ffdc78&gt;LV UP毎に飛距離がより延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Extends the flight distance of healing arrows.
+&lt;COL ffdc78&gt;LV UP: Further extends flight distance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_180</key>
     <original xml:space="preserve">魔人斬り、真・魔人斬りの溜め満了
 ジャストタイミングが延長され、成功率が上がる
 &lt;COL ffdc78&gt;LV UP毎に受付時間がより延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Extends the just timing window for Demon Slash and True Demon Slash.
+&lt;COL ffdc78&gt;LV UP: Further extends window.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_214</key>
     <original xml:space="preserve">瀕死状態中のスタミナ回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復速度がより上昇&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Increases stamina recovery when you stand at death's door.
+&lt;COL ffdc78&gt;LV UP: Further increases stamina recovery.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_236</key>
     <original xml:space="preserve">各種投擲アイテムを投げつけたときに
 与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Increases the damage of thrown items.
+&lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_5</key>
@@ -265,22 +289,29 @@ chant gauge further.&lt;/COL&gt;</translation>
     <original xml:space="preserve">炎属性攻撃を対象に当てた際
 延焼の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Increases chance to cause burning when attacking enemies with fire element attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases burning chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_192</key>
     <original xml:space="preserve">瀕死状態中に
 耐久力が上昇し、体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐久力がより増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Increases poise and reduces your chance to be staggered when you stand at death's door.
+&lt;COL ffdc78&gt;LV UP: Further increases poise.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_218</key>
     <original xml:space="preserve">スタミナ切れ時の無防備時間が短縮される
 &lt;COL ffdc78&gt;LV UP毎に無防備時間さらに短縮&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Decreases the time in which you are defenseless after your stamina is depleted.
+&lt;COL ffdc78&gt;LV UP: Further decreases defenseless duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_228</key>
     <original xml:space="preserve">マップ上のアイテム採取ポイント
 表示範囲が拡大する</original>
+    <translation xml:space="preserve">Increases the range at which gathering points will display on the map.</translation>
   </message>
   <message>
     <key>ABILITY_INFO_1</key>
@@ -336,23 +367,31 @@ by another person.
     <original xml:space="preserve">氷属性攻撃を対象に当てた際
 凍結の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Increases chance to cause freezing when attacking enemies with ice element attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases freezing chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_177</key>
     <original xml:space="preserve">瀕死状態でリベンジゲージがたまりやすくなる
 &lt;COL ffdc78&gt;LV UP毎にゲージ蓄積量がより増加&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Your revenge gauge fills more easily when you stand at death's door.
+&lt;COL ffdc78&gt;LV UP: Gauge fills even faster.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_203</key>
     <original xml:space="preserve">アルケム・フーガで配置される錬成物質の
 持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に持続時間がより延長&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Extends the duration of the refining material left by Alchem Fuga.
+&lt;COL ffdc78&gt;LV UP: Further extends duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_235</key>
     <original xml:space="preserve">各種回復アイテムを使ったときに
 より高い効果が得られる
 &lt;COL ffdc78&gt;LV UP毎に効果がより上昇&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Increases the effect of healing items.
+&lt;COL ffdc78&gt;LV UP: Further increases effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_9</key>
@@ -409,6 +448,8 @@ Giant enemies.
     <original xml:space="preserve">ダメージを受けた際に
 治癒上限値が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に治癒上限値をさらに維持&lt;/COL&gt;</original>
+    <translation xml:space="preserve">Slows the rate at which your maximum recoverable health decreases from attacks.
+&lt;COL ffdc78&gt;LV UP: Further slows rate of decrease.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_184</key>
