@@ -1,156 +1,156 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pawn_command_610</key>
-    <original xml:space="preserve">回復優先</original>
-    <translation xml:space="preserve">Prioritize Recovery</translation>
+    <original>回復優先</original>
+    <translation>Prioritize Recovery</translation>
   </message>
   <message>
     <key>pawn_command_611</key>
-    <original xml:space="preserve">攻撃</original>
-    <translation xml:space="preserve">Attack</translation>
+    <original>攻撃</original>
+    <translation>Attack</translation>
   </message>
   <message>
     <key>pawn_command_612</key>
-    <original xml:space="preserve">支援</original>
-    <translation xml:space="preserve">Support</translation>
+    <original>支援</original>
+    <translation>Support</translation>
   </message>
   <message>
     <key>pawn_command_613</key>
-    <original xml:space="preserve">追従</original>
-    <translation xml:space="preserve">Follow</translation>
+    <original>追従</original>
+    <translation>Follow</translation>
   </message>
   <message>
     <key>pawn_command_614</key>
-    <original xml:space="preserve">警戒</original>
-    <translation xml:space="preserve">Observe</translation>
+    <original>警戒</original>
+    <translation>Observe</translation>
   </message>
   <message>
     <key>pawn_command_615</key>
-    <original xml:space="preserve">待機</original>
-    <translation xml:space="preserve">Wait</translation>
+    <original>待機</original>
+    <translation>Wait</translation>
   </message>
   <message>
     <key>pawn_command_616</key>
-    <original xml:space="preserve">ターゲット変更</original>
-    <translation xml:space="preserve">Change Target</translation>
+    <original>ターゲット変更</original>
+    <translation>Change Target</translation>
   </message>
   <message>
     <key>pawn_command_617</key>
-    <original xml:space="preserve">体力回復</original>
-    <translation xml:space="preserve">Heal</translation>
+    <original>体力回復</original>
+    <translation>Heal</translation>
   </message>
   <message>
     <key>pawn_command_618</key>
-    <original xml:space="preserve">状態異常回復</original>
-    <translation xml:space="preserve">Cure Debilitations</translation>
+    <original>状態異常回復</original>
+    <translation>Cure Debilitations</translation>
   </message>
   <message>
     <key>pawn_command_619</key>
-    <original xml:space="preserve">大威力攻撃</original>
-    <translation xml:space="preserve">Heavy Attacks</translation>
+    <original>大威力攻撃</original>
+    <translation>Heavy Attacks</translation>
   </message>
   <message>
     <key>pawn_command_620</key>
-    <original xml:space="preserve">挑発スキル発動</original>
-    <translation xml:space="preserve">Use Taunt Skills</translation>
+    <original>挑発スキル発動</original>
+    <translation>Use Taunt Skills</translation>
   </message>
   <message>
     <key>pawn_command_621</key>
-    <original xml:space="preserve">プレイヤー強化</original>
-    <translation xml:space="preserve">Strengthen Player</translation>
+    <original>プレイヤー強化</original>
+    <translation>Strengthen Player</translation>
   </message>
   <message>
     <key>pawn_command_622</key>
-    <original xml:space="preserve">敵弱体化</original>
-    <translation xml:space="preserve">Weaken Enemy</translation>
+    <original>敵弱体化</original>
+    <translation>Weaken Enemy</translation>
   </message>
   <message>
     <key>pawn_command_623</key>
-    <original xml:space="preserve">エンチャント</original>
-    <translation xml:space="preserve">Enchant</translation>
+    <original>エンチャント</original>
+    <translation>Enchant</translation>
   </message>
   <message>
     <key>pawn_command_624</key>
-    <original xml:space="preserve">敵バインド</original>
-    <translation xml:space="preserve">Bind Enemy</translation>
+    <original>敵バインド</original>
+    <translation>Bind Enemy</translation>
   </message>
   <message>
     <key>pawn_command_625</key>
-    <original xml:space="preserve">怯ませ・吹き飛ばし</original>
-    <translation xml:space="preserve">Flinch Enemy</translation>
+    <original>怯ませ・吹き飛ばし</original>
+    <translation>Flinch Enemy</translation>
   </message>
   <message>
     <key>pawn_command_626</key>
-    <original xml:space="preserve">炎属性行動</original>
-    <translation xml:space="preserve">Fire-attribute Actions</translation>
+    <original>炎属性行動</original>
+    <translation>Fire-attribute Actions</translation>
   </message>
   <message>
     <key>pawn_command_627</key>
-    <original xml:space="preserve">氷属性行動</original>
-    <translation xml:space="preserve">Ice-attribute Actions</translation>
+    <original>氷属性行動</original>
+    <translation>Ice-attribute Actions</translation>
   </message>
   <message>
     <key>pawn_command_628</key>
-    <original xml:space="preserve">雷属性行動</original>
-    <translation xml:space="preserve">Lightning-attribute Actions</translation>
+    <original>雷属性行動</original>
+    <translation>Lightning-attribute Actions</translation>
   </message>
   <message>
     <key>pawn_command_629</key>
-    <original xml:space="preserve">聖属性行動</original>
-    <translation xml:space="preserve">Holy-attribute Actions</translation>
+    <original>聖属性行動</original>
+    <translation>Holy-attribute Actions</translation>
   </message>
   <message>
     <key>pawn_command_630</key>
-    <original xml:space="preserve">闇属性行動</original>
-    <translation xml:space="preserve">Dark-attribute Actions</translation>
+    <original>闇属性行動</original>
+    <translation>Dark-attribute Actions</translation>
   </message>
   <message>
     <key>pawn_command_631</key>
-    <original xml:space="preserve">斬属性攻撃</original>
-    <translation xml:space="preserve">Slash-attribute Actions</translation>
+    <original>斬属性攻撃</original>
+    <translation>Slash-attribute Actions</translation>
   </message>
   <message>
     <key>pawn_command_632</key>
-    <original xml:space="preserve">打属性攻撃</original>
-    <translation xml:space="preserve">Strike-attribute Actions</translation>
+    <original>打属性攻撃</original>
+    <translation>Strike-attribute Actions</translation>
   </message>
   <message>
     <key>pawn_command_633</key>
-    <original xml:space="preserve">射属性攻撃</original>
-    <translation xml:space="preserve">Pierce-attribute Actions</translation>
+    <original>射属性攻撃</original>
+    <translation>Pierce-attribute Actions</translation>
   </message>
   <message>
     <key>pawn_command_634</key>
-    <original xml:space="preserve">連係投げ発動</original>
-    <translation xml:space="preserve">Throw</translation>
+    <original>連係投げ発動</original>
+    <translation>Throw</translation>
   </message>
   <message>
     <key>pawn_command_635</key>
-    <original xml:space="preserve">クイックチャージ発動</original>
+    <original>クイックチャージ発動</original>
   </message>
   <message>
     <key>pawn_command_636</key>
-    <original xml:space="preserve">エナジースポット発動</original>
-    <translation xml:space="preserve">Cast Energy Spot</translation>
+    <original>エナジースポット発動</original>
+    <translation>Cast Energy Spot</translation>
   </message>
   <message>
     <key>pawn_command_637</key>
-    <original xml:space="preserve">ソリッドライザー発動</original>
-    <translation xml:space="preserve">Cast Solid Riser</translation>
+    <original>ソリッドライザー発動</original>
+    <translation>Cast Solid Riser</translation>
   </message>
   <message>
     <key>pawn_command_638</key>
-    <original xml:space="preserve">ハンズオブゴッド発動</original>
-    <translation xml:space="preserve">Cast Hands of God</translation>
+    <original>ハンズオブゴッド発動</original>
+    <translation>Cast Hands of God</translation>
   </message>
   <message>
     <key>pawn_command_639</key>
-    <original xml:space="preserve">命令キャンセル</original>
-    <translation xml:space="preserve">Cancel Command</translation>
+    <original>命令キャンセル</original>
+    <translation>Cancel Command</translation>
   </message>
   <message>
     <key>pawn_command_9499</key>
-    <original xml:space="preserve">ゆさぶり命令</original>
-    <translation xml:space="preserve">Shake Command</translation>
+    <original>ゆさぶり命令</original>
+    <translation>Shake Command</translation>
   </message>
 </resource>

@@ -1,2463 +1,2463 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ana_cmd_error</key>
-    <original xml:space="preserve">そのコマンドは実行できません</original>
-    <translation xml:space="preserve">The command could not be executed.</translation>
+    <original>そのコマンドは実行できません</original>
+    <translation>The command could not be executed.</translation>
   </message>
   <message>
     <key>ana_mprofile_off</key>
-    <original xml:space="preserve">パーティーへの参加希望をOFFにします。よろしいですか？
+    <original>パーティーへの参加希望をOFFにします。よろしいですか？
 受け取ったパーティーへの誘いは取り消されます</original>
   </message>
   <message>
     <key>ana_recv_invite_cancel</key>
-    <original xml:space="preserve">受け取ったパーティーの誘いは取り消されます</original>
-    <translation xml:space="preserve">The party invite will be canceled.</translation>
+    <original>受け取ったパーティーの誘いは取り消されます</original>
+    <translation>The party invite will be canceled.</translation>
   </message>
   <message>
     <key>ana_party_remove_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 パーティーから外します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to remove
+    <translation>Are you sure you want to remove
 &lt;NAME TARGET&gt; from the party?</translation>
   </message>
   <message>
     <key>ana_party_remove_tg</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;がパーティーから外れました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; was removed from the party.</translation>
+    <original>&lt;NAME TARGET&gt;がパーティーから外れました</original>
+    <translation>&lt;NAME TARGET&gt; was removed from the party.</translation>
   </message>
   <message>
     <key>ana_party_remove_error_tg</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をパーティーから外せませんでした</original>
-    <translation xml:space="preserve">Could not remove &lt;NAME TARGET&gt; from the party.</translation>
+    <original>&lt;NAME TARGET&gt;をパーティーから外せませんでした</original>
+    <translation>Could not remove &lt;NAME TARGET&gt; from the party.</translation>
   </message>
   <message>
     <key>ana_party_leader_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 リーダーにします。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to promote
+    <translation>Are you sure you want to promote
 &lt;NAME TARGET&gt; the party leader?</translation>
   </message>
   <message>
     <key>ana_party_leader_tg</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;がリーダーになりました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; is now party leader.</translation>
+    <original>&lt;NAME TARGET&gt;がリーダーになりました</original>
+    <translation>&lt;NAME TARGET&gt; is now party leader.</translation>
   </message>
   <message>
     <key>ana_party_leader</key>
-    <original xml:space="preserve">パーティーリーダーになりました</original>
-    <translation xml:space="preserve">You are now party leader.</translation>
+    <original>パーティーリーダーになりました</original>
+    <translation>You are now party leader.</translation>
   </message>
   <message>
     <key>ana_party_leader_error</key>
-    <original xml:space="preserve">パーティーリーダーになれませんでした</original>
-    <translation xml:space="preserve">Could not promote you to party leader.</translation>
+    <original>パーティーリーダーになれませんでした</original>
+    <translation>Could not promote you to party leader.</translation>
   </message>
   <message>
     <key>ana_party_leader_error_tg</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をリーダーにできませんでした</original>
-    <translation xml:space="preserve">Could not promote &lt;NAME TARGET&gt; to party leader.</translation>
+    <original>&lt;NAME TARGET&gt;をリーダーにできませんでした</original>
+    <translation>Could not promote &lt;NAME TARGET&gt; to party leader.</translation>
   </message>
   <message>
     <key>ana_party_invite_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をパーティーに誘いますか？</original>
-    <translation xml:space="preserve">Are you sure you want to invite
+    <original>&lt;NAME TARGET&gt;をパーティーに誘いますか？</original>
+    <translation>Are you sure you want to invite
 &lt;NAME TARGET&gt; to the party?</translation>
   </message>
   <message>
     <key>ana_party_invite</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をパーティーに誘いました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; was invited to the party.</translation>
+    <original>&lt;NAME TARGET&gt;をパーティーに誘いました</original>
+    <translation>&lt;NAME TARGET&gt; was invited to the party.</translation>
   </message>
   <message>
     <key>ana_party_invite_error</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をパーティーに誘えませんでした</original>
-    <translation xml:space="preserve">Could not invite &lt;NAME TARGET&gt; to the party.</translation>
+    <original>&lt;NAME TARGET&gt;をパーティーに誘えませんでした</original>
+    <translation>Could not invite &lt;NAME TARGET&gt; to the party.</translation>
   </message>
   <message>
     <key>ana_party_join_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;の
+    <original>&lt;NAME TARGET&gt;の
 パーティーに参加します。よろしいですか？ </original>
-    <translation xml:space="preserve">Are you sure you want to join
+    <translation>Are you sure you want to join
 the party of &lt;NAME TARGET&gt;?</translation>
   </message>
   <message>
     <key>ana_party_join_in</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;のパーティーに参加しました</original>
-    <translation xml:space="preserve">You have joined the party of &lt;NAME TARGET&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;のパーティーに参加しました</original>
+    <translation>You have joined the party of &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_party_join_tg</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;がパーティーに参加しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has joined the party.</translation>
+    <original>&lt;NAME TARGET&gt;がパーティーに参加しました</original>
+    <translation>&lt;NAME TARGET&gt; has joined the party.</translation>
   </message>
   <message>
     <key>ana_party_join_error</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;のパーティーに参加できませんでした</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; could not join the party.</translation>
+    <original>&lt;NAME TARGET&gt;のパーティーに参加できませんでした</original>
+    <translation>&lt;NAME TARGET&gt; could not join the party.</translation>
   </message>
   <message>
     <key>ana_party_dissolution_q</key>
-    <original xml:space="preserve">パーティーを解散します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to disband the party?</translation>
+    <original>パーティーを解散します。よろしいですか？</original>
+    <translation>Are you sure you want to disband the party?</translation>
   </message>
   <message>
     <key>ana_party_dissolution_leader</key>
-    <original xml:space="preserve">パーティーを解散しました</original>
-    <translation xml:space="preserve">You have disbanded the party.</translation>
+    <original>パーティーを解散しました</original>
+    <translation>You have disbanded the party.</translation>
   </message>
   <message>
     <key>ana_party_dissolution</key>
-    <original xml:space="preserve">パーティーが解散されました</original>
-    <translation xml:space="preserve">The party has been disbanded.</translation>
+    <original>パーティーが解散されました</original>
+    <translation>The party has been disbanded.</translation>
   </message>
   <message>
     <key>ana_party_dissolution_error</key>
-    <original xml:space="preserve">パーティーを解散できませんでした</original>
-    <translation xml:space="preserve">Could not disband the party.</translation>
+    <original>パーティーを解散できませんでした</original>
+    <translation>Could not disband the party.</translation>
   </message>
   <message>
     <key>ana_party_invite_cancel_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;への
+    <original>&lt;NAME TARGET&gt;への
 パーティーの誘いを取り消します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to cancel the
+    <translation>Are you sure you want to cancel the
 party invite for &lt;NAME TARGET&gt;?</translation>
   </message>
   <message>
     <key>ana_party_invite_cancel</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;へのパーティーの誘いを取り消しました</original>
-    <translation xml:space="preserve">Canceled party invite for &lt;NAME TARGET&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;へのパーティーの誘いを取り消しました</original>
+    <translation>Canceled party invite for &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_party_invite_cancel_error</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;へのパーティーの誘いを取り消せませんでした</original>
-    <translation xml:space="preserve">Could not cancel the party invite for &lt;NAME TARGET&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;へのパーティーの誘いを取り消せませんでした</original>
+    <translation>Could not cancel the party invite for &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_party_member_conflict</key>
-    <original xml:space="preserve">すでに同じメンバーがパーティーにいます</original>
+    <original>すでに同じメンバーがパーティーにいます</original>
   </message>
   <message>
     <key>ana_party_no_mainpawn</key>
-    <original xml:space="preserve">メインポーンがいない状態ではサポートポーンはパーティーに入れられません</original>
-    <translation xml:space="preserve">You cannot have a support pawn in the party with no main pawns.</translation>
+    <original>メインポーンがいない状態ではサポートポーンはパーティーに入れられません</original>
+    <translation>You cannot have a support pawn in the party with no main pawns.</translation>
   </message>
   <message>
     <key>ana_party_pawn_invite_q</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;をパーティーに入れますか？</original>
-    <translation xml:space="preserve">Are you sure you want to put
+    <original>&lt;NAME PAWN&gt;をパーティーに入れますか？</original>
+    <translation>Are you sure you want to put
 &lt;NAME PAWN&gt; into the party?</translation>
   </message>
   <message>
     <key>ana_party_pawn_invite</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;をパーティーに入れました</original>
-    <translation xml:space="preserve">You have put &lt;NAME PAWN&gt; into the party.</translation>
+    <original>&lt;NAME PAWN&gt;をパーティーに入れました</original>
+    <translation>You have put &lt;NAME PAWN&gt; into the party.</translation>
   </message>
   <message>
     <key>ana_party_pawn_invite_error</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;をパーティーに入れられませんでした</original>
-    <translation xml:space="preserve">Could not put &lt;NAME PAWN&gt; into the party.</translation>
+    <original>&lt;NAME PAWN&gt;をパーティーに入れられませんでした</original>
+    <translation>Could not put &lt;NAME PAWN&gt; into the party.</translation>
   </message>
   <message>
     <key>ana_party_pawn_remove_q</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;をパーティーから外しますか？</original>
-    <translation xml:space="preserve">Are you sure you want to remove
+    <original>&lt;NAME PAWN&gt;をパーティーから外しますか？</original>
+    <translation>Are you sure you want to remove
 &lt;NAME PAWN&gt; from the party?</translation>
   </message>
   <message>
     <key>ana_party_pawn_remove</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;をパーティーから外しました</original>
-    <translation xml:space="preserve">Removed &lt;NAME PAWN&gt; from the party.</translation>
+    <original>&lt;NAME PAWN&gt;をパーティーから外しました</original>
+    <translation>Removed &lt;NAME PAWN&gt; from the party.</translation>
   </message>
   <message>
     <key>ana_party_pawn_remove_error</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;をパーティーから外せませんでした</original>
-    <translation xml:space="preserve">Could not remove &lt;NAME PAWN&gt; from the party.</translation>
+    <original>&lt;NAME PAWN&gt;をパーティーから外せませんでした</original>
+    <translation>Could not remove &lt;NAME PAWN&gt; from the party.</translation>
   </message>
   <message>
     <key>ana_employ_q</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;を雇用しますか？</original>
-    <translation xml:space="preserve">Are you sure you want to hire &lt;NAME PAWN&gt;?</translation>
+    <original>&lt;NAME PAWN&gt;を雇用しますか？</original>
+    <translation>Are you sure you want to hire &lt;NAME PAWN&gt;?</translation>
   </message>
   <message>
     <key>ana_employ</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;を雇用しました</original>
-    <translation xml:space="preserve">&lt;NAME PAWN&gt; has been hired.</translation>
+    <original>&lt;NAME PAWN&gt;を雇用しました</original>
+    <translation>&lt;NAME PAWN&gt; has been hired.</translation>
   </message>
   <message>
     <key>ana_employ_error</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;を雇用できませんでした</original>
-    <translation xml:space="preserve">Could not hire &lt;NAME PAWN&gt;.</translation>
+    <original>&lt;NAME PAWN&gt;を雇用できませんでした</original>
+    <translation>Could not hire &lt;NAME PAWN&gt;.</translation>
   </message>
   <message>
     <key>ana_dismissal_q</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;を
+    <original>&lt;NAME PAWN&gt;を
 返却します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to return &lt;NAME PAWN&gt;?</translation>
+    <translation>Are you sure you want to return &lt;NAME PAWN&gt;?</translation>
   </message>
   <message>
     <key>ana_dismissal</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;を返却しました</original>
-    <translation xml:space="preserve">&lt;NAME PAWN&gt; has been returned.</translation>
+    <original>&lt;NAME PAWN&gt;を返却しました</original>
+    <translation>&lt;NAME PAWN&gt; has been returned.</translation>
   </message>
   <message>
     <key>ana_dismissal_error</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;を返却できませんでした</original>
-    <translation xml:space="preserve">&lt;NAME PAWN&gt; could not be returned.</translation>
+    <original>&lt;NAME PAWN&gt;を返却できませんでした</original>
+    <translation>&lt;NAME PAWN&gt; could not be returned.</translation>
   </message>
   <message>
     <key>ana_req_friend_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;に
+    <original>&lt;NAME TARGET&gt;に
 フレンド申請をします。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to send
+    <translation>Are you sure you want to send
 &lt;NAME TARGET&gt; a friend request?</translation>
   </message>
   <message>
     <key>ana_req_friend</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;にフレンド申請しました</original>
-    <translation xml:space="preserve">Friend request send to &lt;NAME TARGET&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;にフレンド申請しました</original>
+    <translation>Friend request send to &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_req_friend_error</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;にフレンド申請できませんでした</original>
-    <translation xml:space="preserve">Could not send a friend request to &lt;NAME TARGET&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;にフレンド申請できませんでした</original>
+    <translation>Could not send a friend request to &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_permit_friend_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;の
+    <original>&lt;NAME TARGET&gt;の
 フレンド申請を許可します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to accept
+    <translation>Are you sure you want to accept
 the friend request from &lt;NAME TARGET&gt;?</translation>
   </message>
   <message>
     <key>ana_permit_friend</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;とフレンドになりました</original>
-    <translation xml:space="preserve">You are now friends with &lt;NAME TARGET&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;とフレンドになりました</original>
+    <translation>You are now friends with &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_permit_friend_error</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;とフレンドになれませんでした</original>
-    <translation xml:space="preserve">Could not accept friend request from &lt;NAME TARGET&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;とフレンドになれませんでした</original>
+    <translation>Could not accept friend request from &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_denial_friend_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;の
+    <original>&lt;NAME TARGET&gt;の
 フレンド申請を拒否します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to decline
+    <translation>Are you sure you want to decline
 the friend request from &lt;NAME TARGET&gt;?</translation>
   </message>
   <message>
     <key>ana_denial_friend</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;のフレンド申請を拒否しました</original>
-    <translation xml:space="preserve">Declined the friend request from &lt;NAME TARGET&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;のフレンド申請を拒否しました</original>
+    <translation>Declined the friend request from &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_denial_friend_error</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;のフレンド申請を拒否できませんでした</original>
-    <translation xml:space="preserve">Could not decline the friend request from &lt;NAME TARGET&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;のフレンド申請を拒否できませんでした</original>
+    <translation>Could not decline the friend request from &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_release_friend_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;との
+    <original>&lt;NAME TARGET&gt;との
 フレンドを解除します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to remove
+    <translation>Are you sure you want to remove
 &lt;NAME TARGET&gt; from friends?</translation>
   </message>
   <message>
     <key>ana_release_friend</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;のフレンドを解除しました</original>
-    <translation xml:space="preserve">Removed &lt;NAME TARGET&gt; from friends.</translation>
+    <original>&lt;NAME TARGET&gt;のフレンドを解除しました</original>
+    <translation>Removed &lt;NAME TARGET&gt; from friends.</translation>
   </message>
   <message>
     <key>ana_release_friend_error</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;のフレンドを解除できませんでした</original>
-    <translation xml:space="preserve">Could not remove &lt;NAME TARGET&gt; from friends.</translation>
+    <original>&lt;NAME TARGET&gt;のフレンドを解除できませんでした</original>
+    <translation>Could not remove &lt;NAME TARGET&gt; from friends.</translation>
   </message>
   <message>
     <key>ana_fav_friend_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 お気に入りに登録します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to add
+    <translation>Are you sure you want to add
 &lt;NAME TARGET&gt; to favorites?</translation>
   </message>
   <message>
     <key>ana_fav_friend</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をお気に入りに登録しました</original>
-    <translation xml:space="preserve">Added &lt;NAME TARGET&gt; to favorites.</translation>
+    <original>&lt;NAME TARGET&gt;をお気に入りに登録しました</original>
+    <translation>Added &lt;NAME TARGET&gt; to favorites.</translation>
   </message>
   <message>
     <key>ana_fav_friend_error</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をお気に入りに登録できませんでした</original>
-    <translation xml:space="preserve">Could not add &lt;NAME TARGET&gt; to favorites.</translation>
+    <original>&lt;NAME TARGET&gt;をお気に入りに登録できませんでした</original>
+    <translation>Could not add &lt;NAME TARGET&gt; to favorites.</translation>
   </message>
   <message>
     <key>ana_fav_release_friend_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;の
+    <original>&lt;NAME TARGET&gt;の
 お気に入りを解除します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to remove
+    <translation>Are you sure you want to remove
 &lt;NAME TARGET&gt; from favorites?</translation>
   </message>
   <message>
     <key>ana_fav_release_friend</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;のお気に入りを解除しました</original>
-    <translation xml:space="preserve">Removed &lt;NAME TARGET&gt; from favorites.</translation>
+    <original>&lt;NAME TARGET&gt;のお気に入りを解除しました</original>
+    <translation>Removed &lt;NAME TARGET&gt; from favorites.</translation>
   </message>
   <message>
     <key>ana_fav_release_friend_error</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;のお気に入りを解除できませんでした</original>
-    <translation xml:space="preserve">Could not remove &lt;NAME TARGET&gt; from favorites.</translation>
+    <original>&lt;NAME TARGET&gt;のお気に入りを解除できませんでした</original>
+    <translation>Could not remove &lt;NAME TARGET&gt; from favorites.</translation>
   </message>
   <message>
     <key>ana_entryb_entry</key>
-    <original xml:space="preserve">エントリーボードに参加申請を出しました</original>
-    <translation xml:space="preserve">You have applied to join the entryboard.</translation>
+    <original>エントリーボードに参加申請を出しました</original>
+    <translation>You have applied to join the entryboard.</translation>
   </message>
   <message>
     <key>ana_entryb_entry_error</key>
-    <original xml:space="preserve">エントリーボードに参加申請を出せませんでした</original>
-    <translation xml:space="preserve">You could not apply to join the entryboard.</translation>
+    <original>エントリーボードに参加申請を出せませんでした</original>
+    <translation>You could not apply to join the entryboard.</translation>
   </message>
   <message>
     <key>ana_entryb_join</key>
-    <original xml:space="preserve">エントリーボードに参加しました</original>
-    <translation xml:space="preserve">You joined the entryboard.</translation>
+    <original>エントリーボードに参加しました</original>
+    <translation>You joined the entryboard.</translation>
   </message>
   <message>
     <key>ana_entryb_join_error</key>
-    <original xml:space="preserve">エントリーボードに参加できませんでした</original>
-    <translation xml:space="preserve">You could not join the entryboard.</translation>
+    <original>エントリーボードに参加できませんでした</original>
+    <translation>You could not join the entryboard.</translation>
   </message>
   <message>
     <key>ana_entryb_join_cancel</key>
-    <original xml:space="preserve">エントリーボードの参加を取り消します。 よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to cancel your
+    <original>エントリーボードの参加を取り消します。 よろしいですか？</original>
+    <translation>Are you sure you want to cancel your
 entryboard registration?</translation>
   </message>
   <message>
     <key>ana_member_ready_wait</key>
-    <original xml:space="preserve">全員が準備完了するのを待っています</original>
-    <translation xml:space="preserve">Please wait for everyone to ready.</translation>
+    <original>全員が準備完了するのを待っています</original>
+    <translation>Please wait for everyone to ready.</translation>
   </message>
   <message>
     <key>ana_member_less_party_q</key>
-    <original xml:space="preserve">規定人数に足りていませんがパーティーを組みます
+    <original>規定人数に足りていませんがパーティーを組みます
 よろしいですか？</original>
-    <translation xml:space="preserve">There are not enough members,
+    <translation>There are not enough members,
 but the party will be formed. Are you sure?</translation>
   </message>
   <message>
     <key>ana_search_result</key>
-    <original xml:space="preserve">検索結果は&lt;VAL&gt;件でした</original>
-    <translation xml:space="preserve">There were &lt;VAL&gt; search results.</translation>
+    <original>検索結果は&lt;VAL&gt;件でした</original>
+    <translation>There were &lt;VAL&gt; search results.</translation>
   </message>
   <message>
     <key>ana_transport_error</key>
-    <original xml:space="preserve">礎を解放する条件をみたしていません</original>
-    <translation xml:space="preserve">You do not meet the conditions to go to the warp crystal.</translation>
+    <original>礎を解放する条件をみたしていません</original>
+    <translation>You do not meet the conditions to go to the warp crystal.</translation>
   </message>
   <message>
     <key>ana_countdown_die</key>
-    <original xml:space="preserve">カウントがなくなると死亡状態になります</original>
-    <translation xml:space="preserve">You will die when the count reaches 0.</translation>
+    <original>カウントがなくなると死亡状態になります</original>
+    <translation>You will die when the count reaches 0.</translation>
   </message>
   <message>
     <key>ana_revival_and_credits_num</key>
-    <original xml:space="preserve">復活力を使用して復活しました
+    <original>復活力を使用して復活しました
 残り&lt;VAL&gt;個です</original>
-    <translation xml:space="preserve">You were resurrected by using a revival force.
+    <translation>You were resurrected by using a revival force.
 You have &lt;VAL&gt; remaining.</translation>
   </message>
   <message>
     <key>ana_you_die</key>
-    <original xml:space="preserve">戦闘不能になりました</original>
-    <translation xml:space="preserve">You have died.</translation>
+    <original>戦闘不能になりました</original>
+    <translation>You have died.</translation>
   </message>
   <message>
     <key>ana_revival_and_credits_full</key>
-    <original xml:space="preserve">黄金石を使用して復活しました</original>
-    <translation xml:space="preserve">You were resurrected by using a Golden Gemstone.</translation>
+    <original>黄金石を使用して復活しました</original>
+    <translation>You were resurrected by using a Golden Gemstone.</translation>
   </message>
   <message>
     <key>ana_pawn_delete_q</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;を
+    <original>&lt;NAME PAWN&gt;を
 削除します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to delete &lt;NAME PAWN&gt;?</translation>
+    <translation>Are you sure you want to delete &lt;NAME PAWN&gt;?</translation>
   </message>
   <message>
     <key>ana_pawn_delete</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;を削除しました</original>
-    <translation xml:space="preserve">&lt;NAME PAWN&gt; has been deleted.</translation>
+    <original>&lt;NAME PAWN&gt;を削除しました</original>
+    <translation>&lt;NAME PAWN&gt; has been deleted.</translation>
   </message>
   <message>
     <key>ana_pawn_public</key>
-    <original xml:space="preserve">公開設定を変更しました</original>
-    <translation xml:space="preserve">You have changed your pawn's privacy settings.</translation>
+    <original>公開設定を変更しました</original>
+    <translation>You have changed your pawn's privacy settings.</translation>
   </message>
   <message>
     <key>ana_mail_send</key>
-    <original xml:space="preserve">メールを送信しました</original>
-    <translation xml:space="preserve">You sent a mail.</translation>
+    <original>メールを送信しました</original>
+    <translation>You sent a mail.</translation>
   </message>
   <message>
     <key>ana_mail_delete_q</key>
-    <original xml:space="preserve">メールを削除します。よろしいですか？</original>
-    <translation xml:space="preserve">You will delete the mail. Are you sure?</translation>
+    <original>メールを削除します。よろしいですか？</original>
+    <translation>You will delete the mail. Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_info_update</key>
-    <original xml:space="preserve">クラン情報を更新しました</original>
-    <translation xml:space="preserve">Clan information has been updated.</translation>
+    <original>クラン情報を更新しました</original>
+    <translation>Clan information has been updated.</translation>
   </message>
   <message>
     <key>ana_clan_join_q</key>
-    <original xml:space="preserve">&lt;NAME CLAN&gt;に
+    <original>&lt;NAME CLAN&gt;に
 加入申請をします。よろしいですか？
 （一定期間承認されない場合、申請はキャンセルされます）</original>
-    <translation xml:space="preserve">You will submit an application to join &lt;NAME CLAN&gt;.
+    <translation>You will submit an application to join &lt;NAME CLAN&gt;.
 Are you sure?
 (If it is not accepted within a period of time, the invite will be canceled)</translation>
   </message>
   <message>
     <key>ana_clan_join</key>
-    <original xml:space="preserve">&lt;NAME CLAN&gt;に加入申請しました</original>
-    <translation xml:space="preserve">You have submitted an application to join &lt;NAME CLAN&gt;.</translation>
+    <original>&lt;NAME CLAN&gt;に加入申請しました</original>
+    <translation>You have submitted an application to join &lt;NAME CLAN&gt;.</translation>
   </message>
   <message>
     <key>ana_clan_join_cancel_q</key>
-    <original xml:space="preserve">クランの加入申請をキャンセルします。
+    <original>クランの加入申請をキャンセルします。
 よろしいですか？</original>
-    <translation xml:space="preserve">You will cancel your application to join the clan.
+    <translation>You will cancel your application to join the clan.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_join_cancel</key>
-    <original xml:space="preserve">加入申請をキャンセルしました</original>
-    <translation xml:space="preserve">You have canceled your application to join the clan.</translation>
+    <original>加入申請をキャンセルしました</original>
+    <translation>You have canceled your application to join the clan.</translation>
   </message>
   <message>
     <key>ana_clan_join_permit_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;の
+    <original>&lt;NAME TARGET&gt;の
 加入を許可します。よろしいですか？</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; will be permitted to join the clan.
+    <translation>&lt;NAME TARGET&gt; will be permitted to join the clan.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_join_permit</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;の加入を許可しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has been permitted to join the clan.</translation>
+    <original>&lt;NAME TARGET&gt;の加入を許可しました</original>
+    <translation>&lt;NAME TARGET&gt; has been permitted to join the clan.</translation>
   </message>
   <message>
     <key>ana_clan_join_ng_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;の
+    <original>&lt;NAME TARGET&gt;の
 加入を拒否します。よろしいですか？</original>
-    <translation xml:space="preserve">The clan application of &lt;NAME TARGET&gt; will be refused.
+    <translation>The clan application of &lt;NAME TARGET&gt; will be refused.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_join_ng</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;の加入を拒否しました</original>
-    <translation xml:space="preserve">The clan application of &lt;NAME TARGET&gt; has been refused.</translation>
+    <original>&lt;NAME TARGET&gt;の加入を拒否しました</original>
+    <translation>The clan application of &lt;NAME TARGET&gt; has been refused.</translation>
   </message>
   <message>
     <key>ana_clan_leave_q</key>
-    <original xml:space="preserve">クランを脱退します。よろしいですか？</original>
-    <translation xml:space="preserve">You will leave the clan. Are you sure?</translation>
+    <original>クランを脱退します。よろしいですか？</original>
+    <translation>You will leave the clan. Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_leave</key>
-    <original xml:space="preserve">クランを脱退しました</original>
-    <translation xml:space="preserve">You have left the clan.</translation>
+    <original>クランを脱退しました</original>
+    <translation>You have left the clan.</translation>
   </message>
   <message>
     <key>ana_clan_scout_entry</key>
-    <original xml:space="preserve">スカウトリストにエントリーしました
+    <original>スカウトリストにエントリーしました
 クランから招待が届くようになります</original>
   </message>
   <message>
     <key>ana_clan_invite_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 クランに勧誘します。よろしいですか？
 （一定期間承認されない場合、申請はキャンセルされます）</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; will be invited to the clan.
+    <translation>&lt;NAME TARGET&gt; will be invited to the clan.
 Are you sure?
 (If it is not accepted within a period of time, the invite will be canceled)</translation>
   </message>
   <message>
     <key>ana_clan_invite</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をクランに誘いました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has been invited to the clan.</translation>
+    <original>&lt;NAME TARGET&gt;をクランに誘いました</original>
+    <translation>&lt;NAME TARGET&gt; has been invited to the clan.</translation>
   </message>
   <message>
     <key>ana_clan_scout_cancel_q</key>
-    <original xml:space="preserve">クランへのスカウトをキャンセルします
+    <original>クランへのスカウトをキャンセルします
 よろしいですか？</original>
-    <translation xml:space="preserve">The clan scouting will be canceled.
+    <translation>The clan scouting will be canceled.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_scout_cancel</key>
-    <original xml:space="preserve">勧誘をキャンセルしました</original>
-    <translation xml:space="preserve">The clan scouting has been canceled.</translation>
+    <original>勧誘をキャンセルしました</original>
+    <translation>The clan scouting has been canceled.</translation>
   </message>
   <message>
     <key>ana_clan_invite_ok_q</key>
-    <original xml:space="preserve">&lt;NAME CLAN&gt;の
+    <original>&lt;NAME CLAN&gt;の
 勧誘を承認します。よろしいですか？</original>
-    <translation xml:space="preserve">Accept the invitation to &lt;NAME CLAN&gt;
+    <translation>Accept the invitation to &lt;NAME CLAN&gt;
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_join_result</key>
-    <original xml:space="preserve">&lt;NAME CLAN&gt;に加入しました</original>
-    <translation xml:space="preserve">You have joined &lt;NAME CLAN&gt;.</translation>
+    <original>&lt;NAME CLAN&gt;に加入しました</original>
+    <translation>You have joined &lt;NAME CLAN&gt;.</translation>
   </message>
   <message>
     <key>ana_clan_invite_ng_q</key>
-    <original xml:space="preserve">&lt;NAME CLAN&gt;の
+    <original>&lt;NAME CLAN&gt;の
 勧誘を拒否します。よろしいですか？</original>
-    <translation xml:space="preserve">Decline the invitation to &lt;NAME CLAN&gt;
+    <translation>Decline the invitation to &lt;NAME CLAN&gt;
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_invite_ng</key>
-    <original xml:space="preserve">&lt;NAME CLAN&gt;の勧誘を拒否しました</original>
-    <translation xml:space="preserve">You declined the invitation to &lt;NAME CLAN&gt;.</translation>
+    <original>&lt;NAME CLAN&gt;の勧誘を拒否しました</original>
+    <translation>You declined the invitation to &lt;NAME CLAN&gt;.</translation>
   </message>
   <message>
     <key>ana_entryb_kicked</key>
-    <original xml:space="preserve">エントリーボードから抜けました</original>
-    <translation xml:space="preserve">You have been removed from the entryboard.</translation>
+    <original>エントリーボードから抜けました</original>
+    <translation>You have been removed from the entryboard.</translation>
   </message>
   <message>
     <key>ana_entryb_dissolution</key>
-    <original xml:space="preserve">エントリーボードが解散されました</original>
-    <translation xml:space="preserve">The entryboard has been dissolved.</translation>
+    <original>エントリーボードが解散されました</original>
+    <translation>The entryboard has been dissolved.</translation>
   </message>
   <message>
     <key>ana_entryb_timeup</key>
-    <original xml:space="preserve">エントリーボードの有効時間が切れました</original>
-    <translation xml:space="preserve">The entryboard's time limit has expired.</translation>
+    <original>エントリーボードの有効時間が切れました</original>
+    <translation>The entryboard's time limit has expired.</translation>
   </message>
   <message>
     <key>ana_entryb_ready_timeup</key>
-    <original xml:space="preserve">時間内に準備完了できなかったので、エントリーボードから抜けました</original>
-    <translation xml:space="preserve">Since you did not ready in time, you were removed from the entryboard.</translation>
+    <original>時間内に準備完了できなかったので、エントリーボードから抜けました</original>
+    <translation>Since you did not ready in time, you were removed from the entryboard.</translation>
   </message>
   <message>
     <key>ana_member_ready_timeup</key>
-    <original xml:space="preserve">全員が準備完了しませんでした。エントリー状態を解除します</original>
-    <translation xml:space="preserve">All members did not ready. Ending entry.</translation>
+    <original>全員が準備完了しませんでした。エントリー状態を解除します</original>
+    <translation>All members did not ready. Ending entry.</translation>
   </message>
   <message>
     <key>ana_entryb_alarm</key>
-    <original xml:space="preserve">エントリー可能時間が&lt;VAL&gt;分を切りました</original>
-    <translation xml:space="preserve">You only have &lt;VAL&gt; minutes remaining to ready.</translation>
+    <original>エントリー可能時間が&lt;VAL&gt;分を切りました</original>
+    <translation>You only have &lt;VAL&gt; minutes remaining to ready.</translation>
   </message>
   <message>
     <key>ana_mail_present_get</key>
-    <original xml:space="preserve">メール添付アイテムを取得しました</original>
-    <translation xml:space="preserve">You have received items from the mail.</translation>
+    <original>メール添付アイテムを取得しました</original>
+    <translation>You have received items from the mail.</translation>
   </message>
   <message>
     <key>ana_entryb_alarm_reset</key>
-    <original xml:space="preserve">エントリーから&lt;VAL&gt;分経ちました。再延長が可能です</original>
-    <translation xml:space="preserve">&lt;VAL&gt; minute has passed for entry. The time can be re-extended.</translation>
+    <original>エントリーから&lt;VAL&gt;分経ちました。再延長が可能です</original>
+    <translation>&lt;VAL&gt; minute has passed for entry. The time can be re-extended.</translation>
   </message>
   <message>
     <key>ana_leader_join_ready_info</key>
-    <original xml:space="preserve">リーダーがパーティー要請を受諾しました。一定時間内に準備完了してください</original>
-    <translation xml:space="preserve">The leader has accepted the party request. Please select ready within a period of time.</translation>
+    <original>リーダーがパーティー要請を受諾しました。一定時間内に準備完了してください</original>
+    <translation>The leader has accepted the party request. Please select ready within a period of time.</translation>
   </message>
   <message>
     <key>ana_quiq_mach_ready_info</key>
-    <original xml:space="preserve">クイックパーティーで同じ目的のプレイヤーが見つかりました。合流するには一定時間内に準備完了してください</original>
-    <translation xml:space="preserve">The quick party has been formed. Please select ready within a period of time.</translation>
+    <original>クイックパーティーで同じ目的のプレイヤーが見つかりました。合流するには一定時間内に準備完了してください</original>
+    <translation>The quick party has been formed. Please select ready within a period of time.</translation>
   </message>
   <message>
     <key>ana_entryb_ready_info</key>
-    <original xml:space="preserve">エントリーメンバーがそろいました。一定時間内に準備完了してください</original>
-    <translation xml:space="preserve">The entryboard has been filled. Please select ready within a period of time.</translation>
+    <original>エントリーメンバーがそろいました。一定時間内に準備完了してください</original>
+    <translation>The entryboard has been filled. Please select ready within a period of time.</translation>
   </message>
   <message>
     <key>ana_gchat_invite</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;からグループチャットに招待されました</original>
-    <translation xml:space="preserve">You were invited to a group chat by &lt;NAME TARGET&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;からグループチャットに招待されました</original>
+    <translation>You were invited to a group chat by &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_gchat_invite_tg</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;が&lt;NAME TARGET&gt;をグループチャットに招待しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has invited &lt;NAME TARGET&gt; to the group chat.</translation>
+    <original>&lt;NAME TARGET&gt;が&lt;NAME TARGET&gt;をグループチャットに招待しました</original>
+    <translation>&lt;NAME TARGET&gt; has invited &lt;NAME TARGET&gt; to the group chat.</translation>
   </message>
   <message>
     <key>ana_gchat_leave</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;がグループチャットから抜けました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has left the group chat.</translation>
+    <original>&lt;NAME TARGET&gt;がグループチャットから抜けました</original>
+    <translation>&lt;NAME TARGET&gt; has left the group chat.</translation>
   </message>
   <message>
     <key>ana_gchat_kick</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;によってグループチャットからキックされました</original>
-    <translation xml:space="preserve">You have kicked &lt;NAME TARGET&gt; from the group chat.</translation>
+    <original>&lt;NAME TARGET&gt;によってグループチャットからキックされました</original>
+    <translation>You have kicked &lt;NAME TARGET&gt; from the group chat.</translation>
   </message>
   <message>
     <key>ana_gchat_kicked</key>
-    <original xml:space="preserve">グループチャットからキックされました</original>
-    <translation xml:space="preserve">You were kicked from the group chat.</translation>
+    <original>グループチャットからキックされました</original>
+    <translation>You were kicked from the group chat.</translation>
   </message>
   <message>
     <key>ana_gchat_kick_tg</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;が&lt;NAME TARGET&gt;をグループチャットからキックしました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has kicked &lt;NAME TARGET&gt; from the group chat.</translation>
+    <original>&lt;NAME TARGET&gt;が&lt;NAME TARGET&gt;をグループチャットからキックしました</original>
+    <translation>&lt;NAME TARGET&gt; has kicked &lt;NAME TARGET&gt; from the group chat.</translation>
   </message>
   <message>
     <key>ana_gchat_kicked_tg</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;がグループチャットからキックされました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has been kicked from the group chat.</translation>
+    <original>&lt;NAME TARGET&gt;がグループチャットからキックされました</original>
+    <translation>&lt;NAME TARGET&gt; has been kicked from the group chat.</translation>
   </message>
   <message>
     <key>ana_entryb_join_tg</key>
-    <original xml:space="preserve">エントリーボードに&lt;NAME TARGET&gt;が参加しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has joined the entryboard.</translation>
+    <original>エントリーボードに&lt;NAME TARGET&gt;が参加しました</original>
+    <translation>&lt;NAME TARGET&gt; has joined the entryboard.</translation>
   </message>
   <message>
     <key>ana_entryb_leave_tg</key>
-    <original xml:space="preserve">エントリーボードから&lt;NAME TARGET&gt;が離脱しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has left the entryboard.</translation>
+    <original>エントリーボードから&lt;NAME TARGET&gt;が離脱しました</original>
+    <translation>&lt;NAME TARGET&gt; has left the entryboard.</translation>
   </message>
   <message>
     <key>ana_dialog_entryb_join_q</key>
-    <original xml:space="preserve">エントリーボードに参加します。
+    <original>エントリーボードに参加します。
 よろしいですか？</original>
-    <translation xml:space="preserve">You will sign up for the entryboard.
+    <translation>You will sign up for the entryboard.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_dialog_gchat_invite_tg_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 グループチャットに誘います。よろしいですか？</original>
-    <translation xml:space="preserve">Invite &lt;NAME TARGET&gt; 
+    <translation>Invite &lt;NAME TARGET&gt; 
 to the group chat. Are you sure?</translation>
   </message>
   <message>
     <key>ana_dialog_gchat_invite_tg</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をグループチャットに誘いました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has been invited to the group chat.</translation>
+    <original>&lt;NAME TARGET&gt;をグループチャットに誘いました</original>
+    <translation>&lt;NAME TARGET&gt; has been invited to the group chat.</translation>
   </message>
   <message>
     <key>ana_dialog_gchat_leave_q</key>
-    <original xml:space="preserve">グループチャットから抜けます。
+    <original>グループチャットから抜けます。
 よろしいですか？</original>
-    <translation xml:space="preserve">Leaving the group chat.
+    <translation>Leaving the group chat.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_dialog_gchat_leave</key>
-    <original xml:space="preserve">グループチャットから抜けました</original>
-    <translation xml:space="preserve">You have left the group chat.</translation>
+    <original>グループチャットから抜けました</original>
+    <translation>You have left the group chat.</translation>
   </message>
   <message>
     <key>ana_dialog_gchat_kick_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 グループチャットから外します。よろしいですか？</original>
-    <translation xml:space="preserve">Remove &lt;NAME TARGET&gt; 
+    <translation>Remove &lt;NAME TARGET&gt; 
 from the group chat?</translation>
   </message>
   <message>
     <key>ana_dialog_gchat_kick</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をグループチャットから外しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has been kicked from the group chat.</translation>
+    <original>&lt;NAME TARGET&gt;をグループチャットから外しました</original>
+    <translation>&lt;NAME TARGET&gt; has been kicked from the group chat.</translation>
   </message>
   <message>
     <key>ana_dialog_retire_proposed</key>
-    <original xml:space="preserve">コンテンツ途中離脱の提案を行いました</original>
-    <translation xml:space="preserve">You have proposed to withdraw from the content.</translation>
+    <original>コンテンツ途中離脱の提案を行いました</original>
+    <translation>You have proposed to withdraw from the content.</translation>
   </message>
   <message>
     <key>ana_dialog_retire_proposed_tg</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;さんから途中離脱の提案がありました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has proposed to withdraw from the content.</translation>
+    <original>&lt;NAME TARGET&gt;さんから途中離脱の提案がありました</original>
+    <translation>&lt;NAME TARGET&gt; has proposed to withdraw from the content.</translation>
   </message>
   <message>
     <key>ana_dialog_retire_win</key>
-    <original xml:space="preserve">コンテンツ途中離脱が決定されました</original>
-    <translation xml:space="preserve">Content withdrawal was successful.</translation>
+    <original>コンテンツ途中離脱が決定されました</original>
+    <translation>Content withdrawal was successful.</translation>
   </message>
   <message>
     <key>ana_dialog_retire_lose</key>
-    <original xml:space="preserve">コンテンツ途中離脱が拒否されました</original>
-    <translation xml:space="preserve">Content withdrawal has been denied.</translation>
+    <original>コンテンツ途中離脱が拒否されました</original>
+    <translation>Content withdrawal has been denied.</translation>
   </message>
   <message>
     <key>ana_dialog_retire_isanswer</key>
-    <original xml:space="preserve">コンテンツを途中離脱しますか？</original>
-    <translation xml:space="preserve">Do you want to withdraw from the content?</translation>
+    <original>コンテンツを途中離脱しますか？</original>
+    <translation>Do you want to withdraw from the content?</translation>
   </message>
   <message>
     <key>ana_dialog_retire_ispropose</key>
-    <original xml:space="preserve">コンテンツ途中離脱の提案をしますか？</original>
-    <translation xml:space="preserve">Do you want to propose to withdraw
+    <original>コンテンツ途中離脱の提案をしますか？</original>
+    <translation>Do you want to propose to withdraw
 from the content?</translation>
   </message>
   <message>
     <key>ana_dialog_retire_agree</key>
-    <original xml:space="preserve">賛成</original>
-    <translation xml:space="preserve">Agree</translation>
+    <original>賛成</original>
+    <translation>Agree</translation>
   </message>
   <message>
     <key>ana_dialog_retire_re_agree</key>
-    <original xml:space="preserve">「賛成」で返答しました</original>
-    <translation xml:space="preserve">You replied "agree."</translation>
+    <original>「賛成」で返答しました</original>
+    <translation>You replied "agree."</translation>
   </message>
   <message>
     <key>ana_dialog_retire_re_disagree</key>
-    <original xml:space="preserve">「反対」で返答しました</original>
-    <translation xml:space="preserve">You replied "disagree."</translation>
+    <original>「反対」で返答しました</original>
+    <translation>You replied "disagree."</translation>
   </message>
   <message>
     <key>ana_dialog_retire_disagree</key>
-    <original xml:space="preserve">反対</original>
-    <translation xml:space="preserve">Disagree</translation>
+    <original>反対</original>
+    <translation>Disagree</translation>
   </message>
   <message>
     <key>ana_dialog_retire_noreply</key>
-    <original xml:space="preserve">返答せず閉じる</original>
-    <translation xml:space="preserve">Close with no reply</translation>
+    <original>返答せず閉じる</original>
+    <translation>Close with no reply</translation>
   </message>
   <message>
     <key>ana_dialog_retire_inform</key>
-    <original xml:space="preserve">コンテンツ途中離脱の提案がありました</original>
-    <translation xml:space="preserve">Withdraw from the content?</translation>
+    <original>コンテンツ途中離脱の提案がありました</original>
+    <translation>Withdraw from the content?</translation>
   </message>
   <message>
     <key>ana_dialog_item_get</key>
-    <original xml:space="preserve">&lt;ITEM n&gt;を入手した</original>
-    <translation xml:space="preserve">&lt;ITEM n&gt; was obtained.</translation>
+    <original>&lt;ITEM n&gt;を入手した</original>
+    <translation>&lt;ITEM n&gt; was obtained.</translation>
   </message>
   <message>
     <key>ana_dialog_shortage_gold</key>
-    <original xml:space="preserve">所持金が不足しています</original>
-    <translation xml:space="preserve">You do not have enough gold.</translation>
+    <original>所持金が不足しています</original>
+    <translation>You do not have enough gold.</translation>
   </message>
   <message>
     <key>ana_warp_regist_error</key>
-    <original xml:space="preserve">拠点の礎の解放に失敗しました</original>
-    <translation xml:space="preserve">Failed to register warp.</translation>
+    <original>拠点の礎の解放に失敗しました</original>
+    <translation>Failed to register warp.</translation>
   </message>
   <message>
     <key>ana_warp_regist_error_main_quest</key>
-    <original xml:space="preserve">メインクエストの進行度が不足しているため
+    <original>メインクエストの進行度が不足しているため
 拠点の礎の解放に失敗しました</original>
-    <translation xml:space="preserve">Because of your progress in the main quests, 
+    <translation>Because of your progress in the main quests, 
 you cannot register this warp.</translation>
   </message>
   <message>
     <key>ana_warp_regist_error_area_rank</key>
-    <original xml:space="preserve">エリアランクが不足しているため
+    <original>エリアランクが不足しているため
 拠点の礎の解放に失敗しました</original>
-    <translation xml:space="preserve">Because your area rank is too low, 
+    <translation>Because your area rank is too low, 
 you cannot register this warp.</translation>
   </message>
   <message>
     <key>ana_pt_warp_begin</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;が＜&lt;VAL&gt;＞にリム転移しました
+    <original>&lt;NAME TARGET&gt;が＜&lt;VAL&gt;＞にリム転移しました
 &lt;VAL PARTY_WARP_SEC&gt;秒の間、同行リム転移が可能です</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has rift warped to ＜&lt;VAL&gt;＞.
+    <translation>&lt;NAME TARGET&gt; has rift warped to ＜&lt;VAL&gt;＞.
 Within &lt;VAL PARTY_WARP_SEC&gt; seconds, you can warp with them.</translation>
   </message>
   <message>
     <key>ana_warp_point_release</key>
-    <original xml:space="preserve">拠点の礎「&lt;NAME SPOT&gt;」を解放しました</original>
-    <translation xml:space="preserve">Warp Crystal 「&lt;NAME SPOT&gt;」 has been unlocked.</translation>
+    <original>拠点の礎「&lt;NAME SPOT&gt;」を解放しました</original>
+    <translation>Warp Crystal 「&lt;NAME SPOT&gt;」 has been unlocked.</translation>
   </message>
   <message>
     <key>ana_warp_regist_error_area_or_quest</key>
-    <original xml:space="preserve">メインクエストの進行度
+    <original>メインクエストの進行度
 またはエリアランク不足のため
 拠点の礎の解放に失敗しました</original>
-    <translation xml:space="preserve">Because of your progression in the main quest 
+    <translation>Because of your progression in the main quest 
 or your area rank, 
 you cannot unlock the Warp Crystal.</translation>
   </message>
   <message>
     <key>ana_warp_disable_battle</key>
-    <original xml:space="preserve">戦闘中は使用できません</original>
-    <translation xml:space="preserve">You cannot warp during battle.</translation>
+    <original>戦闘中は使用できません</original>
+    <translation>You cannot warp during battle.</translation>
   </message>
   <message>
     <key>ana_warp_disable_large_party</key>
-    <original xml:space="preserve">特定のコンテンツ中は使用できません</original>
-    <translation xml:space="preserve">You cannot warp in this content.</translation>
+    <original>特定のコンテンツ中は使用できません</original>
+    <translation>You cannot warp in this content.</translation>
   </message>
   <message>
     <key>ana_event_skip</key>
-    <original xml:space="preserve">イベントをスキップしますか？
+    <original>イベントをスキップしますか？
 
 ※パーティーの場合は
 　全員が承認することでスキップできます</original>
-    <translation xml:space="preserve">Are you sure you want to skip the event?
+    <translation>Are you sure you want to skip the event?
  
 If you are in a party, 
 everyone must approve in order to skip.</translation>
   </message>
   <message>
     <key>ana_KICK_ERR_NOT_OWNER_PAWN</key>
-    <original xml:space="preserve">自分のメインポーンのみキックできます</original>
-    <translation xml:space="preserve">You can only kick your own main pawn.</translation>
+    <original>自分のメインポーンのみキックできます</original>
+    <translation>You can only kick your own main pawn.</translation>
   </message>
   <message>
     <key>ana_KICK_ERR_NOT_PARTY</key>
-    <original xml:space="preserve">パーティーメンバーではありません</original>
-    <translation xml:space="preserve">That person is not a party member and cannot be kicked.</translation>
+    <original>パーティーメンバーではありません</original>
+    <translation>That person is not a party member and cannot be kicked.</translation>
   </message>
   <message>
     <key>ana_KICK_ERR_NOT_LEADER</key>
-    <original xml:space="preserve">リーダー時のみ選択できます</original>
-    <translation xml:space="preserve">Only the party leader can kick.</translation>
+    <original>リーダー時のみ選択できます</original>
+    <translation>Only the party leader can kick.</translation>
   </message>
   <message>
     <key>ana_KICK_ERR_MYSELF</key>
-    <original xml:space="preserve">自分をキックすることはできません</original>
-    <translation xml:space="preserve">You cannot kick yourself.</translation>
+    <original>自分をキックすることはできません</original>
+    <translation>You cannot kick yourself.</translation>
   </message>
   <message>
     <key>ana_KICK_ERR_EXIST_SUPPORT_PAWN</key>
-    <original xml:space="preserve">サポートポーンがパーティにいるためできません</original>
-    <translation xml:space="preserve">You cannot kick because there is a support pawn.</translation>
+    <original>サポートポーンがパーティにいるためできません</original>
+    <translation>You cannot kick because there is a support pawn.</translation>
   </message>
   <message>
     <key>ana_CHANGE_LEADER_ERR_NOT_PL</key>
-    <original xml:space="preserve">プレイヤーキャラクターではありません</original>
-    <translation xml:space="preserve">Party leader cannot be changed to a non-player.</translation>
+    <original>プレイヤーキャラクターではありません</original>
+    <translation>Party leader cannot be changed to a non-player.</translation>
   </message>
   <message>
     <key>ana_CHANGE_LEADER_ERR_NOT_PARTY</key>
-    <original xml:space="preserve">パーティーが組まれていません</original>
-    <translation xml:space="preserve">You cannot change leader because there is no party.</translation>
+    <original>パーティーが組まれていません</original>
+    <translation>You cannot change leader because there is no party.</translation>
   </message>
   <message>
     <key>ana_CHANGE_LEADER_ERR_AREA</key>
-    <original xml:space="preserve">リーダー変更可能エリアに全員が集まっていません</original>
-    <translation xml:space="preserve">Party leader cannot be changed because all members are not gathered in a valid area.</translation>
+    <original>リーダー変更可能エリアに全員が集まっていません</original>
+    <translation>Party leader cannot be changed because all members are not gathered in a valid area.</translation>
   </message>
   <message>
     <key>ana_CHANGE_LEADER_ERR_PERMISSION</key>
-    <original xml:space="preserve">リーダーかリーダー不在でなければ選べません</original>
-    <translation xml:space="preserve">You do not have permission to change the party leader.</translation>
+    <original>リーダーかリーダー不在でなければ選べません</original>
+    <translation>You do not have permission to change the party leader.</translation>
   </message>
   <message>
     <key>ana_CHANGE_LEADER_ERR_ALREADY</key>
-    <original xml:space="preserve">現在のリーダーです</original>
-    <translation xml:space="preserve">They are already the party leader.</translation>
+    <original>現在のリーダーです</original>
+    <translation>They are already the party leader.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_LOST_PAWN</key>
-    <original xml:space="preserve">ロスト中のポーンは呼び出せません</original>
-    <translation xml:space="preserve">That pawn cannot be called because they are Lost.</translation>
+    <original>ロスト中のポーンは呼び出せません</original>
+    <translation>That pawn cannot be called because they are Lost.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_ALREADY_PAWN</key>
-    <original xml:space="preserve">すでにパーティーメンバーです</original>
-    <translation xml:space="preserve">That pawn is already a party member.</translation>
+    <original>すでにパーティーメンバーです</original>
+    <translation>That pawn is already a party member.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_CRAFT_PAWN</key>
-    <original xml:space="preserve">クラフト中のポーンです</original>
-    <translation xml:space="preserve">That pawn is currently crafting.</translation>
+    <original>クラフト中のポーンです</original>
+    <translation>That pawn is currently crafting.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_ADVENTURE_NUM</key>
-    <original xml:space="preserve">冒険回数が0です</original>
-    <translation xml:space="preserve">That pawn's adventure count is 0.</translation>
+    <original>冒険回数が0です</original>
+    <translation>That pawn's adventure count is 0.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_NO_MAIN_PAWN</key>
-    <original xml:space="preserve">先にメインポーンを雇う必要があります</original>
-    <translation xml:space="preserve">You cannot invite a support pawn without a main pawn.</translation>
+    <original>先にメインポーンを雇う必要があります</original>
+    <translation>You cannot invite a support pawn without a main pawn.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_NOT_LEADER</key>
-    <original xml:space="preserve">リーダー以外は誘えません</original>
-    <translation xml:space="preserve">Only the party leader can invite members.</translation>
+    <original>リーダー以外は誘えません</original>
+    <translation>Only the party leader can invite members.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_PLACE</key>
-    <original xml:space="preserve">パーティー要請が不可能なエリアです</original>
-    <translation xml:space="preserve">Party invites are not possible in this area.</translation>
+    <original>パーティー要請が不可能なエリアです</original>
+    <translation>Party invites are not possible in this area.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_ALREADY_PL</key>
-    <original xml:space="preserve">現在パーティーにいるメンバーです</original>
-    <translation xml:space="preserve">That player is already in your party.</translation>
+    <original>現在パーティーにいるメンバーです</original>
+    <translation>That player is already in your party.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_INVITED</key>
-    <original xml:space="preserve">要請を受けています</original>
-    <translation xml:space="preserve">That player has already been invited to party.</translation>
+    <original>要請を受けています</original>
+    <translation>That player has already been invited to party.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_MYSELF</key>
-    <original xml:space="preserve">自分をパーティーに誘うことはできません</original>
-    <translation xml:space="preserve">You cannot invite yourself to party.</translation>
+    <original>自分をパーティーに誘うことはできません</original>
+    <translation>You cannot invite yourself to party.</translation>
   </message>
   <message>
     <key>ana_JOIN_PARTY_ERR_UNABLE_READY</key>
-    <original xml:space="preserve">パーティー準備を完了できません</original>
-    <translation xml:space="preserve">Party preparation could not be completed.</translation>
+    <original>パーティー準備を完了できません</original>
+    <translation>Party preparation could not be completed.</translation>
   </message>
   <message>
     <key>ana_PAWN_RENTAL_ERR_RIM</key>
-    <original xml:space="preserve">リムが足りません</original>
-    <translation xml:space="preserve">You do not have enough Rift Crystals to rent that pawn.</translation>
+    <original>リムが足りません</original>
+    <translation>You do not have enough Rift Crystals to rent that pawn.</translation>
   </message>
   <message>
     <key>ana_PAWN_RENTAL_ERR_NO_SPACE</key>
-    <original xml:space="preserve">空き枠がありません</original>
-    <translation xml:space="preserve">You have no free space to rent that pawn.</translation>
+    <original>空き枠がありません</original>
+    <translation>You have no free space to rent that pawn.</translation>
   </message>
   <message>
     <key>ana_PAWN_DELETE_ERR_PARTY</key>
-    <original xml:space="preserve">パーティーにいるポーンは削除できません</original>
-    <translation xml:space="preserve">That pawn cannot be deleted because they are in your party.</translation>
+    <original>パーティーにいるポーンは削除できません</original>
+    <translation>That pawn cannot be deleted because they are in your party.</translation>
   </message>
   <message>
     <key>ana_PAWN_DELETE_ERR_CRAFT</key>
-    <original xml:space="preserve">クラフト中のポーンです</original>
-    <translation xml:space="preserve">That pawn cannot be deleted because they are crafting.</translation>
+    <original>クラフト中のポーンです</original>
+    <translation>That pawn cannot be deleted because they are crafting.</translation>
   </message>
   <message>
     <key>ana_PAWN_RETURN_ERR_PARTY</key>
-    <original xml:space="preserve">パーティーにいるポーンは返却できません</original>
-    <translation xml:space="preserve">That pawn cannot be returned because they are in your party.</translation>
+    <original>パーティーにいるポーンは返却できません</original>
+    <translation>That pawn cannot be returned because they are in your party.</translation>
   </message>
   <message>
     <key>ana_PAWN_RETURN_ERR_CRAFT</key>
-    <original xml:space="preserve">クラフト中のポーンです</original>
-    <translation xml:space="preserve">That pawn cannot be returned because they are crafting.</translation>
+    <original>クラフト中のポーンです</original>
+    <translation>That pawn cannot be returned because they are crafting.</translation>
   </message>
   <message>
     <key>ana_GROUP_CHAT_ERR_ALREDY_MEMBER</key>
-    <original xml:space="preserve">すでにグループチャットのメンバーです</original>
-    <translation xml:space="preserve">That player is already a member of the group chat.</translation>
+    <original>すでにグループチャットのメンバーです</original>
+    <translation>That player is already a member of the group chat.</translation>
   </message>
   <message>
     <key>ana_GROUP_CHAT_ERR_NOT_PLAYER</key>
-    <original xml:space="preserve">グループチャットに誘える相手ではありません</original>
-    <translation xml:space="preserve">Cannot invite to group chat because they are not a player.</translation>
+    <original>グループチャットに誘える相手ではありません</original>
+    <translation>Cannot invite to group chat because they are not a player.</translation>
   </message>
   <message>
     <key>ana_GROUP_CHAT_KICK_ERR_MYSELF</key>
-    <original xml:space="preserve">自分をキックすることはできません</original>
-    <translation xml:space="preserve">You cannot kick yourself from a group chat.</translation>
+    <original>自分をキックすることはできません</original>
+    <translation>You cannot kick yourself from a group chat.</translation>
   </message>
   <message>
     <key>ana_EXPEL_CLAN_ERR_MYSELF</key>
-    <original xml:space="preserve">自分を除名することはできません</original>
-    <translation xml:space="preserve">You cannot expel yourself from a clan.</translation>
+    <original>自分を除名することはできません</original>
+    <translation>You cannot expel yourself from a clan.</translation>
   </message>
   <message>
     <key>ana_CHANGE_CLAN_MASTER_ERR_MYSELF</key>
-    <original xml:space="preserve">クランマスターに変更できません</original>
-    <translation xml:space="preserve">You cannot change the Clan Master.</translation>
+    <original>クランマスターに変更できません</original>
+    <translation>You cannot change the Clan Master.</translation>
   </message>
   <message>
     <key>ana_SET_CLAN_MEMBER_RANK_ERR_MYSELF</key>
-    <original xml:space="preserve">自分にはクランランクを設定できません</original>
-    <translation xml:space="preserve">You cannot change your own clan rank.</translation>
+    <original>自分にはクランランクを設定できません</original>
+    <translation>You cannot change your own clan rank.</translation>
   </message>
   <message>
     <key>ana_FRIEND_ERR_MYSELF</key>
-    <original xml:space="preserve">自分にフレンド申請はだせません</original>
-    <translation xml:space="preserve">You cannot send a friend request to yourself.</translation>
+    <original>自分にフレンド申請はだせません</original>
+    <translation>You cannot send a friend request to yourself.</translation>
   </message>
   <message>
     <key>ana_TELL_ERR_MYSELF</key>
-    <original xml:space="preserve">Tellは自分にできません</original>
-    <translation xml:space="preserve">You cannot send a Tell to yourself.</translation>
+    <original>Tellは自分にできません</original>
+    <translation>You cannot send a Tell to yourself.</translation>
   </message>
   <message>
     <key>ana_AUTORUN_ERR_PAWN</key>
-    <original xml:space="preserve">ポーンを対象に追従オートランできません</original>
-    <translation xml:space="preserve">You cannot use autorun on a pawn.</translation>
+    <original>ポーンを対象に追従オートランできません</original>
+    <translation>You cannot use autorun on a pawn.</translation>
   </message>
   <message>
     <key>ana_AUTORUN_ERR_MYSELF</key>
-    <original xml:space="preserve">自分を対象に追従オートランできません</original>
-    <translation xml:space="preserve">You cannot use autorun on yourself.</translation>
+    <original>自分を対象に追従オートランできません</original>
+    <translation>You cannot use autorun on yourself.</translation>
   </message>
   <message>
     <key>ana_AUTORUN_ERR_NO_PARTY</key>
-    <original xml:space="preserve">パーティーメンバー以外に追従オートランできません</original>
-    <translation xml:space="preserve">You cannot use autorun on non-party members.</translation>
+    <original>パーティーメンバー以外に追従オートランできません</original>
+    <translation>You cannot use autorun on non-party members.</translation>
   </message>
   <message>
     <key>ana_AUTORUN_ERR_NO_UNIT</key>
-    <original xml:space="preserve">追従オートラン対象が同エリアにいません</original>
-    <translation xml:space="preserve">The target is not in the same area for autorun.</translation>
+    <original>追従オートラン対象が同エリアにいません</original>
+    <translation>The target is not in the same area for autorun.</translation>
   </message>
   <message>
     <key>ana_ERR_UNKNOWN</key>
-    <original xml:space="preserve">不明なエラーが発生しました</original>
-    <translation xml:space="preserve">An unknown error has occurred.</translation>
+    <original>不明なエラーが発生しました</original>
+    <translation>An unknown error has occurred.</translation>
   </message>
   <message>
     <key>ana_clan_create</key>
-    <original xml:space="preserve">クランを作成しました</original>
-    <translation xml:space="preserve">You created a clan.</translation>
+    <original>クランを作成しました</original>
+    <translation>You created a clan.</translation>
   </message>
   <message>
     <key>ana_clan_expulsion_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 クランから除名します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to expel &lt;NAME TARGET&gt; 
+    <translation>Are you sure you want to expel &lt;NAME TARGET&gt; 
 from the clan?</translation>
   </message>
   <message>
     <key>ana_clan_expulsion</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を除名しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has been expelled.</translation>
+    <original>&lt;NAME TARGET&gt;を除名しました</original>
+    <translation>&lt;NAME TARGET&gt; has been expelled.</translation>
   </message>
   <message>
     <key>ana_clan_chg_master_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 クランマスターにします。よろしいですか？</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; will become the clan master.
+    <translation>&lt;NAME TARGET&gt; will become the clan master.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_chg_master</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をクランマスターにしました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has become the clan master.</translation>
+    <original>&lt;NAME TARGET&gt;をクランマスターにしました</original>
+    <translation>&lt;NAME TARGET&gt; has become the clan master.</translation>
   </message>
   <message>
     <key>ana_clan_chg_leader_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 サブマスターにします。よろしいですか？</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; will become a clan leader.
+    <translation>&lt;NAME TARGET&gt; will become a clan leader.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_chg_member_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 通常メンバーにします。よろしいですか？</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; will become a clan member.
+    <translation>&lt;NAME TARGET&gt; will become a clan member.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_chg_member</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を通常メンバーにしました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has become a clan member.</translation>
+    <original>&lt;NAME TARGET&gt;を通常メンバーにしました</original>
+    <translation>&lt;NAME TARGET&gt; has become a clan member.</translation>
   </message>
   <message>
     <key>ana_clan_chg_leader</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をサブマスターにしました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has become a clan leader.</translation>
+    <original>&lt;NAME TARGET&gt;をサブマスターにしました</original>
+    <translation>&lt;NAME TARGET&gt; has become a clan leader.</translation>
   </message>
   <message>
     <key>ana_re_entry_q</key>
-    <original xml:space="preserve">現在のパーティーを解散して
+    <original>現在のパーティーを解散して
 エントリーボードに登録しなおします。
 よろしいですか？</original>
-    <translation xml:space="preserve">The current party will be disbanded.
+    <translation>The current party will be disbanded.
 You will re-register on the entryboard.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_re_entry</key>
-    <original xml:space="preserve">パーティーが解散され、エントリーボードに再登録されました</original>
-    <translation xml:space="preserve">The party has been disbanded and re-registered on the entryboard.</translation>
+    <original>パーティーが解散され、エントリーボードに再登録されました</original>
+    <translation>The party has been disbanded and re-registered on the entryboard.</translation>
   </message>
   <message>
     <key>ana_fav_pawn_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 お気に入りに設定します。よろしいですか？</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; will be set as a favorite pawn.
+    <translation>&lt;NAME TARGET&gt; will be set as a favorite pawn.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_fav_del_pawn_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 お気に入りから削除します。よろしいですか？</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; will be removed as a favorite pawn.
+    <translation>&lt;NAME TARGET&gt; will be removed as a favorite pawn.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_fav_pawn</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をお気に入りに追加しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; is now a favorite pawn.</translation>
+    <original>&lt;NAME TARGET&gt;をお気に入りに追加しました</original>
+    <translation>&lt;NAME TARGET&gt; is now a favorite pawn.</translation>
   </message>
   <message>
     <key>ana_fav_del_pawn</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をお気に入りから削除しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; is no longer a favorite pawn.</translation>
+    <original>&lt;NAME TARGET&gt;をお気に入りから削除しました</original>
+    <translation>&lt;NAME TARGET&gt; is no longer a favorite pawn.</translation>
   </message>
   <message>
     <key>ana_friend_req_cancel_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;への
+    <original>&lt;NAME TARGET&gt;への
 フレンド申請をキャンセルします。よろしいですか？</original>
-    <translation xml:space="preserve">The friend request to &lt;NAME TARGET&gt; will be canceled.
+    <translation>The friend request to &lt;NAME TARGET&gt; will be canceled.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_friend_req_cancel</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;へのフレンド申請をキャンセルしました</original>
-    <translation xml:space="preserve">The friend request to &lt;NAME TARGET&gt; has been canceled.</translation>
+    <original>&lt;NAME TARGET&gt;へのフレンド申請をキャンセルしました</original>
+    <translation>The friend request to &lt;NAME TARGET&gt; has been canceled.</translation>
   </message>
   <message>
     <key>ana_mitem_get_con</key>
-    <original xml:space="preserve">メール添付アイテムを受け取りますか？</original>
-    <translation xml:space="preserve">Receive the items attached to the mail?</translation>
+    <original>メール添付アイテムを受け取りますか？</original>
+    <translation>Receive the items attached to the mail?</translation>
   </message>
   <message>
     <key>ana_mitem_get</key>
-    <original xml:space="preserve">メール添付アイテムを受け取りました</original>
-    <translation xml:space="preserve">You have received the attached items.</translation>
+    <original>メール添付アイテムを受け取りました</original>
+    <translation>You have received the attached items.</translation>
   </message>
   <message>
     <key>ana_mitem_all_get_q</key>
-    <original xml:space="preserve">アイテム付きメール&lt;VAL&gt;件のアイテムを
+    <original>アイテム付きメール&lt;VAL&gt;件のアイテムを
 すべて受け取りますか？</original>
-    <translation xml:space="preserve">There are &lt;VAL&gt; mails with items. Receive all of them?</translation>
+    <translation>There are &lt;VAL&gt; mails with items. Receive all of them?</translation>
   </message>
   <message>
     <key>ana_mitem_opt_alert</key>
-    <original xml:space="preserve">※&lt;OPCS&gt;のアイテムは
+    <original>※&lt;OPCS&gt;のアイテムは
 　個別に受け取ってください</original>
-    <translation xml:space="preserve">※There is a &lt;OPCS&gt; in the mail.
+    <translation>※There is a &lt;OPCS&gt; in the mail.
 Please receive it individually.</translation>
   </message>
   <message>
     <key>ana_mitem_get_num</key>
-    <original xml:space="preserve">アイテム付きメール&lt;VAL&gt;件のアイテムを受け取りました</original>
-    <translation xml:space="preserve">You have received items from &lt;VAL&gt; mails.</translation>
+    <original>アイテム付きメール&lt;VAL&gt;件のアイテムを受け取りました</original>
+    <translation>You have received items from &lt;VAL&gt; mails.</translation>
   </message>
   <message>
     <key>ana_blist_add_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 ブラックリストに追加します。よろしいですか？</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; will be added to your blacklist.
+    <translation>&lt;NAME TARGET&gt; will be added to your blacklist.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_blist_del_q</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 ブラックリストから削除します。よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to remove &lt;NAME TARGET&gt;
+    <translation>Are you sure you want to remove &lt;NAME TARGET&gt;
 from your blacklist?</translation>
   </message>
   <message>
     <key>ana_blist_add</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をブラックリストに追加しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has been added to your blacklist.</translation>
+    <original>&lt;NAME TARGET&gt;をブラックリストに追加しました</original>
+    <translation>&lt;NAME TARGET&gt; has been added to your blacklist.</translation>
   </message>
   <message>
     <key>ana_blist_del</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;をブラックリストから削除しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has been removed from your blacklist.</translation>
+    <original>&lt;NAME TARGET&gt;をブラックリストから削除しました</original>
+    <translation>&lt;NAME TARGET&gt; has been removed from your blacklist.</translation>
   </message>
   <message>
     <key>ana_PAWN_DELETE_ERR_LAST</key>
-    <original xml:space="preserve">残り1体なので削除できません</original>
-    <translation xml:space="preserve">Since it is your last pawn, it cannot be deleted.</translation>
+    <original>残り1体なので削除できません</original>
+    <translation>Since it is your last pawn, it cannot be deleted.</translation>
   </message>
   <message>
     <key>ana_mitem_get_msg_index</key>
-    <original xml:space="preserve">アイテム付きのメール&lt;VAL&gt;件を受け取りました</original>
-    <translation xml:space="preserve">You have received &lt;VAL&gt; items from mail.</translation>
+    <original>アイテム付きのメール&lt;VAL&gt;件を受け取りました</original>
+    <translation>You have received &lt;VAL&gt; items from mail.</translation>
   </message>
   <message>
     <key>ana_mitem_get_gameitem</key>
-    <original xml:space="preserve">　アイテム x &lt;VAL&gt; 入手(アイテムポスト)</original>
-    <translation xml:space="preserve">Received &lt;VAL&gt; items. (Item Post)</translation>
+    <original>　アイテム x &lt;VAL&gt; 入手(アイテムポスト)</original>
+    <translation>Received &lt;VAL&gt; items. (Item Post)</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_course</key>
-    <original xml:space="preserve">　&lt;OPCS&gt; x &lt;VAL&gt; 発動</original>
-    <translation xml:space="preserve">&lt;OPCS&gt; x&lt;VAL&gt; activated.</translation>
+    <original>　&lt;OPCS&gt; x &lt;VAL&gt; 発動</original>
+    <translation>&lt;OPCS&gt; x&lt;VAL&gt; activated.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_goldstone</key>
-    <original xml:space="preserve">　メール &lt;VAL&gt;件分の黄金石 直接入手</original>
-    <translation xml:space="preserve">You have received &lt;VAL&gt; golden gemstones from the mail.</translation>
+    <original>　メール &lt;VAL&gt;件分の黄金石 直接入手</original>
+    <translation>You have received &lt;VAL&gt; golden gemstones from the mail.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_cticket</key>
-    <original xml:space="preserve">　通貨系アイテム x &lt;VAL&gt; 直接入手</original>
+    <original>　通貨系アイテム x &lt;VAL&gt; 直接入手</original>
   </message>
   <message>
     <key>ana_mitem_get_opt_lpawnticket</key>
-    <original xml:space="preserve">　クラフトマスターポーン利用券 x &lt;VAL&gt; 入手</original>
+    <original>　クラフトマスターポーン利用券 x &lt;VAL&gt; 入手</original>
   </message>
   <message>
     <key>ana_mitem_get_err_gameitem</key>
-    <original xml:space="preserve">アイテム x &lt;VAL&gt; を受け取れませんでした</original>
+    <original>アイテム x &lt;VAL&gt; を受け取れませんでした</original>
   </message>
   <message>
     <key>ana_mitem_get_err_opt_course</key>
-    <original xml:space="preserve">&lt;OPCS&gt; x &lt;VAL&gt; を受け取れませんでした</original>
+    <original>&lt;OPCS&gt; x &lt;VAL&gt; を受け取れませんでした</original>
   </message>
   <message>
     <key>ana_mitem_get_err_opt_goldstone</key>
-    <original xml:space="preserve">メール &lt;VAL&gt;件分の黄金石 を受け取れませんでした</original>
+    <original>メール &lt;VAL&gt;件分の黄金石 を受け取れませんでした</original>
   </message>
   <message>
     <key>ana_mitem_get_err_opt_cticket</key>
-    <original xml:space="preserve">通貨系アイテム x &lt;VAL&gt; を受け取れませんでした</original>
+    <original>通貨系アイテム x &lt;VAL&gt; を受け取れませんでした</original>
   </message>
   <message>
     <key>ana_mitem_get_err_opt_lpawnticket</key>
-    <original xml:space="preserve">クラフトマスターポーン利用券 x &lt;VAL&gt; を受け取れませんでした</original>
-    <translation xml:space="preserve">Craft Master Pawn Voucher x&lt;VAL&gt; could not be received.</translation>
+    <original>クラフトマスターポーン利用券 x &lt;VAL&gt; を受け取れませんでした</original>
+    <translation>Craft Master Pawn Voucher x&lt;VAL&gt; could not be received.</translation>
   </message>
   <message>
     <key>ana_grandmission_get_secretability</key>
-    <original xml:space="preserve">&lt;NAME ABILITY&gt;を習得しました</original>
-    <translation xml:space="preserve">&lt;NAME ABILITY&gt; has been learned.</translation>
+    <original>&lt;NAME ABILITY&gt;を習得しました</original>
+    <translation>&lt;NAME ABILITY&gt; has been learned.</translation>
   </message>
   <message>
     <key>ana_grandmission_get_reward</key>
-    <original xml:space="preserve">報酬が保管ボックスに送られました</original>
-    <translation xml:space="preserve">The Grand Mission rewards have been sent to your storage box.</translation>
+    <original>報酬が保管ボックスに送られました</original>
+    <translation>The Grand Mission rewards have been sent to your storage box.</translation>
   </message>
   <message>
     <key>ana_unlock_contents</key>
-    <original xml:space="preserve">&lt;TEXT&gt;が解放されました</original>
-    <translation xml:space="preserve">&lt;TEXT&gt; has been unlocked.</translation>
+    <original>&lt;TEXT&gt;が解放されました</original>
+    <translation>&lt;TEXT&gt; has been unlocked.</translation>
   </message>
   <message>
     <key>ana_gamemenu_atlobby</key>
-    <original xml:space="preserve">白竜神殿以外では使用できません</original>
-    <translation xml:space="preserve">You cannot use this outside the White Dragon Temple.</translation>
+    <original>白竜神殿以外では使用できません</original>
+    <translation>You cannot use this outside the White Dragon Temple.</translation>
   </message>
   <message>
     <key>ana_gamemenu_dontnow</key>
-    <original xml:space="preserve">今は使用できません</original>
-    <translation xml:space="preserve">You cannot use this now.</translation>
+    <original>今は使用できません</original>
+    <translation>You cannot use this now.</translation>
   </message>
   <message>
     <key>ana_gamemenu_playcontents</key>
-    <original xml:space="preserve">特定コンテンツプレイ時にしか選べません</original>
-    <translation xml:space="preserve">You can only select this during specific content.</translation>
+    <original>特定コンテンツプレイ時にしか選べません</original>
+    <translation>You can only select this during specific content.</translation>
   </message>
   <message>
     <key>ana_gamemenu_clanmember</key>
-    <original xml:space="preserve">クランに所属していなければ選べません</original>
-    <translation xml:space="preserve">You cannot select this if you are not in a clan.</translation>
+    <original>クランに所属していなければ選べません</original>
+    <translation>You cannot select this if you are not in a clan.</translation>
   </message>
   <message>
     <key>ana_gamemenu_dontrimwarp</key>
-    <original xml:space="preserve">カメラ制限がかかっているためフォトモードに移行できません</original>
+    <original>カメラ制限がかかっているためフォトモードに移行できません</original>
   </message>
   <message>
     <key>ana_charge_course_start</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; が発動しました</original>
-    <translation xml:space="preserve">&lt;NAME ETC&gt; has been activated.</translation>
+    <original>&lt;NAME ETC&gt; が発動しました</original>
+    <translation>&lt;NAME ETC&gt; has been activated.</translation>
   </message>
   <message>
     <key>ana_charge_course_limit_1h</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; の期限が、残り1時間をきりました</original>
-    <translation xml:space="preserve">&lt;NAME ETC&gt; has 1 hour remaining.</translation>
+    <original>&lt;NAME ETC&gt; の期限が、残り1時間をきりました</original>
+    <translation>&lt;NAME ETC&gt; has 1 hour remaining.</translation>
   </message>
   <message>
     <key>ana_charge_course_limit_24h</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; の期限が、残り24時間をきりました</original>
-    <translation xml:space="preserve">&lt;NAME ETC&gt; has 24 hours remaining.</translation>
+    <original>&lt;NAME ETC&gt; の期限が、残り24時間をきりました</original>
+    <translation>&lt;NAME ETC&gt; has 24 hours remaining.</translation>
   </message>
   <message>
     <key>ana_charge_course_end</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; が切れました</original>
-    <translation xml:space="preserve">&lt;NAME ETC&gt; has ended.</translation>
+    <original>&lt;NAME ETC&gt; が切れました</original>
+    <translation>&lt;NAME ETC&gt; has ended.</translation>
   </message>
   <message>
     <key>ana_pawn_lost_escape</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;はロストすることなく、リムストーンに戻りました</original>
-    <translation xml:space="preserve">&lt;NAME PAWN&gt; has been lost and sent back to the Riftstone.</translation>
+    <original>&lt;NAME PAWN&gt;はロストすることなく、リムストーンに戻りました</original>
+    <translation>&lt;NAME PAWN&gt; has been lost and sent back to the Riftstone.</translation>
   </message>
   <message>
     <key>ana_cantchange</key>
-    <original xml:space="preserve">その項目は変更できません</original>
-    <translation xml:space="preserve">This cannot be changed.</translation>
+    <original>その項目は変更できません</original>
+    <translation>This cannot be changed.</translation>
   </message>
   <message>
     <key>ana_number_selection</key>
-    <original xml:space="preserve">個数を選択してください</original>
-    <translation xml:space="preserve">Please select the amount.</translation>
+    <original>個数を選択してください</original>
+    <translation>Please select the amount.</translation>
   </message>
   <message>
     <key>ana_tutorial_announce</key>
-    <original xml:space="preserve">新しいチュートリアルがあります</original>
-    <translation xml:space="preserve">There is a new tutorial available.</translation>
+    <original>新しいチュートリアルがあります</original>
+    <translation>There is a new tutorial available.</translation>
   </message>
   <message>
     <key>ana_content_starting_standby</key>
-    <original xml:space="preserve">出発スタンバイをしますか？</original>
-    <translation xml:space="preserve">Do you want to begin standing by?</translation>
+    <original>出発スタンバイをしますか？</original>
+    <translation>Do you want to begin standing by?</translation>
   </message>
   <message>
     <key>ana_content_starting_cancel</key>
-    <original xml:space="preserve">出発スタンバイをキャンセルしますか？</original>
-    <translation xml:space="preserve">Do you want to cancel standing by?</translation>
+    <original>出発スタンバイをキャンセルしますか？</original>
+    <translation>Do you want to cancel standing by?</translation>
   </message>
   <message>
     <key>ana_content_party_standby</key>
-    <original xml:space="preserve">パーティーの準備ができたので移動しますか？</original>
-    <translation xml:space="preserve">Do you want to move now that your party is ready?</translation>
+    <original>パーティーの準備ができたので移動しますか？</original>
+    <translation>Do you want to move now that your party is ready?</translation>
   </message>
   <message>
     <key>ana_creating_second_pawn</key>
-    <original xml:space="preserve">新しいメインポーンと契約しました。パーティー管理から呼び出せます</original>
-    <translation xml:space="preserve">You have made a contract with a new main pawn. It can be called through the party management.</translation>
+    <original>新しいメインポーンと契約しました。パーティー管理から呼び出せます</original>
+    <translation>You have made a contract with a new main pawn. It can be called through the party management.</translation>
   </message>
   <message>
     <key>ana_get_keyitem</key>
-    <original xml:space="preserve">「%s」を入手しました</original>
-    <translation xml:space="preserve">「%s」 obtained.</translation>
+    <original>「%s」を入手しました</original>
+    <translation>「%s」 obtained.</translation>
   </message>
   <message>
     <key>ana_quest_party_join</key>
-    <original xml:space="preserve">%sを
+    <original>%sを
 パーティーに入れます。よろしいですか？</original>
-    <translation xml:space="preserve">%s will join the party.
+    <translation>%s will join the party.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_grand_npc_escort_faild</key>
-    <original xml:space="preserve">護衛対象の護衛に失敗</original>
-    <translation xml:space="preserve">Failed to escort the target.</translation>
+    <original>護衛対象の護衛に失敗</original>
+    <translation>Failed to escort the target.</translation>
   </message>
   <message>
     <key>ana_extream_timelimit_faild</key>
-    <original xml:space="preserve">制限時間内での目的達成に失敗</original>
-    <translation xml:space="preserve">Failed to meet objectives within the time limit.</translation>
+    <original>制限時間内での目的達成に失敗</original>
+    <translation>Failed to meet objectives within the time limit.</translation>
   </message>
   <message>
     <key>ana_pawn_adventure_dec</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;の冒険回数が減りました</original>
-    <translation xml:space="preserve">The remaining adventures of &lt;NAME PAWN&gt; has been reduced.</translation>
+    <original>&lt;NAME PAWN&gt;の冒険回数が減りました</original>
+    <translation>The remaining adventures of &lt;NAME PAWN&gt; has been reduced.</translation>
   </message>
   <message>
     <key>ana_pawn_adventure_zero</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;の冒険回数が0になりました
+    <original>&lt;NAME PAWN&gt;の冒険回数が0になりました
 パーティーから外れます</original>
-    <translation xml:space="preserve">The remaining adventures of &lt;NAME PAWN&gt; is now 0.
+    <translation>The remaining adventures of &lt;NAME PAWN&gt; is now 0.
 They will leave the party.</translation>
   </message>
   <message>
     <key>ana_pawn_crafter_dec</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;のクラフト回数が減りました</original>
-    <translation xml:space="preserve">The remaining crafts of &lt;NAME PAWN&gt; has been reduced.</translation>
+    <original>&lt;NAME PAWN&gt;のクラフト回数が減りました</original>
+    <translation>The remaining crafts of &lt;NAME PAWN&gt; has been reduced.</translation>
   </message>
   <message>
     <key>ana_pawn_crafter_zero</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;のクラフト回数が0になりました</original>
-    <translation xml:space="preserve">The remaining crafts of &lt;NAME PAWN&gt; is now 0.</translation>
+    <original>&lt;NAME PAWN&gt;のクラフト回数が0になりました</original>
+    <translation>The remaining crafts of &lt;NAME PAWN&gt; is now 0.</translation>
   </message>
   <message>
     <key>ana_release_element</key>
-    <original xml:space="preserve">&lt;VAL&gt;を解放しました</original>
-    <translation xml:space="preserve">&lt;VAL&gt; has been unlocked.</translation>
+    <original>&lt;VAL&gt;を解放しました</original>
+    <translation>&lt;VAL&gt; has been unlocked.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_PROGRESS_PL</key>
-    <original xml:space="preserve">まだプレイヤーをパーティーに誘うことができません</original>
-    <translation xml:space="preserve">You cannot invite players to a party yet.</translation>
+    <original>まだプレイヤーをパーティーに誘うことができません</original>
+    <translation>You cannot invite players to a party yet.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_PROGRESS_PAWN</key>
-    <original xml:space="preserve">まだポーンをパーティーに参加させることができません</original>
-    <translation xml:space="preserve">You cannot invite a pawn to party yet.</translation>
+    <original>まだポーンをパーティーに参加させることができません</original>
+    <translation>You cannot invite a pawn to party yet.</translation>
   </message>
   <message>
     <key>ana_CARD_ERR_NOT_ONLINE</key>
-    <original xml:space="preserve">オフラインです</original>
-    <translation xml:space="preserve">Character is offline.</translation>
+    <original>オフラインです</original>
+    <translation>Character is offline.</translation>
   </message>
   <message>
     <key>ana_APPLY_CLAN_ERR_ALREADY_JOIN</key>
-    <original xml:space="preserve">すでにクランに所属しています</original>
-    <translation xml:space="preserve">Character is already in a clan.</translation>
+    <original>すでにクランに所属しています</original>
+    <translation>Character is already in a clan.</translation>
   </message>
   <message>
     <key>ana_entry_board_name_taken_list</key>
-    <original xml:space="preserve">リストから名前取得</original>
-    <translation xml:space="preserve">From List</translation>
+    <original>リストから名前取得</original>
+    <translation>From List</translation>
   </message>
   <message>
     <key>ana_entry_board_name_taken_friend</key>
-    <original xml:space="preserve">フレンドリストから</original>
-    <translation xml:space="preserve">From Friends</translation>
+    <original>フレンドリストから</original>
+    <translation>From Friends</translation>
   </message>
   <message>
     <key>ana_entry_board_name_taken_clan</key>
-    <original xml:space="preserve">クランリストから</original>
-    <translation xml:space="preserve">From Clan</translation>
+    <original>クランリストから</original>
+    <translation>From Clan</translation>
   </message>
   <message>
     <key>ana_mail_ana_receivedmail_full</key>
-    <original xml:space="preserve">知り合いメールボックスがいっぱいです</original>
-    <translation xml:space="preserve">That character's mailbox is full.</translation>
+    <original>知り合いメールボックスがいっぱいです</original>
+    <translation>That character's mailbox is full.</translation>
   </message>
   <message>
     <key>ana_mail_ana_receivedmail_full_near</key>
-    <original xml:space="preserve">知り合いメールボックスの容量が少なくなってます</original>
-    <translation xml:space="preserve">That character's mailbox is almost full.</translation>
+    <original>知り合いメールボックスの容量が少なくなってます</original>
+    <translation>That character's mailbox is almost full.</translation>
   </message>
   <message>
     <key>ana_mail_ana_notificationmail_full</key>
-    <original xml:space="preserve">運営メールボックスがいっぱいです
+    <original>運営メールボックスがいっぱいです
 運営メールを受け取るには削除してください</original>
-    <translation xml:space="preserve">Your mailbox is full.
+    <translation>Your mailbox is full.
 Please delete some mail to receive new mails.</translation>
   </message>
   <message>
     <key>ana_mail_ana_notificationmail_full_near</key>
-    <original xml:space="preserve">運営メールボックスの容量が少なくなってます</original>
-    <translation xml:space="preserve">Your mailbox is almost full.</translation>
+    <original>運営メールボックスの容量が少なくなってます</original>
+    <translation>Your mailbox is almost full.</translation>
   </message>
   <message>
     <key>ana_mail_ana_0_newmail</key>
-    <original xml:space="preserve">新着メールはありません</original>
-    <translation xml:space="preserve">There is no new mail.</translation>
+    <original>新着メールはありません</original>
+    <translation>There is no new mail.</translation>
   </message>
   <message>
     <key>ana_mail_ana_0_itemmail</key>
-    <original xml:space="preserve">添付アイテムはありません</original>
-    <translation xml:space="preserve">There are no items in the mail.</translation>
+    <original>添付アイテムはありません</original>
+    <translation>There are no items in the mail.</translation>
   </message>
   <message>
     <key>ana_mail_ana_notset_address</key>
-    <original xml:space="preserve">宛先が設定されていません</original>
-    <translation xml:space="preserve">The mail's destination has not been entered.</translation>
+    <original>宛先が設定されていません</original>
+    <translation>The mail's destination has not been entered.</translation>
   </message>
   <message>
     <key>ana_mail_ana_notinput_text</key>
-    <original xml:space="preserve">本文が入力されていません</original>
-    <translation xml:space="preserve">The mail's body has been entered.</translation>
+    <original>本文が入力されていません</original>
+    <translation>The mail's body has been entered.</translation>
   </message>
   <message>
     <key>ana_CLAN_SCOUT_DIALOG_SCOUT_CANCEL_READY</key>
-    <original xml:space="preserve">スカウトエントリーをキャンセルします。
+    <original>スカウトエントリーをキャンセルします。
 よろしいですか？</original>
-    <translation xml:space="preserve">You will cancel the scout entry.
+    <translation>You will cancel the scout entry.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_CLAN_SCOUT_DIALOG_SCOUT_CANCEL_END</key>
-    <original xml:space="preserve">スカウトエントリーをキャンセルしました</original>
-    <translation xml:space="preserve">You have canceled scout entry.</translation>
+    <original>スカウトエントリーをキャンセルしました</original>
+    <translation>You have canceled scout entry.</translation>
   </message>
   <message>
     <key>ana_om_cannotstart_battle</key>
-    <original xml:space="preserve">戦闘中は起動できません</original>
-    <translation xml:space="preserve">You cannot start battle.</translation>
+    <original>戦闘中は起動できません</original>
+    <translation>You cannot start battle.</translation>
   </message>
   <message>
     <key>ana_questreward_to_rewardbox</key>
-    <original xml:space="preserve">クエスト報酬が報酬ボックスに入りました</original>
-    <translation xml:space="preserve">The quest reward has been sent to the reward box.</translation>
+    <original>クエスト報酬が報酬ボックスに入りました</original>
+    <translation>The quest reward has been sent to the reward box.</translation>
   </message>
   <message>
     <key>ana_itembox_submenu_tooltip_sendspbox_nonsp</key>
-    <original xml:space="preserve">拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation xml:space="preserve">Storage expansion is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
+    <original>拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
+    <translation>Storage expansion is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
   </message>
   <message>
     <key>ana_itembox_submenu_tooltip_sendbox_ng_frame</key>
-    <original xml:space="preserve">アイテム枠がいっぱいです</original>
-    <translation xml:space="preserve">The box is full.</translation>
+    <original>アイテム枠がいっぱいです</original>
+    <translation>The box is full.</translation>
   </message>
   <message>
     <key>ana_itembox_submenu_tooltip_sendbox_ng_stack</key>
-    <original xml:space="preserve">アイテムスタック数を超えています</original>
-    <translation xml:space="preserve">The total will exceed the stack limit.</translation>
+    <original>アイテムスタック数を超えています</original>
+    <translation>The total will exceed the stack limit.</translation>
   </message>
   <message>
     <key>ana_version_error</key>
-    <original xml:space="preserve">このバージョンでは使用できません</original>
-    <translation xml:space="preserve">This cannot be used in this version.</translation>
+    <original>このバージョンでは使用できません</original>
+    <translation>This cannot be used in this version.</translation>
   </message>
   <message>
     <key>ana_new_leader_re_entry</key>
-    <original xml:space="preserve">新たなリーダーに任命されました。出撃確認画面に入り直して下さい</original>
-    <translation xml:space="preserve">The party has a new leader. Please re-enter with the party confirmation screen.</translation>
+    <original>新たなリーダーに任命されました。出撃確認画面に入り直して下さい</original>
+    <translation>The party has a new leader. Please re-enter with the party confirmation screen.</translation>
   </message>
   <message>
     <key>ana_rewardbox_full</key>
-    <original xml:space="preserve">報酬ボックスの容量が少なくなっています。古い報酬を失う可能性があります</original>
-    <translation xml:space="preserve">The reward box is almost full. You may lose previous rewards.</translation>
+    <original>報酬ボックスの容量が少なくなっています。古い報酬を失う可能性があります</original>
+    <translation>The reward box is almost full. You may lose previous rewards.</translation>
   </message>
   <message>
     <key>ana_quick_pt_recruiting_ng</key>
-    <original xml:space="preserve">クイックパーティー中のため募集できません</original>
-    <translation xml:space="preserve">You cannot recruit for quick party while in a full party.</translation>
+    <original>クイックパーティー中のため募集できません</original>
+    <translation>You cannot recruit for quick party while in a full party.</translation>
   </message>
   <message>
     <key>ana_quick_pt_join_ng</key>
-    <original xml:space="preserve">クイックパーティー中のため参加できません</original>
-    <translation xml:space="preserve">You can no longer participate in a quick party because you are in a party.</translation>
+    <original>クイックパーティー中のため参加できません</original>
+    <translation>You can no longer participate in a quick party because you are in a party.</translation>
   </message>
   <message>
     <key>ana_entryb_already_disable</key>
-    <original xml:space="preserve">コンテンツエントリー中のため選べません</original>
-    <translation xml:space="preserve">You cannot select content while already in an entryboard.</translation>
+    <original>コンテンツエントリー中のため選べません</original>
+    <translation>You cannot select content while already in an entryboard.</translation>
   </message>
   <message>
     <key>ana_entryb_party_disable</key>
-    <original xml:space="preserve">特定コンテンツ用パーティーのため選べません</original>
-    <translation xml:space="preserve">You cannot select content while already in a party.</translation>
+    <original>特定コンテンツ用パーティーのため選べません</original>
+    <translation>You cannot select content while already in a party.</translation>
   </message>
   <message>
     <key>ana_entryb_only_disable</key>
-    <original xml:space="preserve">コンテンツエントリー時にしか選べません</original>
-    <translation xml:space="preserve">You can only select this at the time of content entry.</translation>
+    <original>コンテンツエントリー時にしか選べません</original>
+    <translation>You can only select this at the time of content entry.</translation>
   </message>
   <message>
     <key>ana_contents_leave_ng</key>
-    <original xml:space="preserve">コンテンツ中はパーティーから抜けられません</original>
-    <translation xml:space="preserve">You cannot leave party while searching for content.</translation>
+    <original>コンテンツ中はパーティーから抜けられません</original>
+    <translation>You cannot leave party while searching for content.</translation>
   </message>
   <message>
     <key>ana_quickparty_leave_ng</key>
-    <original xml:space="preserve">クイックパーティー中はパーティーから抜けられません</original>
-    <translation xml:space="preserve">You cannot leave party while searching for a quick party.</translation>
+    <original>クイックパーティー中はパーティーから抜けられません</original>
+    <translation>You cannot leave party while searching for a quick party.</translation>
   </message>
   <message>
     <key>ana_dialog_party_leave_q</key>
-    <original xml:space="preserve">パーティーから抜けます
+    <original>パーティーから抜けます
 よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to leave the party?</translation>
+    <translation>Are you sure you want to leave the party?</translation>
   </message>
   <message>
     <key>ana_KICK_ERR_QUICK_PT</key>
-    <original xml:space="preserve">クイックパーティー中はキックできません</original>
-    <translation xml:space="preserve">You cannot kick in a quick party.</translation>
+    <original>クイックパーティー中はキックできません</original>
+    <translation>You cannot kick in a quick party.</translation>
   </message>
   <message>
     <key>ana_KICK_ERR_CONTENTS</key>
-    <original xml:space="preserve">特定のコンテンツ中はキックできません</original>
-    <translation xml:space="preserve">You cannot kick in this particular content.</translation>
+    <original>特定のコンテンツ中はキックできません</original>
+    <translation>You cannot kick in this particular content.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_QUICK_PT</key>
-    <original xml:space="preserve">クイックパーティー中はパーティーに誘えません</original>
-    <translation xml:space="preserve">You cannot invite while searching for a quick party.</translation>
+    <original>クイックパーティー中はパーティーに誘えません</original>
+    <translation>You cannot invite while searching for a quick party.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_CONTENTS</key>
-    <original xml:space="preserve">特定のコンテンツ中はパーティーに誘えません</original>
-    <translation xml:space="preserve">You cannot invite while searching for content.</translation>
+    <original>特定のコンテンツ中はパーティーに誘えません</original>
+    <translation>You cannot invite while searching for content.</translation>
   </message>
   <message>
     <key>ana_DEACTIVATE_ERR_QUICK_PT</key>
-    <original xml:space="preserve">クイックパーティー中は解散できません</original>
-    <translation xml:space="preserve">You cannot disband the party while searching for a quick party.</translation>
+    <original>クイックパーティー中は解散できません</original>
+    <translation>You cannot disband the party while searching for a quick party.</translation>
   </message>
   <message>
     <key>ana_DEACTIVATE_ERR_CONTENTS</key>
-    <original xml:space="preserve">特定のコンテンツ中は解散できません</original>
-    <translation xml:space="preserve">You cannot disband the party while searching for content.</translation>
+    <original>特定のコンテンツ中は解散できません</original>
+    <translation>You cannot disband the party while searching for content.</translation>
   </message>
   <message>
     <key>ana_pawn_review_err</key>
-    <original xml:space="preserve">すべての評価を行わないと返却できません</original>
-    <translation xml:space="preserve">You cannot return the pawn until you complete all of the evaluation.</translation>
+    <original>すべての評価を行わないと返却できません</original>
+    <translation>You cannot return the pawn until you complete all of the evaluation.</translation>
   </message>
   <message>
     <key>ana_create_character_max</key>
-    <original xml:space="preserve">これ以上新規キャラクターを作成できません</original>
-    <translation xml:space="preserve">You cannot create any more new characters.</translation>
+    <original>これ以上新規キャラクターを作成できません</original>
+    <translation>You cannot create any more new characters.</translation>
   </message>
   <message>
     <key>ana_delete_character_zero</key>
-    <original xml:space="preserve">キャラクターが作成されていません</original>
-    <translation xml:space="preserve">There is no created characters.</translation>
+    <original>キャラクターが作成されていません</original>
+    <translation>There is no created characters.</translation>
   </message>
   <message>
     <key>ana_lot_err_goldstone_short</key>
-    <original xml:space="preserve">黄金石が不足しています</original>
-    <translation xml:space="preserve">You do not have enough Golden Gemstones.</translation>
+    <original>黄金石が不足しています</original>
+    <translation>You do not have enough Golden Gemstones.</translation>
   </message>
   <message>
     <key>ana_lot_err_silverticket_short</key>
-    <original xml:space="preserve">シルバーチケットが不足しています</original>
-    <translation xml:space="preserve">You do not have enough Silver Tickets.</translation>
+    <original>シルバーチケットが不足しています</original>
+    <translation>You do not have enough Silver Tickets.</translation>
   </message>
   <message>
     <key>ana_lot_err_itempost_full</key>
-    <original xml:space="preserve">アイテムポストの空きが足りないためロットできません</original>
-    <translation xml:space="preserve">There is not enough space in the Item Post to lot.</translation>
+    <original>アイテムポストの空きが足りないためロットできません</original>
+    <translation>There is not enough space in the Item Post to lot.</translation>
   </message>
   <message>
     <key>ana_party_leave_err_battle</key>
-    <original xml:space="preserve">戦闘中はパーティーからぬけられません</original>
-    <translation xml:space="preserve">You cannot leave party during battle.</translation>
+    <original>戦闘中はパーティーからぬけられません</original>
+    <translation>You cannot leave party during battle.</translation>
   </message>
   <message>
     <key>ana_party_leave_err_solo</key>
-    <original xml:space="preserve">一人の時はパーティーからぬけられません</original>
-    <translation xml:space="preserve">You cannot leave party while solo.</translation>
+    <original>一人の時はパーティーからぬけられません</original>
+    <translation>You cannot leave party while solo.</translation>
   </message>
   <message>
     <key>ana_news_err_favorite_warp</key>
-    <original xml:space="preserve">拠点をマイ拠点に登録していないためリム転移できません</original>
-    <translation xml:space="preserve">You cannot rift warp because it is not registered as a favorite.</translation>
+    <original>拠点をマイ拠点に登録していないためリム転移できません</original>
+    <translation>You cannot rift warp because it is not registered as a favorite.</translation>
   </message>
   <message>
     <key>ana_quest_order_err_condition</key>
-    <original xml:space="preserve">クエスト受注条件を満たしていません</original>
-    <translation xml:space="preserve">You do not meet the conditions for this quest.</translation>
+    <original>クエスト受注条件を満たしていません</original>
+    <translation>You do not meet the conditions for this quest.</translation>
   </message>
   <message>
     <key>ana_quest_order_err_max</key>
-    <original xml:space="preserve">クエスト受注数が上限に達しています</original>
-    <translation xml:space="preserve">You cannot accept any more quests.</translation>
+    <original>クエスト受注数が上限に達しています</original>
+    <translation>You cannot accept any more quests.</translation>
   </message>
   <message>
     <key>ana_quest_cancel_err</key>
-    <original xml:space="preserve">このクエストは破棄できません</original>
-    <translation xml:space="preserve">You cannot cancel this quest.</translation>
+    <original>このクエストは破棄できません</original>
+    <translation>You cannot cancel this quest.</translation>
   </message>
   <message>
     <key>ana_bazaar_no_sales</key>
-    <original xml:space="preserve">バザーの売上がありません</original>
-    <translation xml:space="preserve">There have been no sales on the Bazaar.</translation>
+    <original>バザーの売上がありません</original>
+    <translation>There have been no sales on the Bazaar.</translation>
   </message>
   <message>
     <key>ana_input_device_err_mouse_key</key>
-    <original xml:space="preserve">マウス・キーボードが接続されていません</original>
-    <translation xml:space="preserve">Mouse and keyboard are not connected.</translation>
+    <original>マウス・キーボードが接続されていません</original>
+    <translation>Mouse and keyboard are not connected.</translation>
   </message>
   <message>
     <key>ana_equip_condition_err</key>
-    <original xml:space="preserve">条件をみたしていないため装備できません</original>
-    <translation xml:space="preserve">You do not meet the conditions to wear this equipment.</translation>
+    <original>条件をみたしていないため装備できません</original>
+    <translation>You do not meet the conditions to wear this equipment.</translation>
   </message>
   <message>
     <key>ana_box_err_exspace</key>
-    <original xml:space="preserve">拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation xml:space="preserve">You cannot use the expanded storage box.
+    <original>拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
+    <translation>You cannot use the expanded storage box.
 The effect of ＜&lt;OPCS&gt;＞ will allow this.</translation>
   </message>
   <message>
     <key>ana_input_device_err_pad</key>
-    <original xml:space="preserve">&lt;PFWD 0&gt;が接続されていません</original>
-    <translation xml:space="preserve">&lt;PFWD 0&gt; is not connected.</translation>
+    <original>&lt;PFWD 0&gt;が接続されていません</original>
+    <translation>&lt;PFWD 0&gt; is not connected.</translation>
   </message>
   <message>
     <key>ana_input_device_err_mouse_key_unchangable</key>
-    <original xml:space="preserve">マウス・キーボードが接続されていません</original>
-    <translation xml:space="preserve">Mouse and keyboard are not connected.</translation>
+    <original>マウス・キーボードが接続されていません</original>
+    <translation>Mouse and keyboard are not connected.</translation>
   </message>
   <message>
     <key>ana_input_device_err_pad_unchangable</key>
-    <original xml:space="preserve">&lt;PFWD 0&gt;が接続されていません</original>
-    <translation xml:space="preserve">&lt;PFWD 0&gt; is not connected.</translation>
+    <original>&lt;PFWD 0&gt;が接続されていません</original>
+    <translation>&lt;PFWD 0&gt; is not connected.</translation>
   </message>
   <message>
     <key>ana_notion_exbox_without_charge</key>
-    <original xml:space="preserve">本ボックスは＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation xml:space="preserve">This box is available with the effects of ＜&lt;OPCS&gt;＞.</translation>
+    <original>本ボックスは＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
+    <translation>This box is available with the effects of ＜&lt;OPCS&gt;＞.</translation>
   </message>
   <message>
     <key>ana_dialog_areatest</key>
-    <original xml:space="preserve">ランクアップにはエリア試練クエストのクリアが必要です</original>
-    <translation xml:space="preserve">To rank up you need to complete the area quest.</translation>
+    <original>ランクアップにはエリア試練クエストのクリアが必要です</original>
+    <translation>To rank up you need to complete the area quest.</translation>
   </message>
   <message>
     <key>ana_err_arearankup_by_guest</key>
-    <original xml:space="preserve">エリアランクアップはパーティーリーダーのみ可能です</original>
-    <translation xml:space="preserve">Area rank up is only available to the party leader.</translation>
+    <original>エリアランクアップはパーティーリーダーのみ可能です</original>
+    <translation>Area rank up is only available to the party leader.</translation>
   </message>
   <message>
     <key>ana_pawn_delete_q_equip</key>
-    <original xml:space="preserve">保管ボックスの空きが足りないので装備品が消えますが、&lt;NAME PAWN&gt;を削除してよろしいですか？</original>
-    <translation xml:space="preserve">There is not enough storage space to hold the equipment of &lt;NAME PAWN&gt;. Are you sure you want to delete?</translation>
+    <original>保管ボックスの空きが足りないので装備品が消えますが、&lt;NAME PAWN&gt;を削除してよろしいですか？</original>
+    <translation>There is not enough storage space to hold the equipment of &lt;NAME PAWN&gt;. Are you sure you want to delete?</translation>
   </message>
   <message>
     <key>ana_clan_info_reload</key>
-    <original xml:space="preserve">クランの情報が更新されました</original>
-    <translation xml:space="preserve">Clan information has been updated.</translation>
+    <original>クランの情報が更新されました</original>
+    <translation>Clan information has been updated.</translation>
   </message>
   <message>
     <key>ana_play_main_quest</key>
-    <original xml:space="preserve">メインクエストで遊ぶ</original>
-    <translation xml:space="preserve">Play Main Quest</translation>
+    <original>メインクエストで遊ぶ</original>
+    <translation>Play Main Quest</translation>
   </message>
   <message>
     <key>ana_play_area</key>
-    <original xml:space="preserve">エリアスポットで遊ぶ</original>
-    <translation xml:space="preserve">Play in an Area Spot</translation>
+    <original>エリアスポットで遊ぶ</original>
+    <translation>Play in an Area Spot</translation>
   </message>
   <message>
     <key>ana_common_back</key>
-    <original xml:space="preserve">戻る</original>
-    <translation xml:space="preserve">Back</translation>
+    <original>戻る</original>
+    <translation>Back</translation>
   </message>
   <message>
     <key>ana_common_ready</key>
-    <original xml:space="preserve">準備完了</original>
-    <translation xml:space="preserve">Ready</translation>
+    <original>準備完了</original>
+    <translation>Ready</translation>
   </message>
   <message>
     <key>ana_common_refuse</key>
-    <original xml:space="preserve">拒否</original>
-    <translation xml:space="preserve">Decline</translation>
+    <original>拒否</original>
+    <translation>Decline</translation>
   </message>
   <message>
     <key>ana_common_return</key>
-    <original xml:space="preserve">戻る</original>
-    <translation xml:space="preserve">Back</translation>
+    <original>戻る</original>
+    <translation>Back</translation>
   </message>
   <message>
     <key>ana_q_use_item</key>
-    <original xml:space="preserve">＜&lt;NAME ITEM&gt;＞を使いますか？</original>
-    <translation xml:space="preserve">Use the ＜&lt;NAME ITEM&gt;＞?</translation>
+    <original>＜&lt;NAME ITEM&gt;＞を使いますか？</original>
+    <translation>Use the ＜&lt;NAME ITEM&gt;＞?</translation>
   </message>
   <message>
     <key>ana_select_destination</key>
-    <original xml:space="preserve">行き先選択</original>
-    <translation xml:space="preserve">Select Destination</translation>
+    <original>行き先選択</original>
+    <translation>Select Destination</translation>
   </message>
   <message>
     <key>ana_common_cancel</key>
-    <original xml:space="preserve">やめる</original>
-    <translation xml:space="preserve">Cancel</translation>
+    <original>やめる</original>
+    <translation>Cancel</translation>
   </message>
   <message>
     <key>CRAFT_NG_USED_PAWN</key>
-    <original xml:space="preserve">クラフト中のポーンです</original>
-    <translation xml:space="preserve">That pawn is currently crafting.</translation>
+    <original>クラフト中のポーンです</original>
+    <translation>That pawn is currently crafting.</translation>
   </message>
   <message>
     <key>CRAFT_NG_SELECTED_PAWN</key>
-    <original xml:space="preserve">クラフト選択済のポーンです</original>
-    <translation xml:space="preserve">That pawn has already been selected.</translation>
+    <original>クラフト選択済のポーンです</original>
+    <translation>That pawn has already been selected.</translation>
   </message>
   <message>
     <key>CRAFT_NG_CRAFTRANK</key>
-    <original xml:space="preserve">クラフトレベルを満たしていません</original>
-    <translation xml:space="preserve">That pawn's craft level is not high enough.</translation>
+    <original>クラフトレベルを満たしていません</original>
+    <translation>That pawn's craft level is not high enough.</translation>
   </message>
   <message>
     <key>CRAFT_NG_NON_POSSIBLE_PAWN</key>
-    <original xml:space="preserve">クラフト可能なポーンがいません</original>
-    <translation xml:space="preserve">There are no pawns currently available to craft.</translation>
+    <original>クラフト可能なポーンがいません</original>
+    <translation>There are no pawns currently available to craft.</translation>
   </message>
   <message>
     <key>CRAFT_NG_NON_NEED_ITEM</key>
-    <original xml:space="preserve">素材が足りません</original>
-    <translation xml:space="preserve">You do not have enough materials.</translation>
+    <original>素材が足りません</original>
+    <translation>You do not have enough materials.</translation>
   </message>
   <message>
     <key>CRAFT_NG_NON_CRAFTRANK_PAWN</key>
-    <original xml:space="preserve">クラフトレベルを満たしているポーンがいません</original>
-    <translation xml:space="preserve">There are no pawns that have a high enough craft level.</translation>
+    <original>クラフトレベルを満たしているポーンがいません</original>
+    <translation>There are no pawns that have a high enough craft level.</translation>
   </message>
   <message>
     <key>CRAFT_NG_NON_MONEY</key>
-    <original xml:space="preserve">所持金が足りません</original>
-    <translation xml:space="preserve">You do not have enough gold.</translation>
+    <original>所持金が足りません</original>
+    <translation>You do not have enough gold.</translation>
   </message>
   <message>
     <key>ana_qpt_checkbox_sel_err</key>
-    <original xml:space="preserve">現在のパーティー構成では選択できません</original>
-    <translation xml:space="preserve">This cannot be selected with the current party setup.</translation>
+    <original>現在のパーティー構成では選択できません</original>
+    <translation>This cannot be selected with the current party setup.</translation>
   </message>
   <message>
     <key>ana_q_setting_initialize</key>
-    <original xml:space="preserve">設定を初期化しますか？</original>
-    <translation xml:space="preserve">Are you sure you want to reset the settings?</translation>
+    <original>設定を初期化しますか？</original>
+    <translation>Are you sure you want to reset the settings?</translation>
   </message>
   <message>
     <key>ana_q_setting_recommended</key>
-    <original xml:space="preserve">設定をおすすめに戻しますか？</original>
-    <translation xml:space="preserve">Return to the recommended settings?</translation>
+    <original>設定をおすすめに戻しますか？</original>
+    <translation>Return to the recommended settings?</translation>
   </message>
   <message>
     <key>ana_join_lobby</key>
-    <original xml:space="preserve">パーティーに合流します</original>
-    <translation xml:space="preserve">Join lobby?</translation>
+    <original>パーティーに合流します</original>
+    <translation>Join lobby?</translation>
   </message>
   <message>
     <key>ana_enter_password</key>
-    <original xml:space="preserve">パスワードを入力してください</original>
-    <translation xml:space="preserve">Please enter your password.</translation>
+    <original>パスワードを入力してください</original>
+    <translation>Please enter your password.</translation>
   </message>
   <message>
     <key>ana_select_type_quickmatch</key>
-    <original xml:space="preserve">クイックパーティーの冒険目的を選択してください</original>
-    <translation xml:space="preserve">Please select the purpose of the adventure.</translation>
+    <original>クイックパーティーの冒険目的を選択してください</original>
+    <translation>Please select the purpose of the adventure.</translation>
   </message>
   <message>
     <key>ana_freemarker_delete</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;の&lt;VAL&gt;番フリーマーカー情報を削除しました</original>
+    <original>&lt;NAME TARGET&gt;の&lt;VAL&gt;番フリーマーカー情報を削除しました</original>
   </message>
   <message>
     <key>ana_freemarker_set</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;の&lt;VAL&gt;番フリーマーカー情報を反映しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has set free marker &lt;VAL&gt;.</translation>
+    <original>&lt;NAME TARGET&gt;の&lt;VAL&gt;番フリーマーカー情報を反映しました</original>
+    <translation>&lt;NAME TARGET&gt; has set free marker &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>ana_quest_info_assept</key>
-    <original xml:space="preserve">パーティーメンバーが＜&lt;VAL&gt;＞を受注しました</original>
-    <translation xml:space="preserve">A party member has accepted the ＜&lt;VAL&gt;＞ quest.</translation>
+    <original>パーティーメンバーが＜&lt;VAL&gt;＞を受注しました</original>
+    <translation>A party member has accepted the ＜&lt;VAL&gt;＞ quest.</translation>
   </message>
   <message>
     <key>ana_quest_info_clear</key>
-    <original xml:space="preserve">パーティーメンバーが＜&lt;VAL&gt;＞をクリアしました</original>
-    <translation xml:space="preserve">A party member has cleared the ＜&lt;VAL&gt;＞ quest.</translation>
+    <original>パーティーメンバーが＜&lt;VAL&gt;＞をクリアしました</original>
+    <translation>A party member has cleared the ＜&lt;VAL&gt;＞ quest.</translation>
   </message>
   <message>
     <key>ana_quest_info_cancel</key>
-    <original xml:space="preserve">&lt;VAL&gt;が＜&lt;VAL&gt;＞を破棄しました</original>
-    <translation xml:space="preserve">&lt;VAL&gt; has canceled the quest ＜&lt;VAL&gt;＞.</translation>
+    <original>&lt;VAL&gt;が＜&lt;VAL&gt;＞を破棄しました</original>
+    <translation>&lt;VAL&gt; has canceled the quest ＜&lt;VAL&gt;＞.</translation>
   </message>
   <message>
     <key>ana_pt_mem_warp_begin</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;が＜&lt;VAL&gt;＞にリム転移しました</original>
-    <translation xml:space="preserve">&lt;NAME TARGET&gt; has rift warped to ＜&lt;VAL&gt;＞.</translation>
+    <original>&lt;NAME TARGET&gt;が＜&lt;VAL&gt;＞にリム転移しました</original>
+    <translation>&lt;NAME TARGET&gt; has rift warped to ＜&lt;VAL&gt;＞.</translation>
   </message>
   <message>
     <key>ana_quest_info_update</key>
-    <original xml:space="preserve">パーティーメンバーが＜&lt;VAL&gt;＞を進行しました</original>
-    <translation xml:space="preserve">A party member has updated progress on the quest ＜&lt;VAL&gt;＞.</translation>
+    <original>パーティーメンバーが＜&lt;VAL&gt;＞を進行しました</original>
+    <translation>A party member has updated progress on the quest ＜&lt;VAL&gt;＞.</translation>
   </message>
   <message>
     <key>ana_quest_info_accept_solo</key>
-    <original xml:space="preserve">＜&lt;VAL&gt;＞を受注しました</original>
-    <translation xml:space="preserve">＜&lt;VAL&gt;＞ has been accepted.</translation>
+    <original>＜&lt;VAL&gt;＞を受注しました</original>
+    <translation>＜&lt;VAL&gt;＞ has been accepted.</translation>
   </message>
   <message>
     <key>ana_quest_info_clear_solo</key>
-    <original xml:space="preserve">＜&lt;VAL&gt;＞をクリアしました</original>
-    <translation xml:space="preserve">＜&lt;VAL&gt;＞ has been cleared.</translation>
+    <original>＜&lt;VAL&gt;＞をクリアしました</original>
+    <translation>＜&lt;VAL&gt;＞ has been cleared.</translation>
   </message>
   <message>
     <key>ana_quest_info_update_solo</key>
-    <original xml:space="preserve">＜&lt;VAL&gt;＞を進行しました</original>
-    <translation xml:space="preserve">＜&lt;VAL&gt;＞ progress has been updated.</translation>
+    <original>＜&lt;VAL&gt;＞を進行しました</original>
+    <translation>＜&lt;VAL&gt;＞ progress has been updated.</translation>
   </message>
   <message>
     <key>ana_TELL_ERR_PAWN</key>
-    <original xml:space="preserve">Tellはポーンにできません</original>
-    <translation xml:space="preserve">You cannot send a tell to Pawns.</translation>
+    <original>Tellはポーンにできません</original>
+    <translation>You cannot send a tell to Pawns.</translation>
   </message>
   <message>
     <key>ana_COMMON_ERR_PAWN</key>
-    <original xml:space="preserve">ポーンにはできません</original>
-    <translation xml:space="preserve">You cannot do this to Pawns.</translation>
+    <original>ポーンにはできません</original>
+    <translation>You cannot do this to Pawns.</translation>
   </message>
   <message>
     <key>ana_job_release_order_start</key>
-    <original xml:space="preserve">新ジョブ「&lt;VAL&gt;」の習得試練を開始しました</original>
-    <translation xml:space="preserve">Job order 「&lt;VAL&gt;」 is now available.</translation>
+    <original>新ジョブ「&lt;VAL&gt;」の習得試練を開始しました</original>
+    <translation>Job order 「&lt;VAL&gt;」 is now available.</translation>
   </message>
   <message>
     <key>ana_party_full</key>
-    <original xml:space="preserve">メンバーの上限を越えるため誘えません</original>
-    <translation xml:space="preserve">The party is full.</translation>
+    <original>メンバーの上限を越えるため誘えません</original>
+    <translation>The party is full.</translation>
   </message>
   <message>
     <key>ana_disparty_in_battle</key>
-    <original xml:space="preserve">戦闘中なのでパーティー解散できません</original>
-    <translation xml:space="preserve">The party cannot be disbanded during combat.</translation>
+    <original>戦闘中なのでパーティー解散できません</original>
+    <translation>The party cannot be disbanded during combat.</translation>
   </message>
   <message>
     <key>ana_join_disable_discondition</key>
-    <original xml:space="preserve">募集条件を満たしていません</original>
-    <translation xml:space="preserve">You do not meet the party requirements.</translation>
+    <original>募集条件を満たしていません</original>
+    <translation>You do not meet the party requirements.</translation>
   </message>
   <message>
     <key>ana_event_skip_button</key>
-    <original xml:space="preserve">スキップ</original>
-    <translation xml:space="preserve">Skip</translation>
+    <original>スキップ</original>
+    <translation>Skip</translation>
   </message>
   <message>
     <key>ana_server_crowded</key>
-    <original xml:space="preserve">現在サーバーが混み合っています。
+    <original>現在サーバーが混み合っています。
 順次ログイン処理を行いますので
 しばらくお待ちください。
 (現在&lt;VAL&gt;人待ちです)</original>
-    <translation xml:space="preserve">The server is busy right now.
+    <translation>The server is busy right now.
 Because there is a login queue,
 please be patient.
 (Currently &lt;VAL&gt; people waiting)</translation>
   </message>
   <message>
     <key>ana_char_edit_crowded</key>
-    <original xml:space="preserve">現在サーバーが混み合っています。
+    <original>現在サーバーが混み合っています。
 キャラクター作成処理が完了するまで
 しばらくおまちください。
 (現在&lt;VAL&gt;人待ちです)</original>
-    <translation xml:space="preserve">The server is busy right now.
+    <translation>The server is busy right now.
 While your character is being created,
 please wait for a while.
 (Currently &lt;VAL&gt; people waiting)</translation>
   </message>
   <message>
     <key>ana_solve_crowded</key>
-    <original xml:space="preserve">ゲーム開始可能になりました</original>
-    <translation xml:space="preserve">The game can now start.</translation>
+    <original>ゲーム開始可能になりました</original>
+    <translation>The game can now start.</translation>
   </message>
   <message>
     <key>ana_is_backlobby</key>
-    <original xml:space="preserve">タイトルに戻りますか？</original>
-    <translation xml:space="preserve">Return to the title screen?</translation>
+    <original>タイトルに戻りますか？</original>
+    <translation>Return to the title screen?</translation>
   </message>
   <message>
     <key>ana_box_disable</key>
-    <original xml:space="preserve">拡張枠は使用できません</original>
-    <translation xml:space="preserve">This cannot be used.</translation>
+    <original>拡張枠は使用できません</original>
+    <translation>This cannot be used.</translation>
   </message>
   <message>
     <key>ana_nomore_choice</key>
-    <original xml:space="preserve">これ以上選択できません</original>
-    <translation xml:space="preserve">You cannot select any more.</translation>
+    <original>これ以上選択できません</original>
+    <translation>You cannot select any more.</translation>
   </message>
   <message>
     <key>ana_change_cancel</key>
-    <original xml:space="preserve">変更をキャンセルします
+    <original>変更をキャンセルします
 よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to
+    <translation>Are you sure you want to
 cancel the changes?</translation>
   </message>
   <message>
     <key>ana_entryb_ready_alert</key>
-    <original xml:space="preserve">メンバーが集合しました。担当NPCから《出撃》を選択してください</original>
-    <translation xml:space="preserve">The party members have assembled. Please select "Rally" at the NPC.</translation>
+    <original>メンバーが集合しました。担当NPCから《出撃》を選択してください</original>
+    <translation>The party members have assembled. Please select "Rally" at the NPC.</translation>
   </message>
   <message>
     <key>ana_entryb_ready_wait_alert</key>
-    <original xml:space="preserve">他のメンバーの出撃完了を待っています</original>
-    <translation xml:space="preserve">Waiting for the other party members to become ready.</translation>
+    <original>他のメンバーの出撃完了を待っています</original>
+    <translation>Waiting for the other party members to become ready.</translation>
   </message>
   <message>
     <key>ana_entryb_reentry_alert</key>
-    <original xml:space="preserve">メンバーが揃っていません。再エントリーを行ってください</original>
-    <translation xml:space="preserve">Party members are not assembled. Please re-register.</translation>
+    <original>メンバーが揃っていません。再エントリーを行ってください</original>
+    <translation>Party members are not assembled. Please re-register.</translation>
   </message>
   <message>
     <key>ana_areamaster_no_quest</key>
-    <original xml:space="preserve">現在、配信されているクエストがありません</original>
-    <translation xml:space="preserve">Currently there are no quests available.</translation>
+    <original>現在、配信されているクエストがありません</original>
+    <translation>Currently there are no quests available.</translation>
   </message>
   <message>
     <key>ana_pawn_upset</key>
-    <original xml:space="preserve">ポーンが参加できる状態ではないためキャンセルされました</original>
-    <translation xml:space="preserve">The pawn has been canceled because it has entered a state where it can no longer participate.</translation>
+    <original>ポーンが参加できる状態ではないためキャンセルされました</original>
+    <translation>The pawn has been canceled because it has entered a state where it can no longer participate.</translation>
   </message>
   <message>
     <key>ana_entry_ready_gather</key>
-    <original xml:space="preserve">他のメンバーの準備完了を待っています</original>
-    <translation xml:space="preserve">Waiting for the other party members to become ready.</translation>
+    <original>他のメンバーの準備完了を待っています</original>
+    <translation>Waiting for the other party members to become ready.</translation>
   </message>
   <message>
     <key>ana_quest_wait_order_member_error</key>
-    <original xml:space="preserve">リーダーのみ操作が可能です</original>
-    <translation xml:space="preserve">Only the leader can do this.</translation>
+    <original>リーダーのみ操作が可能です</original>
+    <translation>Only the leader can do this.</translation>
   </message>
   <message>
     <key>ana_quest_progress_error</key>
-    <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞は
+    <original>＜&lt;NAME QUEST&gt;＞は
 進行条件を満たしていません</original>
-    <translation xml:space="preserve">You do not meet the progress conditions for ＜&lt;NAME QUEST&gt;＞.</translation>
+    <translation>You do not meet the progress conditions for ＜&lt;NAME QUEST&gt;＞.</translation>
   </message>
   <message>
     <key>ana_quickpt_fail_by_friend</key>
-    <original xml:space="preserve">全員が準備完了できなかったため
+    <original>全員が準備完了できなかったため
 キャンセルされました</original>
-    <translation xml:space="preserve">Everyone was not ready, so quick party has been canceled.</translation>
+    <translation>Everyone was not ready, so quick party has been canceled.</translation>
   </message>
   <message>
     <key>ana_quickpt_fail_by_decline</key>
-    <original xml:space="preserve">準備完了できなかったプレイヤーがいたため
+    <original>準備完了できなかったプレイヤーがいたため
 再マッチングを行います</original>
-    <translation xml:space="preserve">Someone has declined the quick party invite.
+    <translation>Someone has declined the quick party invite.
 You have begun re-matching.</translation>
   </message>
   <message>
     <key>ana_gacha_no_items</key>
-    <original xml:space="preserve">トレジャーズロットに商品がありません</original>
-    <translation xml:space="preserve">There are no items in the lot.</translation>
+    <original>トレジャーズロットに商品がありません</original>
+    <translation>There are no items in the lot.</translation>
   </message>
   <message>
     <key>ana_event_skip_solo</key>
-    <original xml:space="preserve">イベントをスキップしますか？</original>
-    <translation xml:space="preserve">Are you sure you want to skip the event?</translation>
+    <original>イベントをスキップしますか？</original>
+    <translation>Are you sure you want to skip the event?</translation>
   </message>
   <message>
     <key>ana_crowded_cancel</key>
-    <original xml:space="preserve">順番待ちを中止しますか？</original>
-    <translation xml:space="preserve">Are you sure you want to leave the queue?</translation>
+    <original>順番待ちを中止しますか？</original>
+    <translation>Are you sure you want to leave the queue?</translation>
   </message>
   <message>
     <key>ana_disable_quickp</key>
-    <original xml:space="preserve">クイックパーティー中のため選べません</original>
-    <translation xml:space="preserve">You cannot choose this option while in a quick party.</translation>
+    <original>クイックパーティー中のため選べません</original>
+    <translation>You cannot choose this option while in a quick party.</translation>
   </message>
   <message>
     <key>ana_disable_make_pt</key>
-    <original xml:space="preserve">パーティー要請中のため選べません</original>
-    <translation xml:space="preserve">You cannot choose this option while there is a party request.</translation>
+    <original>パーティー要請中のため選べません</original>
+    <translation>You cannot choose this option while there is a party request.</translation>
   </message>
   <message>
     <key>ana_disable_join_pt</key>
-    <original xml:space="preserve">パーティー参加中のため選べません</original>
-    <translation xml:space="preserve">You can't do that while in a party.</translation>
+    <original>パーティー参加中のため選べません</original>
+    <translation>You can't do that while in a party.</translation>
   </message>
   <message>
     <key>ana_craft_noxp_rankup</key>
-    <original xml:space="preserve">選択中のポーンは昇格試験クリアまで
+    <original>選択中のポーンは昇格試験クリアまで
 クラフト経験値を獲得できません</original>
-    <translation xml:space="preserve">Your pawn cannot receive craft experience 
+    <translation>Your pawn cannot receive craft experience 
 until the promotion test is cleared.</translation>
   </message>
   <message>
     <key>ana_rewardbox_fullmax</key>
-    <original xml:space="preserve">報酬ボックスの容量がいっぱいです。容量を超えると古い報酬は失われます</original>
-    <translation xml:space="preserve">The reward box is full. When it exceeds capacity, the oldest reward will be lost.</translation>
+    <original>報酬ボックスの容量がいっぱいです。容量を超えると古い報酬は失われます</original>
+    <translation>The reward box is full. When it exceeds capacity, the oldest reward will be lost.</translation>
   </message>
   <message>
     <key>ana_autologout_notice</key>
-    <original xml:space="preserve">長時間、操作が行われていません
+    <original>長時間、操作が行われていません
 この状態があと &lt;VAL&gt;分 続くと、サーバーとの接続が切断されます</original>
-    <translation xml:space="preserve">There have been no actions for a long time.
+    <translation>There have been no actions for a long time.
 If this continues for &lt;VAL&gt; minutes, you will be disconnected.</translation>
   </message>
   <message>
     <key>ana_disable_not_leader_common_err</key>
-    <original xml:space="preserve">リーダーではないため選べません</original>
-    <translation xml:space="preserve">You cannot choose this option because you are not the leader.</translation>
+    <original>リーダーではないため選べません</original>
+    <translation>You cannot choose this option because you are not the leader.</translation>
   </message>
   <message>
     <key>ana_disable_qpt_fullmenber</key>
-    <original xml:space="preserve">パーティーメンバーが揃っているため選べません</original>
-    <translation xml:space="preserve">You cannot choose this because the party is full.</translation>
+    <original>パーティーメンバーが揃っているため選べません</original>
+    <translation>You cannot choose this because the party is full.</translation>
   </message>
   <message>
     <key>ana_clan_search_setting_dialog</key>
-    <original xml:space="preserve">クランの情報を公開してメンバーを募集しますか？
+    <original>クランの情報を公開してメンバーを募集しますか？
 （クラン編集から設定変更できます）</original>
-    <translation xml:space="preserve">Are you sure you want to recruit members using the public information of the clan?
+    <translation>Are you sure you want to recruit members using the public information of the clan?
 (You can change these settings in Edit Clan)</translation>
   </message>
   <message>
     <key>ana_clan_create_err_scoutentry</key>
-    <original xml:space="preserve">スカウトエントリー中のため作成できません</original>
-    <translation xml:space="preserve">You cannot create because you are currently in scout entry.</translation>
+    <original>スカウトエントリー中のため作成できません</original>
+    <translation>You cannot create because you are currently in scout entry.</translation>
   </message>
   <message>
     <key>ana_clan_create_err_joinreq</key>
-    <original xml:space="preserve">クランに加入申請中のため作成できません</original>
-    <translation xml:space="preserve">You cannot create because you currently have an application to a clan.</translation>
+    <original>クランに加入申請中のため作成できません</original>
+    <translation>You cannot create because you currently have an application to a clan.</translation>
   </message>
   <message>
     <key>ana_error_party_unassembled</key>
-    <original xml:space="preserve">パーティー全員が揃っていないため使用できません</original>
-    <translation xml:space="preserve">You cannot choose this option because the party has not assembled.</translation>
+    <original>パーティー全員が揃っていないため使用できません</original>
+    <translation>You cannot choose this option because the party has not assembled.</translation>
   </message>
   <message>
     <key>ana_pl_num_lobby_in</key>
-    <original xml:space="preserve">ワールド &lt;NAME LOBBY&gt; へ移動しました</original>
-    <translation xml:space="preserve">You moved to world &lt;NAME LOBBY&gt;.</translation>
+    <original>ワールド &lt;NAME LOBBY&gt; へ移動しました</original>
+    <translation>You moved to world &lt;NAME LOBBY&gt;.</translation>
   </message>
   <message>
     <key>ana_autologout_avoidance</key>
-    <original xml:space="preserve">長時間の未操作状態から復帰しました</original>
-    <translation xml:space="preserve">You have returned from the long period of no actions.</translation>
+    <original>長時間の未操作状態から復帰しました</original>
+    <translation>You have returned from the long period of no actions.</translation>
   </message>
   <message>
     <key>ana_no_contents_party_dissolution</key>
-    <original xml:space="preserve">現在のパーティーで参加できるコンテンツがありません
+    <original>現在のパーティーで参加できるコンテンツがありません
 パーティー解散をしてください</original>
-    <translation xml:space="preserve">There is no content available to participate in the current party.
+    <translation>There is no content available to participate in the current party.
 Please disband the party.</translation>
   </message>
   <message>
     <key>ana_rimstone_menu_ex_lost_pawn</key>
-    <original xml:space="preserve">＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation xml:space="preserve">This is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
+    <original>＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
+    <translation>This is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
   </message>
   <message>
     <key>ana_skill_release_order_start</key>
-    <original xml:space="preserve">新しいジョブ修練の課題を開始しました</original>
-    <translation xml:space="preserve">A new job training order has begun.</translation>
+    <original>新しいジョブ修練の課題を開始しました</original>
+    <translation>A new job training order has begun.</translation>
   </message>
   <message>
     <key>ana_lostpawn_rescue_q</key>
-    <original xml:space="preserve">&lt;VAL RIM&gt;を消費して
+    <original>&lt;VAL RIM&gt;を消費して
 &lt;NAME PAWN&gt;を救出します
 よろしいですか？</original>
-    <translation xml:space="preserve">By consuming &lt;VAL RIM&gt;, &lt;NAME PAWN&gt; will be rescued.
+    <translation>By consuming &lt;VAL RIM&gt;, &lt;NAME PAWN&gt; will be rescued.
 Are you sure?</translation>
   </message>
   <message>
     <key>ana_lostpawn_resque_rim_err</key>
-    <original xml:space="preserve">リムが足りないためできません</original>
-    <translation xml:space="preserve">You do not have enough rift crystals.</translation>
+    <original>リムが足りないためできません</original>
+    <translation>You do not have enough rift crystals.</translation>
   </message>
   <message>
     <key>ana_lostpawn_rescue</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;を復活させました</original>
-    <translation xml:space="preserve">&lt;NAME PAWN&gt; has been rescued.</translation>
+    <original>&lt;NAME PAWN&gt;を復活させました</original>
+    <translation>&lt;NAME PAWN&gt; has been rescued.</translation>
   </message>
   <message>
     <key>ana_revival_and_credits_rim</key>
-    <original xml:space="preserve">リムを使用して復活しました</original>
-    <translation xml:space="preserve">Revived using Rift Crystals.</translation>
+    <original>リムを使用して復活しました</original>
+    <translation>Revived using Rift Crystals.</translation>
   </message>
   <message>
     <key>ana_lostpawn_resque_userim_err</key>
-    <original xml:space="preserve">リムが足りないためできません
+    <original>リムが足りないためできません
 &lt;VAL RIM&gt;必要です</original>
-    <translation xml:space="preserve">You cannot do this because you do not have enough Rift Crystals.
+    <translation>You cannot do this because you do not have enough Rift Crystals.
 &lt;VAL RIM&gt; is required.</translation>
   </message>
   <message>
     <key>ana_inputtxt_min_err</key>
-    <original xml:space="preserve">入力文字数が足りません</original>
-    <translation xml:space="preserve">You must enter more characters.</translation>
+    <original>入力文字数が足りません</original>
+    <translation>You must enter more characters.</translation>
   </message>
   <message>
     <key>ana_error_no_target_opcs</key>
-    <original xml:space="preserve">＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation xml:space="preserve">This is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
+    <original>＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
+    <translation>This is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
   </message>
   <message>
     <key>ana_simple_req_notfound</key>
-    <original xml:space="preserve">条件のあうプレイヤーがみつかりませんでした</original>
-    <translation xml:space="preserve">No players that match those conditions could be found.</translation>
+    <original>条件のあうプレイヤーがみつかりませんでした</original>
+    <translation>No players that match those conditions could be found.</translation>
   </message>
   <message>
     <key>ana_simple_req_retry</key>
-    <original xml:space="preserve">続けてパーティーへの参加要請を送りますか？</original>
+    <original>続けてパーティーへの参加要請を送りますか？</original>
   </message>
   <message>
     <key>ana_play_news</key>
-    <original xml:space="preserve">レスタニアニュースで遊ぶ</original>
-    <translation xml:space="preserve">Play Lestania News</translation>
+    <original>レスタニアニュースで遊ぶ</original>
+    <translation>Play Lestania News</translation>
   </message>
   <message>
     <key>ana_request_entry_invitation</key>
-    <original xml:space="preserve">エントリーボードに招待されました</original>
+    <original>エントリーボードに招待されました</original>
   </message>
   <message>
     <key>ana_entry_password_release_conf</key>
-    <original xml:space="preserve">パスワードを解除します。よろしいですか？</original>
+    <original>パスワードを解除します。よろしいですか？</original>
   </message>
   <message>
     <key>ana_entry_password_release_deci</key>
-    <original xml:space="preserve">パスワードを解除しました</original>
+    <original>パスワードを解除しました</original>
   </message>
   <message>
     <key>ana_entry_comment_input</key>
-    <original xml:space="preserve">コメントを入力してください</original>
+    <original>コメントを入力してください</original>
   </message>
   <message>
     <key>ana_entry_comment_change</key>
-    <original xml:space="preserve">コメントを変更しました</original>
+    <original>コメントを変更しました</original>
   </message>
   <message>
     <key>ana_entry_invitation_pl_conf</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 エントリーボードに招待します。よろしいですか？</original>
   </message>
   <message>
     <key>ana_entry_invitation_pt_conf</key>
-    <original xml:space="preserve">パーティーメンバーを
+    <original>パーティーメンバーを
 エントリーボードに招待します。よろしいですか？</original>
   </message>
   <message>
     <key>ana_entry_invitation_pl_deci</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 エントリーボードに招待しました</original>
   </message>
   <message>
     <key>ana_entry_invitation_pt_deci</key>
-    <original xml:space="preserve">パーティーメンバーを
+    <original>パーティーメンバーを
 エントリーボードに招待しました</original>
   </message>
   <message>
     <key>ana_get_gmission_reward</key>
-    <original xml:space="preserve">を獲得！</original>
+    <original>を獲得！</original>
   </message>
   <message>
     <key>ana_totalscore_reward</key>
-    <original xml:space="preserve">累計スコア報酬を獲得！</original>
+    <original>累計スコア報酬を獲得！</original>
   </message>
   <message>
     <key>ana_totalscore_ability_reward</key>
-    <original xml:space="preserve">累計スコア報酬で
+    <original>累計スコア報酬で
 シークレットアビリティを獲得！</original>
   </message>
   <message>
     <key>ana_ranking_reward</key>
-    <original xml:space="preserve">ランキング報酬を獲得！</original>
+    <original>ランキング報酬を獲得！</original>
   </message>
   <message>
     <key>ana_ranking_ability_reward</key>
-    <original xml:space="preserve">ランキング報酬で
+    <original>ランキング報酬で
 シークレットアビリティを獲得！</original>
   </message>
   <message>
     <key>OS_announce_buy_item</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; を購入しました</original>
+    <original>&lt;NAME ETC&gt; を購入しました</original>
   </message>
   <message>
     <key>OS_announce_buygs</key>
-    <original xml:space="preserve">黄金石 &lt;VAL&gt; 個を購入しました</original>
+    <original>黄金石 &lt;VAL&gt; 個を購入しました</original>
   </message>
   <message>
     <key>OS_annnounce_for_itempost</key>
-    <original xml:space="preserve">装備・アイテムの受け取りは
+    <original>装備・アイテムの受け取りは
 アイテムポストをご確認ください</original>
   </message>
   <message>
     <key>OS_annnounce_for_rimstone</key>
-    <original xml:space="preserve">クラフトマスターポーンのご利用は
+    <original>クラフトマスターポーンのご利用は
 リムストーンで行えます</original>
   </message>
   <message>
     <key>OS_annnounce_for_beautyshop</key>
-    <original xml:space="preserve">ポーンボイスの設定は美容院で行えます</original>
+    <original>ポーンボイスの設定は美容院で行えます</original>
   </message>
   <message>
     <key>ana_party_join_leader_name_info</key>
-    <original xml:space="preserve">クイックパーティーで合流しました
+    <original>クイックパーティーで合流しました
 目的を共有しあい、冒険を楽しみましょう
 リーダーは &lt;NAME TARGET&gt; です</original>
-    <translation xml:space="preserve">Quick party joined.
+    <translation>Quick party joined.
 Everyone shares the same goal, so let's enjoy the adventure.
 The party leader is &lt;NAME TARGET&gt;.</translation>
   </message>
   <message>
     <key>ana_main_quest_accept_error_party_inviting</key>
-    <original xml:space="preserve">パーティー要請中のため、メインクエストを受注できません</original>
+    <original>パーティー要請中のため、メインクエストを受注できません</original>
   </message>
   <message>
     <key>ana_err_cannot_use_me</key>
-    <original xml:space="preserve">自分には使用できません</original>
+    <original>自分には使用できません</original>
   </message>
   <message>
     <key>ana_err_quest_progress_no_leader_</key>
-    <original xml:space="preserve">リーダーが不在のため、クエストを進行できません</original>
+    <original>リーダーが不在のため、クエストを進行できません</original>
   </message>
   <message>
     <key>ana_mitem_get_num_all_opcsitem</key>
-    <original xml:space="preserve">受け取れるアイテムがありませんでした</original>
+    <original>受け取れるアイテムがありませんでした</original>
   </message>
   <message>
     <key>ana_mitem_get_opt_course_notget</key>
-    <original xml:space="preserve">※&lt;OPCS&gt;は個別に受け取ってください</original>
+    <original>※&lt;OPCS&gt;は個別に受け取ってください</original>
   </message>
   <message>
     <key>ana_mitem_opt_alert_one</key>
-    <original xml:space="preserve">【ご注意】アイテムの中に&lt;OPCS&gt;が含まれています
+    <original>【ご注意】アイテムの中に&lt;OPCS&gt;が含まれています
 ※&lt;OPCS&gt;は受け取ると発動します</original>
   </message>
   <message>
     <key>ana_mail_delete_all_read_mail_q</key>
-    <original xml:space="preserve">未読／未取得以外のメール&lt;VAL&gt;件を
+    <original>未読／未取得以外のメール&lt;VAL&gt;件を
 すべて削除します。よろしいですか？</original>
   </message>
   <message>
     <key>ana_mail_deleted</key>
-    <original xml:space="preserve">削除しました</original>
+    <original>削除しました</original>
   </message>
   <message>
     <key>ana_mail_delete_all_read_mail_0</key>
-    <original xml:space="preserve">既読メールはありません</original>
+    <original>既読メールはありません</original>
   </message>
   <message>
     <key>ana_quiq_mach_ready_info_pop</key>
-    <original xml:space="preserve">クイックパーティーで同じ目的のプレイヤーが見つかりました
+    <original>クイックパーティーで同じ目的のプレイヤーが見つかりました
 合流するには一定時間内に準備完了してください</original>
   </message>
   <message>
     <key>ana_entry_no_war_situation</key>
-    <original xml:space="preserve">参加しようとしていた戦況が終了しました</original>
+    <original>参加しようとしていた戦況が終了しました</original>
   </message>
   <message>
     <key>ana_gm_reward_syslog</key>
-    <original xml:space="preserve">グランドミッションの戦果報酬配分期間です
+    <original>グランドミッションの戦果報酬配分期間です
 参加した覚者は窓口の人物に話しかけて
 報酬を受け取りましょう</original>
   </message>
   <message>
     <key>ana_gm_situation_syslog</key>
-    <original xml:space="preserve">グランドミッションの戦況が変化しました
+    <original>グランドミッションの戦況が変化しました
 窓口の人物に話しかけて確認しましょう</original>
   </message>
   <message>
     <key>ana_quickpt_ng_mq_solo</key>
-    <original xml:space="preserve">受注条件がパーティープレイ不可のため使用できません</original>
+    <original>受注条件がパーティープレイ不可のため使用できません</original>
   </message>
   <message>
     <key>ana_mq_ng_different_progression_usenot_keyite</key>
-    <original xml:space="preserve">リーダーと進行状況が異なるため
+    <original>リーダーと進行状況が異なるため
 キーアイテムは使用できません</original>
   </message>
   <message>
     <key>ana_craftskillreset_ng_ticket</key>
-    <original xml:space="preserve">クラフトスキルリセット権がありません</original>
+    <original>クラフトスキルリセット権がありません</original>
   </message>
   <message>
     <key>ana_craftskillreset_ng_craft</key>
-    <original xml:space="preserve">クラフト中なので使用できません</original>
+    <original>クラフト中なので使用できません</original>
   </message>
   <message>
     <key>ana_craftskillreset_ng_party</key>
-    <original xml:space="preserve">パーティー中なので使用できません</original>
+    <original>パーティー中なので使用できません</original>
   </message>
   <message>
     <key>ana_craftskillreset_conf</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;の
+    <original>&lt;NAME PAWN&gt;の
 クラフトスキルをリセットしますか？
 ※クラフトスキルリセット権が消費されます</original>
   </message>
   <message>
     <key>ana_craftskillreset_dec</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;の
+    <original>&lt;NAME PAWN&gt;の
 クラフトスキルをリセットしました</original>
   </message>
   <message>
     <key>ana_storageextension_dec</key>
-    <original xml:space="preserve">ストレージが拡張されました
+    <original>ストレージが拡張されました
 該当する画面を確認してください</original>
   </message>
   <message>
     <key>ana_craftskillreset_dec_guide</key>
-    <original xml:space="preserve">クラフトスキルリセットのご利用は
+    <original>クラフトスキルリセットのご利用は
 リムストーンでおこなえます</original>
   </message>
   <message>
     <key>ana_quest_invalid_status_change</key>
-    <original xml:space="preserve">クエスト状況が変化したため進行できませんでした</original>
+    <original>クエスト状況が変化したため進行できませんでした</original>
   </message>
   <message>
     <key>ana_storage_num_increase</key>
-    <original xml:space="preserve">保管ボックスのアイテム枠数が増加しました</original>
+    <original>保管ボックスのアイテム枠数が増加しました</original>
   </message>
   <message>
     <key>ana_CLAN_ERR_INTERVAL</key>
-    <original xml:space="preserve">クランインターバル期間中のためできません</original>
+    <original>クランインターバル期間中のためできません</original>
   </message>
   <message>
     <key>ana_already_received_supplies</key>
-    <original xml:space="preserve">すでに支援品を受け取っています</original>
+    <original>すでに支援品を受け取っています</original>
   </message>
   <message>
     <key>ana_warning_barricade_out</key>
-    <original xml:space="preserve">戦闘エリアから離れています</original>
+    <original>戦闘エリアから離れています</original>
   </message>
   <message>
     <key>ana_warp_barricade_out</key>
-    <original xml:space="preserve">戦闘エリアを出たためワープします</original>
+    <original>戦闘エリアを出たためワープします</original>
   </message>
   <message>
     <key>ana_PARTNERPAWN_SET_ng_configured</key>
-    <original xml:space="preserve">すでに設定済みです</original>
+    <original>すでに設定済みです</original>
   </message>
   <message>
     <key>ana_PARTNERPAWN_SET_ng_myroom_only</key>
-    <original xml:space="preserve">自室のリムストーンでのみ設定できます</original>
+    <original>自室のリムストーンでのみ設定できます</original>
   </message>
   <message>
     <key>ana_PARTNERPAWN_SET_ng_reward_unacquired</key>
-    <original xml:space="preserve">リワードがあるときは変更できません</original>
+    <original>リワードがあるときは変更できません</original>
   </message>
   <message>
     <key>ana_PARTNERPAWN_SET_ok_decision</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;をパートナーポーンに設定しました</original>
+    <original>&lt;NAME PAWN&gt;をパートナーポーンに設定しました</original>
   </message>
   <message>
     <key>ana_PARTNERPAWN_SET_conf</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;を
+    <original>&lt;NAME PAWN&gt;を
 パートナーポーンに設定しますか？</original>
   </message>
   <message>
     <key>ana_error_no_target_service</key>
-    <original xml:space="preserve">オンラインショップより対象のサービスを
+    <original>オンラインショップより対象のサービスを
 ご購入いただくことで使用可能となります</original>
   </message>
   <message>
     <key>ana_om_door_open_by_enemy</key>
-    <original xml:space="preserve">閉ざされていた道が開けた</original>
+    <original>閉ざされていた道が開けた</original>
   </message>
   <message>
     <key>ana_partner_pawn_rim_day</key>
-    <original xml:space="preserve">1日1回しか渡すことができません</original>
+    <original>1日1回しか渡すことができません</original>
   </message>
   <message>
     <key>ana_partner_pawn_rim_max</key>
-    <original xml:space="preserve">これ以上渡すことができません</original>
+    <original>これ以上渡すことができません</original>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_edit</key>
-    <original xml:space="preserve">ポーンに新しい髪型の提案を受け
+    <original>ポーンに新しい髪型の提案を受け
 エディットパーツが増えました！</original>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_ability</key>
-    <original xml:space="preserve">ポーンに戦技の提案を受け
+    <original>ポーンに戦技の提案を受け
 シークレットアビリティを獲得！</original>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_emo</key>
-    <original xml:space="preserve">ポーンに新しいエモートを教えてもらった！</original>
+    <original>ポーンに新しいエモートを教えてもらった！</original>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_talk</key>
-    <original xml:space="preserve">ポーンの会話が増えました！</original>
+    <original>ポーンの会話が増えました！</original>
   </message>
   <message>
     <key>ana_partner_pawn_lpup</key>
-    <original xml:space="preserve">パートナーポーンとの絆が深まった</original>
+    <original>パートナーポーンとの絆が深まった</original>
   </message>
   <message>
     <key>ana_quest_announce_set_discover_add</key>
-    <original xml:space="preserve">未公開クエスト「%s」を発見した！</original>
+    <original>未公開クエスト「%s」を発見した！</original>
   </message>
   <message>
     <key>ana_mission_order_err_condition</key>
-    <original xml:space="preserve">受注条件を満たしていません</original>
+    <original>受注条件を満たしていません</original>
   </message>
   <message>
     <key>ana_mission_order_err_condition_ir</key>
-    <original xml:space="preserve">アイテムランクの条件を満たしていません</original>
+    <original>アイテムランクの条件を満たしていません</original>
   </message>
   <message>
     <key>ana_unauthorized_cannotuse</key>
-    <original xml:space="preserve">権限がないため使用できません</original>
+    <original>権限がないため使用できません</original>
   </message>
   <message>
     <key>ana_clan_invite_q_direct</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 クランに直接招待します。よろしいですか？</original>
   </message>
   <message>
     <key>ana_clan_invite_direct</key>
-    <original xml:space="preserve">&lt;NAME TARGET&gt;を
+    <original>&lt;NAME TARGET&gt;を
 クランに直接招待しました</original>
   </message>
   <message>
     <key>ana_disp_cleartime</key>
-    <original xml:space="preserve">クリアタイム</original>
+    <original>クリアタイム</original>
   </message>
   <message>
     <key>ana_PAWN_DELETE_ERR_PARTNER</key>
-    <original xml:space="preserve">パートナーポーンは削除できません</original>
+    <original>パートナーポーンは削除できません</original>
   </message>
   <message>
     <key>ana_craftskillreset_ng_0point</key>
-    <original xml:space="preserve">ポイントが割り振られていないため使用できません</original>
+    <original>ポイントが割り振られていないため使用できません</original>
   </message>
   <message>
     <key>ana_not_login_cogid_ng_caplink</key>
-    <original xml:space="preserve">「カプリンク」を使用するには
+    <original>「カプリンク」を使用するには
 カプコンオンラインゲームズ(COG)のIDでログインする必要があります</original>
   </message>
   <message>
     <key>ana_not_login_cogid_ng_support</key>
-    <original xml:space="preserve">「サポート・報告」を使用するには
+    <original>「サポート・報告」を使用するには
 カプコンオンラインゲームズ(COG)のIDでログインする必要があります
 お問い合わせについては公式サイトをご覧ください</original>
   </message>

@@ -1,60 +1,60 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>GMD_CLAN_LIST_TAB_JOIN_REQ</key>
-    <original xml:space="preserve">加入希望者リスト</original>
+    <original>加入希望者リスト</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITE</key>
-    <original xml:space="preserve">招待リスト</original>
+    <original>招待リスト</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_APPLY</key>
-    <original xml:space="preserve">加入申請中リスト</original>
+    <original>加入申請中リスト</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITED</key>
-    <original xml:space="preserve">スカウトエントリー招待</original>
+    <original>スカウトエントリー招待</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TOP_EN</key>
-    <original xml:space="preserve">Clan List</original>
+    <original>Clan List</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TOP_JP</key>
-    <original xml:space="preserve">クランリスト</original>
+    <original>クランリスト</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_COLUMN_NAME</key>
-    <original xml:space="preserve">名前</original>
+    <original>名前</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_COLUMN_CLAN</key>
-    <original xml:space="preserve">クラン</original>
-    <translation xml:space="preserve">Clan</translation>
+    <original>クラン</original>
+    <translation>Clan</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_COLUMN_DATE</key>
-    <original xml:space="preserve">日付</original>
-    <translation xml:space="preserve">Date</translation>
+    <original>日付</original>
+    <translation>Date</translation>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_JOIN_REQ</key>
-    <original xml:space="preserve">加入申請がありません</original>
+    <original>加入申請がありません</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_INVITE</key>
-    <original xml:space="preserve">招待していません</original>
+    <original>招待していません</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_APPLY</key>
-    <original xml:space="preserve">加入申請していません</original>
+    <original>加入申請していません</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_NO_INVITED</key>
-    <original xml:space="preserve">招待されていません</original>
+    <original>招待されていません</original>
   </message>
   <message>
     <key>GMD_CLAN_LIST_TAB_INVITED_DIRECT</key>
-    <original xml:space="preserve">直接招待</original>
+    <original>直接招待</original>
   </message>
 </resource>

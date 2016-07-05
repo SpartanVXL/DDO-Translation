@@ -1,108 +1,108 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>OSD_index_en</key>
-    <original xml:space="preserve">Status</original>
+    <original>Status</original>
   </message>
   <message>
     <key>OSD_index_jp</key>
-    <original xml:space="preserve">黄金石の確認</original>
-    <translation xml:space="preserve">Check Stones</translation>
+    <original>黄金石の確認</original>
+    <translation>Check Stones</translation>
   </message>
   <message>
     <key>OSD_tab_goldstone</key>
-    <original xml:space="preserve">黄金石</original>
-    <translation xml:space="preserve">Golden Gemstones</translation>
+    <original>黄金石</original>
+    <translation>Golden Gemstones</translation>
   </message>
   <message>
     <key>OSD_tab_effectivedate</key>
-    <original xml:space="preserve">有効期限</original>
-    <translation xml:space="preserve">Expiration Date</translation>
+    <original>有効期限</original>
+    <translation>Expiration Date</translation>
   </message>
   <message>
     <key>OSD_tab_gethistory</key>
-    <original xml:space="preserve">獲得履歴</original>
-    <translation xml:space="preserve">Purchase History</translation>
+    <original>獲得履歴</original>
+    <translation>Purchase History</translation>
   </message>
   <message>
     <key>OSD_title_goldstone</key>
-    <original xml:space="preserve">所持黄金石</original>
-    <translation xml:space="preserve">Golden Gemstone Total</translation>
+    <original>所持黄金石</original>
+    <translation>Golden Gemstone Total</translation>
   </message>
   <message>
     <key>OSD_title_goldstone_items</key>
-    <original xml:space="preserve">所持黄金石の内訳</original>
-    <translation xml:space="preserve">Breakdown of Gemstones</translation>
+    <original>所持黄金石の内訳</original>
+    <translation>Breakdown of Gemstones</translation>
   </message>
   <message>
     <key>OSD_title_goldstone_pay</key>
-    <original xml:space="preserve">購入分</original>
-    <translation xml:space="preserve">Purchased</translation>
+    <original>購入分</original>
+    <translation>Purchased</translation>
   </message>
   <message>
     <key>OSD_title_goldstone_free</key>
-    <original xml:space="preserve">無料分</original>
-    <translation xml:space="preserve">Free</translation>
+    <original>無料分</original>
+    <translation>Free</translation>
   </message>
   <message>
     <key>OSD_warning</key>
-    <original xml:space="preserve">今月末で期限が切れる黄金石があります</original>
+    <original>今月末で期限が切れる黄金石があります</original>
   </message>
   <message>
     <key>OSD_effectivedate_text1</key>
-    <original xml:space="preserve">黄金石の有効期限は、獲得から4か月後の月末までです</original>
-    <translation xml:space="preserve">Gemstones expire at the end of the month, 4 months after purchase.</translation>
+    <original>黄金石の有効期限は、獲得から4か月後の月末までです</original>
+    <translation>Gemstones expire at the end of the month, 4 months after purchase.</translation>
   </message>
   <message>
     <key>OSD_effectivedate_text2</key>
-    <original xml:space="preserve">まで有効の黄金石</original>
-    <translation xml:space="preserve">Gemstones expire</translation>
+    <original>まで有効の黄金石</original>
+    <translation>Gemstones expire</translation>
   </message>
   <message>
     <key>OSD_date</key>
-    <original xml:space="preserve">&lt;DATE&gt;</original>
+    <original>&lt;DATE&gt;</original>
   </message>
   <message>
     <key>OSD_pay</key>
-    <original xml:space="preserve">購入分</original>
-    <translation xml:space="preserve">Purchased</translation>
+    <original>購入分</original>
+    <translation>Purchased</translation>
   </message>
   <message>
     <key>OSD_free</key>
-    <original xml:space="preserve">無料分</original>
-    <translation xml:space="preserve">Free</translation>
+    <original>無料分</original>
+    <translation>Free</translation>
   </message>
   <message>
     <key>OSD_eventcode_index_en</key>
-    <original xml:space="preserve">Event Code</original>
+    <original>Event Code</original>
   </message>
   <message>
     <key>OSD_eventcode_index_jp</key>
-    <original xml:space="preserve">イベントコードの入力</original>
-    <translation xml:space="preserve">Input event code</translation>
+    <original>イベントコードの入力</original>
+    <translation>Input event code</translation>
   </message>
   <message>
     <key>OSD_eventcode_title</key>
-    <original xml:space="preserve">16ケタのイベントコードを入力してください</original>
-    <translation xml:space="preserve">Please enter your 16-digit event code</translation>
+    <original>16ケタのイベントコードを入力してください</original>
+    <translation>Please enter your 16-digit event code</translation>
   </message>
   <message>
     <key>OSD_eventcode_ok</key>
-    <original xml:space="preserve">決定</original>
-    <translation xml:space="preserve">OK</translation>
+    <original>決定</original>
+    <translation>OK</translation>
   </message>
   <message>
     <key>OSD_eventcode_warning</key>
-    <original xml:space="preserve">イベントコードに関する注意</original>
-    <translation xml:space="preserve">Note about the event codes</translation>
+    <original>イベントコードに関する注意</original>
+    <translation>Note about the event codes</translation>
   </message>
   <message>
     <key>OSD_eventcode_warning_text</key>
-    <original xml:space="preserve">イベントコード入力を5回失敗すると、
+    <original>イベントコード入力を5回失敗すると、
 3時間イベントコードの入力ができなくなります
 
 コード特典は現在ログイン中の
 キャラクターのみに適用されます</original>
-    <translation xml:space="preserve">When you fail to input an event code 5 times,
+    <translation>When you fail to input an event code 5 times,
 you will not be able to enter event codes for 3 hours.
 
 The code benefits are only applied to the
@@ -110,65 +110,65 @@ currently logged in character.</translation>
   </message>
   <message>
     <key>OSD_histry_information</key>
-    <original xml:space="preserve">最新50件(古い履歴から順に削除されます)</original>
-    <translation xml:space="preserve">The last 50 entries are shown (Older entries are deleted)</translation>
+    <original>最新50件(古い履歴から順に削除されます)</original>
+    <translation>The last 50 entries are shown (Older entries are deleted)</translation>
   </message>
   <message>
     <key>OSD_announce_disbuyable</key>
-    <original xml:space="preserve">現在黄金石の購入を利用することができません</original>
+    <original>現在黄金石の購入を利用することができません</original>
   </message>
   <message>
     <key>OSD_msg_stampbornus</key>
-    <original xml:space="preserve">スタンプボーナス</original>
-    <translation xml:space="preserve">Stamp Bonus</translation>
+    <original>スタンプボーナス</original>
+    <translation>Stamp Bonus</translation>
   </message>
   <message>
     <key>OSD_msg_presents</key>
-    <original xml:space="preserve">運営からの配布</original>
+    <original>運営からの配布</original>
   </message>
   <message>
     <key>ODS_msg_buy_option</key>
-    <original xml:space="preserve">購入特典</original>
+    <original>購入特典</original>
   </message>
   <message>
     <key>OSD_notion_incomplete_input</key>
-    <original xml:space="preserve">全ての入力が終わらないと送信できません</original>
-    <translation xml:space="preserve">Please finish entering the entire code.</translation>
+    <original>全ての入力が終わらないと送信できません</original>
+    <translation>Please finish entering the entire code.</translation>
   </message>
   <message>
     <key>OSD_buy</key>
-    <original xml:space="preserve">オンラインショップで購入</original>
-    <translation xml:space="preserve">Online Shop Purchase</translation>
+    <original>オンラインショップで購入</original>
+    <translation>Online Shop Purchase</translation>
   </message>
   <message>
     <key>OSD_buy_by_bonus</key>
-    <original xml:space="preserve">オンラインショップで購入（ボーナス）</original>
-    <translation xml:space="preserve">Online Shop Purchase (Bonus)</translation>
+    <original>オンラインショップで購入（ボーナス）</original>
+    <translation>Online Shop Purchase (Bonus)</translation>
   </message>
   <message>
     <key>OSD_recieve_by_mail</key>
-    <original xml:space="preserve">メールで受取</original>
+    <original>メールで受取</original>
   </message>
   <message>
     <key>OSD_msg_loginbornus</key>
-    <original xml:space="preserve">ログインボーナス</original>
-    <translation xml:space="preserve">Login Bonus</translation>
+    <original>ログインボーナス</original>
+    <translation>Login Bonus</translation>
   </message>
   <message>
     <key>OSD_msg_no_history</key>
-    <original xml:space="preserve">履歴はありません</original>
-    <translation xml:space="preserve">There is no history.</translation>
+    <original>履歴はありません</original>
+    <translation>There is no history.</translation>
   </message>
   <message>
     <key>OSD_msg_no_list</key>
-    <original xml:space="preserve">リストはありません</original>
+    <original>リストはありません</original>
   </message>
   <message>
     <key>OSD_ps_buy</key>
-    <original xml:space="preserve">PlayStation®Storeで購入</original>
+    <original>PlayStation®Storeで購入</original>
   </message>
   <message>
     <key>OSD_ps_buy_by_bonus</key>
-    <original xml:space="preserve">PlayStation®Storeで購入（ボーナス）</original>
+    <original>PlayStation®Storeで購入（ボーナス）</original>
   </message>
 </resource>

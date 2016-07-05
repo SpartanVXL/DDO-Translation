@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_358</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;パーティーでクエストを進行する際は
+    <original>&lt;COL ffdc78&gt;パーティーでクエストを進行する際は
 優先クエストの表示はパーティーリーダーの
 進行状態に切り替わります&lt;/COL&gt;
 
@@ -14,7 +14,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_320</key>
-    <original xml:space="preserve">またソロでもパーティーでもイベント進行時は
+    <original>またソロでもパーティーでもイベント進行時は
 確認を求められることがあります
 
 ＜進行マーカー＞
@@ -27,7 +27,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_321</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;またパーティークエストにおいては
+    <original>&lt;COL ffdc78&gt;またパーティークエストにおいては
 自分とパーティーリーダーの進行状態によって
 クリアした時の報酬が変化します&lt;/COL&gt;
 
@@ -40,7 +40,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_322</key>
-    <original xml:space="preserve">パーティー内のレベル差や
+    <original>パーティー内のレベル差や
 どこまで一緒に進行したかによって受け取る
 ことができる報酬も変わることがあります
 

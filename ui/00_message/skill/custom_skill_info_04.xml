@@ -1,12 +1,12 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_INFO_04_48</key>
-    <original xml:space="preserve">自身を中心に物理攻撃力と魔法攻撃力を
+    <original>自身を中心に物理攻撃力と魔法攻撃力を
 一時的に強化する魔法エリアを展開する
 フィールドシフトに対応
 &lt;COL ffdc78&gt;LV UP毎に離脱後の効果持続時間延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Emits an aura of Attack and Magick power.
+    <translation>Emits an aura of Attack and Magick power.
 Applies a temporary increase to nearby allies.
 Can be used with Field Shift.
 &lt;COL ffdc78&gt;LV UP: Increases duration after leaving the aura.
@@ -14,12 +14,12 @@ LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_49</key>
-    <original xml:space="preserve">自身を中心に物理防御力と魔法防御力を
+    <original>自身を中心に物理防御力と魔法防御力を
 一時的に強化する魔法エリアを展開する
 フィールドシフトに対応
 &lt;COL ffdc78&gt;LV UP毎に離脱後の効果持続時間延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Emits an aura of Attack and Magick defense.
+    <translation>Emits an aura of Attack and Magick defense.
 Applies a temporary increase to nearby allies.
 Can be used with Field Shift.
 &lt;COL ffdc78&gt;LV UP: Increases duration after leaving the aura.
@@ -27,22 +27,22 @@ LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_46</key>
-    <original xml:space="preserve">魔力を溜めた後、杖を振って追尾性能を持つ
+    <original>魔力を溜めた後、杖を振って追尾性能を持つ
 聖属性の魔法球を複数放つ
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で魔法球増加（３→５）&lt;/COL&gt;</original>
-    <translation xml:space="preserve">After charging, launch tracking projectiles.
+    <translation>After charging, launch tracking projectiles.
 Fires magick spheres of Holy attribute.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases number of magick spheres (3→5).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_50</key>
-    <original xml:space="preserve">自身を中心に高速に旋回する魔球を生成
+    <original>自身を中心に高速に旋回する魔球を生成
 受けた攻撃を魔球の数だけ無効化する
 &lt;COL ffdc78&gt;LV UP毎に持続時間延長
 LV.６で魔球数増加（３→５）&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Generates magick spheres that revolve
+    <translation>Generates magick spheres that revolve
 around oneself. The spheres will each
 nullify one attack.
 &lt;COL ffdc78&gt;LV UP: Increases duration of the effect.
@@ -50,11 +50,11 @@ LV.6: Increases number of magick spheres (3→5).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_44</key>
-    <original xml:space="preserve">急速に体力を回復させる魔法エリアを発現させる
+    <original>急速に体力を回復させる魔法エリアを発現させる
 （最大回復量は治癒上限値）（対不死には攻撃）
 &lt;COL ffdc78&gt;LV UP毎に設置持続時間が延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Creates a magick area that rapidly regenerates health.
+    <translation>Creates a magick area that rapidly regenerates health.
 (Maximum healing limited to grey health)
 (Inflicts damage to undead)
 &lt;COL ffdc78&gt;LV UP: Increases duration of the effect.
@@ -62,11 +62,11 @@ LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_45</key>
-    <original xml:space="preserve">一部の状態異常を瞬時に治療する魔法エリアを
+    <original>一部の状態異常を瞬時に治療する魔法エリアを
 発現させる（対不死には攻撃）
 &lt;COL ffdc78&gt;LV UP毎に設置持続時間が延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Creates a magick area that instantly
+    <translation>Creates a magick area that instantly
 cures debilitations.
 (Inflicts damage to undead)
 &lt;COL ffdc78&gt;LV UP: Increases duration of the effect.
@@ -74,22 +74,22 @@ LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_47</key>
-    <original xml:space="preserve">魔力を溜めた後、広範囲に向けて
+    <original>魔力を溜めた後、広範囲に向けて
 聖属性の強い光を放射する魔球を展開する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
-    <translation xml:space="preserve">After charging, fire a magick sphere that emits
+    <translation>After charging, fire a magick sphere that emits
 an intense light of the Holy attribute in a wide area.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_54</key>
-    <original xml:space="preserve">自身の体に魔力を溜め込み、体力が尽きると同時に
+    <original>自身の体に魔力を溜め込み、体力が尽きると同時に
 大爆発を起こし、周囲の敵に大ダメージを与える
 &lt;COL ffdc78&gt;LV UP毎に発動中のスタミナ消費減少
 LV.６で攻撃威力の上昇／攻撃範囲拡大&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Charge magick within your body. When your health is
+    <translation>Charge magick within your body. When your health is
 exhausted, create a wide explosion dealing
 large damage to enemies.
 &lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption.
@@ -97,12 +97,12 @@ LV.6: Increases the damage and range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_55</key>
-    <original xml:space="preserve">自身を中心に、耐久力を
+    <original>自身を中心に、耐久力を
 一時的に強化する魔法エリアを展開する
 フィールドシフトに対応
 &lt;COL ffdc78&gt;LV UP毎に離脱後の効果持続時間延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Emits an aura of Endurance.
+    <translation>Emits an aura of Endurance.
 Applies a temporary increase to nearby allies.
 Can be used with Field Shift.
 &lt;COL ffdc78&gt;LV UP: Increases duration after leaving the aura.
@@ -110,29 +110,29 @@ LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_52</key>
-    <original xml:space="preserve">急速にスタミナを回復させる魔法エリアを
+    <original>急速にスタミナを回復させる魔法エリアを
 発現させる（対不死には攻撃）
 &lt;COL ffdc78&gt;LV UP毎に設置持続時間が延長
 LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Creates a magick area that rapidly regenerates Stamina.
+    <translation>Creates a magick area that rapidly regenerates Stamina.
 (Inflicts damage to undead)
 &lt;COL ffdc78&gt;LV UP: Increases duration of the effect.
 LV.6: Increases the size of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_53</key>
-    <original xml:space="preserve">自身を中心に聖属性の巨大な魔法エリアを展開し
+    <original>自身を中心に聖属性の巨大な魔法エリアを展開し
 侵入してきた敵に攻撃を与える
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Creates a wide magick area of the Holy attribute
+    <translation>Creates a wide magick area of the Holy attribute
 centered on yourself, dealing damage to enemies.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases the range of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_51</key>
-    <original xml:space="preserve">精神を集中し、自身を中心に味方の技発動時間を
+    <original>精神を集中し、自身を中心に味方の技発動時間を
 大幅に短縮する祈りを捧げる
 ゲージが表示される全ての溜め行動、詠唱が対象
 &lt;COL ffdc78&gt;LV UP毎に展開中のスタミナ消費減少
@@ -140,7 +140,7 @@ LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_133</key>
-    <original xml:space="preserve">自身を中心に、生命治癒力を
+    <original>自身を中心に、生命治癒力を
 一時的に上昇させる魔法エリアを展開する
 フィールドシフトに対応
 &lt;COL ffdc78&gt;LV UP毎に離脱後の効果持続時間延長

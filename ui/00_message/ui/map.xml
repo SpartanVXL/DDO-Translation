@@ -1,79 +1,79 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>map_menumap_titlee</key>
-    <original xml:space="preserve">MAP</original>
-    <translation xml:space="preserve">Map</translation>
+    <original>MAP</original>
+    <translation>Map</translation>
   </message>
   <message>
     <key>map_menumap_titlej</key>
-    <original xml:space="preserve">マップ</original>
-    <translation xml:space="preserve">Map</translation>
+    <original>マップ</original>
+    <translation>Map</translation>
   </message>
   <message>
     <key>map_menumap_maptypes</key>
-    <original xml:space="preserve">詳細マップ</original>
-    <translation xml:space="preserve">Local</translation>
+    <original>詳細マップ</original>
+    <translation>Local</translation>
   </message>
   <message>
     <key>map_menumap_maptypem</key>
-    <original xml:space="preserve">フィールドマップ</original>
-    <translation xml:space="preserve">Field</translation>
+    <original>フィールドマップ</original>
+    <translation>Field</translation>
   </message>
   <message>
     <key>map_menumap_maptypel</key>
-    <original xml:space="preserve">広域マップ</original>
-    <translation xml:space="preserve">Global</translation>
+    <original>広域マップ</original>
+    <translation>Global</translation>
   </message>
   <message>
     <key>map_menumap_guide_zoom</key>
-    <original xml:space="preserve">ズームイン/アウト</original>
-    <translation xml:space="preserve">Zoom In/Out</translation>
+    <original>ズームイン/アウト</original>
+    <translation>Zoom In/Out</translation>
   </message>
   <message>
     <key>map_menumap_guide_filter</key>
-    <original xml:space="preserve">マーカーフィルター変更</original>
+    <original>マーカーフィルター変更</original>
   </message>
   <message>
     <key>map_menumap_guide_movecursor</key>
-    <original xml:space="preserve">カーソル移動</original>
-    <translation xml:space="preserve">Move Cursor</translation>
+    <original>カーソル移動</original>
+    <translation>Move Cursor</translation>
   </message>
   <message>
     <key>map_menumap_guide_moveplayer</key>
-    <original xml:space="preserve">プレイヤー移動</original>
+    <original>プレイヤー移動</original>
   </message>
   <message>
     <key>map_menumap_guide_backgm</key>
-    <original xml:space="preserve">ゲームメニューに戻る</original>
+    <original>ゲームメニューに戻る</original>
   </message>
   <message>
     <key>map_menumap_guide_chat</key>
-    <original xml:space="preserve">チャット</original>
-    <translation xml:space="preserve">Chat</translation>
+    <original>チャット</original>
+    <translation>Chat</translation>
   </message>
   <message>
     <key>map_menumap_guide_freemarker</key>
-    <original xml:space="preserve">フリーマーカー (長押しで消去)</original>
-    <translation xml:space="preserve">Place Waypoint (hold to remove)</translation>
+    <original>フリーマーカー (長押しで消去)</original>
+    <translation>Place Waypoint (hold to remove)</translation>
   </message>
   <message>
     <key>map_menumap_guide_close</key>
-    <original xml:space="preserve">閉じる</original>
-    <translation xml:space="preserve">Close</translation>
+    <original>閉じる</original>
+    <translation>Close</translation>
   </message>
   <message>
     <key>map_menumap_guide_transparent</key>
-    <original xml:space="preserve">透明度の変更</original>
-    <translation xml:space="preserve">Change Opacity</translation>
+    <original>透明度の変更</original>
+    <translation>Change Opacity</translation>
   </message>
   <message>
     <key>map_menumap_guide_change_freemarker</key>
-    <original xml:space="preserve">フリーマーカーの切り替え</original>
-    <translation xml:space="preserve">Change Free Marker</translation>
+    <original>フリーマーカーの切り替え</original>
+    <translation>Change Free Marker</translation>
   </message>
   <message>
     <key>map_menumap_guide_change_land</key>
-    <original xml:space="preserve">大陸の切り替え</original>
-    <translation xml:space="preserve">Change Continent</translation>
+    <original>大陸の切り替え</original>
+    <translation>Change Continent</translation>
   </message>
 </resource>

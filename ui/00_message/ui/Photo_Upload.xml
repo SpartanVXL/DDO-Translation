@@ -1,48 +1,48 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pu_msg_000</key>
-    <original xml:space="preserve">写真の投稿</original>
-    <translation xml:space="preserve">Post Photo</translation>
+    <original>写真の投稿</original>
+    <translation>Post Photo</translation>
   </message>
   <message>
     <key>pu_msg_001</key>
-    <original xml:space="preserve">撮影場所</original>
-    <translation xml:space="preserve">Taken at</translation>
+    <original>撮影場所</original>
+    <translation>Taken at</translation>
   </message>
   <message>
     <key>pu_msg_002</key>
-    <original xml:space="preserve">カテゴリ</original>
-    <translation xml:space="preserve">Category</translation>
+    <original>カテゴリ</original>
+    <translation>Category</translation>
   </message>
   <message>
     <key>pu_msg_003</key>
-    <original xml:space="preserve">コメント</original>
-    <translation xml:space="preserve">Comment</translation>
+    <original>コメント</original>
+    <translation>Comment</translation>
   </message>
   <message>
     <key>pu_msg_004</key>
-    <original xml:space="preserve">写真送信中</original>
+    <original>写真送信中</original>
   </message>
   <message>
     <key>pu_msg_005</key>
-    <original xml:space="preserve">電源を切らないでください</original>
+    <original>電源を切らないでください</original>
   </message>
   <message>
     <key>pu_msg_009</key>
-    <original xml:space="preserve">現在サーバーが混み合っています
+    <original>現在サーバーが混み合っています
 しばらく経ってから再度お試しください</original>
   </message>
   <message>
     <key>pu_msg_006</key>
-    <original xml:space="preserve">送信が完了しました</original>
+    <original>送信が完了しました</original>
   </message>
   <message>
     <key>pu_msg_007</key>
-    <original xml:space="preserve">投稿</original>
-    <translation xml:space="preserve">Post</translation>
+    <original>投稿</original>
+    <translation>Post</translation>
   </message>
   <message>
     <key>pu_msg_008</key>
-    <original xml:space="preserve">通信中のため、投稿できません</original>
+    <original>通信中のため、投稿できません</original>
   </message>
 </resource>

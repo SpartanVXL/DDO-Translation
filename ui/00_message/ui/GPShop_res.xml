@@ -1,399 +1,399 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>OS_catalog_pawn</key>
-    <original xml:space="preserve">クラフトマスターポーン</original>
-    <translation xml:space="preserve">Craft Master Pawns</translation>
+    <original>クラフトマスターポーン</original>
+    <translation>Craft Master Pawns</translation>
   </message>
   <message>
     <key>OS_index_en</key>
-    <original xml:space="preserve">Online Shop</original>
+    <original>Online Shop</original>
   </message>
   <message>
     <key>OS_index_jp</key>
-    <original xml:space="preserve">オンラインショップ</original>
-    <translation xml:space="preserve">Online Shop</translation>
+    <original>オンラインショップ</original>
+    <translation>Online Shop</translation>
   </message>
   <message>
     <key>OS_menu_gs_buy</key>
-    <original xml:space="preserve">黄金石の購入</original>
-    <translation xml:space="preserve">Buy Golden Gemstones</translation>
+    <original>黄金石の購入</original>
+    <translation>Buy Golden Gemstones</translation>
   </message>
   <message>
     <key>OS_menu_status</key>
-    <original xml:space="preserve">ステータスの確認</original>
-    <translation xml:space="preserve">Check Status</translation>
+    <original>ステータスの確認</original>
+    <translation>Check Status</translation>
   </message>
   <message>
     <key>OS_title_gs_buy</key>
-    <original xml:space="preserve">黄金石の購入</original>
-    <translation xml:space="preserve">Buy Golden Gemstones</translation>
+    <original>黄金石の購入</original>
+    <translation>Buy Golden Gemstones</translation>
   </message>
   <message>
     <key>OS_cap_remnant</key>
-    <original xml:space="preserve">CAP残高</original>
-    <translation xml:space="preserve">CAP Balance</translation>
+    <original>CAP残高</original>
+    <translation>CAP Balance</translation>
   </message>
   <message>
     <key>OS_cap</key>
-    <original xml:space="preserve">CAP</original>
+    <original>CAP</original>
   </message>
   <message>
     <key>OS_relogin</key>
-    <original xml:space="preserve">COGのログインが切れています
+    <original>COGのログインが切れています
 ブラウザからCOG認証を行ってください</original>
   </message>
   <message>
     <key>OS_cogid</key>
-    <original xml:space="preserve">COG ID</original>
+    <original>COG ID</original>
   </message>
   <message>
     <key>OS_status_title</key>
-    <original xml:space="preserve">黄金石ステータス</original>
-    <translation xml:space="preserve">Golden Gemstone Status</translation>
+    <original>黄金石ステータス</original>
+    <translation>Golden Gemstone Status</translation>
   </message>
   <message>
     <key>OS_status_bkbtn</key>
-    <original xml:space="preserve">黄金石ショップ</original>
-    <translation xml:space="preserve">Golden Gemstone Shop</translation>
+    <original>黄金石ショップ</original>
+    <translation>Golden Gemstone Shop</translation>
   </message>
   <message>
     <key>OS_status_ticket</key>
-    <original xml:space="preserve">Ticket</original>
+    <original>Ticket</original>
   </message>
   <message>
     <key>OS_status_cticket</key>
-    <original xml:space="preserve">シルバーチケット</original>
-    <translation xml:space="preserve">Silver Tickets</translation>
+    <original>シルバーチケット</original>
+    <translation>Silver Tickets</translation>
   </message>
   <message>
     <key>OS_status_usecourse</key>
-    <original xml:space="preserve">Used Passport and Course</original>
+    <original>Used Passport and Course</original>
   </message>
   <message>
     <key>OS_status_time_remaining</key>
-    <original xml:space="preserve">使用期限：</original>
-    <translation xml:space="preserve">Expires:</translation>
+    <original>使用期限：</original>
+    <translation>Expires:</translation>
   </message>
   <message>
     <key>OS_status_time</key>
-    <original xml:space="preserve">時間</original>
-    <translation xml:space="preserve"> hours</translation>
+    <original>時間</original>
+    <translation> hours</translation>
   </message>
   <message>
     <key>OS_status_newcourse</key>
-    <original xml:space="preserve">未使用コース</original>
-    <translation xml:space="preserve">Unused Courses</translation>
+    <original>未使用コース</original>
+    <translation>Unused Courses</translation>
   </message>
   <message>
     <key>OS_status_history</key>
-    <original xml:space="preserve">黄金石使用履歴</original>
-    <translation xml:space="preserve">Golden Gemstone Usage History</translation>
+    <original>黄金石使用履歴</original>
+    <translation>Golden Gemstone Usage History</translation>
   </message>
   <message>
     <key>OS_status</key>
-    <original xml:space="preserve">ステータス</original>
-    <translation xml:space="preserve">Status</translation>
+    <original>ステータス</original>
+    <translation>Status</translation>
   </message>
   <message>
     <key>OS_buy_item</key>
-    <original xml:space="preserve">&lt;NAME ITEM&gt; を 黄金石 &lt;VAL&gt; 個で購入します
+    <original>&lt;NAME ITEM&gt; を 黄金石 &lt;VAL&gt; 個で購入します
 よろしいですか？</original>
   </message>
   <message>
     <key>OS_buy_goldstone</key>
-    <original xml:space="preserve">黄金石 &lt;VAL&gt; 個を &lt;VAL CAP&gt;で購入します
+    <original>黄金石 &lt;VAL&gt; 個を &lt;VAL CAP&gt;で購入します
 よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to purchase &lt;VAL&gt;
+    <translation>Are you sure you want to purchase &lt;VAL&gt;
 Golden Gemstones with &lt;VAL CAP&gt;?</translation>
   </message>
   <message>
     <key>OS_btn_ok</key>
-    <original xml:space="preserve">購入</original>
-    <translation xml:space="preserve">Buy</translation>
+    <original>購入</original>
+    <translation>Buy</translation>
   </message>
   <message>
     <key>OS_btn_ng</key>
-    <original xml:space="preserve">キャンセル</original>
-    <translation xml:space="preserve">Cancel</translation>
+    <original>キャンセル</original>
+    <translation>Cancel</translation>
   </message>
   <message>
     <key>OS_catalog_pickup</key>
-    <original xml:space="preserve">ピックアップ</original>
-    <translation xml:space="preserve">Pickup</translation>
+    <original>ピックアップ</original>
+    <translation>Pickup</translation>
   </message>
   <message>
     <key>OS_catalog_option</key>
-    <original xml:space="preserve">&lt;OPCS&gt;</original>
+    <original>&lt;OPCS&gt;</original>
   </message>
   <message>
     <key>OS_catalog_wepon</key>
-    <original xml:space="preserve">武具・防具</original>
+    <original>武具・防具</original>
   </message>
   <message>
     <key>OS_status_time_remaining_day</key>
-    <original xml:space="preserve">日</original>
-    <translation xml:space="preserve"> days</translation>
+    <original>日</original>
+    <translation> days</translation>
   </message>
   <message>
     <key>OS_date</key>
-    <original xml:space="preserve">&lt;DATE&gt;</original>
+    <original>&lt;DATE&gt;</original>
   </message>
   <message>
     <key>OS_cod_impression</key>
-    <original xml:space="preserve">COG認証</original>
+    <original>COG認証</original>
   </message>
   <message>
     <key>OS_used_btn</key>
-    <original xml:space="preserve">使用中</original>
-    <translation xml:space="preserve">Active</translation>
+    <original>使用中</original>
+    <translation>Active</translation>
   </message>
   <message>
     <key>OS_use_btn</key>
-    <original xml:space="preserve">使用</original>
-    <translation xml:space="preserve">Use</translation>
+    <original>使用</original>
+    <translation>Use</translation>
   </message>
   <message>
     <key>OS_use_confirm</key>
-    <original xml:space="preserve">&lt;NAME ITEM&gt;をいますぐ使用しますか？</original>
-    <translation xml:space="preserve">Do you want to use &lt;NAME ITEM&gt; right now?</translation>
+    <original>&lt;NAME ITEM&gt;をいますぐ使用しますか？</original>
+    <translation>Do you want to use &lt;NAME ITEM&gt; right now?</translation>
   </message>
   <message>
     <key>OS_use_item</key>
-    <original xml:space="preserve">&lt;NAME ITEM&gt;を使用します
+    <original>&lt;NAME ITEM&gt;を使用します
 よろしいですか？</original>
-    <translation xml:space="preserve">&lt;NAME ITEM&gt; will be used.
+    <translation>&lt;NAME ITEM&gt; will be used.
 Is this okay?</translation>
   </message>
   <message>
     <key>OS_goldstone_num</key>
-    <original xml:space="preserve">黄金石 &lt;VAL&gt; 個</original>
-    <translation xml:space="preserve">&lt;VAL&gt; Golden Gemstones</translation>
+    <original>黄金石 &lt;VAL&gt; 個</original>
+    <translation>&lt;VAL&gt; Golden Gemstones</translation>
   </message>
   <message>
     <key>OS_announce_buy_use_item</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; を購入して使用しました</original>
+    <original>&lt;NAME ETC&gt; を購入して使用しました</original>
   </message>
   <message>
     <key>OS_announce_buy_gs</key>
-    <original xml:space="preserve">黄金石 &lt;VAL&gt; 個を購入しました</original>
-    <translation xml:space="preserve">Purchased &lt;VAL&gt; Golden Gemstones.</translation>
+    <original>黄金石 &lt;VAL&gt; 個を購入しました</original>
+    <translation>Purchased &lt;VAL&gt; Golden Gemstones.</translation>
   </message>
   <message>
     <key>OS_announce_use_item</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; を使用しました</original>
-    <translation xml:space="preserve">&lt;NAME ETC&gt; has been used.</translation>
+    <original>&lt;NAME ETC&gt; を使用しました</original>
+    <translation>&lt;NAME ETC&gt; has been used.</translation>
   </message>
   <message>
     <key>OS_announce_voice</key>
-    <original xml:space="preserve">ポーンボイス</original>
-    <translation xml:space="preserve">Pawn Voice</translation>
+    <original>ポーンボイス</original>
+    <translation>Pawn Voice</translation>
   </message>
   <message>
     <key>OS_announce_buy</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; を購入しました</original>
-    <translation xml:space="preserve">&lt;NAME ETC&gt; has been purchased.</translation>
+    <original>&lt;NAME ETC&gt; を購入しました</original>
+    <translation>&lt;NAME ETC&gt; has been purchased.</translation>
   </message>
   <message>
     <key>OS_announce_buyanduse</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; を購入して使用しました</original>
+    <original>&lt;NAME ETC&gt; を購入して使用しました</original>
   </message>
   <message>
     <key>OS_announce_use</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; を使用しました</original>
-    <translation xml:space="preserve">&lt;NAME ETC&gt; has been used.</translation>
+    <original>&lt;NAME ETC&gt; を使用しました</original>
+    <translation>&lt;NAME ETC&gt; has been used.</translation>
   </message>
   <message>
     <key>OS_announce_havingnum</key>
-    <original xml:space="preserve">所持数：&lt;VAL&gt;</original>
-    <translation xml:space="preserve">You have: &lt;VAL&gt;</translation>
+    <original>所持数：&lt;VAL&gt;</original>
+    <translation>You have: &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>OS_announce_gpdialog</key>
-    <original xml:space="preserve">黄金石の確認</original>
-    <translation xml:space="preserve">Check Stones</translation>
+    <original>黄金石の確認</original>
+    <translation>Check Stones</translation>
   </message>
   <message>
     <key>OS_catalog_collabo</key>
-    <original xml:space="preserve">コラボレーション装備</original>
-    <translation xml:space="preserve">Collaboration Equipment</translation>
+    <original>コラボレーション装備</original>
+    <translation>Collaboration Equipment</translation>
   </message>
   <message>
     <key>OS_buy_cap</key>
-    <original xml:space="preserve">CAPチャージ</original>
-    <translation xml:space="preserve">Charge CAP</translation>
+    <original>CAPチャージ</original>
+    <translation>Charge CAP</translation>
   </message>
   <message>
     <key>OS_catalog_passport</key>
-    <original xml:space="preserve">パスポート</original>
-    <translation xml:space="preserve">Passports</translation>
+    <original>パスポート</original>
+    <translation>Passports</translation>
   </message>
   <message>
     <key>OS_index_status_en</key>
-    <original xml:space="preserve">Online Station</original>
+    <original>Online Station</original>
   </message>
   <message>
     <key>OS_index_status_jp</key>
-    <original xml:space="preserve">オンラインステーション</original>
-    <translation xml:space="preserve">Online Station</translation>
+    <original>オンラインステーション</original>
+    <translation>Online Station</translation>
   </message>
   <message>
     <key>OS_histry_information</key>
-    <original xml:space="preserve">最新50件(古い履歴から順に削除されます)</original>
-    <translation xml:space="preserve">The last 50 entries are shown (Older entries are deleted)</translation>
+    <original>最新50件(古い履歴から順に削除されます)</original>
+    <translation>The last 50 entries are shown (Older entries are deleted)</translation>
   </message>
   <message>
     <key>OS_annnounce_nocap</key>
-    <original xml:space="preserve">戦闘中にCAPの購入はできません</original>
-    <translation xml:space="preserve">You cannot purchase CAP while in combat.</translation>
+    <original>戦闘中にCAPの購入はできません</original>
+    <translation>You cannot purchase CAP while in combat.</translation>
   </message>
   <message>
     <key>OS_annnounce_multi_option</key>
-    <original xml:space="preserve">ダブル特典・トリプル特典対象商品です</original>
+    <original>ダブル特典・トリプル特典対象商品です</original>
   </message>
   <message>
     <key>OS_annnounce_nolist</key>
-    <original xml:space="preserve">表示するリストがありません</original>
+    <original>表示するリストがありません</original>
   </message>
   <message>
     <key>OS_activetetimer_remaining</key>
-    <original xml:space="preserve">有効期限：</original>
-    <translation xml:space="preserve">Expires:</translation>
+    <original>有効期限：</original>
+    <translation>Expires:</translation>
   </message>
   <message>
     <key>OS_index_category</key>
-    <original xml:space="preserve">Category</original>
+    <original>Category</original>
   </message>
   <message>
     <key>OS_index_management</key>
-    <original xml:space="preserve">COGアカウント管理</original>
+    <original>COGアカウント管理</original>
   </message>
   <message>
     <key>OS_index_active</key>
-    <original xml:space="preserve">発動中</original>
-    <translation xml:space="preserve">Active</translation>
+    <original>発動中</original>
+    <translation>Active</translation>
   </message>
   <message>
     <key>OS_index_caption</key>
-    <original xml:space="preserve">Details</original>
+    <original>Details</original>
   </message>
   <message>
     <key>OS_index_price</key>
-    <original xml:space="preserve">価格：</original>
-    <translation xml:space="preserve">Price:</translation>
+    <original>価格：</original>
+    <translation>Price:</translation>
   </message>
   <message>
     <key>OS_index_yen</key>
-    <original xml:space="preserve">円</original>
-    <translation xml:space="preserve">Yen</translation>
+    <original>円</original>
+    <translation>Yen</translation>
   </message>
   <message>
     <key>OS_index_exrecord</key>
-    <original xml:space="preserve">COG購入履歴（CAPの購入・継続利用権）</original>
+    <original>COG購入履歴（CAPの購入・継続利用権）</original>
   </message>
   <message>
     <key>OS_index_record</key>
-    <original xml:space="preserve">COG購入履歴</original>
+    <original>COG購入履歴</original>
   </message>
   <message>
     <key>OS_index_loginskip</key>
-    <original xml:space="preserve">ログインスキップ設定</original>
+    <original>ログインスキップ設定</original>
   </message>
   <message>
     <key>OS_index_loginskip_in_decide</key>
-    <original xml:space="preserve">決済時のログインスキップ：</original>
+    <original>決済時のログインスキップ：</original>
   </message>
   <message>
     <key>OS_index_valid</key>
-    <original xml:space="preserve">有効</original>
+    <original>有効</original>
   </message>
   <message>
     <key>OS_index_invalid</key>
-    <original xml:space="preserve">無効</original>
+    <original>無効</original>
   </message>
   <message>
     <key>OS_index_loginskip_disable</key>
-    <original xml:space="preserve">ログインスキップの解除</original>
+    <original>ログインスキップの解除</original>
   </message>
   <message>
     <key>OS_index_change_payment</key>
-    <original xml:space="preserve">クレジットカード登録情報変更</original>
+    <original>クレジットカード登録情報変更</original>
   </message>
   <message>
     <key>OS_index_change_records</key>
-    <original xml:space="preserve">登録情報変更</original>
+    <original>登録情報変更</original>
   </message>
   <message>
     <key>OS_index_cancell_passport</key>
-    <original xml:space="preserve">パスポート（クレジットカード継続）の解約</original>
+    <original>パスポート（クレジットカード継続）の解約</original>
   </message>
   <message>
     <key>OS_index_manage_charge</key>
-    <original xml:space="preserve">継続利用権 管理</original>
+    <original>継続利用権 管理</original>
   </message>
   <message>
     <key>OS_index_pass_cource</key>
-    <original xml:space="preserve">&lt;OPCS&gt;</original>
+    <original>&lt;OPCS&gt;</original>
   </message>
   <message>
     <key>OS_index_equipment_item</key>
-    <original xml:space="preserve">装備・アイテム</original>
+    <original>装備・アイテム</original>
   </message>
   <message>
     <key>OS_index_none</key>
-    <original xml:space="preserve">なし</original>
-    <translation xml:space="preserve">None</translation>
+    <original>なし</original>
+    <translation>None</translation>
   </message>
   <message>
     <key>OS_catalog_pawn2</key>
-    <original xml:space="preserve">クラフトマスターポーン</original>
-    <translation xml:space="preserve">Craft Master Pawns</translation>
+    <original>クラフトマスターポーン</original>
+    <translation>Craft Master Pawns</translation>
   </message>
   <message>
     <key>OS_announce_voice2</key>
-    <original xml:space="preserve">ポーンボイス</original>
-    <translation xml:space="preserve">Pawn Voice</translation>
+    <original>ポーンボイス</original>
+    <translation>Pawn Voice</translation>
   </message>
   <message>
     <key>OS_index_eninvalid</key>
-    <original xml:space="preserve">無効にする</original>
+    <original>無効にする</original>
   </message>
   <message>
     <key>OS_dialog_is_invalid_logskip</key>
-    <original xml:space="preserve">決済時のログインスキップを無効化しますか？</original>
+    <original>決済時のログインスキップを無効化しますか？</original>
   </message>
   <message>
     <key>OS_dialog_done_invalid_logskip</key>
-    <original xml:space="preserve">決済時のログインスキップを無効化しました</original>
+    <original>決済時のログインスキップを無効化しました</original>
   </message>
   <message>
     <key>OS_index_mode_browser</key>
-    <original xml:space="preserve">ブラウザ操作</original>
-    <translation xml:space="preserve">Use Browser</translation>
+    <original>ブラウザ操作</original>
+    <translation>Use Browser</translation>
   </message>
   <message>
     <key>OS_index_mode_shop</key>
-    <original xml:space="preserve">ショップ操作</original>
-    <translation xml:space="preserve">Use Shop</translation>
+    <original>ショップ操作</original>
+    <translation>Use Shop</translation>
   </message>
   <message>
     <key>OS_annnounce_nocap1</key>
-    <original xml:space="preserve">今の状況ではCAPの購入はできません</original>
+    <original>今の状況ではCAPの購入はできません</original>
   </message>
   <message>
     <key>OS_annnounce_purchased</key>
-    <original xml:space="preserve">&lt;NAME ETC&gt; は既に購入済みです</original>
+    <original>&lt;NAME ETC&gt; は既に購入済みです</original>
   </message>
   <message>
     <key>OS_catalog_storage</key>
-    <original xml:space="preserve">ストレージ</original>
+    <original>ストレージ</original>
   </message>
   <message>
     <key>OS_catalog_skillreset</key>
-    <original xml:space="preserve">スキルリセット</original>
+    <original>スキルリセット</original>
   </message>
   <message>
     <key>OS_dialog_buy_announce_afterfollow</key>
-    <original xml:space="preserve">ご購入された商品は
+    <original>ご購入された商品は
 オンラインステーションの「未使用コース」から
 ご使用いただけます</original>
   </message>

@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_INFO_09_105</key>
-    <original xml:space="preserve">拳を地面に突き立て、自身を囲むように
+    <original>拳を地面に突き立て、自身を囲むように
 柱状の錬成物質を生成する。高所から行うことで
 威力が上昇する。空中でも発動可能
 &lt;COL ffdc78&gt;LV UP毎に錬成値の上昇
@@ -9,7 +9,7 @@ LV.６で錬成物質の生成回数増加（１→２）&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_104</key>
-    <original xml:space="preserve">掌を地面に添え、振り上げると同時に
+    <original>掌を地面に添え、振り上げると同時に
 地を這う錬成物質の波を放つ
 &lt;COL ffdc78&gt;LV UP毎に錬成値の上昇
 LV.６で錬成物質の本数増加（３→５）／
@@ -17,14 +17,14 @@ LV.６で錬成物質の本数増加（３→５）／
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_108</key>
-    <original xml:space="preserve">炎、氷、雷の主要３属性を纏った
+    <original>炎、氷、雷の主要３属性を纏った
 錬成式を地面から生成し空中に配置する
 &lt;COL ffdc78&gt;LV UP毎に錬成式の継続時間が延長
 LV.６で聖・闇の２属性追加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_109</key>
-    <original xml:space="preserve">乗った者を高所へ跳ね上げる効果を持つ
+    <original>乗った者を高所へ跳ね上げる効果を持つ
 錬成式を地面に配置する
 &lt;COL ffdc78&gt;LV UP毎に錬成式の継続時間が延長
 LV.６で空中にも設置可能になり、
@@ -32,14 +32,14 @@ LV.６で空中にも設置可能になり、
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_107</key>
-    <original xml:space="preserve">風を纏った錬成物質を生成し配置する
+    <original>風を纏った錬成物質を生成し配置する
 後退後に風の錬成球を叩くと、風圧が発生する
 &lt;COL ffdc78&gt;LV UP毎に錬成球の継続時間が延長
 LV.６で叩いた時に発生する風圧範囲が拡張&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_106</key>
-    <original xml:space="preserve">素早く敵との間合いを詰め、錬成杭を打ち込む
+    <original>素早く敵との間合いを詰め、錬成杭を打ち込む
 杭を叩くと錬成値が増加する
 &lt;COL ffdc78&gt;LV UP毎に杭の継続時間が延長
 LV.６で移動距離が延長／始動後に範囲攻撃追加
@@ -47,14 +47,14 @@ LV.６で移動距離が延長／始動後に範囲攻撃追加
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_110</key>
-    <original xml:space="preserve">錬成物質で罠を生成する。この罠に敵が
+    <original>錬成物質で罠を生成する。この罠に敵が
 近付くと自動的に棘が放出され、対象を貫く
 &lt;COL ffdc78&gt;LV UP毎に錬成罠の起動回数増加
 LV.６で棘の本数が増加（１→３）&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_111</key>
-    <original xml:space="preserve">自身の体を金で覆い、敵の攻撃を遮断する
+    <original>自身の体を金で覆い、敵の攻撃を遮断する
 さらに攻撃した敵に対し黄金化の異常値を与える
 空中でも発動可能
 &lt;COL ffdc78&gt;LV UP毎に黄金化の異常値上昇
@@ -62,7 +62,7 @@ LV.６でダウン、拘束中を除きいつでも発動可能&lt;/COL&gt;</ori
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_09_112</key>
-    <original xml:space="preserve">敵を直接攻撃し、攻撃対象の敵単体に付着している
+    <original>敵を直接攻撃し、攻撃対象の敵単体に付着している
 錬成物質を開放して大爆発を起こす
 しがみつき状態からも発動可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇

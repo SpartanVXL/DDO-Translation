@@ -1,197 +1,197 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>party_list_title_en</key>
-    <original xml:space="preserve">Party List</original>
+    <original>Party List</original>
   </message>
   <message>
     <key>party_list_title_jp</key>
-    <original xml:space="preserve">パーティー管理</original>
-    <translation xml:space="preserve">Party List</translation>
+    <original>パーティー管理</original>
+    <translation>Party List</translation>
   </message>
   <message>
     <key>party_list_invite</key>
-    <original xml:space="preserve">パーティーへの招待がきています</original>
-    <translation xml:space="preserve">You have been sent a party invite.</translation>
+    <original>パーティーへの招待がきています</original>
+    <translation>You have been sent a party invite.</translation>
   </message>
   <message>
     <key>party_list_time</key>
-    <original xml:space="preserve">&lt;VAL&gt;:&lt;VAL&gt;</original>
+    <original>&lt;VAL&gt;:&lt;VAL&gt;</original>
   </message>
   <message>
     <key>party_list_member</key>
-    <original xml:space="preserve">パーティーメンバー</original>
-    <translation xml:space="preserve">Party Members</translation>
+    <original>パーティーメンバー</original>
+    <translation>Party Members</translation>
   </message>
   <message>
     <key>party_list_mpawn</key>
-    <original xml:space="preserve">メインポーン</original>
-    <translation xml:space="preserve">Main Pawns</translation>
+    <original>メインポーン</original>
+    <translation>Main Pawns</translation>
   </message>
   <message>
     <key>party_list_spawn</key>
-    <original xml:space="preserve">サポートポーン</original>
-    <translation xml:space="preserve">Hired Pawns</translation>
+    <original>サポートポーン</original>
+    <translation>Hired Pawns</translation>
   </message>
   <message>
     <key>party_list_pl_search</key>
-    <original xml:space="preserve">プレイヤー検索</original>
-    <translation xml:space="preserve">Player Search</translation>
+    <original>プレイヤー検索</original>
+    <translation>Player Search</translation>
   </message>
   <message>
     <key>party_list_q_party</key>
-    <original xml:space="preserve">クイックパーティー</original>
-    <translation xml:space="preserve">Quick Party</translation>
+    <original>クイックパーティー</original>
+    <translation>Quick Party</translation>
   </message>
   <message>
     <key>party_list_leave</key>
-    <original xml:space="preserve">パーティーから抜ける</original>
-    <translation xml:space="preserve">Leave</translation>
+    <original>パーティーから抜ける</original>
+    <translation>Leave</translation>
   </message>
   <message>
     <key>party_list_dissolution</key>
-    <original xml:space="preserve">パーティーを解散する</original>
-    <translation xml:space="preserve">Disband</translation>
+    <original>パーティーを解散する</original>
+    <translation>Disband</translation>
   </message>
   <message>
     <key>party_list_submenu</key>
-    <original xml:space="preserve">サブメニュー</original>
-    <translation xml:space="preserve">Sub-Menu</translation>
+    <original>サブメニュー</original>
+    <translation>Sub-Menu</translation>
   </message>
   <message>
     <key>party_list_quickp_start</key>
-    <original xml:space="preserve">クイックパーティー開始</original>
+    <original>クイックパーティー開始</original>
   </message>
   <message>
     <key>party_list_settings</key>
-    <original xml:space="preserve">設定の編集</original>
+    <original>設定の編集</original>
   </message>
   <message>
     <key>party_list_name</key>
-    <original xml:space="preserve">名前</original>
-    <translation xml:space="preserve">Name</translation>
+    <original>名前</original>
+    <translation>Name</translation>
   </message>
   <message>
     <key>party_list_job</key>
-    <original xml:space="preserve">ジョブレベル</original>
-    <translation xml:space="preserve">Job Level</translation>
+    <original>ジョブレベル</original>
+    <translation>Job Level</translation>
   </message>
   <message>
     <key>party_list_lobby</key>
-    <original xml:space="preserve">ワールド</original>
-    <translation xml:space="preserve">World</translation>
+    <original>ワールド</original>
+    <translation>World</translation>
   </message>
   <message>
     <key>party_list_location</key>
-    <original xml:space="preserve">Location</original>
+    <original>Location</original>
   </message>
   <message>
     <key>party_list_clan</key>
-    <original xml:space="preserve">クラン</original>
-    <translation xml:space="preserve">Clan</translation>
+    <original>クラン</original>
+    <translation>Clan</translation>
   </message>
   <message>
     <key>party_list_state</key>
-    <original xml:space="preserve">状態</original>
-    <translation xml:space="preserve">Status</translation>
+    <original>状態</original>
+    <translation>Status</translation>
   </message>
   <message>
     <key>party_list_comment</key>
-    <original xml:space="preserve">コメント</original>
-    <translation xml:space="preserve">Comment</translation>
+    <original>コメント</original>
+    <translation>Comment</translation>
   </message>
   <message>
     <key>party_list_search</key>
-    <original xml:space="preserve">検索する</original>
-    <translation xml:space="preserve">Search</translation>
+    <original>検索する</original>
+    <translation>Search</translation>
   </message>
   <message>
     <key>party_list_object</key>
-    <original xml:space="preserve">Object</original>
+    <original>Object</original>
   </message>
   <message>
     <key>party_list_pawn</key>
-    <original xml:space="preserve">Pawn</original>
+    <original>Pawn</original>
   </message>
   <message>
     <key>party_list_area_name</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;</original>
+    <original>&lt;NAME AREA&gt;</original>
   </message>
   <message>
     <key>party_list_search_now</key>
-    <original xml:space="preserve">検索中です</original>
+    <original>検索中です</original>
   </message>
   <message>
     <key>party_list_settings_err</key>
-    <original xml:space="preserve">条件を設定してください</original>
-    <translation xml:space="preserve">Please enter search criteria.</translation>
+    <original>条件を設定してください</original>
+    <translation>Please enter search criteria.</translation>
   </message>
   <message>
     <key>party_list_notfound_player</key>
-    <original xml:space="preserve">要請を出せる相手がいませんでした</original>
+    <original>要請を出せる相手がいませんでした</original>
   </message>
   <message>
     <key>party_list_notfound_party</key>
-    <original xml:space="preserve">参加出来るパーティーがありませんでした</original>
+    <original>参加出来るパーティーがありませんでした</original>
   </message>
   <message>
     <key>party_list_inviting</key>
-    <original xml:space="preserve">（招待中）</original>
-    <translation xml:space="preserve">(Pending)</translation>
+    <original>（招待中）</original>
+    <translation>(Pending)</translation>
   </message>
   <message>
     <key>party_list_guide_switch</key>
-    <original xml:space="preserve">表示切り替え</original>
+    <original>表示切り替え</original>
   </message>
   <message>
     <key>party_list_count</key>
-    <original xml:space="preserve">冒険／クラフト残り回数</original>
-    <translation xml:space="preserve">Adventure / Craft Left</translation>
+    <original>冒険／クラフト残り回数</original>
+    <translation>Adventure / Craft Left</translation>
   </message>
   <message>
     <key>party_list_pawn_joblv</key>
-    <original xml:space="preserve">ジョブ／クラフトレベル</original>
-    <translation xml:space="preserve">Job / Craft Level</translation>
+    <original>ジョブ／クラフトレベル</original>
+    <translation>Job / Craft Level</translation>
   </message>
   <message>
     <key>party_list_main_pawn_count</key>
-    <original xml:space="preserve">契約状況：</original>
-    <translation xml:space="preserve">Contracts:</translation>
+    <original>契約状況：</original>
+    <translation>Contracts:</translation>
   </message>
   <message>
     <key>party_list_support_pawn_count</key>
-    <original xml:space="preserve">雇用状況：</original>
-    <translation xml:space="preserve">Contracts:</translation>
+    <original>雇用状況：</original>
+    <translation>Contracts:</translation>
   </message>
   <message>
     <key>party_list_notfound_main_pawn</key>
-    <original xml:space="preserve">ポーンと契約していません</original>
-    <translation xml:space="preserve">You have not made a contract with any pawns</translation>
+    <original>ポーンと契約していません</original>
+    <translation>You have not made a contract with any pawns</translation>
   </message>
   <message>
     <key>party_list_notfound_support_pawn</key>
-    <original xml:space="preserve">ポーンを雇用していません</original>
-    <translation xml:space="preserve">You have not hired any pawns</translation>
+    <original>ポーンを雇用していません</original>
+    <translation>You have not hired any pawns</translation>
   </message>
   <message>
     <key>party_list_party_link</key>
-    <original xml:space="preserve">（合流中）</original>
+    <original>（合流中）</original>
   </message>
   <message>
     <key>party_list_simple_req_btn</key>
-    <original xml:space="preserve">簡易要請</original>
-    <translation xml:space="preserve">Simple Request</translation>
+    <original>簡易要請</original>
+    <translation>Simple Request</translation>
   </message>
   <message>
     <key>party_list_pt_search</key>
-    <original xml:space="preserve">パーティー検索</original>
-    <translation xml:space="preserve">Party Search</translation>
+    <original>パーティー検索</original>
+    <translation>Party Search</translation>
   </message>
   <message>
     <key>party_list_pl_search_notfound</key>
-    <original xml:space="preserve">一致する情報は見つかりませんでした</original>
+    <original>一致する情報は見つかりませんでした</original>
   </message>
   <message>
     <key>party_list_pl_name_empty</key>
-    <original xml:space="preserve">(指定なし)</original>
+    <original>(指定なし)</original>
   </message>
 </resource>

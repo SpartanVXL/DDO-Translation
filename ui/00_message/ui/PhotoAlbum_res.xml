@@ -1,61 +1,61 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>album_msg_header_j</key>
-    <original xml:space="preserve">プレビュー</original>
-    <translation xml:space="preserve">Preview</translation>
+    <original>プレビュー</original>
+    <translation>Preview</translation>
   </message>
   <message>
     <key>album_msg_header_e</key>
-    <original xml:space="preserve">Photo Preview</original>
+    <original>Photo Preview</original>
   </message>
   <message>
     <key>album_msg_category</key>
-    <original xml:space="preserve">Category</original>
+    <original>Category</original>
   </message>
   <message>
     <key>album_msg_photo_num</key>
-    <original xml:space="preserve">アルバム保存枚数：</original>
+    <original>アルバム保存枚数：</original>
   </message>
   <message>
     <key>album_msg_title_j</key>
-    <original xml:space="preserve">アルバム</original>
-    <translation xml:space="preserve">Album</translation>
+    <original>アルバム</original>
+    <translation>Album</translation>
   </message>
   <message>
     <key>album_msg_title_e</key>
-    <original xml:space="preserve">Photo Album</original>
+    <original>Photo Album</original>
   </message>
   <message>
     <key>album_msg_enfullsize</key>
-    <original xml:space="preserve">全画面表示</original>
-    <translation xml:space="preserve">Fullscreen</translation>
+    <original>全画面表示</original>
+    <translation>Fullscreen</translation>
   </message>
   <message>
     <key>album_msg_date</key>
-    <original xml:space="preserve">&lt;DATE&gt;</original>
+    <original>&lt;DATE&gt;</original>
   </message>
   <message>
     <key>album_msg_separation</key>
-    <original xml:space="preserve">/</original>
+    <original>/</original>
   </message>
   <message>
     <key>album_msg_time</key>
-    <original xml:space="preserve">&lt;TIME&gt;</original>
+    <original>&lt;TIME&gt;</original>
   </message>
   <message>
     <key>album_msg_num</key>
-    <original xml:space="preserve">&lt;VAL&gt;</original>
+    <original>&lt;VAL&gt;</original>
   </message>
   <message>
     <key>album_msg_conf_delete</key>
-    <original xml:space="preserve">写真を削除します。よろしいですか？</original>
+    <original>写真を削除します。よろしいですか？</original>
   </message>
   <message>
     <key>album_msg_photo_up</key>
-    <original xml:space="preserve">写真の投稿</original>
+    <original>写真の投稿</original>
   </message>
   <message>
     <key>album_msg_non_photo_up</key>
-    <original xml:space="preserve">撮影された写真がないため、投稿できません</original>
+    <original>撮影された写真がないため、投稿できません</original>
   </message>
 </resource>

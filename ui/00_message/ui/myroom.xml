@@ -1,43 +1,43 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>myroom_menu_talk</key>
-    <original xml:space="preserve">話しかける</original>
-    <translation xml:space="preserve">Talk</translation>
+    <original>話しかける</original>
+    <translation>Talk</translation>
   </message>
   <message>
     <key>myroom_menu_party</key>
-    <original xml:space="preserve">パーティー管理</original>
-    <translation xml:space="preserve">Party Management</translation>
+    <original>パーティー管理</original>
+    <translation>Party Management</translation>
   </message>
   <message>
     <key>myroom_menu_room</key>
-    <original xml:space="preserve">自室の管理</original>
-    <translation xml:space="preserve">Room Management</translation>
+    <original>自室の管理</original>
+    <translation>Room Management</translation>
   </message>
   <message>
     <key>myroom_menu_present</key>
-    <original xml:space="preserve">プレゼントをあげる</original>
-    <translation xml:space="preserve">Give Present</translation>
+    <original>プレゼントをあげる</original>
+    <translation>Give Present</translation>
   </message>
   <message>
     <key>myroom_menu_partner_reset</key>
-    <original xml:space="preserve">パートナーポーンの解除</original>
-    <translation xml:space="preserve">Dismiss Partner Pawn</translation>
+    <original>パートナーポーンの解除</original>
+    <translation>Dismiss Partner Pawn</translation>
   </message>
   <message>
     <key>myroom_om_text_esa</key>
-    <original xml:space="preserve">エサをあげますか？</original>
+    <original>エサをあげますか？</original>
   </message>
   <message>
     <key>myroom_edit_ok</key>
-    <original xml:space="preserve">似合ってるね</original>
+    <original>似合ってるね</original>
   </message>
   <message>
     <key>myroom_edit_ng</key>
-    <original xml:space="preserve">前の髪型のほうがいいね</original>
+    <original>前の髪型のほうがいいね</original>
   </message>
   <message>
     <key>myroom_menu_partner_reset_error</key>
-    <original xml:space="preserve">リワードがあるときは解除できません</original>
+    <original>リワードがあるときは解除できません</original>
   </message>
 </resource>

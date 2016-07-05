@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_401</key>
-    <original xml:space="preserve">メインクエスト中、ボスに勝てない時は
+    <original>メインクエスト中、ボスに勝てない時は
 《復活力》や《黄金石》を使うことで
 倒れたとしても戦闘を続けられます
 
@@ -11,7 +11,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_402</key>
-    <original xml:space="preserve">勝ち目がなく、準備し出直したい場合は
+    <original>勝ち目がなく、準備し出直したい場合は
 ゲームメニュー《クエスト》の&lt;COL ffdc78&gt;《コンテンツ中断》&lt;/COL&gt;
 から参加しているパーティーメンバーに
 途中離脱の提案が行えます
@@ -21,7 +21,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_403</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;途中離脱するかしないかは
+    <original>&lt;COL ffdc78&gt;途中離脱するかしないかは
 パーティーメンバーの投票で決まり
 投票者中、過半数を占めた方が採用されます&lt;/COL&gt;
 
@@ -31,7 +31,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_404</key>
-    <original xml:space="preserve">なお、投票は一定時間で締め切られるため
+    <original>なお、投票は一定時間で締め切られるため
 ご注意ください
 
 反対多数で提案が拒否された場合は

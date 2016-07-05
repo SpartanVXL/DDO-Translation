@@ -1,12 +1,12 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_INFO_02_20</key>
-    <original xml:space="preserve">敵を追従する猛ダッシュの斬りつけ攻撃を放つ
+    <original>敵を追従する猛ダッシュの斬りつけ攻撃を放つ
 初撃が当たると連続で斬り返しを放つ
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で移動距離が延長／
 斬り返し回数増加（１→３）&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Dashes past the target with blades extended, delivering
+    <translation>Dashes past the target with blades extended, delivering
 slashes that can be followed with further attacks on contact.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases moving distance.
@@ -14,11 +14,11 @@ Increases number of further attacks (1→3).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_21</key>
-    <original xml:space="preserve">一歩踏み込み、敵を上空へ斬り上げる
+    <original>一歩踏み込み、敵を上空へ斬り上げる
 ボタンの追加入力で追撃する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Steps in with a blade strike that sends
+    <translation>Steps in with a blade strike that sends
 the target aloft. Additional button presses
 throw and detonate a store of powder.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
@@ -26,11 +26,11 @@ LV.6: Increases number of hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_24</key>
-    <original xml:space="preserve">瞬時に身を引き、すぐさま前方に蹴りを放つ
+    <original>瞬時に身を引き、すぐさま前方に蹴りを放つ
 敵の攻撃を回避しつつ繰り出せば威力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Pulls back momentarily afore unleashing a
+    <translation>Pulls back momentarily afore unleashing a
 frontal kick. Using it as an evasive
 maneuver increases its power.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
@@ -38,11 +38,11 @@ LV.6: Motion changes. Increases number of hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_22</key>
-    <original xml:space="preserve">シーカーロープを投げて敵を捉え、
+    <original>シーカーロープを投げて敵を捉え、
 手前に引き寄せる
 &lt;COL ffdc78&gt;LV UP毎に引き寄せる力の上昇
 LV.６で攻撃範囲拡張/捕捉敵数増加（１→３）&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Casts out your seeker rope to snare lightweight foes,
+    <translation>Casts out your seeker rope to snare lightweight foes,
 pulling them to the ground to incapacitate them.
 &lt;COL ffdc78&gt;LV UP: Increases the force of the pull.
 LV.6: Increase range of the effect.
@@ -50,12 +50,12 @@ Increases total enemies affected (1→3).&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_29</key>
-    <original xml:space="preserve">空中からシーカーロープを放って地面にひっかけ、
+    <original>空中からシーカーロープを放って地面にひっかけ、
 地上へ急降下攻撃を繰り出す。空中でも発動可能
 高所から行うことで威力が上昇し気絶させやすくなる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で周囲の敵をのけぞらせることが可能&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Hook the ground with your seeker rope, performing
+    <translation>Hook the ground with your seeker rope, performing
 a dive attack towards the ground. A high altitude
 will increase the power. Can be activated in the air.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
@@ -63,12 +63,12 @@ LV.6: Inflicts stagger on surrounding enemies.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_23</key>
-    <original xml:space="preserve">前方に飛び蹴りを繰り出し、敵を踏み台にして
+    <original>前方に飛び蹴りを繰り出し、敵を踏み台にして
 上空へ跳び上がる
 空中でも発動可能
 &lt;COL ffdc78&gt;LV UP毎にジャンプ力上昇
 LV.６で敵のガード状態を崩すことが可能&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Leaps forward in a flying kick, then uses the
+    <translation>Leaps forward in a flying kick, then uses the
 target as a foothold to jump still higher.
 Can be activated in the air.
 &lt;COL ffdc78&gt;LV UP: Increases force of the jump.
@@ -76,12 +76,12 @@ LV.6: Breaks enemy guard.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_25</key>
-    <original xml:space="preserve">自身を通常の構え姿勢に戻し、様々な動作の
+    <original>自身を通常の構え姿勢に戻し、様々な動作の
 スキを消すことができる（連続では行えない）
 空中でも発動可能
 &lt;COL ffdc78&gt;LV UP毎に再発禁止時間が短縮
 LV.６で拘束中を除きいつでも発動可能&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Returns the user to a neutral stance, eliminating
+    <translation>Returns the user to a neutral stance, eliminating
 openings caused by other actions. Cannot be performed
 continously. Can be activated in the air.
 &lt;COL ffdc78&gt;LV UP: Reduces the restriction time between uses.
@@ -89,11 +89,11 @@ LV.6: Can be used anytime, except when restrained.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_26</key>
-    <original xml:space="preserve">地面に火薬を設置し、
+    <original>地面に火薬を設置し、
 遠方から導火線に着火して爆発させる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇／仕込み時間短縮
 LV.６で攻撃ヒット数増加／爆風に風圧追加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Places an explosive on the ground to
+    <translation>Places an explosive on the ground to
 be detonated from afar.
 &lt;COL ffdc78&gt;LV UP: Increases damage. Decreases charge time.
 LV.6: Increases number of hits.
@@ -101,11 +101,11 @@ Adds wind pressure to the blast.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_30</key>
-    <original xml:space="preserve">ダガーを高速回転させ、敵を巻き込み斬りつける
+    <original>ダガーを高速回転させ、敵を巻き込み斬りつける
 &lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;で任意方向に移動できる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で移動距離が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Rotate your daggers at high speed, slashing nearby
+    <translation>Rotate your daggers at high speed, slashing nearby
 enemies. Use the &lt;PADM&gt;left stick&lt;KEYM&gt;move key&lt;/KEYM&gt; to move while rotating.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases movement distance.
@@ -113,23 +113,23 @@ Increases number of hits.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_31</key>
-    <original xml:space="preserve">シーカーロープを放って敵を捕らえ、反動を利用して
+    <original>シーカーロープを放って敵を捕らえ、反動を利用して
 気絶を誘うスライディング攻撃を繰り出す
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で移動距離が延長&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Grapple the enemy with your seeker rope, staggering
+    <translation>Grapple the enemy with your seeker rope, staggering
 them and sliding through with a sharp attack.
 &lt;COL ffdc78&gt;LV UP: Increases damage.
 LV.6: Increases movement distance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_27</key>
-    <original xml:space="preserve">自身の体に炎をまとい触れた敵にダメージを与える
+    <original>自身の体に炎をまとい触れた敵にダメージを与える
 さらに武器の攻撃属性を炎にする
 ただし、発動中は自身の体力が徐々に減少する
 &lt;COL ffdc78&gt;LV UP毎に炎属性威力の上昇／体力減少速度軽減
 LV.６で最大持続時間が延長&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Sets your body ablaze, inflicting damage to enemies
+    <translation>Sets your body ablaze, inflicting damage to enemies
 you touch and adds Fire attribute to your attacks.
 However, your health will gradually drain during use.
 &lt;COL ffdc78&gt;LV UP: Increases damage. Decreases health drain.
@@ -137,7 +137,7 @@ LV.6: Increases duration of the effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_28</key>
-    <original xml:space="preserve">敵の攻撃を受け流し、瞬時に背後に回り込んで
+    <original>敵の攻撃を受け流し、瞬時に背後に回り込んで
 致命の一撃を与える
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加／当身受付時間が延長／
@@ -145,7 +145,7 @@ LV.６で攻撃ヒット数増加／当身受付時間が延長／
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_129</key>
-    <original xml:space="preserve">自身の周囲に火薬を撒き、
+    <original>自身の周囲に火薬を撒き、
 ダガーで弾いて爆発を起こす
 空中でも発動可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇

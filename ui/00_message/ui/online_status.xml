@@ -1,48 +1,48 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ONLINE_STATUS_ONLINE</key>
-    <original xml:space="preserve">オンライン</original>
-    <translation xml:space="preserve">Online</translation>
+    <original>オンライン</original>
+    <translation>Online</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_OFFLINE</key>
-    <original xml:space="preserve">オフライン</original>
-    <translation xml:space="preserve">Offline</translation>
+    <original>オフライン</original>
+    <translation>Offline</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_AFK</key>
-    <original xml:space="preserve">離席中</original>
-    <translation xml:space="preserve">AFK</translation>
+    <original>離席中</original>
+    <translation>AFK</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_BUSY</key>
-    <original xml:space="preserve">取り込み中</original>
-    <translation xml:space="preserve">Busy</translation>
+    <original>取り込み中</original>
+    <translation>Busy</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_ENTRYBOARD</key>
-    <original xml:space="preserve">エントリーボード登録中</original>
+    <original>エントリーボード登録中</original>
   </message>
   <message>
     <key>ONLINE_STATUS_QUICKMATCH</key>
-    <original xml:space="preserve">クイックマッチ待機中</original>
+    <original>クイックマッチ待機中</original>
   </message>
   <message>
     <key>ONLINE_STATUS_EVENT</key>
-    <original xml:space="preserve">イベント中</original>
+    <original>イベント中</original>
   </message>
   <message>
     <key>ONLINE_STATUS_CONTENTS</key>
-    <original xml:space="preserve">コンテンツ中</original>
+    <original>コンテンツ中</original>
   </message>
   <message>
     <key>ONLINE_STATUS_PTL</key>
-    <original xml:space="preserve">パーティー参加中（リーダー）</original>
-    <translation xml:space="preserve">Party (Leader)</translation>
+    <original>パーティー参加中（リーダー）</original>
+    <translation>Party (Leader)</translation>
   </message>
   <message>
     <key>ONLINE_STATUS_PTM</key>
-    <original xml:space="preserve">パーティー参加中（メンバー）</original>
-    <translation xml:space="preserve">Party (Member)</translation>
+    <original>パーティー参加中（メンバー）</original>
+    <translation>Party (Member)</translation>
   </message>
 </resource>

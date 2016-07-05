@@ -1,275 +1,275 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>hud_job_hunter_normal_arrow</key>
-    <original xml:space="preserve">通常矢</original>
-    <translation xml:space="preserve">Normal Arrow</translation>
+    <original>通常矢</original>
+    <translation>Normal Arrow</translation>
   </message>
   <message>
     <key>hud_disp_level</key>
-    <original xml:space="preserve">LV.</original>
+    <original>LV.</original>
   </message>
   <message>
     <key>hud_quest_qo</key>
-    <original xml:space="preserve">Quest Owner</original>
+    <original>Quest Owner</original>
   </message>
   <message>
     <key>hud_quest_gm</key>
-    <original xml:space="preserve">Grand Mission</original>
+    <original>Grand Mission</original>
   </message>
   <message>
     <key>hud_job_hunter_change_arrow</key>
-    <original xml:space="preserve">矢切替</original>
-    <translation xml:space="preserve">Change Arrow</translation>
+    <original>矢切替</original>
+    <translation>Change Arrow</translation>
   </message>
   <message>
     <key>hud_job_sealedsage_change_attribution</key>
-    <original xml:space="preserve">属性切替</original>
-    <translation xml:space="preserve">Change Attribute</translation>
+    <original>属性切替</original>
+    <translation>Change Attribute</translation>
   </message>
   <message>
     <key>hud_job_unequipped</key>
-    <original xml:space="preserve">None</original>
+    <original>None</original>
   </message>
   <message>
     <key>hud_status_standby</key>
-    <original xml:space="preserve">スタンバイOK</original>
-    <translation xml:space="preserve">Standby OK</translation>
+    <original>スタンバイOK</original>
+    <translation>Standby OK</translation>
   </message>
   <message>
     <key>hud_status_away</key>
-    <original xml:space="preserve">離席中</original>
-    <translation xml:space="preserve">Away</translation>
+    <original>離席中</original>
+    <translation>Away</translation>
   </message>
   <message>
     <key>hud_status_event</key>
-    <original xml:space="preserve">イベント</original>
-    <translation xml:space="preserve">Event</translation>
+    <original>イベント</original>
+    <translation>Event</translation>
   </message>
   <message>
     <key>hud_quest_qg_time</key>
-    <original xml:space="preserve">Time</original>
+    <original>Time</original>
   </message>
   <message>
     <key>hud_quest_qg_point</key>
-    <original xml:space="preserve">Score</original>
+    <original>Score</original>
   </message>
   <message>
     <key>hud_quest_qg_pt</key>
-    <original xml:space="preserve">pt</original>
+    <original>pt</original>
   </message>
   <message>
     <key>hud_quest_qg_sec</key>
-    <original xml:space="preserve">sec</original>
+    <original>sec</original>
   </message>
   <message>
     <key>hud_status_ailment_sec</key>
-    <original xml:space="preserve">秒</original>
-    <translation xml:space="preserve">sec</translation>
+    <original>秒</original>
+    <translation>sec</translation>
   </message>
   <message>
     <key>hud_status_ailment_stamina</key>
-    <original xml:space="preserve">スタミナ回復</original>
-    <translation xml:space="preserve">Stamina Recovery</translation>
+    <original>スタミナ回復</original>
+    <translation>Stamina Recovery</translation>
   </message>
   <message>
     <key>hud_get_announce_bo</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT BO&gt;</original>
+    <original>&lt;VAL&gt; &lt;UNIT BO&gt;</original>
   </message>
   <message>
     <key>hud_get_announce_g</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT G&gt;</original>
+    <original>&lt;VAL&gt; &lt;UNIT G&gt;</original>
   </message>
   <message>
     <key>hud_get_announce_r</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT R&gt;</original>
+    <original>&lt;VAL&gt; &lt;UNIT R&gt;</original>
   </message>
   <message>
     <key>hud_get_announce_xp</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT XP&gt;</original>
+    <original>&lt;VAL&gt; &lt;UNIT XP&gt;</original>
   </message>
   <message>
     <key>hud_quest_ann_caution_deco</key>
-    <original xml:space="preserve">Defeat the enemy !</original>
-    <translation xml:space="preserve">Defeat the enemy!</translation>
+    <original>Defeat the enemy !</original>
+    <translation>Defeat the enemy!</translation>
   </message>
   <message>
     <key>hud_pawn_ann_lost</key>
-    <original xml:space="preserve">&lt;VAL&gt; がポーン郷にある異界の狭間へ送られました</original>
+    <original>&lt;VAL&gt; がポーン郷にある異界の狭間へ送られました</original>
   </message>
   <message>
     <key>hud_pawn_ann_rescue_start</key>
-    <original xml:space="preserve">&lt;VAL&gt; を襲いかかる敵から救出せよ</original>
+    <original>&lt;VAL&gt; を襲いかかる敵から救出せよ</original>
   </message>
   <message>
     <key>hud_pawn_ann_rescue_failed</key>
-    <original xml:space="preserve">&lt;VAL&gt; の呪縛を解くことができなかった</original>
+    <original>&lt;VAL&gt; の呪縛を解くことができなかった</original>
   </message>
   <message>
     <key>hud_pawn_ann_rescue_clear</key>
-    <original xml:space="preserve">&lt;VAL&gt; の呪縛が解け、リムの淵辺で目を覚ました</original>
+    <original>&lt;VAL&gt; の呪縛が解け、リムの淵辺で目を覚ました</original>
   </message>
   <message>
     <key>hud_pawn_ann_resurrection</key>
-    <original xml:space="preserve">&lt;VAL&gt; が復活し、待機状態に戻りました</original>
+    <original>&lt;VAL&gt; が復活し、待機状態に戻りました</original>
   </message>
   <message>
     <key>hud_disp_infinity</key>
-    <original xml:space="preserve">∞</original>
+    <original>∞</original>
   </message>
   <message>
     <key>hud_get_announce_pawnlvup</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;LEVEL&gt;にUPしました</original>
+    <original>&lt;NAME PAWN&gt;が&lt;LEVEL&gt;にUPしました</original>
   </message>
   <message>
     <key>hud_enemy_nodamage</key>
-    <original xml:space="preserve">Invulnerable</original>
+    <original>Invulnerable</original>
   </message>
   <message>
     <key>hud_enemy_engage</key>
-    <original xml:space="preserve">In Battle !</original>
-    <translation xml:space="preserve">In Combat!</translation>
+    <original>In Battle !</original>
+    <translation>In Combat!</translation>
   </message>
   <message>
     <key>hud_gauge_sorcery_bonus</key>
-    <original xml:space="preserve">× &lt;VAL&gt;</original>
+    <original>× &lt;VAL&gt;</original>
   </message>
   <message>
     <key>hud_gauge_sorcery_button</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_R3&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_WHL_1&gt;&lt;/KEYM&gt;</original>
+    <original>&lt;PADM&gt;&lt;ICON PAD_R3&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_WHL_1&gt;&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>hud_quest_em</key>
-    <original xml:space="preserve">Extreme Mission</original>
+    <original>Extreme Mission</original>
   </message>
   <message>
     <key>hud_status_disconnect</key>
-    <original xml:space="preserve">回線切断中</original>
-    <translation xml:space="preserve">Disconnected</translation>
+    <original>回線切断中</original>
+    <translation>Disconnected</translation>
   </message>
   <message>
     <key>hud_job_alchemist_normal_medal</key>
-    <original xml:space="preserve">遅延のエリクシル</original>
-    <translation xml:space="preserve">Torpor Elixir</translation>
+    <original>遅延のエリクシル</original>
+    <translation>Torpor Elixir</translation>
   </message>
   <message>
     <key>hud_job_alchemist_change_medal</key>
-    <original xml:space="preserve">エリクシル切替</original>
-    <translation xml:space="preserve">Change Elixir</translation>
+    <original>エリクシル切替</original>
+    <translation>Change Elixir</translation>
   </message>
   <message>
     <key>hud_skill_move</key>
-    <original xml:space="preserve">発動</original>
-    <translation xml:space="preserve">Activate</translation>
+    <original>発動</original>
+    <translation>Activate</translation>
   </message>
   <message>
     <key>hud_charges_others</key>
-    <original xml:space="preserve"> その他×&lt;VAL&gt;</original>
-    <translation xml:space="preserve">Other×&lt;VAL&gt;</translation>
+    <original> その他×&lt;VAL&gt;</original>
+    <translation>Other×&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>hud_recommend_level</key>
-    <original xml:space="preserve">LV.%d</original>
+    <original>LV.%d</original>
   </message>
   <message>
     <key>hud_get_announce_bo_ex</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT BO&gt;</original>
+    <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT BO&gt;</original>
   </message>
   <message>
     <key>hud_get_announce_r_ex</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT R&gt;</original>
+    <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT R&gt;</original>
   </message>
   <message>
     <key>hud_get_announce_xp_ex</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT XP&gt;</original>
+    <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT XP&gt;</original>
   </message>
   <message>
     <key>hud_generalpurpose_clear_deco</key>
-    <original xml:space="preserve">Defeated the enemy !</original>
+    <original>Defeated the enemy !</original>
   </message>
   <message>
     <key>hud_change_tx_tank</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_L&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE&gt;&lt;/KEYM&gt;</original>
+    <original>&lt;PADM&gt;&lt;ICON PAD_L&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE&gt;&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>hud_gauge_xp_next</key>
-    <original xml:space="preserve">Next </original>
+    <original>Next </original>
   </message>
   <message>
     <key>hud_get_announce_g_ex</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT G&gt;</original>
+    <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT G&gt;</original>
   </message>
   <message>
     <key>hud_get_announce_goldstone</key>
-    <original xml:space="preserve">&lt;VAL&gt; @</original>
+    <original>&lt;VAL&gt; @</original>
   </message>
   <message>
     <key>hud_get_announce_silvertickets</key>
-    <original xml:space="preserve">&lt;VAL&gt; _|</original>
+    <original>&lt;VAL&gt; _|</original>
   </message>
   <message>
     <key>hud_map_guide_lock</key>
-    <original xml:space="preserve">ロック</original>
-    <translation xml:space="preserve">Lock</translation>
+    <original>ロック</original>
+    <translation>Lock</translation>
   </message>
   <message>
     <key>hud_map_guide_scaling</key>
-    <original xml:space="preserve">拡縮</original>
-    <translation xml:space="preserve">Scale</translation>
+    <original>拡縮</original>
+    <translation>Scale</translation>
   </message>
   <message>
     <key>hud_map_guide_freemarker</key>
-    <original xml:space="preserve">フリーマーカー</original>
-    <translation xml:space="preserve">Waypoint</translation>
+    <original>フリーマーカー</original>
+    <translation>Waypoint</translation>
   </message>
   <message>
     <key>hud_map_guide_cursor</key>
-    <original xml:space="preserve">カーソル移動</original>
-    <translation xml:space="preserve">Move Cursor</translation>
+    <original>カーソル移動</original>
+    <translation>Move Cursor</translation>
   </message>
   <message>
     <key>hud_map_guide_operation</key>
-    <original xml:space="preserve">ミニマップ操作</original>
-    <translation xml:space="preserve">Expand</translation>
+    <original>ミニマップ操作</original>
+    <translation>Expand</translation>
   </message>
   <message>
     <key>hud_map_guide_zoom</key>
-    <original xml:space="preserve">ズームイン/アウト</original>
-    <translation xml:space="preserve">Zoom In/Out</translation>
+    <original>ズームイン/アウト</original>
+    <translation>Zoom In/Out</translation>
   </message>
   <message>
     <key>hud_get_announce_rp</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;UNIT RP&gt;</original>
+    <original>&lt;VAL&gt; &lt;UNIT RP&gt;</original>
   </message>
   <message>
     <key>hud_get_announce_rp_ex</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT RP&gt;</original>
+    <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT RP&gt;</original>
   </message>
   <message>
     <key>hud_commongauge_button_barrage_square</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RL&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;&lt;/KEYM&gt;</original>
+    <original>&lt;PADM&gt;&lt;ICON PAD_RL&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>hud_commontext_sorcery_cs13</key>
-    <original xml:space="preserve">氷柱を放つ：</original>
+    <original>氷柱を放つ：</original>
   </message>
   <message>
     <key>hud_commontext_sorcery_cs14</key>
-    <original xml:space="preserve">アンカーを消滅させる：&lt;PADM&gt;&lt;ICON PAD_RR&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_E&gt;キー&lt;/KEYM&gt;</original>
+    <original>アンカーを消滅させる：&lt;PADM&gt;&lt;ICON PAD_RR&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_E&gt;キー&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>hud_commongauge_button_barrage_triangle</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RU&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;&lt;/KEYM&gt;</original>
+    <original>&lt;PADM&gt;&lt;ICON PAD_RU&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>hud_commontext_all_reliefcancel</key>
-    <original xml:space="preserve">救済を中断する：&lt;PADM&gt;&lt;ICON PAD_RD&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;キー&lt;/KEYM&gt;</original>
+    <original>救済を中断する：&lt;PADM&gt;&lt;ICON PAD_RD&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;キー&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>hud_commontext_cs_button_square</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;クリック&lt;/KEYM&gt;</original>
+    <original>&lt;PADM&gt;&lt;ICON PAD_RL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;クリック&lt;/KEYM&gt;</original>
   </message>
   <message>
     <key>hud_commontext_cs_button_triangle</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON PAD_RU&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;クリック&lt;/KEYM&gt;</original>
+    <original>&lt;PADM&gt;&lt;ICON PAD_RU&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;クリック&lt;/KEYM&gt;</original>
   </message>
 </resource>

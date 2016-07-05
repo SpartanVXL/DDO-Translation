@@ -1,12 +1,12 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>net_signout_return_l</key>
-    <original xml:space="preserve">認証サーバーとの接続が切れました
+    <original>認証サーバーとの接続が切れました
 ランチャーに戻ります</original>
   </message>
   <message>
     <key>net_non_connect_lan_return_l_common</key>
-    <original xml:space="preserve">インターネットへの接続が確認できません
+    <original>インターネットへの接続が確認できません
 インターネット接続が切断されたか、
 接続されていない可能性があります
 
@@ -16,83 +16,83 @@
   </message>
   <message>
     <key>net_network_cancel_return_l_common</key>
-    <original xml:space="preserve">ネットワークの開始がキャンセルされました
+    <original>ネットワークの開始がキャンセルされました
 ランチャーに戻ります</original>
   </message>
   <message>
     <key>net_network_ng_return_l_common</key>
-    <original xml:space="preserve">ネットワークの開始に失敗しました
+    <original>ネットワークの開始に失敗しました
 ランチャーに戻ります</original>
   </message>
   <message>
     <key>net_network_error_common</key>
-    <original xml:space="preserve">通信エラーが発生しました</original>
+    <original>通信エラーが発生しました</original>
   </message>
   <message>
     <key>net_network_error_return_t_common</key>
-    <original xml:space="preserve">通信エラーが発生しました
+    <original>通信エラーが発生しました
 タイトル画面に戻ります</original>
   </message>
   <message>
     <key>net_network_error_return_l_common</key>
-    <original xml:space="preserve">通信エラーが発生しました
+    <original>通信エラーが発生しました
 ランチャーに戻ります</original>
   </message>
   <message>
     <key>net_server_error_common</key>
-    <original xml:space="preserve">サーバーとの接続に失敗しました</original>
-    <translation xml:space="preserve">Failed to connect to the server</translation>
+    <original>サーバーとの接続に失敗しました</original>
+    <translation>Failed to connect to the server</translation>
   </message>
   <message>
     <key>net_server_error_return_l_common</key>
-    <original xml:space="preserve">サーバーとの接続に失敗しました
+    <original>サーバーとの接続に失敗しました
 ランチャーに戻ります</original>
-    <translation xml:space="preserve">Failed to connect to the server
+    <translation>Failed to connect to the server
 Exiting to launcher</translation>
   </message>
   <message>
     <key>net_server_error_return_t_common</key>
-    <original xml:space="preserve">サーバーから切断されました
+    <original>サーバーから切断されました
 タイトル画面に戻ります</original>
   </message>
   <message>
     <key>net_login_error_common</key>
-    <original xml:space="preserve">ログインに失敗しました</original>
+    <original>ログインに失敗しました</original>
   </message>
   <message>
     <key>net_login_error_return_l_common</key>
-    <original xml:space="preserve">ログインに失敗しました
+    <original>ログインに失敗しました
 ランチャーに戻ります</original>
   </message>
   <message>
     <key>net_server_error_back_t_common</key>
-    <original xml:space="preserve">サーバーから切断されました
+    <original>サーバーから切断されました
 タイトル画面に戻ります</original>
   </message>
   <message>
     <key>net_server_timeout_back_t_common</key>
-    <original xml:space="preserve">サーバーとの接続がタイムアウトになりました
+    <original>サーバーとの接続がタイムアウトになりました
 タイトル画面に戻ります</original>
   </message>
   <message>
     <key>net_version_error_back_l_common</key>
-    <original xml:space="preserve">更新データが見つかりました
+    <original>更新データが見つかりました
 アップデートする必要がありますので
 ランチャー画面へ戻ります</original>
   </message>
   <message>
     <key>net_autologout</key>
-    <original xml:space="preserve">長時間、操作が行われなかったため
+    <original>長時間、操作が行われなかったため
 サーバーとの接続が切断されました
 タイトル画面に戻ります</original>
   </message>
   <message>
     <key>net_signout_return_l_keep</key>
-    <original xml:space="preserve">認証サーバーとの接続が切れました</original>
+    <original>認証サーバーとの接続が切れました</original>
   </message>
   <message>
     <key>net_non_connect_lan_return_l_common_keep</key>
-    <original xml:space="preserve">インターネットへの接続が確認できません
+    <original>インターネットへの接続が確認できません
 インターネット接続が切断されたか、
 接続されていない可能性があります
 
@@ -101,24 +101,24 @@ Exiting to launcher</translation>
   </message>
   <message>
     <key>net_server_error_return_t_common_keep</key>
-    <original xml:space="preserve">サーバーから切断されました</original>
+    <original>サーバーから切断されました</original>
   </message>
   <message>
     <key>net_server_error_back_t_common_keep</key>
-    <original xml:space="preserve">サーバーから切断されました</original>
+    <original>サーバーから切断されました</original>
   </message>
   <message>
     <key>net_server_timeout_back_t_common_keep</key>
-    <original xml:space="preserve">サーバーとの接続がタイムアウトになりました</original>
+    <original>サーバーとの接続がタイムアウトになりました</original>
   </message>
   <message>
     <key>net_autologout_keep</key>
-    <original xml:space="preserve">長時間、操作が行われなかったため
+    <original>長時間、操作が行われなかったため
 サーバーとの接続が切断されました</original>
   </message>
   <message>
     <key>net_edit_keep</key>
-    <original xml:space="preserve">サーバーと接続されていないため
+    <original>サーバーと接続されていないため
 これ以上ゲームを進行することができません
 
 現在のエディット情報をPC本体に

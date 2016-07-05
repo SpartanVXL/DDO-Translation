@@ -1,46 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pawnreview_msg_title_e</key>
-    <original xml:space="preserve">Pawn Review</original>
+    <original>Pawn Review</original>
   </message>
   <message>
     <key>pawnreview_msg_title_j</key>
-    <original xml:space="preserve">ポーン評価</original>
-    <translation xml:space="preserve">Pawn Review</translation>
+    <original>ポーン評価</original>
+    <translation>Pawn Review</translation>
   </message>
   <message>
     <key>pawnreview_msg_looks_review</key>
-    <original xml:space="preserve">外見評価</original>
-    <translation xml:space="preserve">Appearance Rating</translation>
+    <original>外見評価</original>
+    <translation>Appearance Rating</translation>
   </message>
   <message>
     <key>pawnreview_msg_battle_review</key>
-    <original xml:space="preserve">冒険評価</original>
-    <translation xml:space="preserve">Combat Rating</translation>
+    <original>冒険評価</original>
+    <translation>Combat Rating</translation>
   </message>
   <message>
     <key>pawnreview_msg_craft_review</key>
-    <original xml:space="preserve">クラフト評価</original>
-    <translation xml:space="preserve">Craft Rating</translation>
+    <original>クラフト評価</original>
+    <translation>Craft Rating</translation>
   </message>
   <message>
     <key>pawnreview_msg_num_battle</key>
-    <original xml:space="preserve">冒険回数:</original>
-    <translation xml:space="preserve">Battle Count:</translation>
+    <original>冒険回数:</original>
+    <translation>Battle Count:</translation>
   </message>
   <message>
     <key>pawnreview_msg_num_craft</key>
-    <original xml:space="preserve">クラフト回数:</original>
-    <translation xml:space="preserve">Craft Count:</translation>
+    <original>クラフト回数:</original>
+    <translation>Craft Count:</translation>
   </message>
   <message>
     <key>pawnreview_msg_choice_return</key>
-    <original xml:space="preserve">評価して返却</original>
-    <translation xml:space="preserve">Return as rated</translation>
+    <original>評価して返却</original>
+    <translation>Return as rated</translation>
   </message>
   <message>
     <key>pawnreview_msg_choice_cancel</key>
-    <original xml:space="preserve">キャンセル</original>
-    <translation xml:space="preserve">Cancel</translation>
+    <original>キャンセル</original>
+    <translation>Cancel</translation>
   </message>
 </resource>

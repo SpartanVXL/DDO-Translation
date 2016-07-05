@@ -1,269 +1,269 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>menu_item</key>
-    <original xml:space="preserve">アイテムバッグ</original>
-    <translation xml:space="preserve">Item Bag</translation>
+    <original>アイテムバッグ</original>
+    <translation>Item Bag</translation>
   </message>
   <message>
     <key>menu_key_item</key>
-    <original xml:space="preserve">キーアイテム</original>
-    <translation xml:space="preserve">Key Items</translation>
+    <original>キーアイテム</original>
+    <translation>Key Items</translation>
   </message>
   <message>
     <key>menu_equip_status</key>
-    <original xml:space="preserve">ステータス・装備</original>
-    <translation xml:space="preserve">Status / Equipment</translation>
+    <original>ステータス・装備</original>
+    <translation>Status / Equipment</translation>
   </message>
   <message>
     <key>menu_newspaper</key>
-    <original xml:space="preserve">レスタニアニュース</original>
-    <translation xml:space="preserve">Lestania News</translation>
+    <original>レスタニアニュース</original>
+    <translation>Lestania News</translation>
   </message>
   <message>
     <key>menu_quest</key>
-    <original xml:space="preserve">クエストログ</original>
-    <translation xml:space="preserve">Quest Log</translation>
+    <original>クエストログ</original>
+    <translation>Quest Log</translation>
   </message>
   <message>
     <key>menu_master</key>
-    <original xml:space="preserve">ジョブ修練ログ</original>
-    <translation xml:space="preserve">Job Training Log</translation>
+    <original>ジョブ修練ログ</original>
+    <translation>Job Training Log</translation>
   </message>
   <message>
     <key>menu_tutorial</key>
-    <original xml:space="preserve">チュートリアルガイド</original>
-    <translation xml:space="preserve">Tutorial</translation>
+    <original>チュートリアルガイド</original>
+    <translation>Tutorial</translation>
   </message>
   <message>
     <key>menu_map</key>
-    <original xml:space="preserve">マップ</original>
-    <translation xml:space="preserve">Map</translation>
+    <original>マップ</original>
+    <translation>Map</translation>
   </message>
   <message>
     <key>menu_lobby</key>
-    <original xml:space="preserve">ロビー情報</original>
-    <translation xml:space="preserve">Lobby Information</translation>
+    <original>ロビー情報</original>
+    <translation>Lobby Information</translation>
   </message>
   <message>
     <key>menu_rim_transport</key>
-    <original xml:space="preserve">リム転移</original>
-    <translation xml:space="preserve">Rift Teleport</translation>
+    <original>リム転移</original>
+    <translation>Rift Teleport</translation>
   </message>
   <message>
     <key>menu_party</key>
-    <original xml:space="preserve">パーティー管理</original>
-    <translation xml:space="preserve">Party</translation>
+    <original>パーティー管理</original>
+    <translation>Party</translation>
   </message>
   <message>
     <key>menu_clan</key>
-    <original xml:space="preserve">クランステータス</original>
-    <translation xml:space="preserve">Clan</translation>
+    <original>クランステータス</original>
+    <translation>Clan</translation>
   </message>
   <message>
     <key>menu_community</key>
-    <original xml:space="preserve">コミュニティリスト</original>
-    <translation xml:space="preserve">Community List</translation>
+    <original>コミュニティリスト</original>
+    <translation>Community List</translation>
   </message>
   <message>
     <key>menu_photo</key>
-    <original xml:space="preserve">フォトモード</original>
-    <translation xml:space="preserve">Photo Mode</translation>
+    <original>フォトモード</original>
+    <translation>Photo Mode</translation>
   </message>
   <message>
     <key>menu_gp_charge</key>
-    <original xml:space="preserve">黄金石の確認</original>
-    <translation xml:space="preserve">GP Charge</translation>
+    <original>黄金石の確認</original>
+    <translation>GP Charge</translation>
   </message>
   <message>
     <key>menu_option_sys</key>
-    <original xml:space="preserve">デバイス設定</original>
-    <translation xml:space="preserve">System Config</translation>
+    <original>デバイス設定</original>
+    <translation>System Config</translation>
   </message>
   <message>
     <key>menu_manual</key>
-    <original xml:space="preserve">プレイマニュアル</original>
-    <translation xml:space="preserve">Manual</translation>
+    <original>プレイマニュアル</original>
+    <translation>Manual</translation>
   </message>
   <message>
     <key>menu_support</key>
-    <original xml:space="preserve">サポート・報告</original>
-    <translation xml:space="preserve">Support / Report</translation>
+    <original>サポート・報告</original>
+    <translation>Support / Report</translation>
   </message>
   <message>
     <key>menu_license</key>
-    <original xml:space="preserve">ライセンス</original>
-    <translation xml:space="preserve">License</translation>
+    <original>ライセンス</original>
+    <translation>License</translation>
   </message>
   <message>
     <key>menu_shut_down</key>
-    <original xml:space="preserve">ゲーム中断</original>
-    <translation xml:space="preserve">Exit</translation>
+    <original>ゲーム中断</original>
+    <translation>Exit</translation>
   </message>
   <message>
     <key>menu_gp_status</key>
-    <original xml:space="preserve">オンラインステーション</original>
-    <translation xml:space="preserve">GP Status</translation>
+    <original>オンラインステーション</original>
+    <translation>GP Status</translation>
   </message>
   <message>
     <key>menu_gp_shop</key>
-    <original xml:space="preserve">オンラインショップ</original>
-    <translation xml:space="preserve">Online Shop</translation>
+    <original>オンラインショップ</original>
+    <translation>Online Shop</translation>
   </message>
   <message>
     <key>menu_matching_profile</key>
-    <original xml:space="preserve">プロフィール編集</original>
-    <translation xml:space="preserve">Edit Profile</translation>
+    <original>プロフィール編集</original>
+    <translation>Edit Profile</translation>
   </message>
   <message>
     <key>menu_ls</key>
-    <original xml:space="preserve">グループチャット</original>
-    <translation xml:space="preserve">Group Chat</translation>
+    <original>グループチャット</original>
+    <translation>Group Chat</translation>
   </message>
   <message>
     <key>menu_arisen_card</key>
-    <original xml:space="preserve">覚者プロフィール</original>
-    <translation xml:space="preserve">Arisen Profile</translation>
+    <original>覚者プロフィール</original>
+    <translation>Arisen Profile</translation>
   </message>
   <message>
     <key>menu_my_fixed_pattern</key>
-    <original xml:space="preserve">マイ定型文</original>
-    <translation xml:space="preserve">My Phrases</translation>
+    <original>マイ定型文</original>
+    <translation>My Phrases</translation>
   </message>
   <message>
     <key>menu_fixed_pattern</key>
-    <original xml:space="preserve">定型文</original>
-    <translation xml:space="preserve">Phrases</translation>
+    <original>定型文</original>
+    <translation>Phrases</translation>
   </message>
   <message>
     <key>menu_emote</key>
-    <original xml:space="preserve">エモート</original>
-    <translation xml:space="preserve">Emotes</translation>
+    <original>エモート</original>
+    <translation>Emotes</translation>
   </message>
   <message>
     <key>menu_mail</key>
-    <original xml:space="preserve">メール</original>
-    <translation xml:space="preserve">Mail</translation>
+    <original>メール</original>
+    <translation>Mail</translation>
   </message>
   <message>
     <key>menu_pawn</key>
-    <original xml:space="preserve">ポーン</original>
-    <translation xml:space="preserve">Pawn</translation>
+    <original>ポーン</original>
+    <translation>Pawn</translation>
   </message>
   <message>
     <key>menu_pawn_command</key>
-    <original xml:space="preserve">ポーン命令</original>
-    <translation xml:space="preserve">Pawn Order</translation>
+    <original>ポーン命令</original>
+    <translation>Pawn Order</translation>
   </message>
   <message>
     <key>menu_achievement</key>
-    <original xml:space="preserve">アチーブメント</original>
-    <translation xml:space="preserve">Achievements</translation>
+    <original>アチーブメント</original>
+    <translation>Achievements</translation>
   </message>
   <message>
     <key>menu_server_change</key>
-    <original xml:space="preserve">ワールド変更</original>
-    <translation xml:space="preserve">World Select</translation>
+    <original>ワールド変更</original>
+    <translation>World Select</translation>
   </message>
   <message>
     <key>menu_exit_contents</key>
-    <original xml:space="preserve">コンテンツ中断</original>
-    <translation xml:space="preserve">Exit Content</translation>
+    <original>コンテンツ中断</original>
+    <translation>Exit Content</translation>
   </message>
   <message>
     <key>menu_option_chr</key>
-    <original xml:space="preserve">ゲーム設定</original>
-    <translation xml:space="preserve">Game Config</translation>
+    <original>ゲーム設定</original>
+    <translation>Game Config</translation>
   </message>
   <message>
     <key>menu_area_infomation</key>
-    <original xml:space="preserve">エリアリスト</original>
-    <translation xml:space="preserve">Area List</translation>
+    <original>エリアリスト</original>
+    <translation>Area List</translation>
   </message>
   <message>
     <key>menu_deli_box</key>
-    <original xml:space="preserve">アイテムポスト</original>
-    <translation xml:space="preserve">Item Post</translation>
+    <original>アイテムポスト</original>
+    <translation>Item Post</translation>
   </message>
   <message>
     <key>menu_photo_album</key>
-    <original xml:space="preserve">フォトアルバム</original>
-    <translation xml:space="preserve">Photo Albums</translation>
+    <original>フォトアルバム</original>
+    <translation>Photo Albums</translation>
   </message>
   <message>
     <key>menu_code</key>
-    <original xml:space="preserve">イベントコード入力</original>
-    <translation xml:space="preserve">Enter Event Code</translation>
+    <original>イベントコード入力</original>
+    <translation>Enter Event Code</translation>
   </message>
   <message>
     <key>menu_login_bonus</key>
-    <original xml:space="preserve">スタンプボーナス確認</original>
-    <translation xml:space="preserve">Check Stamp Bonus</translation>
+    <original>スタンプボーナス確認</original>
+    <translation>Check Stamp Bonus</translation>
   </message>
   <message>
     <key>menu_confirm_go_title</key>
-    <original xml:space="preserve">ゲームを中断してタイトル画面に戻ります
+    <original>ゲームを中断してタイトル画面に戻ります
 よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to exit to the title?</translation>
+    <translation>Are you sure you want to exit to the title?</translation>
   </message>
   <message>
     <key>menu_confirm_go_launcher</key>
-    <original xml:space="preserve">ログアウトしてランチャー画面に戻ります
+    <original>ログアウトしてランチャー画面に戻ります
 よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to exit to the launcher?</translation>
+    <translation>Are you sure you want to exit to the launcher?</translation>
   </message>
   <message>
     <key>menu_confirm_shutdown</key>
-    <original xml:space="preserve">ログアウトしてゲームを終了します
+    <original>ログアウトしてゲームを終了します
 よろしいですか？</original>
-    <translation xml:space="preserve">Are you sure you want to exit the game?</translation>
+    <translation>Are you sure you want to exit the game?</translation>
   </message>
   <message>
     <key>menu_quit_select_shutdown</key>
-    <original xml:space="preserve">ログアウトしてゲームを終了する</original>
-    <translation xml:space="preserve">Exit Game</translation>
+    <original>ログアウトしてゲームを終了する</original>
+    <translation>Exit Game</translation>
   </message>
   <message>
     <key>menu_quit_select_go_title</key>
-    <original xml:space="preserve">タイトルに戻る</original>
-    <translation xml:space="preserve">Exit to Title</translation>
+    <original>タイトルに戻る</original>
+    <translation>Exit to Title</translation>
   </message>
   <message>
     <key>menu_quit_select_go_launcher</key>
-    <original xml:space="preserve">ログアウトしてランチャーに戻る</original>
-    <translation xml:space="preserve">Exit to Launcher</translation>
+    <original>ログアウトしてランチャーに戻る</original>
+    <translation>Exit to Launcher</translation>
   </message>
   <message>
     <key>menu_gacha</key>
-    <original xml:space="preserve">トレジャーズロット</original>
-    <translation xml:space="preserve">Treasure Lot</translation>
+    <original>トレジャーズロット</original>
+    <translation>Treasure Lot</translation>
   </message>
   <message>
     <key>menu_serch_player</key>
-    <original xml:space="preserve">プレイヤー検索</original>
-    <translation xml:space="preserve">Player Search</translation>
+    <original>プレイヤー検索</original>
+    <translation>Player Search</translation>
   </message>
   <message>
     <key>menu_entryboard</key>
-    <original xml:space="preserve">エントリーボード</original>
-    <translation xml:space="preserve">Entryboard</translation>
+    <original>エントリーボード</original>
+    <translation>Entryboard</translation>
   </message>
   <message>
     <key>menu_quick_party</key>
-    <original xml:space="preserve">クイックパーティー</original>
-    <translation xml:space="preserve">Quick Party</translation>
+    <original>クイックパーティー</original>
+    <translation>Quick Party</translation>
   </message>
   <message>
     <key>menu_caplink</key>
-    <original xml:space="preserve">カプリンク</original>
-    <translation xml:space="preserve">Caplink</translation>
+    <original>カプリンク</original>
+    <translation>Caplink</translation>
   </message>
   <message>
     <key>menu_ps_items</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>menu_clan_management</key>
-    <original xml:space="preserve">クラン管理</original>
-    <translation xml:space="preserve">Clan Management</translation>
+    <original>クラン管理</original>
+    <translation>Clan Management</translation>
   </message>
 </resource>

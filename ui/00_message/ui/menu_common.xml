@@ -1,85 +1,85 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>menu_cmn_skill_grand</key>
-    <original xml:space="preserve">地上</original>
-    <translation xml:space="preserve">Ground</translation>
+    <original>地上</original>
+    <translation>Ground</translation>
   </message>
   <message>
     <key>menu_cmn_skill_air</key>
-    <original xml:space="preserve">空中</original>
-    <translation xml:space="preserve">Air</translation>
+    <original>空中</original>
+    <translation>Air</translation>
   </message>
   <message>
     <key>menu_cmn_skill_climb</key>
-    <original xml:space="preserve">しがみつき</original>
-    <translation xml:space="preserve">Climb</translation>
+    <original>しがみつき</original>
+    <translation>Climb</translation>
   </message>
   <message>
     <key>menu_cmn_weight_verylight</key>
-    <original xml:space="preserve">Very Light</original>
+    <original>Very Light</original>
   </message>
   <message>
     <key>menu_cmn_weight_light</key>
-    <original xml:space="preserve">Light</original>
+    <original>Light</original>
   </message>
   <message>
     <key>menu_cmn_weight_medium</key>
-    <original xml:space="preserve">Medium</original>
+    <original>Medium</original>
   </message>
   <message>
     <key>menu_cmn_weight_heavy</key>
-    <original xml:space="preserve">Heavy</original>
+    <original>Heavy</original>
   </message>
   <message>
     <key>menu_cmn_weight_beryheavy</key>
-    <original xml:space="preserve">Very Heavy</original>
+    <original>Very Heavy</original>
   </message>
   <message>
     <key>menu_cmn_weight_over</key>
-    <original xml:space="preserve">Over</original>
+    <original>Over</original>
   </message>
   <message>
     <key>menu_cmn_next</key>
-    <original xml:space="preserve">Next</original>
+    <original>Next</original>
   </message>
   <message>
     <key>menu_cmn_cost</key>
-    <original xml:space="preserve">Cost</original>
+    <original>Cost</original>
   </message>
   <message>
     <key>menu_cmn_hp</key>
-    <original xml:space="preserve">HP</original>
+    <original>HP</original>
   </message>
   <message>
     <key>menu_cmn_stamina</key>
-    <original xml:space="preserve">ST</original>
+    <original>ST</original>
   </message>
   <message>
     <key>menu_cmn_max</key>
-    <original xml:space="preserve">MAX</original>
+    <original>MAX</original>
   </message>
   <message>
     <key>menu_cmn_si_height</key>
-    <original xml:space="preserve">&lt;VAL&gt; cm</original>
+    <original>&lt;VAL&gt; cm</original>
   </message>
   <message>
     <key>menu_cmn_job</key>
-    <original xml:space="preserve">Job</original>
+    <original>Job</original>
   </message>
   <message>
     <key>menu_cmn_category</key>
-    <original xml:space="preserve">Category</original>
+    <original>Category</original>
   </message>
   <message>
     <key>menu_cmn_slash_val</key>
-    <original xml:space="preserve">/&lt;VAL&gt;</original>
+    <original>/&lt;VAL&gt;</original>
   </message>
   <message>
     <key>menu_cmn_val_slash_val</key>
-    <original xml:space="preserve">&lt;VAL&gt;/&lt;VAL&gt;</original>
+    <original>&lt;VAL&gt;/&lt;VAL&gt;</original>
   </message>
   <message>
     <key>menu_cmn_slash</key>
-    <original xml:space="preserve">/</original>
+    <original>/</original>
   </message>
 </resource>

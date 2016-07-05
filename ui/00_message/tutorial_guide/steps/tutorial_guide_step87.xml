@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_97</key>
-    <original xml:space="preserve">&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー《キャラクター》の
+    <original>&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニュー《キャラクター》の
 &lt;COL ffdc78&gt;《ステータス・装備》&lt;/COL&gt;から
 装備品の付け替えや詳細確認ができます
 
@@ -12,7 +12,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_235</key>
-    <original xml:space="preserve">装備できる品はジョブやレベル、性別により
+    <original>装備できる品はジョブやレベル、性別により
 制限があります
 
 &lt;COL ffdc78&gt;ジョブとレベルに見合った武器や防具を

@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_29</key>
-    <original xml:space="preserve">クエストは一度に受注できる数に制限があります
+    <original>クエストは一度に受注できる数に制限があります
 &lt;COL ffdc78&gt;同時受注できるのは１０件&lt;/COL&gt;ですのでご注意ください
 
 制限数いっぱいまで受注してしまった場合、
@@ -13,7 +13,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_28</key>
-    <original xml:space="preserve">ですがワールドクエストにおいて
+    <original>ですがワールドクエストにおいて
 突発的な敵討伐クエストに巻き込まれ、
 自動受注する場合がありえます
 
@@ -26,7 +26,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_323</key>
-    <original xml:space="preserve">注意点として、《受注待ち》をストックした状態で
+    <original>注意点として、《受注待ち》をストックした状態で
 他プレイヤーのパーティーに参加すると
 自身の《受注待ち》は自動的に破棄されます</original>
   </message>
