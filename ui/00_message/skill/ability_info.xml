@@ -47,7 +47,8 @@ allowing it to break enemy posture more easily.
     <original xml:space="preserve">瀕死状態中に回復魔法を受けたとき
 体力回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に回復速度がより上昇&lt;/COL&gt;</original>
-    <translation xml:space="preserve">While in a near-death state, increases health recovery speed when affected by healing spells.
+    <translation xml:space="preserve">While in a near-death state, increases 
+health recovery speed when affected by healing spells.
 &lt;COL ffdc78&gt;LV UP: Further increases recovery speed.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -55,14 +56,16 @@ allowing it to break enemy posture more easily.
     <original xml:space="preserve">リベンジゲージ満了時、魔人斬り、真・魔人斬りで
 繰り出す初動攻撃の吹き飛ばし力が増加する
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">When your Revenge Gauge is consumed, your Demon Slayer and True Demon Slayer's intial quake has increased Blow Power.
+    <translation xml:space="preserve">When your Revenge Gauge is consumed, your 
+Demon Slayer and True Demon Slayer's intial quake has increased Blow Power.
 &lt;COL ffdc78&gt;LV UP: Further increases Blow Power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_205</key>
     <original xml:space="preserve">アルケム・フーガ成功時にスタミナが回復する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Recovers your stamina upon a successful Alchem Fuga.
+    <translation xml:space="preserve">Recovers your stamina upon a successful Alchem 
+Fuga.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovery.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -70,7 +73,8 @@ allowing it to break enemy posture more easily.
     <original xml:space="preserve">トゲや鍾乳石などの危険物との接触時に
 受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Reduces damage from hazards such as spikes or stalactites.
+    <translation xml:space="preserve">Reduces damage from hazards such as spikes 
+or stalactites.
 &lt;COL ffdc78&gt;LV UP: Further reduces damage taken.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -127,7 +131,9 @@ staggered while rolling.
     <original xml:space="preserve">瀕死状態中に生命力が増加し、
 体力の治癒上限値が下がりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に生命治癒力がより増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">While in a near-death state, increases maximum health and decreases the likelihood of maximum recoverable health lowering.
+    <translation xml:space="preserve">While in a near-death state, increases
+health and decreases the likelihood of 
+maximum recoverable health lowering.
 &lt;COL ffdc78&gt;LV UP: Further increases health recovery.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -135,7 +141,9 @@ staggered while rolling.
     <original xml:space="preserve">体力が一定量以上のとき
 耐久力が上昇し、体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐久力がより増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">When your health is above a certain amount, increases your poise and makes you harder to stagger.
+    <translation xml:space="preserve">When your health is above a certain amount, 
+increases your poise and makes you 
+harder to stagger.
 &lt;COL ffdc78&gt;LV UP: Further increases poise.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -150,7 +158,8 @@ staggered while rolling.
     <original xml:space="preserve">鉱泉に浸かったときの
 効能持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Increases the effect length of mineral spring baths.
+    <translation xml:space="preserve">Increases the effect length of mineral 
+spring baths.
 &lt;COL ffdc78&gt;LV UP: Further increases effect length.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -215,14 +224,16 @@ generates enemy attention.
     <original xml:space="preserve">魔人斬り、真・魔人斬りの溜め満了
 ジャストタイミングが延長され、成功率が上がる
 &lt;COL ffdc78&gt;LV UP毎に受付時間がより延長&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Extends the just timing window for Demon Slash and True Demon Slash.
+    <translation xml:space="preserve">Extends the just timing window for 
+Demon Slash and True Demon Slash.
 &lt;COL ffdc78&gt;LV UP: Further extends window.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_214</key>
     <original xml:space="preserve">瀕死状態中のスタミナ回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復速度がより上昇&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Increases stamina recovery when you stand at death's door.
+    <translation xml:space="preserve">Increases stamina recovery when you 
+stand at death's door.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovery.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -289,7 +300,8 @@ chant gauge further.&lt;/COL&gt;</translation>
     <original xml:space="preserve">炎属性攻撃を対象に当てた際
 延焼の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Increases chance to cause burning when attacking enemies with fire element attacks.
+    <translation xml:space="preserve">Increases chance to cause burning when attacking 
+enemies with fire element attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases burning chance.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -297,21 +309,24 @@ chant gauge further.&lt;/COL&gt;</translation>
     <original xml:space="preserve">瀕死状態中に
 耐久力が上昇し、体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐久力がより増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Increases poise and reduces your chance to be staggered when you stand at death's door.
+    <translation xml:space="preserve">Increases poise and reduces your chance to be 
+staggered when you stand at death's door.
 &lt;COL ffdc78&gt;LV UP: Further increases poise.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_218</key>
     <original xml:space="preserve">スタミナ切れ時の無防備時間が短縮される
 &lt;COL ffdc78&gt;LV UP毎に無防備時間さらに短縮&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Decreases the time in which you are defenseless after your stamina is depleted.
+    <translation xml:space="preserve">Decreases the time in which you are 
+defenseless after your stamina is depleted.
 &lt;COL ffdc78&gt;LV UP: Further decreases defenseless duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_228</key>
     <original xml:space="preserve">マップ上のアイテム採取ポイント
 表示範囲が拡大する</original>
-    <translation xml:space="preserve">Increases the range at which gathering points will display on the map.</translation>
+    <translation xml:space="preserve">Increases the range at which gathering points 
+will display on the map.</translation>
   </message>
   <message>
     <key>ABILITY_INFO_1</key>
@@ -367,14 +382,16 @@ by another person.
     <original xml:space="preserve">氷属性攻撃を対象に当てた際
 凍結の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Increases chance to cause freezing when attacking enemies with ice element attacks.
+    <translation xml:space="preserve">Increases chance to cause freezing when attacking 
+enemies with ice element attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases freezing chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_177</key>
     <original xml:space="preserve">瀕死状態でリベンジゲージがたまりやすくなる
 &lt;COL ffdc78&gt;LV UP毎にゲージ蓄積量がより増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Your revenge gauge fills more easily when you stand at death's door.
+    <translation xml:space="preserve">Your revenge gauge fills more easily when you
+stand at death's door.
 &lt;COL ffdc78&gt;LV UP: Gauge fills even faster.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -382,7 +399,8 @@ by another person.
     <original xml:space="preserve">アルケム・フーガで配置される錬成物質の
 持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に持続時間がより延長&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Extends the duration of the refining material left by Alchem Fuga.
+    <translation xml:space="preserve">Extends the duration of the catalyst left by 
+Alchem Fuga.
 &lt;COL ffdc78&gt;LV UP: Further extends duration.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -448,7 +466,8 @@ Giant enemies.
     <original xml:space="preserve">ダメージを受けた際に
 治癒上限値が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に治癒上限値をさらに維持&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Slows the rate at which your maximum recoverable health decreases from attacks.
+    <translation xml:space="preserve">Slows the rate at which your maximum 
+recoverable health decreases from attacks.
 &lt;COL ffdc78&gt;LV UP: Further slows rate of decrease.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -456,14 +475,17 @@ Giant enemies.
     <original xml:space="preserve">瀕死状態中に
 気絶攻力が上昇し、敵を気絶させやすくなる
 &lt;COL ffdc78&gt;LV UP毎に気絶攻力がより増加&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Increases your stun power when you stand at death's door, allowing you to more easily stun enemies.
+    <translation xml:space="preserve">Increases your stun power when you stand at 
+death's door, allowing you to more easily 
+stun enemies.
 &lt;COL ffdc78&gt;LV UP: Further inreases stun power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_208</key>
     <original xml:space="preserve">攻撃をヒットさせても敵から注目されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に敵からの注目度さらに軽減&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Decreases your threat generation even when attacking enemies.
+    <translation xml:space="preserve">Decreases your threat generation even
+when attacking enemies.
 &lt;COL ffdc78&gt;LV UP: Further decreases threat generation.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -471,7 +493,8 @@ Giant enemies.
     <original xml:space="preserve">一定時間、特殊効果が付与されるアイテムの
 効果持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation xml:space="preserve">For a certain period, extends the duration of effects granted by items.
+    <translation xml:space="preserve">For a certain period, extends the 
+duration of effects granted by items.
 &lt;COL ffdc78&gt;LV UP: Further extends duration.&lt;/COL&gt;</translation>
   </message>
   <message>
