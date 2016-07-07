@@ -42,11 +42,12 @@
   <message>
     <key>title_fee_e</key>
     <original>Reward Box</original>
+    <translation>Reward Box</translation>
   </message>
   <message>
     <key>title_fee</key>
     <original>報酬ボックス</original>
-    <translation>Compensation Box</translation>
+    <translation>Reward Box</translation>
   </message>
   <message>
     <key>title_strage</key>
@@ -96,6 +97,7 @@
   <message>
     <key>item_title_item_en</key>
     <original>Item Bag</original>
+    <translation>Item Bag</translation>
   </message>
   <message>
     <key>item_title_item_jp</key>
@@ -105,16 +107,17 @@
   <message>
     <key>itempost_title_itempost_en</key>
     <original>Item Post</original>
+    <translation>Item Post</translation>
   </message>
   <message>
     <key>itempost_title_itempost_jp</key>
     <original>アイテムポスト</original>
-    <translation>Items Post</translation>
+    <translation>Item Post</translation>
   </message>
   <message>
     <key>option_send_bag</key>
     <original>アイテムバッグに送る</original>
-    <translation>Send to Bag</translation>
+    <translation>Send to Item Bag</translation>
   </message>
   <message>
     <key>option_send_box</key>
@@ -154,12 +157,12 @@
   <message>
     <key>item_msg_pop_exchange</key>
     <original>交換</original>
-    <translation>Exchange</translation>
+    <translation>Swap</translation>
   </message>
   <message>
     <key>item_msg_pop_unexchangeable</key>
     <original>交換不可</original>
-    <translation>Cannot be exchanged</translation>
+    <translation>Cannot be swapped</translation>
   </message>
   <message>
     <key>item_msg_pop_move</key>
@@ -169,19 +172,22 @@
   <message>
     <key>item_title_storage_en</key>
     <original>Storage Box</original>
+    <translation>Storage Box</translation>
   </message>
   <message>
     <key>item_title_sell_en</key>
     <original>Sell</original>
+    <translation>Sell</translation>
   </message>
   <message>
     <key>item_title_keyitem_en</key>
     <original>Key Item</original>
+    <translation>Key Item</translation>
   </message>
   <message>
     <key>item_msg_guid_tostorage</key>
     <original>保管ボックスに移動</original>
-    <translation>Move to storage box</translation>
+    <translation>Go to Storage Box</translation>
   </message>
   <message>
     <key>item_btnguide_buy</key>
@@ -206,34 +212,43 @@
   <message>
     <key>item_title_depositbox_en</key>
     <original>Storage Chest</original>
+    <translation>Storage Chest</translation>
   </message>
   <message>
     <key>item_title_depositbox_jp</key>
     <original>格納チェスト</original>
+    <translation>Storage Chest</translation>
   </message>
   <message>
     <key>option_send_depositbox</key>
     <original>格納チェストに送る</original>
+    <translation>Send to Storage Chest</translation>
   </message>
   <message>
     <key>item_msg_guid_todeposit</key>
     <original>格納チェストに移動</original>
+    <translation>Go to Storage Chest</translation>
   </message>
   <message>
     <key>item_btnguide_select_all</key>
     <original>全選択</original>
+    <translation>Select All</translation>
   </message>
   <message>
     <key>item_btnguide_select_all_cancel</key>
     <original>全選択解除</original>
+    <translation>Deselect All</translation>
   </message>
   <message>
     <key>submenu_jump_onlineshop</key>
     <original>オンラインショップを開く</original>
+    <translation>Open the Online Shop</translation>
   </message>
   <message>
     <key>item_conf_jump_onlineshop</key>
     <original>オンラインショップを開きます
 よろしいですか？</original>
+	<translation>Are you sure you want to
+open the Online Shop?</translation>
   </message>
 </resource>

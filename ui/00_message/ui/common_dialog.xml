@@ -760,7 +760,7 @@ you cannot register this Portcrystal.</translation>
     <key>ana_pt_warp_begin</key>
     <original>&lt;NAME TARGET&gt;が＜&lt;VAL&gt;＞にリム転移しました
 &lt;VAL PARTY_WARP_SEC&gt;秒の間、同行リム転移が可能です</original>
-    <translation>&lt;NAME TARGET&gt; has teleported to ＜&lt;VAL&gt;＞.
+    <translation>&lt;NAME TARGET&gt; has teleported to "&lt;VAL&gt;".
 Within &lt;VAL PARTY_WARP_SEC&gt; seconds, you can teleport with them.</translation>
   </message>
   <message>
@@ -780,7 +780,7 @@ you cannot unlock the Portcrystal.</translation>
   <message>
     <key>ana_warp_disable_battle</key>
     <original>戦闘中は使用できません</original>
-    <translation>You cannot teleport during battle.</translation>
+    <translation>You cannot teleport during combat.</translation>
   </message>
   <message>
     <key>ana_warp_disable_large_party</key>
@@ -1457,7 +1457,7 @@ Are you sure?</translation>
   <message>
     <key>ana_itembox_submenu_tooltip_sendspbox_nonsp</key>
     <original>拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation>Storage expansion is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
+    <translation>Storage expansion is available with the effect of "&lt;OPCS&gt;".</translation>
   </message>
   <message>
     <key>ana_itembox_submenu_tooltip_sendbox_ng_frame</key>
@@ -1588,7 +1588,7 @@ Are you sure?</translation>
   <message>
     <key>ana_party_leave_err_battle</key>
     <original>戦闘中はパーティーからぬけられません</original>
-    <translation>You cannot leave party during battle.</translation>
+    <translation>You cannot leave party during combat.</translation>
   </message>
   <message>
     <key>ana_party_leave_err_solo</key>
@@ -1633,8 +1633,8 @@ Are you sure?</translation>
   <message>
     <key>ana_box_err_exspace</key>
     <original>拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation>You cannot use the expanded storage box.
-The effect of ＜&lt;OPCS&gt;＞ will allow this.</translation>
+    <translation>You cannot use the expanded storage.
+The effect of "&lt;OPCS&gt;" will allow this.</translation>
   </message>
   <message>
     <key>ana_input_device_err_pad</key>
@@ -1654,7 +1654,7 @@ The effect of ＜&lt;OPCS&gt;＞ will allow this.</translation>
   <message>
     <key>ana_notion_exbox_without_charge</key>
     <original>本ボックスは＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation>This box is available with the effects of ＜&lt;OPCS&gt;＞.</translation>
+    <translation>This box is available with the effects of "&lt;OPCS&gt;".</translation>
   </message>
   <message>
     <key>ana_dialog_areatest</key>
@@ -1798,42 +1798,42 @@ The effect of ＜&lt;OPCS&gt;＞ will allow this.</translation>
   <message>
     <key>ana_quest_info_assept</key>
     <original>パーティーメンバーが＜&lt;VAL&gt;＞を受注しました</original>
-    <translation>A party member has accepted the ＜&lt;VAL&gt;＞ quest.</translation>
+    <translation>A party member has accepted the "&lt;VAL&gt;" quest.</translation>
   </message>
   <message>
     <key>ana_quest_info_clear</key>
     <original>パーティーメンバーが＜&lt;VAL&gt;＞をクリアしました</original>
-    <translation>A party member has cleared the ＜&lt;VAL&gt;＞ quest.</translation>
+    <translation>A party member has cleared the "&lt;VAL&gt;" quest.</translation>
   </message>
   <message>
     <key>ana_quest_info_cancel</key>
     <original>&lt;VAL&gt;が＜&lt;VAL&gt;＞を破棄しました</original>
-    <translation>&lt;VAL&gt; has canceled the quest ＜&lt;VAL&gt;＞.</translation>
+    <translation>&lt;VAL&gt; has canceled the quest "&lt;VAL&gt;".</translation>
   </message>
   <message>
     <key>ana_pt_mem_warp_begin</key>
     <original>&lt;NAME TARGET&gt;が＜&lt;VAL&gt;＞にリム転移しました</original>
-    <translation>&lt;NAME TARGET&gt; has teleported to ＜&lt;VAL&gt;＞.</translation>
+    <translation>&lt;NAME TARGET&gt; has teleported to "&lt;VAL&gt;".</translation>
   </message>
   <message>
     <key>ana_quest_info_update</key>
     <original>パーティーメンバーが＜&lt;VAL&gt;＞を進行しました</original>
-    <translation>A party member has updated progress on the quest ＜&lt;VAL&gt;＞.</translation>
+    <translation>A party member has updated progress on the quest "&lt;VAL&gt;".</translation>
   </message>
   <message>
     <key>ana_quest_info_accept_solo</key>
     <original>＜&lt;VAL&gt;＞を受注しました</original>
-    <translation>＜&lt;VAL&gt;＞ has been accepted.</translation>
+    <translation>"&lt;VAL&gt;" has been accepted.</translation>
   </message>
   <message>
     <key>ana_quest_info_clear_solo</key>
     <original>＜&lt;VAL&gt;＞をクリアしました</original>
-    <translation>＜&lt;VAL&gt;＞ has been cleared.</translation>
+    <translation>"&lt;VAL&gt;" has been cleared.</translation>
   </message>
   <message>
     <key>ana_quest_info_update_solo</key>
     <original>＜&lt;VAL&gt;＞を進行しました</original>
-    <translation>＜&lt;VAL&gt;＞ progress has been updated.</translation>
+    <translation>"&lt;VAL&gt;" progress has been updated.</translation>
   </message>
   <message>
     <key>ana_TELL_ERR_PAWN</key>
@@ -1958,7 +1958,7 @@ cancel the changes?</translation>
     <key>ana_quest_progress_error</key>
     <original>＜&lt;NAME QUEST&gt;＞は
 進行条件を満たしていません</original>
-    <translation>You do not meet the progress conditions for ＜&lt;NAME QUEST&gt;＞.</translation>
+    <translation>You do not meet the progress conditions for "&lt;NAME QUEST&gt;".</translation>
   </message>
   <message>
     <key>ana_quickpt_fail_by_friend</key>
@@ -2074,7 +2074,7 @@ Please disband the party.</translation>
   <message>
     <key>ana_rimstone_menu_ex_lost_pawn</key>
     <original>＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation>This is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
+    <translation>This is available with the effect of "&lt;OPCS&gt;".</translation>
   </message>
   <message>
     <key>ana_skill_release_order_start</key>
@@ -2119,7 +2119,7 @@ Are you sure?</translation>
   <message>
     <key>ana_error_no_target_opcs</key>
     <original>＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation>This is available with the effect of ＜&lt;OPCS&gt;＞.</translation>
+    <translation>This is available with the effect of "&lt;OPCS&gt;".</translation>
   </message>
   <message>
     <key>ana_simple_req_notfound</key>

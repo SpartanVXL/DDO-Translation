@@ -37,6 +37,7 @@
   <message>
     <key>poptop_bazaar_en</key>
     <original>Menu</original>
+    <translation>Menu</translation>
   </message>
   <message>
     <key>poptop_bazaar_disp_posnum</key>
@@ -66,6 +67,7 @@
   <message>
     <key>poptop_areamaster_en</key>
     <original>Area Master</original>
+    <translation>Area Master</translation>
   </message>
   <message>
     <key>poptop_profile_set</key>
@@ -185,6 +187,7 @@
   <message>
     <key>poptop_craft_en</key>
     <original>Menu</original>
+    <translation>Menu</translation>
   </message>
   <message>
     <key>poptop_ability</key>
@@ -199,7 +202,7 @@
   <message>
     <key>poptop_job</key>
     <original>ジョブ</original>
-    <translation>Job</translation>
+    <translation>Vocation</translation>
   </message>
   <message>
     <key>poptop_battle_assist_jp</key>
@@ -302,6 +305,7 @@
   <message>
     <key>poptop_bazaar_exhibit_en</key>
     <original>Sell</original>
+    <translation>Sell</translation>
   </message>
   <message>
     <key>poptop_clan_entry_cancel</key>
@@ -316,6 +320,7 @@
   <message>
     <key>poptop_warehouse_en</key>
     <original>Menu</original>
+    <translation>Menu</translation>
   </message>
   <message>
     <key>poptop_warehouse_jp</key>
@@ -373,14 +378,17 @@
   <message>
     <key>poptop_depositbox_menutop_en</key>
     <original>Menu</original>
+    <translation>Menu</translation>
   </message>
   <message>
     <key>poptop_depositbox_menutop_jp</key>
     <original>メニュー</original>
+    <translation>Menu</translation>
   </message>
   <message>
     <key>poptop_depositbox_menu_01</key>
     <original>通常枠</original>
+    <translation>Normal</translation>
   </message>
   <message>
     <key>poptop_clan_invite_direct</key>
@@ -389,5 +397,6 @@
   <message>
     <key>poptop_depositbox_menu_ex01</key>
     <original>拡張枠</original>
+    <translation>Expansion</translation>
   </message>
 </resource>

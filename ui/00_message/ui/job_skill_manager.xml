@@ -10,6 +10,7 @@
   <message>
     <key>option_change_job</key>
     <original>転職</original>
+    <translation>Change Vocation</translation>
   </message>
   <message>
     <key>option_change_skill</key>
@@ -247,7 +248,7 @@ to level it up?</translation>
   <message>
     <key>job_change_error_capacity_over</key>
     <original>保管ボックスの空きが足りません</original>
-    <translation>Your storage box is full.</translation>
+    <translation>Your Storage Box is full.</translation>
   </message>
   <message>
     <key>job_change_error_no_weapon</key>
@@ -257,17 +258,17 @@ to level it up?</translation>
   <message>
     <key>job_change_error_certain_reason</key>
     <original>転職に失敗しました</original>
-    <translation>Failed to change job.</translation>
+    <translation>Failed to change vocation.</translation>
   </message>
   <message>
     <key>release_condition_master_subject</key>
     <original>ジョブマスターの課題をクリアする</original>
-    <translation>Clear the Job Master Order.</translation>
+    <translation>Clear the Job Master challenge.</translation>
   </message>
   <message>
     <key>job_msg_job</key>
     <original>ジョブ</original>
-    <translation>Job</translation>
+    <translation>Vocation</translation>
   </message>
   <message>
     <key>job_msg_category</key>
