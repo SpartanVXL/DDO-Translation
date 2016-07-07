@@ -1,50 +1,50 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_COMMAND_09_136</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
+    <original>&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_137</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;後、少し遅らせて&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;後、少し遅らせて&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
+    <original>&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;後、少し遅らせて&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;後、少し遅らせて&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_143</key>
-    <original xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;空中で&lt;ICON MOUSE_CL_L&gt;をクリック</original>
+    <original>&lt;PADM&gt;空中で&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;空中で&lt;ICON MOUSE_CL_L&gt;をクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_144</key>
-    <original xml:space="preserve">&lt;PADM&gt;空中で左スティックを倒しながら&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;空中で移動キーを押しながら&lt;ICON MOUSE_CL_L&gt;をクリック</original>
+    <original>&lt;PADM&gt;空中で左スティックを倒しながら&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;空中で移動キーを押しながら&lt;ICON MOUSE_CL_L&gt;をクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_138</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;を連続してクリック</original>
+    <original>&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;を連続してクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_139</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;を連続してクリック</original>
+    <original>&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を連続して押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;を連続してクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_142</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す</original>
+    <original>&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_141</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_R&gt;を押す</original>
+    <original>&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_R&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_140</key>
-    <original xml:space="preserve">&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;または&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</original>
+    <original>&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;または&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_145</key>
-    <original xml:space="preserve">&lt;PADM&gt;空中で&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で&lt;ICON KB_SPACE&gt;を押す</original>
+    <original>&lt;PADM&gt;空中で&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で&lt;ICON KB_SPACE&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_147</key>
-    <original xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;をクリック</original>
+    <original>&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;をクリック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_09_148</key>
-    <original xml:space="preserve">&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
+    <original>&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を連続して押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;を連続してクリック</original>
   </message>
 </resource>

@@ -1,67 +1,67 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>PAWNREACTION_MSG_IF_PARTY</key>
-    <original xml:space="preserve">パーティメンバーと出会った時</original>
-    <translation xml:space="preserve">Met Party Members</translation>
+    <original>パーティメンバーと出会った時</original>
+    <translation>Met Party Members</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_QCLEAR</key>
-    <original xml:space="preserve">クエスト成功時</original>
-    <translation xml:space="preserve">Quest Clear</translation>
+    <original>クエスト成功時</original>
+    <translation>Quest Clear</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_LVUP</key>
-    <original xml:space="preserve">レベルアップ時</original>
-    <translation xml:space="preserve">Level Up</translation>
+    <original>レベルアップ時</original>
+    <translation>Level Up</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_ADEATH</key>
-    <original xml:space="preserve">プレイヤー死亡時</original>
-    <translation xml:space="preserve">Player Death</translation>
+    <original>プレイヤー死亡時</original>
+    <translation>Player Death</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_WAIT_LOBBY</key>
-    <original xml:space="preserve">ロビー待機時</original>
-    <translation xml:space="preserve">Waiting on Lobby</translation>
+    <original>ロビー待機時</original>
+    <translation>Waiting on Lobby</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_WAIT_FIELD</key>
-    <original xml:space="preserve">冒険待機時</original>
-    <translation xml:space="preserve">Waiting on Adventure</translation>
+    <original>冒険待機時</original>
+    <translation>Waiting on Adventure</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_WAIT_LAB</key>
-    <original xml:space="preserve">クラフトルーム待機時</original>
-    <translation xml:space="preserve">Waiting on Craft</translation>
+    <original>クラフトルーム待機時</original>
+    <translation>Waiting on Craft</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_ENDBATTLE</key>
-    <original xml:space="preserve">戦闘終了時</original>
-    <translation xml:space="preserve">End of Combat</translation>
+    <original>戦闘終了時</original>
+    <translation>End of Combat</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_TITLE</key>
-    <original xml:space="preserve">ポーンリアクションを設定して下さい</original>
-    <translation xml:space="preserve">Customize Pawn Reactions</translation>
+    <original>ポーンリアクションを設定して下さい</original>
+    <translation>Customize Pawn Reactions</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_CAPTION_CHARACTAR</key>
-    <original xml:space="preserve">口調：</original>
-    <translation xml:space="preserve">Personality：</translation>
+    <original>口調：</original>
+    <translation>Personality：</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_BUTTON_DECIDE</key>
-    <original xml:space="preserve">決定</original>
-    <translation xml:space="preserve">OK</translation>
+    <original>決定</original>
+    <translation>OK</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_BUTTON_CANCEL</key>
-    <original xml:space="preserve">キャンセル</original>
-    <translation xml:space="preserve">Cancel</translation>
+    <original>キャンセル</original>
+    <translation>Cancel</translation>
   </message>
   <message>
     <key>PAWNREACTION_MSG_NONE</key>
-    <original xml:space="preserve">なし</original>
-    <translation xml:space="preserve">None</translation>
+    <original>なし</original>
+    <translation>None</translation>
   </message>
 </resource>

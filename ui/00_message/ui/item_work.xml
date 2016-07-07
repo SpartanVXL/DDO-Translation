@@ -1,265 +1,265 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ITEM_WORK_1</key>
-    <original xml:space="preserve">体力回復</original>
-    <translation xml:space="preserve">Health Recovery</translation>
+    <original>体力回復</original>
+    <translation>Health Recovery</translation>
   </message>
   <message>
     <key>ITEM_WORK_2</key>
-    <original xml:space="preserve">スタミナ回復</original>
-    <translation xml:space="preserve">Stamina Recovery</translation>
+    <original>スタミナ回復</original>
+    <translation>Stamina Recovery</translation>
   </message>
   <message>
     <key>ITEM_WORK_3</key>
-    <original xml:space="preserve">「毒」解消</original>
-    <translation xml:space="preserve">Cure Poison</translation>
+    <original>「毒」解消</original>
+    <translation>Cure Poison</translation>
   </message>
   <message>
     <key>ITEM_WORK_4</key>
-    <original xml:space="preserve">「遅延」解消</original>
-    <translation xml:space="preserve">Cure Torpor</translation>
+    <original>「遅延」解消</original>
+    <translation>Cure Torpor</translation>
   </message>
   <message>
     <key>ITEM_WORK_5</key>
-    <original xml:space="preserve">「睡眠」解消</original>
-    <translation xml:space="preserve">Cure Sleep</translation>
+    <original>「睡眠」解消</original>
+    <translation>Cure Sleep</translation>
   </message>
   <message>
     <key>ITEM_WORK_6</key>
-    <original xml:space="preserve">「気絶」解消</original>
-    <translation xml:space="preserve">Cure Knockout</translation>
+    <original>「気絶」解消</original>
+    <translation>Cure Knockout</translation>
   </message>
   <message>
     <key>ITEM_WORK_7</key>
-    <original xml:space="preserve">「水濡れ」解消</original>
-    <translation xml:space="preserve">Cure Drench</translation>
+    <original>「水濡れ」解消</original>
+    <translation>Cure Drench</translation>
   </message>
   <message>
     <key>ITEM_WORK_8</key>
-    <original xml:space="preserve">「油濡れ」解消</original>
-    <translation xml:space="preserve">Cure Tar</translation>
+    <original>「油濡れ」解消</original>
+    <translation>Cure Tar</translation>
   </message>
   <message>
     <key>ITEM_WORK_9</key>
-    <original xml:space="preserve">「封印」解消</original>
-    <translation xml:space="preserve">Cure Skill Stifling</translation>
+    <original>「封印」解消</original>
+    <translation>Cure Skill Stifling</translation>
   </message>
   <message>
     <key>ITEM_WORK_10</key>
-    <original xml:space="preserve">「軟化」解消</original>
-    <translation xml:space="preserve">Cure Frail</translation>
+    <original>「軟化」解消</original>
+    <translation>Cure Frail</translation>
   </message>
   <message>
     <key>ITEM_WORK_11</key>
-    <original xml:space="preserve">「石化」解消</original>
-    <translation xml:space="preserve">Cure Petrification</translation>
+    <original>「石化」解消</original>
+    <translation>Cure Petrification</translation>
   </message>
   <message>
     <key>ITEM_WORK_12</key>
-    <original xml:space="preserve">「黄金化」解消</original>
-    <translation xml:space="preserve">Cure Golden</translation>
+    <original>「黄金化」解消</original>
+    <translation>Cure Golden</translation>
   </message>
   <message>
     <key>ITEM_WORK_13</key>
-    <original xml:space="preserve">「延焼」解消</original>
-    <translation xml:space="preserve">Cure Catching Fire</translation>
+    <original>「延焼」解消</original>
+    <translation>Cure Catching Fire</translation>
   </message>
   <message>
     <key>ITEM_WORK_14</key>
-    <original xml:space="preserve">「凍結」解消</original>
-    <translation xml:space="preserve">Cure Frozen Solid</translation>
+    <original>「凍結」解消</original>
+    <translation>Cure Frozen Solid</translation>
   </message>
   <message>
     <key>ITEM_WORK_15</key>
-    <original xml:space="preserve">「炎防低下」解消</original>
-    <translation xml:space="preserve">Cure Fire Res. Down</translation>
+    <original>「炎防低下」解消</original>
+    <translation>Cure Fire Res. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_16</key>
-    <original xml:space="preserve">「氷防低下」解消　</original>
-    <translation xml:space="preserve">Cure Ice Res. Down</translation>
+    <original>「氷防低下」解消　</original>
+    <translation>Cure Ice Res. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_17</key>
-    <original xml:space="preserve">「雷防低下」解消</original>
-    <translation xml:space="preserve">Cure Thunder Res. Down</translation>
+    <original>「雷防低下」解消</original>
+    <translation>Cure Thunder Res. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_18</key>
-    <original xml:space="preserve">「聖防低下」解消</original>
-    <translation xml:space="preserve">Cure Holy Res. Down</translation>
+    <original>「聖防低下」解消</original>
+    <translation>Cure Holy Res. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_19</key>
-    <original xml:space="preserve">「闇防低下」解消</original>
-    <translation xml:space="preserve">Cure Dark Res. Down</translation>
+    <original>「闇防低下」解消</original>
+    <translation>Cure Dark Res. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_20</key>
-    <original xml:space="preserve">「物攻低下」解消</original>
-    <translation xml:space="preserve">Cure Phys. Atk. Down</translation>
+    <original>「物攻低下」解消</original>
+    <translation>Cure Phys. Atk. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_21</key>
-    <original xml:space="preserve">「物防低下」解消　</original>
-    <translation xml:space="preserve">Cure Phys. Def. Down</translation>
+    <original>「物防低下」解消　</original>
+    <translation>Cure Phys. Def. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_22</key>
-    <original xml:space="preserve">「魔攻低下」解消</original>
-    <translation xml:space="preserve">Cure Mag. Atk. Down</translation>
+    <original>「魔攻低下」解消</original>
+    <translation>Cure Mag. Atk. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_23</key>
-    <original xml:space="preserve">「魔防低下」解消</original>
-    <translation xml:space="preserve">Cure Mag. Def. Down</translation>
+    <original>「魔防低下」解消</original>
+    <translation>Cure Mag. Def. Down</translation>
   </message>
   <message>
     <key>ITEM_WORK_24</key>
-    <original xml:space="preserve">「物攻上昇」付加</original>
-    <translation xml:space="preserve">Grant Physical Attack Up</translation>
+    <original>「物攻上昇」付加</original>
+    <translation>Grant Physical Attack Up</translation>
   </message>
   <message>
     <key>ITEM_WORK_25</key>
-    <original xml:space="preserve">「物防上昇」付加</original>
-    <translation xml:space="preserve">Grant Physical Defense Up</translation>
+    <original>「物防上昇」付加</original>
+    <translation>Grant Physical Defense Up</translation>
   </message>
   <message>
     <key>ITEM_WORK_26</key>
-    <original xml:space="preserve">「魔攻上昇」付加</original>
-    <translation xml:space="preserve">Grant Magick Attack Up</translation>
+    <original>「魔攻上昇」付加</original>
+    <translation>Grant Magick Attack Up</translation>
   </message>
   <message>
     <key>ITEM_WORK_27</key>
-    <original xml:space="preserve">「魔防上昇」付加</original>
-    <translation xml:space="preserve">Grant Magick Defense Up</translation>
+    <original>「魔防上昇」付加</original>
+    <translation>Grant Magick Defense Up</translation>
   </message>
   <message>
     <key>ITEM_WORK_28</key>
-    <original xml:space="preserve">「吹き飛ばし力上昇」付加</original>
-    <translation xml:space="preserve">Grant Blow Power Up</translation>
+    <original>「吹き飛ばし力上昇」付加</original>
+    <translation>Grant Blow Power Up</translation>
   </message>
   <message>
     <key>ITEM_WORK_29</key>
-    <original xml:space="preserve">「耐久力上昇」付加　</original>
-    <translation xml:space="preserve">Grant Endurance Up</translation>
+    <original>「耐久力上昇」付加　</original>
+    <translation>Grant Endurance Up</translation>
   </message>
   <message>
     <key>ITEM_WORK_30</key>
-    <original xml:space="preserve">「生命治癒力上昇」付加</original>
-    <translation xml:space="preserve">Grant Healing Power Up</translation>
+    <original>「生命治癒力上昇」付加</original>
+    <translation>Grant Healing Power Up</translation>
   </message>
   <message>
     <key>ITEM_WORK_31</key>
-    <original xml:space="preserve">「体力上昇」付加</original>
-    <translation xml:space="preserve">Grant Max Health Up</translation>
+    <original>「体力上昇」付加</original>
+    <translation>Grant Max Health Up</translation>
   </message>
   <message>
     <key>ITEM_WORK_32</key>
-    <original xml:space="preserve">「スタミナ上昇」付加</original>
-    <translation xml:space="preserve">Grant Max Stamina Up</translation>
+    <original>「スタミナ上昇」付加</original>
+    <translation>Grant Max Stamina Up</translation>
   </message>
   <message>
     <key>ITEM_WORK_33</key>
-    <original xml:space="preserve">「闇霧」解消</original>
-    <translation xml:space="preserve">Cure Blind</translation>
+    <original>「闇霧」解消</original>
+    <translation>Cure Blind</translation>
   </message>
   <message>
     <key>ITEM_WORK_36</key>
-    <original xml:space="preserve">ランタン点灯</original>
-    <translation xml:space="preserve">Light Lantern</translation>
+    <original>ランタン点灯</original>
+    <translation>Light Lantern</translation>
   </message>
   <message>
     <key>ITEM_WORK_110</key>
-    <original xml:space="preserve">ゴールド入手</original>
-    <translation xml:space="preserve">Gold Available</translation>
+    <original>ゴールド入手</original>
+    <translation>Gold Available</translation>
   </message>
   <message>
     <key>ITEM_WORK_111</key>
-    <original xml:space="preserve">リム入手</original>
-    <translation xml:space="preserve">Rift Crystals Available</translation>
+    <original>リム入手</original>
+    <translation>Rift Crystals Available</translation>
   </message>
   <message>
     <key>ITEM_WORK_112</key>
-    <original xml:space="preserve">オーブ入手</original>
-    <translation xml:space="preserve">Orbs Available</translation>
+    <original>オーブ入手</original>
+    <translation>Orbs Available</translation>
   </message>
   <message>
     <key>ITEM_WORK_113</key>
-    <original xml:space="preserve">エリクシル・毒</original>
+    <original>エリクシル・毒</original>
   </message>
   <message>
     <key>ITEM_WORK_114</key>
-    <original xml:space="preserve">エリクシル・睡眠</original>
+    <original>エリクシル・睡眠</original>
   </message>
   <message>
     <key>ITEM_WORK_115</key>
-    <original xml:space="preserve">エリクシル・気絶</original>
+    <original>エリクシル・気絶</original>
   </message>
   <message>
     <key>ITEM_WORK_116</key>
-    <original xml:space="preserve">エリクシル・炎防低下</original>
+    <original>エリクシル・炎防低下</original>
   </message>
   <message>
     <key>ITEM_WORK_117</key>
-    <original xml:space="preserve">エリクシル・氷防低下</original>
+    <original>エリクシル・氷防低下</original>
   </message>
   <message>
     <key>ITEM_WORK_118</key>
-    <original xml:space="preserve">エリクシル・雷防低下</original>
+    <original>エリクシル・雷防低下</original>
   </message>
   <message>
     <key>ITEM_WORK_119</key>
-    <original xml:space="preserve">エリクシル・聖防低下</original>
+    <original>エリクシル・聖防低下</original>
   </message>
   <message>
     <key>ITEM_WORK_120</key>
-    <original xml:space="preserve">エリクシル・闇防低下</original>
+    <original>エリクシル・闇防低下</original>
   </message>
   <message>
     <key>ITEM_WORK_121</key>
-    <original xml:space="preserve">エリクシル・封印</original>
+    <original>エリクシル・封印</original>
   </message>
   <message>
     <key>ITEM_WORK_122</key>
-    <original xml:space="preserve">エリクシル・石化</original>
+    <original>エリクシル・石化</original>
   </message>
   <message>
     <key>ITEM_WORK_123</key>
-    <original xml:space="preserve">エリクシル・黄金化</original>
+    <original>エリクシル・黄金化</original>
   </message>
   <message>
     <key>ITEM_WORK_124</key>
-    <original xml:space="preserve">通貨入手</original>
-    <translation xml:space="preserve">Currency Available</translation>
+    <original>通貨入手</original>
+    <translation>Currency Available</translation>
   </message>
   <message>
     <key>ITEM_WORK_125</key>
-    <original xml:space="preserve">「感電」解消</original>
-    <translation xml:space="preserve">Cure Shock</translation>
+    <original>「感電」解消</original>
+    <translation>Cure Shock</translation>
   </message>
   <message>
     <key>ITEM_WORK_126</key>
-    <original xml:space="preserve">「侵食」解消</original>
+    <original>「侵食」解消</original>
   </message>
   <message>
     <key>ITEM_WORK_127</key>
-    <original xml:space="preserve">「侵食耐性」付加</original>
+    <original>「侵食耐性」付加</original>
   </message>
   <message>
     <key>ITEM_WORK_128</key>
-    <original xml:space="preserve">ジョブポイント入手</original>
+    <original>ジョブポイント入手</original>
   </message>
   <message>
     <key>ITEM_WORK_129</key>
-    <original xml:space="preserve">エリアポイント入手</original>
+    <original>エリアポイント入手</original>
   </message>
   <message>
     <key>ITEM_WORK_130</key>
-    <original xml:space="preserve">スキル習得</original>
+    <original>スキル習得</original>
   </message>
   <message>
     <key>ITEM_WORK_131</key>
-    <original xml:space="preserve">アビリティ習得</original>
+    <original>アビリティ習得</original>
   </message>
 </resource>

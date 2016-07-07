@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_67</key>
-    <original xml:space="preserve">ポーンはダメージを受け、体力が尽きると
+    <original>ポーンはダメージを受け、体力が尽きると
 《行動不能》となり、さらに一定時間経過すると
 あなた同様《死亡状態》になってしまいます
 
@@ -11,7 +11,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_66</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;一定時間内に助け起こせなかった場合も、
+    <original>&lt;COL ffdc78&gt;一定時間内に助け起こせなかった場合も、
 雇い主の覚者が倒れたポーンに触れ《復活力》か
 《黄金石》を与えることで、復活させられます&lt;/COL&gt;
 
@@ -23,7 +23,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_303</key>
-    <original xml:space="preserve">メインポーンが復活できず死亡状態のまま
+    <original>メインポーンが復活できず死亡状態のまま
 消えてしまった場合、&lt;COL ffdc78&gt;《ロスト状態》&lt;/COL&gt;となり
 再呼び出しできなくなります
 
@@ -35,7 +35,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_304</key>
-    <original xml:space="preserve">サポートポーンが復活できず倒れたまま
+    <original>サポートポーンが復活できず倒れたまま
 消えてしまった場合、&lt;COL ffdc78&gt;《冒険回数》&lt;/COL&gt;が１回分
 減り、待機状態に戻されます
 冒険回数が残っていれば、再呼び出し可能です
@@ -46,7 +46,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_420</key>
-    <original xml:space="preserve">また、特定の&lt;OPCS&gt;発動中はロストした
+    <original>また、特定の&lt;OPCS&gt;発動中はロストした
 メインポーンをリムストーンから直接救出
 できるようになります
 

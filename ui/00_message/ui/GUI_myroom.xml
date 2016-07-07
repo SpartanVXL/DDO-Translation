@@ -1,26 +1,32 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>g_myr_title_en</key>
-    <original xml:space="preserve">My Room</original>
+    <original>My Room</original>
+    <translation>My Room</translation>
   </message>
   <message>
     <key>g_myr_title_jp</key>
-    <original xml:space="preserve">自室</original>
+    <original>自室</original>
+    <translation>My Room</translation>
   </message>
   <message>
     <key>g_myr_msg_common_choice_0</key>
-    <original xml:space="preserve">設置しない</original>
+    <original>設置しない</original>
+    <translation>Nothing</translation>
   </message>
   <message>
     <key>g_myr_msg_common_choice_1</key>
-    <original xml:space="preserve">デフォルト</original>
+    <original>デフォルト</original>
+    <translation>Default</translation>
   </message>
   <message>
     <key>g_myr_msg_decision</key>
-    <original xml:space="preserve">適用</original>
+    <original>適用</original>
+    <translation>Apply</translation>
   </message>
   <message>
     <key>g_myr_msg_no_furniture</key>
-    <original xml:space="preserve">変更できる家具がありません</original>
+    <original>変更できる家具がありません</original>
+    <translation>There is no furniture that can be changed</translation>
   </message>
 </resource>

@@ -1,49 +1,49 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>server_sel_page_change</key>
-    <original xml:space="preserve">ページ切り替え</original>
-    <translation xml:space="preserve">Change Page</translation>
+    <original>ページ切り替え</original>
+    <translation>Change Page</translation>
   </message>
   <message>
     <key>server_sel_plinfo</key>
-    <original xml:space="preserve">プレイヤー情報</original>
-    <translation xml:space="preserve">Player Information</translation>
+    <original>プレイヤー情報</original>
+    <translation>Player Information</translation>
   </message>
   <message>
     <key>server_sel_server_en</key>
-    <original xml:space="preserve">World Select</original>
+    <original>World Select</original>
   </message>
   <message>
     <key>server_sel_server_jp</key>
-    <original xml:space="preserve">ワールド選択</original>
-    <translation xml:space="preserve">World Select</translation>
+    <original>ワールド選択</original>
+    <translation>World Select</translation>
   </message>
   <message>
     <key>server_sel_lobby_en</key>
-    <original xml:space="preserve">Lobby Select</original>
+    <original>Lobby Select</original>
   </message>
   <message>
     <key>server_sel_lobby_jp</key>
-    <original xml:space="preserve">ロビー選択</original>
-    <translation xml:space="preserve">Lobby Select</translation>
+    <original>ロビー選択</original>
+    <translation>Lobby Select</translation>
   </message>
   <message>
     <key>server_sel_crowded</key>
-    <original xml:space="preserve">混雑</original>
-    <translation xml:space="preserve">Crowded</translation>
+    <original>混雑</original>
+    <translation>Crowded</translation>
   </message>
   <message>
     <key>server_sel_msg_lobby</key>
-    <original xml:space="preserve">LOBBY</original>
-    <translation xml:space="preserve">Lobby</translation>
+    <original>LOBBY</original>
+    <translation>Lobby</translation>
   </message>
   <message>
     <key>server_sel_ver</key>
-    <original xml:space="preserve">ver</original>
+    <original>ver</original>
   </message>
   <message>
     <key>server_sel_player</key>
-    <original xml:space="preserve">プレイヤー情報取得</original>
-    <translation xml:space="preserve">Get Player Information</translation>
+    <original>プレイヤー情報取得</original>
+    <translation>Get Player Information</translation>
   </message>
 </resource>

@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_435</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;《侵食状態異常》&lt;/COL&gt;を与える敵が現れるようになりました
+    <original>&lt;COL ffdc78&gt;《侵食状態異常》&lt;/COL&gt;を与える敵が現れるようになりました
 
 侵食状態異常にかかると
 時間と共に体力が減少し動きも遅くなっていき
@@ -13,7 +13,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_445</key>
-    <original xml:space="preserve">また、侵食胞子を放出していない侵食魔に
+    <original>また、侵食胞子を放出していない侵食魔に
 侵食胞子が触れると、触れた対象に胞子が伝染し
 胞子を振りまくように変異します
 
@@ -22,7 +22,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_469</key>
-    <original xml:space="preserve">侵食状態異常は&lt;COL ffdc78&gt;《抗侵薬》&lt;/COL&gt;によって
+    <original>侵食状態異常は&lt;COL ffdc78&gt;《抗侵薬》&lt;/COL&gt;によって
 発病しにくくすることができるほか
 &lt;COL ffdc78&gt;《侵食治療薬》&lt;/COL&gt;の使用や
 &lt;COL ffdc78&gt;仲間の救済行動&lt;/COL&gt;によって
@@ -34,7 +34,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_470</key>
-    <original xml:space="preserve">ヒーラー職はタッチでの侵食回復スピードが
+    <original>ヒーラー職はタッチでの侵食回復スピードが
 早い特性を持っています
 
 仲間が侵食状態異常を発症していたら

@@ -1,124 +1,124 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>RIM_POP_MSG_HEADER_M_HEADER</key>
-    <original xml:space="preserve">検索条件</original>
-    <translation xml:space="preserve">Search Criteria</translation>
+    <original>検索条件</original>
+    <translation>Search Criteria</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_JOB</key>
-    <original xml:space="preserve">ジョブ</original>
-    <translation xml:space="preserve">Job</translation>
+    <original>ジョブ</original>
+    <translation>Job</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_LV</key>
-    <original xml:space="preserve">レベル</original>
-    <translation xml:space="preserve">Level</translation>
+    <original>レベル</original>
+    <translation>Level</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_SKILL</key>
-    <original xml:space="preserve">スキル</original>
-    <translation xml:space="preserve">Skill</translation>
+    <original>スキル</original>
+    <translation>Skill</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_CHARACTER</key>
-    <original xml:space="preserve">性別</original>
-    <translation xml:space="preserve">Gender</translation>
+    <original>性別</original>
+    <translation>Gender</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_M_ALL</key>
-    <original xml:space="preserve">全て</original>
-    <translation xml:space="preserve">All</translation>
+    <original>全て</original>
+    <translation>All</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_M_UP</key>
-    <original xml:space="preserve">以上</original>
-    <translation xml:space="preserve">Min</translation>
+    <original>以上</original>
+    <translation>Min</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_LV</key>
-    <original xml:space="preserve">クラフトレベル</original>
-    <translation xml:space="preserve">Craft Level</translation>
+    <original>クラフトレベル</original>
+    <translation>Craft Level</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL00</key>
-    <original xml:space="preserve">クラフトスキル</original>
-    <translation xml:space="preserve">Craft Skills</translation>
+    <original>クラフトスキル</original>
+    <translation>Craft Skills</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL01</key>
-    <original xml:space="preserve">生産作業スピード</original>
-    <translation xml:space="preserve">Production Speed</translation>
+    <original>生産作業スピード</original>
+    <translation>Production Speed</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL02</key>
-    <original xml:space="preserve">装備の強化技術</original>
-    <translation xml:space="preserve">Equipment Enhancement</translation>
+    <original>装備の強化技術</original>
+    <translation>Equipment Enhancement</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL03</key>
-    <original xml:space="preserve">高品質装備の作成力</original>
-    <translation xml:space="preserve">Equipment Quality</translation>
+    <original>高品質装備の作成力</original>
+    <translation>Equipment Quality</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL04</key>
-    <original xml:space="preserve">消耗品の生産数アップ</original>
-    <translation xml:space="preserve">onsumable Production Quantity</translation>
+    <original>消耗品の生産数アップ</original>
+    <translation>onsumable Production Quantity</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL05</key>
-    <original xml:space="preserve">コストパフォーマンス</original>
-    <translation xml:space="preserve">Crafting Cost</translation>
+    <original>コストパフォーマンス</original>
+    <translation>Crafting Cost</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_OWNER_M_OWNER</key>
-    <original xml:space="preserve">オーナー名の指定</original>
-    <translation xml:space="preserve">Owner Name</translation>
+    <original>オーナー名の指定</original>
+    <translation>Owner Name</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_OWNER_M_FIRST</key>
-    <original xml:space="preserve">First Name</original>
+    <original>First Name</original>
   </message>
   <message>
     <key>RIM_POP_MSG_OWNER_M_FAMILY</key>
-    <original xml:space="preserve">Family Name</original>
-    <translation xml:space="preserve">Last Name</translation>
+    <original>Family Name</original>
+    <translation>Last Name</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_OWNER_M_PAWN</key>
-    <original xml:space="preserve">ポーンの名前を指定</original>
-    <translation xml:space="preserve">Pawn Name</translation>
+    <original>ポーンの名前を指定</original>
+    <translation>Pawn Name</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_BTN_SEARCH</key>
-    <original xml:space="preserve">検索する</original>
-    <translation xml:space="preserve">Search</translation>
+    <original>検索する</original>
+    <translation>Search</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_M_DOWN</key>
-    <original xml:space="preserve">以下</original>
-    <translation xml:space="preserve">Maximum</translation>
+    <original>以下</original>
+    <translation>Maximum</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_ALL</key>
-    <original xml:space="preserve">指定なし</original>
-    <translation xml:space="preserve">Any</translation>
+    <original>指定なし</original>
+    <translation>Any</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_MALE</key>
-    <original xml:space="preserve">男</original>
-    <translation xml:space="preserve">Male</translation>
+    <original>男</original>
+    <translation>Male</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_FEMALE</key>
-    <original xml:space="preserve">女</original>
-    <translation xml:space="preserve">Female</translation>
+    <original>女</original>
+    <translation>Female</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SEARCH_JOB</key>
-    <original xml:space="preserve">ジョブで探す</original>
+    <original>ジョブで探す</original>
   </message>
   <message>
     <key>RIM_POP_MSG_SEARCH_CRAFTSKILL</key>
-    <original xml:space="preserve">クラフトスキルで探す</original>
+    <original>クラフトスキルで探す</original>
   </message>
 </resource>

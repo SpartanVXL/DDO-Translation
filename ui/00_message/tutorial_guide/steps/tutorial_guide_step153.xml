@@ -1,14 +1,14 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_27</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;レスタニアに生まれし新たなる覚者へ&lt;/COL&gt;
+    <original>&lt;COL ffdc78&gt;レスタニアに生まれし新たなる覚者へ&lt;/COL&gt;
 
 覚者としてあなたが成すべき目的はマップ上に
 &lt;COL ffdc78&gt;赤の《メインクエストマーカー》で示されます&lt;/COL&gt;
 
 まずは赤のマーカーを目指し
 白竜から授かった力を目前の敵にぶつけましょう</original>
-    <translation xml:space="preserve">&lt;COL ffdc78&gt;The Newly Arisen of Lestania&lt;/COL&gt;
+    <translation>&lt;COL ffdc78&gt;The Newly Arisen of Lestania&lt;/COL&gt;
 
 Your goals as an Arisen are marked on your map with a
 &lt;COL ffdc78&gt;Red 《Main Quest Marker》indication.&lt;/COL&gt;
@@ -18,7 +18,7 @@ and use the strength given to you by the White Dragon!</translation>
   </message>
   <message>
     <key>TUTORIAL_STEP_194</key>
-    <original xml:space="preserve">冒険時は、左上に表示される
+    <original>冒険時は、左上に表示される
 &lt;COL ffdc78&gt;体力（ＨＰ）&lt;/COL&gt;と&lt;COL ffdc78&gt;スタミナ（ＳＴ）&lt;/COL&gt;が重要です
 
 ＨＰは敵の攻撃を受けると減少し
@@ -26,7 +26,7 @@ and use the strength given to you by the White Dragon!</translation>
 
 ＳＴは、激しいアクションにより消費し
 アクションを控えると自然回復します</original>
-    <translation xml:space="preserve">While adventuring, the top left of your screen shows
+    <translation>While adventuring, the top left of your screen shows
 &lt;COL ffdc78&gt;Health（ＨＰ）&lt;/COL&gt;and&lt;COL ffdc78&gt;Stamina（ＳＴ）&lt;/COL&gt;bars.
 
 Health is depleted when you are harmed by enemies,

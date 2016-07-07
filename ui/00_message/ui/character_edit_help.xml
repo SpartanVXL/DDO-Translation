@@ -1,126 +1,126 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>EDIT_MSG_GUIDE_NAME</key>
-    <original xml:space="preserve">名前を設定します</original>
+    <original>名前を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_SEX</key>
-    <original xml:space="preserve">性別を設定します</original>
+    <original>性別を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_PRESET</key>
-    <original xml:space="preserve">プリセットを選択できます</original>
+    <original>プリセットを選択できます</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_RANDOM</key>
-    <original xml:space="preserve">顔や肌色をランダムで設定します</original>
+    <original>顔や肌色をランダムで設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_HAIR</key>
-    <original xml:space="preserve">髪のパーツやカラーを設定します</original>
+    <original>髪のパーツやカラーを設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_BONE</key>
-    <original xml:space="preserve">顔の輪郭を設定します</original>
+    <original>顔の輪郭を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_EYE</key>
-    <original xml:space="preserve">目のパーツやカラー、大きさ等を設定します</original>
+    <original>目のパーツやカラー、大きさ等を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_EYEBROW</key>
-    <original xml:space="preserve">眉のパーツやカラー、間隔等を設定します</original>
+    <original>眉のパーツやカラー、間隔等を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_NOSE</key>
-    <original xml:space="preserve">鼻のパーツや位置等を設定します</original>
+    <original>鼻のパーツや位置等を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_MOUSE</key>
-    <original xml:space="preserve">口のパーツや幅等を設定します</original>
+    <original>口のパーツや幅等を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_EAR</key>
-    <original xml:space="preserve">耳の大きさや向きを設定します</original>
+    <original>耳の大きさや向きを設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_FASHION</key>
-    <original xml:space="preserve">化粧や傷/その他、しわ等を設定します</original>
+    <original>化粧や傷/その他、しわ等を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_COLOR</key>
-    <original xml:space="preserve">様々なカラーを設定します</original>
+    <original>様々なカラーを設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_BODY</key>
-    <original xml:space="preserve">肌のカラーや体格を設定します</original>
+    <original>肌のカラーや体格を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_VOICE</key>
-    <original xml:space="preserve">声を設定します</original>
+    <original>声を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_PERSONAL</key>
-    <original xml:space="preserve">口調を設定します</original>
+    <original>口調を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_VOICE_FREQUENTLY</key>
-    <original xml:space="preserve">発言頻度を設定します</original>
+    <original>発言頻度を設定します</original>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_HISTORY</key>
-    <original xml:space="preserve">ヒストリー</original>
+    <original>ヒストリー</original>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_HISTORY_L</key>
-    <original xml:space="preserve">元に戻る</original>
+    <original>元に戻る</original>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_HISTORY_R</key>
-    <original xml:space="preserve">やり直す</original>
+    <original>やり直す</original>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_DEFAULT</key>
-    <original xml:space="preserve">デフォルトに戻す</original>
-    <translation xml:space="preserve">Reset to Default</translation>
+    <original>デフォルトに戻す</original>
+    <translation>Reset to Default</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_SAVE_LOAD</key>
-    <original xml:space="preserve">セーブ / ロード</original>
-    <translation xml:space="preserve">Save / Load</translation>
+    <original>セーブ / ロード</original>
+    <translation>Save / Load</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CAMERA_ZOOM</key>
-    <original xml:space="preserve">モデル回転&lt;PADM&gt; / ズーム&lt;/PADM&gt;</original>
-    <translation xml:space="preserve">Rotate&lt;PADM&gt;  / Zoom&lt;/PADM&gt;</translation>
+    <original>モデル回転&lt;PADM&gt; / ズーム&lt;/PADM&gt;</original>
+    <translation>Rotate&lt;PADM&gt;  / Zoom&lt;/PADM&gt;</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CAMERA_ROTA</key>
-    <original xml:space="preserve">カメラ操作</original>
-    <translation xml:space="preserve">Camera</translation>
+    <original>カメラ操作</original>
+    <translation>Camera</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CHANGE_EQUIP</key>
-    <original xml:space="preserve">試着</original>
+    <original>試着</original>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CHANGE_LOCATION</key>
-    <original xml:space="preserve">背景切替</original>
-    <translation xml:space="preserve">Background</translation>
+    <original>背景切替</original>
+    <translation>Background</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_TRIAL_MOTION</key>
-    <original xml:space="preserve">ポーズの確認</original>
-    <translation xml:space="preserve">Change Pose</translation>
+    <original>ポーズの確認</original>
+    <translation>Change Pose</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_TRIAL_FACE</key>
-    <original xml:space="preserve">表情の確認</original>
-    <translation xml:space="preserve">Change Expression</translation>
+    <original>表情の確認</original>
+    <translation>Change Expression</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_TRIAL_VOICE</key>
-    <original xml:space="preserve">ボイスの試聴</original>
-    <translation xml:space="preserve">Listen to Voice</translation>
+    <original>ボイスの試聴</original>
+    <translation>Listen to Voice</translation>
   </message>
 </resource>

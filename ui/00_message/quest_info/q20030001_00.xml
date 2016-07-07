@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20030001_00_38</key>
-    <original xml:space="preserve">美食家の探究心</original>
+    <original>美食家の探究心</original>
   </message>
   <message>
     <key>q20030001_00_38</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 望む物品を集める</original>
   </message>
   <message>
     <key>q20030001_00_38</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;には今
+    <original>&lt;NAME AREA&gt;には今
 覚者の助けを欲する者がいるらしい</original>
   </message>
   <message>
     <key>q20030001_00_38</key>
-    <original xml:space="preserve">いま旅先で、見知った顔に出会ったよ
+    <original>いま旅先で、見知った顔に出会ったよ
 つい半月ほど前、行商人から大量に野菜やら肉やらを
 買い付けていた男だった
 それにしても、あんな危険なところまで出向くとは
@@ -24,7 +24,7 @@
   </message>
   <message>
     <key>q20030001_00_1124</key>
-    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
-    <translation xml:space="preserve">Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester (Need: &lt;SQDI DNUM&gt;).</translation>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester (Need: &lt;SQDI DNUM&gt;).</translation>
   </message>
 </resource>

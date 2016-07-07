@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_145</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;《ショートカット》&lt;/COL&gt;はさまざまな機能を
+    <original>&lt;COL ffdc78&gt;《ショートカット》&lt;/COL&gt;はさまざまな機能を
 楽なボタンで呼び出せる便利な短縮操作です
 
 回復アイテム、チャット定型文、メニューや
@@ -13,7 +13,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_408</key>
-    <original xml:space="preserve">＜登録方法：マルチショートカット＞
+    <original>＜登録方法：マルチショートカット＞
 &lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニューから、登録したい
 メニューを選択
 アイテムの場合は《アイテムバッグ》の
@@ -26,7 +26,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_409</key>
-    <original xml:space="preserve">＜登録方法：簡易コミュニケーション＞
+    <original>＜登録方法：簡易コミュニケーション＞
 &lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニューの
 《コミュニケーション》の《定型文》《エモート》や
 《キャラクター》の《ポーン命令》で登録項目を選択

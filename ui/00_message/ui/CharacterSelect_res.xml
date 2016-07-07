@@ -1,154 +1,154 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>char_sel_index_en</key>
-    <original xml:space="preserve">Character Select</original>
+    <original>Character Select</original>
   </message>
   <message>
     <key>char_sel_index_jp</key>
-    <original xml:space="preserve">キャラクター選択</original>
-    <translation xml:space="preserve">Character Select</translation>
+    <original>キャラクター選択</original>
+    <translation>Character Select</translation>
   </message>
   <message>
     <key>char_sel_status</key>
-    <original xml:space="preserve">Status</original>
+    <original>Status</original>
   </message>
   <message>
     <key>char_sel_profile</key>
-    <original xml:space="preserve">Profile</original>
+    <original>Profile</original>
   </message>
   <message>
     <key>char_sel_delete</key>
-    <original xml:space="preserve">キャラクターの削除</original>
-    <translation xml:space="preserve">Delete</translation>
+    <original>キャラクターの削除</original>
+    <translation>Delete</translation>
   </message>
   <message>
     <key>char_sel_del_chara_select</key>
-    <original xml:space="preserve">削除するキャラクターを選択してください
+    <original>削除するキャラクターを選択してください
 削除したキャラクターは二度と復活できません</original>
-    <translation xml:space="preserve">Please select the character to be deleted.
+    <translation>Please select the character to be deleted.
 The deleted character cannot be restored.</translation>
   </message>
   <message>
     <key>char_sel_del_info</key>
-    <original xml:space="preserve">
+    <original>
 &lt;COL ffdc78&gt;未使用の黄金石や&lt;OPCS&gt;等もすべて失われます&lt;/COL&gt;</original>
   </message>
   <message>
     <key>char_sel_code_text</key>
-    <original xml:space="preserve">確認コード &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt; を入力してください</original>
-    <translation xml:space="preserve">Please enter the confirmation code &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt;.</translation>
+    <original>確認コード &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt; を入力してください</original>
+    <translation>Please enter the confirmation code &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt;.</translation>
   </message>
   <message>
     <key>char_sel_code</key>
-    <original xml:space="preserve">確認コード：</original>
-    <translation xml:space="preserve">Confirmation Code:</translation>
+    <original>確認コード：</original>
+    <translation>Confirmation Code:</translation>
   </message>
   <message>
     <key>char_sel_decide</key>
-    <original xml:space="preserve">決定</original>
-    <translation xml:space="preserve">OK</translation>
+    <original>決定</original>
+    <translation>OK</translation>
   </message>
   <message>
     <key>char_sel_cancel</key>
-    <original xml:space="preserve">キャンセル</original>
-    <translation xml:space="preserve">Cancel</translation>
+    <original>キャンセル</original>
+    <translation>Cancel</translation>
   </message>
   <message>
     <key>char_sel_del</key>
-    <original xml:space="preserve">削除</original>
-    <translation xml:space="preserve">Delete</translation>
+    <original>削除</original>
+    <translation>Delete</translation>
   </message>
   <message>
     <key>char_sel_plz_wait</key>
-    <original xml:space="preserve">しばらくお待ちください</original>
-    <translation xml:space="preserve">Please wait.</translation>
+    <original>しばらくお待ちください</original>
+    <translation>Please wait.</translation>
   </message>
   <message>
     <key>char_sel_del_alert</key>
-    <original xml:space="preserve">を削除します</original>
+    <original>を削除します</original>
   </message>
   <message>
     <key>char_sel_del_finish</key>
-    <original xml:space="preserve">キャラクターの削除が完了しました</original>
-    <translation xml:space="preserve">Character deletion is complete.</translation>
+    <original>キャラクターの削除が完了しました</original>
+    <translation>Character deletion is complete.</translation>
   </message>
   <message>
     <key>char_sel_del_error</key>
-    <original xml:space="preserve">確認コードが間違っています</original>
-    <translation xml:space="preserve">The confirmation code is incorrect.</translation>
+    <original>確認コードが間違っています</original>
+    <translation>The confirmation code is incorrect.</translation>
   </message>
   <message>
     <key>char_sel_bonus</key>
-    <original xml:space="preserve">Course</original>
+    <original>Course</original>
   </message>
   <message>
     <key>char_sel_no_bonus</key>
-    <original xml:space="preserve">発動中の&lt;OPCS&gt;はありません</original>
-    <translation xml:space="preserve">There is no &lt;OPCS&gt; currently active.</translation>
+    <original>発動中の&lt;OPCS&gt;はありません</original>
+    <translation>There is no &lt;OPCS&gt; currently active.</translation>
   </message>
   <message>
     <key>char_sel_fourwords</key>
-    <original xml:space="preserve">（半角英数4文字）</original>
+    <original>（半角英数4文字）</original>
   </message>
   <message>
     <key>char_sel_announce_charover</key>
-    <original xml:space="preserve">キャラクター作成上限です</original>
-    <translation xml:space="preserve">You have the maximum amount of characters.</translation>
+    <original>キャラクター作成上限です</original>
+    <translation>You have the maximum amount of characters.</translation>
   </message>
   <message>
     <key>char_sel_add_newchar</key>
-    <original xml:space="preserve">新規作成</original>
-    <translation xml:space="preserve">Create</translation>
+    <original>新規作成</original>
+    <translation>Create</translation>
   </message>
   <message>
     <key>char_sel_button_zoom</key>
-    <original xml:space="preserve">モデル回転&lt;PADM&gt; / ズーム&lt;/PADM&gt;</original>
-    <translation xml:space="preserve">Rotate&lt;PADM&gt;  / Zoom&lt;/PADM&gt;</translation>
+    <original>モデル回転&lt;PADM&gt; / ズーム&lt;/PADM&gt;</original>
+    <translation>Rotate&lt;PADM&gt;  / Zoom&lt;/PADM&gt;</translation>
   </message>
   <message>
     <key>char_sel_button_rota</key>
-    <original xml:space="preserve">カメラ操作</original>
-    <translation xml:space="preserve">Camera</translation>
+    <original>カメラ操作</original>
+    <translation>Camera</translation>
   </message>
   <message>
     <key>char_sel_button_clan_notice</key>
-    <original xml:space="preserve">クランへの通知設定</original>
-    <translation xml:space="preserve">Clan Notification Setting</translation>
+    <original>クランへの通知設定</original>
+    <translation>Clan Notification Setting</translation>
   </message>
   <message>
     <key>char_sel_affiliation_clan</key>
-    <original xml:space="preserve">所属クラン</original>
-    <translation xml:space="preserve">Affiliated Clan</translation>
+    <original>所属クラン</original>
+    <translation>Affiliated Clan</translation>
   </message>
   <message>
     <key>char_sel_clan_notice_info</key>
-    <original xml:space="preserve">クランメンバーへ自分のステータスを通知する</original>
-    <translation xml:space="preserve">Provide Status to Your Clan</translation>
+    <original>クランメンバーへ自分のステータスを通知する</original>
+    <translation>Provide Status to Your Clan</translation>
   </message>
   <message>
     <key>char_sel_on</key>
-    <original xml:space="preserve">ON</original>
+    <original>ON</original>
   </message>
   <message>
     <key>char_sel_off</key>
-    <original xml:space="preserve">OFF</original>
+    <original>OFF</original>
   </message>
   <message>
     <key>char_sel_clan_notice_conf</key>
-    <original xml:space="preserve">クランメンバーへ自分のステータスを通知しますか？
+    <original>クランメンバーへ自分のステータスを通知しますか？
 ※この項目はゲーム設定からいつでも変更できます</original>
-<translation xml:space="preserve">Would you like to send your status to clan
+<translation>Would you like to send your status to clan
 members?
 ※This can be changed any time from the game settings.</translation>
   </message>
   <message>
     <key>char_sel_clan_notice_conf_yes</key>
-    <original xml:space="preserve">通知を行う</original>
-    <translation xml:space="preserve">Notify</translation>
+    <original>通知を行う</original>
+    <translation>Notify</translation>
   </message>
   <message>
     <key>char_sel_clan_notice_conf_no</key>
-    <original xml:space="preserve">通知を行わない</original>
-    <translation xml:space="preserve">Do not notify</translation>
+    <original>通知を行わない</original>
+    <translation>Do not notify</translation>
   </message>
 </resource>

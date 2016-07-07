@@ -1,27 +1,27 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>PAWN_SHARE_RANGE_RES_ANYONE</key>
-    <original xml:space="preserve">誰にでも</original>
-    <translation xml:space="preserve">Anyone</translation>
+    <original>誰にでも</original>
+    <translation>Anyone</translation>
   </message>
   <message>
     <key>PAWN_SHARE_RANGE_RES_FRIEND_ONLY</key>
-    <original xml:space="preserve">フレンドのみ</original>
-    <translation xml:space="preserve">Friends only</translation>
+    <original>フレンドのみ</original>
+    <translation>Friends only</translation>
   </message>
   <message>
     <key>PAWN_SHARE_RANGE_RES_CRAN_ONLY</key>
-    <original xml:space="preserve">クランのみ</original>
-    <translation xml:space="preserve">Clan only</translation>
+    <original>クランのみ</original>
+    <translation>Clan only</translation>
   </message>
   <message>
     <key>PAWN_SHARE_RANGE_RES_FRIEND_CRAN_ONLY</key>
-    <original xml:space="preserve">フレンドとクランのみ</original>
-    <translation xml:space="preserve">Friends and Clan only</translation>
+    <original>フレンドとクランのみ</original>
+    <translation>Friends and Clan only</translation>
   </message>
   <message>
     <key>PAWN_SHARE_RANGE_RES_NOBODY</key>
-    <original xml:space="preserve">非公開</original>
-    <translation xml:space="preserve">Private</translation>
+    <original>非公開</original>
+    <translation>Private</translation>
   </message>
 </resource>

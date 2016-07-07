@@ -1,22 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NPC_TALK_ITEM_1</key>
-    <original xml:space="preserve">世間話</original>
-    <translation xml:space="preserve">Talk</translation>
+    <original>世間話</original>
+    <translation>Talk</translation>
   </message>
   <message>
     <key>NPC_TALK_ITEM_2</key>
-    <original xml:space="preserve">クエスト情報</original>
-    <translation xml:space="preserve">Quest Information</translation>
+    <original>クエスト情報</original>
+    <translation>Quest Information</translation>
   </message>
   <message>
     <key>NPC_TALK_ITEM_3</key>
-    <original xml:space="preserve">耳より情報</original>
-    <translation xml:space="preserve">Gossip</translation>
+    <original>耳より情報</original>
+    <translation>Gossip</translation>
   </message>
   <message>
     <key>NPC_TALK_ITEM_4</key>
-    <original xml:space="preserve">グランドミッション情報</original>
-    <translation xml:space="preserve">Grand Mission Information</translation>
+    <original>グランドミッション情報</original>
+    <translation>Grand Mission Information</translation>
   </message>
 </resource>

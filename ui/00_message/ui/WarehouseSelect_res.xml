@@ -1,36 +1,37 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>warehouse_title</key>
-    <original xml:space="preserve">Menu</original>
+    <original>Menu</original>
+    <translation>Menu</translation>
   </message>
   <message>
     <key>warehouse_title_sub</key>
-    <original xml:space="preserve">メニュー</original>
-    <translation xml:space="preserve">Menu</translation>
+    <original>メニュー</original>
+    <translation>Menu</translation>
   </message>
   <message>
     <key>warehouse_item</key>
-    <original xml:space="preserve">引き出す / 預ける</original>
-    <translation xml:space="preserve">Withdraw / Deposit</translation>
+    <original>引き出す / 預ける</original>
+    <translation>Withdraw / Deposit</translation>
   </message>
   <message>
     <key>warehouse_reward</key>
-    <original xml:space="preserve">報酬受け取り</original>
-    <translation xml:space="preserve">Received Rewards</translation>
+    <original>報酬受け取り</original>
+    <translation>Received Rewards</translation>
   </message>
   <message>
     <key>warehouse_status</key>
-    <original xml:space="preserve">装備変更</original>
-    <translation xml:space="preserve">Change Equipment</translation>
+    <original>装備変更</original>
+    <translation>Change Equipment</translation>
   </message>
   <message>
     <key>warehouse_chara_select_title</key>
-    <original xml:space="preserve">キャラクターを選択してください</original>
-    <translation xml:space="preserve">Select Character</translation>
+    <original>キャラクターを選択してください</original>
+    <translation>Select Character</translation>
   </message>
   <message>
     <key>warehouse_gm_reward</key>
-    <original xml:space="preserve">GM最終報酬受け取り</original>
-    <translation xml:space="preserve">Grand Mission Rewards</translation>
+    <original>GM最終報酬受け取り</original>
+    <translation>Grand Mission Rewards</translation>
   </message>
 </resource>

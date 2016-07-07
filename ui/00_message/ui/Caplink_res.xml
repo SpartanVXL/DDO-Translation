@@ -1,967 +1,968 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>caplink_about</key>
-    <original xml:space="preserve">カプリンクについて</original>
-    <translation xml:space="preserve">About Caplink</translation>
+    <original>カプリンクについて</original>
+    <translation>About Caplink</translation>
   </message>
   <message>
     <key>caplink_friend_list</key>
-    <original xml:space="preserve">Capfriend List</original>
+    <original>カプトモリスト</original>
+    <translation>Capfriend List</translation>
   </message>
   <message>
     <key>caplink_talk</key>
-    <original xml:space="preserve">カプトーク</original>
-    <translation xml:space="preserve">Captalk</translation>
+    <original>カプトーク</original>
+    <translation>Captalk</translation>
   </message>
   <message>
     <key>caplink_search</key>
-    <original xml:space="preserve">カプトモ検索/申請</original>
+    <original>カプトモ検索/申請</original>
   </message>
   <message>
     <key>caplink_profile</key>
-    <original xml:space="preserve">プロフィール/カプリンク設定</original>
-    <translation xml:space="preserve">Profile / Caplink Settings</translation>
+    <original>プロフィール/カプリンク設定</original>
+    <translation>Profile / Caplink Settings</translation>
   </message>
   <message>
     <key>caplink_achievement</key>
-    <original xml:space="preserve">カプトロフィー</original>
-    <translation xml:space="preserve">Captrophy</translation>
+    <original>カプトロフィー</original>
+    <translation>Captrophy</translation>
   </message>
   <message>
     <key>caplink_title_caplink_j</key>
-    <original xml:space="preserve">カプリンクメニュー</original>
-    <translation xml:space="preserve">Caplink</translation>
+    <original>カプリンクメニュー</original>
+    <translation>Caplink</translation>
   </message>
   <message>
     <key>caplink_title_menu_e</key>
-    <original xml:space="preserve">Caplink</original>
+    <original>Caplink</original>
   </message>
   <message>
     <key>caplink_dialog_is_captalk</key>
-    <original xml:space="preserve">%sとカプトークを開始しますか？</original>
+    <original>%sとカプトークを開始しますか？</original>
   </message>
   <message>
     <key>caplink_dialog_done_invite_game</key>
-    <original xml:space="preserve">%sを招待しました。</original>
+    <original>%sを招待しました。</original>
   </message>
   <message>
     <key>caplink_button_check</key>
-    <original xml:space="preserve">確認</original>
+    <original>確認</original>
   </message>
   <message>
     <key>caplink_dialog_done_offer_captomo</key>
-    <original xml:space="preserve">%sにカプトモ申請をしました。</original>
+    <original>%sにカプトモ申請をしました。</original>
   </message>
   <message>
     <key>caplink_dialog_is_offer_captomo</key>
-    <original xml:space="preserve">カプトモ申請しますか？</original>
+    <original>カプトモ申請しますか？</original>
   </message>
   <message>
     <key>caplink_invite_this_game</key>
-    <original xml:space="preserve">このゲームに招待する</original>
+    <original>このゲームに招待する</original>
   </message>
   <message>
     <key>caplink_start_captalk</key>
-    <original xml:space="preserve">カプトーク開始</original>
+    <original>カプトーク開始</original>
   </message>
   <message>
     <key>caplink_see_profile</key>
-    <original xml:space="preserve">プロフィールを見る</original>
+    <original>プロフィールを見る</original>
   </message>
   <message>
     <key>caplink_caplink_topmenu</key>
-    <original xml:space="preserve">カプリンクトップメニュー</original>
+    <original>カプリンクトップメニュー</original>
   </message>
   <message>
     <key>caplink_offer_captomo</key>
-    <original xml:space="preserve">カプトモ申請する</original>
+    <original>カプトモ申請する</original>
   </message>
   <message>
     <key>caplink_button_cancel</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
     <key>caplink_now_search</key>
-    <original xml:space="preserve">新規検索</original>
+    <original>新規検索</original>
   </message>
   <message>
     <key>caplink_button_search_result</key>
-    <original xml:space="preserve">検索</original>
+    <original>検索</original>
   </message>
   <message>
     <key>caplink_num_searched</key>
-    <original xml:space="preserve">&lt;VAL&gt; 人</original>
+    <original>&lt;VAL&gt; 人</original>
   </message>
   <message>
     <key>caplink_caprion_search_captomopass</key>
-    <original xml:space="preserve">カプトモパスで検索</original>
+    <original>カプトモパスで検索</original>
   </message>
   <message>
     <key>caplink_search_result</key>
-    <original xml:space="preserve">検索結果</original>
+    <original>検索結果</original>
   </message>
   <message>
     <key>caplink_caption_search_capname</key>
-    <original xml:space="preserve">カプネームで検索</original>
+    <original>カプネームで検索</original>
   </message>
   <message>
     <key>caplink_dialog_saving_ending</key>
-    <original xml:space="preserve">設定を保存して終了しますか？</original>
+    <original>設定を保存して終了しますか？</original>
   </message>
   <message>
     <key>caplink_caption_search_caputomo</key>
-    <original xml:space="preserve">カプトモ検索</original>
+    <original>カプトモ検索</original>
   </message>
   <message>
     <key>caplink_caption_edit_captag</key>
-    <original xml:space="preserve">%sの編集</original>
+    <original>%sの編集</original>
   </message>
   <message>
     <key>caplink_edit_captag</key>
-    <original xml:space="preserve">タグ名の設定</original>
+    <original>タグ名の設定</original>
   </message>
   <message>
     <key>caplink_edit_comment</key>
-    <original xml:space="preserve">コメントの設定</original>
+    <original>コメントの設定</original>
   </message>
   <message>
     <key>caplink_edit_capname</key>
-    <original xml:space="preserve">カプネームの設定</original>
+    <original>カプネームの設定</original>
   </message>
   <message>
     <key>caplink_unreceive</key>
-    <original xml:space="preserve">受信しない</original>
+    <original>受信しない</original>
   </message>
   <message>
     <key>caplink_edit_profile_thumbnail</key>
-    <original xml:space="preserve">プロフィール画像の設定</original>
+    <original>プロフィール画像の設定</original>
   </message>
   <message>
     <key>caplink_receive</key>
-    <original xml:space="preserve">受信する</original>
+    <original>受信する</original>
   </message>
   <message>
     <key>caplink_ban</key>
-    <original xml:space="preserve">許可しない</original>
+    <original>許可しない</original>
   </message>
   <message>
     <key>caplink_all</key>
-    <original xml:space="preserve">すべてのユーザーから</original>
+    <original>すべてのユーザーから</original>
   </message>
   <message>
     <key>caplink_close_all</key>
-    <original xml:space="preserve">非公開</original>
-    <translation xml:space="preserve">Private</translation>
+    <original>非公開</original>
+    <translation>Private</translation>
   </message>
   <message>
     <key>caplink_allow</key>
-    <original xml:space="preserve">許可する</original>
-    <translation xml:space="preserve">Allowed</translation>
+    <original>許可する</original>
+    <translation>Allowed</translation>
   </message>
   <message>
     <key>caplink_open_captomo</key>
-    <original xml:space="preserve">カプトモのみ公開</original>
-    <translation xml:space="preserve">Public to Capfriends</translation>
+    <original>カプトモのみ公開</original>
+    <translation>Public to Capfriends</translation>
   </message>
   <message>
     <key>caplink_close</key>
-    <original xml:space="preserve">非公開</original>
-    <translation xml:space="preserve">Private</translation>
+    <original>非公開</original>
+    <translation>Private</translation>
   </message>
   <message>
     <key>caplink_open_public</key>
-    <original xml:space="preserve">全員に公開</original>
-    <translation xml:space="preserve">Public to Everyone</translation>
+    <original>全員に公開</original>
+    <translation>Public to Everyone</translation>
   </message>
   <message>
     <key>caplink_open</key>
-    <original xml:space="preserve">公開</original>
-    <translation xml:space="preserve">Public</translation>
+    <original>公開</original>
+    <translation>Public</translation>
   </message>
   <message>
     <key>caplink_notice_invite_games</key>
-    <original xml:space="preserve">ゲームへの招待</original>
+    <original>ゲームへの招待</original>
   </message>
   <message>
     <key>caplink_notice_captomo</key>
-    <original xml:space="preserve">カプトモ申請</original>
+    <original>カプトモ申請</original>
   </message>
   <message>
     <key>caplink_notice_new_captalk</key>
-    <original xml:space="preserve">新着カプトーク</original>
+    <original>新着カプトーク</original>
   </message>
   <message>
     <key>caplink_range_captalk</key>
-    <original xml:space="preserve">カプトークの範囲</original>
+    <original>カプトークの範囲</original>
   </message>
   <message>
     <key>caplink_edit_captomo_tag</key>
-    <original xml:space="preserve">タグの編集</original>
+    <original>タグの編集</original>
   </message>
   <message>
     <key>caplink_caplink_config</key>
-    <original xml:space="preserve">カプリンク設定</original>
+    <original>カプリンク設定</original>
   </message>
   <message>
     <key>caplink_allosing_searched</key>
-    <original xml:space="preserve">検索可能設定</original>
-    <translation xml:space="preserve">Can Be Searched</translation>
+    <original>検索可能設定</original>
+    <translation>Can Be Searched</translation>
   </message>
   <message>
     <key>caplink_profile_expose</key>
-    <original xml:space="preserve">プロフィールの公開</original>
-    <translation xml:space="preserve">Profile Visibility</translation>
+    <original>プロフィールの公開</original>
+    <translation>Profile Visibility</translation>
   </message>
   <message>
     <key>caplink_profile_config</key>
-    <original xml:space="preserve">プロフィール設定</original>
-    <translation xml:space="preserve">Profile Settings</translation>
+    <original>プロフィール設定</original>
+    <translation>Profile Settings</translation>
   </message>
   <message>
     <key>caplink_expose_ddo_online_state</key>
-    <original xml:space="preserve">オンライン状態の公開</original>
-    <translation xml:space="preserve">Online Status Visibility</translation>
+    <original>オンライン状態の公開</original>
+    <translation>Online Status Visibility</translation>
   </message>
   <message>
     <key>caplink_expose_ddo_records</key>
-    <original xml:space="preserve">プレイ情報の公開</original>
-    <translation xml:space="preserve">Play Data Visibility</translation>
+    <original>プレイ情報の公開</original>
+    <translation>Play Data Visibility</translation>
   </message>
   <message>
     <key>caplink_ddo_config</key>
-    <original xml:space="preserve">Dragon's Dogma Online設定</original>
-    <translation xml:space="preserve">Dragon's Dogma Online Settings</translation>
+    <original>Dragon's Dogma Online設定</original>
+    <translation>Dragon's Dogma Online Settings</translation>
   </message>
   <message>
     <key>caplink_button_guid</key>
-    <original xml:space="preserve">プロフィール/カプリンク設定終了</original>
+    <original>プロフィール/カプリンク設定終了</original>
   </message>
   <message>
     <key>caplink_edit_thumbnail</key>
-    <original xml:space="preserve">プロフィール画像</original>
-    <translation xml:space="preserve">Profile Picture</translation>
+    <original>プロフィール画像</original>
+    <translation>Profile Picture</translation>
   </message>
   <message>
     <key>caplink_title_profile_e</key>
-    <original xml:space="preserve">Profile</original>
+    <original>Profile</original>
   </message>
   <message>
     <key>caplink_title_profile_j</key>
-    <original xml:space="preserve">プロフィール</original>
-    <translation xml:space="preserve">Profile</translation>
+    <original>プロフィール</original>
+    <translation>Profile</translation>
   </message>
   <message>
     <key>caplink_offline</key>
-    <original xml:space="preserve">オフライン</original>
+    <original>オフライン</original>
   </message>
   <message>
     <key>caplink_online</key>
-    <original xml:space="preserve">オンライン</original>
+    <original>オンライン</original>
   </message>
   <message>
     <key>caplink_game_playing</key>
-    <original xml:space="preserve">プレイ中のゲーム</original>
+    <original>プレイ中のゲーム</original>
   </message>
   <message>
     <key>caplink_no_comment</key>
-    <original xml:space="preserve">コメント無し</original>
+    <original>コメント無し</original>
   </message>
   <message>
     <key>caplink_comment</key>
-    <original xml:space="preserve">コメント</original>
-    <translation xml:space="preserve">Comment</translation>
+    <original>コメント</original>
+    <translation>Comment</translation>
   </message>
   <message>
     <key>caplink_captomo_pass</key>
-    <original xml:space="preserve">カプトモパス</original>
+    <original>カプトモパス</original>
   </message>
   <message>
     <key>caplink_capname</key>
-    <original xml:space="preserve">カプネーム</original>
-    <translation xml:space="preserve">Capname</translation>
+    <original>カプネーム</original>
+    <translation>Capname</translation>
   </message>
   <message>
     <key>caplink_tab_captomo_appling</key>
-    <original xml:space="preserve">カプトモ申請中</original>
+    <original>カプトモ申請中</original>
   </message>
   <message>
     <key>caplink_tab_captomo_recieving</key>
-    <original xml:space="preserve">カプトモ依頼受信中</original>
+    <original>カプトモ依頼受信中</original>
   </message>
   <message>
     <key>caplink_tab_ignored_user</key>
-    <original xml:space="preserve">無視設定プレイヤーリスト</original>
+    <original>無視設定プレイヤーリスト</original>
   </message>
   <message>
     <key>caplink_property</key>
-    <original xml:space="preserve">属性</original>
+    <original>属性</original>
   </message>
   <message>
     <key>caplink_edit_property</key>
-    <original xml:space="preserve">フレンド属性を設定する</original>
+    <original>フレンド属性を設定する</original>
   </message>
   <message>
     <key>caplink_edit_tag</key>
-    <original xml:space="preserve">カプトモタグを設定する</original>
+    <original>カプトモタグを設定する</original>
   </message>
   <message>
     <key>caplink_start_caplink</key>
-    <original xml:space="preserve">新たにカプトークを開始する</original>
+    <original>新たにカプトークを開始する</original>
   </message>
   <message>
     <key>caplink_cancel_captomo</key>
-    <original xml:space="preserve">カプトモを解除する</original>
+    <original>カプトモを解除する</original>
   </message>
   <message>
     <key>caplink_report_users</key>
-    <original xml:space="preserve">問題のあるユーザーの報告</original>
+    <original>問題のあるユーザーの報告</original>
   </message>
   <message>
     <key>caplink_button_filter</key>
-    <original xml:space="preserve">フィルタ</original>
+    <original>フィルタ</original>
   </message>
   <message>
     <key>caplink_button_sort</key>
-    <original xml:space="preserve">ソート</original>
+    <original>ソート</original>
   </message>
   <message>
     <key>caplink_friend</key>
-    <original xml:space="preserve">フレンド</original>
+    <original>フレンド</original>
   </message>
   <message>
     <key>caplink_good_friend</key>
-    <original xml:space="preserve">仲良しフレンド</original>
+    <original>仲良しフレンド</original>
   </message>
   <message>
     <key>caplink_block</key>
-    <original xml:space="preserve">ブロック</original>
+    <original>ブロック</original>
   </message>
   <message>
     <key>caplink_nodisplay</key>
-    <original xml:space="preserve">非表示</original>
+    <original>非表示</original>
   </message>
   <message>
     <key>caplink_button_end</key>
-    <original xml:space="preserve">完了</original>
+    <original>完了</original>
   </message>
   <message>
     <key>caplink_dialog_is_cancel_captomo</key>
-    <original xml:space="preserve">本当に%sとのカプトモを解除しますか？</original>
+    <original>本当に%sとのカプトモを解除しますか？</original>
   </message>
   <message>
     <key>caplink_dialog_cancel_captomo_done</key>
-    <original xml:space="preserve">%sとのカプトモを解除しました。</original>
+    <original>%sとのカプトモを解除しました。</original>
   </message>
   <message>
     <key>caplink_dialog_report_reason</key>
-    <original xml:space="preserve">問題があると思われる内容を記載し、送信してください。</original>
+    <original>問題があると思われる内容を記載し、送信してください。</original>
   </message>
   <message>
     <key>caplink_dialog_ty_reported</key>
-    <original xml:space="preserve">報告ありがとうございました。</original>
+    <original>報告ありがとうございました。</original>
   </message>
   <message>
     <key>caplink_friend_tag</key>
-    <original xml:space="preserve">フレンド属性タグ</original>
+    <original>フレンド属性タグ</original>
   </message>
   <message>
     <key>caplink_own_game</key>
-    <original xml:space="preserve">参加ゲーム</original>
+    <original>参加ゲーム</original>
   </message>
   <message>
     <key>caplink_captomo_tag</key>
-    <original xml:space="preserve">カプトモタグ</original>
+    <original>カプトモタグ</original>
   </message>
   <message>
     <key>caplink_button_filtering</key>
-    <original xml:space="preserve">フィルタリング</original>
+    <original>フィルタリング</original>
   </message>
   <message>
     <key>caplink_sort_capname</key>
-    <original xml:space="preserve">カプネームでソートする</original>
+    <original>カプネームでソートする</original>
   </message>
   <message>
     <key>caplink_sort_captomo_tag</key>
-    <original xml:space="preserve">カプトモ属性でソートする</original>
+    <original>カプトモ属性でソートする</original>
   </message>
   <message>
     <key>caplink_sort_number_tag</key>
-    <original xml:space="preserve">タグ設定数でソートする</original>
+    <original>タグ設定数でソートする</original>
   </message>
   <message>
     <key>caplink_sort_date_friend</key>
-    <original xml:space="preserve">カプトモになった順でソートする</original>
+    <original>カプトモになった順でソートする</original>
   </message>
   <message>
     <key>caplink_dialog_cancel_request_friend</key>
-    <original xml:space="preserve">%sへのカプトモ申請を取り消しますか？</original>
+    <original>%sへのカプトモ申請を取り消しますか？</original>
   </message>
   <message>
     <key>caplink_dialog_cancel_requset_friend_done</key>
-    <original xml:space="preserve">%sへのカプトモ申請を取り消しました。</original>
+    <original>%sへのカプトモ申請を取り消しました。</original>
   </message>
   <message>
     <key>caplink_agree_request_captomo</key>
-    <original xml:space="preserve">カプトモ申請を承認する</original>
+    <original>カプトモ申請を承認する</original>
   </message>
   <message>
     <key>caplink_delete_request_captomo</key>
-    <original xml:space="preserve">カプトモ申請を消去する</original>
+    <original>カプトモ申請を消去する</original>
   </message>
   <message>
     <key>caplink_dialog_delete_request_captomo</key>
-    <original xml:space="preserve">%sからのカプトモ申請を消去しますか？</original>
+    <original>%sからのカプトモ申請を消去しますか？</original>
   </message>
   <message>
     <key>caplink_dialog_delete_request_captomo_done</key>
-    <original xml:space="preserve">%sからのカプトモ申請を消去しました。</original>
+    <original>%sからのカプトモ申請を消去しました。</original>
   </message>
   <message>
     <key>caplink_dialog_is_nodisplay_request</key>
-    <original xml:space="preserve">%sからのカプトモ申請を
+    <original>%sからのカプトモ申請を
 無視設定にしますか？</original>
   </message>
   <message>
     <key>caplink_dialog_done_nodisplay_request</key>
-    <original xml:space="preserve">%sを無視設定にしました。</original>
+    <original>%sを無視設定にしました。</original>
   </message>
   <message>
     <key>caplink_dialog_is_cancel_ignore</key>
-    <original xml:space="preserve">%sへの無視設定を解除しますか？</original>
+    <original>%sへの無視設定を解除しますか？</original>
   </message>
   <message>
     <key>caplink_dialog_done_cancel_ignore</key>
-    <original xml:space="preserve">%sへの無視設定を解除しました。</original>
+    <original>%sへの無視設定を解除しました。</original>
   </message>
   <message>
     <key>caplink_list_captalk</key>
-    <original xml:space="preserve">カプトーク一覧</original>
+    <original>カプトーク一覧</original>
   </message>
   <message>
     <key>caplink_edit_invite_message</key>
-    <original xml:space="preserve">招待メッセージ送信</original>
+    <original>招待メッセージ送信</original>
   </message>
   <message>
     <key>caplink_done_create_group_captalk</key>
-    <original xml:space="preserve">カプトーク【%s】が作成されました。</original>
+    <original>カプトーク【%s】が作成されました。</original>
   </message>
   <message>
     <key>caplink_done_breakup_captalk</key>
-    <original xml:space="preserve">【%s】を解散しました。</original>
+    <original>【%s】を解散しました。</original>
   </message>
   <message>
     <key>caplink_is_breakup_captalk</key>
-    <original xml:space="preserve">【%s】を解散しますか？
+    <original>【%s】を解散しますか？
 (これまでの履歴しか閲覧できなくなります)</original>
   </message>
   <message>
     <key>caplink_done_change_group_name_captalk</key>
-    <original xml:space="preserve">グループ名を【%s】に変更しました。</original>
+    <original>グループ名を【%s】に変更しました。</original>
   </message>
   <message>
     <key>caplink_change_group_name_captalk</key>
-    <original xml:space="preserve">グループ名変更</original>
+    <original>グループ名変更</original>
   </message>
   <message>
     <key>caplink_done_leave_captalk</key>
-    <original xml:space="preserve">【%s】から脱退しました。</original>
+    <original>【%s】から脱退しました。</original>
   </message>
   <message>
     <key>caplink_is_leave_captalk</key>
-    <original xml:space="preserve">【%s】から脱退しますか？
+    <original>【%s】から脱退しますか？
 (これまでの履歴しか閲覧できなくなります)</original>
   </message>
   <message>
     <key>caplink_add_this_member_captalk</key>
-    <original xml:space="preserve">このプレイヤーを追加する</original>
+    <original>このプレイヤーを追加する</original>
   </message>
   <message>
     <key>caplink_done_add_member_captalk</key>
-    <original xml:space="preserve">【%s】に以下のメンバーが追加されました。</original>
+    <original>【%s】に以下のメンバーが追加されました。</original>
   </message>
   <message>
     <key>caplink_decide_member_captalk</key>
-    <original xml:space="preserve">メンバー決定</original>
+    <original>メンバー決定</original>
   </message>
   <message>
     <key>caplink_search_captomo_captalk</key>
-    <original xml:space="preserve">カプトモ検索</original>
+    <original>カプトモ検索</original>
   </message>
   <message>
     <key>caplink_number_member_captalk</key>
-    <original xml:space="preserve">メンバー数</original>
+    <original>メンバー数</original>
   </message>
   <message>
     <key>caplink_add_from_search_captalk</key>
-    <original xml:space="preserve">新規に検索して追加</original>
+    <original>新規に検索して追加</original>
   </message>
   <message>
     <key>caplink_add_member_captalk</key>
-    <original xml:space="preserve">メンバーの追加</original>
+    <original>メンバーの追加</original>
   </message>
   <message>
     <key>caplink_add_from_captomo_captalk</key>
-    <original xml:space="preserve">カプトモリストから追加</original>
+    <original>カプトモリストから追加</original>
   </message>
   <message>
     <key>caplink_done_force_leave_captalk</key>
-    <original xml:space="preserve">%sを【%s】から
+    <original>%sを【%s】から
 脱退させました。</original>
   </message>
   <message>
     <key>caplink_is_force_leave_captalk</key>
-    <original xml:space="preserve">%sを【%s】から
+    <original>%sを【%s】から
 脱退させますか？</original>
   </message>
   <message>
     <key>caplink_leave_captalk</key>
-    <original xml:space="preserve">このカプトークから脱退する</original>
+    <original>このカプトークから脱退する</original>
   </message>
   <message>
     <key>caplink_force_leave_captalk</key>
-    <original xml:space="preserve">脱退させる（オーナーのみ）</original>
+    <original>脱退させる（オーナーのみ）</original>
   </message>
   <message>
     <key>caplink_delete_captalk</key>
-    <original xml:space="preserve">削除</original>
+    <original>削除</original>
   </message>
   <message>
     <key>caplink_see_record_captalk</key>
-    <original xml:space="preserve">開く（履歴閲覧）</original>
+    <original>開く（履歴閲覧）</original>
   </message>
   <message>
     <key>caplink_menu_in_left_captalk</key>
-    <original xml:space="preserve">カプトークメニュー(脱退済み)</original>
+    <original>カプトークメニュー(脱退済み)</original>
   </message>
   <message>
     <key>caplink_menu_captalk</key>
-    <original xml:space="preserve">カプトークメニュー</original>
+    <original>カプトークメニュー</original>
   </message>
   <message>
     <key>caplink_breakup_by_owner_captalk</key>
-    <original xml:space="preserve">解散(オーナーのみ)</original>
+    <original>解散(オーナーのみ)</original>
   </message>
   <message>
     <key>caplink_change_group_name_by_owner_captalk</key>
-    <original xml:space="preserve">グループ名変更(オーナーのみ)</original>
+    <original>グループ名変更(オーナーのみ)</original>
   </message>
   <message>
     <key>caplink_member_list_captalk</key>
-    <original xml:space="preserve">メンバー一覧表示</original>
+    <original>メンバー一覧表示</original>
   </message>
   <message>
     <key>caplink_see_captalk</key>
-    <original xml:space="preserve">開く</original>
+    <original>開く</original>
   </message>
   <message>
     <key>caplink_in_captalk</key>
-    <original xml:space="preserve">参加</original>
+    <original>参加</original>
   </message>
   <message>
     <key>caplink_out_captalk</key>
-    <original xml:space="preserve">脱退</original>
+    <original>脱退</original>
   </message>
   <message>
     <key>caplink_button_make_new_captalk</key>
-    <original xml:space="preserve">新規カプトーク</original>
+    <original>新規カプトーク</original>
   </message>
   <message>
     <key>caplink_update_captalk</key>
-    <original xml:space="preserve">更新日時</original>
+    <original>更新日時</original>
   </message>
   <message>
     <key>caplink_state_captalk</key>
-    <original xml:space="preserve">状態</original>
+    <original>状態</original>
   </message>
   <message>
     <key>caplink_participate_captalk</key>
-    <original xml:space="preserve">人数</original>
+    <original>人数</original>
   </message>
   <message>
     <key>caplink_owner_captalk</key>
-    <original xml:space="preserve">オーナー</original>
+    <original>オーナー</original>
   </message>
   <message>
     <key>caplink_group_captalk</key>
-    <original xml:space="preserve">グループ</original>
+    <original>グループ</original>
   </message>
   <message>
     <key>caplink_profile_character_name</key>
-    <original xml:space="preserve">キャラクター名</original>
+    <original>キャラクター名</original>
   </message>
   <message>
     <key>caplink_captomolist_caption_request_time</key>
-    <original xml:space="preserve">申請日時</original>
+    <original>申請日時</original>
   </message>
   <message>
     <key>caplink_captomolist_caption_reception_time</key>
-    <original xml:space="preserve">開始日時</original>
+    <original>開始日時</original>
   </message>
   <message>
     <key>caplink_captomolist_search_number</key>
-    <original xml:space="preserve">検索人数</original>
+    <original>検索人数</original>
   </message>
   <message>
     <key>caplink_captomolist_pending</key>
-    <original xml:space="preserve">申請中</original>
+    <original>申請中</original>
   </message>
   <message>
     <key>caplink_captomolist_message_no_corresponding</key>
-    <original xml:space="preserve">該当するプレイヤーがいません。</original>
+    <original>該当するプレイヤーがいません。</original>
   </message>
   <message>
     <key>caplink_captomolist_message_filtering</key>
-    <original xml:space="preserve">フィルタ条件にチェックを入れてください。</original>
+    <original>フィルタ条件にチェックを入れてください。</original>
   </message>
   <message>
     <key>caplink_captomolist_message_sorting</key>
-    <original xml:space="preserve">ソート方法を選んでください。</original>
+    <original>ソート方法を選んでください。</original>
   </message>
   <message>
     <key>caplink_captalk_message_no_group</key>
-    <original xml:space="preserve">グループがありません。</original>
+    <original>グループがありません。</original>
   </message>
   <message>
     <key>caplink_captalk_add_member</key>
-    <original xml:space="preserve">メンバー追加</original>
+    <original>メンバー追加</original>
   </message>
   <message>
     <key>caplink_captalk_newcreate_caption</key>
-    <original xml:space="preserve">新規にカプトークを作成する</original>
+    <original>新規にカプトークを作成する</original>
   </message>
   <message>
     <key>caplink_captalk_newcreate_add_captomo</key>
-    <original xml:space="preserve">カプトモリストからメンバーを選ぶ</original>
+    <original>カプトモリストからメンバーを選ぶ</original>
   </message>
   <message>
     <key>caplink_captalk_newcreate_add_search</key>
-    <original xml:space="preserve">新規にプレイヤーを検索して作成する</original>
+    <original>新規にプレイヤーを検索して作成する</original>
   </message>
   <message>
     <key>caplink_captalk_newcreate_button</key>
-    <original xml:space="preserve">新規カプトーク作成</original>
+    <original>新規カプトーク作成</original>
   </message>
   <message>
     <key>caplink_captalk_close_button</key>
-    <original xml:space="preserve">閉じる</original>
+    <original>閉じる</original>
   </message>
   <message>
     <key>caplink_captalk_menu_button</key>
-    <original xml:space="preserve">メニュー</original>
+    <original>メニュー</original>
   </message>
   <message>
     <key>caplink_captalk_message_unread</key>
-    <original xml:space="preserve">ここから未読</original>
+    <original>ここから未読</original>
   </message>
   <message>
     <key>caplink_captalk_menu_leave</key>
-    <original xml:space="preserve">このカプトークから脱退する</original>
+    <original>このカプトークから脱退する</original>
   </message>
   <message>
     <key>caplink_usermenu_cancel_request</key>
-    <original xml:space="preserve">カプトモ申請を取り消す</original>
+    <original>カプトモ申請を取り消す</original>
   </message>
   <message>
     <key>caplink_usermenu_ignore_request</key>
-    <original xml:space="preserve">カプトモ申請を無視設定する</original>
+    <original>カプトモ申請を無視設定する</original>
   </message>
   <message>
     <key>caplink_usermenu_cancel_ignore</key>
-    <original xml:space="preserve">無視設定を解除する</original>
+    <original>無視設定を解除する</original>
   </message>
   <message>
     <key>caplink_usermenu_check_myprofile</key>
-    <original xml:space="preserve">自分のプロフィールを確認する</original>
+    <original>自分のプロフィールを確認する</original>
   </message>
   <message>
     <key>caplink_usermenu_edit_myprofile</key>
-    <original xml:space="preserve">自分のプロフィールを編集する</original>
+    <original>自分のプロフィールを編集する</original>
   </message>
   <message>
     <key>caplink_usermenu_edit_property_caption</key>
-    <original xml:space="preserve">フレンド属性設定</original>
+    <original>フレンド属性設定</original>
   </message>
   <message>
     <key>caplink_captalk_member_list_caption</key>
-    <original xml:space="preserve">メンバー一覧</original>
+    <original>メンバー一覧</original>
   </message>
   <message>
     <key>caplink_captalk_member_list_decide_button</key>
-    <original xml:space="preserve">メンバー決定</original>
+    <original>メンバー決定</original>
   </message>
   <message>
     <key>caplink_profile_open_captomo_from_captomo</key>
-    <original xml:space="preserve">カプトモのカプトモまで公開</original>
-    <translation xml:space="preserve">Public to Capfriends of Capfriends</translation>
+    <original>カプトモのカプトモまで公開</original>
+    <translation>Public to Capfriends of Capfriends</translation>
   </message>
   <message>
     <key>caplink_profile_reception_captomo</key>
-    <original xml:space="preserve">カプトモのみ受信</original>
+    <original>カプトモのみ受信</original>
   </message>
   <message>
     <key>caplink_profile_reception_noticemail</key>
-    <original xml:space="preserve">通知メールの受信</original>
+    <original>通知メールの受信</original>
   </message>
   <message>
     <key>caplink_profile_selecticon_caption</key>
-    <original xml:space="preserve">プロフィール画像</original>
+    <original>プロフィール画像</original>
   </message>
   <message>
     <key>caplink_profile_selecticon_preview_e</key>
-    <original xml:space="preserve">Preview</original>
+    <original>Preview</original>
   </message>
   <message>
     <key>caplink_profile_edit_tag_caption_e</key>
-    <original xml:space="preserve">Tag</original>
+    <original>Tag</original>
   </message>
   <message>
     <key>caplink_profile_edit_tag_caption</key>
-    <original xml:space="preserve">カプトモタグ編集</original>
+    <original>カプトモタグ編集</original>
   </message>
   <message>
     <key>caplink_profile_message_select_noticemail</key>
-    <original xml:space="preserve">メールで受信する通知を選択してください。</original>
+    <original>メールで受信する通知を選択してください。</original>
   </message>
   <message>
     <key>caplink_profile_noticemail_changeprofile</key>
-    <original xml:space="preserve">プロフィールの変更</original>
+    <original>プロフィールの変更</original>
   </message>
   <message>
     <key>caplink_profile_noticemail_timeline</key>
-    <original xml:space="preserve">タイムライン</original>
+    <original>タイムライン</original>
   </message>
   <message>
     <key>caplink_profile_noticemail_time_caption</key>
-    <original xml:space="preserve">メール通知する時間帯の設定</original>
+    <original>メール通知する時間帯の設定</original>
   </message>
   <message>
     <key>caplink_profile_noticemail_time_morning</key>
-    <original xml:space="preserve">午前（6：00～11:59）</original>
+    <original>午前（6：00～11:59）</original>
   </message>
   <message>
     <key>caplink_profile_noticemail_time_afternoon</key>
-    <original xml:space="preserve">午後（12：00～17:59）</original>
+    <original>午後（12：00～17:59）</original>
   </message>
   <message>
     <key>caplink_profile_noticemail_time_night</key>
-    <original xml:space="preserve">夜（18：00～23:59）</original>
+    <original>夜（18：00～23:59）</original>
   </message>
   <message>
     <key>caplink_profile_noticemail_time_latenight</key>
-    <original xml:space="preserve">深夜（0：00～5:59）</original>
+    <original>深夜（0：00～5:59）</original>
   </message>
   <message>
     <key>caplink_checkmessage_reception_caption</key>
-    <original xml:space="preserve">届いているメッセージ</original>
+    <original>届いているメッセージ</original>
   </message>
   <message>
     <key>caplink_checkmessage_message_reception</key>
-    <original xml:space="preserve">%sからのカプトモ申請を承認しますか？</original>
+    <original>%sからのカプトモ申請を承認しますか？</original>
   </message>
   <message>
     <key>caplink_editmessage_send_button</key>
-    <original xml:space="preserve">送信</original>
+    <original>送信</original>
   </message>
   <message>
     <key>caplink_editmessage_chatmessage_caption</key>
-    <original xml:space="preserve">チャットメッセージ送信</original>
+    <original>チャットメッセージ送信</original>
   </message>
   <message>
     <key>caplink_editmessage_request_caption</key>
-    <original xml:space="preserve">カプトモ申請メッセージ送信</original>
+    <original>カプトモ申請メッセージ送信</original>
   </message>
   <message>
     <key>caplink_editmessage_request_default</key>
-    <original xml:space="preserve">カプトモになりましょう！</original>
+    <original>カプトモになりましょう！</original>
   </message>
   <message>
     <key>caplink_editmessage_invite_default</key>
-    <original xml:space="preserve">Dragon's Dogma Onlineで一緒に冒険しよう！</original>
+    <original>Dragon's Dogma Onlineで一緒に冒険しよう！</original>
   </message>
   <message>
     <key>caplink_editmessage_groupname_caption</key>
-    <original xml:space="preserve">グループ名の設定</original>
+    <original>グループ名の設定</original>
   </message>
   <message>
     <key>caplink_yesnoform_message_invite</key>
-    <original xml:space="preserve">%sを『ドラゴンズドグマ オンライン』に招待しますか？</original>
+    <original>%sを『ドラゴンズドグマ オンライン』に招待しますか？</original>
   </message>
   <message>
     <key>caplink_yesnoform_message_deletegroup</key>
-    <original xml:space="preserve">%sを削除しますか？
+    <original>%sを削除しますか？
 （履歴閲覧ができなくなります）</original>
   </message>
   <message>
     <key>caplink_checkdialog_message_captomo</key>
-    <original xml:space="preserve">%sとカプトモになりました。</original>
+    <original>%sとカプトモになりました。</original>
   </message>
   <message>
     <key>caplink_checkdialog_message_deletegroup</key>
-    <original xml:space="preserve">%sを削除しました。</original>
+    <original>%sを削除しました。</original>
   </message>
   <message>
     <key>caplink_button_check_playinggame</key>
-    <original xml:space="preserve">プレイ中のゲームを確認</original>
+    <original>プレイ中のゲームを確認</original>
   </message>
   <message>
     <key>caplink_done_friend_property_apply</key>
-    <original xml:space="preserve">フレンド属性を変更しました</original>
+    <original>フレンド属性を変更しました</original>
   </message>
   <message>
     <key>caplink_done_friend_tag_apply</key>
-    <original xml:space="preserve">カプトモタグを設定しました</original>
+    <original>カプトモタグを設定しました</original>
   </message>
   <message>
     <key>caplink_notice_select_member</key>
-    <original xml:space="preserve">メンバーを選んでください</original>
+    <original>メンバーを選んでください</original>
   </message>
   <message>
     <key>caplink_notice_input_group_name</key>
-    <original xml:space="preserve">グループ名を入力してください</original>
+    <original>グループ名を入力してください</original>
   </message>
   <message>
     <key>caplink_menu_title_captalk</key>
-    <original xml:space="preserve">Captalk</original>
+    <original>Captalk</original>
   </message>
   <message>
     <key>caplink_chat_input_mode</key>
-    <original xml:space="preserve">あ</original>
+    <original>あ</original>
   </message>
   <message>
     <key>caplink_filter_tag_none</key>
-    <original xml:space="preserve">カプトモタグなし</original>
+    <original>カプトモタグなし</original>
   </message>
   <message>
     <key>caplink_checkmessage_reception_done</key>
-    <original xml:space="preserve">%sからのカプトモ申請を承認しました。</original>
+    <original>%sからのカプトモ申請を承認しました。</original>
   </message>
   <message>
     <key>caplink_error_search_capname</key>
-    <original xml:space="preserve">検索するカプネームを入力してください</original>
+    <original>検索するカプネームを入力してください</original>
   </message>
   <message>
     <key>caplink_error_search_pass</key>
-    <original xml:space="preserve">検索するカプトモパスを入力してください</original>
+    <original>検索するカプトモパスを入力してください</original>
   </message>
   <message>
     <key>caplink_error_chat_member_max</key>
-    <original xml:space="preserve">16人までしかメンバーを追加することはできません</original>
+    <original>16人までしかメンバーを追加することはできません</original>
   </message>
   <message>
     <key>caplink_error_tag_edit</key>
-    <original xml:space="preserve">タグ名を入力してください</original>
+    <original>タグ名を入力してください</original>
   </message>
   <message>
     <key>caplink_profile_selecticon_caption_e</key>
-    <original xml:space="preserve">Image</original>
+    <original>Image</original>
   </message>
   <message>
     <key>caplink_error_input_no_message</key>
-    <original xml:space="preserve">メッセージを入力してください</original>
+    <original>メッセージを入力してください</original>
   </message>
   <message>
     <key>caplink_save_confirm</key>
-    <original xml:space="preserve">保存して終了しますか？</original>
+    <original>保存して終了しますか？</original>
   </message>
   <message>
     <key>caplink_notice_mail_receive</key>
-    <original xml:space="preserve">メール通知設定</original>
+    <original>メール通知設定</original>
   </message>
   <message>
     <key>caplink_receive_setting</key>
-    <original xml:space="preserve">受信設定</original>
+    <original>受信設定</original>
   </message>
   <message>
     <key>caplink_filter_content_none</key>
-    <original xml:space="preserve">参加ゲームなし</original>
+    <original>参加ゲームなし</original>
   </message>
   <message>
     <key>caplink_captomolist_caption_ignore_time</key>
-    <original xml:space="preserve">設定日時</original>
+    <original>設定日時</original>
   </message>
   <message>
     <key>caplink_captomolist_caption_invited_content</key>
-    <original xml:space="preserve">ゲーム</original>
+    <original>ゲーム</original>
   </message>
   <message>
     <key>caplink_captomolist_caption_invited_time</key>
-    <original xml:space="preserve">招待日時</original>
+    <original>招待日時</original>
   </message>
   <message>
     <key>caplink_tab_captomo_invited</key>
-    <original xml:space="preserve">招待一覧</original>
+    <original>招待一覧</original>
   </message>
   <message>
     <key>caplink_submenu_confirm_invited_message</key>
-    <original xml:space="preserve">メッセージを確認する</original>
+    <original>メッセージを確認する</original>
   </message>
   <message>
     <key>caplink_dialog_delete_invited_message</key>
-    <original xml:space="preserve">%sからの招待を消去しますか？</original>
+    <original>%sからの招待を消去しますか？</original>
   </message>
   <message>
     <key>caplink_dialog_delete_invited_message_done</key>
-    <original xml:space="preserve">%sからの招待を消去しました。</original>
+    <original>%sからの招待を消去しました。</original>
   </message>
   <message>
     <key>caplink_title_achievement_e</key>
-    <original xml:space="preserve">Captrophy</original>
+    <original>Captrophy</original>
   </message>
   <message>
     <key>caplink_notice_receive_reward</key>
-    <original xml:space="preserve">報酬を受け取りました</original>
+    <original>報酬を受け取りました</original>
   </message>
   <message>
     <key>caplink_achievement_complete</key>
-    <original xml:space="preserve">達成</original>
+    <original>達成</original>
   </message>
   <message>
     <key>caplink_achievement_not_complete</key>
-    <original xml:space="preserve">未達成</original>
+    <original>未達成</original>
   </message>
   <message>
     <key>caplink_achievement_receive_enable</key>
-    <original xml:space="preserve">受け取り可</original>
+    <original>受け取り可</original>
   </message>
   <message>
     <key>caplink_achievement_received</key>
-    <original xml:space="preserve">受け取り済</original>
+    <original>受け取り済</original>
   </message>
   <message>
     <key>caplink_achievement_receive</key>
-    <original xml:space="preserve">受け取る</original>
+    <original>受け取る</original>
   </message>
   <message>
     <key>caplink_achievement_difficulty</key>
-    <original xml:space="preserve">難易度</original>
+    <original>難易度</original>
   </message>
   <message>
     <key>caplink_achievement_condition</key>
-    <original xml:space="preserve">条件</original>
+    <original>条件</original>
   </message>
   <message>
     <key>caplink_achievement_reward</key>
-    <original xml:space="preserve">報酬</original>
+    <original>報酬</original>
   </message>
   <message>
     <key>caplink_achievement_period_infinity</key>
-    <original xml:space="preserve">無制限</original>
+    <original>無制限</original>
   </message>
   <message>
     <key>caplink_confirm_receive_reward</key>
-    <original xml:space="preserve">報酬を受け取りますか</original>
+    <original>報酬を受け取りますか</original>
   </message>
   <message>
     <key>caplink_ddon_fullname</key>
-    <original xml:space="preserve">ドラゴンズドグマオンライン</original>
+    <original>ドラゴンズドグマオンライン</original>
   </message>
   <message>
     <key>caplink_ddon_condition</key>
-    <original xml:space="preserve">DDON達成条件</original>
+    <original>DDON達成条件</original>
   </message>
   <message>
     <key>caplink_ddon_condition_explanation</key>
-    <original xml:space="preserve">DDONで条件を達成すると
+    <original>DDONで条件を達成すると
 他タイトルで報酬が受け取れます</original>
   </message>
 </resource>

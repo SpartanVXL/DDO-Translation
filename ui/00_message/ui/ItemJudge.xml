@@ -1,42 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ItemJudge_000</key>
-    <original xml:space="preserve">どれを鑑定しますか？</original>
-    <translation xml:space="preserve">What would you like to appraise?</translation>
+    <original>どれを鑑定しますか？</original>
+    <translation>What would you like to appraise?</translation>
   </message>
   <message>
     <key>ItemJudge_001</key>
-    <original xml:space="preserve">(所持数：%d)</original>
-    <translation xml:space="preserve">(Have: %d)</translation>
+    <original>(所持数：%d)</original>
+    <translation>(Have: %d)</translation>
   </message>
   <message>
     <key>ItemJudge_002</key>
-    <original xml:space="preserve">鑑定しました。以下の内容でよろしいですか？
+    <original>鑑定しました。以下の内容でよろしいですか？
 
 　鑑定アイテム ： &lt;VAL&gt; × &lt;VAL&gt;
 　&lt;COL ffdc78&gt;鑑定結果　　 ： &lt;VAL&gt; × &lt;VAL&gt;&lt;/COL&gt;</original>
-    <translation xml:space="preserve">Item appraised. Is this OK?
+    <translation>Item appraised. Is this OK?
 
 Appraised Item: &lt;VAL&gt; × &lt;VAL&gt;
 　&lt;COL ffdc78&gt;Results: &lt;VAL&gt; × &lt;VAL&gt;&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ItemJudge_003</key>
-    <original xml:space="preserve">以下のアイテムを獲得しました
+    <original>以下のアイテムを獲得しました
 
 　&lt;COL ffdc78&gt;&lt;VAL&gt; × &lt;VAL&gt;&lt;/COL&gt;</original>
   </message>
-  <translation xml:space="preserve">You have obtained:
+  <translation>You have obtained:
 
 　&lt;COL ffdc78&gt;&lt;VAL&gt; × &lt;VAL&gt;&lt;/COL&gt;</translation>
   <message>
     <key>confirm_judge_random</key>
-    <original xml:space="preserve">鑑定します。よろしいですか？
+    <original>鑑定します。よろしいですか？
 　鑑定アイテム ： &lt;VAL&gt; × &lt;VAL&gt;
 　費用　　　　 ： &lt;VAL GOLD&gt;
 
 以下のいずれかのアイテムのようです</original>
-    <translation xml:space="preserve">Item appraised. Is this OK?
+    <translation>Item appraised. Is this OK?
 
 Appraised Item: &lt;VAL&gt; × &lt;VAL&gt;
 Cost: &lt;VAL GOLD&gt;

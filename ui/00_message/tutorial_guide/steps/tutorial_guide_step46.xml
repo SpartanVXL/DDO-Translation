@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_150</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;《チャット》&lt;/COL&gt;は、ゲームプレイ中に
+    <original>&lt;COL ffdc78&gt;《チャット》&lt;/COL&gt;は、ゲームプレイ中に
 他のプレイヤーとコミュニケーションを
 取るための基本ツールです
 
@@ -14,7 +14,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_149</key>
-    <original xml:space="preserve">表示させる情報はフィルタリングできます
+    <original>表示させる情報はフィルタリングできます
 　&lt;PADM&gt;【&lt;ICON PAD_L1&gt;／&lt;ICON PAD_R1&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_PGUP&gt;／&lt;ICON KB_PGDOWN&gt;】&lt;/KEYM&gt;でチャンネル切替
 　（＋）からチャンネル追加
 
@@ -27,7 +27,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_280</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;誰に対して発言するかは
+    <original>&lt;COL ffdc78&gt;誰に対して発言するかは
 チャット入力欄上の《対象メニュー》で
 切替えられます&lt;/COL&gt;
 
@@ -39,7 +39,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_390</key>
-    <original xml:space="preserve">チャット会話対象タイプは、以下になります
+    <original>チャット会話対象タイプは、以下になります
 
 　&lt;COL ffdc78&gt;Say&lt;/COL&gt; ：周りのプレイヤー
 　&lt;COL ffdc78&gt;Shout&lt;/COL&gt; ：同ワールドのプレイヤー全員

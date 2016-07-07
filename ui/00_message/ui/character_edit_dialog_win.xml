@@ -1,84 +1,84 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_YES</key>
-    <original xml:space="preserve">はい</original>
-    <translation xml:space="preserve">Yes</translation>
+    <original>はい</original>
+    <translation>Yes</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_NO</key>
-    <original xml:space="preserve">いいえ</original>
-    <translation xml:space="preserve">No</translation>
+    <original>いいえ</original>
+    <translation>No</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_OK</key>
-    <original xml:space="preserve">OK</original>
+    <original>OK</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_DECISION</key>
-    <original xml:space="preserve">はい</original>
-    <translation xml:space="preserve">OK</translation>
+    <original>はい</original>
+    <translation>OK</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_CONTINUE</key>
-    <original xml:space="preserve">いいえ</original>
-    <translation xml:space="preserve">Cancel</translation>
+    <original>いいえ</original>
+    <translation>Cancel</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_BACKSPACE</key>
-    <original xml:space="preserve">キャンセル</original>
-    <translation xml:space="preserve">Cancel</translation>
+    <original>キャンセル</original>
+    <translation>Cancel</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_BACK</key>
-    <original xml:space="preserve">いいえ</original>
-    <translation xml:space="preserve">Back</translation>
+    <original>いいえ</original>
+    <translation>Back</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_ONLINESHOP</key>
-    <original xml:space="preserve">オンラインショップで購入する</original>
+    <original>オンラインショップで購入する</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_REPLY_EDIT_SAVE</key>
-    <original xml:space="preserve">エディットをセーブする</original>
+    <original>エディットをセーブする</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CHOICE_SAVE</key>
-    <original xml:space="preserve">セーブ</original>
-    <translation xml:space="preserve">Save</translation>
+    <original>セーブ</original>
+    <translation>Save</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CHOICE_LOAD</key>
-    <original xml:space="preserve">ロード</original>
-    <translation xml:space="preserve">Load</translation>
+    <original>ロード</original>
+    <translation>Load</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_EDIT_CANCEL</key>
-    <original xml:space="preserve">エディットを終了して
+    <original>エディットを終了して
 前の画面に戻りますか？</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_EDIT_FIX</key>
-    <original xml:space="preserve">エディットを決定します
+    <original>エディットを決定します
 これでよろしいですか？</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SALON_CANCEL</key>
-    <original xml:space="preserve">美容院をキャンセルします
+    <original>美容院をキャンセルします
 よろしいですか？</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SALON_FIX</key>
-    <original xml:space="preserve">黄金石&lt;VAL&gt;個を使用して
+    <original>黄金石&lt;VAL&gt;個を使用して
 エディットを変更します
 よろしいですか？</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SALON_NOTGP</key>
-    <original xml:space="preserve">黄金石が足りません</original>
+    <original>黄金石が足りません</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_LOAD</key>
-    <original xml:space="preserve">エディットのセーブ/ロード
+    <original>エディットのセーブ/ロード
 
 性別や顔、体型などのモデルに関する
 エディット情報をセーブ
@@ -86,149 +86,149 @@
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_WORD</key>
-    <original xml:space="preserve">現在のエディット情報をセーブします</original>
+    <original>現在のエディット情報をセーブします</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_DATE</key>
-    <original xml:space="preserve">エディットデータ：</original>
+    <original>エディットデータ：</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_LOAD_OVERWRITE</key>
-    <original xml:space="preserve">ロードしたエディット情報を
+    <original>ロードしたエディット情報を
 今のモデルに
 適用してもよろしいですか？</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_ERROR_LOAD_NG_DATA</key>
-    <original xml:space="preserve">ロードしたエディットデータは
+    <original>ロードしたエディットデータは
 破損しているため使用できません</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_LOAD_OVERWRITE_AT</key>
-    <original xml:space="preserve">ロードしたエディットデータは
+    <original>ロードしたエディットデータは
 設定できない項目が含まれているため
 使用できません</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_ERROR_LOAD_NG_SEX</key>
-    <original xml:space="preserve">ロードしたエディットデータは
+    <original>ロードしたエディットデータは
 設定している性別と異なるため
 使用できません</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_ERROR_NAME_EMPTY</key>
-    <original xml:space="preserve">名前が決定していません
+    <original>名前が決定していません
 名前を使用可能の状態にしてください</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_ERROR_NAME_USED1</key>
-    <original xml:space="preserve">&lt;NAME&gt;は
+    <original>&lt;NAME&gt;は
 すでに使用されている名前です
 違う名前に変更してください</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_ERROR_SPPARTS_NG</key>
-    <original xml:space="preserve">選択した声は未購入のポーンボイスです
+    <original>選択した声は未購入のポーンボイスです
 ポーンボイスはオンラインショップで購入できます</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD</key>
-    <original xml:space="preserve">セーブするスロットを選択してください</original>
-    <translation xml:space="preserve">Please select the slot to save</translation>
+    <original>セーブするスロットを選択してください</original>
+    <translation>Please select the slot to save</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD</key>
-    <original xml:space="preserve">ロードするスロットを選択してください</original>
-    <translation xml:space="preserve">Please select the slot to load</translation>
+    <original>ロードするスロットを選択してください</original>
+    <translation>Please select the slot to load</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_DATE</key>
-    <original xml:space="preserve">作成日時</original>
-    <translation xml:space="preserve">Creation Time</translation>
+    <original>作成日時</original>
+    <translation>Creation Time</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR</key>
-    <original xml:space="preserve">作成者</original>
-    <translation xml:space="preserve">Author</translation>
+    <original>作成者</original>
+    <translation>Author</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_SEX</key>
-    <original xml:space="preserve">性別</original>
-    <translation xml:space="preserve">Gender</translation>
+    <original>性別</original>
+    <translation>Gender</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT</key>
-    <original xml:space="preserve">コメント</original>
-    <translation xml:space="preserve">Comment</translation>
+    <original>コメント</original>
+    <translation>Comment</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVE_OVERWRITE</key>
-    <original xml:space="preserve">既存のセーブデータに
+    <original>既存のセーブデータに
 上書きしてもよろしいですか？</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVING</key>
-    <original xml:space="preserve">保存しています
+    <original>保存しています
 PC本体の電源を
 切らないでください</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_SAVE_FINISH</key>
-    <original xml:space="preserve">セーブが終了しました</original>
+    <original>セーブが終了しました</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_ERROR_HDD_NOSPACE</key>
-    <original xml:space="preserve">記憶デバイスの
+    <original>記憶デバイスの
 空き容量が不足しています
 空き容量を確保してください</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_ERROR_SAVE_FAILED</key>
-    <original xml:space="preserve">セーブデータの保存に
+    <original>セーブデータの保存に
 失敗しました</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_LOADING</key>
-    <original xml:space="preserve">ロードしています
+    <original>ロードしています
 PC本体の電源を
 切らないでください</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_LOAD_FINISH</key>
-    <original xml:space="preserve">ロードが終了しました</original>
+    <original>ロードが終了しました</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_ERROR_LOAD_CRASH_DATA</key>
-    <original xml:space="preserve">セーブデータが破損しているため
+    <original>セーブデータが破損しているため
 ロードできません</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_ERROR_LOAD_FAILED</key>
-    <original xml:space="preserve">セーブデータのロードに
+    <original>セーブデータのロードに
 失敗しました</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_DELETE_DATA</key>
-    <original xml:space="preserve">セーブデータを削除してもよろしいですか？</original>
+    <original>セーブデータを削除してもよろしいですか？</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_DELETING</key>
-    <original xml:space="preserve">削除しています
+    <original>削除しています
 PC本体の電源を
 切らないでください</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_DELETE_FINISH</key>
-    <original xml:space="preserve">削除しました</original>
+    <original>削除しました</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_ERROR_DELETE_FAILED</key>
-    <original xml:space="preserve">セーブデータの削除に
+    <original>セーブデータの削除に
 失敗しました</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_TUTORIAL_SEX</key>
-    <original xml:space="preserve">《便利な機能を紹介》
+    <original>《便利な機能を紹介》
 
 【&lt;PADM&gt;&lt;COL FFFFFF&gt;&lt;ICON PAD_START&gt;&lt;/COL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;COL FFFFFF&gt;&lt;ICON KB_SPACE&gt;&lt;/COL&gt;キー&lt;/KEYM&gt;】
 エディット情報のセーブ/ロードがおこなえます
@@ -241,7 +241,7 @@ PC本体の電源を
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_TUTORIAL_PRESET</key>
-    <original xml:space="preserve">《デザイナープリセットとは》
+    <original>《デザイナープリセットとは》
 
 予め用意されたサンプルモデルです
 エディットが苦手な方にオススメです
@@ -251,7 +251,7 @@ PC本体の電源を
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_TUTORIAL_RANDOM</key>
-    <original xml:space="preserve">《ワンポイントアドバイス》
+    <original>《ワンポイントアドバイス》
 
 ランダムを選ぶと、髪の毛や目、眉などの
 各種パーツをランダム設定します
@@ -262,44 +262,44 @@ PC本体の電源を
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA</key>
-    <original xml:space="preserve">ロードをキャンセルしますか？</original>
-    <translation xml:space="preserve">Are you sure you want to cancel the load?</translation>
+    <original>ロードをキャンセルしますか？</original>
+    <translation>Are you sure you want to cancel the load?</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA</key>
-    <original xml:space="preserve">セーブをキャンセルしますか？</original>
-    <translation xml:space="preserve">Are you sure you want to cancel the save?</translation>
+    <original>セーブをキャンセルしますか？</original>
+    <translation>Are you sure you want to cancel the save?</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_NODATA</key>
-    <original xml:space="preserve">NO DATA</original>
+    <original>NO DATA</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_SEX_F</key>
-    <original xml:space="preserve">女性</original>
-    <translation xml:space="preserve">Female</translation>
+    <original>女性</original>
+    <translation>Female</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_SAVE_SEX_M</key>
-    <original xml:space="preserve">男性</original>
-    <translation xml:space="preserve">Male</translation>
+    <original>男性</original>
+    <translation>Male</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_FIRST_PUSH_DEFAULT</key>
-    <original xml:space="preserve">【&lt;PADM&gt;&lt;COL FFFFFF&gt;&lt;ICON PAD_RL&gt;&lt;/COL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;COL FFFFFF&gt;&lt;ICON KB_SHIFT&gt;&lt;/COL&gt;キー&lt;/KEYM&gt;】はデフォルトに戻す機能です
+    <original>【&lt;PADM&gt;&lt;COL FFFFFF&gt;&lt;ICON PAD_RL&gt;&lt;/COL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;COL FFFFFF&gt;&lt;ICON KB_SHIFT&gt;&lt;/COL&gt;キー&lt;/KEYM&gt;】はデフォルトに戻す機能です
 
 （次回の操作から、この確認は表示されません）</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_EDIT_RETURN_TITLE</key>
-    <original xml:space="preserve">タイトル画面に戻ります
+    <original>タイトル画面に戻ります
 よろしいですか？
 
 (エディット情報のセーブは済ませましたか？)</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_EDIT_RETURN_LAUNCHER</key>
-    <original xml:space="preserve">ゲームを終了してランチャーに戻ります
+    <original>ゲームを終了してランチャーに戻ります
 よろしいですか？
 
 (エディット情報のセーブは済ませましたか？)</original>

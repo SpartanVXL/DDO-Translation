@@ -1,52 +1,52 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>fgc_title_en</key>
-    <original xml:space="preserve">Group Chat</original>
+    <original>Group Chat</original>
   </message>
   <message>
     <key>fgc_title_jp</key>
-    <original xml:space="preserve">グループチャット</original>
+    <original>グループチャット</original>
   </message>
   <message>
     <key>fgc_cate_name</key>
-    <original xml:space="preserve">名前</original>
-    <translation xml:space="preserve">Name</translation>
+    <original>名前</original>
+    <translation>Name</translation>
   </message>
   <message>
     <key>fgc_cate_joblv</key>
-    <original xml:space="preserve">ジョブレベル</original>
-    <translation xml:space="preserve">Job Level</translation>
+    <original>ジョブレベル</original>
+    <translation>Job Level</translation>
   </message>
   <message>
     <key>fgc_cate_lobby</key>
-    <original xml:space="preserve">ワールド</original>
-    <translation xml:space="preserve">World</translation>
+    <original>ワールド</original>
+    <translation>World</translation>
   </message>
   <message>
     <key>fgc_cate_union</key>
-    <original xml:space="preserve">クラン</original>
-    <translation xml:space="preserve">Clan</translation>
+    <original>クラン</original>
+    <translation>Clan</translation>
   </message>
   <message>
     <key>fgc_cate_comment</key>
-    <original xml:space="preserve">コメント</original>
-    <translation xml:space="preserve">Comment</translation>
+    <original>コメント</original>
+    <translation>Comment</translation>
   </message>
   <message>
     <key>fgc_cate_number_of_participants</key>
-    <original xml:space="preserve">参加人数</original>
+    <original>参加人数</original>
   </message>
   <message>
     <key>fgc_button_invitation</key>
-    <original xml:space="preserve">メンバーを招待</original>
-    <translation xml:space="preserve">Invite Members</translation>
+    <original>メンバーを招待</original>
+    <translation>Invite Members</translation>
   </message>
   <message>
     <key>fgc_button_roomout</key>
-    <original xml:space="preserve">グループから退室</original>
+    <original>グループから退室</original>
   </message>
   <message>
     <key>fgc_ana_nonfgc</key>
-    <original xml:space="preserve">グループチャットが組まれていません</original>
+    <original>グループチャットが組まれていません</original>
   </message>
 </resource>

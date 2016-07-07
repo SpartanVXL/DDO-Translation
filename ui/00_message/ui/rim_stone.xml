@@ -1,192 +1,192 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>RIM_MSG_TITLE_M_TITLE00</key>
-    <original xml:space="preserve">Rim Stone</original>
-    <translation xml:space="preserve">Rift Stone</translation>
+    <original>Rim Stone</original>
+    <translation>Riftstone</translation>
   </message>
   <message>
     <key>RIM_MSG_TITLE_M_TITLE01</key>
-    <original xml:space="preserve">リムストーンメニュー</original>
-    <translation xml:space="preserve">Rift Stone</translation>
+    <original>リムストーンメニュー</original>
+    <translation>Riftstone</translation>
   </message>
   <message>
     <key>RIM_MSG_SELECT_M_SECTION00</key>
-    <original xml:space="preserve">名前</original>
-    <translation xml:space="preserve">Name</translation>
+    <original>名前</original>
+    <translation>Name</translation>
   </message>
   <message>
     <key>RIM_MSG_SELECT_M_SECTION01</key>
-    <original xml:space="preserve">ジョブ／クラフトレベル</original>
-    <translation xml:space="preserve">Job / Craft Level</translation>
+    <original>ジョブ／クラフトレベル</original>
+    <translation>Job / Craft Level</translation>
   </message>
   <message>
     <key>RIM_MSG_SELECT_M_SECTION02</key>
-    <original xml:space="preserve">公開範囲</original>
-    <translation xml:space="preserve">Privacy</translation>
+    <original>公開範囲</original>
+    <translation>Privacy</translation>
   </message>
   <message>
     <key>RIM_MSG_SELECT_M_SECTION03</key>
-    <original xml:space="preserve">状態</original>
-    <translation xml:space="preserve">Status</translation>
+    <original>状態</original>
+    <translation>Status</translation>
   </message>
   <message>
     <key>RIM_MSG_SELECT_M_SECTION04</key>
-    <original xml:space="preserve">評価</original>
-    <translation xml:space="preserve">Rating</translation>
+    <original>評価</original>
+    <translation>Rating</translation>
   </message>
   <message>
     <key>RIM_MSG_RANKLIST_M_SERACH</key>
-    <original xml:space="preserve">Search</original>
+    <original>Search</original>
   </message>
   <message>
     <key>RIM_MSG_RANKLIST_M_PAWN_SEARCH</key>
-    <original xml:space="preserve">ポーン検索</original>
-    <translation xml:space="preserve">Pawn Search</translation>
+    <original>ポーン検索</original>
+    <translation>Pawn Search</translation>
   </message>
   <message>
     <key>RIM_MSG_RANKLIST_M_PAWN02</key>
-    <original xml:space="preserve">クラフトマスターポーン</original>
-    <translation xml:space="preserve">Master Craft Pawns</translation>
+    <original>クラフトマスターポーン</original>
+    <translation>Master Craft Pawns</translation>
   </message>
   <message>
     <key>RIM_MSG_RANKLIST_M_PAWN03</key>
-    <original xml:space="preserve">公式ポーン</original>
-    <translation xml:space="preserve">Official Pawns</translation>
+    <original>公式ポーン</original>
+    <translation>Official Pawns</translation>
   </message>
   <message>
     <key>RIM_MSG_RANKLIST_M_PAWN04</key>
-    <original xml:space="preserve">フレンドポーン</original>
-    <translation xml:space="preserve">Friend Pawns</translation>
+    <original>フレンドポーン</original>
+    <translation>Friend Pawns</translation>
   </message>
   <message>
     <key>RIM_MSG_RANKLIST_M_PAWN05</key>
-    <original xml:space="preserve">クランポーン</original>
-    <translation xml:space="preserve">Clan Pawns</translation>
+    <original>クランポーン</original>
+    <translation>Clan Pawns</translation>
   </message>
   <message>
     <key>RIM_MSG_RANKLIST_M_PAWN06</key>
-    <original xml:space="preserve">お気に入り</original>
-    <translation xml:space="preserve">Favorites</translation>
+    <original>お気に入り</original>
+    <translation>Favorites</translation>
   </message>
   <message>
     <key>RIM_MSG_RANKLIST_M_SPECIAL</key>
-    <original xml:space="preserve">Special</original>
+    <original>Special</original>
   </message>
   <message>
     <key>RIM_MSG_RANKLIST_M_COMMU</key>
-    <original xml:space="preserve">Community</original>
+    <original>Community</original>
   </message>
   <message>
     <key>RIM_INST_MSG_BTN00</key>
-    <original xml:space="preserve">検索条件設定</original>
-    <translation xml:space="preserve">Search Criteria</translation>
+    <original>検索条件設定</original>
+    <translation>Search Criteria</translation>
   </message>
   <message>
     <key>RIM_MSG_TAB_SEARCH</key>
-    <original xml:space="preserve">ポーン検索</original>
-    <translation xml:space="preserve">Pawn Search</translation>
+    <original>ポーン検索</original>
+    <translation>Pawn Search</translation>
   </message>
   <message>
     <key>RIM_MSG_TAB_MAIN</key>
-    <original xml:space="preserve">メインポーン</original>
-    <translation xml:space="preserve">Main Pawns</translation>
+    <original>メインポーン</original>
+    <translation>Main Pawns</translation>
   </message>
   <message>
     <key>RIM_MSG_TAB_SUPPORT</key>
-    <original xml:space="preserve">サポートポーン</original>
-    <translation xml:space="preserve">Hired Pawns</translation>
+    <original>サポートポーン</original>
+    <translation>Hired Pawns</translation>
   </message>
   <message>
     <key>RIM_MSG_PAWN_STATE_NONE</key>
-    <original xml:space="preserve">待機状態</original>
-    <translation xml:space="preserve">Standby</translation>
+    <original>待機状態</original>
+    <translation>Standby</translation>
   </message>
   <message>
     <key>RIM_MSG_PAWN_STATE_LOST</key>
-    <original xml:space="preserve">ロスト状態</original>
-    <translation xml:space="preserve">Lost</translation>
+    <original>ロスト状態</original>
+    <translation>Lost</translation>
   </message>
   <message>
     <key>RIM_MSG_PAWN_STATE_CRAFT</key>
-    <original xml:space="preserve">クラフト中</original>
-    <translation xml:space="preserve">Crafting</translation>
+    <original>クラフト中</original>
+    <translation>Crafting</translation>
   </message>
   <message>
     <key>RIM_MSG_PAWN_STATE_PARTY</key>
-    <original xml:space="preserve">パーティーメンバー</original>
-    <translation xml:space="preserve">Party Member</translation>
+    <original>パーティーメンバー</original>
+    <translation>Party Member</translation>
   </message>
   <message>
     <key>RIM_MSG_COST_FORMAT</key>
-    <original xml:space="preserve">&lt;VAL&gt; &lt;COL 5f5fffff&gt;R&lt;/COL&gt;</original>
+    <original>&lt;VAL&gt; &lt;COL 5f5fffff&gt;R&lt;/COL&gt;</original>
   </message>
   <message>
     <key>RIM_MSG_LEVEL_RANGE</key>
-    <original xml:space="preserve">Lv &lt;VAL&gt;～&lt;VAL&gt;</original>
-    <translation xml:space="preserve">Lv &lt;VAL&gt;-&lt;VAL&gt;</translation>
+    <original>Lv &lt;VAL&gt;～&lt;VAL&gt;</original>
+    <translation>Lv &lt;VAL&gt;-&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>RIM_MSG_SELECT_M_SECTION05</key>
-    <original xml:space="preserve">冒険／クラフト残り回数</original>
-    <translation xml:space="preserve">Remaining Adventure / Craft</translation>
+    <original>冒険／クラフト残り回数</original>
+    <translation>Remaining Adventure / Craft</translation>
   </message>
   <message>
     <key>RIM_MSG_SELECT_M_SECTION06</key>
-    <original xml:space="preserve">レンタルコスト</original>
-    <translation xml:space="preserve">Hire Cost</translation>
+    <original>レンタルコスト</original>
+    <translation>Hire Cost</translation>
   </message>
   <message>
     <key>RIM_MSG_SELECT_M_SECTION07</key>
-    <original xml:space="preserve">履歴</original>
-    <translation xml:space="preserve">History</translation>
+    <original>履歴</original>
+    <translation>History</translation>
   </message>
   <message>
     <key>RIM_MSG_NO_COST</key>
-    <original xml:space="preserve">Free</original>
+    <original>Free</original>
   </message>
   <message>
     <key>RIM_MSG_MAIN_PAWN_COUNT</key>
-    <original xml:space="preserve">契約状況：</original>
-    <translation xml:space="preserve">Contract Status</translation>
+    <original>契約状況：</original>
+    <translation>Contract Status</translation>
   </message>
   <message>
     <key>RIM_MSG_SUPPORT_PAWN_COUNT</key>
-    <original xml:space="preserve">雇用状況：</original>
-    <translation xml:space="preserve">Hire Status</translation>
+    <original>雇用状況：</original>
+    <translation>Hire Status</translation>
   </message>
   <message>
     <key>RIM_MSG_SEARCH_PAWN_NOT_FOUND</key>
-    <original xml:space="preserve">ポーンが見つかりませんでした</original>
-    <translation xml:space="preserve">No pawns found.</translation>
+    <original>ポーンが見つかりませんでした</original>
+    <translation>No pawns found.</translation>
   </message>
   <message>
     <key>RIM_MSG_MAIN_PAWN_NOT_FOUND</key>
-    <original xml:space="preserve">ポーンと契約していません</original>
-    <translation xml:space="preserve">You have not made a contract with any pawns.</translation>
+    <original>ポーンと契約していません</original>
+    <translation>You have not made a contract with any pawns.</translation>
   </message>
   <message>
     <key>RIM_MSG_SUPPORT_PAWN_NOT_FOUND</key>
-    <original xml:space="preserve">ポーンを雇用していません</original>
-    <translation xml:space="preserve">You have not hired any pawns.</translation>
+    <original>ポーンを雇用していません</original>
+    <translation>You have not hired any pawns.</translation>
   </message>
   <message>
     <key>RIM_MSG_TAB_LOST</key>
-    <original xml:space="preserve">ロストポーン</original>
-    <translation xml:space="preserve">Lost Pawns</translation>
+    <original>ロストポーン</original>
+    <translation>Lost Pawns</translation>
   </message>
   <message>
     <key>RIM_MSG_CHOICE_CATEGORY</key>
-    <original xml:space="preserve">左のカテゴリを選んでください</original>
-    <translation xml:space="preserve">Please choose from the categories on the left.</translation>
+    <original>左のカテゴリを選んでください</original>
+    <translation>Please choose from the categories on the left.</translation>
   </message>
   <message>
     <key>RIM_MSG_SELECT_M_SECTION08</key>
-    <original xml:space="preserve">救済コスト</original>
-    <translation xml:space="preserve">Rescue Cost</translation>
+    <original>救済コスト</original>
+    <translation>Rescue Cost</translation>
   </message>
   <message>
     <key>RIM_MSG_LOST_PAWN_NOT_FOUND</key>
-    <original xml:space="preserve">ロストしているポーンがいません</original>
-    <translation xml:space="preserve">You do not have any lost pawns.</translation>
+    <original>ロストしているポーンがいません</original>
+    <translation>You do not have any lost pawns.</translation>
   </message>
 </resource>

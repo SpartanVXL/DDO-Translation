@@ -1,48 +1,48 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>mai_msg_title_e</key>
-    <original xml:space="preserve">Area List</original>
+    <original>Area List</original>
   </message>
   <message>
     <key>mai_msg_nodeta</key>
-    <original xml:space="preserve">データがありません</original>
-    <translation xml:space="preserve">There is no data</translation>
+    <original>データがありません</original>
+    <translation>There is no data</translation>
   </message>
   <message>
     <key>mai_msg_title_j</key>
-    <original xml:space="preserve">エリアリスト</original>
-    <translation xml:space="preserve">Area List</translation>
+    <original>エリアリスト</original>
+    <translation>Area List</translation>
   </message>
   <message>
     <key>mai_msg_category_area</key>
-    <original xml:space="preserve">エリア</original>
-    <translation xml:space="preserve">Area</translation>
+    <original>エリア</original>
+    <translation>Area</translation>
   </message>
   <message>
     <key>mai_msg_category_rank</key>
-    <original xml:space="preserve">ランク</original>
-    <translation xml:space="preserve">Rank</translation>
+    <original>ランク</original>
+    <translation>Rank</translation>
   </message>
   <message>
     <key>mai_msg_next</key>
-    <original xml:space="preserve">次のランクアップまで</original>
-    <translation xml:space="preserve">Next rank up</translation>
+    <original>次のランクアップまで</original>
+    <translation>Next rank up</translation>
   </message>
   <message>
     <key>mai_msg_weekly</key>
-    <original xml:space="preserve">今週の獲得AP</original>
-    <translation xml:space="preserve">AP gained this week</translation>
+    <original>今週の獲得AP</original>
+    <translation>AP gained this week</translation>
   </message>
   <message>
     <key>mai_msg_rank</key>
-    <original xml:space="preserve">Rank</original>
+    <original>Rank</original>
   </message>
   <message>
     <key>mai_msg_clan_point_total</key>
-    <original xml:space="preserve">クラン累計AP</original>
+    <original>クラン累計AP</original>
   </message>
   <message>
     <key>mai_msg_clan_point_max</key>
-    <original xml:space="preserve">クラン最大貢献AP</original>
+    <original>クラン最大貢献AP</original>
   </message>
 </resource>

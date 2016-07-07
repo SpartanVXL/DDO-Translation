@@ -1,497 +1,497 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>QUEST_MSG_LB_REC</key>
-    <original xml:space="preserve">推奨</original>
-    <translation xml:space="preserve">Recommend</translation>
+    <original>推奨</original>
+    <translation>Recommend</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_PROV</key>
-    <original xml:space="preserve">受注条件</original>
+    <original>受注条件</original>
   </message>
   <message>
     <key>QUEST_MSG_LB_NOTHING</key>
-    <original xml:space="preserve">なし</original>
-    <translation xml:space="preserve">None</translation>
+    <original>なし</original>
+    <translation>None</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_REQ</key>
-    <original xml:space="preserve">依頼内容</original>
+    <original>依頼内容</original>
   </message>
   <message>
     <key>QUEST_MSG_LB_REWARD</key>
-    <original xml:space="preserve">報酬</original>
-    <translation xml:space="preserve">Reward</translation>
+    <original>報酬</original>
+    <translation>Reward</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_EXP</key>
-    <original xml:space="preserve">経験値</original>
-    <translation xml:space="preserve">Experience points</translation>
+    <original>経験値</original>
+    <translation>Experience points</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_G</key>
-    <original xml:space="preserve">ゴールド</original>
-    <translation xml:space="preserve">Gold</translation>
+    <original>ゴールド</original>
+    <translation>Gold</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_RIM</key>
-    <original xml:space="preserve">リム</original>
+    <original>リム</original>
   </message>
   <message>
     <key>QUEST_MSG_PRIOD</key>
-    <original xml:space="preserve">&lt;VAL&gt;まで</original>
-    <translation xml:space="preserve">Until &lt;VAL&gt;</translation>
+    <original>&lt;VAL&gt;まで</original>
+    <translation>Until &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_NOREWARD</key>
-    <original xml:space="preserve">報酬アイテムなし</original>
-    <translation xml:space="preserve">No rewards</translation>
+    <original>報酬アイテムなし</original>
+    <translation>No rewards</translation>
   </message>
   <message>
     <key>QUEST_MSG_MASK</key>
-    <original xml:space="preserve">？？？？？</original>
+    <original>？？？？？</original>
   </message>
   <message>
     <key>QUEST_MSG_TITLE01</key>
-    <original xml:space="preserve">Quest Log</original>
+    <original>Quest Log</original>
   </message>
   <message>
     <key>QUEST_MSG_TITLE02</key>
-    <original xml:space="preserve">クエストログ</original>
-    <translation xml:space="preserve">Quest Log</translation>
+    <original>クエストログ</original>
+    <translation>Quest Log</translation>
   </message>
   <message>
     <key>QUEST_MSG_MENU_ENPRI</key>
-    <original xml:space="preserve">優先クエストに設定</original>
-    <translation xml:space="preserve">Set as priority quest</translation>
+    <original>優先クエストに設定</original>
+    <translation>Set as priority quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_ACCEPTED</key>
-    <original xml:space="preserve">受注数：</original>
-    <translation xml:space="preserve">Accepted: </translation>
+    <original>受注数：</original>
+    <translation>Accepted: </translation>
   </message>
   <message>
     <key>QUEST_MSG_MENU</key>
-    <original xml:space="preserve">メニュー</original>
-    <translation xml:space="preserve">Menu</translation>
+    <original>メニュー</original>
+    <translation>Menu</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_ABS</key>
-    <original xml:space="preserve">概要</original>
-    <translation xml:space="preserve">Overview</translation>
+    <original>概要</original>
+    <translation>Overview</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_PROG</key>
-    <original xml:space="preserve">進行</original>
-    <translation xml:space="preserve">Progress</translation>
+    <original>進行</original>
+    <translation>Progress</translation>
   </message>
   <message>
     <key>QUEST_MSG_TAB_MYQ</key>
-    <original xml:space="preserve">マイクエスト</original>
-    <translation xml:space="preserve">My Quests</translation>
+    <original>マイクエスト</original>
+    <translation>My Quests</translation>
   </message>
   <message>
     <key>QUEST_MSG_TAB_PTQ</key>
-    <original xml:space="preserve">パーティークエスト情報</original>
-    <translation xml:space="preserve">Party Quests</translation>
+    <original>パーティークエスト情報</original>
+    <translation>Party Quests</translation>
   </message>
   <message>
     <key>QUEST_MSG_CG_MAIN</key>
-    <original xml:space="preserve">メインクエスト</original>
-    <translation xml:space="preserve">Main Quest</translation>
+    <original>メインクエスト</original>
+    <translation>Main Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_CG_GRAND</key>
-    <original xml:space="preserve">ワールドクエスト</original>
-    <translation xml:space="preserve">World Quest</translation>
+    <original>ワールドクエスト</original>
+    <translation>World Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_CG_SOLO</key>
-    <original xml:space="preserve">パーソナルクエスト</original>
-    <translation xml:space="preserve">Personal Quest</translation>
+    <original>パーソナルクエスト</original>
+    <translation>Personal Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_NSTEP</key>
-    <original xml:space="preserve">次の目的</original>
-    <translation xml:space="preserve">Next Step</translation>
+    <original>次の目的</original>
+    <translation>Next Step</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_CLEARED</key>
-    <original xml:space="preserve">クリア回数</original>
+    <original>クリア回数</original>
   </message>
   <message>
     <key>QUEST_MSG_LB_ADDINFO</key>
-    <original xml:space="preserve">クリア回数による追加情報</original>
+    <original>クリア回数による追加情報</original>
   </message>
   <message>
     <key>QUEST_MSG_LB_AREAP</key>
-    <original xml:space="preserve">エリア名声度：&lt;NAME AREA_NAME&gt;</original>
-    <translation xml:space="preserve">Area Reputation: &lt;NAME AREA_NAME&gt;</translation>
+    <original>エリア名声度：&lt;NAME AREA_NAME&gt;</original>
+    <translation>Area Reputation: &lt;NAME AREA_NAME&gt;</translation>
   </message>
   <message>
     <key>QUEST_MSG_NAME_AREA</key>
-    <original xml:space="preserve">エリア名</original>
+    <original>エリア名</original>
   </message>
   <message>
     <key>QUEST_MSG_UN_AP</key>
-    <original xml:space="preserve">AP</original>
+    <original>AP</original>
   </message>
   <message>
     <key>QUEST_MSG_LB_BONUS</key>
-    <original xml:space="preserve">ボーナス</original>
-    <translation xml:space="preserve">Bonus</translation>
+    <original>ボーナス</original>
+    <translation>Bonus</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_CHARGINFO</key>
-    <original xml:space="preserve">課金情報</original>
+    <original>課金情報</original>
   </message>
   <message>
     <key>QUEST_MSG_LB_GOAL</key>
-    <original xml:space="preserve">目的</original>
+    <original>目的</original>
   </message>
   <message>
     <key>QUEST_MSG_OPERATION</key>
-    <original xml:space="preserve">クエスト操作</original>
+    <original>クエスト操作</original>
   </message>
   <message>
     <key>QUEST_MSG_MENU_CANCELLATION</key>
-    <original xml:space="preserve">優先解除</original>
-    <translation xml:space="preserve">Cancel Priority</translation>
+    <original>優先解除</original>
+    <translation>Cancel Priority</translation>
   </message>
   <message>
     <key>QUEST_MSG_MENU_PROORITY</key>
-    <original xml:space="preserve">優先クエスト</original>
-    <translation xml:space="preserve">Priority Quest</translation>
+    <original>優先クエスト</original>
+    <translation>Priority Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_MENU_CANCEL</key>
-    <original xml:space="preserve">クエスト破棄</original>
-    <translation xml:space="preserve">Cancel Quest</translation>
+    <original>クエスト破棄</original>
+    <translation>Cancel Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_MENU_MAP</key>
-    <original xml:space="preserve">地図で確認</original>
-    <translation xml:space="preserve">Check Map</translation>
+    <original>地図で確認</original>
+    <translation>Check Map</translation>
   </message>
   <message>
     <key>QUEST_MSG_QUESTMENU</key>
-    <original xml:space="preserve">クエストメニュー</original>
-    <translation xml:space="preserve">Quest Menu</translation>
+    <original>クエストメニュー</original>
+    <translation>Quest Menu</translation>
   </message>
   <message>
     <key>QUEST_MSG_QUESTLIST</key>
-    <original xml:space="preserve">受注クエスト一覧</original>
+    <original>受注クエスト一覧</original>
   </message>
   <message>
     <key>QUEST_MSG_BOARD_TITLE01</key>
-    <original xml:space="preserve">Quest Board</original>
+    <original>Quest Board</original>
   </message>
   <message>
     <key>QUEST_MSG_BOARD_TITLE02</key>
-    <original xml:space="preserve">クエストボード</original>
-    <translation xml:space="preserve">Quest Board</translation>
+    <original>クエストボード</original>
+    <translation>Quest Board</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_REQ2</key>
-    <original xml:space="preserve">依頼</original>
+    <original>依頼</original>
   </message>
   <message>
     <key>QUEST_MSG_BUTTON_ACCEPT</key>
-    <original xml:space="preserve">受注する</original>
-    <translation xml:space="preserve">Accept</translation>
+    <original>受注する</original>
+    <translation>Accept</translation>
   </message>
   <message>
     <key>QUEST_MSG_BUTTON_CANCEL</key>
-    <original xml:space="preserve">キャンセル</original>
-    <translation xml:space="preserve">Cancel</translation>
+    <original>キャンセル</original>
+    <translation>Cancel</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_SPBONUS</key>
-    <original xml:space="preserve">Special Bonus</original>
+    <original>Special Bonus</original>
   </message>
   <message>
     <key>QUEST_MSG_SUBMENU</key>
-    <original xml:space="preserve">サブメニュー</original>
-    <translation xml:space="preserve">Sub-Menu</translation>
+    <original>サブメニュー</original>
+    <translation>Sub-Menu</translation>
   </message>
   <message>
     <key>QUEST_MSG_AREAPOINT</key>
-    <original xml:space="preserve">エリア名声度 &lt;VAL AREA_POINT&gt;</original>
-    <translation xml:space="preserve">Area Reputation &lt;VAL AREA_POINT&gt;</translation>
+    <original>エリア名声度 &lt;VAL AREA_POINT&gt;</original>
+    <translation>Area Reputation &lt;VAL AREA_POINT&gt;</translation>
   </message>
   <message>
     <key>QUEST_MSG_TAB_ALL</key>
-    <original xml:space="preserve">すべて</original>
-    <translation xml:space="preserve">All</translation>
+    <original>すべて</original>
+    <translation>All</translation>
   </message>
   <message>
     <key>QUEST_MSG_TAB_HUNT</key>
-    <original xml:space="preserve">討伐</original>
-    <translation xml:space="preserve">Hunt</translation>
+    <original>討伐</original>
+    <translation>Hunt</translation>
   </message>
   <message>
     <key>QUEST_MSG_TAB_COLLECT</key>
-    <original xml:space="preserve">納品</original>
-    <translation xml:space="preserve">Deliver</translation>
+    <original>納品</original>
+    <translation>Deliver</translation>
   </message>
   <message>
     <key>QUEST_MSG_CAUTION_FULL</key>
-    <original xml:space="preserve">クエスト受注数が上限に達しているため
+    <original>クエスト受注数が上限に達しているため
 クエストを受注できません</original>
   </message>
   <message>
     <key>QUEST_MSG_CAUTION_NOTHING</key>
-    <original xml:space="preserve">現在、特別な報せはありません</original>
-    <translation xml:space="preserve">There are no quests currently available.</translation>
+    <original>現在、特別な報せはありません</original>
+    <translation>There are no quests currently available.</translation>
   </message>
   <message>
     <key>QUEST_MSG_BN_UNDETECTED</key>
-    <original xml:space="preserve">未公開ボーナス</original>
+    <original>未公開ボーナス</original>
   </message>
   <message>
     <key>QUEST_MSG_BN_REPLAY</key>
-    <original xml:space="preserve">繰り返しボーナス</original>
-    <translation xml:space="preserve">Repeat Bonus</translation>
+    <original>繰り返しボーナス</original>
+    <translation>Repeat Bonus</translation>
   </message>
   <message>
     <key>QUEST_MSG_ACCIDENTAL</key>
-    <original xml:space="preserve">エリアボーナス発生中！</original>
-    <translation xml:space="preserve">Area bonus currently active!</translation>
+    <original>エリアボーナス発生中！</original>
+    <translation>Area bonus currently active!</translation>
   </message>
   <message>
     <key>QUEST_MSG_PROGRESS_CONDITION</key>
-    <original xml:space="preserve">進行条件</original>
+    <original>進行条件</original>
   </message>
   <message>
     <key>QUEST_MSG_HOLDING_PERIOD</key>
-    <original xml:space="preserve">開催期間</original>
+    <original>開催期間</original>
   </message>
   <message>
     <key>QUEST_MSG_WAIT_ORDER_QUEST</key>
-    <original xml:space="preserve">受注待ちクエスト</original>
+    <original>受注待ちクエスト</original>
   </message>
   <message>
     <key>QUEST_MSG_LIST_UPDATE_ERROR</key>
-    <original xml:space="preserve">リストの更新に失敗しました</original>
-    <translation xml:space="preserve">Failed to update the quest list.</translation>
+    <original>リストの更新に失敗しました</original>
+    <translation>Failed to update the quest list.</translation>
   </message>
   <message>
     <key>QUEST_MSG_SELECT_REWARD</key>
-    <original xml:space="preserve">選択報酬 (1つ選択)</original>
-    <translation xml:space="preserve">Select Reward (1)</translation>
+    <original>選択報酬 (1つ選択)</original>
+    <translation>Select Reward (1)</translation>
   </message>
   <message>
     <key>QUEST_MSG_NOTHING</key>
-    <original xml:space="preserve">現在受注しているクエストはありません</original>
-    <translation xml:space="preserve">There are currently no quests available.</translation>
+    <original>現在受注しているクエストはありません</original>
+    <translation>There are currently no quests available.</translation>
   </message>
   <message>
     <key>QUEST_MSG_NUMBER</key>
-    <original xml:space="preserve">No.&lt;VAL&gt;</original>
+    <original>No.&lt;VAL&gt;</original>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_XP_UP</key>
-    <original xml:space="preserve">経験値アップ</original>
-    <translation xml:space="preserve">Experience Points Up</translation>
+    <original>経験値アップ</original>
+    <translation>Experience Points Up</translation>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_AP_UP</key>
-    <original xml:space="preserve">エリアポイントアップ</original>
-    <translation xml:space="preserve">Area Points Up</translation>
+    <original>エリアポイントアップ</original>
+    <translation>Area Points Up</translation>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_RIM_UP</key>
-    <original xml:space="preserve">リムアップ</original>
-    <translation xml:space="preserve">Rift Crystals Up</translation>
+    <original>リムアップ</original>
+    <translation>Rift Crystals Up</translation>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_GOLD_UP</key>
-    <original xml:space="preserve">ゴールドアップ</original>
-    <translation xml:space="preserve">Gold Up</translation>
+    <original>ゴールドアップ</original>
+    <translation>Gold Up</translation>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_SLOT_UP</key>
-    <original xml:space="preserve">ランダム報酬枠増加</original>
-    <translation xml:space="preserve">Random Reward Up</translation>
+    <original>ランダム報酬枠増加</original>
+    <translation>Random Reward Up</translation>
   </message>
   <message>
     <key>QUEST_MSG_CONFIRM_QUEST_CANCEL</key>
-    <original xml:space="preserve">クエストを破棄しますか？
+    <original>クエストを破棄しますか？
 
 ※破棄したクエストは白竜神殿などの
 　拠点に入りなおすと再受注可能になります</original>
-    <translation xml:space="preserve">Are you sure you want to cancel this quest?
+    <translation>Are you sure you want to cancel this quest?
 
 ※破棄したクエストは白竜神殿などの
 　拠点に入りなおすと再受注可能になります</translation>
   </message>
   <message>
     <key>QUEST_MSG_CONFIRM_QUEST_ORDER</key>
-    <original xml:space="preserve">クエストを受注します
+    <original>クエストを受注します
 よろしいですか？</original>
   </message>
   <message>
     <key>QUEST_MSG_MENU_ORDER</key>
-    <original xml:space="preserve">クエスト受注</original>
-    <translation xml:space="preserve">Quest Order</translation>
+    <original>クエスト受注</original>
+    <translation>Quest Order</translation>
   </message>
   <message>
     <key>QUEST_MSG_SUPPORT_REWARD</key>
-    <original xml:space="preserve">アシスト報酬</original>
-    <translation xml:space="preserve">Assist Reward</translation>
+    <original>アシスト報酬</original>
+    <translation>Assist Reward</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_XP</key>
-    <original xml:space="preserve">経験値報酬が%2.1f倍（%s）</original>
-    <translation xml:space="preserve">%2.1f experience point multiplier（%s）</translation>
+    <original>経験値報酬が%2.1f倍（%s）</original>
+    <translation>%2.1f experience point multiplier（%s）</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_AP</key>
-    <original xml:space="preserve">エリアポイント報酬が%2.1f倍（%s）</original>
-    <translation xml:space="preserve">%2.1f area point multiplier（%s）</translation>
+    <original>エリアポイント報酬が%2.1f倍（%s）</original>
+    <translation>%2.1f area point multiplier（%s）</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_RIM</key>
-    <original xml:space="preserve">リム報酬が%2.1f倍（%s）</original>
-    <translation xml:space="preserve">%2.1f rift reward multiplier（%s）</translation>
+    <original>リム報酬が%2.1f倍（%s）</original>
+    <translation>%2.1f rift reward multiplier（%s）</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_GOLD</key>
-    <original xml:space="preserve">ゴールド報酬が%2.1f倍（%s）</original>
-    <translation xml:space="preserve">%2.1f gold reward multiplier（%s）</translation>
+    <original>ゴールド報酬が%2.1f倍（%s）</original>
+    <translation>%2.1f gold reward multiplier（%s）</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_RANDOM</key>
-    <original xml:space="preserve">ランダム報酬枠が%d増加（%s）</original>
-    <translation xml:space="preserve">Random rewards increased by %d (%s)</translation>
+    <original>ランダム報酬枠が%d増加（%s）</original>
+    <translation>Random rewards increased by %d (%s)</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_CHANCE_NUMBER</key>
-    <original xml:space="preserve">ボーナス発生まで%d回</original>
-    <translation xml:space="preserve">Bonus available after %d clears</translation>
+    <original>ボーナス発生まで%d回</original>
+    <translation>Bonus available after %d clears</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_TIME</key>
-    <original xml:space="preserve">ボーナス発生中</original>
+    <original>ボーナス発生中</original>
   </message>
   <message>
     <key>QUEST_MSG_OPTION_COURSE</key>
-    <original xml:space="preserve">&lt;OPCS&gt;</original>
+    <original>&lt;OPCS&gt;</original>
   </message>
   <message>
     <key>QUEST_MSG_NOTION_WAITING</key>
-    <original xml:space="preserve">リーダーが受注時に受注待ちは解除できます</original>
+    <original>リーダーが受注時に受注待ちは解除できます</original>
   </message>
   <message>
     <key>QUEST_MSG_NOTION_DISABLE_PT</key>
-    <original xml:space="preserve">「パーティークエスト情報」では使用できません</original>
+    <original>「パーティークエスト情報」では使用できません</original>
   </message>
   <message>
     <key>QUEST_MSG_NOTE_COLLISION_PROC</key>
-    <original xml:space="preserve">リーダーとクエスト進行状況が一致していないため進行不可</original>
-    <translation xml:space="preserve">You cannot continue because your progress is different than the party leader</translation>
+    <original>リーダーとクエスト進行状況が一致していないため進行不可</original>
+    <translation>You cannot continue because your progress is different than the party leader</translation>
   </message>
   <message>
     <key>QUEST_MSG_ORDERED_OVER</key>
-    <original xml:space="preserve">クエスト受注数オーバー（クエストクリア/破棄で受注可）</original>
-    <translation xml:space="preserve">You have reached your limit on quests (you must clear/cancel quests).</translation>
+    <original>クエスト受注数オーバー（クエストクリア/破棄で受注可）</original>
+    <translation>You have reached your limit on quests (you must clear/cancel quests).</translation>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_ON1</key>
-    <original xml:space="preserve">パーティークリアボーナス対象</original>
-    <translation xml:space="preserve">Party clear bonus target</translation>
+    <original>パーティークリアボーナス対象</original>
+    <translation>Party clear bonus target</translation>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_OFF1</key>
-    <original xml:space="preserve">パーティークリアボーナス対象(取得済)</original>
-    <translation xml:space="preserve">Party clear bonus target (already acquired)</translation>
+    <original>パーティークリアボーナス対象(取得済)</original>
+    <translation>Party clear bonus target (already acquired)</translation>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_ON2</key>
-    <original xml:space="preserve">クリア報酬（アイテム以外）が最大&lt;VAL&gt;倍！</original>
-    <translation xml:space="preserve">Clear rewards (other than items) increased by &lt;VAL&gt; times!</translation>
+    <original>クリア報酬（アイテム以外）が最大&lt;VAL&gt;倍！</original>
+    <translation>Clear rewards (other than items) increased by &lt;VAL&gt; times!</translation>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_OFF2</key>
-    <original xml:space="preserve">クリア報酬（アイテム以外）が最大&lt;VAL&gt;倍！
+    <original>クリア報酬（アイテム以外）が最大&lt;VAL&gt;倍！
 ブラッドオーブが&lt;VAL&gt;個獲得！</original>
-    <translation xml:space="preserve">Clear rewards (other than items) increased by &lt;VAL&gt; times!
+    <translation>Clear rewards (other than items) increased by &lt;VAL&gt; times!
 ブラッドオーブが&lt;VAL&gt;個獲得！</translation>
   </message>
   <message>
     <key>QUEST_MSG_RAIDB_TITLE</key>
-    <original xml:space="preserve">スコア倍率ボーナス</original>
+    <original>スコア倍率ボーナス</original>
   </message>
   <message>
     <key>QUEST_MSG_RAIDb_BODY</key>
-    <original xml:space="preserve">&lt;VAL&gt;倍からスタート</original>
+    <original>&lt;VAL&gt;倍からスタート</original>
   </message>
   <message>
     <key>QUEST_MSG_OUT_LEADER</key>
-    <original xml:space="preserve">リーダーが不在のため進行／受注不可</original>
+    <original>リーダーが不在のため進行／受注不可</original>
   </message>
   <message>
     <key>QUEST_MSG_RANDOM_REWARD</key>
-    <original xml:space="preserve">ランダム報酬</original>
-    <translation xml:space="preserve">Random Reward</translation>
+    <original>ランダム報酬</original>
+    <translation>Random Reward</translation>
   </message>
   <message>
     <key>QUEST_MSG_TIME_LIMIT</key>
-    <original xml:space="preserve">配信終了まで</original>
-    <translation xml:space="preserve">Time Limit</translation>
+    <original>配信終了まで</original>
+    <translation>Time Limit</translation>
   </message>
   <message>
     <key>QUEST_MSG_NOTHING_0</key>
-    <original xml:space="preserve">---</original>
+    <original>---</original>
   </message>
   <message>
     <key>QUEST_MSG_LEADER_CONDITION</key>
-    <original xml:space="preserve">リーダーが受注条件を満たしていません</original>
-    <translation xml:space="preserve">Leader does not meet the conditions</translation>
+    <original>リーダーが受注条件を満たしていません</original>
+    <translation>Leader does not meet the conditions</translation>
   </message>
   <message>
     <key>QUEST_MSG_AREA_BONUS</key>
-    <original xml:space="preserve">＜&lt;VAL&gt;＞のボードクエストクリアで最大&lt;VAL&gt;倍！</original>
-    <translation xml:space="preserve">＜&lt;VAL&gt;＞ board quest reward increased by &lt;VAL&gt;x!</translation>
+    <original>＜&lt;VAL&gt;＞のボードクエストクリアで最大&lt;VAL&gt;倍！</original>
+    <translation>＜&lt;VAL&gt;＞ board quest reward increased by &lt;VAL&gt;x!</translation>
   </message>
   <message>
     <key>QUEST_MSG_LEADER_PROGRESS</key>
-    <original xml:space="preserve">リーダーが進行条件を満たしていません</original>
+    <original>リーダーが進行条件を満たしていません</original>
   </message>
   <message>
     <key>QUEST_MSG_BN_UNDETECTED1</key>
-    <original xml:space="preserve">未公開ボーナス(取得済)</original>
+    <original>未公開ボーナス(取得済)</original>
   </message>
   <message>
     <key>QUEST_MSG_BN_TIMEBONUS</key>
-    <original xml:space="preserve">タイムボーナス</original>
+    <original>タイムボーナス</original>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_TIMEBONUS</key>
-    <original xml:space="preserve">スコア倍率が最大&lt;VAL&gt;倍！</original>
+    <original>スコア倍率が最大&lt;VAL&gt;倍！</original>
   </message>
   <message>
     <key>QUEST_MSG_PARTY_LARGE</key>
-    <original xml:space="preserve">特定のコンテンツ中は進行できません</original>
+    <original>特定のコンテンツ中は進行できません</original>
   </message>
   <message>
     <key>QUEST_MSG_SELECT_REWARD_ONLY_ONE</key>
-    <original xml:space="preserve">選択報酬</original>
+    <original>選択報酬</original>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_DAILY</key>
-    <original xml:space="preserve">１日１回「基本報酬」
+    <original>１日１回「基本報酬」
 レア素材入手可能！</original>
   </message>
   <message>
     <key>QUEST_MSG_BN_DAILY</key>
-    <original xml:space="preserve">デイリーボーナス</original>
+    <original>デイリーボーナス</original>
   </message>
   <message>
     <key>QUEST_MSG_ENEMYINFO</key>
-    <original xml:space="preserve">魔物情報</original>
+    <original>魔物情報</original>
   </message>
   <message>
     <key>QUEST_MSG_DELIVERYINFO</key>
-    <original xml:space="preserve">クリアに必要な納品情報</original>
+    <original>クリアに必要な納品情報</original>
   </message>
 </resource>
