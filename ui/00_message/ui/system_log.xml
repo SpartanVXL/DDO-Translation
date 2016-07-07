@@ -958,7 +958,7 @@ Gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;.</translation>
   <message>
     <key>syslog_quest_end_dist_cancel</key>
     <original>＜&lt;VAL&gt;＞の配信期間が終了したためクエスト破棄されました</original>
-    <translation>Quest ＜&lt;VAL&gt;＞ has expired.</translation>
+    <translation>Quest "&lt;VAL&gt;" has expired.</translation>
   </message>
   <message>
     <key>syslog_awaitquest_auto_cancel</key>
@@ -1003,57 +1003,57 @@ storage box.</translation>
   <message>
     <key>syslog_quest_repeat_reward</key>
     <original>＜&lt;NAME QUEST&gt;＞の報酬に、繰り返しボーナスが適用されました</original>
-    <translation>＜&lt;NAME QUEST&gt;＞ has received a bonus for being repeated.</translation>
+    <translation>"&lt;NAME QUEST&gt;" has received a bonus for being repeated.</translation>
   </message>
   <message>
     <key>syslog_quest_undiscover_reward</key>
     <original>＜&lt;NAME QUEST&gt;＞の未公開報酬を獲得しました</original>
-    <translation>＜&lt;NAME QUEST&gt;＞ has received a bonus reward for being finished for the first time.</translation>
+    <translation>"&lt;NAME QUEST&gt;" has received a bonus reward for being finished for the first time.</translation>
   </message>
   <message>
     <key>syslog_quest_help_reward</key>
     <original>リーダーが＜&lt;NAME QUEST&gt;＞をクリアしたため、アシスト報酬を獲得しました</original>
-    <translation>Party leader has completed ＜&lt;NAME QUEST&gt;＞ and you have received a reward for assisting.</translation>
+    <translation>Party leader has completed "&lt;NAME QUEST&gt;" and you have received a reward for assisting.</translation>
   </message>
   <message>
     <key>syslog_quest_party_bonus</key>
     <original>パーティーでの＜&lt;NAME QUEST&gt;＞クリアにより、報酬にパーティーボーナスが適用されました</original>
-    <translation>Party has completed ＜&lt;NAME QUEST&gt;＞ and you have received a party bonus.</translation>
+    <translation>Party has completed "&lt;NAME QUEST&gt;" and you have received a party bonus.</translation>
   </message>
   <message>
     <key>syslog_quest_cannot_progress_party</key>
     <original>リーダーと進行状況が異なるため、&lt;NAME TARGET&gt;の＜&lt;NAME QUEST&gt;＞が進行保留になりました</original>
-    <translation>The quest progress between the party leader and &lt;NAME TARGET&gt; for ＜&lt;NAME QUEST&gt;＞ is different.</translation>
+    <translation>The quest progress between the party leader and &lt;NAME TARGET&gt; for "&lt;NAME QUEST&gt;" is different.</translation>
   </message>
   <message>
     <key>syslog_quest_can_progress_party</key>
     <original>&lt;NAME TARGET&gt;の＜&lt;NAME QUEST&gt;＞が進行可能になりました</original>
-    <translation>&lt;NAME TARGET&gt;'s quest ＜&lt;NAME QUEST&gt;＞ can now progress.</translation>
+    <translation>&lt;NAME TARGET&gt;'s quest "&lt;NAME QUEST&gt;" can now progress.</translation>
   </message>
   <message>
     <key>syslog_quest_wait_order</key>
     <original>パーティーリーダーの＜&lt;NAME QUEST&gt;＞が受注待ちになりました</original>
-    <translation>The party leader's quest ＜&lt;NAME QUEST&gt;＞ has orders waiting.</translation>
+    <translation>The party leader's quest "&lt;NAME QUEST&gt;" has orders waiting.</translation>
   </message>
   <message>
     <key>syslog_quest_can_progress_leader</key>
     <original>パーティーリーダーの＜&lt;NAME QUEST&gt;＞が進行可能になりました</original>
-    <translation>Because of the party leader, ＜&lt;NAME QUEST&gt;＞ can now progress.</translation>
+    <translation>Because of the party leader, "&lt;NAME QUEST&gt;" can now progress.</translation>
   </message>
   <message>
     <key>syslog_quest_can_progress</key>
     <original>＜&lt;NAME QUEST&gt;＞が進行可能になりました</original>
-    <translation>＜&lt;NAME QUEST&gt;＞ can now progress.</translation>
+    <translation>"&lt;NAME QUEST&gt;" can now progress.</translation>
   </message>
   <message>
     <key>syslog_quest_cannot_progress_leader</key>
     <original>パーティーリーダーの＜&lt;NAME QUEST&gt;＞が進行不可になりました</original>
-    <translation>Because of the party leader, ＜&lt;NAME QUEST&gt;＞ can no longer progress.</translation>
+    <translation>Because of the party leader, "&lt;NAME QUEST&gt;" can no longer progress.</translation>
   </message>
   <message>
     <key>syslog_quest_cannot_progress</key>
     <original>＜&lt;NAME QUEST&gt;＞が進行不可になりました</original>
-    <translation>＜&lt;NAME QUEST&gt;＞ can no longer progress.</translation>
+    <translation>"&lt;NAME QUEST&gt;" can no longer progress.</translation>
   </message>
   <message>
     <key>syslog_quest_party_progress_myself</key>
@@ -1108,7 +1108,7 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   <message>
     <key>syslog_quest_decide_deliver</key>
     <original>＜&lt;NAME QUEST&gt;＞の納品目標を達成しました</original>
-    <translation>＜&lt;NAME QUEST&gt;＞ has reached the required item delivery amount.</translation>
+    <translation>"&lt;NAME QUEST&gt;" has reached the required item delivery amount.</translation>
   </message>
   <message>
     <key>syslog_jp_possession_max_notice</key>

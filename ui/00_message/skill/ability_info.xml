@@ -47,7 +47,7 @@ allowing it to break enemy posture more easily.
     <original>瀕死状態中に回復魔法を受けたとき
 体力回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に回復速度がより上昇&lt;/COL&gt;</original>
-    <translation>While in a near-death state, increases 
+    <translation>While in a near-death state, increases
 health recovery speed when affected by healing spells.
 &lt;COL ffdc78&gt;LV UP: Further increases recovery speed.&lt;/COL&gt;</translation>
   </message>
@@ -56,15 +56,16 @@ health recovery speed when affected by healing spells.
     <original>リベンジゲージ満了時、魔人斬り、真・魔人斬りで
 繰り出す初動攻撃の吹き飛ばし力が増加する
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>When your Revenge Gauge is consumed, your
-Demon Slayer and True Demon Slayer's intial quake has increased Blow Power.
+    <translation>When your Revenge Gauge is consumed,
+your Demon Slayer and True Demon Slayer's intial
+quake has increased Blow Power.
 &lt;COL ffdc78&gt;LV UP: Further increases Blow Power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_205</key>
     <original>アルケム・フーガ成功時にスタミナが回復する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
-    <translation>Recovers your stamina upon a successful Alchem 
+    <translation>Recovers your stamina upon a successful Alchem
 Fuga.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovery.&lt;/COL&gt;</translation>
   </message>
@@ -73,7 +74,7 @@ Fuga.
     <original>トゲや鍾乳石などの危険物との接触時に
 受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
-    <translation>Reduces damage from hazards such as spikes 
+    <translation>Reduces damage from hazards such as spikes
 or stalactites.
 &lt;COL ffdc78&gt;LV UP: Further reduces damage taken.&lt;/COL&gt;</translation>
   </message>
@@ -132,7 +133,7 @@ staggered while rolling.
 体力の治癒上限値が下がりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に生命治癒力がより増加&lt;/COL&gt;</original>
     <translation>While in a near-death state, increases
-health and decreases the likelihood of 
+health and decreases the likelihood of
 maximum recoverable health lowering.
 &lt;COL ffdc78&gt;LV UP: Further increases health recovery.&lt;/COL&gt;</translation>
   </message>
@@ -141,8 +142,8 @@ maximum recoverable health lowering.
     <original>体力が一定量以上のとき
 耐久力が上昇し、体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐久力がより増加&lt;/COL&gt;</original>
-    <translation>When your health is above a certain amount, 
-increases your poise and makes you 
+    <translation>When your health is above a certain amount,
+increases your poise and makes you
 harder to stagger.
 &lt;COL ffdc78&gt;LV UP: Further increases poise.&lt;/COL&gt;</translation>
   </message>
@@ -158,7 +159,7 @@ harder to stagger.
     <original>鉱泉に浸かったときの
 効能持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases the effect length of mineral 
+    <translation>Increases the effect length of mineral
 spring baths.
 &lt;COL ffdc78&gt;LV UP: Further increases effect length.&lt;/COL&gt;</translation>
   </message>
@@ -208,7 +209,7 @@ generates enemy attention.
     <key>ABILITY_INFO_137</key>
     <original>瀕死状態中の魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に魔力がより増加&lt;/COL&gt;</original>
-    <translation>Amplifies your Magick when you stand at 
+    <translation>Amplifies your Magick when you stand at
 death's door.
 &lt;COL ffdc78&gt;LV UP: Further increases Magick.&lt;/COL&gt;</translation>
   </message>
@@ -225,7 +226,7 @@ death's door.
     <original>魔人斬り、真・魔人斬りの溜め満了
 ジャストタイミングが延長され、成功率が上がる
 &lt;COL ffdc78&gt;LV UP毎に受付時間がより延長&lt;/COL&gt;</original>
-    <translation>Extends the just timing window for 
+    <translation>Extends the just timing window for
 Demon Slash and True Demon Slash.
 &lt;COL ffdc78&gt;LV UP: Further extends window.&lt;/COL&gt;</translation>
   </message>
@@ -233,7 +234,7 @@ Demon Slash and True Demon Slash.
     <key>ABILITY_INFO_214</key>
     <original>瀕死状態中のスタミナ回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復速度がより上昇&lt;/COL&gt;</original>
-    <translation>Increases stamina recovery when you 
+    <translation>Increases stamina recovery when you
 stand at death's door.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovery.&lt;/COL&gt;</translation>
   </message>
@@ -265,7 +266,7 @@ perfect block counters.
     <original>フィールドシフト時に
 敵の注目を集めにくくする
 &lt;COL ffdc78&gt;LV UP毎に敵からの注目度がさらに減少&lt;/COL&gt;</original>
-    <translation>Decreases the attention of 
+    <translation>Decreases the attention of
 enemies while using Field Shift.
 &lt;COL ffdc78&gt;LV UP: Decreases attention further.&lt;/COL&gt;</translation>
   </message>
@@ -301,7 +302,7 @@ chant gauge further.&lt;/COL&gt;</translation>
     <original>炎属性攻撃を対象に当てた際
 延焼の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
-    <translation>Increases chance to cause burning when attacking 
+    <translation>Increases chance to cause burning when attacking
 enemies with fire element attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases burning chance.&lt;/COL&gt;</translation>
   </message>
@@ -310,7 +311,7 @@ enemies with fire element attacks.
     <original>瀕死状態中に
 耐久力が上昇し、体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐久力がより増加&lt;/COL&gt;</original>
-    <translation>Increases poise and reduces your chance to be 
+    <translation>Increases poise and reduces your chance to be
 staggered when you stand at death's door.
 &lt;COL ffdc78&gt;LV UP: Further increases poise.&lt;/COL&gt;</translation>
   </message>
@@ -318,7 +319,7 @@ staggered when you stand at death's door.
     <key>ABILITY_INFO_218</key>
     <original>スタミナ切れ時の無防備時間が短縮される
 &lt;COL ffdc78&gt;LV UP毎に無防備時間さらに短縮&lt;/COL&gt;</original>
-    <translation>Decreases the time in which you are 
+    <translation>Decreases the time in which you are
 defenseless after your stamina is depleted.
 &lt;COL ffdc78&gt;LV UP: Further decreases defenseless duration.&lt;/COL&gt;</translation>
   </message>
@@ -326,7 +327,7 @@ defenseless after your stamina is depleted.
     <key>ABILITY_INFO_228</key>
     <original>マップ上のアイテム採取ポイント
 表示範囲が拡大する</original>
-    <translation>Increases the range at which gathering points 
+    <translation>Increases the range at which gathering points
 will display on the map.</translation>
   </message>
   <message>
@@ -383,7 +384,7 @@ by another person.
     <original>氷属性攻撃を対象に当てた際
 凍結の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
-    <translation>Increases chance to cause freezing when attacking 
+    <translation>Increases chance to cause freezing when attacking
 enemies with ice element attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases freezing chance.&lt;/COL&gt;</translation>
   </message>
@@ -400,7 +401,7 @@ stand at death's door.
     <original>アルケム・フーガで配置される錬成物質の
 持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に持続時間がより延長&lt;/COL&gt;</original>
-    <translation>Extends the duration of the catalyst left by 
+    <translation>Extends the duration of the catalyst left by
 Alchem Fuga.
 &lt;COL ffdc78&gt;LV UP: Further extends duration.&lt;/COL&gt;</translation>
   </message>
@@ -467,7 +468,7 @@ Giant enemies.
     <original>ダメージを受けた際に
 治癒上限値が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に治癒上限値をさらに維持&lt;/COL&gt;</original>
-    <translation>Slows the rate at which your maximum 
+    <translation>Slows the rate at which your maximum
 recoverable health decreases from attacks.
 &lt;COL ffdc78&gt;LV UP: Further slows rate of decrease.&lt;/COL&gt;</translation>
   </message>
@@ -476,8 +477,8 @@ recoverable health decreases from attacks.
     <original>瀕死状態中に
 気絶攻力が上昇し、敵を気絶させやすくなる
 &lt;COL ffdc78&gt;LV UP毎に気絶攻力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your stun power when you stand at 
-death's door, allowing you to more easily 
+    <translation>Increases your stun power when you stand at
+death's door, allowing you to more easily
 stun enemies.
 &lt;COL ffdc78&gt;LV UP: Further inreases stun power.&lt;/COL&gt;</translation>
   </message>
@@ -494,7 +495,7 @@ when attacking enemies.
     <original>一定時間、特殊効果が付与されるアイテムの
 効果持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation>For a certain period, extends the 
+    <translation>For a certain period, extends the
 duration of effects granted by items.
 &lt;COL ffdc78&gt;LV UP: Further extends duration.&lt;/COL&gt;</translation>
   </message>
@@ -555,8 +556,8 @@ an enemy's attempt to shake you off.
     <original>瀕死状態中にダメージを受けた際の
 治癒上限値が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に治癒上限値をさらに維持&lt;/COL&gt;</original>
-    <translation>Slows the rate at which your maximum recoverable 
-health decreases from damage when you stand 
+    <translation>Slows the rate at which your maximum recoverable
+health decreases from damage when you stand
 at death's door.
 &lt;COL ffdc78&gt;LV UP: Further slows rate of decrease.&lt;/COL&gt;</translation>
   </message>
@@ -565,8 +566,8 @@ at death's door.
     <original>瀕死状態中にチャンス攻力が上昇し
 怒り状態の強敵をダウンさせやすくなる
 &lt;COL ffdc78&gt;LV UP毎にチャンス攻力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your chance attack power when you stand 
-at death's door, allowing you to down enraged 
+    <translation>Increases your chance attack power when you stand
+at death's door, allowing you to down enraged
 enemies more easily.
 &lt;COL ffdc78&gt;LV UP: Further increases chance attack power.&lt;/COL&gt;</translation>
   </message>
@@ -575,7 +576,7 @@ enemies more easily.
     <original>敵にとどめを刺したとき
 スタミナが大きく回復する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
-    <translation>Greatly recovers your stamina when you land 
+    <translation>Greatly recovers your stamina when you land
 the finishing blow on an enemy.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovered.&lt;/COL&gt;</translation>
   </message>
@@ -583,7 +584,7 @@ the finishing blow on an enemy.
     <key>ABILITY_INFO_240</key>
     <original>新月時に筋力と魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に筋力/魔力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your magical and physical power 
+    <translation>Increases your magical and physical power
 during a new moon.
 &lt;COL ffdc78&gt;LV UP: Further increases physical/magical power.&lt;/COL&gt;</translation>
   </message>
@@ -639,7 +640,7 @@ increasing the likelihood it will break enemy posture.
     <original>雷属性攻撃を対象に当てた際
 感電の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
-    <translation>Increases chance to cause shock when attacking 
+    <translation>Increases chance to cause shock when attacking
 enemies with thunder element attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases shock chance.&lt;/COL&gt;</translation>
   </message>
@@ -648,7 +649,7 @@ enemies with thunder element attacks.
     <original>リベンジゲージ最大時に防御力が増加し、
 攻撃を受けても体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に物理防御力/耐久力がより増加&lt;/COL&gt;</original>
-    <translation>At max revenge gauge, your defense increases 
+    <translation>At max revenge gauge, your defense increases
 and you do not stagger from enemy attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases defense and poise.&lt;/COL&gt;</translation>
   </message>
@@ -656,7 +657,7 @@ and you do not stagger from enemy attacks.
     <key>ABILITY_INFO_204</key>
     <original>エリクシル発動の予備動作が短縮される
 &lt;COL ffdc78&gt;LV UP毎に予備動作さらに短縮&lt;/COL&gt;</original>
-    <translation>Decreases the time required to prepare your 
+    <translation>Decreases the time required to prepare your
 elixer.
 &lt;COL ffdc78&gt;LV UP: Further decreases preparation time.&lt;/COL&gt;</translation>
   </message>
@@ -664,7 +665,7 @@ elixer.
     <key>ABILITY_INFO_241</key>
     <original>新月時に物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your physical and magic defense during 
+    <translation>Increases your physical and magic defense during
 a new moon.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
@@ -697,7 +698,7 @@ struck by Thunder attribute attacks.
     <original>敵からの攻撃を直前防御（引きつけて防御）
 しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に直前防御受付時間がより延長&lt;/COL&gt;</original>
-    <translation>Allows you to more easily perform 
+    <translation>Allows you to more easily perform
 perfect blocks, just as foes strike.
 &lt;COL ffdc78&gt;LV UP: Extends the perfect block
 time window further.&lt;/COL&gt;</translation>
@@ -720,7 +721,7 @@ time window further.&lt;/COL&gt;</translation>
     <key>ABILITY_INFO_173</key>
     <original>霊体系の敵に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage you deal towards 
+    <translation>Increases the damage you deal towards
 spirit-type enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
@@ -729,8 +730,8 @@ spirit-type enemies.
     <original>スタミナが一定量以上のとき
 気絶攻力が上昇し、敵を気絶させやすくなる
 &lt;COL ffdc78&gt;LV UP毎に気絶攻力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your stun power when your stamina 
-is above a certain amount, making enemies easier 
+    <translation>Increases your stun power when your stamina
+is above a certain amount, making enemies easier
 to stun.
 &lt;COL ffdc78&gt;LV UP: Further increases stun power.&lt;/COL&gt;</translation>
   </message>
@@ -746,7 +747,7 @@ to stun.
     <key>ABILITY_INFO_244</key>
     <original>雨天時に筋力と魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に筋力/魔力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your physical and magic power during 
+    <translation>Increases your physical and magic power during
 rainy weather.
 &lt;COL ffdc78&gt;LV UP: Further increases physical/magic power.&lt;/COL&gt;</translation>
   </message>
@@ -801,7 +802,7 @@ Demon enemies.
     <key>ABILITY_INFO_175</key>
     <original>造魔系の敵に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage you deal towards 
+    <translation>Increases the damage you deal towards
 construct-type enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
@@ -809,7 +810,7 @@ construct-type enemies.
     <key>ABILITY_INFO_200</key>
     <original>獣系の敵に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage you deal towards 
+    <translation>Increases the damage you deal towards
 beast-type enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
@@ -825,7 +826,7 @@ alchemy-enhanced enemies.
     <key>ABILITY_INFO_245</key>
     <original>雨天時に物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your phyiscal and magic defense during 
+    <translation>Increases your phyiscal and magic defense during
 rainy weather.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
@@ -881,7 +882,7 @@ Cursed enemies.
     <original>生命治癒力が増加し、
 体力の治癒上限値が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に生命治癒力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your recovery power, and slows the rate 
+    <translation>Increases your recovery power, and slows the rate
 at which your maximum recoverable health decreases.
 &lt;COL ffdc78&gt;LV UP: Further increases recovery power.&lt;/COL&gt;</translation>
   </message>
@@ -890,8 +891,8 @@ at which your maximum recoverable health decreases.
     <original>スタミナが一定量以上のときチャンス攻力が上昇し
 怒り状態の強敵をダウンさせやすくなる
 &lt;COL ffdc78&gt;LV UP毎にチャンス攻力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your chance attack power when your 
-stamina is above a certain amount, making 
+    <translation>Increases your chance attack power when your
+stamina is above a certain amount, making
 enraged enemies easier to down.
 &lt;COL ffdc78&gt;LV UP: Further increases chance attack power.&lt;/COL&gt;</translation>
   </message>
@@ -900,7 +901,7 @@ enraged enemies easier to down.
     <original>回復行動を行うと
 より敵から注目を集めるようになる
 &lt;COL ffdc78&gt;LV UP毎に敵からの注目度がより増加&lt;/COL&gt;</original>
-    <translation>Increases the threat generation of healing 
+    <translation>Increases the threat generation of healing
 actions.
 &lt;COL ffdc78&gt;LV UP: Further increases threat generation.&lt;/COL&gt;</translation>
   </message>
@@ -909,7 +910,7 @@ actions.
     <original>採掘や伐採に使用するアイテムが
 壊れにくくなる
 &lt;COL ffdc78&gt;LV UP毎に壊れにくさがより上昇&lt;/COL&gt;</original>
-    <translation>Decreases the chance of gathering items 
+    <translation>Decreases the chance of gathering items
 breaking on use.
 &lt;COL ffdc78&gt;LV UP: Further decreases chance to break.&lt;/COL&gt;</translation>
   </message>
@@ -971,7 +972,7 @@ spirit-type enemies.
     <original>スタミナが一定量以上のとき
 耐久力が上昇し、体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐久力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your poise when you stamina is above a 
+    <translation>Increases your poise when you stamina is above a
 certain amount, making you harder to stagger.
 &lt;COL ffdc78&gt;LV UP: Further increases poise.&lt;/COL&gt;</translation>
   </message>
@@ -980,7 +981,7 @@ certain amount, making you harder to stagger.
     <original>瀕死状態中、カスタムスキル使用時の
 スタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
-    <translation>Decreases the amount of stamina consumed by 
+    <translation>Decreases the amount of stamina consumed by
 custom skills when you stand at death's door.
 &lt;COL ffdc78&gt;LV UP: Further decreases stamina consumed.&lt;/COL&gt;</translation>
   </message>
@@ -989,7 +990,7 @@ custom skills when you stand at death's door.
     <original>水辺や毒沼などの侵入時に
 移動速度が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に移動速度をさらに維持&lt;/COL&gt;</original>
-    <translation>Lowers the movement speed penalty when in water 
+    <translation>Lowers the movement speed penalty when in water
 or poison pools.
 &lt;COL ffdc78&gt;LV UP: Further decreases movement penalty.&lt;/COL&gt;</translation>
   </message>
@@ -1063,7 +1064,7 @@ beast-type enemies.
     <key>ABILITY_INFO_223</key>
     <original>錬金系の敵に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage you deal towards 
+    <translation>Increases the damage you deal towards
 alchemy-enhanced enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
@@ -1071,7 +1072,7 @@ alchemy-enhanced enemies.
     <key>ABILITY_INFO_233</key>
     <original>高所からの落下ダメージが軽減される
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
-    <translation>Decreases fall damage taken when falling from 
+    <translation>Decreases fall damage taken when falling from
 high places.
 &lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</translation>
   </message>
@@ -1087,7 +1088,7 @@ high places.
     <original>弓構え中、攻撃を受けても
 体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</original>
-    <translation>Decreases chance to be staggered when aiming with 
+    <translation>Decreases chance to be staggered when aiming with
 the bow.
 &lt;COL ffdc78&gt;LV UP: Further decreases stagger chance.&lt;/COL&gt;</translation>
   </message>
@@ -1104,7 +1105,7 @@ channeling Heal Aura and Holy Aura.
     <key>ABILITY_INFO_95</key>
     <original>魔防低下の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
-    <translation>Decreases chance to be afflicted by Lowered Magic 
+    <translation>Decreases chance to be afflicted by Lowered Magic
 Defense.
 &lt;COL ffdc78&gt;LV UP: Further decreases affliction chance.&lt;/COL&gt;</translation>
   </message>
@@ -1113,7 +1114,7 @@ Defense.
     <original>敵のふりはらい攻撃を受けた際の
 スタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
-    <translation>Reduces stamina drain from enemies trying to 
+    <translation>Reduces stamina drain from enemies trying to
 shake you off.
 &lt;COL ffdc78&gt;LV UP: Further decreases stamina drain.&lt;/COL&gt;</translation>
   </message>
@@ -1121,7 +1122,7 @@ shake you off.
     <key>ABILITY_INFO_134</key>
     <original>闇属性攻撃によって与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage dealt by dark attribute 
+    <translation>Increases the damage dealt by dark attribute
 attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
@@ -1130,7 +1131,7 @@ attacks.
     <original>回復・治療系の作用を持つ魔矢から
 生み出された魔法球の効果持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に持続時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases the duration of the spheres left by 
+    <translation>Increases the duration of the spheres left by
 magic arrows with healing or recovery properties.
 &lt;COL ffdc78&gt;LV UP: Further increases sphere duration.&lt;/COL&gt;</translation>
   </message>
@@ -1138,7 +1139,7 @@ magic arrows with healing or recovery properties.
     <key>ABILITY_INFO_176</key>
     <original>カウンター攻撃でリベンジゲージがたまりやすくなる
 &lt;COL ffdc78&gt;LV UP毎にゲージ蓄積量がより増加&lt;/COL&gt;</original>
-    <translation>Increases revenge gauge gains from counter 
+    <translation>Increases revenge gauge gains from counter
 attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases revenge gauge gains.&lt;/COL&gt;</translation>
   </message>
@@ -1146,7 +1147,7 @@ attacks.
     <key>ABILITY_INFO_202</key>
     <original>エリクシル発動時、変換する状態異常値が上昇する
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
-    <translation>Increases the effectiveness of your chosen status 
+    <translation>Increases the effectiveness of your chosen status
 when activating Elixer.
 &lt;COL ffdc78&gt;LV UP: Further increases status effectiveness.&lt;/COL&gt;</translation>
   </message>
@@ -1154,7 +1155,7 @@ when activating Elixer.
     <key>ABILITY_INFO_242</key>
     <original>満月時に筋力と魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に筋力/魔力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your physical and magic power during 
+    <translation>Increases your physical and magic power during
 full moons.
 &lt;COL ffdc78&gt;LV UP: Further increases physical/magic power.&lt;/COL&gt;</translation>
   </message>
@@ -1162,7 +1163,7 @@ full moons.
     <key>ABILITY_INFO_12</key>
     <original>盾での攻撃時に敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>Your shield attacks are more likely to stagger 
+    <translation>Your shield attacks are more likely to stagger
 enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases stagger rate.&lt;/COL&gt;</translation>
   </message>
@@ -1171,7 +1172,7 @@ enemies.
     <original>弓を最適距離で当てた際に
 より敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に矢の吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>Increases the stagger power of your arrows when 
+    <translation>Increases the stagger power of your arrows when
 standing at the perfect range.
 &lt;COL ffdc78&gt;LV UP: Further increases stagger power.&lt;/COL&gt;</translation>
   </message>
@@ -1186,7 +1187,7 @@ standing at the perfect range.
     <key>ABILITY_INFO_96</key>
     <original>物防低下の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
-    <translation>Reduces your chance to be afflicted by Physical 
+    <translation>Reduces your chance to be afflicted by Physical
 Defense Down.
 &lt;COL ffdc78&gt;LV UP: Further decrease affliction chance.&lt;/COL&gt;</translation>
   </message>
@@ -1202,7 +1203,7 @@ Defense Down.
     <original>スタミナが一定量以上のとき
 魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に魔力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your magic power when your stamina is 
+    <translation>Increases your magic power when your stamina is
 above a certain amount.
 &lt;COL ffdc78&gt;LV UP: Further increases magic power.&lt;/COL&gt;</translation>
   </message>
@@ -1211,7 +1212,7 @@ above a certain amount.
     <original>聖属性攻撃を対象に当てた際
 聖吸の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
-    <translation>Increases the chance of causing Holy Drain when 
+    <translation>Increases the chance of causing Holy Drain when
 attacking with holy element attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases Holy Drain chance.&lt;/COL&gt;</translation>
   </message>
@@ -1219,7 +1220,7 @@ attacking with holy element attacks.
     <key>ABILITY_INFO_182</key>
     <original>気絶攻力が上昇し、敵を気絶させやすくなる
 &lt;COL ffdc78&gt;LV UP毎に気絶攻力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your stun power, making it easier to 
+    <translation>Increases your stun power, making it easier to
 stun enemies.
 &lt;COL ffdc78&gt;LV UP: Further stun power.&lt;/COL&gt;</translation>
   </message>
@@ -1227,7 +1228,7 @@ stun enemies.
     <key>ABILITY_INFO_209</key>
     <original>回復行動を行っても敵から注目されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に敵からの注目度さらに軽減&lt;/COL&gt;</original>
-    <translation>Decreases the threat generation of healing 
+    <translation>Decreases the threat generation of healing
 actions.
 &lt;COL ffdc78&gt;LV UP: Further decreases threat generation.&lt;/COL&gt;</translation>
   </message>
@@ -1235,7 +1236,7 @@ actions.
     <key>ABILITY_INFO_243</key>
     <original>満月時に物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
-    <translation>Increases physical and magic defense during full 
+    <translation>Increases physical and magic defense during full
 moons.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
@@ -1251,8 +1252,8 @@ moons.
     <original>射属性の有効部位に与えるダメージ量が増加し
 非有効部位へのダメージ量が減少する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
-    <translation>Increases your damage dealt towards parts weak 
-against missile attacks, but reduces 
+    <translation>Increases your damage dealt towards parts weak
+against missile attacks, but reduces
 your damage to parts strong against them.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
@@ -1267,7 +1268,7 @@ your damage to parts strong against them.
     <key>ABILITY_INFO_97</key>
     <original>呪いの状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
-    <translation>Reduces your chance of being afflicted with 
+    <translation>Reduces your chance of being afflicted with
 Curse.
 &lt;COL ffdc78&gt;LV UP: Further decreases affliction chance.&lt;/COL&gt;</translation>
   </message>
@@ -1276,7 +1277,7 @@ Curse.
     <original>ダッシュジャンプの着地時に
 体勢を崩しにくくなる
 &lt;COL ffdc78&gt;LV UP毎により崩しにくくなる&lt;/COL&gt;</original>
-    <translation>Decreases the chance of staggering from running 
+    <translation>Decreases the chance of staggering from running
 jumps.
 &lt;COL ffdc78&gt;LV UP: Further decreases stagger chance.&lt;/COL&gt;</translation>
   </message>
@@ -1292,7 +1293,7 @@ jumps.
     <original>闇属性攻撃を対象に当てた際
 闇霧の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
-    <translation>Increases the chance of causing Darkness when 
+    <translation>Increases the chance of causing Darkness when
 attacking with dark element attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases Darkness chance.&lt;/COL&gt;</translation>
   </message>
@@ -1301,8 +1302,8 @@ attacking with dark element attacks.
     <original>体力が一定量以上のとき
 気絶攻力が上昇し、敵を気絶させやすくなる
 &lt;COL ffdc78&gt;LV UP毎に気絶攻力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your stun power when your health is 
-above a certain amount, making it easier to 
+    <translation>Increases your stun power when your health is
+above a certain amount, making it easier to
 stun enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases stun power.&lt;/COL&gt;</translation>
   </message>
@@ -1311,14 +1312,14 @@ stun enemies.
     <original>敵からの注目度が時間経過で
 下がりやすくなる
 &lt;COL ffdc78&gt;LV UP毎に敵からの注目度さらに減少&lt;/COL&gt;</original>
-    <translation>Increases loss of enemy attention from time 
-elapsing. 
+    <translation>Increases loss of enemy attention from time
+elapsing.
 &lt;COL ffdc78&gt;LV UP: Further increases loss of enemy attention.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_226</key>
     <original>マップ上の宝箱ポイント表示範囲が拡大する</original>
-    <translation>Increases the range in which treasure will appear 
+    <translation>Increases the range in which treasure will appear
 on your map.
 &lt;COL ffdc78&gt;LV UP: Further increases range.&lt;/COL&gt;</translation>
   </message>
@@ -1326,7 +1327,7 @@ on your map.
     <key>ABILITY_INFO_19</key>
     <original>受け身の無敵時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に無敵時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases the invulnerability period when you 
+    <translation>Increases the invulnerability period when you
 quick-recover from a knockdown.
 &lt;COL ffdc78&gt;LV UP: Further increases invulnerability period.&lt;/COL&gt;</translation>
   </message>
@@ -1335,8 +1336,8 @@ quick-recover from a knockdown.
     <original>体力が一定量以上のとき、吹き飛ばし力が上昇し
 敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your stagger power when your health is 
-above a certain amount, making it 
+    <translation>Increases your stagger power when your health is
+above a certain amount, making it
 easier to stagger enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases stagger power.&lt;/COL&gt;</translation>
   </message>
@@ -1344,7 +1345,7 @@ easier to stagger enemies.
     <key>ABILITY_INFO_66</key>
     <original>闇属性魔法によって受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
-    <translation>Decreases the damage you take from dark element 
+    <translation>Decreases the damage you take from dark element
 magic.
 &lt;COL ffdc78&gt;LV UP: Further decreases damage taken.&lt;/COL&gt;</translation>
   </message>
@@ -1353,7 +1354,7 @@ magic.
     <original>体力が一定以上のとき、
 物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your physical/magic defense when your 
+    <translation>Increases your physical/magic defense when your
 health is above a certain amount.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
@@ -1362,7 +1363,7 @@ health is above a certain amount.
     <original>しがみつき攻撃時の
 スタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
-    <translation>Decreases stamina consumption while grabbing onto 
+    <translation>Decreases stamina consumption while grabbing onto
 enemies.
 &lt;COL ffdc78&gt;LV UP: Further decreases stamina consumption.&lt;/COL&gt;</translation>
   </message>
@@ -1378,7 +1379,7 @@ enemies.
     <original>魔眼により複数の攻撃対象を捕捉した際、
 魔力増加速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に増加速度がより上昇&lt;/COL&gt;</original>
-    <translation>Increases the rate at which your magic power 
+    <translation>Increases the rate at which your magic power
 increase from targeting multiple enemies with Magic Eye.
 &lt;COL ffdc78&gt;LV UP: Further increases magic power increase rate.&lt;/COL&gt;</translation>
   </message>
@@ -1387,15 +1388,16 @@ increase from targeting multiple enemies with Magic Eye.
     <original>体力が一定量以上のときチャンス攻力が上昇し
 怒り状態の強敵をダウンさせやすくなる
 &lt;COL ffdc78&gt;LV UP毎にチャンス攻力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your chance attack power when your 
-health is above a certain amount, increasing your chance to down enraged enemies.
+    <translation>Increases your chance attack power when your
+health is above a certain amount, increasing your
+chance to down enraged enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases chance attack power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_210</key>
     <original>しがみつき時に敵から注目されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に敵からの注目度さらに軽減&lt;/COL&gt;</original>
-    <translation>Decreases threat generation while grabbing onto 
+    <translation>Decreases threat generation while grabbing onto
 enemies.
 &lt;COL ffdc78&gt;LV UP: Further decreases threat generation.&lt;/COL&gt;</translation>
   </message>
@@ -1405,9 +1407,9 @@ enemies.
 ダメージを受けた時、１度だけ体力１で踏み止まる
 宿での休憩やログアウトにより効果は回復する
 &lt;COL ffdc78&gt;LV UP毎に発動体力条件がより緩和&lt;/COL&gt;</original>
-    <translation>Allows you to survive an attack with 1 HP 
-remaining when struck by an attack that would kill 
-you while below a certain amount of health. 
+    <translation>Allows you to survive an attack with 1 HP
+remaining when struck by an attack that would kill
+you while below a certain amount of health.
 Effect resets on logging out or resting at an inn.
 &lt;COL ffdc78&gt;LV UP: Increases health threshold for effect to trigger.&lt;/COL&gt;</translation>
   </message>
@@ -1415,7 +1417,7 @@ Effect resets on logging out or resting at an inn.
     <key>ABILITY_INFO_8</key>
     <original>体力が一定量以上のとき筋力が増加する
 &lt;COL ffdc78&gt;LV UP毎に筋力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your physical strength when your health 
+    <translation>Increases your physical strength when your health
 is above a certain amount.
 &lt;COL ffdc78&gt;LV UP: Further increases physical strength.&lt;/COL&gt;</translation>
   </message>
@@ -1423,7 +1425,7 @@ is above a certain amount.
     <key>ABILITY_INFO_32</key>
     <original>状態異常を引き起こす矢の威力が増加する
 &lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
-    <translation>Increases the effectiveness of status 
+    <translation>Increases the effectiveness of status
 effect-inducing arrows.
 &lt;COL ffdc78&gt;LV UP: Further increases status effectiveness.&lt;/COL&gt;</translation>
   </message>
@@ -1432,7 +1434,7 @@ effect-inducing arrows.
     <original>助け起こしたパーティーメンバーの
 物理攻撃力が一定時間増加する
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation>Temporarily increases the physical attack power 
+    <translation>Temporarily increases the physical attack power
 of allies you revive.
 &lt;COL ffdc78&gt;LV UP: Further increases effect duration.&lt;/COL&gt;</translation>
   </message>
@@ -1454,7 +1456,7 @@ of allies you revive.
     <key>ABILITY_INFO_133</key>
     <original>聖属性攻撃によって与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage you deal with holy element 
+    <translation>Increases the damage you deal with holy element
 attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
@@ -1470,7 +1472,7 @@ attacks.
     <original>チャンス攻力が上昇し、怒り状態の強敵を
 ダウンさせやすくなる
 &lt;COL ffdc78&gt;LV UP毎にチャンス攻力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your chance attack power, making it 
+    <translation>Increases your chance attack power, making it
 easier to down enraged enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases chance attack power.&lt;/COL&gt;</translation>
   </message>
@@ -1478,7 +1480,7 @@ easier to down enraged enemies.
     <key>ABILITY_INFO_217</key>
     <original>しがみつき時にスタミナの回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復速度がより上昇&lt;/COL&gt;</original>
-    <translation>Increases stamina recovery while grabbing onto 
+    <translation>Increases stamina recovery while grabbing onto
 enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovery.&lt;/COL&gt;</translation>
   </message>
@@ -1494,7 +1496,7 @@ enemies.
     <original>連係投げ構え中に受けるダメージ量が軽減され
 体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
-    <translation>Reduces damage taken and makes you harder to 
+    <translation>Reduces damage taken and makes you harder to
 stagger while in the stance for an assisted jump.
 &lt;COL ffdc78&gt;LV UP: Further reduces damage taken.&lt;/COL&gt;</translation>
   </message>
@@ -1503,8 +1505,8 @@ stagger while in the stance for an assisted jump.
     <original>スタミナが一定量以上のとき、吹き飛ばし力が上昇し
 敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your stagger power while above a 
-certain amount of stamina, making enemies 
+    <translation>Increases your stagger power while above a
+certain amount of stamina, making enemies
 easier to stagger.
 &lt;COL ffdc78&gt;LV UP: Further increases stagger power.&lt;/COL&gt;</translation>
   </message>
@@ -1513,7 +1515,7 @@ easier to stagger.
     <original>助け起こしたパーティーメンバーの
 魔法攻撃力が一定時間増加する
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation>Temporarily increases the magic attack power of 
+    <translation>Temporarily increases the magic attack power of
 allies you revive.
 &lt;COL ffdc78&gt;LV UP: Further increases effect duration.&lt;/COL&gt;</translation>
   </message>
@@ -1522,7 +1524,7 @@ allies you revive.
     <original>シールドシーケンスを行ったときに
 スタミナが回復する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
-    <translation>Recovers your stamina after executing Shield 
+    <translation>Recovers your stamina after executing Shield
 Sequence.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovered.&lt;/COL&gt;</translation>
   </message>
@@ -1537,7 +1539,7 @@ Sequence.
     <key>ABILITY_INFO_136</key>
     <original>体力が一定量以上のとき魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に魔力がより増加&lt;/COL&gt;</original>
-    <translation>Increases magic power when your health is above a 
+    <translation>Increases magic power when your health is above a
 certain amount.
 &lt;COL ffdc78&gt;LV UP: Further increases magic power.&lt;/COL&gt;</translation>
   </message>
@@ -1546,8 +1548,8 @@ certain amount.
     <original>瀕死状態中に体力が自動回復する
 ただしダメージを受けると一定時間、効果は中断する
 &lt;COL ffdc78&gt;LV UP毎に回復力がより上昇&lt;/COL&gt;</original>
-    <translation>Recovers health while you stand at death's door, 
-but taking damage will temporarily cancel the 
+    <translation>Recovers health while you stand at death's door,
+but taking damage will temporarily cancel the
 effect.
 &lt;COL ffdc78&gt;LV UP: Further increases health recovered.&lt;/COL&gt;</translation>
   </message>
@@ -1576,7 +1578,7 @@ effect.
     <key>ABILITY_INFO_3</key>
     <original>盾弾きの発動時に敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>Increases the stagger power of your shield 
+    <translation>Increases the stagger power of your shield
 counters.
 &lt;COL ffdc78&gt;LV UP: Further increases stagger power.&lt;/COL&gt;</translation>
   </message>
@@ -1592,7 +1594,7 @@ counters.
     <original>聖属性攻撃を受けても
 聖吸の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
-    <translation>Reduces the chance of being afflicted with Holy 
+    <translation>Reduces the chance of being afflicted with Holy
 Drain from holy element attacks.
 &lt;COL ffdc78&gt;LV UP: Further reduces affliction chance.&lt;/COL&gt;</translation>
   </message>
@@ -1601,7 +1603,7 @@ Drain from holy element attacks.
     <original>盾ガード時や武器ヒット時によろめいた際の
 すき動作時間が短縮される
 &lt;COL ffdc78&gt;LV UP毎にすき時間さらに短縮&lt;/COL&gt;</original>
-    <translation>Reduces time of vulnerability when staggered 
+    <translation>Reduces time of vulnerability when staggered
 while blocking or hitting an enemy.
 &lt;COL ffdc78&gt;LV UP: Further reduces vulnerability time.&lt;/COL&gt;</translation>
   </message>
@@ -1617,7 +1619,7 @@ while blocking or hitting an enemy.
     <original>魔法詠唱中に攻撃を受けても
 体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</original>
-    <translation>Reduces chance of being staggered by attacks 
+    <translation>Reduces chance of being staggered by attacks
 while casting spells.
 &lt;COL ffdc78&gt;LV UP: Further reduces chance of being staggered.&lt;/COL&gt;</translation>
   </message>
@@ -1633,7 +1635,7 @@ while casting spells.
     <original>溜め動作中に攻撃を受けても
 体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎により体勢を崩されにくくなる&lt;/COL&gt;</original>
-    <translation>Reduces chance of being staggered by attacks 
+    <translation>Reduces chance of being staggered by attacks
 while charging attacks.
 &lt;COL ffdc78&gt;LV UP: Further reduces chance of being staggered.&lt;/COL&gt;</translation>
   </message>
@@ -1641,7 +1643,7 @@ while charging attacks.
     <key>ABILITY_INFO_201</key>
     <original>攻撃時に、敵に与える錬成値が上昇する
 &lt;COL ffdc78&gt;LV UP毎に錬成値がより増加&lt;/COL&gt;</original>
-    <translation>Increases the rate at which you alchemize enemies 
+    <translation>Increases the rate at which you alchemize enemies
 with your attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases alchemize rate.&lt;/COL&gt;</translation>
   </message>
@@ -1650,7 +1652,7 @@ with your attacks.
     <original>安全に降下できる落差距離が延長され
 高所落下ダメージを受けにくくなる
 &lt;COL ffdc78&gt;LV UP毎に安全落差がより延長&lt;/COL&gt;</original>
-    <translation>Increases the height from which you can safely 
+    <translation>Increases the height from which you can safely
 fall.
 &lt;COL ffdc78&gt;LV UP: Further increases safe fall height.&lt;/COL&gt;</translation>
   </message>
@@ -1667,7 +1669,7 @@ fall.
     <original>戦闘態勢をとっていない敵への
 ダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage you deal towards enemies 
+    <translation>Increases the damage you deal towards enemies
 not in combat stance.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
@@ -1676,7 +1678,7 @@ not in combat stance.
     <original>闇属性攻撃を受けても
 闇霧の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
-    <translation>Reduces chance of being afflicted by Darkness 
+    <translation>Reduces chance of being afflicted by Darkness
 from dark element attacks.
 &lt;COL ffdc78&gt;LV UP: Further reduces chance status affliction.&lt;/COL&gt;</translation>
   </message>
@@ -1685,7 +1687,7 @@ from dark element attacks.
     <original>スタミナが一定以上のとき、
 物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your physical and magic defense when 
+    <translation>Increases your physical and magic defense when
 your stamina is above a certain amount.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
@@ -1693,7 +1695,7 @@ your stamina is above a certain amount.
     <key>ABILITY_INFO_115</key>
     <original>回避行動時に受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
-    <translation>Reduces damage taken while performing evasive 
+    <translation>Reduces damage taken while performing evasive
 actions.
 &lt;COL ffdc78&gt;LV UP: Further reduces damage taken.&lt;/COL&gt;</translation>
   </message>
@@ -1701,7 +1703,7 @@ actions.
     <key>ABILITY_INFO_144</key>
     <original>魔攻低下の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
-    <translation>Reduces chance of being afflicted by Magic 
+    <translation>Reduces chance of being afflicted by Magic
 Attack Down.
 &lt;COL ffdc78&gt;LV UP: Further reduces chance of status affliction.&lt;/COL&gt;</translation>
   </message>
@@ -1710,7 +1712,7 @@ Attack Down.
     <original>敵にとどめを刺したとき
 体力が回復する
 &lt;COL ffdc78&gt;LV UP毎に回復力がより上昇&lt;/COL&gt;</original>
-    <translation>Recovers health when you deal the finishing 
+    <translation>Recovers health when you deal the finishing
 blow to an enemy.
 &lt;COL ffdc78&gt;LV UP: Further increases health recovered.&lt;/COL&gt;</translation>
   </message>
@@ -1730,7 +1732,7 @@ blow to an enemy.
     <key>ABILITY_INFO_21</key>
     <original>物攻低下の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
-    <translation>Reduces chance of being afflicted by Physical 
+    <translation>Reduces chance of being afflicted by Physical
 Attack Down.
 &lt;COL ffdc78&gt;LV UP: Further reduces chance of status affliction.&lt;/COL&gt;</translation>
   </message>
@@ -1738,7 +1740,7 @@ Attack Down.
     <key>ABILITY_INFO_38</key>
     <original>弓を最適距離で当てた際の攻撃力が増加する
 &lt;COL ffdc78&gt;LV UP毎に矢の威力がより増加&lt;/COL&gt;</original>
-    <translation>Increases attack power when standing at the 
+    <translation>Increases attack power when standing at the
 perfect range.
 &lt;COL ffdc78&gt;LV UP: Further increases attack power.&lt;/COL&gt;</translation>
   </message>
@@ -1747,7 +1749,7 @@ perfect range.
     <original>ヒールオーラ展開時に敵から注目
 されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に敵からの注目度がさらに減少&lt;/COL&gt;</original>
-    <translation>Reduces threat generation from deploying Heal 
+    <translation>Reduces threat generation from deploying Heal
 Aura.
 &lt;COL ffdc78&gt;LV UP: Further reduces threat generation.&lt;/COL&gt;</translation>
   </message>
@@ -1762,7 +1764,7 @@ Aura.
     <key>ABILITY_INFO_118</key>
     <original>高所からのジャンプ降下攻撃の威力が増加する
 &lt;COL ffdc78&gt;LV UP毎に威力がより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of drop attacks performed 
+    <translation>Increases the damage of drop attacks performed
 from high places.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
@@ -1779,8 +1781,8 @@ from high places.
 強力な魔矢を放てるジャストタイミングが
 延長され、成功率が上がる
 &lt;COL ffdc78&gt;LV UP毎に受付時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases the just timing window of tracking 
-targets a second time with Magic Eye to 
+    <translation>Increases the just timing window of tracking
+targets a second time with Magic Eye to
 fire a stronger magic arrow.
 &lt;COL ffdc78&gt;LV UP: Further increases timing window.&lt;/COL&gt;</translation>
   </message>
@@ -1809,7 +1811,7 @@ fire a stronger magic arrow.
     <key>ABILITY_INFO_37</key>
     <original>弓の威力が増す最適距離の範囲が拡張される
 &lt;COL ffdc78&gt;LV UP毎に射撃最適距離がより拡張&lt;/COL&gt;</original>
-    <translation>Increases the range in which arrows will deal the 
+    <translation>Increases the range in which arrows will deal the
 greatest amount of damage.
 &lt;COL ffdc78&gt;LV UP: Further increases range.&lt;/COL&gt;</translation>
   </message>
@@ -1832,7 +1834,7 @@ greatest amount of damage.
     <original>しがみつき時に与えるダメージ量が
 大きく増加する
 &lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
-    <translation>Greatly increases damage dealt while grabbing 
+    <translation>Greatly increases damage dealt while grabbing
 onto enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
@@ -1883,7 +1885,7 @@ onto enemies.
     <key>ABILITY_INFO_40</key>
     <original>吹き飛ばし力が上昇し、敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>Increases stagger power, making it easier to 
+    <translation>Increases stagger power, making it easier to
 stagger enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases stagger power.&lt;/COL&gt;</translation>
   </message>
@@ -1907,7 +1909,7 @@ stagger enemies.
 揺さぶりによって敵のスタミナを
 より奪いやすくなる
 &lt;COL ffdc78&gt;LV UP毎に奪う敵スタミナ量がより増加&lt;/COL&gt;</original>
-    <translation>Increases the rate at which shaking an enraged 
+    <translation>Increases the rate at which shaking an enraged
 enemy drains their stamina.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina drain.&lt;/COL&gt;</translation>
   </message>
@@ -1923,7 +1925,7 @@ enemy drains their stamina.
     <original>魔矢の追従性能が向上し
 より精密に対象を追尾するようになる
 &lt;COL ffdc78&gt;LV UP毎に追従性能がより上昇&lt;/COL&gt;</original>
-    <translation>Increases the tracking power on magic arrows and 
+    <translation>Increases the tracking power on magic arrows and
 allows them to more accurately follow targets.
 &lt;COL ffdc78&gt;LV UP: Further increases tracking power.&lt;/COL&gt;</translation>
   </message>
@@ -1931,7 +1933,7 @@ allows them to more accurately follow targets.
     <key>ABILITY_INFO_194</key>
     <original>溜め攻撃で、より敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>Increases the stagger power of your charged 
+    <translation>Increases the stagger power of your charged
 attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases stagger power.&lt;/COL&gt;</translation>
   </message>
@@ -1940,7 +1942,7 @@ attacks.
     <original>錬成値が最大の状態でエリクシル使用時
 スタミナが回復する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
-    <translation>Recovers your stamina when using a fully 
+    <translation>Recovers your stamina when using a fully
 alchemized Elixer.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovered.&lt;/COL&gt;</translation>
   </message>
@@ -1970,7 +1972,7 @@ alchemized Elixer.
     <original>助け起こしたパーティーメンバーの
 最大体力が一定時間増加する
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation>Temporarily increases the maximum health of 
+    <translation>Temporarily increases the maximum health of
 allies you revive.
 &lt;COL ffdc78&gt;LV UP: Further increases effect duration.&lt;/COL&gt;</translation>
   </message>
@@ -1985,7 +1987,7 @@ allies you revive.
     <key>ABILITY_INFO_114</key>
     <original>回避行動時のすり抜け成功時間が延長される
 &lt;COL ffdc78&gt;LV UP毎にすり抜け時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases time in which you can successfully 
+    <translation>Increases time in which you can successfully
 escape when grabbed.
 &lt;COL ffdc78&gt;LV UP: Further increases escape window.&lt;/COL&gt;</translation>
   </message>
@@ -1993,7 +1995,7 @@ escape when grabbed.
     <key>ABILITY_INFO_150</key>
     <original>人間系の敵に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage you deal toward 
+    <translation>Increases the damage you deal toward
 humanoid-type enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
@@ -2002,7 +2004,7 @@ humanoid-type enemies.
     <original>回復魔法を受けたときの
 体力回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に回復速度がより上昇&lt;/COL&gt;</original>
-    <translation>Increases recovery speed when affected by healing 
+    <translation>Increases recovery speed when affected by healing
 magic.
 &lt;COL ffdc78&gt;LV UP: Further increases recovery speed.&lt;/COL&gt;</translation>
   </message>
@@ -2046,7 +2048,7 @@ magic.
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of your basic arrow attacks.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_320</key>
@@ -2054,10 +2056,10 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 ヒールオーラライドの回復量が増加する
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加
 LV5～6で詠唱速度が上昇&lt;/COL&gt;</original>
-    <translation>Increases the healing done by Heal Aura, Heal 
+    <translation>Increases the healing done by Heal Aura, Heal
 Aura Ex., and Ride Heal Aura.
 &lt;COL ffdc78&gt;LV UP: Further increases resistance.
-LV5~6: Increases cast speed.&lt;/COL&gt;</translation>
+LV5～6: Increases cast speed.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_332</key>
@@ -2066,7 +2068,7 @@ LV5~6: Increases cast speed.&lt;/COL&gt;</translation>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Shield Blow.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_344</key>
@@ -2075,7 +2077,7 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Carve.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_356</key>
@@ -2084,7 +2086,7 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Magick Bolt.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_368</key>
@@ -2093,7 +2095,7 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Seeker.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_380</key>
@@ -2102,7 +2104,7 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Hack.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_392</key>
@@ -2111,7 +2113,7 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Alchem.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_252</key>
@@ -2127,7 +2129,7 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Onslaught.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_309</key>
@@ -2136,7 +2138,7 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で状態異常蓄積値が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Explosive Arrows.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases status effect rate.&lt;/COL&gt;</translation>
+LV5～6: Increases status effect rate.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_321</key>
@@ -2145,7 +2147,7 @@ LV5~6: Increases status effect rate.&lt;/COL&gt;</translation>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Blast Bit.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_333</key>
@@ -2154,17 +2156,17 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で状態異常蓄積値が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Weaklight.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases status effect rate.&lt;/COL&gt;</translation>
+LV5～6: Increases status effect rate.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_345</key>
     <original>百裂斬り/阿修羅斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Scarlet Kisses/Biting 
+    <translation>Increases the damage of Scarlet Kisses/Biting
 Wind.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_357</key>
@@ -2173,7 +2175,7 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Magick Trap.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translation>
+LV5～6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_369</key>
@@ -2182,7 +2184,7 @@ LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translatio
 LV5～6で詠唱速度が上昇&lt;/COL&gt;</original>
     <translation>Increases the healing of Healing Arrow.
 &lt;COL ffdc78&gt;LV UP: Further increases healing.
-LV5~6: Increases cast speed.&lt;/COL&gt;</translation>
+LV5～6: Increases cast speed.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_381</key>
@@ -2191,7 +2193,8 @@ LV5~6: Increases cast speed.&lt;/COL&gt;</translation>
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Demon Slayer.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translation>
+LV5～6: Increases chance attack and exhaust attack
+power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_393</key>
@@ -2200,7 +2203,7 @@ LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translatio
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Alchem Fuga.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_253</key>
@@ -2214,10 +2217,10 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
     <original>斬り崩し/強斬り崩しのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Guard Break/Strong Guard 
+    <translation>Increases the damage of Guard Break/Strong Guard
 Break.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_311</key>
@@ -2226,7 +2229,7 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で状態異常蓄積値が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Arrowhead Strike.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases status effect rate.&lt;/COL&gt;</translation>
+LV5～6: Increases status effect rate.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_323</key>
@@ -2234,10 +2237,10 @@ LV5~6: Increases status effect rate.&lt;/COL&gt;</translation>
 セイントオーラライドのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Saint Aura, Saint Aura 
+    <translation>Increases the damage of Saint Aura, Saint Aura
 Ex., and Ride Saint Aura.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_336</key>
@@ -2246,17 +2249,17 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Force Burst.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translation>
+LV5～6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_348</key>
     <original>乱斬り/大乱斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Chaotic Strike/Great 
+    <translation>Increases the damage of Chaotic Strike/Great
 Chaotic Strike.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translation>
+LV5～6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_363</key>
@@ -2265,7 +2268,7 @@ LV5~6: Increases chance attack and exhaust attack power.&lt;/COL&gt;</translatio
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Magick Cracker.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_371</key>
@@ -2274,17 +2277,17 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Forward Kick.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_384</key>
     <original>魔人斬り/真・魔人斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で気絶力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Demon Slash/True Demon 
+    <translation>Increases the damage of Demon Slash/True Demon
 Slash.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stun power.&lt;/COL&gt;</translation>
+LV5～6: Increases stun power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_396</key>
@@ -2293,7 +2296,7 @@ LV5~6: Increases stun power.&lt;/COL&gt;</translation>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Elixer.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
+LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_254</key>
@@ -2309,13 +2312,13 @@ LV5~6: Increases stagger power.&lt;/COL&gt;</translation>
 LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Gouge.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5~6: Increases stun power.&lt;/COL&gt;</translation>
+LV5～6: Increases stun power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_310</key>
     <original>弓構え中の物理防御力と魔法防御力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより上昇&lt;/COL&gt;</original>
-    <translation>Increases physical and magic defense while aiming 
+    <translation>Increases physical and magic defense while aiming
 your bow.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
@@ -2324,7 +2327,7 @@ your bow.
     <original>パーティーメンバーを助け起こすと
 自身が受ける魔法攻撃ダメージが一定時間軽減される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation>Decreases damage from magic attacks temporarily 
+    <translation>Decreases damage from magic attacks temporarily
 after reviving a party member.
 &lt;COL ffdc78&gt;LV UP: Further extends effect duration.&lt;/COL&gt;</translation>
   </message>
@@ -2333,7 +2336,7 @@ after reviving a party member.
     <original>ガード中にダメージを受けた際に
 治癒上限値が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に治癒上限値をさらに維持&lt;/COL&gt;</original>
-    <translation>Slows rate at which maximum recoverable health 
+    <translation>Slows rate at which maximum recoverable health
 decreases from attacks while guarding.
 &lt;COL ffdc78&gt;LV UP: Further slows rate of decrease.&lt;/COL&gt;</translation>
   </message>
@@ -2344,7 +2347,7 @@ decreases from attacks while guarding.
 攻撃を受けても体制を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加
 より体勢を崩されにくくなる&lt;/COL&gt;</original>
-    <translation>Increases physical and magic defense and makes 
+    <translation>Increases physical and magic defense and makes
 you harder to stagger while dashing/dash jumping.
 &lt;COL ffdc78&gt;LV UP: Further increases defense/stagger resist.&lt;/COL&gt;</translation>
   </message>
@@ -2352,7 +2355,7 @@ you harder to stagger while dashing/dash jumping.
     <key>ABILITY_INFO_358</key>
     <original>フローティング中、物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより上昇&lt;/COL&gt;</original>
-    <translation>Increases physical and magic defense while 
+    <translation>Increases physical and magic defense while
 Levitating.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
@@ -2361,7 +2364,7 @@ Levitating.
     <original>白竜神殿から出てしばらくの間
 最大スタミナ量が増加する
 &lt;COL ffdc78&gt;LV UP毎に最大スタミナがより増加&lt;/COL&gt;</original>
-    <translation>Increases maximum stamina temporarily after 
+    <translation>Increases maximum stamina temporarily after
 leaving the White Dragon Temple.
 &lt;COL ffdc78&gt;LV UP: Further increases maximum stamina.&lt;/COL&gt;</translation>
   </message>
@@ -2370,8 +2373,8 @@ leaving the White Dragon Temple.
     <original>溜め攻撃をジャスト発動した際、スタミナが回復する
 カスタムスキルの場合は消費量を軽減。
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加&lt;/COL&gt;</original>
-    <translation>Recovers stamina when just timing a charge attack. 
-Reduces stamina consumption for just timed 
+    <translation>Recovers stamina when just timing a charge attack.
+Reduces stamina consumption for just timed
 custom skills.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovered.&lt;/COL&gt;</translation>
   </message>
@@ -2380,7 +2383,7 @@ custom skills.
     <original>敵のヘイトを取っている間、
 物理防御力と魔法防御力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
-    <translation>Increases physical and magic defense when 
+    <translation>Increases physical and magic defense when
 attracting enemy attention.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
@@ -2395,7 +2398,7 @@ attracting enemy attention.
     <key>ABILITY_INFO_298</key>
     <original>敵のガードを崩すと一定時間攻撃力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases physical attack temporarily after 
+    <translation>Increases physical attack temporarily after
 breaking enemy guard.
 &lt;COL ffdc78&gt;LV UP: Further increases effect duration.&lt;/COL&gt;</translation>
   </message>
@@ -2509,7 +2512,7 @@ breaking enemy guard.
     <original>石化の状態異常にかかった際に
 完全石化までの時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に石化時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases time to full petrification when 
+    <translation>Increases time to full petrification when
 afflicted with Petrify.
 &lt;COL ffdc78&gt;LV UP: Further increases time to petrification.&lt;/COL&gt;</translation>
   </message>
@@ -2518,7 +2521,7 @@ afflicted with Petrify.
     <original>黄金化の状態異常にかかった際に
 完全黄金化までの時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に黄金化時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases time to full petrification when 
+    <translation>Increases time to full petrification when
 afflicted with Goldify.
 &lt;COL ffdc78&gt;LV UP: Further increases time to petrification.&lt;/COL&gt;</translation>
   </message>
@@ -2561,7 +2564,7 @@ afflicted with Goldify.
     <key>ABILITY_INFO_278</key>
     <original>雷防低下の状態異常からの回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</original>
-    <translation>Increases recovery speed from Thunder Defense 
+    <translation>Increases recovery speed from Thunder Defense
 Down.
 &lt;COL ffdc78&gt;LV UP: Further increases recovery speed.&lt;/COL&gt;</translation>
   </message>
@@ -2583,7 +2586,7 @@ Down.
     <key>ABILITY_INFO_281</key>
     <original>物攻低下の状態異常からの回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</original>
-    <translation>Increases recovery speed from Physical Attack 
+    <translation>Increases recovery speed from Physical Attack
 Down.
 &lt;COL ffdc78&gt;LV UP: Further increases recovery speed.&lt;/COL&gt;</translation>
   </message>
@@ -2591,7 +2594,7 @@ Down.
     <key>ABILITY_INFO_282</key>
     <original>物防低下の状態異常からの回復速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に状態異常回復速度がより上昇&lt;/COL&gt;</original>
-    <translation>Increases recovery speed from Physical Defense 
+    <translation>Increases recovery speed from Physical Defense
 Down.
 &lt;COL ffdc78&gt;LV UP: Further increases recovery speed.&lt;/COL&gt;</translation>
   </message>
@@ -2613,7 +2616,7 @@ Down.
     <key>ABILITY_INFO_291</key>
     <original>戦闘ＢＧＭが「英雄の証」に変わる
 （「モンスターハンター」シリーズ）</original>
-    <translation>Sets Battle BGM to "Proof of a Hero" 
+    <translation>Sets Battle BGM to "Proof of a Hero"
 (Monster Hunter).</translation>
   </message>
   <message>
@@ -2621,14 +2624,14 @@ Down.
     <original>戦闘ＢＧＭが
 「Ｄｅｖｉｌｓ　Ｎｅｖｅｒ　Ｃｒｙ」に変わる
 （「デビルメイクライ」シリーズ）</original>
-    <translation>Sets Battle BGM to "Devils Never Cry" 
+    <translation>Sets Battle BGM to "Devils Never Cry"
 (Devil May Cry).</translation>
   </message>
   <message>
     <key>ABILITY_INFO_293</key>
     <original>戦闘ＢＧＭが「日本（リュウ）」に変わる
 （「ストリートファイター」シリーズ）</original>
-    <translation>Sets Battle BGM to "Japan (Ryu)" 
+    <translation>Sets Battle BGM to "Japan (Ryu)"
 (Street Fighter).</translation>
   </message>
   <message>
@@ -2642,7 +2645,7 @@ Down.
     <key>ABILITY_INFO_295</key>
     <original>戦闘ＢＧＭが「平地ＢＧＭ」に変わる
 （「魔界村」シリーズ）</original>
-    <translation>Sets Battle BGM to "Plains BGM" 
+    <translation>Sets Battle BGM to "Plains BGM"
 (Ghosts 'n Goblins).</translation>
   </message>
   <message>
@@ -2698,7 +2701,7 @@ Down.
     <key>ABILITY_INFO_448</key>
     <original>敵を倒した際、PT内のポーンの治癒上限値が回復する
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加&lt;/COL&gt;</original>
-    <translation>Increases maximum recoverable health of pawns in 
+    <translation>Increases maximum recoverable health of pawns in
 your party when an enemy is slain.
 &lt;COL ffdc78&gt;LV UP: Further increases maximum recoverable health.&lt;/COL&gt;</translation>
   </message>
@@ -2722,7 +2725,7 @@ your party when an enemy is slain.
   <message>
     <key>ABILITY_INFO_452</key>
     <original>マップ上のアイテム採取ポイント表示範囲が拡大する</original>
-    <translation>Increases the range in which gathering points 
+    <translation>Increases the range in which gathering points
 appear on your map.</translation>
   </message>
   <message>
@@ -2737,7 +2740,7 @@ appear on your map.</translation>
     <original>一定時間、特殊効果が付与されるアイテムの
 効果持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases the effect duration of items granting 
+    <translation>Increases the effect duration of items granting
 buffs.
 &lt;COL ffdc78&gt;LV UP: Further increases effect duration.&lt;/COL&gt;</translation>
   </message>
@@ -2745,7 +2748,7 @@ buffs.
     <key>ABILITY_INFO_455</key>
     <original>採掘や伐採に使用するアイテムが壊れにくくなる
 &lt;COL ffdc78&gt;LV UP毎に壊れにくさがより上昇</original>
-    <translation>Decreases the chance that gathering items will 
+    <translation>Decreases the chance that gathering items will
 break on use.
 &lt;COL ffdc78&gt;LV UP: Further decreases break chance.&lt;/COL&gt;</translation>
   </message>
@@ -2753,14 +2756,14 @@ break on use.
     <key>ABILITY_INFO_456</key>
     <original>水辺や毒沼などの侵入時に移動速度が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に移動速度をより維持する&lt;/COL&gt;</original>
-    <translation>Lowers the movement speed penalty when in water 
+    <translation>Lowers the movement speed penalty when in water
 or poison pools.
 &lt;COL ffdc78&gt;LV UP: Further decreases movement penalty.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_457</key>
     <original>マップ上の宝箱ポイント表示範囲が拡大する</original>
-    <translation>Increases the range in which treasure will appear 
+    <translation>Increases the range in which treasure will appear
 on your map.</translation>
   </message>
   <message>
@@ -2769,9 +2772,9 @@ on your map.</translation>
 ダメージを受けた時、１度だけ体力１で踏み止まる
 宿での休憩やログアウトにより効果は回復する
 &lt;COL ffdc78&gt;LV UP毎に発動体力条件がより緩和&lt;/COL&gt;</original>
-    <translation>Allows you to survive an attack with 1 HP 
-remaining when struck by an attack that would 
-kill you while below a certain amount of health. 
+    <translation>Allows you to survive an attack with 1 HP
+remaining when struck by an attack that would
+kill you while below a certain amount of health.
 Effect resets on logging out or resting at an inn.
 &lt;COL ffdc78&gt;LV UP: Increases health threshold for effect to trigger.&lt;/COL&gt;</translation>
   </message>
@@ -2780,7 +2783,7 @@ Effect resets on logging out or resting at an inn.
     <original>安全に降下できる落差距離が延長され
 高所落下ダメージを受けにくくなる
 &lt;COL ffdc78&gt;LV UP毎に安全落差がより延長&lt;/COL&gt;</original>
-    <translation>Increases the height from which you can safely 
+    <translation>Increases the height from which you can safely
 fall.
 &lt;COL ffdc78&gt;LV UP: Further increases safe fall height.&lt;/COL&gt;</translation>
   </message>
