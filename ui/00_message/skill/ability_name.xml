@@ -192,7 +192,7 @@
   <message>
     <key>ABILITY_NAME_228</key>
     <original>探採</original>
-    <translation>Resource Exploration</translation>
+    <translation>Gathering</translation>
   </message>
   <message>
     <key>ABILITY_NAME_1</key>
@@ -542,6 +542,7 @@
   <message>
     <key>ABILITY_NAME_229</key>
     <original>巧掘</original>
+    <translation>Expert Excavator</translation>
   </message>
   <message>
     <key>ABILITY_NAME_22</key>
@@ -641,6 +642,7 @@
   <message>
     <key>ABILITY_NAME_233</key>
     <original>羽踏</original>
+    <translation>Featherfoot</translation>
   </message>
   <message>
     <key>ABILITY_NAME_2</key>
@@ -665,6 +667,7 @@
   <message>
     <key>ABILITY_NAME_112</key>
     <original>粘着</original>
+    <translation>Adhesion</translation>
   </message>
   <message>
     <key>ABILITY_NAME_134</key>
@@ -689,6 +692,7 @@
   <message>
     <key>ABILITY_NAME_242</key>
     <original>月攻</original>
+    <translation>Moonlight Assault</translation>
   </message>
   <message>
     <key>ABILITY_NAME_12</key>
@@ -713,6 +717,7 @@
   <message>
     <key>ABILITY_NAME_119</key>
     <original>翻防</original>
+    <translation>Flip Resistance</translation>
   </message>
   <message>
     <key>ABILITY_NAME_138</key>
@@ -737,6 +742,7 @@
   <message>
     <key>ABILITY_NAME_243</key>
     <original>月防</original>
+    <translation>Moonlight Defense</translation>
   </message>
   <message>
     <key>ABILITY_NAME_17</key>
@@ -761,6 +767,7 @@
   <message>
     <key>ABILITY_NAME_122</key>
     <original>健着</original>
+    <translation>Sound Landing</translation>
   </message>
   <message>
     <key>ABILITY_NAME_143</key>
@@ -785,6 +792,7 @@
   <message>
     <key>ABILITY_NAME_226</key>
     <original>宝眼</original>
+    <translation>Treasure Eye</translation>
   </message>
   <message>
     <key>ABILITY_NAME_19</key>
@@ -834,6 +842,7 @@
   <message>
     <key>ABILITY_NAME_227</key>
     <original>根性</original>
+    <translation>Willpower</translation>
   </message>
   <message>
     <key>ABILITY_NAME_8</key>
@@ -858,6 +867,7 @@
   <message>
     <key>ABILITY_NAME_103</key>
     <original>避旋</original>
+    <translation>Spin Avoid</translation>
   </message>
   <message>
     <key>ABILITY_NAME_133</key>
@@ -882,6 +892,7 @@
   <message>
     <key>ABILITY_NAME_238</key>
     <original>羅刹</original>
+    <translation>Rakshasa</translation>
   </message>
   <message>
     <key>ABILITY_NAME_18</key>
@@ -906,10 +917,12 @@
   <message>
     <key>ABILITY_NAME_113</key>
     <original>跳避</original>
+    <translation>Flying Evasion</translation>
   </message>
   <message>
     <key>ABILITY_NAME_136</key>
     <original>魔増</original>
+    <translation>Magick Boost</translation>
   </message>
   <message>
     <key>ABILITY_NAME_163</key>
@@ -929,10 +942,12 @@
   <message>
     <key>ABILITY_NAME_239</key>
     <original>夜叉</original>
+    <translation>Yasha</translation>
   </message>
   <message>
     <key>ABILITY_NAME_3</key>
     <original>受崩</original>
+    <translation>Crush Receive</translation>
   </message>
   <message>
     <key>ABILITY_NAME_28</key>
@@ -947,14 +962,17 @@
   <message>
     <key>ABILITY_NAME_90</key>
     <original>即直</original>
+    <translation>Instant Recovery</translation>
   </message>
   <message>
     <key>ABILITY_NAME_110</key>
     <original>耐握</original>
+    <translation>Enduring Grip</translation>
   </message>
   <message>
     <key>ABILITY_NAME_140</key>
     <original>魔抗</original>
+    <translation>Persistent Cast</translation>
   </message>
   <message>
     <key>ABILITY_NAME_157</key>
@@ -974,10 +992,12 @@
   <message>
     <key>ABILITY_NAME_234</key>
     <original>安着</original>
+    <translation>Safe Landing</translation>
   </message>
   <message>
     <key>ABILITY_NAME_13</key>
     <original>倒盾</original>
+    <translation>Toppling Shield</translation>
   </message>
   <message>
     <key>ABILITY_NAME_46</key>
@@ -992,14 +1012,17 @@
   <message>
     <key>ABILITY_NAME_94</key>
     <original>精強</original>
+    <translation>Great Vigor</translation>
   </message>
   <message>
     <key>ABILITY_NAME_115</key>
     <original>鎮逸</original>
+    <translation>Calm Evasion</translation>
   </message>
   <message>
     <key>ABILITY_NAME_144</key>
     <original>朗威</original>
+    <translation>Ignore Intimidation</translation>
   </message>
   <message>
     <key>ABILITY_NAME_164</key>
@@ -1034,14 +1057,17 @@
   <message>
     <key>ABILITY_NAME_98</key>
     <original>活性</original>
+    <translation>Active</translation>
   </message>
   <message>
     <key>ABILITY_NAME_118</key>
     <original>烈墜</original>
+    <translation>Destructive Fall</translation>
   </message>
   <message>
     <key>ABILITY_NAME_141</key>
     <original>魔精</original>
+    <translation>Magick Energy</translation>
   </message>
   <message>
     <key>ABILITY_NAME_152</key>
@@ -1076,14 +1102,17 @@
   <message>
     <key>ABILITY_NAME_91</key>
     <original>壮健</original>
+    <translation>Robust</translation>
   </message>
   <message>
     <key>ABILITY_NAME_107</key>
     <original>握烈</original>
+    <translation>Furious Grip</translation>
   </message>
   <message>
     <key>ABILITY_NAME_135</key>
     <original>魔双</original>
+    <translation>Twin Magick</translation>
   </message>
   <message>
     <key>ABILITY_NAME_162</key>
@@ -1103,6 +1132,7 @@
   <message>
     <key>ABILITY_NAME_248</key>
     <original>抗毒</original>
+    <translation>Resist Poison</translation>
   </message>
   <message>
     <key>ABILITY_NAME_7</key>
@@ -1112,26 +1142,32 @@
   <message>
     <key>ABILITY_NAME_40</key>
     <original>剛力</original>
+    <translation>Herculean Strength</translation>
   </message>
   <message>
     <key>ABILITY_NAME_54</key>
     <original>長露</original>
+    <translation>Long Exposure</translation>
   </message>
   <message>
     <key>ABILITY_NAME_78</key>
     <original>猛吸</original>
+    <translation>Great Absorption</translation>
   </message>
   <message>
     <key>ABILITY_NAME_108</key>
     <original>与震</original>
+    <translation>Quakemaker</translation>
   </message>
   <message>
     <key>ABILITY_NAME_139</key>
     <original>胆唱</original>
+    <translation>Courageous Cast</translation>
   </message>
   <message>
     <key>ABILITY_NAME_155</key>
     <original>執矢</original>
+    <translation>Persistent Arrow</translation>
   </message>
   <message>
     <key>ABILITY_NAME_194</key>
@@ -1146,34 +1182,42 @@
   <message>
     <key>ABILITY_NAME_249</key>
     <original>抗遅</original>
+    <translation>Anti-slow</translation>
   </message>
   <message>
     <key>ABILITY_NAME_14</key>
     <original>圧伏</original>
+    <translation>Overpower</translation>
   </message>
   <message>
     <key>ABILITY_NAME_44</key>
     <original>硬皮</original>
+    <translation>Tough Skin</translation>
   </message>
   <message>
     <key>ABILITY_NAME_59</key>
     <original>激励</original>
+    <translation>Encouragement</translation>
   </message>
   <message>
     <key>ABILITY_NAME_100</key>
     <original>緩刃</original>
+    <translation>Eased Blade</translation>
   </message>
   <message>
     <key>ABILITY_NAME_114</key>
     <original>優避</original>
+    <translation>Superior Evasion</translation>
   </message>
   <message>
     <key>ABILITY_NAME_150</key>
     <original>人狙</original>
+    <translation>Humanoid Proficiency</translation>
   </message>
   <message>
     <key>ABILITY_NAME_158</key>
     <original>急活</original>
+    <translation>Quick Healing</translation>
   </message>
   <message>
     <key>ABILITY_NAME_198</key>
@@ -1188,6 +1232,7 @@
   <message>
     <key>ABILITY_NAME_250</key>
     <original>抗眠</original>
+    <translation>Anti-sleep</translation>
   </message>
   <message>
     <key>ABILITY_NAME_20</key>
@@ -1196,174 +1241,217 @@
   <message>
     <key>ABILITY_NAME_251</key>
     <original>抗絶</original>
+    <translation>Anti-stun</translation>
   </message>
   <message>
     <key>ABILITY_NAME_308</key>
     <original>弓射 倒</original>
+    <translation>Archery: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_320</key>
     <original>癒気 詠</original>
+    <translation>Healing: Chant</translation>
   </message>
   <message>
     <key>ABILITY_NAME_332</key>
     <original>盾打 倒</original>
+    <translation>Shieldbash: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_344</key>
     <original>連斬 倒</original>
+    <translation>Carve: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_356</key>
     <original>魔弾 倒</original>
+    <translation>Magick Bolt: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_368</key>
     <original>闘矢 倒</original>
+    <translation>Seeker: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_380</key>
     <original>破斬 倒</original>
+    <translation>Hack: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_392</key>
     <original>錬打 倒</original>
+    <translation>Alchemic Strike: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_252</key>
     <original>抗水</original>
+    <translation>Anti-drench</translation>
   </message>
   <message>
     <key>ABILITY_NAME_296</key>
     <original>連撃 倒</original>
+    <translation>Onslaught: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_309</key>
     <original>爆矢 烈</original>
+    <translation>Exploding Arrow: Fury</translation>
   </message>
   <message>
     <key>ABILITY_NAME_321</key>
     <original>破球 倒</original>
+    <translation>Blast Bit: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_333</key>
     <original>属照 烈</original>
+    <translation>Weaklight: Fury</translation>
   </message>
   <message>
     <key>ABILITY_NAME_345</key>
     <original>裂斬 倒</original>
+    <translation>Scarlet Kisses: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_357</key>
     <original>魔罠 砕</original>
+    <translation>Magick Trap: Crush</translation>
   </message>
   <message>
     <key>ABILITY_NAME_369</key>
     <original>助矢 詠</original>
+    <translation>Healing Arrow: Chant</translation>
   </message>
   <message>
     <key>ABILITY_NAME_381</key>
     <original>魔倒 砕</original>
+    <translation>Demon Slayer: Crush</translation>
   </message>
   <message>
     <key>ABILITY_NAME_393</key>
     <original>錬避 倒</original>
+    <translation>Alchemic Evade: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_253</key>
     <original>抗油</original>
+    <translation>Anti-oil</translation>
   </message>
   <message>
     <key>ABILITY_NAME_297</key>
     <original>斬崩 倒</original>
+    <translation>Demolishing Strike: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_311</key>
     <original>矢斬 烈</original>
+    <translation>Arrowhead Strike: Fury</translation>
   </message>
   <message>
     <key>ABILITY_NAME_323</key>
     <original>聖気 倒</original>
+    <translation>Saint Aura: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_336</key>
     <original>攻爆 砕</original>
+    <translation>Force Burst: Crush</translation>
   </message>
   <message>
     <key>ABILITY_NAME_348</key>
     <original>乱斬 砕</original>
+    <translation>Chaotic Strike: Crush</translation>
   </message>
   <message>
     <key>ABILITY_NAME_363</key>
     <original>魔破 倒</original>
+    <translation>Magick Cracker: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_371</key>
     <original>一蹴 倒</original>
+    <translation>Forward Kick: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_384</key>
     <original>魔斬 絶</original>
+    <translation>Demon Slash: Eradicate</translation>
   </message>
   <message>
     <key>ABILITY_NAME_396</key>
     <original>錬爆 倒</original>
+    <translation>Elixer: Slayer</translation>
   </message>
   <message>
     <key>ABILITY_NAME_254</key>
     <original>抗封</original>
+    <translation>Anti-seal</translation>
   </message>
   <message>
     <key>ABILITY_NAME_299</key>
     <original>抉突 絶</original>
+    <translation>Gouge: Eradicate</translation>
   </message>
   <message>
     <key>ABILITY_NAME_310</key>
     <original>硬構</original>
+    <translation>Defensive Stance</translation>
   </message>
   <message>
     <key>ABILITY_NAME_322</key>
     <original>扶魔</original>
+    <translation>Assist Boost</translation>
   </message>
   <message>
     <key>ABILITY_NAME_334</key>
     <original>護治</original>
+    <translation>Protected Mend</translation>
   </message>
   <message>
     <key>ABILITY_NAME_346</key>
     <original>走耐</original>
+    <translation>Enduring Sprint</translation>
   </message>
   <message>
     <key>ABILITY_NAME_358</key>
     <original>硬浮</original>
+    <translation>Enduring Levitation</translation>
   </message>
   <message>
     <key>ABILITY_NAME_370</key>
     <original>快進</original>
+    <translation>Steady Advance</translation>
   </message>
   <message>
     <key>ABILITY_NAME_382</key>
     <original>快閃</original>
+    <translation>Brandish</translation>
   </message>
   <message>
     <key>ABILITY_NAME_394</key>
     <original>硬視</original>
+    <translation>Enduring Vision</translation>
   </message>
   <message>
     <key>ABILITY_NAME_255</key>
     <original>抗軟</original>
+    <translation>Anti-subdue</translation>
   </message>
   <message>
     <key>ABILITY_NAME_298</key>
     <original>崩攻</original>
+    <translation>Crushing Blow</translation>
   </message>
   <message>
     <key>ABILITY_NAME_256</key>
     <original>抗石</original>
+    <translation>Anti-petrify</translation>
   </message>
   <message>
     <key>ABILITY_NAME_257</key>
     <original>抗金</original>
+    <translation>Anti-goldify</translation>
   </message>
   <message>
     <key>ABILITY_NAME_258</key>
@@ -1398,14 +1486,17 @@
   <message>
     <key>ABILITY_NAME_264</key>
     <original>制遅</original>
+    <translation>Control Slow</translation>
   </message>
   <message>
     <key>ABILITY_NAME_265</key>
     <original>制眠</original>
+    <translation>Control Sleep</translation>
   </message>
   <message>
     <key>ABILITY_NAME_266</key>
     <original>制絶</original>
+    <translation>Control Stun</translation>
   </message>
   <message>
     <key>ABILITY_NAME_267</key>
@@ -1420,174 +1511,206 @@
   <message>
     <key>ABILITY_NAME_269</key>
     <original>縮封</original>
+    <translation>Quick Seal</translation>
   </message>
   <message>
     <key>ABILITY_NAME_270</key>
     <original>縮軟</original>
+    <translation>Reduce Subdue</translation>
   </message>
   <message>
     <key>ABILITY_NAME_271</key>
     <original>縮石</original>
-    <translation>Shrink Petrify</translation>
+    <translation>Reduce Petrify</translation>
   </message>
   <message>
     <key>ABILITY_NAME_272</key>
     <original>縮金</original>
+    <translation>Reduce Goldify</translation>
   </message>
   <message>
     <key>ABILITY_NAME_273</key>
     <original>縮焼</original>
-    <translation>Shrink Tar</translation>
+    <translation>Reduce Tar</translation>
   </message>
   <message>
     <key>ABILITY_NAME_274</key>
     <original>縮凍</original>
-    <translation>Shrink Friese</translation>
+    <translation>Reduce Freeze</translation>
   </message>
   <message>
     <key>ABILITY_NAME_275</key>
     <original>縮霧</original>
-    <translation>Shrink Blind</translation>
+    <translation>Reduce Blind</translation>
   </message>
   <message>
     <key>ABILITY_NAME_276</key>
     <original>縮炎</original>
-    <translation>Shrink Fire</translation>
+    <translation>Reduce Fire</translation>
   </message>
   <message>
     <key>ABILITY_NAME_277</key>
     <original>縮氷</original>
-    <translation>Shrink Ice</translation>
+    <translation>Reduce Ice</translation>
   </message>
   <message>
     <key>ABILITY_NAME_278</key>
     <original>縮雷</original>
-    <translation>Shrink Thunder</translation>
+    <translation>Reduce Thunder</translation>
   </message>
   <message>
     <key>ABILITY_NAME_279</key>
     <original>縮聖</original>
-    <translation>Shrink Holy</translation>
+    <translation>Reduce Holy</translation>
   </message>
   <message>
     <key>ABILITY_NAME_280</key>
     <original>縮闇</original>
-    <translation>Shrink Dark</translation>
+    <translation>Reduce Dark</translation>
   </message>
   <message>
     <key>ABILITY_NAME_281</key>
     <original>縮攻</original>
+    <translation>Reduce Physical Attack Down</translation>
   </message>
   <message>
     <key>ABILITY_NAME_282</key>
     <original>縮防</original>
+    <translation>Reduce Defense Down</translation>
   </message>
   <message>
     <key>ABILITY_NAME_283</key>
     <original>縮念</original>
+    <translation>Reduce Magick Attack Down</translation>
   </message>
   <message>
     <key>ABILITY_NAME_284</key>
     <original>縮衰</original>
+    <translation>Reduce Magick Defense Down</translation>
   </message>
   <message>
     <key>ABILITY_NAME_291</key>
     <original>奏狩</original>
+    <translation>Music Hunter</translation>
   </message>
   <message>
     <key>ABILITY_NAME_292</key>
     <original>奏泣</original>
+    <translation>Music May Cry</translation>
   </message>
   <message>
     <key>ABILITY_NAME_293</key>
     <original>奏隆</original>
+    <translation>Music Fighter</translation>
   </message>
   <message>
     <key>ABILITY_NAME_294</key>
     <original>奏撃</original>
+    <translation>Wily Music</translation>
   </message>
   <message>
     <key>ABILITY_NAME_295</key>
     <original>奏魔</original>
+    <translation>Music 'n Goblins</translation>
   </message>
   <message>
     <key>ABILITY_NAME_441</key>
     <original>友体</original>
+    <translation>Companion Health</translation>
   </message>
   <message>
     <key>ABILITY_NAME_442</key>
     <original>友活</original>
+    <translation>Companion Stamina</translation>
   </message>
   <message>
     <key>ABILITY_NAME_443</key>
     <original>友攻</original>
+    <translation>Companion Attack</translation>
   </message>
   <message>
     <key>ABILITY_NAME_444</key>
     <original>友魔</original>
+    <translation>Companion Magick</translation>
   </message>
   <message>
     <key>ABILITY_NAME_445</key>
     <original>友防</original>
+    <translation>Companion Defense</translation>
   </message>
   <message>
     <key>ABILITY_NAME_446</key>
     <original>友護</original>
+    <translation>Companion Magick Defense</translation>
   </message>
   <message>
     <key>ABILITY_NAME_447</key>
     <original>追討</original>
+    <translation>Follow-up Attack</translation>
   </message>
   <message>
     <key>ABILITY_NAME_448</key>
     <original>友癒</original>
+    <translation>Companion Healing</translation>
   </message>
   <message>
     <key>ABILITY_NAME_449</key>
     <original>重歩 軽</original>
+    <translation>Heavy Steps: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_450</key>
     <original>穿歩 軽</original>
+    <translation>Deft Footing: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_451</key>
     <original>延泉 軽</original>
+    <translation>Extended Springs: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_452</key>
     <original>探採 軽</original>
+    <translation>Gathering: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_453</key>
     <original>薬効 軽</original>
+    <translation>Efficacy: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_454</key>
     <original>効延 軽</original>
+    <translation>Effect Extension: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_455</key>
     <original>巧掘 軽</original>
+    <translation>Expert Excavator: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_456</key>
     <original>流断 軽</original>
+    <translation>Flow: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_457</key>
     <original>宝眼 軽</original>
+    <translation>Treasure Eye: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_458</key>
     <original>根性 軽</original>
+    <translation>Willpower: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_459</key>
     <original>安着 軽</original>
+    <translation>Safe Landing: Light</translation>
   </message>
   <message>
     <key>ABILITY_NAME_460</key>
     <original>減重</original>
+    <translation>Ease Burden</translation>
   </message>
 </resource>
