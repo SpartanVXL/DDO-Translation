@@ -2,17 +2,17 @@
   <message>
     <key>poptop_bazaar_disp_exhibit_warehouse</key>
     <original>保管ボックスから出品</original>
-    <translation>Exhibit from Storage Box</translation>
+    <translation>Sell from Storage Box</translation>
   </message>
   <message>
     <key>poptop_bazaar_disp_exhibit_item</key>
     <original>アイテムバッグから出品</original>
-    <translation>Exhibit from Item Bag</translation>
+    <translation>Sell from Item Bag</translation>
   </message>
   <message>
     <key>poptop_bazaar_disp_exhibit</key>
     <original>出品</original>
-    <translation>Exhibit</translation>
+    <translation>Sell</translation>
   </message>
   <message>
     <key>poptop_bazaar_situation</key>
@@ -22,7 +22,7 @@
   <message>
     <key>poptop_bazaar_exhibit</key>
     <original>出品</original>
-    <translation>Exhibit</translation>
+    <translation>Sell</translation>
   </message>
   <message>
     <key>poptop_bazaar_buy</key>
@@ -42,7 +42,7 @@
   <message>
     <key>poptop_bazaar_disp_posnum</key>
     <original>出品可能数：</original>
-    <translation>Exhibitions:</translation>
+    <translation>Exhibits:</translation>
   </message>
   <message>
     <key>poptop_contriinfo</key>
@@ -82,6 +82,7 @@
   <message>
     <key>poptop_clan_clan_name</key>
     <original>&lt;NAME CLAN&gt; &lt;NAME CLAN_S&gt;</original>
+    <translation>&lt;NAME CLAN&gt; &lt;NAME CLAN_S&gt;</translation>
   </message>
   <message>
     <key>poptop_rim_stone_support_pawn</key>
@@ -116,7 +117,7 @@
   <message>
     <key>poptop_entryboard_sally</key>
     <original>出撃</original>
-    <translation>Rally</translation>
+    <translation>Sortie</translation>
   </message>
   <message>
     <key>poptop_entryboard_num</key>
@@ -167,7 +168,7 @@
   <message>
     <key>poptop_crest_attach</key>
     <original>クレスト装着</original>
-    <translation>Equip Crest</translation>
+    <translation>Mount Crest</translation>
   </message>
   <message>
     <key>poptop_equip_build</key>
@@ -177,7 +178,7 @@
   <message>
     <key>poptop_item_create</key>
     <original>アイテム生産</original>
-    <translation>Create Item</translation>
+    <translation>Craft Item</translation>
   </message>
   <message>
     <key>poptop_craft_jp</key>
@@ -211,6 +212,7 @@
   <message>
     <key>poptop_battle_assist_en</key>
     <original>Battle Assist</original>
+    <translation>Battle Assist</translation>
   </message>
   <message>
     <key>poptop_jp</key>
@@ -362,10 +364,12 @@
   <message>
     <key>poptop_entryboard_entry_invitation_pt</key>
     <original>パーティー招待</original>
+    <translation>Party Invite</translation>
   </message>
   <message>
     <key>poptop_entryboard_ready</key>
     <original>準備完了</original>
+    <translation>Ready</translation>
   </message>
   <message>
     <key>poptop_clan_interval_now</key>

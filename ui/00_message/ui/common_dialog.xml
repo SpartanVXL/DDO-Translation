@@ -1922,12 +1922,12 @@ cancel the changes?</translation>
   <message>
     <key>ana_entryb_ready_alert</key>
     <original>メンバーが集合しました。担当NPCから《出撃》を選択してください</original>
-    <translation>The party members have assembled. Please select "Rally" at the NPC.</translation>
+    <translation>The party members have assembled. Please select "Sortie" at the NPC.</translation>
   </message>
   <message>
     <key>ana_entryb_ready_wait_alert</key>
     <original>他のメンバーの出撃完了を待っています</original>
-    <translation>Waiting for the other party members to become ready.</translation>
+    <translation>Waiting for the other party members to sortie.</translation>
   </message>
   <message>
     <key>ana_entryb_reentry_alert</key>
@@ -2381,6 +2381,7 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   <message>
     <key>ana_om_door_open_by_enemy</key>
     <original>閉ざされていた道が開けた</original>
+    <translation>A path that was closed is now open.</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rim_day</key>
