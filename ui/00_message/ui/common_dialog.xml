@@ -1774,7 +1774,7 @@ The effect of "&lt;OPCS&gt;" will allow this.</translation>
   <message>
     <key>ana_join_lobby</key>
     <original>パーティーに合流します</original>
-    <translation>Join lobby?</translation>
+    <translation>Join party?</translation>
   </message>
   <message>
     <key>ana_enter_password</key>
@@ -2386,6 +2386,7 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   <message>
     <key>ana_partner_pawn_rim_day</key>
     <original>1日1回しか渡すことができません</original>
+    <translation>You can only give once a day.</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rim_max</key>
@@ -2412,6 +2413,7 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   <message>
     <key>ana_partner_pawn_lpup</key>
     <original>パートナーポーンとの絆が深まった</original>
+    <translation>You have deepend bonds with the Partner Pawn.</translation>
   </message>
   <message>
     <key>ana_quest_announce_set_discover_add</key>

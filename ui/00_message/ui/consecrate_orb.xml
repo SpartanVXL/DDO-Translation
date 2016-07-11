@@ -56,6 +56,7 @@
   <message>
     <key>ORB_TEXT_ERR_GETED</key>
     <original>すでに取得済みの能力です</original>
+    <translation>You have already unlocked that perk.</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_COMP_1</key>
@@ -85,22 +86,27 @@
   <message>
     <key>ORB_TEXT_ERR_SCENARIO</key>
     <original>この階層はまだ解放されていません</original>
+    <translation>You have not started this tier.</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_BO_LACK</key>
     <original>ブラッドオーブが不足しています</original>
+    <translation>You do not have enough Blood Orbs.</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_ALLCOMP</key>
     <original>これ以外のすべての能力を取得することで選択できます</original>
+    <translation>You must activate all other perks first.</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_COMP</key>
     <original>必要なトータルレベル（ジョブのレベル合計）に達することで選択できます</original>
+    <translation>You must first reach the required total level.</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_ADJACENT</key>
     <original>取得した能力に隣接する能力のみ選択できます</original>
+    <translation>You can only activate adjacent perks.</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ANOUNCE_2</key>
@@ -129,10 +135,12 @@
   <message>
     <key>ORB_TEXT_NOW_TOTALLEVEL</key>
     <original>現在のトータルレベル</original>
+    <translation>Current Total Level</translation>
   </message>
   <message>
     <key>ORB_TEXT_GET_TOTALLEVEL</key>
     <original>必要なトータルレベル</original>
+    <translation>Required Total Level</translation>
   </message>
   <message>
     <key>ORB_TEXT_JOB_ORB_TREE</key>
