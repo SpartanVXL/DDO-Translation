@@ -2,44 +2,52 @@
   <message>
     <key>ORB_GAIN_PARAM_INFO_1</key>
     <original>全ジョブの体力の最大値が上昇する</original>
+    <translation>Increase maximum Health Points for all jobs.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_2</key>
     <original>全ジョブのスタミナ最大値が上昇する</original>
+    <translation>Increase maximum Stamina for all jobs.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_3</key>
     <original>全ジョブの筋力が上昇する</original>
+    <translation>Increase Strength for all jobs.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_4</key>
     <original>全ジョブの物理防御力が上昇する</original>
+    <translation>Increase Defense for all jobs.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_5</key>
     <original>全ジョブの魔力が上昇する</original>
+    <translation>Increase Magick for all jobs.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_6</key>
     <original>全ジョブの魔法防御力が上昇する</original>
+    <translation>Increase Magick Defense for all jobs.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_7</key>
     <original>リムポイントを受け取る</original>
-    <translation>Receive rift points</translation>
+    <translation>Receive Rift Crystals.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_8</key>
     <original>ゴールドを受け取る</original>
-    <translation>Receive gold</translation>
+    <translation>Receive Gold.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_9</key>
     <original>全ジョブのアビリティコスト最大値が上昇する</original>
+    <translation>Increase Augment Cost Points for all jobs.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_10</key>
     <original>ジュエリーの装着数が増加する</original>
+    <translation>Increase number of accessory slots.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_11</key>
@@ -52,73 +60,91 @@
   <message>
     <key>ORB_GAIN_PARAM_INFO_13</key>
     <original>ロスト状態になる確率を軽減する</original>
+    <translation>Reduce odds of a pawn being lost.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_14</key>
     <original>メインポーンを従える契約数が増加する</original>
+    <translation>Increase number of main pawn contracts.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_15</key>
     <original>サポートポーンを従える雇用数が増加する</original>
+    <translation>Increase number of support pawn hires.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_16</key>
     <original>アイテムバッグの消費アイテム枠数が増加する</original>
+    <translation>Increase number of usable bag slots.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_17</key>
     <original>アイテムバッグの素材アイテム枠数が増加する</original>
+    <translation>Increase number of material bag slots.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_18</key>
     <original>アイテムバッグの装備アイテム枠数が増加する</original>
+    <translation>Increase number of equipment bag slots.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_19</key>
     <original>シークレットアビリティの説明を表示</original>
+    <translation>Description of secret augment.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_20</key>
     <original>&lt;VAL&gt;の体力の最大値が上昇する</original>
+    <translation>Increase maximum Health Points for &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_21</key>
     <original>&lt;VAL&gt;のスタミナ最大値が上昇する</original>
+    <translation>Increase maximum Stamina for &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_22</key>
     <original>&lt;VAL&gt;の筋力が上昇する</original>
+    <translation>Increase Strength for &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_23</key>
     <original>&lt;VAL&gt;の物理防御力が上昇する</original>
+    <translation>Increase Defense for &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_24</key>
     <original>&lt;VAL&gt;の魔力が上昇する</original>
+    <translation>Increase Magick for &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_25</key>
     <original>&lt;VAL&gt;の魔法防御力が上昇する</original>
+    <translation>Increase Magick Defense for &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_26</key>
     <original>アビリティの説明を表示</original>
+    <translation>Description of augment.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_27</key>
     <original>カスタムスキルの説明を表示</original>
+    <translation>Description of custom skill.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_28</key>
     <original>&lt;VAL&gt;のアビリティコスト最大値が上昇する</original>
+    <translation>Increase Augment Cost Points for &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_29</key>
     <original>対象ジョブの白竜の加護の説明を表示</original>
+    <translation>Description of the Blessing of the White Dragon of the target job.</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_INFO_30</key>
     <original>ジョブ専用アイテムバッグ枠の拡張</original>
+    <translation>Increase number of job bag slots.</translation>
   </message>
 </resource>
