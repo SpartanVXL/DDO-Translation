@@ -1023,7 +1023,7 @@ has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</tran
   <message>
     <key>DIALOG_CONFIRM_TYPE_START</key>
     <original>通常作成</original>
-    <translation>Create normally</translation>
+    <translation>Create</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_EX_CREATE</key>
@@ -1061,9 +1061,11 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>DIALOG_CONFIRM_CHOICE_STOP_TYPE</key>
     <original>まだアイテム作成が完了していません</original>
+    <translation>Item production is not yet complete.</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_STOP</key>
     <original>アイテム生産を中止</original>
+    <translation>Stop</translation>
   </message>
 </resource>

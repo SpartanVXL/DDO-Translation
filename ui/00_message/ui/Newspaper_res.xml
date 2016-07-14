@@ -35,6 +35,7 @@
   <message>
     <key>np_msg_lv</key>
     <original>LV.</original>
+    <translation>LV.</translation>
   </message>
   <message>
     <key>np_msg_heard</key>
@@ -56,18 +57,22 @@
   <message>
     <key>np_msg_reward_rim</key>
     <original>&lt;VAL RIM&gt;</original>
+    <translation>&lt;VAL RIM&gt;</translation>
   </message>
   <message>
     <key>np_msg_reward_g</key>
     <original>&lt;VAL GOLD&gt;</original>
+    <translation>&lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>np_msg_reward_exp</key>
     <original>&lt;VAL XP&gt;</original>
+    <translation>&lt;VAL XP&gt;</translation>
   </message>
   <message>
     <key>np_msg_nothing</key>
     <original>---</original>
+    <translation>---</translation>
   </message>
   <message>
     <key>np_msg_dialog_jump_check</key>
@@ -125,7 +130,7 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_subtitle_event</key>
     <original>イベント情報</original>
-    <translation>Event Information</translation>
+    <translation>Information</translation>
   </message>
   <message>
     <key>np_msg_tab_ranking</key>
@@ -135,11 +140,12 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_rab_reward</key>
     <original>報酬</original>
-    <translation>Reward</translation>
+    <translation>Rewards</translation>
   </message>
   <message>
     <key>np_msg_pt</key>
     <original>pt</original>
+    <translation>pt</translation>
   </message>
   <message>
     <key>np_msg_ranking</key>
@@ -149,6 +155,7 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_name</key>
     <original>名前</original>
+    <translation>Name</translation>
   </message>
   <message>
     <key>np_msg_clan</key>
@@ -168,6 +175,7 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_rate</key>
     <original>&lt;VAL&gt;</original>
+    <translation>&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>np_msg_rate_period</key>
@@ -192,10 +200,12 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_term</key>
     <original>&lt;DATE&gt; - &lt;DATE&gt;</original>
+    <translation>&lt;DATE&gt; - &lt;DATE&gt;</translation>
   </message>
   <message>
     <key>np_msg_pt_period</key>
     <original>&lt;VAL&gt;pt  - &lt;VAL&gt;pt</original>
+    <translation>&lt;VAL&gt;pt - &lt;VAL&gt;pt</translation>
   </message>
   <message>
     <key>np_msg_icon_ending</key>
@@ -209,14 +219,17 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_mypoint</key>
     <original>スコア</original>
+    <translation>Score</translation>
   </message>
   <message>
     <key>np_msg_area_select</key>
     <original>Area Select</original>
+    <translation>Area Select</translation>
   </message>
   <message>
     <key>np_msg_condition</key>
     <original>状況</original>
+    <translation>Conditions</translation>
   </message>
   <message>
     <key>np_msg_period</key>
@@ -240,14 +253,17 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_abst</key>
     <original>概要</original>
+    <translation>Overview</translation>
   </message>
   <message>
     <key>np_msg_entry_point</key>
     <original>参加場所</original>
+    <translation>Entry Location</translation>
   </message>
   <message>
     <key>np_msg_reward_info</key>
     <original>ハイスコア報酬例</original>
+    <translation>High Score Example Rewards</translation>
   </message>
   <message>
     <key>np_msg_func_disable</key>
@@ -261,10 +277,12 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_total</key>
     <original>Total</original>
+    <translation>Total</translation>
   </message>
   <message>
     <key>np_msg_no_ranking</key>
     <original>現在ランキングは発表されていません</original>
+    <translation>Current rankings have not been published</translation>
   </message>
   <message>
     <key>np_msg_no_quest</key>
@@ -370,6 +388,7 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_reward_item_num</key>
     <original> × </original>
+    <translation> × </translation>
   </message>
   <message>
     <key>np_msg_no_gm</key>
@@ -382,5 +401,6 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
   <message>
     <key>np_msg_andmore</key>
     <original>and more...</original>
+    <translation>and more...</translation>
   </message>
 </resource>

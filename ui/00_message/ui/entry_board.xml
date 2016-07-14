@@ -7,6 +7,7 @@
   <message>
     <key>entry_board_title_en</key>
     <original>Entry Board</original>
+    <translation>Entry Board</translation>
   </message>
   <message>
     <key>entry_board_comment</key>
@@ -16,6 +17,7 @@
   <message>
     <key>entry_board_leader</key>
     <original>募集主</original>
+    <translation>Leader</translation>
   </message>
   <message>
     <key>entry_board_entry</key>
@@ -35,10 +37,12 @@
   <message>
     <key>entry_board_param1</key>
     <original>&lt;VAL&gt; &lt;VAL&gt;</original>
+    <translation>&lt;VAL&gt; &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>entry_board_param2</key>
     <original>&lt;VAL&gt;/&lt;VAL&gt;</original>
+    <translation>&lt;VAL&gt;/&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>entry_board_search_search_job</key>
@@ -88,6 +92,7 @@
   <message>
     <key>entry_board_search_word1</key>
     <original>～</original>
+    <translation>～</translation>
   </message>
   <message>
     <key>entry_board_search_exec_search</key>
@@ -127,6 +132,7 @@
   <message>
     <key>entry_board_reqruit_comment</key>
     <original>Comment</original>
+    <translation>Comment</translation>
   </message>
   <message>
     <key>entry_board_reqruit_level</key>
@@ -146,6 +152,7 @@
   <message>
     <key>entry_board_reqruit_word1</key>
     <original>&lt;VAL&gt;.</original>
+    <translation>&lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>entry_board_reqruit_osusume</key>
@@ -165,14 +172,17 @@
   <message>
     <key>entry_board_reqruit_word2</key>
     <original>～</original>
+    <translation>～</translation>
   </message>
   <message>
     <key>entry_board_info_memberlist</key>
     <original>Member List</original>
+    <translation>Member List</translation>
   </message>
   <message>
     <key>entry_board_info_option</key>
     <original>Option</original>
+    <translation>Option</translation>
   </message>
   <message>
     <key>entry_board_info_password_on</key>
@@ -182,11 +192,12 @@
   <message>
     <key>entry_board_info_job_on</key>
     <original>ジョブ指定：</original>
-    <translation>Jobs Specified:</translation>
+    <translation>Set Jobs:</translation>
   </message>
   <message>
     <key>entry_board_info_word1</key>
     <original>&lt;VAL&gt;/&lt;VAL&gt;</original>
+    <translation>&lt;VAL&gt;/&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>entry_board_pop_event_top_entry</key>
@@ -205,6 +216,7 @@
   <message>
     <key>entry_board_mission_info_recommand</key>
     <original>推奨</original>
+    <translation>Recommended</translation>
   </message>
   <message>
     <key>entry_board_mission_info_war_situation</key>
@@ -252,10 +264,12 @@
   <message>
     <key>entry_board_contents_title_e</key>
     <original>Contents</original>
+    <translation>Contents</translation>
   </message>
   <message>
     <key>entry_board_contents_title_j</key>
     <original>コンテンツ窓口</original>
+    <translation>Contents</translation>
   </message>
   <message>
     <key>entry_board_contents_event</key>
@@ -274,6 +288,7 @@
   <message>
     <key>entry_borad_contents_num</key>
     <original>&lt;VAL&gt;</original>
+    <translation>&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>entry_board_info_memberlist_j</key>
@@ -293,7 +308,7 @@
   <message>
     <key>entry_board_set</key>
     <original>あり</original>
-    <translation>No</translation>
+    <translation>Yes</translation>
   </message>
   <message>
     <key>entry_board_unset</key>
@@ -303,6 +318,7 @@
   <message>
     <key>entry_board_level_band</key>
     <original>min&lt;VAL&gt;～max&lt;VAL&gt;</original>
+    <translation>&lt;VAL&gt;～&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>entry_board_unsatisfied</key>
@@ -367,14 +383,17 @@
   <message>
     <key>entry_board_search_search_party</key>
     <original>パーティーメンバー</original>
+    <translation>Party Members</translation>
   </message>
   <message>
     <key>entry_board_search_search_groupchat</key>
     <original>グループチャット</original>
+    <translation>Group Chat</translation>
   </message>
   <message>
     <key>entry_board_info_comment</key>
     <original>コメント　：</original>
+    <translation>Comment:</translation>
   </message>
   <message>
     <key>entry_board_pop_event_info_ranking</key>
