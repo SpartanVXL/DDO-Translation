@@ -42,7 +42,7 @@
   <message>
     <key>gacha_msg_buy_goldenstone</key>
     <original>黄金石の購入</original>
-    <translation>Buy Golden Stones</translation>
+    <translation>Buy Golden Gemstones</translation>
   </message>
   <message>
     <key>gacha_msg_itemclass_s</key>
@@ -97,6 +97,7 @@
   <message>
     <key>gacha_msg_view_web</key>
     <original>ロットの詳細をブラウザで見る</original>
+    <translation>View Lot Details in Browser</translation>
   </message>
   <message>
     <key>gacha_msg_brief_gacha</key>
@@ -146,14 +147,17 @@
   <message>
     <key>gacha_msg_total_num</key>
     <original>&lt;VAL&gt;/&lt;VAL&gt;</original>
+    <translation>&lt;VAL&gt;/&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>gacha_msg_sale_info</key>
     <original>SALE!</original>
+    <translation>SALE!</translation>
   </message>
   <message>
     <key>gacha_msg_num</key>
     <original>&lt;VAL&gt;</original>
+    <translation>&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>gacha_msg_post</key>
@@ -163,7 +167,7 @@
   <message>
     <key>gacha_msg_preview_goldenstone</key>
     <original>黄金石の確認</original>
-    <translation>Check Golden Stones</translation>
+    <translation>Check Golden Gemstones</translation>
   </message>
   <message>
     <key>gacha_msg_title_j</key>
@@ -173,10 +177,12 @@
   <message>
     <key>gacha_msg_title_e</key>
     <original>Treasure Lot</original>
+    <translation>Treasure Lot</translation>
   </message>
   <message>
     <key>gacha_msg_pray</key>
     <original>&lt;VAL&gt;プレイ</original>
+    <translation>&lt;VAL&gt; draws</translation>
   </message>
   <message>
     <key>gacha_msg_load_fail</key>
@@ -185,10 +191,12 @@
   <message>
     <key>gacha_msg_use_stone</key>
     <original>×&lt;VAL&gt;個使用</original>
+    <translation>×&lt;VAL&gt; pieces used</translation>
   </message>
   <message>
     <key>gacha_msg_use_ticket</key>
     <original>×&lt;VAL&gt;枚使用</original>
+    <translation>×&lt;VAL&gt; tickets used</translation>
   </message>
   <message>
     <key>gacha_msg_rate</key>
@@ -198,6 +206,7 @@
   <message>
     <key>gacha_msg_rate_num</key>
     <original>&lt;VAL&gt;%</original>
+    <translation>&lt;VAL&gt;%</translation>
   </message>
   <message>
     <key>gacha_msg_caution</key>
@@ -216,10 +225,12 @@
   <message>
     <key>gacha_msg_ana_ng_gs_lack</key>
     <original>黄金石が不足しているため、トレジャーズロットをまわすことができません</original>
+    <translation>You don't have enough Golden Gemstones to draw from the Treasure Lot.</translation>
   </message>
   <message>
     <key>gacha_msg_ana_ng_ticket_lack</key>
     <original>シルバーチケットが不足しているため、トレジャーズロットをまわすことができません</original>
+    <translation>You don't have enough Silver Tickets to draw from the Treasure Lot.</translation>
   </message>
   <message>
     <key>gacha_msg_disable_gp</key>
@@ -228,6 +239,7 @@
   <message>
     <key>gacha_msg_disable_ticket</key>
     <original>チケットは使用できません</original>
+    <translation>Tickets can't be used</translation>
   </message>
   <message>
     <key>gacha_msg_diable_gp_to_gacha</key>
