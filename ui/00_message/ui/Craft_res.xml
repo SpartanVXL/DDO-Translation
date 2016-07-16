@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>CRAFT_MSG_TITLE01</key>
     <original>Craft</original>
@@ -21,12 +21,12 @@
   <message>
     <key>MENU_OPT_UPGRADE</key>
     <original>装備の強化</original>
-    <translation>Upgrade Equipment</translation>
+    <translation>Enhance Equipment</translation>
   </message>
   <message>
     <key>MENU_OPT_CREST</key>
     <original>クレスト装備</original>
-    <translation>Equip Crest</translation>
+    <translation>Mount Crest</translation>
   </message>
   <message>
     <key>MENU_OPT_CHANGE_COLOR</key>
@@ -36,7 +36,7 @@
   <message>
     <key>MENU_OPT_CRAFT_STATUS</key>
     <original>アイテム作成状況</original>
-    <translation>Item Craft Status</translation>
+    <translation>Production Status</translation>
   </message>
   <message>
     <key>TITLE_PAWN_STATUS</key>
@@ -65,7 +65,7 @@
   <message>
     <key>PAWN_STATUS_COMPLETE</key>
     <original>クラフト中（完成）</original>
-    <translation>Crafting (Completed)</translation>
+    <translation>Crafting (Complete)</translation>
   </message>
   <message>
     <key>PAWN_STATUS_PARTY</key>
@@ -178,7 +178,7 @@
   <message>
     <key>HEADING_COST_PERFORMANCE</key>
     <original>コストパフォーマンス</original>
-    <translation>Crafting Cost</translation>
+    <translation>Cost Performance</translation>
   </message>
   <message>
     <key>TITLE_STATUS</key>
@@ -394,15 +394,17 @@ crafting skill points?</translation>
   <message>
     <key>HEADING_CREST</key>
     <original>Crest</original>
+    <translation>Crest</translation>
   </message>
   <message>
     <key>HEADING_CREST_EQUIP</key>
     <original>Crest Equip</original>
+    <translation>Mount Crest</translation>
   </message>
   <message>
     <key>BUTTON_EQUIP_CREST</key>
     <original>クレスト装備</original>
-    <translation>Equip Crest</translation>
+    <translation>Mount Crest</translation>
   </message>
   <message>
     <key>HEADING_SLOT1</key>
@@ -710,6 +712,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>HEADING_CREST_ITEM</key>
     <original>Equip Crest</original>
+    <translation>Mount Crest</translation>
   </message>
   <message>
     <key>HEADING_COLOR_ITEM</key>
@@ -1020,7 +1023,7 @@ has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</tran
   <message>
     <key>DIALOG_CONFIRM_TYPE_START</key>
     <original>通常作成</original>
-    <translation>Create normally</translation>
+    <translation>Create</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_EX_CREATE</key>
@@ -1058,9 +1061,11 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>DIALOG_CONFIRM_CHOICE_STOP_TYPE</key>
     <original>まだアイテム作成が完了していません</original>
+    <translation>Item production is not yet complete.</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_STOP</key>
     <original>アイテム生産を中止</original>
+    <translation>Stop</translation>
   </message>
 </resource>

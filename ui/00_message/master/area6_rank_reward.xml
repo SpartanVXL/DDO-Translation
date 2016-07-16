@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>AREA_RANK_REWARD_37</key>
     <original>支援品の配給</original>
@@ -27,6 +27,7 @@
   <message>
     <key>AREA_RANK_REWARD_42</key>
     <original>交通路《ディナン山道～ディナン深層林》復旧</original>
+    <translation>Restore path "Deenan Mountain Road" to "Deenan Woods"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_43</key>
@@ -51,6 +52,7 @@
   <message>
     <key>AREA_RANK_REWARD_206</key>
     <original>《ミスリウ森林深部》各地にある未解放のリム転移 解放</original>
+    <translation>Release "Mysree Grove" Portcrystals</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_207</key>
@@ -60,11 +62,12 @@
   <message>
     <key>AREA_RANK_REWARD_208</key>
     <original>封鎖エリア《霧幻のテラス》開放	</original>
+    <translation>Unblock area "Misty Illusion Terrace"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_209</key>
     <original>《霧幻のテラス》に新たな強敵が出現</original>
-    <translation>New powerful enemy at "霧幻のテラス"</translation>
+    <translation>New powerful enemy at "Misty Illusion Terrace"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_329</key>

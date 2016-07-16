@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>AREA_RANK_REWARD_2</key>
     <original>支援品の配給</original>
@@ -42,7 +42,7 @@
   <message>
     <key>AREA_RANK_REWARD_15</key>
     <original>封鎖エリア《ハイデル地下霊廟　深部～最深部》開放</original>
-    <translation>Unblock areas "Hidell Catacombs Depths" and "Hidell Catacombs Innermost Depths"</translation>
+    <translation>Unblock "Depths" areas within "Hidell Catacombs"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_16</key>
@@ -52,6 +52,7 @@
   <message>
     <key>AREA_RANK_REWARD_181</key>
     <original>《ハイデル平原》各地にある未解放のリム転移 解放</original>
+    <translation>Release "Hidell Plains" Portcrystals</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_182</key>

@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q90000111_00_36</key>
     <original>グリッテン砦攻防戦　戦況：接戦</original>
@@ -16,12 +16,12 @@
   <message>
     <key>q90000111_00_1128</key>
     <original>ヴァネッサを護衛し、目標地点の敵を殲滅せよ</original>
-    <translation>Escort Vanessa and defeat the enemies at the target locations.</translation>
+    <translation>Escort Vanessa and defeat the enemies at the target locations</translation>
   </message>
   <message>
     <key>q90000111_00_1129</key>
     <original>1000pt以上の獲得を目指せ</original>
-    <translation>Aim for more than 1000pt.</translation>
+    <translation>Aim for more than 1000pt</translation>
   </message>
   <message>
     <key>q90000111_00_1130</key>
@@ -46,6 +46,7 @@
   <message>
     <key>q90000111_00_36</key>
     <original>グリッテン砦攻防戦：接戦《リザルト報酬》</original>
+    <translation>Battle for Gritten Fort: Close Battle (Result Reward)</translation>
   </message>
   <message>
     <key>q90000111_00_36</key>

@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q00000019_00_19</key>
     <original>友を思う</original>
@@ -11,29 +11,36 @@
   <message>
     <key>q00000019_00_1603</key>
     <original>ジョゼフから詳しい話を聞く</original>
+    <translation>Hear out what Joseph has to say</translation>
   </message>
   <message>
     <key>q00000019_00_1028</key>
     <original>レオと話す</original>
+    <translation>Talk to Leo</translation>
   </message>
   <message>
     <key>q00000019_00_1029</key>
     <original>禊の神殿に向かいゾマの村への道を開く</original>
+    <translation>Head to the village of Zoma via the Temple of Purification</translation>
   </message>
   <message>
     <key>q00000019_00_1030</key>
     <original>ゾマのエリアマスターからイリスの情報を聞く</original>
+    <translation>Listen to what the Area Master at Zoma has to say about Iris</translation>
   </message>
   <message>
     <key>q00000019_00_1589</key>
     <original>ザンドラ東部の廃墟群へ向かいイリスを探す</original>
+    <translation>Find Iris in the Eastern Zandora Ruins</translation>
   </message>
   <message>
     <key>q00000019_00_1031</key>
     <original>メッセージに従い丘の上の廃教会へ向かう</original>
+    <translation>Head to the ruined chapel on the hill just like in the message</translation>
   </message>
   <message>
     <key>q00000019_00_1032</key>
     <original>謁見の間のレオに経緯を報告する</original>
+    <translation>Report back to Leo in the Audience Chamber</translation>
   </message>
 </resource>

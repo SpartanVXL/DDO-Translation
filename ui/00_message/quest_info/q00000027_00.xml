@@ -1,7 +1,8 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q00000027_00_27</key>
     <original>ゴブリンの王</original>
+    <translation>The Goblin King</translation>
   </message>
   <message>
     <key>q00000027_00_27</key>
@@ -11,17 +12,21 @@
   <message>
     <key>q00000027_00_1066</key>
     <original>ホボリック洞穴に向かいゴブリン王ギルスタンと話す</original>
+    <translation>Talk to Gilstan, the Goblin King in the Hobolic Cave</translation>
   </message>
   <message>
     <key>q00000027_00_1067</key>
     <original>ホボリック洞穴付近の魔物を掃討する</original>
+    <translation>Defeat the monsters near the Hobolic Cave</translation>
   </message>
   <message>
     <key>q00000027_00_1068</key>
     <original>ホボリック洞穴のギルスタンに経緯を報告する</original>
+    <translation>Report back to Gilstan</translation>
   </message>
   <message>
     <key>q00000027_00_1069</key>
     <original>謁見の間のレオに古文書を渡す</original>
+    <translation>Deliver the ancient texts to Leo in the Audience Chamber</translation>
   </message>
 </resource>

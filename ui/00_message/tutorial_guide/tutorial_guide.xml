@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>TUTORIAL_8</key>
     <original>メインクエスト</original>
@@ -37,7 +37,7 @@
   <message>
     <key>TUTORIAL_35</key>
     <original>白竜神殿レーゼ</original>
-    <translation>White Dragon Temple Roese</translation>
+    <translation>The White Dragon Temple</translation>
   </message>
   <message>
     <key>TUTORIAL_36</key>
@@ -348,7 +348,7 @@
   <message>
     <key>TUTORIAL_156</key>
     <original>魔物のるつぼ</original>
-    <translation>Crucible of Demons</translation>
+    <translation>The Crucible of Demons</translation>
   </message>
   <message>
     <key>TUTORIAL_158</key>
@@ -489,14 +489,17 @@
   <message>
     <key>TUTORIAL_219</key>
     <original>太古の強者</original>
+    <translation>Ancient Warrior</translation>
   </message>
   <message>
     <key>TUTORIAL_220</key>
     <original>失われた秩序</original>
+    <translation>The Lost Order</translation>
   </message>
   <message>
     <key>TUTORIAL_221</key>
     <original>眩き黄金</original>
+    <translation>The Dazzling Gold</translation>
   </message>
   <message>
     <key>TUTORIAL_222</key>
@@ -649,6 +652,7 @@
   <message>
     <key>TUTORIAL_279</key>
     <original>目覚めし闇の魔物</original>
+    <translation>The Demon of Darkness Awakens</translation>
   </message>
   <message>
     <key>TUTORIAL_288</key>

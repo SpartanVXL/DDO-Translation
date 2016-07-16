@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q60000013_00_16</key>
     <original>神殿の商い人</original>
@@ -12,33 +12,41 @@
   <message>
     <key>q60000013_00_1115</key>
     <original>商店区のファーガソンに話を聞く</original>
+    <translation>Listen to Ferguson in the Shopping District</translation>
   </message>
   <message>
     <key>q60000013_00_1116</key>
     <original>商店区のキトリッジに話を聞く</original>
+    <translation>Listen to Kittridge in the Shopping District</translation>
   </message>
   <message>
     <key>q60000013_00_1117</key>
     <original>中央広場のオフィリアに話を聞く</original>
+    <translation>Listen to Ophelia in the Temple Square</translation>
   </message>
   <message>
     <key>q60000013_00_1381</key>
     <original>宿場区のバートンに話を聞く</original>
+    <translation>Listen to Barton in the Relay Station District</translation>
   </message>
   <message>
     <key>q60000013_00_1501</key>
     <original>宿場区のメルから情報を得る</original>
+    <translation>Get information from Mel</translation>
   </message>
   <message>
     <key>q60000013_00_1502</key>
     <original>素材屋を探し＜ケモノ生肉＞1個を入手する</original>
+    <translation>Purchase a Beast-Steak from the Material Shop</translation>
   </message>
   <message>
     <key>q60000013_00_1118</key>
     <original>バートンに＜ケモノ生肉＞1個を渡す</original>
+    <translation>Deliver the Beast-Steak to Barton</translation>
   </message>
   <message>
     <key>q60000013_00_1286</key>
     <original>キャメロンに経緯を報告する</original>
+    <translation>Report back to Cameron</translation>
   </message>
 </resource>

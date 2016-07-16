@@ -1,53 +1,53 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>ORB_GAIN_PARAM_1</key>
     <original>体力の覚醒</original>
-    <translation>Increase Health Points</translation>
+    <translation>Awakening of Health Points</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_2</key>
     <original>スタミナの覚醒</original>
-    <translation>Increase Stamina</translation>
+    <translation>Awakening of Stamina</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_3</key>
     <original>筋力の覚醒</original>
-    <translation>Increase Strength</translation>
+    <translation>Awakening of Strength</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_4</key>
     <original>物理防御力の覚醒</original>
-    <translation>Increase Defense</translation>
+    <translation>Awakening of Defense</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_5</key>
     <original>魔力の覚醒</original>
-    <translation>Increase Magick</translation>
+    <translation>Awakening of Magick</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_6</key>
     <original>魔法防御力の覚醒</original>
-    <translation>Increase Magick Defense</translation>
+    <translation>Awakening of Magick Defense</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_7</key>
     <original>リムポイントの加護</original>
-    <translation>Grant Rift Crystal</translation>
+    <translation>Blessing of Rift Crystals</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_8</key>
     <original>ゴールドの加護</original>
-    <translation>Grant Gold</translation>
+    <translation>Blessing of Gold</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_9</key>
     <original>戦技の加護</original>
-    <translation>Grant Ability Point</translation>
+    <translation>Blessing of Skill</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_10</key>
     <original>増装の加護</original>
-    <translation>Grant Accessory Slot</translation>
+    <translation>Blessing of Increased Looks</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_11</key>
@@ -60,79 +60,91 @@
   <message>
     <key>ORB_GAIN_PARAM_13</key>
     <original>異界戻りの加護</original>
+    <translation>Blessing of Rift Return</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_14</key>
     <original>覚者の器</original>
-    <translation>Pawn Contract Limit</translation>
+    <translation>Vessel of the Arisen</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_15</key>
     <original>統率の器</original>
-    <translation>Pawn Hire Limit</translation>
+    <translation>Vessel of Leadership</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_16</key>
     <original>消費所持の加護</original>
-    <translation>Grant Usable Bag Slot</translation>
+    <translation>Blessing of Usable Possession</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_17</key>
     <original>素材所持の加護</original>
-    <translation>Grant Material Bag Slot</translation>
+    <translation>Blessing of Material Possession</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_18</key>
     <original>装備所持の加護</original>
-    <translation>Grant Equipment Bag Slot</translation>
+    <translation>Blessing of Equipment Possession</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_19</key>
     <original>シークレットアビリティ</original>
-    <translation>Secret Ability</translation>
+    <translation>Secret Augment</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_20</key>
     <original>体力の覚醒</original>
+    <translation>Awakening of Health Points</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_21</key>
     <original>スタミナの覚醒</original>
+    <translation>Awakening of Stamina</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_22</key>
     <original>筋力の覚醒</original>
+    <translation>Awakening of Strength</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_23</key>
     <original>物理防御力の覚醒</original>
+    <translation>Awakening of Defense</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_24</key>
     <original>魔力の覚醒</original>
+    <translation>Awakening of Magick</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_25</key>
     <original>魔法防御力の覚醒</original>
+    <translation>Awakening of Magick Defense</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_26</key>
     <original>アビリティ</original>
+    <translation>Augment</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_27</key>
     <original>カスタムスキル</original>
+    <translation>Custom Skill</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_28</key>
     <original>戦技の加護</original>
+    <translation>Blessing of Skill</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_29</key>
     <original>白竜の加護</original>
+    <translation>Blessing of the White Dragon</translation>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_30</key>
     <original>ジョブ専用アイテムバッグ枠拡張</original>
+    <translation>Blessing of Job Item Posession</translation>
   </message>
 </resource>

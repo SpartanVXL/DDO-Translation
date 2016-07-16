@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>ItemJudge_000</key>
     <original>どれを鑑定しますか？</original>
@@ -25,10 +25,10 @@ Appraised Item: &lt;VAL&gt; × &lt;VAL&gt;
     <original>以下のアイテムを獲得しました
 
 　&lt;COL ffdc78&gt;&lt;VAL&gt; × &lt;VAL&gt;&lt;/COL&gt;</original>
-  </message>
-  <translation>You have obtained:
+    <translation>You have obtained:
 
 　&lt;COL ffdc78&gt;&lt;VAL&gt; × &lt;VAL&gt;&lt;/COL&gt;</translation>
+  </message>
   <message>
     <key>confirm_judge_random</key>
     <original>鑑定します。よろしいですか？

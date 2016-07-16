@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q00000029_00_29</key>
     <original>ケモノの最期</original>
@@ -20,15 +20,16 @@
   <message>
     <key>q00000029_00_1076</key>
     <original>オークを掃討する</original>
-    <translation>Defeat the orcs.</translation>
+    <translation>Defeat the orcs</translation>
   </message>
   <message>
     <key>q00000029_00_1077</key>
     <original>ズールを撃破する</original>
-    <translation>Defeat Zuhl.</translation>
+    <translation>Defeat Zuhl</translation>
   </message>
   <message>
     <key>q00000029_00_1078</key>
     <original>謁見の間のレオに経緯を報告する</original>
+    <translation>Report back to Leo in the Audience Chamber</translation>
   </message>
 </resource>

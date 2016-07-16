@@ -1,16 +1,20 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q60000010_00_27</key>
     <original>剛剣の証　ウォリアー戦術試練</original>
+    <translation>Warrior Tactics Trial: A Strong Sword</translation>
   </message>
   <message>
     <key>q60000010_00_27</key>
     <original>ウォリアーの基本戦術を学ぶため
 修練の祠にて試練に挑む</original>
+    <translation>In order to learn the basic tactics of Warrior,
+challenge the trial of the Training Chapel</translation>
   </message>
   <message>
     <key>q60000010_00_1110</key>
     <original>修練の祠内のウィルソンと話す</original>
+    <translation>Talk to Wilson in the Training Chapel</translation>
   </message>
   <message>
     <key>q60000010_00_1111</key>
@@ -39,13 +43,16 @@
   <message>
     <key>q60000010_00_1174</key>
     <original>サイクロプスを倒せ</original>
+    <translation>Defeat the Cyclops</translation>
   </message>
   <message>
     <key>q60000010_00_1175</key>
     <original>最奥にある＜剛剣の証＞を入手する</original>
+    <translation>Collect the proof of completing the trial</translation>
   </message>
   <message>
     <key>q60000010_00_1176</key>
     <original>白竜神殿のレンテンに経緯を報告する</original>
+    <translation>Report back to Renton in the White Dragon Temple</translation>
   </message>
 </resource>

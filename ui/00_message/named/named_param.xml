@@ -39,6 +39,7 @@
   </named_param>
   <named_param id="120">
     <original type="Prefix">亡都巨人兵</original>
+    <translation type="Prefix">Ruined Giant Soldier </translation>
   </named_param>
   <named_param id="122">
     <original type="Replace">ゴブリンの尖兵</original>
@@ -206,7 +207,7 @@
   </named_param>
   <named_param id="163">
     <original type="Prefix">番兵</original>
-    <translation type="Prefix">Sentinel</translation>
+    <translation type="Prefix">Sentinel </translation>
   </named_param>
   <named_param id="164">
     <original type="Replace">オーク兵</original>
@@ -218,6 +219,7 @@
   </named_param>
   <named_param id="166">
     <original type="Replace">黒鉄の巨人兵</original>
+    <translation type="Replace">Giant Black Iron Soldier</translation>
   </named_param>
   <named_param id="167">
     <original type="Replace">錬魔スケルトン</original>
@@ -233,6 +235,7 @@
   </named_param>
   <named_param id="171">
     <original type="Replace">紫銅の巨人兵</original>
+    <translation type="Replace">Giant Copper Soldier</translation>
   </named_param>
   <named_param id="172">
     <original type="Prefix">炎練</original>
@@ -251,6 +254,7 @@
   </named_param>
   <named_param id="181">
     <original type="Prefix">時番</original>
+    <translation type="Prefix">(Time Bonus) </translation>
   </named_param>
   <named_param id="182">
     <original type="Prefix">鍵守り</original>
@@ -471,6 +475,7 @@
   </named_param>
   <named_param id="249">
     <original type="Replace">錆鉄の巨人兵</original>
+    <translation type="Replace">Giant Rusted Iron Soldier</translation>
   </named_param>
   <named_param id="250">
     <original type="Replace">錆鉄の錬魔ゴブリン</original>
@@ -586,7 +591,7 @@
   </named_param>
   <named_param id="303">
     <original type="Prefix">討伐対象</original>
-    <translation type="Prefix">Subjugation Target </translation>
+    <translation type="Prefix">Suppression Target </translation>
   </named_param>
   <named_param id="304">
     <original type="Prefix">レイド・</original>
@@ -841,6 +846,7 @@
   </named_param>
   <named_param id="413">
     <original type="Replace">？？？</original>
+    <translation type="Replace">???</translation>
   </named_param>
   <named_param id="414">
     <original type="Prefix">破砦用</original>
@@ -864,9 +870,11 @@
   </named_param>
   <named_param id="419">
     <original type="Replace">？？？</original>
+    <translation type="Replace">???</translation>
   </named_param>
   <named_param id="420">
     <original type="Replace">？？？</original>
+    <translation type="Replace">???</translation>
   </named_param>
   <named_param id="421">
     <original type="Replace">瘴気の魔獣</original>
@@ -934,7 +942,7 @@
   </named_param>
   <named_param id="449">
     <original type="Prefix">時番</original>
-    <translation type="Prefix">Time Bonus</translation>
+    <translation type="Prefix">(Time Bonus) </translation>
   </named_param>
   <named_param id="450">
     <original type="Suffix">珍種</original>
@@ -972,19 +980,19 @@
   </named_param>
   <named_param id="462">
     <original type="Prefix">魔壁の時番</original>
-    <translation type="Prefix">(Time Bonus)Magic-Shell </translation>
+    <translation type="Prefix">(Time Bonus) Magic-Shell </translation>
   </named_param>
   <named_param id="463">
     <original type="Prefix">鉄壁の時番</original>
-    <translation type="Prefix">(Time Bonus)Iron-Clad </translation>
+    <translation type="Prefix">(Time Bonus) Iron-Clad </translation>
   </named_param>
   <named_param id="464">
     <original type="Prefix">強激の時番</original>
-    <translation type="Prefix">(Time Bonus)Herculean </translation>
+    <translation type="Prefix">(Time Bonus) Herculean </translation>
   </named_param>
   <named_param id="465">
     <original type="Prefix">魔激の時番</original>
-    <translation type="Prefix">(Time Bonus)Mystical </translation>
+    <translation type="Prefix">(Time Bonus) Mystical </translation>
   </named_param>
   <named_param id="466">
     <original type="Replace">竜族？</original>
@@ -1123,12 +1131,15 @@
   </named_param>
   <named_param id="512">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="513">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="514">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="515">
     <original type="Replace">ブラックウィング</original>
@@ -1207,6 +1218,7 @@
   </named_param>
   <named_param id="550">
     <original type="Replace">？？？</original>
+    <translation type="Replace">???</translation>
   </named_param>
   <named_param id="551">
     <original type="Prefix">危機的</original>
@@ -1288,15 +1300,19 @@
   </named_param>
   <named_param id="586">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="587">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="588">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="589">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="590">
     <original type="Prefix">頑鋼の</original>
@@ -1318,18 +1334,22 @@
   </named_param>
   <named_param id="596">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="597">
     <original type="Prefix">虹眼の</original>
   </named_param>
   <named_param id="598">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="599">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="600">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="601">
     <original type="Prefix">剛皮の</original>
@@ -1378,6 +1398,7 @@
   </named_param>
   <named_param id="616">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="617">
     <original type="Prefix">朱炎の</original>
@@ -1411,6 +1432,7 @@
   </named_param>
   <named_param id="627">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="628">
     <original type="Replace">強装巨人兵-Ⅲ型</original>
@@ -1483,48 +1505,61 @@
   </named_param>
   <named_param id="654">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="655">
     <original type="Prefix">要警戒</original>
   </named_param>
   <named_param id="656">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="657">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="658">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="659">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="660">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="661">
     <original type="Prefix">凶悪</original>
   </named_param>
   <named_param id="662">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="663">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="664">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="665">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="666">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="667">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="668">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="670">
     <original type="Prefix"></original>
@@ -1756,6 +1791,7 @@
   </named_param>
   <named_param id="891">
     <original type="Prefix">徘徊</original>
+    <translation type="Prefix">Wandering </translation>
   </named_param>
   <named_param id="892">
     <original type="Replace">スパーク・ブルー</original>
@@ -1810,42 +1846,55 @@
   </named_param>
   <named_param id="920">
     <original type="Replace">未知の魔物？</original>
+    <translation type="Replace">Unknown Demon?</translation>
   </named_param>
   <named_param id="921">
     <original type="Replace">ズール</original>
+    <translation type="Replace">Zuhl</translation>
   </named_param>
   <named_param id="922">
     <original type="Prefix">討伐対象</original>
+    <translation type="Prefix">Suppression Target </translation>
   </named_param>
   <named_param id="923">
     <original type="Prefix">討伐対象</original>
+    <translation type="Prefix">Suppression Target </translation>
   </named_param>
   <named_param id="924">
     <original type="Prefix">討伐対象</original>
+    <translation type="Prefix">Suppression Target </translation>
   </named_param>
   <named_param id="925">
     <original type="Replace">巣窟の主</original>
+    <translation type="Replace">Den Master</translation>
   </named_param>
   <named_param id="926">
     <original type="Prefix">手負いの</original>
+    <translation type="Prefix">Wounded </translation>
   </named_param>
   <named_param id="927">
     <original type="Prefix">手負いの</original>
+    <translation type="Prefix">Wounded </translation>
   </named_param>
   <named_param id="928">
     <original type="Prefix">牙剥く</original>
+    <translation type="Prefix">Bare Fangs </translation>
   </named_param>
   <named_param id="929">
     <original type="Replace">ズール</original>
+    <translation type="Replace">Zuhl</translation>
   </named_param>
   <named_param id="930">
     <original type="Prefix">襲来</original>
+    <translation type="Prefix">Invading </translation>
   </named_param>
   <named_param id="931">
     <original type="Prefix">襲来</original>
+    <translation type="Prefix">Invading </translation>
   </named_param>
   <named_param id="932">
     <original type="Prefix">襲来</original>
+    <translation type="Prefix">Invading </translation>
   </named_param>
   <named_param id="933">
     <original type="Replace">侵食されし有翼</original>
@@ -2218,12 +2267,15 @@
   </named_param>
   <named_param id="1158">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="1159">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="1160">
     <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
   </named_param>
   <named_param id="1161">
     <original type="Prefix"></original>

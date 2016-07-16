@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>PLAY_PURPOSE_MAIN_001</key>
     <original>とくになし</original>
@@ -52,59 +52,62 @@
   <message>
     <key>PLAY_PURPOSE_AREA_001</key>
     <original>冒険エリア＜ハイデル平原＞</original>
-    <translation>Adventure Area ＜Hidell Plains＞</translation>
+    <translation>Adventure Area "Hidell Plains"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_002</key>
     <original>冒険エリア＜ブリア海岸＞</original>
-    <translation>Adventure Area ＜Breya Coast＞</translation>
+    <translation>Adventure Area "Breya Coast"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_003</key>
     <original>冒険エリア＜ミスリウ森林＞</original>
-    <translation>Adventure Area ＜Mysree Forest＞</translation>
+    <translation>Adventure Area "Mysree Forest"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_004</key>
     <original>冒険エリア＜ミスリウ森林深部＞</original>
-    <translation>Adventure Area ＜Mysree Grove＞</translation>
+    <translation>Adventure Area "Mysree Grove"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_005</key>
     <original>冒険エリア＜ダウ渓谷＞</original>
-    <translation>Adventure Area ＜Dowe Valley＞</translation>
+    <translation>Adventure Area "Dowe Valley"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_006</key>
     <original>冒険エリア＜ボルド鉱山＞</original>
-    <translation>Adventure Area ＜Volden Mines＞</translation>
+    <translation>Adventure Area "Volden Mines"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_007</key>
     <original>冒険エリア＜バートランド平原＞</original>
-    <translation>Adventure Area ＜Betland Plains＞</translation>
+    <translation>Adventure Area "Betland Plains"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_008</key>
     <original>冒険エリア＜バートランド平原北部＞</original>
-    <translation>Adventure Area ＜Northern Betland Plains＞</translation>
+    <translation>Adventure Area "Northern Betland Plains"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_009</key>
     <original>冒険エリア＜ディナン深層林＞</original>
-    <translation>Adventure Area ＜Deenan Woods＞</translation>
+    <translation>Adventure Area "Deenan Woods"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_010</key>
     <original>冒険エリア＜ザンドラ東部＞</original>
+    <translation>Adventure Area "Eastern Zandora"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_011</key>
     <original>冒険エリア＜ザンドラ禁域＞</original>
+    <translation>Adventure Area "Zandora Wastelands"</translation>
   </message>
   <message>
     <key>PLAY_PURPOSE_AREA_012</key>
     <original>冒険エリア＜亡都メルゴダ＞</original>
+    <translation>Adventure Area "Mergoda Ruins"</translation>
   </message>
   <message>
     <key>PLAY_STYLE_001</key>

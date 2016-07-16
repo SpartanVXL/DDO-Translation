@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q20070000_00_149</key>
     <original>仇を求めて――</original>
@@ -25,16 +25,16 @@
   <message>
     <key>q20070000_00_838</key>
     <original>指定された敵を探す</original>
-    <translation>Search for the specified enemy.</translation>
+    <translation>Search for the specified enemy</translation>
   </message>
   <message>
     <key>q20070000_00_828</key>
     <original>発見した敵を討伐する</original>
-    <translation>Defeat the enemies encountered.</translation>
+    <translation>Defeat the enemies encountered</translation>
   </message>
   <message>
     <key>q20070000_00_804</key>
     <original>依頼者に報告する</original>
-    <translation>Report back to the requester.</translation>
+    <translation>Report back to the requester</translation>
   </message>
 </resource>

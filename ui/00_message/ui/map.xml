@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>map_menumap_titlee</key>
     <original>MAP</original>
@@ -27,7 +27,7 @@
   <message>
     <key>map_menumap_guide_zoom</key>
     <original>ズームイン/アウト</original>
-    <translation>Zoom In/Out</translation>
+    <translation>Zoom</translation>
   </message>
   <message>
     <key>map_menumap_guide_filter</key>
@@ -36,7 +36,7 @@
   <message>
     <key>map_menumap_guide_movecursor</key>
     <original>カーソル移動</original>
-    <translation>Move Cursor</translation>
+    <translation>Cursor</translation>
   </message>
   <message>
     <key>map_menumap_guide_moveplayer</key>
@@ -54,7 +54,7 @@
   <message>
     <key>map_menumap_guide_freemarker</key>
     <original>フリーマーカー (長押しで消去)</original>
-    <translation>Place Waypoint (Hold to Remove)</translation>
+    <translation>Waypoint (Hold to Remove)</translation>
   </message>
   <message>
     <key>map_menumap_guide_close</key>
@@ -64,7 +64,7 @@
   <message>
     <key>map_menumap_guide_transparent</key>
     <original>透明度の変更</original>
-    <translation>Change Opacity</translation>
+    <translation>Opacity</translation>
   </message>
   <message>
     <key>map_menumap_guide_change_freemarker</key>
@@ -74,6 +74,6 @@
   <message>
     <key>map_menumap_guide_change_land</key>
     <original>大陸の切り替え</original>
-    <translation>Change Continent</translation>
+    <translation>Continent</translation>
   </message>
 </resource>

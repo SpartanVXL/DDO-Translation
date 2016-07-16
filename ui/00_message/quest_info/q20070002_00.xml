@@ -1,7 +1,8 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q20070002_00_165</key>
     <original>危険な賭け</original>
+    <translation>A Dangerous Wager</translation>
   </message>
   <message>
     <key>q20070002_00_165</key>
@@ -24,7 +25,7 @@
   <message>
     <key>q20070002_00_1139</key>
     <original>指定の場所で魔物の正体を暴く</original>
-    <translation>Search for the enemy at the specified location.</translation>
+    <translation>Search for the enemy at the specified location</translation>
   </message>
   <message>
     <key>q20070002_00_1026</key>
@@ -33,6 +34,6 @@
   <message>
     <key>q20070002_00_804</key>
     <original>依頼者に報告する</original>
-    <translation>Report back to the requester.</translation>
+    <translation>Report back to the requester</translation>
   </message>
 </resource>

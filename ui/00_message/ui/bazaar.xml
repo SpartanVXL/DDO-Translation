@@ -1,7 +1,8 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>bazaar_msg_itemsearch_en</key>
     <original>Item Search</original>
+    <translation>Item Search</translation>
   </message>
   <message>
     <key>bazaar_msg_itemsearch_jp</key>
@@ -11,6 +12,7 @@
   <message>
     <key>bazaar_msg_categorysearch_en</key>
     <original>Category Search</original>
+    <translation>Category Search</translation>
   </message>
   <message>
     <key>bazaar_msg_categorysearch_jp</key>
@@ -20,6 +22,7 @@
   <message>
     <key>bazaar_msg_cs_categorysort</key>
     <original>＞</original>
+    <translation>＞</translation>
   </message>
   <message>
     <key>bazaar_msg_cs_rank</key>
@@ -39,6 +42,7 @@
   <message>
     <key>bazaar_msg_freewordsearch_en</key>
     <original>Free Word Search</original>
+    <translation>Free Word Search</translation>
   </message>
   <message>
     <key>bazaar_msg_freewordsearch_jp</key>
@@ -320,6 +324,7 @@ Sales Tax(&lt;VAL&gt;%): &lt;VAL GOLD&gt;</translation>
   <message>
     <key>bazaar_msg_situation_en</key>
     <original>Sell List</original>
+    <translation>Sell List</translation>
   </message>
   <message>
     <key>bazaar_msg_situation_jp</key>
@@ -349,6 +354,7 @@ Sales Tax(&lt;VAL&gt;%): &lt;VAL GOLD&gt;</translation>
   <message>
     <key>bazaar_msg_situation_exhibition_imposs</key>
     <original>あと&lt;COL FFFF00&gt;&lt;JKAN HM&gt;&lt;/COL&gt;で利用できます</original>
+    <translation>Available in &lt;COL FFFF00&gt;&lt;JKAN HM&gt;&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>bazaar_msg_category_s_weapon</key>

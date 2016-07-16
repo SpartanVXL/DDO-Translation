@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>syslog_battle_danger_tg</key>
     <original>&lt;NAME TARGET&gt;が行動不能になりました</original>
@@ -27,7 +27,8 @@
   <message>
     <key>syslog_archieve_get</key>
     <original>アチーブメント「&lt;NAME ACHIEVE&gt;」を獲得しました</original>
-    <translation>Achievement "&lt;NAME ACHIEVE&gt;" has been earned.</translation>
+    <translation>Achievement "&lt;NAME ACHIEVE&gt;"
+has been earned.</translation>
   </message>
   <message>
     <key>syslog_error_tell</key>
@@ -303,7 +304,8 @@
   <message>
     <key>syslog_quest_accept_max</key>
     <original>クエスト受注数が最大になりました</original>
-    <translation>Your quest log has reached the maximum and you cannot accept more.</translation>
+    <translation>Your quest log has reached the maximum and
+you cannot accept more.</translation>
   </message>
   <message>
     <key>syslog_areamaster_ap_get</key>
@@ -509,7 +511,7 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_craft_complete</key>
     <original>クラフトが完成しました</original>
-    <translation>Crafting has been completed.</translation>
+    <translation>Crafting has completed.</translation>
   </message>
   <message>
     <key>syslog_om_door_open_by_key</key>
@@ -764,12 +766,12 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_charge_course_limit_1h</key>
     <original>&lt;NAME ETC&gt; の効果が、残り1時間をきりました</original>
-    <translation>&lt;NAME ETC&gt; has only 1 hour remaining.</translation>
+    <translation>&lt;NAME ETC&gt; has under one hour remaining.</translation>
   </message>
   <message>
     <key>syslog_charge_course_limit_24h</key>
     <original>&lt;NAME ETC&gt; の効果が、残り24時間をきりました</original>
-    <translation>&lt;NAME ETC&gt; has only 24 hours remaining.</translation>
+    <translation>&lt;NAME ETC&gt; has under 24 hours remaining.</translation>
   </message>
   <message>
     <key>syslog_charge_course_end</key>
@@ -794,7 +796,8 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_mission_result_guid</key>
     <original>リザルト確認後、&lt;NAME SPOT&gt;に帰還します</original>
-    <translation>You will be returned to &lt;NAME SPOT&gt; after confirming the results.</translation>
+    <translation>After confirming the results, you will be
+returned to &lt;NAME SPOT&gt;.</translation>
   </message>
   <message>
     <key>syslog_mission_npc_dying</key>

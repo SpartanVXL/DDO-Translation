@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>RIM_POP_MSG_HEADER_M_HEADER</key>
     <original>検索条件</original>
@@ -67,7 +67,7 @@
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL05</key>
     <original>コストパフォーマンス</original>
-    <translation>Crafting Cost</translation>
+    <translation>Cost Performance</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_OWNER_M_OWNER</key>

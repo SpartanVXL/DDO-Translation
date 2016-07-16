@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q90000113_00_38</key>
     <original>グリッテン砦攻防戦　戦況：苦戦</original>
@@ -15,12 +15,12 @@
   <message>
     <key>q90000113_00_1311</key>
     <original>レオを護衛し、目標地点の敵を殲滅せよ</original>
-    <translation>Escort Leo and defeat the enemies at the target locations.</translation>
+    <translation>Escort Leo and defeat the enemies at the target locations</translation>
   </message>
   <message>
     <key>q90000113_00_1312</key>
     <original>3000pt以上の獲得を目指せ</original>
-    <translation>Aim for more than 3000pt.</translation>
+    <translation>Aim for more than 3000pt</translation>
   </message>
   <message>
     <key>q90000113_00_1313</key>
@@ -45,6 +45,7 @@
   <message>
     <key>q90000113_00_38</key>
     <original>グリッテン砦攻防戦：苦戦《リザルト報酬》</original>
+    <translation>Battle for Gritten Fort: Uphill Battle (Result Reward)</translation>
   </message>
   <message>
     <key>q90000113_00_38</key>

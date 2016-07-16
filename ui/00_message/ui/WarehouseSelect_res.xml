@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>warehouse_title</key>
     <original>Menu</original>
@@ -17,7 +17,7 @@
   <message>
     <key>warehouse_reward</key>
     <original>報酬受け取り</original>
-    <translation>Received Rewards</translation>
+    <translation>Rewards</translation>
   </message>
   <message>
     <key>warehouse_status</key>

@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q20030004_00_241</key>
     <original>誇りは朽ちず</original>
@@ -26,12 +26,12 @@
   <message>
     <key>q20030004_00_917</key>
     <original>＜旧騎士団詰め所＞の敵を倒す</original>
-    <translation>Defeat the enemy at the Knights' Old Guardhouse.</translation>
+    <translation>Defeat the enemy at the Knights' Old Guardhouse</translation>
   </message>
   <message>
     <key>q20030004_00_828</key>
     <original>発見した敵を討伐する</original>
-    <translation>Defeat the enemies encountered.</translation>
+    <translation>Defeat the enemies encountered</translation>
   </message>
   <message>
     <key>q20030004_00_918</key>
@@ -40,6 +40,6 @@
   <message>
     <key>q20030004_00_920</key>
     <original>ゲルトに報告する</original>
-    <translation>Report back to Gerd.</translation>
+    <translation>Report back to Gerd</translation>
   </message>
 </resource>

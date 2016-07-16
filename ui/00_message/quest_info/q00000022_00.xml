@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q00000022_00_22</key>
     <original>黄金郷の住人</original>
@@ -15,6 +15,7 @@
   <message>
     <key>q00000022_00_1207</key>
     <original>クラウスと話す</original>
+    <translation>Talk to Klaus</translation>
   </message>
   <message>
     <key>q00000022_00_1044</key>
@@ -39,5 +40,6 @@
   <message>
     <key>q00000022_00_1047</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

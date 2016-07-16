@@ -1,7 +1,8 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q20020002_00_35</key>
     <original>降って湧いた修練</original>
+    <translation>Unexpected Training</translation>
   </message>
   <message>
     <key>q20020002_00_35</key>
@@ -29,10 +30,11 @@
   <message>
     <key>q20020002_00_828</key>
     <original>発見した敵を討伐する</original>
-    <translation>Defeat the enemies encountered.</translation>
+    <translation>Defeat the enemies encountered</translation>
   </message>
   <message>
     <key>q20020002_00_829</key>
     <original>ガルドリンに報告する</original>
+    <translation>Report back to Gurdling</translation>
   </message>
 </resource>

@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q20060003_00_256</key>
     <original>森の乱暴者</original>
@@ -25,16 +25,16 @@
   <message>
     <key>q20060003_00_1023</key>
     <original>山小屋周辺の敵を討伐する</original>
-    <translation>Defeat the enemies near the hunting lodge.</translation>
+    <translation>Defeat the enemies near the hunting lodge</translation>
   </message>
   <message>
     <key>q20060003_00_828</key>
     <original>発見した敵を討伐する</original>
-    <translation>Defeat the enemies encountered.</translation>
+    <translation>Defeat the enemies encountered</translation>
   </message>
   <message>
     <key>q20060003_00_804</key>
     <original>依頼者に報告する</original>
-    <translation>Report back to the requester.</translation>
+    <translation>Report back to the requester</translation>
   </message>
 </resource>

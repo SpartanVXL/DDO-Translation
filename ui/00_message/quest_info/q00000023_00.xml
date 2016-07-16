@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q00000023_00_23</key>
     <original>黄金の鍵</original>
@@ -12,6 +12,7 @@
   <message>
     <key>q00000023_00_1048</key>
     <original>メルゴダで待つクラウスを訪ねる</original>
+    <translation>Talk to Klaus waiting in Mergoda</translation>
   </message>
   <message>
     <key>q00000023_00_1049</key>
@@ -44,9 +45,11 @@
   <message>
     <key>q00000023_00_1195</key>
     <original>クラウスと話す</original>
+    <translation>Talk to Klaus</translation>
   </message>
   <message>
     <key>q00000023_00_1052</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>title_item</key>
     <original>所持アイテム</original>
@@ -248,7 +248,7 @@
     <key>item_conf_jump_onlineshop</key>
     <original>オンラインショップを開きます
 よろしいですか？</original>
-	<translation>Are you sure you want to
+    <translation>Are you sure you want to
 open the Online Shop?</translation>
   </message>
 </resource>

@@ -1,16 +1,20 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q60000009_00_26</key>
     <original>魔弓の証　エレメントアーチャー戦術試練</original>
+    <translation>Element Archer Tactics Trial: A Magick Bow</translation>
   </message>
   <message>
     <key>q60000009_00_26</key>
     <original>エレメントアーチャーの基本戦術を学ぶため
 修練の祠にて試練に挑む</original>
+    <translation>In order to learn the basic tactics of Element Archer,
+challenge the trial of the Training Chapel</translation>
   </message>
   <message>
     <key>q60000009_00_1106</key>
     <original>修練の祠内のウィルソンと話す</original>
+    <translation>Talk to Wilson in the Training Chapel</translation>
   </message>
   <message>
     <key>q60000009_00_1107</key>
@@ -55,13 +59,16 @@
   <message>
     <key>q60000009_00_1170</key>
     <original>サイクロプスを倒せ</original>
+    <translation>Defeat the Cyclops</translation>
   </message>
   <message>
     <key>q60000009_00_1177</key>
     <original>最奥にある＜魔弓の証＞を入手する</original>
+    <translation>Collect the proof of completing the trial</translation>
   </message>
   <message>
     <key>q60000009_00_1108</key>
     <original>白竜神殿のレンテンに経緯を報告する</original>
+    <translation>Report back to Renton in the White Dragon Temple</translation>
   </message>
 </resource>

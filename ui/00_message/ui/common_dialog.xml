@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>ana_cmd_error</key>
     <original>そのコマンドは実行できません</original>
@@ -1709,7 +1709,7 @@ The effect of "&lt;OPCS&gt;" will allow this.</translation>
   <message>
     <key>ana_q_use_item</key>
     <original>＜&lt;NAME ITEM&gt;＞を使いますか？</original>
-    <translation>Use the ＜&lt;NAME ITEM&gt;＞?</translation>
+    <translation>Use the "&lt;NAME ITEM&gt;"?</translation>
   </message>
   <message>
     <key>ana_select_destination</key>
@@ -1774,7 +1774,7 @@ The effect of "&lt;OPCS&gt;" will allow this.</translation>
   <message>
     <key>ana_join_lobby</key>
     <original>パーティーに合流します</original>
-    <translation>Join lobby?</translation>
+    <translation>Join party?</translation>
   </message>
   <message>
     <key>ana_enter_password</key>
@@ -1922,12 +1922,12 @@ cancel the changes?</translation>
   <message>
     <key>ana_entryb_ready_alert</key>
     <original>メンバーが集合しました。担当NPCから《出撃》を選択してください</original>
-    <translation>The party members have assembled. Please select "Rally" at the NPC.</translation>
+    <translation>The party members have assembled. Please select "Sortie" at the NPC.</translation>
   </message>
   <message>
     <key>ana_entryb_ready_wait_alert</key>
     <original>他のメンバーの出撃完了を待っています</original>
-    <translation>Waiting for the other party members to become ready.</translation>
+    <translation>Waiting for the other party members to sortie.</translation>
   </message>
   <message>
     <key>ana_entryb_reentry_alert</key>
@@ -2381,10 +2381,12 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   <message>
     <key>ana_om_door_open_by_enemy</key>
     <original>閉ざされていた道が開けた</original>
+    <translation>A path that was closed is now open.</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rim_day</key>
     <original>1日1回しか渡すことができません</original>
+    <translation>You can only give once a day.</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rim_max</key>
@@ -2411,6 +2413,7 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   <message>
     <key>ana_partner_pawn_lpup</key>
     <original>パートナーポーンとの絆が深まった</original>
+    <translation>You have deepend bonds with the Partner Pawn.</translation>
   </message>
   <message>
     <key>ana_quest_announce_set_discover_add</key>

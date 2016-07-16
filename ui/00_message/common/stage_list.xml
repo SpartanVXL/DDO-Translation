@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>STAGE_NAME_1</key>
     <original>レスタニア</original>
@@ -7,7 +7,7 @@
   <message>
     <key>STAGE_NAME_2</key>
     <original>白竜神殿レーゼ</original>
-    <translation>White Dragon Temple Riese</translation>
+    <translation>The White Dragon Temple</translation>
   </message>
   <message>
     <key>STAGE_NAME_3</key>
@@ -117,7 +117,7 @@
   <message>
     <key>STAGE_NAME_26</key>
     <original>ローテス組合宿　海竜亭</original>
-    <translation>Sea Dragons Inn</translation>
+    <translation>Sea Dragon Inn</translation>
   </message>
   <message>
     <key>STAGE_NAME_27</key>
@@ -147,6 +147,7 @@
   <message>
     <key>STAGE_NAME_32</key>
     <original>灯台の地下倉庫</original>
+    <translation>Lighthouse Underground Stores</translation>
   </message>
   <message>
     <key>STAGE_NAME_33</key>
@@ -175,7 +176,7 @@
   <message>
     <key>STAGE_NAME_38</key>
     <original>平原の廃墟地下室</original>
-    <translation>Cellar of Abandoned House in the Plains</translation>
+    <translation>Plains Abandoned House Cellar</translation>
   </message>
   <message>
     <key>STAGE_NAME_39</key>
@@ -215,6 +216,7 @@
   <message>
     <key>STAGE_NAME_46</key>
     <original>民家</original>
+    <translation>House</translation>
   </message>
   <message>
     <key>STAGE_NAME_47</key>
@@ -233,6 +235,7 @@
   <message>
     <key>STAGE_NAME_50</key>
     <original>ブランドン武具店</original>
+    <translation>Brandon's Armor Shop</translation>
   </message>
   <message>
     <key>STAGE_NAME_51</key>
@@ -247,6 +250,7 @@
   <message>
     <key>STAGE_NAME_53</key>
     <original>ドラワン組合宿　眠り狼亭</original>
+    <translation>Slumbering Wolf Pavilion</translation>
   </message>
   <message>
     <key>STAGE_NAME_54</key>
@@ -263,6 +267,7 @@
   <message>
     <key>STAGE_NAME_57</key>
     <original>オズワルドの武具店</original>
+    <translation>Oswald's Armor Shop</translation>
   </message>
   <message>
     <key>STAGE_NAME_58</key>
@@ -285,10 +290,12 @@
   <message>
     <key>STAGE_NAME_62</key>
     <original>さる錬金術師の家</original>
+    <translation>An Alchemist's Home</translation>
   </message>
   <message>
     <key>STAGE_NAME_63</key>
     <original>テオドール錬金工房</original>
+    <translation>Theodor's Alchemy Workshop</translation>
   </message>
   <message>
     <key>STAGE_NAME_64</key>
@@ -351,10 +358,12 @@
   <message>
     <key>STAGE_NAME_76</key>
     <original>亡都メルゴダ　下層</original>
+     <translation>Lower Mergoda Ruins</translation>
   </message>
   <message>
     <key>STAGE_NAME_77</key>
     <original>メルゴダ護政区</original>
+    <translation>Mergoda Security District</translation>
   </message>
   <message>
     <key>STAGE_NAME_78</key>
@@ -369,7 +378,7 @@
   <message>
     <key>STAGE_NAME_80</key>
     <original>キノザ鉱泉</original>
-    <translation>Kinoza Spa</translation>
+    <translation>Kinoza Mineral Springs</translation>
   </message>
   <message>
     <key>STAGE_NAME_81</key>
@@ -497,18 +506,22 @@
   <message>
     <key>STAGE_NAME_106</key>
     <original>レ・カルバス・パティーロ</original>
+    <translation>Le Karvas Patiro</translation>
   </message>
   <message>
     <key>STAGE_NAME_107</key>
     <original>レ・カルバス・ロタナ</original>
+    <translation>Le Karvas Lotana</translation>
   </message>
   <message>
     <key>STAGE_NAME_108</key>
     <original>レ・カルバス・サルトー</original>
+    <translation>Le Karvas Salto</translation>
   </message>
   <message>
     <key>STAGE_NAME_109</key>
     <original>レ・カルバス・アーマ</original>
+    <translation>Le Karvas Arma</translation>
   </message>
   <message>
     <key>STAGE_NAME_110</key>
@@ -670,6 +683,7 @@
   <message>
     <key>STAGE_NAME_145</key>
     <original>第三のアーク</original>
+    <translation>The Third Ark</translation>
   </message>
   <message>
     <key>STAGE_NAME_146</key>
@@ -684,10 +698,12 @@
   <message>
     <key>STAGE_NAME_148</key>
     <original>第三のアーク</original>
+    <translation>The Third Ark</translation>
   </message>
   <message>
     <key>STAGE_NAME_149</key>
     <original>湖底連絡路</original>
+    <translation>Lakebottom Connecting Passage</translation>
   </message>
   <message>
     <key>STAGE_NAME_150</key>
@@ -721,6 +737,7 @@
   <message>
     <key>STAGE_NAME_156</key>
     <original>テゴル治水路</original>
+    <translation>Tegor Flood Control</translation>
   </message>
   <message>
     <key>STAGE_NAME_157</key>
@@ -1057,6 +1074,7 @@
   <message>
     <key>STAGE_NAME_237</key>
     <original>メルゴダ居住区</original>
+    <translation>Mergoda Residential Area</translation>
   </message>
   <message>
     <key>STAGE_NAME_238</key>
@@ -1092,10 +1110,12 @@
   <message>
     <key>STAGE_NAME_286</key>
     <original>古の祭祀場</original>
+    <translation>Ancient Place of Rituals</translation>
   </message>
   <message>
     <key>STAGE_NAME_288</key>
     <original>亡都メルゴダ　王宮層</original>
+    <translation>Mergoda Ruins Royal Palace Level</translation>
   </message>
   <message>
     <key>STAGE_NAME_289</key>
@@ -1142,10 +1162,12 @@
   <message>
     <key>STAGE_NAME_316</key>
     <original>侵食魔の巣窟</original>
+    <translation>Infected Den</translation>
   </message>
   <message>
     <key>STAGE_NAME_317</key>
     <original>調査隊駐屯地</original>
+    <translation>Survey Corps Camp</translation>
   </message>
   <message>
     <key>STAGE_NAME_318</key>
@@ -1158,6 +1180,7 @@
   <message>
     <key>STAGE_NAME_321</key>
     <original>侵食魔の巣窟　奥底</original>
+    <translation>Infected Den Depths</translation>
   </message>
   <message>
     <key>STAGE_NAME_330</key>
@@ -1166,10 +1189,12 @@
   <message>
     <key>STAGE_NAME_331</key>
     <original>せせらぎの地下聖堂</original>
+    <translation>Crypt of Murmurs</translation>
   </message>
   <message>
     <key>STAGE_NAME_333</key>
     <original>モルトバ遺跡</original>
+    <translation>Moltova Ruins</translation>
   </message>
   <message>
     <key>STAGE_NAME_335</key>
@@ -1189,6 +1214,7 @@
   <message>
     <key>STAGE_NAME_350</key>
     <original>メイリーフの寝室</original>
+    <translation>Mayleaf's Bedroom</translation>
   </message>
   <message>
     <key>STAGE_NAME_351</key>
@@ -1233,6 +1259,7 @@
   <message>
     <key>STAGE_NAME_365</key>
     <original>小塔傍の枯れ井戸</original>
+    <translation>Dried Well by the Tower</translation>
   </message>
   <message>
     <key>STAGE_NAME_406</key>
@@ -1241,14 +1268,17 @@
   <message>
     <key>STAGE_NAME_410</key>
     <original>灼熱の封鎖道</original>
+    <translation>Scorching Blocked Passage</translation>
   </message>
   <message>
     <key>STAGE_NAME_427</key>
     <original>霧幻のテラス</original>
+    <translation>Misty Illusion Terrace</translation>
   </message>
   <message>
     <key>STAGE_NAME_431</key>
     <original>罪人の修獄</original>
+    <translation>Penitentiary</translation>
   </message>
   <message>
     <key>STAGE_NAME_433</key>
@@ -1270,5 +1300,6 @@
   <message>
     <key>STAGE_NAME_452</key>
     <original>古の祭祀場</original>
+    <translation>Ancient Place of Rituals</translation>
   </message>
 </resource>

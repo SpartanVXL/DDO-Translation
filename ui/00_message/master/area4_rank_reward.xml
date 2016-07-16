@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>AREA_RANK_REWARD_53</key>
     <original>支援品の配給</original>
@@ -12,7 +12,7 @@
   <message>
     <key>AREA_RANK_REWARD_55</key>
     <original>《キノザ鉱泉》の資源が向上</original>
-    <translation>Improve resources of "Kinoza Spa"</translation>
+    <translation>Improve resources of "Kinoza Mineral Springs"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_56</key>
@@ -22,7 +22,7 @@
   <message>
     <key>AREA_RANK_REWARD_57</key>
     <original>交通路《南壁谷～ダウ渓谷》復旧</original>
-    <translation>Restore path "南壁谷～ダウ渓谷"</translation>
+    <translation>Restore path "Southern Wall Gorge" to "Dowe Valley"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_58</key>
@@ -52,6 +52,7 @@
   <message>
     <key>AREA_RANK_REWARD_196</key>
     <original>《ボルド鉱山》各地にある未解放のリム転移 解放</original>
+    <translation>Release "Volden Mines" Portcrystals</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_197</key>
@@ -61,12 +62,12 @@
   <message>
     <key>AREA_RANK_REWARD_198</key>
     <original>封鎖エリア《灼熱の封鎖道》開放</original>
-    <translation>Unblock area "灼熱の封鎖道"</translation>
+    <translation>Unblock area "Scorching Blocked Passage"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_199</key>
     <original>《灼熱の封鎖道》に新たな強敵が出現</original>
-    <translation>New powerful enemy at "灼熱の封鎖道"</translation>
+    <translation>New powerful enemy at "Scorching Blocked Passage"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_324</key>

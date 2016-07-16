@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>item_name</key>
     <original>名称</original>
@@ -862,7 +862,7 @@
   <message>
     <key>pawn_craftskill_cost</key>
     <original>クラフトスキル：コストパフォーマンス</original>
-    <translation>Craft Skill: Crafting Cost</translation>
+    <translation>Craft Skill: Cost Performance</translation>
   </message>
   <message>
     <key>pawn_craft_promote</key>
@@ -992,6 +992,7 @@
   <message>
     <key>param_msg_bazaar_ok</key>
     <original>OK</original>
+    <translation>OK</translation>
   </message>
   <message>
     <key>param_msg_bazaar_ng</key>
@@ -1001,7 +1002,7 @@
   <message>
     <key>param_msg_alljob_equip</key>
     <original>全ジョブ装備可能</original>
-    <translation>All jobs can equip</translation>
+    <translation>All vocations can equip</translation>
   </message>
   <message>
     <key>param_msg_only_m</key>

@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q00000013_00_13</key>
     <original>奪われた心</original>
@@ -11,41 +11,51 @@
   <message>
     <key>q00000013_00_998</key>
     <original>レオから情報を得る</original>
+    <translation>Talk to Leo</translation>
   </message>
   <message>
     <key>q00000013_00_1209</key>
     <original>目的地をレオから再確認する</original>
+    <translation>Talk to Leo again</translation>
   </message>
   <message>
     <key>q00000013_00_999</key>
     <original>グリッテン砦のスケルツォから情報を得る</original>
+    <translation>Talk to Scherzo at Gritten Fort to obtain information</translation>
   </message>
   <message>
     <key>q00000013_00_1548</key>
     <original>禊の神殿へ向かう</original>
+    <translation>Go to the Temple of Purification</translation>
   </message>
   <message>
     <key>q00000013_00_1496</key>
     <original>２Fにある制御室の鍵を探す</original>
+    <translation>Find the key to the control room on the second floor</translation>
   </message>
   <message>
     <key>q00000013_00_1549</key>
     <original>鍵を使って制御室内から滝を止める</original>
+    <translation>Turn off the flow of water from the control room</translation>
   </message>
   <message>
     <key>q00000013_00_1497</key>
     <original>滝の先へ進む</original>
+    <translation>Go to the location behind the waterfall</translation>
   </message>
   <message>
     <key>q00000013_00_1000</key>
     <original>謎の誘拐犯を撃退する</original>
+    <translation>Defeat the mysterious abductor</translation>
   </message>
   <message>
     <key>q00000013_00_1001</key>
     <original>禊の神殿入口で合流する</original>
+    <translation>Go to the entrance of the Temple of Purification</translation>
   </message>
   <message>
     <key>q00000013_00_1002</key>
     <original>謁見の間のレオに経緯を報告する</original>
+    <translation>Report back to Leo in the Audience Chamber</translation>
   </message>
 </resource>

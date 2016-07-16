@@ -1,7 +1,8 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q00000009_00_9</key>
     <original>狙われた砦</original>
+    <translation>The Assailed Fort</translation>
   </message>
   <message>
     <key>q00000009_00_9</key>
@@ -12,17 +13,21 @@
   <message>
     <key>q00000009_00_983</key>
     <original>グリッテン砦に向かう</original>
+    <translation>Head to Gritten Fort</translation>
   </message>
   <message>
     <key>q00000009_00_984</key>
     <original>砦内のオーク軍を掃討する</original>
+    <translation>Eliminate the attacking Orc army</translation>
   </message>
   <message>
     <key>q00000009_00_985</key>
     <original>砦内の残りの敵を全滅させる</original>
+    <translation>Eliminate the rest of the enemies in the fort</translation>
   </message>
   <message>
     <key>q00000009_00_986</key>
     <original>謁見の間へ戻り経緯を報告する</original>
+    <translation>Report back to the Audience Chamber</translation>
   </message>
 </resource>

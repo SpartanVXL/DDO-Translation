@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>AREA_RANK_REWARD_111</key>
     <original>支援品の配給</original>
@@ -27,6 +27,7 @@
   <message>
     <key>AREA_RANK_REWARD_116</key>
     <original>交通路《バートランド山道～北部》復旧</original>
+    <translation>Restore path "Betland Mountain Road" to "Northern Betland Plains"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_117</key>
@@ -51,6 +52,7 @@
   <message>
     <key>AREA_RANK_REWARD_216</key>
     <original>《バートランド平原》各地にある未解放のリム転移 解放</original>
+    <translation>Release "Betland Plains" Portcrystals</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_217</key>
@@ -60,12 +62,12 @@
   <message>
     <key>AREA_RANK_REWARD_218</key>
     <original>封鎖エリア《罪人の修獄》開放</original>
-    <translation>Unblock area "罪人の修獄"</translation>
+    <translation>Unblock area "Penitentiary"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_219</key>
     <original>《罪人の修獄》に新たな強敵が出現</original>
-    <translation>New powerful enemy at "罪人の修獄"</translation>
+    <translation>New powerful enemy at "Penitentiary"</translation>
   </message>
   <message>
     <key>AREA_RANK_REWARD_331</key>

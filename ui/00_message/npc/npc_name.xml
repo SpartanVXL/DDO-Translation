@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>NPC_NAME_251</key>
     <original>白竜</original>
@@ -107,18 +107,22 @@
   <message>
     <key>NPC_NAME_272</key>
     <original>トラバース</original>
+    <translation>Travers</translation>
   </message>
   <message>
     <key>NPC_NAME_273</key>
     <original>白衛騎士団員</original>
+    <translation>White Knights Member</translation>
   </message>
   <message>
     <key>NPC_NAME_274</key>
     <original>白衛騎士団員</original>
+    <translation>White Knights Member</translation>
   </message>
   <message>
     <key>NPC_NAME_275</key>
     <original>白衛騎士団員</original>
+    <translation>White Knights Member</translation>
   </message>
   <message>
     <key>NPC_NAME_276</key>
@@ -230,37 +234,37 @@
   <message>
     <key>NPC_NAME_298</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_299</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_300</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_301</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_302</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_303</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_304</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_305</key>
@@ -889,30 +893,37 @@
   <message>
     <key>NPC_NAME_434</key>
     <original>エンポリオ</original>
+    <translation>Emporio</translation>
   </message>
   <message>
     <key>NPC_NAME_435</key>
     <original>サニー</original>
+    <translation>Sunny</translation>
   </message>
   <message>
     <key>NPC_NAME_436</key>
     <original>ブランドン</original>
+    <translation>Brandon</translation>
   </message>
   <message>
     <key>NPC_NAME_437</key>
     <original>ゴート</original>
+    <translation>Gort</translation>
   </message>
   <message>
     <key>NPC_NAME_438</key>
     <original>レジーナ</original>
+    <translation>Regina</translation>
   </message>
   <message>
     <key>NPC_NAME_439</key>
     <original>ヨハン</original>
+    <translation>Johann</translation>
   </message>
   <message>
     <key>NPC_NAME_440</key>
     <original>ローシェ</original>
+    <translation>Rocher</translation>
   </message>
   <message>
     <key>NPC_NAME_441</key>
@@ -921,10 +932,12 @@
   <message>
     <key>NPC_NAME_442</key>
     <original>アウグスト</original>
+    <translation>Augusto</translation>
   </message>
   <message>
     <key>NPC_NAME_443</key>
     <original>オズワルド</original>
+    <translation>Oswald</translation>
   </message>
   <message>
     <key>NPC_NAME_444</key>
@@ -937,6 +950,7 @@
   <message>
     <key>NPC_NAME_446</key>
     <original>ポー</original>
+    <translation>Poe</translation>
   </message>
   <message>
     <key>NPC_NAME_447</key>
@@ -961,14 +975,17 @@
   <message>
     <key>NPC_NAME_452</key>
     <original>オリバー</original>
+    <translation>Oliver</translation>
   </message>
   <message>
     <key>NPC_NAME_453</key>
     <original>シェリン</original>
+    <translation>Sheryn</translation>
   </message>
   <message>
     <key>NPC_NAME_454</key>
     <original>ナディア</original>
+    <translation>Nadia</translation>
   </message>
   <message>
     <key>NPC_NAME_455</key>
@@ -2041,26 +2058,27 @@
   <message>
     <key>NPC_NAME_717</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_718</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_719</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_720</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_721</key>
     <original>白衛騎士団3</original>
+    <translation>White Knights 3</translation>
   </message>
   <message>
     <key>NPC_NAME_722</key>
@@ -2073,7 +2091,7 @@
   <message>
     <key>NPC_NAME_724</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_725</key>
@@ -2095,7 +2113,7 @@
   <message>
     <key>NPC_NAME_729</key>
     <original>覚者隊の隊士</original>
-    <translation>Corps Regimental Soldier</translation>
+    <translation>Arisen Corps Regimental Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_730</key>
@@ -2193,6 +2211,7 @@
   <message>
     <key>NPC_NAME_756</key>
     <original>ララ</original>
+    <translation>Lara</translation>
   </message>
   <message>
     <key>NPC_NAME_757</key>
@@ -2437,10 +2456,12 @@
   <message>
     <key>NPC_NAME_828</key>
     <original>セシリー</original>
+    <translation>Cecily</translation>
   </message>
   <message>
     <key>NPC_NAME_829</key>
     <original>エリオット</original>
+    <translation>Elliot</translation>
   </message>
   <message>
     <key>NPC_NAME_831</key>
@@ -2457,6 +2478,7 @@
   <message>
     <key>NPC_NAME_839</key>
     <original>ベルトラン</original>
+    <translation>Bertrand</translation>
   </message>
   <message>
     <key>NPC_NAME_840</key>
@@ -2478,18 +2500,22 @@
   <message>
     <key>NPC_NAME_867</key>
     <original>クラリッサ</original>
+    <translation>Clarissa</translation>
   </message>
   <message>
     <key>NPC_NAME_868</key>
     <original>ギュンター</original>
+    <translation>Gunther</translation>
   </message>
   <message>
     <key>NPC_NAME_869</key>
     <original>ロルフ</original>
+    <translation>Rolf</translation>
   </message>
   <message>
     <key>NPC_NAME_870</key>
     <original>スヴェン</original>
+    <translation>Sven</translation>
   </message>
   <message>
     <key>NPC_NAME_931</key>

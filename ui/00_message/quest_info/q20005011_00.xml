@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q20005011_00_290</key>
     <original>人喰い鬼、現る！</original>
@@ -8,8 +8,8 @@
     <key>q20005011_00_290</key>
     <original>&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 遭遇した敵を討伐する</original>
-    <translation>&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
-Defeat the enemies encountered.</translation>
+    <translation>&lt;COL ffdc78&gt;(Enemy appears at night)&lt;/COL&gt;
+Defeat the enemies encountered</translation>
   </message>
   <message>
     <key>q20005011_00_290</key>
@@ -28,6 +28,6 @@ Defeat the enemies encountered.</translation>
   <message>
     <key>q20005011_00_806</key>
     <original>遭遇した敵を討伐する</original>
-    <translation>Defeat the enemies encountered.</translation>
+    <translation>Defeat the enemies encountered</translation>
   </message>
 </resource>

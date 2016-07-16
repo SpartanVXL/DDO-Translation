@@ -1,8 +1,8 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>SPOT_NAME_450</key>
     <original>白竜神殿レーゼ</original>
-    <translation>White Dragon Temple</translation>
+    <translation>The White Dragon Temple</translation>
   </message>
   <message>
     <key>SPOT_NAME_451</key>
@@ -253,10 +253,12 @@
   <message>
     <key>SPOT_NAME_501</key>
     <original>さる錬金術師の家</original>
+    <translation>An Alchemist's Home</translation>
   </message>
   <message>
     <key>SPOT_NAME_502</key>
     <original>エリクシル精製室</original>
+    <translation>Elixir Refining Chamber</translation>
   </message>
   <message>
     <key>SPOT_NAME_503</key>
@@ -266,7 +268,7 @@
   <message>
     <key>SPOT_NAME_504</key>
     <original>南壁谷の道</original>
-    <translation>South Valley Road</translation>
+    <translation>Southern Wall Gorge</translation>
   </message>
   <message>
     <key>SPOT_NAME_505</key>
@@ -440,6 +442,7 @@
   <message>
     <key>SPOT_NAME_540</key>
     <original>ザンドラ礼拝堂</original>
+    <translation>Zandora Chapel</translation>
   </message>
   <message>
     <key>SPOT_NAME_541</key>
@@ -573,6 +576,7 @@
   <message>
     <key>SPOT_NAME_567</key>
     <original>テゴル治水路</original>
+    <translation>Tegor Flood Control</translation>
   </message>
   <message>
     <key>SPOT_NAME_568</key>
@@ -641,7 +645,7 @@
   <message>
     <key>SPOT_NAME_581</key>
     <original>平原の廃墟地下室</original>
-    <translation>Cellar of Abandoned House in the Plains</translation>
+    <translation>Plains Abandoned House Cellar</translation>
   </message>
   <message>
     <key>SPOT_NAME_582</key>
@@ -737,6 +741,7 @@
   <message>
     <key>SPOT_NAME_605</key>
     <original>灯台の地下倉庫</original>
+    <translation>Lighthouse Underground Stores</translation>
   </message>
   <message>
     <key>SPOT_NAME_606</key>
@@ -751,6 +756,7 @@
   <message>
     <key>SPOT_NAME_608</key>
     <original>湖底連絡路</original>
+    <translation>Lakebottom Connecting Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_609</key>
@@ -1005,6 +1011,7 @@
   <message>
     <key>SPOT_NAME_664</key>
     <original>テオドール錬金工房</original>
+    <translation>Theodor's Alchemy Workshop</translation>
   </message>
   <message>
     <key>SPOT_NAME_665</key>
@@ -1018,6 +1025,7 @@
   <message>
     <key>SPOT_NAME_667</key>
     <original>亡都メルゴダ　下層</original>
+    <translation>Lower Mergoda Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_668</key>
@@ -1040,12 +1048,12 @@
   <message>
     <key>SPOT_NAME_672</key>
     <original>白竜神殿レーゼ（大門前）</original>
-    <translation>White Dragon Temple (Front Gate)</translation>
+    <translation>The White Dragon Temple (Front Gate)</translation>
   </message>
   <message>
     <key>SPOT_NAME_673</key>
     <original>白竜神殿レーゼ（中央広場）</original>
-    <translation>White Dragon Temple (Central Square)</translation>
+    <translation>The White Dragon Temple (Central Square)</translation>
   </message>
   <message>
     <key>SPOT_NAME_674</key>
@@ -1099,6 +1107,7 @@
   <message>
     <key>SPOT_NAME_687</key>
     <original>調査隊駐屯地</original>
+    <translation>Survey Corps Camp</translation>
   </message>
   <message>
     <key>SPOT_NAME_689</key>
@@ -1107,6 +1116,7 @@
   <message>
     <key>SPOT_NAME_690</key>
     <original>モルトバ遺跡</original>
+    <translation>Moltova Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_691</key>
@@ -1115,14 +1125,17 @@
   <message>
     <key>SPOT_NAME_692</key>
     <original>霧幻のテラス</original>
+    <translation>Misty Illusion Terrace</translation>
   </message>
   <message>
     <key>SPOT_NAME_693</key>
     <original>灼熱の封鎖道</original>
+    <translation>Scorching Blocked Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_694</key>
     <original>罪人の修獄</original>
+    <translation>Penitentiary</translation>
   </message>
   <message>
     <key>SPOT_NAME_695</key>
@@ -1159,6 +1172,7 @@
   <message>
     <key>SPOT_NAME_704</key>
     <original>侵食魔の巣窟</original>
+    <translation>Infected Den</translation>
   </message>
   <message>
     <key>SPOT_NAME_705</key>
@@ -1171,6 +1185,7 @@
   <message>
     <key>SPOT_NAME_707</key>
     <original>せせらぎの地下聖堂</original>
+    <translation>Crypt of Murmurs</translation>
   </message>
   <message>
     <key>SPOT_NAME_708</key>
@@ -1179,6 +1194,7 @@
   <message>
     <key>SPOT_NAME_709</key>
     <original>侵食魔の巣窟　奥底</original>
+    <translation>Infected Den Depths</translation>
   </message>
   <message>
     <key>SPOT_NAME_710</key>
@@ -1187,6 +1203,7 @@
   <message>
     <key>SPOT_NAME_711</key>
     <original>小塔傍の枯れ井戸</original>
+    <translation>Dried Well by the Tower</translation>
   </message>
   <message>
     <key>SPOT_NAME_715</key>
@@ -1252,26 +1269,32 @@
   <message>
     <key>SPOT_NAME_805</key>
     <original>ブリア海岸 南側</original>
+    <translation>South Breya Coast</translation>
   </message>
   <message>
     <key>SPOT_NAME_806</key>
     <original>ミスリウ森林 東側</original>
+    <translation>East Mysree Forest</translation>
   </message>
   <message>
     <key>SPOT_NAME_807</key>
     <original>ボルド鉱山 北側</original>
+    <translation>North Volden Mines</translation>
   </message>
   <message>
     <key>SPOT_NAME_808</key>
     <original>ダウ渓谷 西側</original>
+    <translation>West Dowe Valley</translation>
   </message>
   <message>
     <key>SPOT_NAME_809</key>
     <original>禊の神殿 湖畔</original>
+    <translation>Temple of Purification Lakeside</translation>
   </message>
   <message>
     <key>SPOT_NAME_810</key>
     <original>ザンドラ禁域 西側</original>
+    <translation>West Zandora Wastelands</translation>
   </message>
   <message>
     <key>SPOT_NAME_813</key>

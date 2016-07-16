@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>party_list_title_en</key>
     <original>Party List</original>
@@ -30,7 +30,7 @@
   <message>
     <key>party_list_spawn</key>
     <original>サポートポーン</original>
-    <translation>Hired Pawns</translation>
+    <translation>Support Pawns</translation>
   </message>
   <message>
     <key>party_list_pl_search</key>

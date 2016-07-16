@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <original>（肩書なし）</original>
     <translation>(No Title)</translation>
@@ -89,15 +89,15 @@
   </message>
   <message>
     <original>グランドミッション：目覚めし闇の魔物</original>
-    <translation>Grand Mission: 目覚めし闇の魔物</translation>
+    <translation>Grand Mission: The Demon of Darkness Awakens</translation>
   </message>
   <message>
     <original>グランドミッション：太古の強者</original>
-    <translation>Grand Mission: 太古の強者</translation>
+    <translation>Grand Mission: Ancient Warrior</translation>
   </message>
   <message>
     <original>グランドミッション：眩き黄金</original>
-    <translation>Grand Mission: 眩き黄金</translation>
+    <translation>Grand Mission: The Dazzling Gold</translation>
   </message>
   <message>
     <original>宿屋</original>
@@ -105,7 +105,7 @@
   </message>
   <message>
     <original>グランドミッション：失われた秩序</original>
-    <translation>Grand Mission: 失われた秩序</translation>
+    <translation>Grand Mission: The Lost Order</translation>
   </message>
   <message>
     <original>クラフト係官</original>
@@ -113,11 +113,11 @@
   </message>
   <message>
     <original>グランドミッション：グリッテン砦攻防戦</original>
-    <translation>Grand Mission: Battle at Gritten Fort</translation>
+    <translation>Grand Mission: Battle for Gritten Fort</translation>
   </message>
   <message>
     <original>転職・戦技補佐</original>
-    <translation>Arts Support / Job Change</translation>
+    <translation>Vocation / Arts Support</translation>
   </message>
   <message>
     <original>訓練官</original>
@@ -321,7 +321,7 @@
   </message>
   <message>
     <original>オーブ交換：珍品／素材</original>
-    <translation>Orb Exchange：Rare Items / Raw Materials</translation>
+    <translation>Orb Exchange: Rare Items / Raw Materials</translation>
   </message>
   <message>
     <original>よろず屋</original>
@@ -433,9 +433,11 @@
   </message>
   <message>
     <original>エクストリームトーナメント</original>
+    <translation>Extreme Tournament</translation>
   </message>
   <message>
     <original>受付</original>
+    <translation>Receptionist</translation>
   </message>
   <message>
     <original>よろず屋</original>
@@ -450,6 +452,7 @@
   </message>
   <message>
     <original>エクストリームミッション</original>
+    <translation>Extreme Mission</translation>
   </message>
   <message>
     <original>宿・戦技補佐</original>

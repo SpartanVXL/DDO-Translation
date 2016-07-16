@@ -1,7 +1,8 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q00000006_00_6</key>
     <original>森の中の少女</original>
+    <translation>The Girl in the Forest</translation>
   </message>
   <message>
     <key>q00000006_00_6</key>
@@ -10,25 +11,31 @@
   <message>
     <key>q00000006_00_967</key>
     <original>メイリーフを捜しにミスリウ森林へ向かう</original>
+    <translation>Go to Mysree Forest and look for Mayleaf</translation>
   </message>
   <message>
     <key>q00000006_00_968</key>
     <original>燐光虫の洞窟に入りメイリーフを捜す</original>
+    <translation>Enter Glowworm Cave and find Mayleaf</translation>
   </message>
   <message>
     <key>q00000006_00_969</key>
     <original>洞窟内のトロールを撃破する</original>
+    <translation>Defeat the Troll in the cave</translation>
   </message>
   <message>
     <key>q00000006_00_970</key>
     <original>洞窟内で助けたメイリーフに話す</original>
+    <translation>Talk to Mayleaf</translation>
   </message>
   <message>
     <key>q00000006_00_971</key>
     <original>メイリーフとの待ち合わせ場所へ向かう</original>
+    <translation>Go to Mayleaf's destination</translation>
   </message>
   <message>
     <key>q00000006_00_972</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
+    <translation>Report back to Joseph in the Audience Chamber</translation>
   </message>
 </resource>

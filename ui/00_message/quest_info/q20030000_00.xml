@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q20030000_00_37</key>
     <original>愛と苦労の巣作り</original>
@@ -26,26 +26,26 @@
   <message>
     <key>q20030000_00_1124</key>
     <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
-    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester (Need: &lt;SQDI DNUM&gt;).</translation>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester (need: &lt;SQDI DNUM&gt;)</translation>
   </message>
   <message>
     <key>q20030000_00_1124</key>
     <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
-    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester (Need: &lt;SQDI DNUM&gt;).</translation>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester (need: &lt;SQDI DNUM&gt;)</translation>
   </message>
   <message>
     <key>q20030000_00_838</key>
     <original>指定された敵を探す</original>
-    <translation>Search for the specified enemy.</translation>
+    <translation>Search for the specified enemy</translation>
   </message>
   <message>
     <key>q20030000_00_828</key>
     <original>発見した敵を討伐する</original>
-    <translation>Defeat the enemies encountered.</translation>
+    <translation>Defeat the enemies encountered</translation>
   </message>
   <message>
     <key>q20030000_00_804</key>
     <original>依頼者に報告する</original>
-    <translation>Report back to the requester.</translation>
+    <translation>Report back to the requester</translation>
   </message>
 </resource>

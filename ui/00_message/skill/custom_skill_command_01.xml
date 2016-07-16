@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>CUSTOM_SKILL_COMMAND_01_8</key>
     <original>セットボタンを押す</original>
@@ -57,6 +57,7 @@
   <message>
     <key>CUSTOM_SKILL_COMMAND_01_17</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_01_120</key>

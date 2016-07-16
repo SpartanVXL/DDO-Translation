@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>DELIVER_MSG_TITLE01</key>
     <original>Quest List</original>
@@ -37,7 +37,7 @@
     <key>DELIVER_MSG_NOTION_FINISH</key>
     <original>「&lt;NAME QUEST&gt;」
 納品目標を全て達成しました</original>
-    <translation>「&lt;NAME QUEST&gt;」 has met its delivery requirement.</translation>
+    <translation>"&lt;NAME QUEST&gt;" has met its delivery requirement.</translation>
   </message>
   <message>
     <key>DELIVER_MSG_BUTTON_FINISH</key>

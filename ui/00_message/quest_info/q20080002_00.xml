@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q20080002_00_183</key>
     <original>気配の数だけ</original>
@@ -25,16 +25,16 @@
   <message>
     <key>q20080002_00_1037</key>
     <original>＜虚ろの小堂＞の敵を討伐する</original>
-    <translation>Defeat the enemy at ＜虚ろの小堂＞.</translation>
+    <translation>Defeat the enemy in the Empty Chapel</translation>
   </message>
   <message>
     <key>q20080002_00_828</key>
     <original>発見した敵を討伐する</original>
-    <translation>Defeat the enemies encountered.</translation>
+    <translation>Defeat the enemies encountered</translation>
   </message>
   <message>
     <key>q20080002_00_804</key>
     <original>依頼者に報告する</original>
-    <translation>Report back to the requester.</translation>
+    <translation>Report back to the requester</translation>
   </message>
 </resource>

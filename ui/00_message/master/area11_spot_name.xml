@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>SPOT_NAME_</key>
     <original>ザンドラ東部</original>
@@ -45,6 +45,7 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>灯台の地下倉庫</original>
+    <translation>Lighthouse Underground Stores</translation>
   </message>
   <message>
     <key>SPOT_NAME_</key>
@@ -59,5 +60,6 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>湖底連絡路</original>
+    <translation>Lakebottom Connecting Passage</translation>
   </message>
 </resource>

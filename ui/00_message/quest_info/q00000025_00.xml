@@ -1,7 +1,8 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q00000025_00_25</key>
     <original>紅の結晶</original>
+    <translation>The Crimson Crystal</translation>
   </message>
   <message>
     <key>q00000025_00_25</key>
@@ -11,29 +12,36 @@
   <message>
     <key>q00000025_00_1058</key>
     <original>グリッテン砦のヴァネッサのもとに向かう</original>
+    <translation>Go to Gritten Fort and report to Vanessa</translation>
   </message>
   <message>
     <key>q00000025_00_1059</key>
     <original>死者の小窟内で魔物を探す</original>
+    <translation>Go to the Small Cave Tombs</translation>
   </message>
   <message>
     <key>q00000025_00_1060</key>
     <original>遭遇した魔物を討伐する</original>
+    <translation>Defeat the monster encountered</translation>
   </message>
   <message>
     <key>q00000025_00_1061</key>
     <original>グリッテン砦のヴァネッサに戦果を報告する</original>
+    <translation>Report back to Vanessa at Gritten Fort</translation>
   </message>
   <message>
     <key>q00000025_00_1062</key>
     <original>謁見の間のレオに経緯を報告する</original>
+    <translation>Report back to Leo in the Audience Chamber</translation>
   </message>
   <message>
     <key>q00000025_00_1245</key>
     <original>謁見の間のミシアルに報告する</original>
+    <translation>Talk to Mysial</translation>
   </message>
   <message>
     <key>q00000025_00_1202</key>
     <original>白竜に＜竜力の継承＞を行いブラッドオーブを捧げる</original>
+    <translation>Present the Blood Orb to obtain the power of the White Dragon</translation>
   </message>
 </resource>

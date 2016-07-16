@@ -1,7 +1,8 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q20000011_00_220</key>
     <original>気になるあの品</original>
+    <translation>A Concern for Artifacts</translation>
   </message>
   <message>
     <key>q20000011_00_220</key>
@@ -29,12 +30,12 @@
   <message>
     <key>q20000011_00_838</key>
     <original>指定された敵を探す</original>
-    <translation>Search for the specified enemy.</translation>
+    <translation>Search for the specified enemy</translation>
   </message>
   <message>
     <key>q20000011_00_828</key>
     <original>発見した敵を討伐する</original>
-    <translation>Defeat the enemies encountered.</translation>
+    <translation>Defeat the enemies encountered</translation>
   </message>
   <message>
     <key>q20000011_00_1068</key>
@@ -43,6 +44,6 @@
   <message>
     <key>q20000011_00_804</key>
     <original>依頼者に報告する</original>
-    <translation>Report back to the requester.</translation>
+    <translation>Report back to the requester</translation>
   </message>
 </resource>

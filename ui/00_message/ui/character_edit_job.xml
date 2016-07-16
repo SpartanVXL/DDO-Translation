@@ -1,7 +1,8 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>EDIT_MSG_TITLE_JOB_SELECT</key>
     <original>Job Select</original>
+    <translation>Vocation Select</translation>
   </message>
   <message>
     <key>EDIT_MSG_JOB_FIGHTER</key>
@@ -31,8 +32,8 @@
     <key>EDIT_MSG_DIALOG_JOB_SELECT</key>
     <original>このジョブでよろしいですか？
 (ジョブはゲーム内の施設からいつでも転職できます)</original>
-    <translation>Are you sure you want this job?
-(You can change jobs at anytime from the facility in the game)</translation>
+    <translation>Are you sure you want this vocation?
+(You can change vocations at anytime from the facility in the game)</translation>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_REPLY_YES</key>

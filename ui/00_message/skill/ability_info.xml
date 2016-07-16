@@ -1,4 +1,4 @@
-<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+<resource>
   <message>
     <key>ABILITY_INFO_27</key>
     <original>弓の移動射ちの際、矢が照準からぶれなくなる
@@ -665,8 +665,8 @@ elixer.
     <key>ABILITY_INFO_241</key>
     <original>新月時に物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your physical and magic defense during
-a new moon.
+    <translation>Increases your physical and magic defense
+during a new moon.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -747,8 +747,8 @@ to stun.
     <key>ABILITY_INFO_244</key>
     <original>雨天時に筋力と魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に筋力/魔力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your physical and magic power during
-rainy weather.
+    <translation>Increases your physical and magic power
+during rainy weather.
 &lt;COL ffdc78&gt;LV UP: Further increases physical/magic power.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -826,8 +826,8 @@ alchemy-enhanced enemies.
     <key>ABILITY_INFO_245</key>
     <original>雨天時に物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your phyiscal and magic defense during
-rainy weather.
+    <translation>Increases your phyiscal and magic defense
+during rainy weather.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -990,8 +990,8 @@ custom skills when you stand at death's door.
     <original>水辺や毒沼などの侵入時に
 移動速度が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に移動速度をさらに維持&lt;/COL&gt;</original>
-    <translation>Lowers the movement speed penalty when in water
-or poison pools.
+    <translation>Lowers the movement speed penalty when in
+water or poison pools.
 &lt;COL ffdc78&gt;LV UP: Further decreases movement penalty.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -1155,8 +1155,8 @@ when activating Elixer.
     <key>ABILITY_INFO_242</key>
     <original>満月時に筋力と魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に筋力/魔力がより増加&lt;/COL&gt;</original>
-    <translation>Increases your physical and magic power during
-full moons.
+    <translation>Increases your physical and magic power
+during full moons.
 &lt;COL ffdc78&gt;LV UP: Further increases physical/magic power.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -1236,8 +1236,8 @@ actions.
     <key>ABILITY_INFO_243</key>
     <original>満月時に物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
-    <translation>Increases physical and magic defense during full
-moons.
+    <translation>Increases physical and magic defense
+during full moons.
 &lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -2193,8 +2193,8 @@ LV5～6: Increases cast speed.&lt;/COL&gt;</translation>
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <translation>Increases the damage of Demon Slayer.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
-LV5～6: Increases chance attack and exhaust attack
-power.&lt;/COL&gt;</translation>
+LV5～6: Increases chance attack and exhaust
+attack power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_393</key>
@@ -2284,8 +2284,8 @@ LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
     <original>魔人斬り/真・魔人斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で気絶力が増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of Demon Slash/True Demon
-Slash.
+    <translation>Increases the damage of
+Demon Slash/True Demon Slash.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
 LV5～6: Increases stun power.&lt;/COL&gt;</translation>
   </message>
@@ -2373,9 +2373,9 @@ leaving the White Dragon Temple.
     <original>溜め攻撃をジャスト発動した際、スタミナが回復する
 カスタムスキルの場合は消費量を軽減。
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加&lt;/COL&gt;</original>
-    <translation>Recovers stamina when just timing a charge attack.
-Reduces stamina consumption for just timed
-custom skills.
+    <translation>Recovers stamina when just timing a charge
+attack. Reduces stamina consumption for just
+timed custom skills.
 &lt;COL ffdc78&gt;LV UP: Further increases stamina recovered.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -2756,8 +2756,8 @@ break on use.
     <key>ABILITY_INFO_456</key>
     <original>水辺や毒沼などの侵入時に移動速度が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に移動速度をより維持する&lt;/COL&gt;</original>
-    <translation>Lowers the movement speed penalty when in water
-or poison pools.
+    <translation>Lowers the movement speed penalty when in
+water or poison pools.
 &lt;COL ffdc78&gt;LV UP: Further decreases movement penalty.&lt;/COL&gt;</translation>
   </message>
   <message>

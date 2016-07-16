@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <original>レバーがある</original>
     <translation>There is a lever</translation>
@@ -29,7 +29,7 @@
   </message>
   <message>
     <original>エリアマスターにより封鎖されている――</original>
-    <translation>Area Master により封鎖されている――</translation>
+    <translation>It is blocked by the area Area Master.</translation>
   </message>
   <message>
     <original>鍵がかかっている――
@@ -105,7 +105,8 @@ Please touch the progress marker.</translation>
   <message>
     <original>イベントを進行しますか？
 ※パーティー要請中の場合はキャンセルされます</original>
-    <translation>Are you sure you want to proceed with the event?
+    <translation>Are you sure you want to proceed
+with the event?
 ※If there is a party request, it will be canceled.</translation>
   </message>
   <message>

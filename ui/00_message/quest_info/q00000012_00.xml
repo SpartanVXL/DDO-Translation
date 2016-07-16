@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q00000012_00_12</key>
     <original>闇を纏う娘</original>
@@ -11,33 +11,41 @@
   <message>
     <key>q00000012_00_993</key>
     <original>白竜神殿のパメラから話を聞く</original>
+    <translation>Talk to Pamela</translation>
   </message>
   <message>
     <key>q00000012_00_994</key>
     <original>情報をもとにリンウッドへ向かう</original>
+    <translation>Go to Lynwood Village to find more information</translation>
   </message>
   <message>
     <key>q00000012_00_1545</key>
     <original>ミスリウ森林深部のクリスティーヌから情報を得る</original>
+    <translation>Talk to the Area Master of Mysree Grove, Christine</translation>
   </message>
   <message>
     <key>q00000012_00_1546</key>
     <original>ミスリウ森林深部のワールドクエストを1個クリアする</original>
+    <translation>Complete one Mysree Grove World Quest</translation>
   </message>
   <message>
     <key>q00000012_00_1547</key>
     <original>クリスティーヌに報告する</original>
+    <translation>Report back to Christine</translation>
   </message>
   <message>
     <key>q00000012_00_995</key>
     <original>情報をもとにイニアス湖南東にある小島の方へ向かう</original>
+    <translation>Go to Lake Inias</translation>
   </message>
   <message>
     <key>q00000012_00_996</key>
     <original>襲撃者を撃退する</original>
+    <translation>Defeat the encountered enemy</translation>
   </message>
   <message>
     <key>q00000012_00_997</key>
     <original>謁見の間のジョゼフに経緯を報告する</original>
+    <translation>Report back to Joseph</translation>
   </message>
 </resource>

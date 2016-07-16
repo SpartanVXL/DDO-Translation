@@ -1,4 +1,4 @@
-﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+﻿<resource>
   <message>
     <key>q20030006_00_243</key>
     <original>運べぬ運び屋</original>
@@ -25,21 +25,21 @@
   <message>
     <key>q20030006_00_1124</key>
     <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
-    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester (Need: &lt;SQDI DNUM&gt;).</translation>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to the requester (need: &lt;SQDI DNUM&gt;)</translation>
   </message>
   <message>
     <key>q20030006_00_923</key>
     <original>＜白竜神殿＞のキトリッジに話しかける</original>
-    <translation>Speak to Kittredge at the White Temple.</translation>
+    <translation>Talk to Kittredge at the White Dragon Temple</translation>
   </message>
   <message>
     <key>q20030006_00_924</key>
     <original>関所のジョシュに話しかける</original>
-    <translation>Speak to Josh at the checkpoint.</translation>
+    <translation>Talk to Josh at the checkpoint</translation>
   </message>
   <message>
     <key>q20030006_00_804</key>
     <original>依頼者に報告する</original>
-    <translation>Report back to the requester.</translation>
+    <translation>Report back to the requester</translation>
   </message>
 </resource>
