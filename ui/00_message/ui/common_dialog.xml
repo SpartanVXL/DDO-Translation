@@ -1245,6 +1245,7 @@ from your blacklist?</translation>
   <message>
     <key>ana_gamemenu_dontrimwarp</key>
     <original>カメラ制限がかかっているためフォトモードに移行できません</original>
+    <translation>You cannot switch to Photo Mode due to camera restrictions.</translation>
   </message>
   <message>
     <key>ana_charge_course_start</key>
@@ -1603,7 +1604,7 @@ Are you sure?</translation>
   <message>
     <key>ana_quest_order_err_condition</key>
     <original>クエスト受注条件を満たしていません</original>
-    <translation>You do not meet the conditions for this quest.</translation>
+    <translation>You do not meet the entry conditions for this quest.</translation>
   </message>
   <message>
     <key>ana_quest_order_err_max</key>
@@ -2204,6 +2205,7 @@ Are you sure?</translation>
   <message>
     <key>OS_announce_buygs</key>
     <original>黄金石 &lt;VAL&gt; 個を購入しました</original>
+    <translation>Purchased &lt;VAL&gt; Golden Gemstones</translation>
   </message>
   <message>
     <key>OS_annnounce_for_itempost</key>
@@ -2422,10 +2424,12 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   <message>
     <key>ana_mission_order_err_condition</key>
     <original>受注条件を満たしていません</original>
+    <translation>You do not meet the entry conditions.</translation>
   </message>
   <message>
     <key>ana_mission_order_err_condition_ir</key>
     <original>アイテムランクの条件を満たしていません</original>
+    <translation>You do not meet the Item Rank entry condition.</translation>
   </message>
   <message>
     <key>ana_unauthorized_cannotuse</key>

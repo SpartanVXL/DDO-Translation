@@ -111,10 +111,12 @@
   <message>
     <key>ORB_TEXT_SKILL_GET_ANOUNCE_2</key>
     <original>&lt;NAME SKILL&gt;+&lt;VAL&gt;を取得しました</original>
+    <translation>Activated &lt;NAME SKILL&gt; +&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ANOUNCE_1</key>
     <original>&lt;NAME SKILL&gt;を取得しました</original>
+    <translation>Activated &lt;NAME SKILL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ALLCOMP_2</key>
@@ -126,6 +128,7 @@
   <message>
     <key>ORB_TEXT_SKILL_NAME</key>
     <original>&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
+    <translation>&lt;NAME SKILL&gt; +&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_BUTTON_MOVE</key>

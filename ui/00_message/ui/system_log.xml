@@ -188,12 +188,14 @@ has been earned.</translation>
   <message>
     <key>syslog_pawn_rescue_success</key>
     <original>&lt;NAME PAWN&gt;の救出に成功しました。奥に進みポーンを解放しましょう</original>
-    <translation>&lt;NAME PAWN&gt; was successfully rescued. Proceed to the end to finish the mission.</translation>
+    <translation>&lt;NAME PAWN&gt; was successfully rescued.
+Proceed to the end to finish the mission.</translation>
   </message>
   <message>
     <key>syslog_pawn_rescue_resurrection</key>
     <original>&lt;NAME PAWN&gt;が復活して待機状態に戻り、再呼び出し可能になりました</original>
-    <translation>&lt;NAME PAWN&gt; has been rescued and returned to standby state.</translation>
+    <translation>&lt;NAME PAWN&gt; has been rescued
+and returned to standby state.</translation>
   </message>
   <message>
     <key>syslog_quest_accept_solo</key>
@@ -1118,7 +1120,7 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
     <original>ジョブポイントの所持量が最大に近づいています
 ( &lt;VAL&gt; / &lt;VAL JP&gt; )</original>
     <translation>You are almost maxed out on job points 
-( &lt;VAL&gt; / &lt;VAL JP&gt; ).</translation>
+(&lt;VAL&gt;/&lt;VAL JP&gt;).</translation>
   </message>
   <message>
     <key>syslog_jp_possession_max</key>
@@ -1130,7 +1132,7 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
     <original>&lt;NAME PAWN&gt;のジョブポイントの所持量が最大に近づいています
 ( &lt;VAL&gt; / &lt;VAL JP&gt; )</original>
     <translation>&lt;NAME PAWN&gt; is almost maxed out on job points 
-( &lt;VAL&gt; / &lt;VAL JP&gt; ).</translation>
+(&lt;VAL&gt;/&lt;VAL JP&gt;).</translation>
   </message>
   <message>
     <key>syslog_jp_possession_max_pawn</key>
