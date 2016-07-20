@@ -10,22 +10,27 @@
   <message>
     <key>RANKING_MSG_CLAN</key>
     <original>クラン</original>
+    <translation>Clan</translation>
   </message>
   <message>
     <key>RANKING_MSG_POINT</key>
     <original>スコア</original>
+    <translation>Score</translation>
   </message>
   <message>
     <key>RANKING_MSG_RANK</key>
     <original>位</original>
+    <translation>Rank</translation>
   </message>
   <message>
     <key>RANKING_MSG_PERIOD</key>
     <original>開催期間：&lt;DATE&gt; ～ &lt;DATE&gt;</original>
+    <translation>Held: &lt;DATE&gt; ～ &lt;DATE&gt;</translation>
   </message>
   <message>
     <key>RANKING_MSG_UPDATE</key>
     <original>集計日：&lt;DATE&gt;</original>
+    <translation>Scored: &lt;DATE&gt;</translation>
   </message>
   <message>
     <key>RANKING_MSG_DIAROG_NONE</key>
@@ -39,10 +44,12 @@
   <message>
     <key>RANKING_MSG_BUTTON_SHOW_MYSELF</key>
     <original>自分の順位を表示</original>
+    <translation>Your Ranking</translation>
   </message>
   <message>
     <key>RANKING_MSG_BUTTON_BACK</key>
     <original>通常ランキングに戻る</original>
+    <translation>Normal Rankings</translation>
   </message>
   <message>
     <key>RANKING_MSG_NOENTRY</key>
@@ -67,18 +74,22 @@
   <message>
     <key>RANKING_MSG_TITLE2_JP</key>
     <original>ランキング</original>
+    <translation>Ranking</translation>
   </message>
   <message>
     <key>RANKING_MSG_TITLE2_EN</key>
     <original>Ranking</original>
+    <translation>Ranking</translation>
   </message>
   <message>
     <key>RANKING_MSG_VAL</key>
     <original>&lt;VAL&gt;</original>
+    <translation>&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>RANKING_MSG_DATE_PERIOD</key>
     <original>&lt;DATE&gt; ～ &lt;DATE&gt;</original>
+    <translation>&lt;DATE&gt; ～ &lt;DATE&gt;</translation>
   </message>
   <message>
     <key>RANKING_MSG_HOLDING</key>
@@ -87,6 +98,7 @@
   <message>
     <key>RANKING_MSG_END</key>
     <original>終了</original>
+    <translation>Ended</translation>
   </message>
   <message>
     <key>RANKING_MSG_ALL</key>
@@ -95,10 +107,12 @@
   <message>
     <key>RANKING_MSG_CLAN_JP</key>
     <original>クラン</original>
+    <translation>Clan</translation>
   </message>
   <message>
     <key>RANKING_MSG_RANKS</key>
     <original>&lt;VAL&gt;位</original>
+    <translation>Rank &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>RANKING_MSG_STATE_PREPARATION</key>
