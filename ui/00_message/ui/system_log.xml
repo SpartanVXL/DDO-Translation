@@ -1158,6 +1158,8 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
     <key>syslog_break_region_raid_boss</key>
     <original>&lt;VAL&gt;の部位破壊に成功！
 討伐成功時にボーナス追加！</original>
+    <translation>Successfully broke part of &lt;VAL&gt;!
+Additional bonus on clear!</translation>
   </message>
   <message>
     <key>syslog_quest_progress_failed</key>
@@ -1167,6 +1169,7 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   <message>
     <key>syslog_break_region_lose_raid_boss</key>
     <original>&lt;VAL&gt;の部位が壊れた！</original>
+    <translation>Part of &lt;VAL&gt; has broken!</translation>
   </message>
   <message>
     <key>syslog_clan_member_login</key>
