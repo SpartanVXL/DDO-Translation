@@ -27,8 +27,7 @@
   <message>
     <key>syslog_archieve_get</key>
     <original>アチーブメント「&lt;NAME ACHIEVE&gt;」を獲得しました</original>
-    <translation>Achievement "&lt;NAME ACHIEVE&gt;"
-has been earned.</translation>
+    <translation>Earned achievement "&lt;NAME ACHIEVE&gt;".</translation>
   </message>
   <message>
     <key>syslog_error_tell</key>
@@ -1179,6 +1178,7 @@ Additional bonus on clear!</translation>
   <message>
     <key>syslog_clan_member_getachievement</key>
     <original>%sがアチーブメント「%s」を獲得しました</original>
+    <translation>%s earned achievement "%s".</translation>
   </message>
   <message>
     <key>syslog_quiq_mach_purpose</key>
