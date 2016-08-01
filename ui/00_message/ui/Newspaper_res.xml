@@ -305,23 +305,24 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
 　※対象クエストはデイリーで変化します
 　※各クエストの受注画面、ログの報酬欄にて
 　　ボーナス詳細が確認できます</original>
-    <translation>■&lt;COL ffdc78&gt;"Today's Party Bonus"&lt;/COL&gt; details
+    <translation>■ &lt;COL ffdc78&gt;"Today's Party Bonus"&lt;/COL&gt; Details
 
-＜Bonus Condition＞
-　・Complete the target World Quest with other players.
-　　With a full party, clear the quest &lt;VAL&gt; times.
+Bonus Condition:
+　・Complete the target World Quest with other
+　　players. With a full party, clear the
+　　quest &lt;VAL&gt; times.
 　　(Hybrid party with player and pawn is OK)
 
-＜Bonus Content＞
+Bonus Content:
 　・The quest reward (XP/G/R/AP) will be
-  increased.
-　・The bonus may be penalized/disabled if level
-  difference is high/quests are not
-  on the same progress.
+　　increased.
+　・The bonus may be penalized/disabled if
+　　level difference is high/quests are not
+　　on the same progress.
 
 　※Target quest will change daily.
-　※Within the quest log, you can check
-　　the details of the bonuses.</translation>
+　※Within the quest log, you can check the
+　　details of the bonuses.</translation>
   </message>
   <message>
     <key>np_msg_dailybonus_bo</key>
@@ -340,22 +341,24 @@ Rift Crystal Total: &lt;VAL RIM&gt;</translation>
 　※対象クエストはデイリーで変化します
 　※各クエストの受注画面、ログの報酬欄にて
 　　ボーナス詳細が確認できます</original>
-    <translation>■&lt;COL ffdc78&gt;"Today's Party Bonus"&lt;/COL&gt; details
+    <translation>■&lt;COL ffdc78&gt;"Today's Party Bonus"&lt;/COL&gt; Details
 
 ＜Bonus Condition＞
-　・Complete the target World Quest with other players.
-　　With a full party, clear the quest &lt;VAL&gt; times.
+　・Complete the target World Quest with other
+　　players. With a full party, clear the
+　　quest &lt;VAL&gt; times.
 　　(Hybrid party with players and pawns is OK)
 
 ＜Bonus Content＞
-　&lt;COL ffdc78&gt;★Today, 《&lt;/COL&gt;&lt;VAL BO&gt;&lt;COL ffdc78&gt; blood orbs》 will be added!&lt;/COL&gt;
+　&lt;COL ffdc78&gt;★Today, "&lt;/COL&gt;&lt;VAL BO&gt;&lt;COL ffdc78&gt; Blood Orbs" will be added!&lt;/COL&gt;
 　・The quest reward (XP/G/R/AP) will be increased.
-　・The bonus may be penalized/disabled if level difference is high/quests are not
-   on the same progress.
+　・The bonus may be penalized/disabled if level
+　　difference is high/quests are not
+　　on the same progress.
 
 　※Target quest will change daily.
-　※Within the quest log, you can check
-　　the details of the bonuses.</translation>
+　※Within the quest log, you can check the
+　　details of the bonuses.</translation>
   </message>
   <message>
     <key>np_msg_guide_partybonus</key>
