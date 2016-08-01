@@ -7,6 +7,7 @@
   <message>
     <key>QUEST_MSG_LB_PROV</key>
     <original>受注条件</original>
+    <translation>Accept Condition</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_NOTHING</key>
@@ -36,6 +37,7 @@
   <message>
     <key>QUEST_MSG_LB_RIM</key>
     <original>リム</original>
+    <translation>Rift</translation>
   </message>
   <message>
     <key>QUEST_MSG_PRIOD</key>
@@ -50,10 +52,12 @@
   <message>
     <key>QUEST_MSG_MASK</key>
     <original>？？？？？</original>
+    <translation>?????</translation>
   </message>
   <message>
     <key>QUEST_MSG_TITLE01</key>
     <original>Quest Log</original>
+    <translation>Quest Log</translation>
   </message>
   <message>
     <key>QUEST_MSG_TITLE02</key>
@@ -118,6 +122,7 @@
   <message>
     <key>QUEST_MSG_LB_CLEARED</key>
     <original>クリア回数</original>
+    <translation>Times Cleared</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_ADDINFO</key>
@@ -131,10 +136,12 @@
   <message>
     <key>QUEST_MSG_NAME_AREA</key>
     <original>エリア名</original>
+    <translation>Area Name</translation>
   </message>
   <message>
     <key>QUEST_MSG_UN_AP</key>
     <original>AP</original>
+    <translation>AP</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_BONUS</key>
@@ -148,6 +155,7 @@
   <message>
     <key>QUEST_MSG_LB_GOAL</key>
     <original>目的</original>
+    <translation>Goal</translation>
   </message>
   <message>
     <key>QUEST_MSG_OPERATION</key>
@@ -208,6 +216,7 @@
   <message>
     <key>QUEST_MSG_LB_SPBONUS</key>
     <original>Special Bonus</original>
+    <translation>Special Bonus</translation>
   </message>
   <message>
     <key>QUEST_MSG_SUBMENU</key>
@@ -293,17 +302,17 @@
   <message>
     <key>QUEST_MSG_REPLAY_XP_UP</key>
     <original>経験値アップ</original>
-    <translation>Experience Points Up</translation>
+    <translation>Experience Point Up</translation>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_AP_UP</key>
     <original>エリアポイントアップ</original>
-    <translation>Area Points Up</translation>
+    <translation>Area Point Up</translation>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_RIM_UP</key>
     <original>リムアップ</original>
-    <translation>Rift Crystals Up</translation>
+    <translation>Rift Crystal Up</translation>
   </message>
   <message>
     <key>QUEST_MSG_REPLAY_GOLD_UP</key>
@@ -344,22 +353,22 @@
   <message>
     <key>QUEST_MSG_BONUS_REWARD_XP</key>
     <original>経験値報酬が%2.1f倍（%s）</original>
-    <translation>%2.1f experience point multiplier（%s）</translation>
+    <translation>x%2.1f Experience Point reward （%s）</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_AP</key>
     <original>エリアポイント報酬が%2.1f倍（%s）</original>
-    <translation>%2.1f area point multiplier（%s）</translation>
+    <translation>x%2.1f Area Point reward （%s）</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_RIM</key>
     <original>リム報酬が%2.1f倍（%s）</original>
-    <translation>%2.1f rift reward multiplier（%s）</translation>
+    <translation>x%2.1f Rift reward (%s)</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_GOLD</key>
     <original>ゴールド報酬が%2.1f倍（%s）</original>
-    <translation>%2.1f gold reward multiplier（%s）</translation>
+    <translation>x%2.1f Gold reward (%s）</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_RANDOM</key>
@@ -369,7 +378,7 @@
   <message>
     <key>QUEST_MSG_BONUS_CHANCE_NUMBER</key>
     <original>ボーナス発生まで%d回</original>
-    <translation>Bonus available after %d clears</translation>
+    <translation>bonus after %d clears</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_TIME</key>
@@ -378,6 +387,7 @@
   <message>
     <key>QUEST_MSG_OPTION_COURSE</key>
     <original>&lt;OPCS&gt;</original>
+    <translation>&lt;OPCS&gt;</translation>
   </message>
   <message>
     <key>QUEST_MSG_NOTION_WAITING</key>
@@ -410,18 +420,19 @@
   <message>
     <key>QUEST_MSG_PARTYB_ON2</key>
     <original>クリア報酬（アイテム以外）が最大&lt;VAL&gt;倍！</original>
-    <translation>Clear rewards (other than items) increased by &lt;VAL&gt; times!</translation>
+    <translation>Clear rewards (other than items) increased by x&lt;VAL&gt;!</translation>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_OFF2</key>
     <original>クリア報酬（アイテム以外）が最大&lt;VAL&gt;倍！
 ブラッドオーブが&lt;VAL&gt;個獲得！</original>
-    <translation>Clear rewards (other than items) increased by &lt;VAL&gt; times!
+    <translation>Clear rewards (other than items) increased by x&lt;VAL&gt;!
 ブラッドオーブが&lt;VAL&gt;個獲得！</translation>
   </message>
   <message>
     <key>QUEST_MSG_RAIDB_TITLE</key>
     <original>スコア倍率ボーナス</original>
+    <translation>Score Multiplier Bonus</translation>
   </message>
   <message>
     <key>QUEST_MSG_RAIDb_BODY</key>
@@ -444,6 +455,7 @@
   <message>
     <key>QUEST_MSG_NOTHING_0</key>
     <original>---</original>
+    <translation>---</translation>
   </message>
   <message>
     <key>QUEST_MSG_LEADER_CONDITION</key>
@@ -453,7 +465,7 @@
   <message>
     <key>QUEST_MSG_AREA_BONUS</key>
     <original>＜&lt;VAL&gt;＞のボードクエストクリアで最大&lt;VAL&gt;倍！</original>
-    <translation>＜&lt;VAL&gt;＞ board quest reward increased by &lt;VAL&gt;x!</translation>
+    <translation>"&lt;VAL&gt;" Board Quest reward increased by x&lt;VAL&gt;!</translation>
   </message>
   <message>
     <key>QUEST_MSG_LEADER_PROGRESS</key>
@@ -467,6 +479,7 @@
   <message>
     <key>QUEST_MSG_BN_TIMEBONUS</key>
     <original>タイムボーナス</original>
+    <translation>Time Bonus</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_TIMEBONUS</key>
@@ -479,22 +492,28 @@
   <message>
     <key>QUEST_MSG_SELECT_REWARD_ONLY_ONE</key>
     <original>選択報酬</original>
+    <translation>Select Reward</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_DAILY</key>
     <original>１日１回「基本報酬」
 レア素材入手可能！</original>
+    <translation>Once daily "Basic Reward"
+Rare material available!</translation>
   </message>
   <message>
     <key>QUEST_MSG_BN_DAILY</key>
     <original>デイリーボーナス</original>
+    <translation>Daily Bonus</translation>
   </message>
   <message>
     <key>QUEST_MSG_ENEMYINFO</key>
     <original>魔物情報</original>
+    <translation>Enemies</translation>
   </message>
   <message>
     <key>QUEST_MSG_DELIVERYINFO</key>
     <original>クリアに必要な納品情報</original>
+    <translation>Delivery Required</translation>
   </message>
 </resource>
