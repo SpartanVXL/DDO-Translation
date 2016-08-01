@@ -1115,14 +1115,15 @@ Are you sure?</translation>
     <key>ana_mitem_all_get_q</key>
     <original>アイテム付きメール&lt;VAL&gt;件のアイテムを
 すべて受け取りますか？</original>
-    <translation>There are &lt;VAL&gt; mails with items. Receive all of them?</translation>
+    <translation>There are &lt;VAL&gt; mails with items.
+Receive all of them?</translation>
   </message>
   <message>
     <key>ana_mitem_opt_alert</key>
     <original>※&lt;OPCS&gt;のアイテムは
 　個別に受け取ってください</original>
     <translation>※There is a &lt;OPCS&gt; in the mail.
-Please receive it individually.</translation>
+Please receive it separately.</translation>
   </message>
   <message>
     <key>ana_mitem_get_num</key>
@@ -2247,15 +2248,21 @@ The party leader is &lt;NAME TARGET&gt;.</translation>
   <message>
     <key>ana_mitem_get_num_all_opcsitem</key>
     <original>受け取れるアイテムがありませんでした</original>
+    <translation>There were no items to receive.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_course_notget</key>
     <original>※&lt;OPCS&gt;は個別に受け取ってください</original>
+    <translation>※Please receive &lt;OPCS&gt; separately.</translation>
   </message>
   <message>
     <key>ana_mitem_opt_alert_one</key>
     <original>【ご注意】アイテムの中に&lt;OPCS&gt;が含まれています
 ※&lt;OPCS&gt;は受け取ると発動します</original>
+    <translation>[Warning] &lt;OPCS&gt; is attached.
+※&lt;OPCS&gt; will be received
+and activated.
+</translation>
   </message>
   <message>
     <key>ana_mail_delete_all_read_mail_q</key>
