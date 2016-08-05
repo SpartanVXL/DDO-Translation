@@ -7,14 +7,17 @@
   <message>
     <key>hud_disp_level</key>
     <original>LV.</original>
+    <translation>LV.</translation>
   </message>
   <message>
     <key>hud_quest_qo</key>
     <original>Quest Owner</original>
+    <translation>Quest Owner</translation>
   </message>
   <message>
     <key>hud_quest_gm</key>
     <original>Grand Mission</original>
+    <translation>Grand Mission</translation>
   </message>
   <message>
     <key>hud_job_hunter_change_arrow</key>
@@ -29,6 +32,7 @@
   <message>
     <key>hud_job_unequipped</key>
     <original>None</original>
+    <translation>None</translation>
   </message>
   <message>
     <key>hud_status_standby</key>
@@ -48,18 +52,22 @@
   <message>
     <key>hud_quest_qg_time</key>
     <original>Time</original>
+    <translation>Time</translation>
   </message>
   <message>
     <key>hud_quest_qg_point</key>
     <original>Score</original>
+    <translation>Score</translation>
   </message>
   <message>
     <key>hud_quest_qg_pt</key>
     <original>pt</original>
+    <translation>pt</translation>
   </message>
   <message>
     <key>hud_quest_qg_sec</key>
     <original>sec</original>
+    <translation>sec</translation>
   </message>
   <message>
     <key>hud_status_ailment_sec</key>
@@ -74,18 +82,22 @@
   <message>
     <key>hud_get_announce_bo</key>
     <original>&lt;VAL&gt; &lt;UNIT BO&gt;</original>
+    <translation>&lt;VAL&gt; &lt;UNIT BO&gt;</translation>
   </message>
   <message>
     <key>hud_get_announce_g</key>
     <original>&lt;VAL&gt; &lt;UNIT G&gt;</original>
+    <translation>&lt;VAL&gt; &lt;UNIT G&gt;</translation>
   </message>
   <message>
     <key>hud_get_announce_r</key>
     <original>&lt;VAL&gt; &lt;UNIT R&gt;</original>
+    <translation>&lt;VAL&gt; &lt;UNIT R&gt;</translation>
   </message>
   <message>
     <key>hud_get_announce_xp</key>
     <original>&lt;VAL&gt; &lt;UNIT XP&gt;</original>
+    <translation>&lt;VAL&gt; &lt;UNIT XP&gt;</translation>
   </message>
   <message>
     <key>hud_quest_ann_caution_deco</key>
@@ -95,6 +107,7 @@
   <message>
     <key>hud_pawn_ann_lost</key>
     <original>&lt;VAL&gt; がポーン郷にある異界の狭間へ送られました</original>
+    <translation>&lt;VAL&gt; was sent to the Rift within Pawn Cathedral</translation>
   </message>
   <message>
     <key>hud_pawn_ann_rescue_start</key>
@@ -111,10 +124,12 @@
   <message>
     <key>hud_pawn_ann_resurrection</key>
     <original>&lt;VAL&gt; が復活し、待機状態に戻りました</original>
+    <translation>&lt;VAL&gt; rescued and returned to standby</translation>
   </message>
   <message>
     <key>hud_disp_infinity</key>
     <original>∞</original>
+    <translation>∞</translation>
   </message>
   <message>
     <key>hud_get_announce_pawnlvup</key>
@@ -123,6 +138,7 @@
   <message>
     <key>hud_enemy_nodamage</key>
     <original>Invulnerable</original>
+    <translation>Invulnerable</translation>
   </message>
   <message>
     <key>hud_enemy_engage</key>
@@ -132,14 +148,17 @@
   <message>
     <key>hud_gauge_sorcery_bonus</key>
     <original>× &lt;VAL&gt;</original>
+    <translation>× &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>hud_gauge_sorcery_button</key>
     <original>&lt;PADM&gt;&lt;ICON PAD_R3&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_WHL_1&gt;&lt;/KEYM&gt;</original>
+    <translation>&lt;PADM&gt;&lt;ICON PAD_R3&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_WHL_1&gt;&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_quest_em</key>
     <original>Extreme Mission</original>
+    <translation>Extreme Mission</translation>
   </message>
   <message>
     <key>hud_status_disconnect</key>
@@ -169,42 +188,52 @@
   <message>
     <key>hud_recommend_level</key>
     <original>LV.%d</original>
+    <translation>LV.%d</translation>
   </message>
   <message>
     <key>hud_get_announce_bo_ex</key>
     <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT BO&gt;</original>
+    <translation>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT BO&gt;</translation>
   </message>
   <message>
     <key>hud_get_announce_r_ex</key>
     <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT R&gt;</original>
+    <translation>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT R&gt;</translation>
   </message>
   <message>
     <key>hud_get_announce_xp_ex</key>
     <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT XP&gt;</original>
+    <translation>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT XP&gt;</translation>
   </message>
   <message>
     <key>hud_generalpurpose_clear_deco</key>
     <original>Defeated the enemy !</original>
+    <translation>Defeated the enemy!</translation>
   </message>
   <message>
     <key>hud_change_tx_tank</key>
     <original>&lt;PADM&gt;&lt;ICON PAD_L&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE&gt;&lt;/KEYM&gt;</original>
+    <translation>&lt;PADM&gt;&lt;ICON PAD_L&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE&gt;&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_gauge_xp_next</key>
     <original>Next </original>
+    <translation>Next </translation>
   </message>
   <message>
     <key>hud_get_announce_g_ex</key>
     <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT G&gt;</original>
+    <translation>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT G&gt;</translation>
   </message>
   <message>
     <key>hud_get_announce_goldstone</key>
     <original>&lt;VAL&gt; @</original>
+    <translation>&lt;VAL&gt; @</translation>
   </message>
   <message>
     <key>hud_get_announce_silvertickets</key>
     <original>&lt;VAL&gt; _|</original>
+    <translation>&lt;VAL&gt; _|</translation>
   </message>
   <message>
     <key>hud_map_guide_lock</key>
@@ -239,14 +268,17 @@
   <message>
     <key>hud_get_announce_rp</key>
     <original>&lt;VAL&gt; &lt;UNIT RP&gt;</original>
+    <translation>&lt;VAL&gt; &lt;UNIT RP&gt;</translation>
   </message>
   <message>
     <key>hud_get_announce_rp_ex</key>
     <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT RP&gt;</original>
+    <translation>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT RP&gt;</translation>
   </message>
   <message>
     <key>hud_commongauge_button_barrage_square</key>
     <original>&lt;PADM&gt;&lt;ICON PAD_RL&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;&lt;/KEYM&gt;</original>
+    <translation>&lt;PADM&gt;&lt;ICON PAD_RL&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_commontext_sorcery_cs13</key>
@@ -255,21 +287,26 @@
   <message>
     <key>hud_commontext_sorcery_cs14</key>
     <original>アンカーを消滅させる：&lt;PADM&gt;&lt;ICON PAD_RR&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_E&gt;キー&lt;/KEYM&gt;</original>
+    <translation>アンカーを消滅させる：&lt;PADM&gt;&lt;ICON PAD_RR&gt; Button&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_E&gt; Key&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_commongauge_button_barrage_triangle</key>
     <original>&lt;PADM&gt;&lt;ICON PAD_RU&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;&lt;/KEYM&gt;</original>
+    <translation>&lt;PADM&gt;&lt;ICON PAD_RU&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_commontext_all_reliefcancel</key>
     <original>救済を中断する：&lt;PADM&gt;&lt;ICON PAD_RD&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;キー&lt;/KEYM&gt;</original>
+    <translation>Interrupt Help: &lt;PADM&gt;&lt;ICON PAD_RD&gt; Button&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_SPACE&gt; Key&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_commontext_cs_button_square</key>
     <original>&lt;PADM&gt;&lt;ICON PAD_RL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;クリック&lt;/KEYM&gt;</original>
+    <translation>&lt;PADM&gt;&lt;ICON PAD_RL&gt; Button&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt; Click&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_commontext_cs_button_triangle</key>
     <original>&lt;PADM&gt;&lt;ICON PAD_RU&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;クリック&lt;/KEYM&gt;</original>
+    <translation>&lt;PADM&gt;&lt;ICON PAD_RU&gt; Button&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt; Click&lt;/KEYM&gt;</translation>
   </message>
 </resource>
