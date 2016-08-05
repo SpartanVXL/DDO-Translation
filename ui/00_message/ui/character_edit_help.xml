@@ -2,82 +2,102 @@
   <message>
     <key>EDIT_MSG_GUIDE_NAME</key>
     <original>名前を設定します</original>
+    <translation>Set name</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_SEX</key>
     <original>性別を設定します</original>
+    <translation>Set gender</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_PRESET</key>
     <original>プリセットを選択できます</original>
+    <translation>Select a preset</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_RANDOM</key>
     <original>顔や肌色をランダムで設定します</original>
+    <translation>Randomize face and skin color</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_HAIR</key>
     <original>髪のパーツやカラーを設定します</original>
+    <translation>Set hair style and color</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_BONE</key>
     <original>顔の輪郭を設定します</original>
+    <translation>Set facial contours</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_EYE</key>
     <original>目のパーツやカラー、大きさ等を設定します</original>
+    <translation>Set eye shape, color, size, etc</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_EYEBROW</key>
     <original>眉のパーツやカラー、間隔等を設定します</original>
+    <translation>Set brow shape, color, spacing, etc</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_NOSE</key>
     <original>鼻のパーツや位置等を設定します</original>
+    <translation>Set nose shape and position</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_MOUSE</key>
     <original>口のパーツや幅等を設定します</original>
+    <translation>Set mouth shape, width, etc</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_EAR</key>
     <original>耳の大きさや向きを設定します</original>
+    <translation>Set ear size and orientation</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_FASHION</key>
     <original>化粧や傷/その他、しわ等を設定します</original>
+    <translation>Makeup/scars/others, and set wrinkles, etc</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_COLOR</key>
     <original>様々なカラーを設定します</original>
+    <translation>Set a variety of colors</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_BODY</key>
     <original>肌のカラーや体格を設定します</original>
+    <translation>Set skin color and build</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_VOICE</key>
     <original>声を設定します</original>
+    <translation>Set voice</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_PERSONAL</key>
     <original>口調を設定します</original>
+    <translation>Set personality</translation>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_VOICE_FREQUENTLY</key>
     <original>発言頻度を設定します</original>
+    <translation>Set speech rate</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_HISTORY</key>
     <original>ヒストリー</original>
+    <translation>History</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_HISTORY_L</key>
     <original>元に戻る</original>
+    <translation>Undo</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_HISTORY_R</key>
     <original>やり直す</original>
+    <translation>Redo</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_DEFAULT</key>
@@ -92,7 +112,7 @@
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CAMERA_ZOOM</key>
     <original>モデル回転&lt;PADM&gt; / ズーム&lt;/PADM&gt;</original>
-    <translation>Rotate&lt;PADM&gt;  / Zoom&lt;/PADM&gt;</translation>
+    <translation>Rotate&lt;PADM&gt; / Zoom&lt;/PADM&gt;</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CAMERA_ROTA</key>
@@ -102,6 +122,7 @@
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CHANGE_EQUIP</key>
     <original>試着</original>
+    <translation>Outfit</translation>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CHANGE_LOCATION</key>

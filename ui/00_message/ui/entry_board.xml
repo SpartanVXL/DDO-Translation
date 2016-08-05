@@ -398,18 +398,22 @@
   <message>
     <key>entry_board_pop_event_info_ranking</key>
     <original>ランキング順位</original>
+    <translation>Ranking</translation>
   </message>
   <message>
     <key>entry_board_pop_event_info_score_technical</key>
     <original>テクニカルスコア</original>
+    <translation>Technical Score</translation>
   </message>
   <message>
     <key>entry_board_pop_event_info_score_total</key>
     <original>トータルスコア</original>
+    <translation>Total Score</translation>
   </message>
   <message>
     <key>entry_board_pop_event_info_ranking_unit</key>
     <original>位</original>
+    <translation>Rank</translation>
   </message>
   <message>
     <key>entry_board_num_sortie_possible</key>
@@ -422,5 +426,6 @@
   <message>
     <key>entry_board_mission_info_ir_condition</key>
     <original>アイテムランクが&lt;VAL&gt;以上 （現在のIR.&lt;VAL&gt;）</original>
+    <translation>Item Rank &lt;VAL&gt; or more (Current IR. &lt;VAL&gt;)</translation>
   </message>
 </resource>

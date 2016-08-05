@@ -39,7 +39,7 @@
   </named_param>
   <named_param id="120">
     <original type="Prefix">亡都巨人兵</original>
-    <translation type="Prefix">Ruined Giant Soldier </translation>
+    <translation type="Prefix">Ruins Giant Warrior </translation>
   </named_param>
   <named_param id="122">
     <original type="Replace">ゴブリンの尖兵</original>
@@ -219,10 +219,11 @@
   </named_param>
   <named_param id="166">
     <original type="Replace">黒鉄の巨人兵</original>
-    <translation type="Replace">Giant Black Iron Soldier</translation>
+    <translation type="Replace">Black Iron Giant Warrior</translation>
   </named_param>
   <named_param id="167">
     <original type="Replace">錬魔スケルトン</original>
+    <translation type="Replace">Alchemized Skeleton</translation>
   </named_param>
   <named_param id="168">
     <original type="Prefix">氷竜</original>
@@ -232,10 +233,11 @@
   </named_param>
   <named_param id="170">
     <original type="Replace">錬魔ゴブリン</original>
+    <translation type="Replace">Alchemized Goblin</translation>
   </named_param>
   <named_param id="171">
     <original type="Replace">紫銅の巨人兵</original>
-    <translation type="Replace">Giant Copper Soldier</translation>
+    <translation type="Replace">Copper Giant Warrior</translation>
   </named_param>
   <named_param id="172">
     <original type="Prefix">炎練</original>
@@ -245,12 +247,14 @@
   </named_param>
   <named_param id="174">
     <original type="Replace">錬魔ハーピー</original>
+    <translation type="Replace">Alchemized Harpy</translation>
   </named_param>
   <named_param id="175">
     <original type="Replace">錬成強化グリフィン</original>
   </named_param>
   <named_param id="176">
     <original type="Replace">錬魔ハーピー</original>
+    <translation type="Replace">Alchemized Harpy</translation>
   </named_param>
   <named_param id="181">
     <original type="Prefix">時番</original>
@@ -446,6 +450,7 @@
   </named_param>
   <named_param id="240">
     <original type="Replace">双牙の軍竜ベヘモット</original>
+    <translation type="Replace">Bifang Military Dragon Behemoth</translation>
   </named_param>
   <named_param id="241">
     <original type="Prefix">淀みの泥人形</original>
@@ -475,10 +480,11 @@
   </named_param>
   <named_param id="249">
     <original type="Replace">錆鉄の巨人兵</original>
-    <translation type="Replace">Giant Rusted Iron Soldier</translation>
+    <translation type="Replace">Rusted Iron Giant Warrior</translation>
   </named_param>
   <named_param id="250">
     <original type="Replace">錆鉄の錬魔ゴブリン</original>
+    <translation type="Replace">Rusted Alchemized Goblin</translation>
   </named_param>
   <named_param id="251">
     <original type="Replace">メルゴダ巡視兵団</original>
@@ -537,6 +543,7 @@
   </named_param>
   <named_param id="271">
     <original type="Replace">炎熱のジオゴーレム</original>
+    <translation type="Replace">Torrid Geo Golem</translation>
   </named_param>
   <named_param id="272">
     <original type="Prefix">テイムド・</original>
@@ -549,6 +556,7 @@
   </named_param>
   <named_param id="276">
     <original type="Replace">祠の守兵</original>
+    <translation type="Replace">Shrine Guard</translation>
   </named_param>
   <named_param id="277">
     <original type="Replace">合成用ゴブリンアルケミー</original>
@@ -561,6 +569,7 @@
   </named_param>
   <named_param id="280">
     <original type="Replace">ギガン・マキナ・カスタム</original>
+    <translation type="Replace">Giga Machina Custom</translation>
   </named_param>
   <named_param id="282">
     <original type="Replace">クローン・ズール</original>
@@ -766,21 +775,26 @@
   </named_param>
   <named_param id="365">
     <original type="Prefix">封呪の</original>
+    <translation type="Prefix">Runed </translation>
   </named_param>
   <named_param id="366">
     <original type="Prefix">封呪の</original>
+    <translation type="Prefix">Runed </translation>
   </named_param>
   <named_param id="367">
     <original type="Prefix">高輝度</original>
+    <translation type="Prefix">Bright </translation>
   </named_param>
   <named_param id="378">
     <original type="Replace">冥土の黒騎士</original>
   </named_param>
   <named_param id="379">
     <original type="Replace">呪われし番兵</original>
+    <translation type="Replace">Accursed Guard</translation>
   </named_param>
   <named_param id="380">
     <original type="Replace">呪われし女官</original>
+    <translation type="Replace">Accursed Court Lady</translation>
   </named_param>
   <named_param id="381">
     <original type="Replace">不死薬被検者</original>
@@ -882,21 +896,27 @@
   </named_param>
   <named_param id="423">
     <original type="Prefix">第１守備隊 </original>
+    <translation type="Prefix">1st Garrison </translation>
   </named_param>
   <named_param id="424">
     <original type="Prefix">第２守備隊</original>
+    <translation type="Prefix">2nd Garrison </translation>
   </named_param>
   <named_param id="425">
     <original type="Prefix">第３守備隊 </original>
+    <translation type="Prefix">3rd Garrison </translation>
   </named_param>
   <named_param id="426">
     <original type="Prefix">第３守備隊 </original>
+    <translation type="Prefix">3rd Garrison </translation>
   </named_param>
   <named_param id="427">
     <original type="Prefix">第５守備隊 </original>
+    <translation type="Prefix">5th Garrison </translation>
   </named_param>
   <named_param id="428">
     <original type="Prefix">第６守備隊 </original>
+    <translation type="Prefix">6th Garrison </translation>
   </named_param>
   <named_param id="431">
     <original type="Prefix">幻影牙竜</original>
@@ -927,6 +947,7 @@
   </named_param>
   <named_param id="440">
     <original type="Prefix">黄金竜</original>
+    <translation type="Prefix">The Golden Dragon </translation>
   </named_param>
   <named_param id="446">
     <original type="Prefix">強襲の</original>
@@ -1125,6 +1146,7 @@
   </named_param>
   <named_param id="510">
     <original type="Replace">錬魔グリフィンNo.04</original>
+    <translation type="Replace">Alchemized Griffin No.04</translation>
   </named_param>
   <named_param id="511">
     <original type="Replace">煉獄の幽姫</original>
@@ -1176,6 +1198,7 @@
   </named_param>
   <named_param id="528">
     <original type="Replace">大騒音の主</original>
+    <translation type="Replace">Lord of Rock</translation>
   </named_param>
   <named_param id="529">
     <original type="Replace">ケイブレイダー</original>
@@ -1194,6 +1217,7 @@
   </named_param>
   <named_param id="542">
     <original type="Prefix">総大将・鬼神</original>
+    <translation type="Prefix">Demon General </translation>
   </named_param>
   <named_param id="543">
     <original type="Replace">呪われた巨鳥</original>
@@ -1279,6 +1303,7 @@
   </named_param>
   <named_param id="575">
     <original type="Suffix">・ブレイズ</original>
+    <translation type="Prefix">Blaze </translation>
   </named_param>
   <named_param id="576">
     <original type="Prefix">護衛隊 </original>
@@ -1383,6 +1408,7 @@
   </named_param>
   <named_param id="611">
     <original type="Replace">赤熱のギガン・マキナ</original>
+    <translation type="Replace">Red-hot Giga Machina</translation>
   </named_param>
   <named_param id="612">
     <original type="Prefix">石影の</original>
@@ -1460,6 +1486,7 @@
   </named_param>
   <named_param id="637">
     <original type="Replace">ギガンブレイカー</original>
+    <translation type="Replace">Giga Breaker</translation>
   </named_param>
   <named_param id="638">
     <original type="Replace">デモリッションファング</original>
@@ -1635,12 +1662,15 @@
   </named_param>
   <named_param id="708">
     <original type="Replace">対の紅竜</original>
+    <translation type="Replace">Paired Red Dragon</translation>
   </named_param>
   <named_param id="709">
     <original type="Replace">対の蒼竜</original>
+    <translation type="Replace">Paired Blue Dragon</translation>
   </named_param>
   <named_param id="710">
     <original type="Prefix">第２守備隊</original>
+    <translation type="Prefix">2nd Garrison </translation>
   </named_param>
   <named_param id="711">
     <original type="Prefix"></original>
@@ -1662,6 +1692,7 @@
   </named_param>
   <named_param id="717">
     <original type="Prefix">第１守備隊</original>
+    <translation type="Prefix">1st Garrison </translation>
   </named_param>
   <named_param id="718">
     <original type="Prefix"></original>
@@ -1674,6 +1705,7 @@
   </named_param>
   <named_param id="721">
     <original type="Prefix">第１守備隊 </original>
+    <translation type="Prefix">1st Garrison </translation>
   </named_param>
   <named_param id="722">
     <original type="Prefix">練習</original>
@@ -1795,18 +1827,22 @@
   </named_param>
   <named_param id="892">
     <original type="Replace">スパーク・ブルー</original>
+    <translation type="Replace">Spark Blue</translation>
   </named_param>
   <named_param id="893">
     <original type="Replace">子攫いのメリーティア</original>
   </named_param>
   <named_param id="894">
     <original type="Replace">坑道の骸骨騎士</original>
+    <translation type="Replace">Skeleton Knight of the Tunnel</translation>
   </named_param>
   <named_param id="895">
     <original type="Replace">霧に揺らぐ人影</original>
+    <translation type="Replace">Figure Fluctuating in the Mist</translation>
   </named_param>
   <named_param id="896">
     <original type="Prefix">ディスターブ・</original>
+    <translation type="Prefix">Disturbed </translation>
   </named_param>
   <named_param id="897">
     <original type="Replace">木立の石像鬼</original>
@@ -1825,18 +1861,23 @@
   </named_param>
   <named_param id="902">
     <original type="Replace">蝕まれし狂鷲</original>
+    <translation type="Replace">Corrupted and Berserk Eagle</translation>
   </named_param>
   <named_param id="904">
     <original type="Replace">製造番号1056 強襲型ゴリアテ</original>
+    <translation type="Replace">Assault-type Goliath #1056</translation>
   </named_param>
   <named_param id="905">
     <original type="Prefix">ルインズ・</original>
+    <translation type="Prefix">Ruins </translation>
   </named_param>
   <named_param id="907">
     <original type="Prefix">ボルディック・</original>
+    <translation type="Prefix">Voldic </translation>
   </named_param>
   <named_param id="908">
     <original type="Prefix">忘却の</original>
+    <translation type="Prefix">Oblivion </translation>
   </named_param>
   <named_param id="909">
     <original type="Replace">怨姫ヴィルヘルミーナ</original>
@@ -1898,6 +1939,7 @@
   </named_param>
   <named_param id="933">
     <original type="Replace">侵食されし有翼</original>
+    <translation type="Replace">Corroded Wings</translation>
   </named_param>
   <named_param id="957">
     <original type="Prefix">宝魔主</original>
@@ -2192,18 +2234,23 @@
   </named_param>
   <named_param id="1118">
     <original type="Prefix">昌石を秘めた</original>
+    <translation type="Prefix">Hidden 昌石 </translation>
   </named_param>
   <named_param id="1119">
     <original type="Prefix">財宝を秘めた</original>
+    <translation type="Prefix">Hidden Treasures </translation>
   </named_param>
   <named_param id="1120">
     <original type="Prefix">竜力を秘めた</original>
+    <translation type="Prefix">Hidden Dragon Force </translation>
   </named_param>
   <named_param id="1121">
     <original type="Prefix">宝飾を秘めた</original>
+    <translation type="Prefix">Hidden Jewelry </translation>
   </named_param>
   <named_param id="1130">
     <original type="Prefix">宝飾を秘めた</original>
+    <translation type="Prefix">Hidden Jewelry </translation>
   </named_param>
   <named_param id="1132">
     <original type="Prefix">召喚士</original>

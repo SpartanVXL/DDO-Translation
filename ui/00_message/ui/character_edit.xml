@@ -2,10 +2,12 @@
   <message>
     <key>EDIT_MSG_TITLE_PLAYER_EDIT</key>
     <original>Player Edit</original>
+    <translation>Player Edit</translation>
   </message>
   <message>
     <key>EDIT_MSG_TITLE_PAWN_EDIT</key>
     <original>Pawn Edit</original>
+    <translation>Pawn Edit</translation>
   </message>
   <message>
     <key>EDIT_MSG_CATE_NAME</key>
@@ -119,16 +121,16 @@
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation>Please enter the name you want
+    <translation>Please enter the name you want.
 
 
 Notes
  ・' (apostrophe) can be used
  ・Numbers cannot be used
  ・Spaces cannot be used
- ・Initials of the name may only be a single character
- ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</translation>
+ ・Initials of name may only be a single character
+ ・Initials of name will be changed to uppercase
+ ・Rest of name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_ATTENTION</key>
@@ -142,16 +144,16 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation>First/last name
-Please enter both
+    <translation>First/last name.
+Please enter both.
 
 Notes
  ・' (apostrophe) can be used
  ・Numbers cannot be used
  ・Spaces cannot be used
- ・Initials of the name may only be a single character
- ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</translation>
+ ・Initials of name may only be a single character
+ ・Initials of name will be changed to uppercase
+ ・Rest of the will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_OK</key>
@@ -165,16 +167,16 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation>&lt;COL A39A70&gt;Input ＯＫ&lt;/COL&gt;
+    <translation>&lt;COL A39A70&gt;Input OK.&lt;/COL&gt;
 
 
 Notes
  ・' (apostrophe) can be used
  ・Numbers cannot be used
  ・Spaces cannot be used
- ・Initials of the name may only be a single character
- ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</translation>
+ ・Initials of name may only be a single character
+ ・Initials of name will be changed to uppercase
+ ・Rest of name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_ERROR_NUMBER</key>
@@ -188,7 +190,7 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation>&lt;COL AA1414&gt;Too short, or too long&lt;/COL&gt;
+    <translation>&lt;COL AA1414&gt;Too short, or too long.&lt;/COL&gt;
 
 
 Notes
@@ -211,16 +213,16 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation>&lt;COL AA1414&gt;Contains unacceptable characters&lt;/COL&gt;
+    <translation>&lt;COL AA1414&gt;Contains unacceptable characters.&lt;/COL&gt;
 
 
 Notes
  ・' (apostrophe) can be used
  ・Numbers cannot be used
  ・Spaces cannot be used
- ・Initials of the name may only be a single character
- ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</translation>
+ ・Initials of name may only be a single character
+ ・Initials of name will be changed to uppercase
+ ・Rest of name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_ERROR_WORD</key>
@@ -234,16 +236,16 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation>&lt;COL AA1414&gt;Contains unacceptable word&lt;/COL&gt;
+    <translation>&lt;COL AA1414&gt;Contains unacceptable word.&lt;/COL&gt;
 
 
 Notes
  ・' (apostrophe) can be used
  ・Numbers cannot be used
  ・Spaces cannot be used
- ・Initials of the name may only be a single character
- ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</translation>
+ ・Initials of name may only be a single character
+ ・Initials of name will be changed to uppercase
+ ・Rest of name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_NAME_GUIDE_ERROR_USED</key>
@@ -257,16 +259,16 @@ Notes
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます</original>
-    <translation>&lt;COL AA1414&gt;Name already in use&lt;/COL&gt;
+    <translation>&lt;COL AA1414&gt;Name already in use.&lt;/COL&gt;
 
 
 Notes
  ・' (apostrophe) can be used
  ・Numbers cannot be used
  ・Spaces cannot be used
- ・Initials of the name may only be a single character
- ・Initials of the name will be changed to uppercase
- ・Rest of the name will be changed to lowercase</translation>
+ ・Initials of name may only be a single character
+ ・Initials of name will be changed to uppercase
+ ・Rest of name will be changed to lowercase</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_SEX_M</key>
@@ -691,30 +693,37 @@ Notes
   <message>
     <key>EDIT_MSG_SUB_TITLE_NAME</key>
     <original>Name</original>
+    <translation>Name</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_SEX</key>
     <original>Gender</original>
+    <translation>Gender</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_PRISET</key>
     <original>Presets</original>
+    <translation>Presets</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_RANDOM</key>
     <original>Random</original>
+    <translation>Random</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_FACE</key>
     <original>Face</original>
+    <translation>Face</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_HAIR</key>
     <original>Hair</original>
+    <translation>Hair</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_FACE2</key>
     <original>Face Shape</original>
+    <translation>Face Shape</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_EYE</key>
@@ -729,10 +738,12 @@ Notes
   <message>
     <key>EDIT_MSG_SUB_TITLE_NOSE</key>
     <original>Nose</original>
+    <translation>Nose</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_MOUSE</key>
     <original>Mouth</original>
+    <translation>Mouth</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_EAR</key>
@@ -747,6 +758,7 @@ Notes
   <message>
     <key>EDIT_MSG_SUB_TITLE_COLOR</key>
     <original>Color</original>
+    <translation>Color</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_BODY</key>
@@ -756,10 +768,12 @@ Notes
   <message>
     <key>EDIT_MSG_SUB_TITLE_VOICE</key>
     <original>Voice</original>
+    <translation>Voice</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_PERSONAL</key>
     <original>Personality</original>
+    <translation>Personality</translation>
   </message>
   <message>
     <key>EDIT_MSG_SUB_TITLE_VOICE_FREQUENTLY</key>
@@ -769,6 +783,7 @@ Notes
   <message>
     <key>EDIT_MSG_TITLE_BEAUTYSALON</key>
     <original>Beauty Salon</original>
+    <translation>Beauty Salon</translation>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_TYPE</key>
@@ -778,5 +793,6 @@ Notes
   <message>
     <key>EDIT_MSG_EX</key>
     <original>EX</original>
+    <translation>EX</translation>
   </message>
 </resource>
