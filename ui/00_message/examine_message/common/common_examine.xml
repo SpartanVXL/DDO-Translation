@@ -13,19 +13,22 @@
   </message>
   <message>
     <original>引かない</original>
-    <translation>Don't pull</translation>
+    <translation>Don't Pull</translation>
   </message>
   <message>
     <original>扉には鍵がかかっている――</original>
   </message>
   <message>
     <original>鍵を使いますか</original>
+    <translation>Use the key?</translation>
   </message>
   <message>
     <original>使う</original>
+    <translation>Use</translation>
   </message>
   <message>
     <original>使わない</original>
+    <translation>Don't Use</translation>
   </message>
   <message>
     <original>エリアマスターにより封鎖されている――</original>
@@ -34,12 +37,16 @@
   <message>
     <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《&lt;NAME ITEM&gt;》&lt;/COL&gt;が必要だ</original>
+    <translation>It is locked.
+&lt;COL ffdc78&gt;"&lt;NAME ITEM&gt;"&lt;/COL&gt; is needed to open.</translation>
   </message>
   <message>
     <original>こちら側からは開かないようだ</original>
+    <translation>It cannot open from this side.</translation>
   </message>
   <message>
     <original>不思議な力で封印されている</original>
+    <translation>It is sealed with a mysterious force.</translation>
   </message>
   <message>
     <original>何かが引っ掛かって開かない</original>
@@ -111,7 +118,7 @@ with the event?
   </message>
   <message>
     <original>準備開始（パーティー招集）</original>
-    <translation>Prepare (Begin gathering party)</translation>
+    <translation>Prepare (Begin Gathering Party)</translation>
   </message>
   <message>
     <original>キャンセル</original>
@@ -220,6 +227,9 @@ please wait in the circle.</translation>
 メンバー全員が集まらなければ
 この先へは進めません
 メンバーを招集しますか？</original>
+    <translation>The door is closed.
+You can proceed ahead if you gather the party.
+Do you want to begin gathering party?</translation>
   </message>
   <message>
     <original>はい</original>
@@ -233,10 +243,14 @@ please wait in the circle.</translation>
     <original>――扉は閉ざされている――
 リーダーアクションがなければ
 この先へは進めません</original>
+    <translation>The door is closed.
+Cannot proceed ahead without the leader.</translation>
   </message>
   <message>
     <original>扉を開き先へ向かいますか？
 （全メンバーが準備完了しました）</original>
+    <translation>Do you want to go through the door?
+(Party Ready)</translation>
   </message>
   <message>
     <original>はい</original>
@@ -244,11 +258,13 @@ please wait in the circle.</translation>
   </message>
   <message>
     <original>いいえ（パーティー招集中止）</original>
-    <translation>No (Stop gathering party)</translation>
+    <translation>No (Stop Gathering Party)</translation>
   </message>
   <message>
     <original>鍵を使用して扉を開きますか？
 （全メンバーが準備完了しました）</original>
+    <translation>Do you want to open the door using the key?
+(Party Ready)</translation>
   </message>
   <message>
     <original>はい</original>
@@ -261,6 +277,8 @@ please wait in the circle.</translation>
   <message>
     <original>扉は固く閉ざされており
 開きそうにない</original>
+    <translation>The door is firmly shut.
+Unlikely to be opened.</translation>
   </message>
   <message>
     <original>特定のコンテンツ中は
@@ -272,22 +290,32 @@ please wait in the circle.</translation>
   <message>
     <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《未来の装飾鍵》&lt;/COL&gt;が必要だ</original>
+    <translation>It is locked.
+&lt;COL ffdc78&gt;"未来の装飾鍵"&lt;/COL&gt; is needed to open.</translation>
   </message>
   <message>
     <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《竜力の鍵》&lt;/COL&gt;が必要だ</original>
+    <translation>It is locked.
+&lt;COL ffdc78&gt;"Key of Dragon Force"&lt;/COL&gt; is needed to open.</translation>
   </message>
   <message>
     <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《昌石の鍵》&lt;/COL&gt;が必要だ</original>
+    <translation>It is locked.
+&lt;COL ffdc78&gt;"Key of 昌石"&lt;/COL&gt; is needed to open.</translation>
   </message>
   <message>
     <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《財宝の鍵》&lt;/COL&gt;が必要だ</original>
+    <translation>It is locked.
+&lt;COL ffdc78&gt;"Key of Treasures"&lt;/COL&gt; is needed to open.</translation>
   </message>
   <message>
     <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《宝飾の鍵》&lt;/COL&gt;が必要だ</original>
+    <translation>It is locked.
+&lt;COL ffdc78&gt;"Key of Jewelry"&lt;/COL&gt; is needed to open.</translation>
   </message>
   <message>
     <original>白竜杯に参加可能になりました</original>
@@ -296,5 +324,7 @@ please wait in the circle.</translation>
   <message>
     <original>鍵がかかっている――
 解放には&lt;COL ffdc78&gt;《宝飾の鍵》&lt;/COL&gt;が必要だ</original>
+    <translation>It is locked.
+&lt;COL ffdc78&gt;"Key of Jewelry"&lt;/COL&gt; is needed to release.</translation>
   </message>
 </resource>
