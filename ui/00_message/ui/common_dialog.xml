@@ -1306,12 +1306,12 @@ from your blacklist?</translation>
   <message>
     <key>ana_creating_second_pawn</key>
     <original>新しいメインポーンと契約しました。パーティー管理から呼び出せます</original>
-    <translation>You have made a contract with a new main pawn. It can be called through the party management.</translation>
+    <translation>You have made a contract with a new main pawn. It can be called through Party Management.</translation>
   </message>
   <message>
     <key>ana_get_keyitem</key>
     <original>「%s」を入手しました</original>
-    <translation>「%s」 obtained.</translation>
+    <translation>"%s" obtained.</translation>
   </message>
   <message>
     <key>ana_quest_party_join</key>
@@ -1711,7 +1711,7 @@ The effect of "&lt;OPCS&gt;" will allow this.</translation>
   <message>
     <key>ana_q_use_item</key>
     <original>＜&lt;NAME ITEM&gt;＞を使いますか？</original>
-    <translation>Use the "&lt;NAME ITEM&gt;"?</translation>
+    <translation>Use "&lt;NAME ITEM&gt;"?</translation>
   </message>
   <message>
     <key>ana_select_destination</key>
