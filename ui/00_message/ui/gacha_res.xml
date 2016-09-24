@@ -235,6 +235,7 @@
   <message>
     <key>gacha_msg_disable_gp</key>
     <original>黄金石は使用できません</original>
+    <translation>Golden Gemstones can't be used</translation>
   </message>
   <message>
     <key>gacha_msg_disable_ticket</key>
@@ -244,10 +245,12 @@
   <message>
     <key>gacha_msg_diable_gp_to_gacha</key>
     <original>このトレジャーズロットでは黄金石は使用できません</original>
+    <translation>Golden Gemstones cannot be used for this Treasure Lot</translation>
   </message>
   <message>
     <key>gacha_msg_diable_ticket_to_gacha</key>
     <original>このトレジャーズロットではシルバーチケットは使用できません</original>
+    <translation>Silver Tickets cannot be used for this Treasure Lot</translation>
   </message>
   <message>
     <key>gacha_msg_annotation</key>
@@ -257,30 +260,37 @@
   <message>
     <key>gacha_msg_title_box_e</key>
     <original>Box Treasure Lot</original>
+    <translation>Box Treasure Lot</translation>
   </message>
   <message>
     <key>gacha_msg_title_box_j</key>
     <original>ボックストレジャーズロット</original>
+    <translation>Box Treasure Lot</translation>
   </message>
   <message>
     <key>gacha_msg_result</key>
     <original>獲得リザルト</original>
+    <translation>Received Results</translation>
   </message>
   <message>
     <key>gacha_msg_draw_gp</key>
     <original>黄金石でまわす</original>
+    <translation>Use GG</translation>
   </message>
   <message>
     <key>gacha_msg_draw_ticket</key>
     <original>チケットでまわす</original>
+    <translation>Use ST</translation>
   </message>
   <message>
     <key>gacha_msg_draw_free</key>
     <original>無料でまわす</original>
+    <translation>Use Free</translation>
   </message>
   <message>
     <key>gacha_msg_reset</key>
     <original>リセット</original>
+    <translation>Reset</translation>
   </message>
   <message>
     <key>gacha_msg_pray_trial</key>
@@ -289,6 +299,7 @@
   <message>
     <key>gacha_msg_pray_select</key>
     <original>&lt;VAL&gt;プレイ（以下からお選びいただけます）</original>
+    <translation>&lt;VAL&gt; plays (you can choose the following)</translation>
   </message>
   <message>
     <key>gacha_msg_free</key>
@@ -297,6 +308,7 @@
   <message>
     <key>gacha_msg_itemclass_name</key>
     <original>級品アイテム</original>
+    <translation>Grade items</translation>
   </message>
   <message>
     <key>gacha_msg_pray_limit</key>
@@ -305,6 +317,7 @@
   <message>
     <key>gacha_msg_box_state</key>
     <original>ボックス状況</original>
+    <translation>Box Status</translation>
   </message>
   <message>
     <key>gacha_msg_annotation2</key>
@@ -314,14 +327,17 @@
   <message>
     <key>gacha_msg_supplemental</key>
     <original>補足</original>
+    <translation>Extra</translation>
   </message>
   <message>
     <key>gacha_msg_number_of_acquisition_per_times</key>
     <original>1回あたりの獲得数</original>
+    <translation>Per</translation>
   </message>
   <message>
     <key>gacha_msg_remaining</key>
     <original>残り</original>
+    <translation>Remaining</translation>
   </message>
   <message>
     <key>gacha_msg_result_ng</key>
@@ -339,6 +355,7 @@
   <message>
     <key>gacha_msg_dialog_select_playnum</key>
     <original>プレイタイプを選んでください</original>
+    <translation>Please select play type</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_start_conf</key>
