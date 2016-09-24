@@ -41,7 +41,9 @@
   </message>
   <message>
     <key>AREA_RANK_REWARD_105</key>
-    <original>封鎖エリア《レ・カルパス・アーマ》開放</original>
+    <original>封鎖エリア《レ・カルバス・アーマ》開放</original>
+    <!-- NEEDS REVIEW -->
+    <!--封鎖エリア《レ・カルパス・アーマ》開放-->
     <translation>Unblock area "レ・カルパス・アーマ"</translation>
   </message>
   <message>
@@ -53,5 +55,21 @@
     <key>AREA_RANK_REWARD_211</key>
     <original>《ディナン深層林》各地にある未解放のリム転移 解放</original>
     <translation>Release "Deenan Woods" Portcrystals</translation>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_212</key>
+    <original>《大樹の広場》に新たな強敵が出現</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_213</key>
+    <original>封鎖エリア《飛天のテラス》開放	</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_214</key>
+    <original>《飛天のテラス》に新たな強敵が出現</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_330</key>
+    <original>支援品ランクアップ</original>
   </message>
 </resource>

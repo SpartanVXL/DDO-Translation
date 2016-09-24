@@ -739,7 +739,9 @@ from the content?</translation>
   </message>
   <message>
     <key>ana_warp_regist_error</key>
-    <original>拠点の礎の解放に失敗しました</original>
+    <original>礎の解放に失敗しました</original>
+    <!-- NEEDS REVIEW -->
+    <!--拠点の礎の解放に失敗しました-->
     <translation>Failed to register Portcrystal.</translation>
   </message>
   <message>
@@ -765,7 +767,9 @@ Within &lt;VAL PARTY_WARP_SEC&gt; seconds, you can teleport with them.</translat
   </message>
   <message>
     <key>ana_warp_point_release</key>
-    <original>拠点の礎「&lt;NAME SPOT&gt;」を解放しました</original>
+    <original>礎「&lt;NAME SPOT&gt;」を解放しました</original>
+    <!-- NEEDS REVIEW -->
+    <!--拠点の礎「<NAME SPOT>」を解放しました-->
     <translation>Portcrystal for "&lt;NAME SPOT&gt;" has been unlocked.</translation>
   </message>
   <message>
@@ -1225,7 +1229,9 @@ from your blacklist?</translation>
   </message>
   <message>
     <key>ana_gamemenu_atlobby</key>
-    <original>白竜神殿以外では使用できません</original>
+    <original>この場所では使用できません</original>
+    <!-- NEEDS REVIEW -->
+    <!--白竜神殿以外では使用できません-->
     <translation>You cannot use this outside the White Dragon Temple.</translation>
   </message>
   <message>
@@ -2212,8 +2218,8 @@ Are you sure?</translation>
   </message>
   <message>
     <key>OS_annnounce_for_itempost</key>
-    <original>装備・アイテムの受け取りは
-アイテムポストをご確認ください</original>
+    <original>商品の受け取りは
+メールをご確認ください</original>
   </message>
   <message>
     <key>OS_annnounce_for_rimstone</key>
@@ -2477,5 +2483,13 @@ and activated.
     <original>「サポート・報告」を使用するには
 カプコンオンラインゲームズ(COG)のIDでログインする必要があります
 お問い合わせについては公式サイトをご覧ください</original>
+  </message>
+  <message>
+    <key>ana_om_warp_single_seater_used</key>
+    <original>すでに転移の力を失っている</original>
+  </message>
+  <message>
+    <key>ana_item_cannot_use_by_bat_status</key>
+    <original>状態異常中のため使用できません</original>
   </message>
 </resource>

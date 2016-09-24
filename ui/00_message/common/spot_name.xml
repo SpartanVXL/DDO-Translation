@@ -364,7 +364,7 @@
   </message>
   <message>
     <key>SPOT_NAME_523</key>
-    <original>レ・カルパス・サルトー</original>
+    <original>レ・カルバス・サルトー</original>
   </message>
   <message>
     <key>SPOT_NAME_524</key>
@@ -1121,6 +1121,14 @@
     <translation>Maseki Island</translation>
   </message>
   <message>
+    <key>SPOT_NAME_684</key>
+    <original>魔赤島・絶崖</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_685</key>
+    <original>魔赤島・山頂</original>
+  </message>
+  <message>
     <key>SPOT_NAME_686</key>
     <original>覚者の自室</original>
     <translation>Arisen's Room</translation>
@@ -1230,6 +1238,18 @@
     <translation>Dried Well by the Tower</translation>
   </message>
   <message>
+    <key>SPOT_NAME_712</key>
+    <original>陽射す地下洞</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_713</key>
+    <original>橋向かいの坑道</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_714</key>
+    <original>菌糸の襲窟</original>
+  </message>
+  <message>
     <key>SPOT_NAME_715</key>
     <original>刃擦れの細道</original>
   </message>
@@ -1336,6 +1356,10 @@
     <original>再帰の浜辺</original>
   </message>
   <message>
+    <key>SPOT_NAME_816</key>
+    <original>魔赤島・絶崖</original>
+  </message>
+  <message>
     <key>SPOT_NAME_817</key>
     <original>アーク前</original>
   </message>
@@ -1362,8 +1386,16 @@
     <original>霧幻のテラス　深層</original>
   </message>
   <message>
+    <key>SPOT_NAME_823</key>
+    <original>水声の瞑堂</original>
+  </message>
+  <message>
     <key>SPOT_NAME_824</key>
     <original>侵食魔の巣窟　脇道</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_825</key>
+    <original>異界の狭間　深層部</original>
   </message>
   <message>
     <key>SPOT_NAME_826</key>
@@ -1414,12 +1446,100 @@
     <original>侵食魔の巣窟　奥底　深層</original>
   </message>
   <message>
+    <key>SPOT_NAME_839</key>
+    <original>異界の狭間・深層部　左淵</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_840</key>
+    <original>異界の狭間・深層部　右淵</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_841</key>
+    <original>滝鳴洞穴　東</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_842</key>
+    <original>滝鳴洞穴　西</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_843</key>
+    <original>滝鳴洞穴　北</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_844</key>
+    <original>滝鳴洞穴　南</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_845</key>
+    <original>菌糸の襲窟　脇道</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_846</key>
+    <original>菌糸の襲窟　鍾乳通路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_847</key>
+    <original>菌糸の襲窟　中層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_848</key>
+    <original>菌糸の襲窟　深層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_849</key>
+    <original>橋向かいの坑道　広間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_850</key>
+    <original>橋向かいの坑道　鉱石路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_851</key>
+    <original>橋向かいの坑道　鍾乳洞</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_852</key>
+    <original>ガルドノック廃水廊　深部</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_853</key>
+    <original>秘匿の実験場　中層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_854</key>
+    <original>秘匿の実験場　深層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_855</key>
+    <original>飛天のテラス　深層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_856</key>
+    <original>ミスリウ古墳墓　不死の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_857</key>
+    <original>ミスリウ古墳墓　狩猟の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_858</key>
+    <original>幽玄の霊堂　中層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_859</key>
+    <original>幽玄の霊堂　深層</original>
+  </message>
+  <message>
     <key>SPOT_NAME_860</key>
     <original>アーク　裏層　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_861</key>
     <original>侵食魔の巣窟　奥底　危険区域</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_862</key>
+    <original>橋向かいの坑道　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_863</key>
@@ -1434,16 +1554,40 @@
     <original>モルトバ遺跡　危険区域</original>
   </message>
   <message>
+    <key>SPOT_NAME_866</key>
+    <original>ガルドノック廃水廊　危険区域</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_867</key>
+    <original>叫びの竪穴　危険区域</original>
+  </message>
+  <message>
     <key>SPOT_NAME_868</key>
     <original>見捨てられた井戸　危険区域</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_869</key>
+    <original>秘匿の実験場　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_870</key>
     <original>霧幻のテラス　危険区域</original>
   </message>
   <message>
+    <key>SPOT_NAME_871</key>
+    <original>ミスリウ古墳墓　危険区域</original>
+  </message>
+  <message>
     <key>SPOT_NAME_872</key>
-    <original>罪人の修堂　危険区域</original>
+    <original>罪人の修獄　危険区域</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_873</key>
+    <original>幽玄の霊堂　危険区域</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_874</key>
+    <original>飛天のテラス　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_875</key>

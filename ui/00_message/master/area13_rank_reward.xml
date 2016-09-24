@@ -1,7 +1,9 @@
 ﻿<resource>
   <message>
     <key>AREA_RANK_REWARD_246</key>
-    <original>支給品の配給</original>
+    <original>支援品の配給</original>
+    <!-- NEEDS REVIEW -->
+    <!--支給品の配給-->
     <translation>Distribution of support goods</translation>
   </message>
   <message>
@@ -21,7 +23,9 @@
   </message>
   <message>
     <key>AREA_RANK_REWARD_250</key>
-    <original>支給品ランクアップ</original>
+    <original>支援品ランクアップ</original>
+    <!-- NEEDS REVIEW -->
+    <!--支給品ランクアップ-->
     <translation>Support goods rank up</translation>
   </message>
   <message>
@@ -46,7 +50,29 @@
   </message>
   <message>
     <key>AREA_RANK_REWARD_255</key>
-    <original>支給品ランクアップ</original>
+    <original>支援品ランクアップ</original>
+    <!-- NEEDS REVIEW -->
+    <!--支給品ランクアップ-->
     <translation>Support goods rank up</translation>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_256</key>
+    <original>封鎖エリア《橋向かいの坑道》開放</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_257</key>
+    <original>封鎖エリア《滝鳴洞穴》開放</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_258</key>
+    <original>封鎖エリア《菌糸の襲窟》開放</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_259</key>
+    <original>《菌糸の襲窟》に新たな強敵が出現</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_336</key>
+    <original>支援品ランクアップ</original>
   </message>
 </resource>
