@@ -740,23 +740,21 @@ from the content?</translation>
   <message>
     <key>ana_warp_regist_error</key>
     <original>礎の解放に失敗しました</original>
-    <!-- NEEDS REVIEW -->
-    <!--拠点の礎の解放に失敗しました-->
-    <translation>Failed to register Portcrystal.</translation>
+    <translation>Failed to unlock Portcrystal.</translation>
   </message>
   <message>
     <key>ana_warp_regist_error_main_quest</key>
     <original>メインクエストの進行度が不足しているため
 拠点の礎の解放に失敗しました</original>
     <translation>Because of your progress in the main quests, 
-you cannot register this Portcrystal.</translation>
+you cannot unlock this Portcrystal.</translation>
   </message>
   <message>
     <key>ana_warp_regist_error_area_rank</key>
     <original>エリアランクが不足しているため
 拠点の礎の解放に失敗しました</original>
     <translation>Because your area rank is too low, 
-you cannot register this Portcrystal.</translation>
+you cannot unlock this Portcrystal.</translation>
   </message>
   <message>
     <key>ana_pt_warp_begin</key>
@@ -768,8 +766,6 @@ Within &lt;VAL PARTY_WARP_SEC&gt; seconds, you can teleport with them.</translat
   <message>
     <key>ana_warp_point_release</key>
     <original>礎「&lt;NAME SPOT&gt;」を解放しました</original>
-    <!-- NEEDS REVIEW -->
-    <!--拠点の礎「<NAME SPOT>」を解放しました-->
     <translation>Portcrystal for "&lt;NAME SPOT&gt;" has been unlocked.</translation>
   </message>
   <message>
@@ -779,7 +775,7 @@ Within &lt;VAL PARTY_WARP_SEC&gt; seconds, you can teleport with them.</translat
 拠点の礎の解放に失敗しました</original>
     <translation>Because of your progression in the main quest 
 or your area rank, 
-you cannot unlock the Portcrystal.</translation>
+you cannot unlock this Portcrystal.</translation>
   </message>
   <message>
     <key>ana_warp_disable_battle</key>
@@ -1230,9 +1226,7 @@ from your blacklist?</translation>
   <message>
     <key>ana_gamemenu_atlobby</key>
     <original>この場所では使用できません</original>
-    <!-- NEEDS REVIEW -->
-    <!--白竜神殿以外では使用できません-->
-    <translation>You cannot use this outside the White Dragon Temple.</translation>
+    <translation>You cannot use it inside this location.</translation>
   </message>
   <message>
     <key>ana_gamemenu_dontnow</key>
