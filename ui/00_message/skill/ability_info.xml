@@ -778,10 +778,6 @@ Ogre enemies.
     <original>ノーマルスキルによる防御状態で
 ガード不能攻撃を受けた際のダメージが軽減される
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--ガード不能攻撃を防御した際の
-ダメージが軽減される
-<COL ffdc78>LV UP毎にダメージさらに軽減</COL>-->
     <translation>Decreases damage received from overblocking.
 &lt;COL ffdc78&gt;LV UP: Decreases damage further.&lt;/COL&gt;</translation>
   </message>
@@ -1538,9 +1534,6 @@ Sequence.
     <original>ノーマルスキルでの回避行動時に
 移動距離が延長される
 &lt;COL ffdc78&gt;LV UP毎に移動距離がより延長&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--回避行動時の移動距離が延長される
-<COL ffdc78>LV UP毎に移動距離がより延長</COL>-->
     <translation>Increases the distance of evasion actions.
 &lt;COL ffdc78&gt;LV UP: Further increases distance.&lt;/COL&gt;</translation>
   </message>
@@ -1842,11 +1835,7 @@ greatest amount of damage.
     <key>ABILITY_INFO_107</key>
     <original>しがみつき時に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--しがみつき時に与えるダメージ量が
-大きく増加する
-<COL ffdc78>LV UP毎にダメ―ジがより増加</COL>-->
-    <translation>Greatly increases damage dealt while grabbing
+    <translation>Increases damage dealt while grabbing
 onto enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
@@ -2068,11 +2057,6 @@ LV5～6: Increases stagger power.&lt;/COL&gt;</translation>
 ライドヒールオーラの回復量が増加する
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加
 LV5～6で詠唱速度が上昇&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--ヒールオーラ/ヒールオーラエクス/
-ヒールオーラライドの回復量が増加する
-<COL ffdc78>LV UP毎に回復量がより増加
-LV5～6で詠唱速度が上昇</COL>-->
     <translation>Increases the healing done by Heal Aura, Heal
 Aura Ex., and Ride Heal Aura.
 &lt;COL ffdc78&gt;LV UP: Further increases resistance.
@@ -2254,11 +2238,6 @@ LV5～6: Increases status effect rate.&lt;/COL&gt;</translation>
 ライドセイントオーラのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--セイントオーラ/セイントオーラエクス
-セイントオーラライドのダメージ量が増加する
-<COL ffdc78>LV UP毎にダメージがより増加
-LV5～6で吹き飛ばし力が増加</COL>-->
     <translation>Increases the damage of Saint Aura, Saint Aura
 Ex., and Ride Saint Aura.
 &lt;COL ffdc78&gt;LV UP: Further increases damage.
@@ -2369,12 +2348,6 @@ decreases from attacks while guarding.
 攻撃を受けても体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加
 より体勢を崩されにくくなる&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--ダッシュ中、ダッシュジャンプ中の
-物理防御力と魔法防御力増加するとともに
-攻撃を受けても体制を崩されにくくなる
-<COL ffdc78>LV UP毎に物理/魔法防御力がより増加
-より体勢を崩されにくくなる</COL>-->
     <translation>Increases physical and magic defense and makes
 you harder to stagger while dashing/dash jumping.
 &lt;COL ffdc78&gt;LV UP: Further increases defense/stagger resist.&lt;/COL&gt;</translation>
@@ -2401,10 +2374,6 @@ leaving the White Dragon Temple.
     <original>溜め攻撃をジャスト発動した際、スタミナが回復する
 カスタムスキルの場合はスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--溜め攻撃をジャスト発動した際、スタミナが回復する
-カスタムスキルの場合は消費量を軽減。
-<COL ffdc78>LV UP毎に回復量がより増加</COL>-->
     <translation>Recovers stamina when just timing a charge
 attack. Reduces stamina consumption for just
 timed custom skills.
@@ -2786,9 +2755,6 @@ Down.
     <original>自分がパーティーに入れた
 ポーンの最大体力が増加する
 &lt;COL ffdc78&gt;LV UP毎に最大体力がより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--PT内のポーンの最大体力が増加
-<COL ffdc78>LV UP毎に最大体力がより増加</COL>-->
     <translation>Increases maximum health of pawns in your party.
 &lt;COL ffdc78&gt;LV UP: Further increases maximum health.&lt;/COL&gt;</translation>
   </message>
@@ -2797,9 +2763,6 @@ Down.
     <original>自分がパーティーに入れた
 ポーンの最大スタミナが増加する
 &lt;COL ffdc78&gt;LV UP毎に最大スタミナがより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--PT内のポーンの最大スタミナが増加
-<COL ffdc78>LV UP毎に最大スタミナがより増加</COL>-->
     <translation>Increases maximum stamina of pawns in your party.
 &lt;COL ffdc78&gt;LV UP: Further increases maximum stamina.&lt;/COL&gt;</translation>
   </message>
@@ -2808,9 +2771,6 @@ Down.
     <original>自分がパーティーに入れた
 ポーンの筋力が増加する
 &lt;COL ffdc78&gt;LV UP毎に筋力がより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--PT内のポーンの筋力が増加
-<COL ffdc78>LV UP毎に筋力がより増加</COL>-->
     <translation>Increases physical power of pawns in your party.
 &lt;COL ffdc78&gt;LV UP: Further increases physical power.&lt;/COL&gt;</translation>
   </message>
@@ -2819,9 +2779,6 @@ Down.
     <original>自分がパーティーに入れた
 ポーンの魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に魔力がより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--PT内のポーンの魔力が増加
-<COL ffdc78>LV UP毎に魔力がより増加</COL>-->
     <translation>Increases magic power of pawns in your party.
 &lt;COL ffdc78&gt;LV UP: Further increases magic power.&lt;/COL&gt;</translation>
   </message>
@@ -2830,9 +2787,6 @@ Down.
     <original>自分がパーティーに入れた
 ポーンの物理防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理防御力がより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--PT内のポーンの物理防御力が増加
-<COL ffdc78>LV UP毎に物理防御力がより増加</COL>-->
     <translation>Increases physical defense of pawns in your party.
 &lt;COL ffdc78&gt;LV UP: Further increases physical defense.&lt;/COL&gt;</translation>
   </message>
@@ -2841,9 +2795,6 @@ Down.
     <original>自分がパーティーに入れた
 ポーンの魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に魔法防御力がより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--PT内のポーンの魔法防御力が増加
-<COL ffdc78>LV UP毎に魔法防御力がより増加</COL>-->
     <translation>Increases magic defense of pawns in your party.
 &lt;COL ffdc78&gt;LV UP: Further increases magic defense.&lt;/COL&gt;</translation>
   </message>
@@ -2859,9 +2810,6 @@ Down.
     <original>敵を倒した際、自分がパーティーに入れた
 ポーンの治癒上限値が回復する
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加&lt;/COL&gt;</original>
-    <!-- NEEDS REVIEW -->
-    <!--敵を倒した際、PT内のポーンの治癒上限値が回復する
-<COL ffdc78>LV UP毎に回復量がより増加</COL>-->
     <translation>Increases maximum recoverable health of pawns in
 your party when an enemy is slain.
 &lt;COL ffdc78&gt;LV UP: Further increases maximum recoverable health.&lt;/COL&gt;</translation>
