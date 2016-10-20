@@ -31,7 +31,7 @@
   <message>
     <key>option_registration</key>
     <original>マイ拠点に登録</original>
-    <translation>Register as My Base</translation>
+    <translation>Register as My Favorite</translation>
   </message>
   <message>
     <key>title_choice</key>
@@ -55,14 +55,14 @@ selected Portcrystal?</translation>
     <original>この礎をマイ拠点に登録します
 よろしいですか？</original>
     <translation>Are you sure you want to register this
-Portcrystal as your base?</translation>
+Portcrystal as your favorite?</translation>
   </message>
   <message>
     <key>dialog_overwrite_check</key>
     <original>この礎をマイ拠点として上書き登録します
 よろしいですか？</original>
     <translation>Are you sure you want to overwrite this
-Portcrystal as your base?</translation>
+Portcrystal as your favorite?</translation>
   </message>
   <message>
     <key>option_not_registration</key>
@@ -88,7 +88,7 @@ selected Riftstone?</translation>
   <message>
     <key>announce_registration_myposition</key>
     <original>&lt;NAME SPOT&gt;をマイ拠点に登録しました</original>
-    <translation>&lt;NAME SPOT&gt; was registered as a base.</translation>
+    <translation>&lt;NAME SPOT&gt; was registered as a favorite.</translation>
   </message>
   <message>
     <key>announce_cannot_use</key>
@@ -144,17 +144,21 @@ the party leader?</translation>
   <message>
     <key>tab_sub_foundation</key>
     <original>辺境の礎</original>
+    <translation>Sub Portcrystals</translation>
   </message>
   <message>
     <key>tab_favorite_foundation</key>
     <original>マイ拠点</original>
+    <translation>Favorites</translation>
   </message>
   <message>
     <key>tab_all_foundation</key>
     <original>すべての礎</original>
+    <translation>All</translation>
   </message>
   <message>
     <key>tab_main_foundation</key>
     <original>拠点の礎</original>
+    <translation>Portcrystals</translation>
   </message>
 </resource>
