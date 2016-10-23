@@ -7,12 +7,12 @@
   <message>
     <key>ORDER_CONDITION_989</key>
     <original>全ジョブのいずれかがジョブレベル&lt;QCND 0&gt;以上</original>
-    <translation>Level &lt;QCND 0&gt; in any job</translation>
+    <translation>Level &lt;QCND 0&gt; in any vocation</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_994</key>
     <original>ジョブ限定：&lt;QCND 0&gt;のジョブレベル&lt;QCND 1&gt;以上</original>
-    <translation>Job restriction: &lt;QCND 0&gt;, at least level &lt;QCND 1&gt;</translation>
+    <translation>Vocation restriction: &lt;QCND 0&gt;, at least level &lt;QCND 1&gt;</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_995</key>
@@ -57,9 +57,11 @@
   <message>
     <key>ORDER_CONDITION_1004</key>
     <original>白竜神殿レンテンから覚者の戦術試練を学ぶ</original>
+    <translation>Learn about the Arisen's tactics trial from Renton in the White Dragon Temple</translation>
   </message>
   <message>
     <key>ORDER_CONDITION_1005</key>
     <original>イリスからより強い装備の入手法について学ぶ</original>
+    <translation>Learn about obtaining stronger equipment from Iris</translation>
   </message>
 </resource>
