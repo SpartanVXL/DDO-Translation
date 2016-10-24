@@ -126,8 +126,10 @@ Total Sale: &lt;VAL G&gt;</translation>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_FINISH</key>
-    <original>報酬を保管ボックスに受け取りました</original>
-    <translation>Received rewards into your storage box.</translation>
+    <original>報酬を受け取りました
+（アイテムは保管ボックスに送られます）</original>
+    <translation>Received rewards.
+(Items sent to the storage box.)</translation>
   </message>
   <message>
     <key>REWARD_MSG_ANNOUNCE_QCLEAR</key>

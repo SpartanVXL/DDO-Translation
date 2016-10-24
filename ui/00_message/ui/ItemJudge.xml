@@ -42,4 +42,14 @@ Appraised Item: &lt;VAL&gt; × &lt;VAL&gt;
 Cost: &lt;VAL GOLD&gt;
 It seems to be one of the following items.</translation>
   </message>
+  <message>
+    <key>ItemJudge_woman_only</key>
+    <original>[女性専用]</original>
+    <translation>[Female Only]</translation>
+  </message>
+  <message>
+    <key>ItemJudge_man_only</key>
+    <original>[男性専用]</original>
+    <translation>[Male Only]</translation>
+  </message>
 </resource>

@@ -227,10 +227,12 @@
   <message>
     <key>SPOT_NAME_495</key>
     <original>レ・カルバス・アーマ</original>
+    <translation>Le Karvas Arma</translation>
   </message>
   <message>
     <key>SPOT_NAME_496</key>
     <original>戦鬼の影穴</original>
+    <translation>War Demons' Hideout</translation>
   </message>
   <message>
     <key>SPOT_NAME_497</key>
@@ -364,7 +366,8 @@
   </message>
   <message>
     <key>SPOT_NAME_523</key>
-    <original>レ・カルパス・サルトー</original>
+    <original>レ・カルバス・サルトー</original>
+    <translation>Le Karvas Salto</translation>
   </message>
   <message>
     <key>SPOT_NAME_524</key>
@@ -378,10 +381,12 @@
   <message>
     <key>SPOT_NAME_526</key>
     <original>東ザンドラ廃墟群</original>
+    <translation>East Zandora Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_527</key>
     <original>ザンドラ灯台</original>
+    <translation>Zandora Lighthouse</translation>
   </message>
   <message>
     <key>SPOT_NAME_528</key>
@@ -410,6 +415,7 @@
   <message>
     <key>SPOT_NAME_533</key>
     <original>大地の傷跡</original>
+    <translation>Scarred Earth</translation>
   </message>
   <message>
     <key>SPOT_NAME_534</key>
@@ -474,7 +480,7 @@
   <message>
     <key>SPOT_NAME_546</key>
     <original>森民の地下道</original>
-    <translation>Forest People's Underground Passage</translation>
+    <translation>Forest People's Tunnel</translation>
   </message>
   <message>
     <key>SPOT_NAME_547</key>
@@ -549,6 +555,7 @@
   <message>
     <key>SPOT_NAME_561</key>
     <original>聖樹のテラス</original>
+    <translation>Sacred Tree Terrace</translation>
   </message>
   <message>
     <key>SPOT_NAME_562</key>
@@ -573,12 +580,12 @@
   <message>
     <key>SPOT_NAME_566</key>
     <original>キノザ治水路</original>
-    <translation>Kinoza Flood Control</translation>
+    <translation>Kinoza Flood Control Channel</translation>
   </message>
   <message>
     <key>SPOT_NAME_567</key>
     <original>テゴル治水路</original>
-    <translation>Tegor Flood Control</translation>
+    <translation>Tegor Flood Control Channel</translation>
   </message>
   <message>
     <key>SPOT_NAME_568</key>
@@ -628,6 +635,7 @@
   <message>
     <key>SPOT_NAME_577</key>
     <original>隠者の家</original>
+    <translation>Hermit's House</translation>
   </message>
   <message>
     <key>SPOT_NAME_578</key>
@@ -672,7 +680,7 @@
   <message>
     <key>SPOT_NAME_588</key>
     <original>廃墟の食糧庫</original>
-    <translation>Supply Stores Ruins</translation>
+    <translation>Supply Store Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_589</key>
@@ -705,6 +713,7 @@
   <message>
     <key>SPOT_NAME_595</key>
     <original>蒼水路</original>
+    <translation>Blue Waterway</translation>
   </message>
   <message>
     <key>SPOT_NAME_596</key>
@@ -739,6 +748,7 @@
   <message>
     <key>SPOT_NAME_604</key>
     <original>術師の地下泉</original>
+    <translation>Neophyte's Cellar</translation>
   </message>
   <message>
     <key>SPOT_NAME_605</key>
@@ -931,23 +941,27 @@
   <message>
     <key>SPOT_NAME_644</key>
     <original>双輪の谷</original>
+    <translation>Twin Wheel Valley</translation>
   </message>
   <message>
     <key>SPOT_NAME_645</key>
     <original>南メルゴダ遺跡群</original>
-    <translation>South Mergoda Remains Group</translation>
+    <translation>South Mergoda Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_646</key>
     <original>バンデッドホーント</original>
+    <translation>Banded Haunt</translation>
   </message>
   <message>
     <key>SPOT_NAME_647</key>
     <original>オーク残党宿営地</original>
+    <translation>Orc Remnants Camp</translation>
   </message>
   <message>
     <key>SPOT_NAME_648</key>
     <original>黒淵谷</original>
+    <translation>Black Abyss Valley</translation>
   </message>
   <message>
     <key>SPOT_NAME_649</key>
@@ -956,10 +970,12 @@
   <message>
     <key>SPOT_NAME_650</key>
     <original>東ザンドラ廃墟群</original>
+    <translation>East Zandora Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_651</key>
     <original>呪詛の庭</original>
+    <translation>Garden of Curses</translation>
   </message>
   <message>
     <key>SPOT_NAME_652</key>
@@ -1075,6 +1091,7 @@
   <message>
     <key>SPOT_NAME_675</key>
     <original>騎士団補給所跡</original>
+    <translation>Knights' Depot Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_676</key>
@@ -1112,6 +1129,16 @@
     <translation>Maseki Island</translation>
   </message>
   <message>
+    <key>SPOT_NAME_684</key>
+    <original>魔赤島・絶崖</original>
+    <translation>Maseki Island Precipice</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_685</key>
+    <original>魔赤島・山頂</original>
+    <translation>Maseki Island Summit</translation>
+  </message>
+  <message>
     <key>SPOT_NAME_686</key>
     <original>覚者の自室</original>
     <translation>Arisen's Room</translation>
@@ -1124,6 +1151,7 @@
   <message>
     <key>SPOT_NAME_689</key>
     <original>アーク　裏層</original>
+    <translation>The Ark's Lower Level</translation>
   </message>
   <message>
     <key>SPOT_NAME_690</key>
@@ -1133,6 +1161,7 @@
   <message>
     <key>SPOT_NAME_691</key>
     <original>ミスリウ古墳墓</original>
+    <translation>Ancient Burial Mound</translation>
   </message>
   <message>
     <key>SPOT_NAME_692</key>
@@ -1152,34 +1181,42 @@
   <message>
     <key>SPOT_NAME_695</key>
     <original>レオのアジト</original>
+    <translation>Leo's Hideout</translation>
   </message>
   <message>
     <key>SPOT_NAME_696</key>
     <original>ドリード連絡路</original>
+    <translation>Dreed Connecting Passage</translation>
   </message>
   <message>
     <key>SPOT_NAME_697</key>
     <original>飛天のテラス</original>
+    <translation>Heavenly Terrace</translation>
   </message>
   <message>
     <key>SPOT_NAME_698</key>
     <original>見捨てられた井戸</original>
+    <translation>Forsaken Well</translation>
   </message>
   <message>
     <key>SPOT_NAME_700</key>
     <original>叫びの竪穴</original>
+    <translation>Pit of Screams</translation>
   </message>
   <message>
     <key>SPOT_NAME_701</key>
     <original>幽玄の霊堂</original>
+    <translation>Mysterious Mausoleum</translation>
   </message>
   <message>
     <key>SPOT_NAME_702</key>
     <original>秘匿の実験場</original>
+    <translation>Secret Proving Ground</translation>
   </message>
   <message>
     <key>SPOT_NAME_703</key>
     <original>ガルドノック廃水廊</original>
+    <translation>Gardnox Wastewater Tunnel</translation>
   </message>
   <message>
     <key>SPOT_NAME_704</key>
@@ -1194,7 +1231,7 @@
   <message>
     <key>SPOT_NAME_706</key>
     <original>不浄の掃き溜め</original>
-    <translation>Foul Sink</translation>
+    <translation>Cesspool of Filth</translation>
   </message>
   <message>
     <key>SPOT_NAME_707</key>
@@ -1214,11 +1251,26 @@
   <message>
     <key>SPOT_NAME_710</key>
     <original>滝鳴洞穴</original>
+    <translation>Waterfall Echo Cavern</translation>
   </message>
   <message>
     <key>SPOT_NAME_711</key>
     <original>小塔傍の枯れ井戸</original>
     <translation>Dried Well by the Tower</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_712</key>
+    <original>陽射す地下洞</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_713</key>
+    <original>橋向かいの坑道</original>
+    <translation>The Tunnel Across The Bridge</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_714</key>
+    <original>菌糸の襲窟</original>
+    <translation>Fungal Colony Caves</translation>
   </message>
   <message>
     <key>SPOT_NAME_715</key>
@@ -1247,6 +1299,7 @@
   <message>
     <key>SPOT_NAME_726</key>
     <original>薄煙の荒れ地</original>
+    <translation>Wispy Wasteland</translation>
   </message>
   <message>
     <key>SPOT_NAME_728</key>
@@ -1255,6 +1308,7 @@
   <message>
     <key>SPOT_NAME_730</key>
     <original>戦鬼の陣屋</original>
+    <translation>War Demons' Encampment</translation>
   </message>
   <message>
     <key>SPOT_NAME_732</key>
@@ -1327,6 +1381,11 @@
     <original>再帰の浜辺</original>
   </message>
   <message>
+    <key>SPOT_NAME_816</key>
+    <original>魔赤島・絶崖</original>
+    <translation>Maseki Island Precipice</translation>
+  </message>
+  <message>
     <key>SPOT_NAME_817</key>
     <original>アーク前</original>
   </message>
@@ -1353,12 +1412,22 @@
     <original>霧幻のテラス　深層</original>
   </message>
   <message>
+    <key>SPOT_NAME_823</key>
+    <original>水声の瞑堂</original>
+  </message>
+  <message>
     <key>SPOT_NAME_824</key>
     <original>侵食魔の巣窟　脇道</original>
   </message>
   <message>
+    <key>SPOT_NAME_825</key>
+    <original>異界の狭間　深層部</original>
+    <translation>The Rift Depths</translation>
+  </message>
+  <message>
     <key>SPOT_NAME_826</key>
     <original>騎士団補給所跡</original>
+    <translation>Knights' Depot Ruins</translation>
   </message>
   <message>
     <key>SPOT_NAME_828</key>
@@ -1405,12 +1474,103 @@
     <original>侵食魔の巣窟　奥底　深層</original>
   </message>
   <message>
+    <key>SPOT_NAME_839</key>
+    <original>異界の狭間・深層部　左淵</original>
+    <translation>The Rift Depths Left Pool</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_840</key>
+    <original>異界の狭間・深層部　右淵</original>
+    <translation>The Rift Depths Right Pool</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_841</key>
+    <original>滝鳴洞穴　東</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_842</key>
+    <original>滝鳴洞穴　西</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_843</key>
+    <original>滝鳴洞穴　北</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_844</key>
+    <original>滝鳴洞穴　南</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_845</key>
+    <original>菌糸の襲窟　脇道</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_846</key>
+    <original>菌糸の襲窟　鍾乳通路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_847</key>
+    <original>菌糸の襲窟　中層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_848</key>
+    <original>菌糸の襲窟　深層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_849</key>
+    <original>橋向かいの坑道　広間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_850</key>
+    <original>橋向かいの坑道　鉱石路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_851</key>
+    <original>橋向かいの坑道　鍾乳洞</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_852</key>
+    <original>ガルドノック廃水廊　深部</original>
+    <translation>Gardnox Wastewater Tunnel Depths</translation>
+  </message>
+  <message>
+    <key>SPOT_NAME_853</key>
+    <original>秘匿の実験場　中層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_854</key>
+    <original>秘匿の実験場　深層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_855</key>
+    <original>飛天のテラス　深層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_856</key>
+    <original>ミスリウ古墳墓　不死の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_857</key>
+    <original>ミスリウ古墳墓　狩猟の間</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_858</key>
+    <original>幽玄の霊堂　中層</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_859</key>
+    <original>幽玄の霊堂　深層</original>
+  </message>
+  <message>
     <key>SPOT_NAME_860</key>
     <original>アーク　裏層　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_861</key>
     <original>侵食魔の巣窟　奥底　危険区域</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_862</key>
+    <original>橋向かいの坑道　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_863</key>
@@ -1425,16 +1585,40 @@
     <original>モルトバ遺跡　危険区域</original>
   </message>
   <message>
+    <key>SPOT_NAME_866</key>
+    <original>ガルドノック廃水廊　危険区域</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_867</key>
+    <original>叫びの竪穴　危険区域</original>
+  </message>
+  <message>
     <key>SPOT_NAME_868</key>
     <original>見捨てられた井戸　危険区域</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_869</key>
+    <original>秘匿の実験場　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_870</key>
     <original>霧幻のテラス　危険区域</original>
   </message>
   <message>
+    <key>SPOT_NAME_871</key>
+    <original>ミスリウ古墳墓　危険区域</original>
+  </message>
+  <message>
     <key>SPOT_NAME_872</key>
-    <original>罪人の修堂　危険区域</original>
+    <original>罪人の修獄　危険区域</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_873</key>
+    <original>幽玄の霊堂　危険区域</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_874</key>
+    <original>飛天のテラス　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_875</key>

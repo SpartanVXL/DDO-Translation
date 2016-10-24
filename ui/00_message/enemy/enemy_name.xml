@@ -522,7 +522,7 @@
   <message>
     <key>ENEMY_NAME_104</key>
     <original>白竜</original>
-    <translation>White Dragon</translation>
+    <translation>The White Dragon</translation>
   </message>
   <message>
     <key>ENEMY_NAME_105</key>
@@ -900,6 +900,11 @@
     <translation>Bolt Grimwarg</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_189</key>
+    <original>スケルトンブルート</original>
+    <translation>Skeleton Brute</translation>
+  </message>
+  <message>
     <key>ENEMY_NAME_190</key>
     <original>スケルトン・フレイム</original>
     <translation>Flame Skeleton</translation>
@@ -960,6 +965,46 @@
     <translation>Eliminator</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_203</key>
+    <original>コープスパニッシャー・フレイム</original>
+    <translation>Flame Corpse Punisher</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_204</key>
+    <original>コープスパニッシャー・ボルト</original>
+    <translation>Bolt Corpse Punisher</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_205</key>
+    <original>コープスパニッシャー・ルクス</original>
+    <translation>Lux Corpse Punisher</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_206</key>
+    <original>コープスパニッシャー・ダーク</original>
+    <translation>Dark Corpse Punisher</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_207</key>
+    <original>コープストーチャー・フレイム</original>
+    <translation>Flame Corpse Torturer</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_208</key>
+    <original>コープストーチャー・ボルト</original>
+    <translation>Bolt Corpse Torturer</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_209</key>
+    <original>コープストーチャー・ルクス</original>
+    <translation>Lux Corpse Torturer</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_210</key>
+    <original>コープストーチャー・ダーク</original>
+    <translation>Dark Corpse Torturer</translation>
+  </message>
+  <message>
     <key>ENEMY_NAME_211</key>
     <original>ガーゴイル</original>
     <translation>Gargoyle</translation>
@@ -1010,6 +1055,11 @@
     <translation>Infected Gorecyclops</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_242</key>
+    <original>マンティコア</original>
+    <translation>Manticore</translation>
+  </message>
+  <message>
     <key>ENEMY_NAME_246</key>
     <original>侵食グリフィン</original>
     <translation>Infected Griffin</translation>
@@ -1018,6 +1068,11 @@
     <key>ENEMY_NAME_249</key>
     <original>マンイーター</original>
     <translation>Maneater</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_251</key>
+    <original>メドゥーサ</original>
+    <translation>Medusa</translation>
   </message>
   <message>
     <key>ENEMY_NAME_252</key>
@@ -1035,9 +1090,19 @@
     <translation>Infected Behemoth</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_257</key>
+    <original>侵食オークソルジャー</original>
+    <translation>Infected Orc Soldier</translation>
+  </message>
+  <message>
     <key>ENEMY_NAME_259</key>
     <original>フロスト・マキナ</original>
     <translation>Frost Machina</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_271</key>
+    <original>アルタード・ズール</original>
+    <translation>Altered Zuhl</translation>
   </message>
   <message>
     <key>ENEMY_NAME_272</key>
@@ -1048,6 +1113,11 @@
     <key>ENEMY_NAME_274</key>
     <original>黒騎士</original>
     <translation>Black Knight</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_275</key>
+    <original>淀みし大竜力</original>
+    <translation>Phantasmic Great Dragon</translation>
   </message>
   <message>
     <key>ENEMY_NAME_277</key>
@@ -1063,6 +1133,16 @@
     <key>ENEMY_NAME_279</key>
     <original>侵食スリングホブゴブリン</original>
     <translation>Infected Sling Hobgoblin</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_284</key>
+    <original>侵食オークエイマー</original>
+    <translation>Infected Orc Aimer</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_285</key>
+    <original>侵食オークバンガー</original>
+    <translation>Infected Orc Banger</translation>
   </message>
   <message>
     <key>ENEMY_NAME_298</key>

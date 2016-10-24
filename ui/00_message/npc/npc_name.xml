@@ -824,6 +824,7 @@
   <message>
     <key>NPC_NAME_416</key>
     <original>リビアン</original>
+    <translation>Livian</translation>
   </message>
   <message>
     <key>NPC_NAME_417</key>
@@ -961,10 +962,12 @@
   <message>
     <key>NPC_NAME_444</key>
     <original>ケイシー</original>
+    <translation>Casey</translation>
   </message>
   <message>
     <key>NPC_NAME_445</key>
     <original>イザベル</original>
+    <translation>Isabel</translation>
   </message>
   <message>
     <key>NPC_NAME_446</key>
@@ -974,10 +977,12 @@
   <message>
     <key>NPC_NAME_447</key>
     <original>ライオネット</original>
+    <translation>Lyonnet</translation>
   </message>
   <message>
     <key>NPC_NAME_448</key>
     <original>ダイアン</original>
+    <translation>Dion</translation>
   </message>
   <message>
     <key>NPC_NAME_449</key>
@@ -986,10 +991,12 @@
   <message>
     <key>NPC_NAME_450</key>
     <original>リック</original>
+    <translation>Rick</translation>
   </message>
   <message>
     <key>NPC_NAME_451</key>
     <original>ソーニャ</original>
+    <translation>Sonya</translation>
   </message>
   <message>
     <key>NPC_NAME_452</key>
@@ -1009,10 +1016,12 @@
   <message>
     <key>NPC_NAME_455</key>
     <original>サラミス</original>
+    <translation>Salamis</translation>
   </message>
   <message>
     <key>NPC_NAME_456</key>
     <original>マジョリー</original>
+    <translation>Majori</translation>
   </message>
   <message>
     <key>NPC_NAME_457</key>
@@ -1037,6 +1046,7 @@
   <message>
     <key>NPC_NAME_461</key>
     <original>ディッカ</original>
+    <translation>Dikka</translation>
   </message>
   <message>
     <key>NPC_NAME_462</key>
@@ -1136,12 +1146,12 @@
   <message>
     <key>NPC_NAME_481</key>
     <original>ジェネラルオーク</original>
-    <translation>Orc General</translation>
+    <translation>General Orc</translation>
   </message>
   <message>
     <key>NPC_NAME_482</key>
     <original>キャプテンオーク</original>
-    <translation>Orc Captain</translation>
+    <translation>Captain Orc</translation>
   </message>
   <message>
     <key>NPC_NAME_483</key>
@@ -1204,6 +1214,7 @@
   <message>
     <key>NPC_NAME_495</key>
     <original>バイヤール</original>
+    <translation>Bayard</translation>
   </message>
   <message>
     <key>NPC_NAME_496</key>
@@ -1218,7 +1229,7 @@
   <message>
     <key>NPC_NAME_498</key>
     <original>ダイオン</original>
-    <translation>Dion</translation>
+    <translation>Dian</translation>
   </message>
   <message>
     <key>NPC_NAME_499</key>
@@ -1996,15 +2007,18 @@
   </message>
   <message>
     <key>NPC_NAME_697</key>
-    <original>文化Ａ：男1</original>
+    <original>ルキーノ</original>
+    <translation>Luchino</translation>
   </message>
   <message>
     <key>NPC_NAME_698</key>
-    <original>文化Ａ：女3</original>
+    <original>シェリー</original>
+    <translation>Sherry</translation>
   </message>
   <message>
     <key>NPC_NAME_699</key>
-    <original>文化Ａ：女2</original>
+    <original>ナタリア</original>
+    <translation>Natalia</translation>
   </message>
   <message>
     <key>NPC_NAME_700</key>
@@ -2025,7 +2039,8 @@
   </message>
   <message>
     <key>NPC_NAME_704</key>
-    <original>文化Ｂ：男1　きこり系</original>
+    <original>アンジェロ</original>
+    <translation>Angelo</translation>
   </message>
   <message>
     <key>NPC_NAME_705</key>
@@ -2069,7 +2084,8 @@
   </message>
   <message>
     <key>NPC_NAME_715</key>
-    <original>お水系3</original>
+    <original>マリサ</original>
+    <translation>Marisa</translation>
   </message>
   <message>
     <key>NPC_NAME_716</key>
@@ -2169,7 +2185,7 @@
   <message>
     <key>NPC_NAME_741</key>
     <original>エイブラム</original>
-   <translation>Abram</translation>
+    <translation>Abram</translation>
   </message>
   <message>
     <key>NPC_NAME_742</key>
@@ -2336,6 +2352,7 @@
   <message>
     <key>NPC_NAME_790</key>
     <original>神官</original>
+    <translation>Priest</translation>
   </message>
   <message>
     <key>NPC_NAME_791</key>
@@ -2498,6 +2515,17 @@
   <message>
     <key>NPC_NAME_833</key>
     <original>黒騎士</original>
+    <translation>Black Knight</translation>
+  </message>
+  <message>
+    <key>NPC_NAME_834</key>
+    <original>アルタード・ズール</original>
+    <translation>Altered Zuhl</translation>
+  </message>
+  <message>
+    <key>NPC_NAME_835</key>
+    <original>淀みし大竜力</original>
+    <translation>Phantasmic Great Dragon</translation>
   </message>
   <message>
     <key>NPC_NAME_838</key>
@@ -2556,11 +2584,11 @@
   </message>
   <message>
     <key>NPC_NAME_933</key>
-    <original>予備軽装戦士</original>
+    <original>ガラダの護衛戦士A</original>
   </message>
   <message>
     <key>NPC_NAME_934</key>
-    <original>予備戦士女</original>
+    <original>ガラダの護衛戦士B</original>
   </message>
   <message>
     <key>NPC_NAME_935</key>

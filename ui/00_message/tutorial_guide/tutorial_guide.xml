@@ -67,7 +67,7 @@
   <message>
     <key>TUTORIAL_43</key>
     <original>クエスト推奨レベル</original>
-    <translation>Quest Recommended LVL</translation>
+    <translation>Quest Recommended Level</translation>
   </message>
   <message>
     <key>TUTORIAL_46</key>
@@ -97,41 +97,42 @@
   <message>
     <key>TUTORIAL_57</key>
     <original>エレメントアーチャーの戦術的役割</original>
-    <translation>Tactical role of the Elemental Archer</translation>
+    <translation>Tactical Role of the Elemental Archer</translation>
   </message>
   <message>
     <key>TUTORIAL_66</key>
     <original>ファイターの戦術的役割</original>
-    <translation>Tactical role of the Fighter</translation>
+    <translation>Tactical Role of the Fighter</translation>
   </message>
   <message>
     <key>TUTORIAL_67</key>
     <original>プリーストの戦術的役割</original>
-    <translation>Tactical role of the Priest</translation>
+    <translation>Tactical Role of the Priest</translation>
   </message>
   <message>
     <key>TUTORIAL_68</key>
     <original>ハンターの戦術的役割</original>
-    <translation>Tactical rule of the Hunter</translation>
+    <translation>Tactical Role of the Hunter</translation>
   </message>
   <message>
     <key>TUTORIAL_69</key>
     <original>シールドセージの戦術的役割</original>
-    <translation>Tactical role of the Shield Sage</translation>
+    <translation>Tactical Role of the Shield Sage</translation>
   </message>
   <message>
     <key>TUTORIAL_70</key>
     <original>シーカーの戦術的役割</original>
-    <translation>Tactical role of the Seeker</translation>
+    <translation>Tactical Role of the Seeker</translation>
   </message>
   <message>
     <key>TUTORIAL_71</key>
     <original>ウォリアーの戦術的役割</original>
+    <translation>Tactical Role of the Warrior</translation>
   </message>
   <message>
     <key>TUTORIAL_72</key>
     <original>ソーサラーの戦術的役割</original>
-    <translation>Tactical role of the Sorcerer</translation>
+    <translation>Tactical Role of the Sorcerer</translation>
   </message>
   <message>
     <key>TUTORIAL_73</key>
@@ -161,6 +162,7 @@
   <message>
     <key>TUTORIAL_78</key>
     <original>ウォリアーの戦法：基本</original>
+    <translation>Basic Tactics: Warrior</translation>
   </message>
   <message>
     <key>TUTORIAL_79</key>
@@ -194,6 +196,7 @@
   <message>
     <key>TUTORIAL_91</key>
     <original>竜の礎とリム転移</original>
+    <translation>Dragon's Keystone and Rift Teleport</translation>
   </message>
   <message>
     <key>TUTORIAL_92</key>
@@ -228,15 +231,17 @@
   <message>
     <key>TUTORIAL_107</key>
     <original>エクストリームミッション</original>
+    <translation>Extreme Missions</translation>
   </message>
   <message>
     <key>TUTORIAL_109</key>
     <original>覚者のさらなる成長・竜力の継承</original>
+    <translation>Arisen's Further Growth and Dragon Force Augmentation</translation>
   </message>
   <message>
     <key>TUTORIAL_110</key>
     <original>ジョブロール（戦闘時の役割）</original>
-    <translation>Job Role（Role in Combat）</translation>
+    <translation>Job Roles (Role in Combat)</translation>
   </message>
   <message>
     <key>TUTORIAL_114</key>
@@ -334,11 +339,12 @@
   <message>
     <key>TUTORIAL_153</key>
     <original>覚者とは</original>
-    <translation>The Enlightened One</translation>
+    <translation>The Arisen</translation>
   </message>
   <message>
     <key>TUTORIAL_154</key>
     <original>レイドボス戦</original>
+    <translation>Raid Boss Combat</translation>
   </message>
   <message>
     <key>TUTORIAL_155</key>
@@ -368,6 +374,7 @@
   <message>
     <key>TUTORIAL_163</key>
     <original>拠点の礎</original>
+    <translation>Portcrystals</translation>
   </message>
   <message>
     <key>TUTORIAL_164</key>
@@ -377,6 +384,7 @@
   <message>
     <key>TUTORIAL_165</key>
     <original>レスタニアの状況</original>
+    <translation>Situation in Lestania</translation>
   </message>
   <message>
     <key>TUTORIAL_166</key>
@@ -396,10 +404,12 @@
   <message>
     <key>TUTORIAL_169</key>
     <original>アルケミストの戦法：基本</original>
+    <translation>Basic Tactics: Alchemist</translation>
   </message>
   <message>
     <key>TUTORIAL_170</key>
     <original>アルケミストの戦術的役割</original>
+    <translation>Tactical Role of the Alchemist</translation>
   </message>
   <message>
     <key>TUTORIAL_172</key>
@@ -437,6 +447,7 @@
   <message>
     <key>TUTORIAL_180</key>
     <original>しがみつき行動</original>
+    <translation>Clinging</translation>
   </message>
   <message>
     <key>TUTORIAL_181</key>
@@ -481,10 +492,12 @@
   <message>
     <key>TUTORIAL_216</key>
     <original>ウォリアーの戦法：追記</original>
+    <translation>Advanced Tactics: Warrior</translation>
   </message>
   <message>
     <key>TUTORIAL_218</key>
     <original>アルケミストの戦法：追記</original>
+    <translation>Advanced Tactics: Alchemist</translation>
   </message>
   <message>
     <key>TUTORIAL_219</key>
@@ -514,6 +527,7 @@
   <message>
     <key>TUTORIAL_226</key>
     <original>パーティー同行リム転移</original>
+    <translation>Rift Teleport with Party</translation>
   </message>
   <message>
     <key>TUTORIAL_227</key>
@@ -531,7 +545,7 @@
   <message>
     <key>TUTORIAL_231</key>
     <original>ワールドクエストの情報購入</original>
-    <translation>Purchasing the World Quest</translation>
+    <translation>Purchasing World Quest Information</translation>
   </message>
   <message>
     <key>TUTORIAL_232</key>
@@ -650,9 +664,19 @@
     <original>侵食魔について：大型敵 </original>
   </message>
   <message>
+    <key>TUTORIAL_278</key>
+    <original>魔赤島の狂宴</original>
+    <translation>Maseki Island's Feast of Madness</translation>
+  </message>
+  <message>
     <key>TUTORIAL_279</key>
     <original>目覚めし闇の魔物</original>
     <translation>The Demon of Darkness Awakens</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_286</key>
+    <original>淀みし大竜力</original>
+    <translation>Phantasmic Great Dragon</translation>
   </message>
   <message>
     <key>TUTORIAL_288</key>
@@ -663,12 +687,17 @@
     <original>侵食の大災 序説　到達</original>
   </message>
   <message>
+    <key>TUTORIAL_294</key>
+    <original>侵食の大災 第二節　到達</original>
+  </message>
+  <message>
     <key>TUTORIAL_295</key>
     <original>新エリア解放</original>
   </message>
   <message>
     <key>TUTORIAL_297</key>
     <original>平均アイテムランク （IR） とは</original>
+    <translation>Average Item Rank (IR)</translation>
   </message>
   <message>
     <key>TUTORIAL_301</key>
@@ -677,10 +706,12 @@
   <message>
     <key>TUTORIAL_302</key>
     <original>カスタムパレット切り替え</original>
+    <translation>Custom Palette Switching</translation>
   </message>
   <message>
     <key>TUTORIAL_303</key>
     <original>家具について</original>
+    <translation>Furniture</translation>
   </message>
   <message>
     <key>TUTORIAL_304</key>

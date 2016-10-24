@@ -428,4 +428,89 @@
     <original>アイテムランクが&lt;VAL&gt;以上 （現在のIR.&lt;VAL&gt;）</original>
     <translation>Item Rank &lt;VAL&gt; or more (Current IR. &lt;VAL&gt;)</translation>
   </message>
+  <message>
+    <key>entry_board_reqruit_ir</key>
+    <original>IR制限</original>
+    <translation>IR Limit</translation>
+  </message>
+  <message>
+    <key>entry_board_reqruit_ir_normal</key>
+    <original>装備品の平均</original>
+    <translation>Equipment Average</translation>
+  </message>
+  <message>
+    <key>entry_board_reqruit_ir_mainwp</key>
+    <original>メイン武器のみ</original>
+    <translation>Main Weapon Only</translation>
+  </message>
+  <message>
+    <key>entry_board_reqruit_ir_jobrole</key>
+    <original>IR制限の対象ジョブロール</original>
+    <translation>Target Job Roles for IR Limit</translation>
+  </message>
+  <message>
+    <key>entry_board_reqruit_ir_jobrole_attacker</key>
+    <original>アタッカー</original>
+    <translation>Attacker</translation>
+  </message>
+  <message>
+    <key>entry_board_reqruit_ir_jobrole_healer</key>
+    <original>ヒーラー</original>
+    <translation>Healer</translation>
+  </message>
+  <message>
+    <key>entry_board_reqruit_ir_jobrole_tank</key>
+    <original>タンク</original>
+    <translation>Tank</translation>
+  </message>
+  <message>
+    <key>entry_board_info_ir_limit</key>
+    <original>IR制限：</original>
+    <translation>IR Lmt:</translation>
+  </message>
+  <message>
+    <key>entry_board_info_ir_num</key>
+    <original>IR数値：</original>
+    <translation>IR Num:</translation>
+  </message>
+  <message>
+    <key>entry_board_info_ir_jobrole</key>
+    <original>IR対象：</original>
+    <translation>IR Tgt:</translation>
+  </message>
+  <message>
+    <key>entry_board_set_ir_normal</key>
+    <original>あり(装備品の平均)</original>
+    <translation>Yes (Equip Avg)</translation>
+  </message>
+  <message>
+    <key>entry_board_set_ir_mainwp</key>
+    <original>あり(メイン武器のみ)</original>
+    <translation>Yes (Main Weap Only)</translation>
+  </message>
+  <message>
+    <key>entry_board_ir_band</key>
+    <original>min&lt;VAL&gt;～</original>
+    <translation>min&lt;VAL&gt;～</translation>
+  </message>
+  <message>
+    <key>entry_board_search_tab_acquaintance</key>
+    <original>知り合い検索</original>
+    <translation>Acquaintance Search</translation>
+  </message>
+  <message>
+    <key>entry_board_search_tab_status</key>
+    <original>詳細検索</original>
+    <translation>Advanced Search</translation>
+  </message>
+  <message>
+    <key>entry_board_search_serach_ir</key>
+    <original>IRを指定して探す</original>
+    <translation>Search by IR</translation>
+  </message>
+  <message>
+    <key>entry_board_search_designate_ir</key>
+    <original>IRを指定する</original>
+    <translation>Specify IR</translation>
+  </message>
 </resource>
