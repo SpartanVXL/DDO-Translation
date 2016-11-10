@@ -1214,4 +1214,20 @@ Additional bonus on clear!</translation>
     <key>syslog_not_speak_a_while</key>
     <original>しばらく発言できません</original>
   </message>
+  <message>
+    <key>syslog_pp_get</key>
+    <original>&lt;VAL PP&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_pp_get_ex</key>
+    <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT PP&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_pp_lost</key>
+    <original>&lt;VAL PP&gt;を消費しました</original>
+  </message>
+  <message>
+    <key>syslog_change_xp_mode</key>
+    <original>%sの入手ポイントを%sに切り替えました</original>
+  </message>
 </resource>
