@@ -257,7 +257,9 @@
   </message>
   <message>
     <key>poptop_clan_management</key>
-    <original>クラン管理</original>
+    <original>クランステータス</original>
+    <!-- NEEDS REVIEW -->
+    <!--クラン管理-->
     <translation>View Status</translation>
   </message>
   <message>
@@ -341,7 +343,9 @@
   </message>
   <message>
     <key>poptop_clan_member_num</key>
-    <original>&lt;VAL&gt;名</original>
+    <original>メンバー&lt;VAL&gt;名</original>
+    <!-- NEEDS REVIEW -->
+    <!--<VAL>名-->
     <translation>&lt;VAL&gt; members</translation>
   </message>
   <message>
@@ -396,7 +400,9 @@
   </message>
   <message>
     <key>poptop_depositbox_menu_01</key>
-    <original>通常枠</original>
+    <original>引き出す / 預ける</original>
+    <!-- NEEDS REVIEW -->
+    <!--通常枠-->
     <translation>Normal</translation>
   </message>
   <message>
@@ -427,5 +433,21 @@
     <key>poptop_deli_box</key>
     <original>アイテムポスト</original>
     <translation>Item Post</translation>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_4</key>
+    <original>ポーン遠征隊の状況確認</original>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_1</key>
+    <original>拠点拡張</original>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_2</key>
+    <original>ポーン遠征隊支援</original>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_3</key>
+    <original>クラン執務官の変更</original>
   </message>
 </resource>

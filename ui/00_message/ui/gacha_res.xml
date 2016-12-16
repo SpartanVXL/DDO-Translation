@@ -361,9 +361,9 @@
     <key>gacha_msg_dialog_start_conf</key>
     <original>以下の内容でまわします。よろしいですか？
 
-　ロット名　　：&lt;VAL&gt;
-　プレイタイプ：&lt;VAL&gt;
-　支払い方法　：&lt;VAL&gt;</original>
+ロット名　　：&lt;VAL&gt;
+プレイタイプ：&lt;VAL&gt;
+支払い方法　：&lt;VAL&gt;</original>
   </message>
   <message>
     <key>gacha_msg_dialog_start_conf_play_num</key>
@@ -421,5 +421,34 @@
   <message>
     <key>gacha_msg_dialog_reset_success</key>
     <original>ボックスをリセットしました</original>
+  </message>
+  <message>
+    <key>gacha_msg_draw_lot</key>
+    <original>ロットをまわす</original>
+  </message>
+  <message>
+    <key>gacha_msg_sp_price</key>
+    <original>特別価格（あと&lt;VAL&gt;回利用可能）</original>
+  </message>
+  <message>
+    <key>gacha_msg_sp_price_end</key>
+    <original>ご利用ありがとうございました</original>
+  </message>
+  <message>
+    <key>gacha_msg_dialog_select_price</key>
+    <original>支払い方法を選んでください</original>
+  </message>
+  <message>
+    <key>gacha_msg_dialog_error_05</key>
+    <original>回数制限のため、
+選択した支払い方法ではまわせません</original>
+  </message>
+  <message>
+    <key>gacha_msg_annotation_box</key>
+    <original>排出率は均一です</original>
+  </message>
+  <message>
+    <key>gacha_msg_normal_price_limit</key>
+    <original>（あと&lt;VAL&gt;回利用可能）</original>
   </message>
 </resource>

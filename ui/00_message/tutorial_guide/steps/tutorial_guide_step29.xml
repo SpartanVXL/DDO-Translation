@@ -14,26 +14,26 @@
   <message>
     <key>TUTORIAL_STEP_408</key>
     <original>＜登録方法：マルチショートカット＞
-&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニューから、登録したい
+【&lt;KC UI_GAME_MENU&gt;】ゲームメニューから、登録したい
 メニューを選択
 アイテムの場合は《アイテムバッグ》の
 &lt;COL ffdc78&gt;消費アイテム&lt;/COL&gt;を選択
 
-&lt;PADM&gt;　【&lt;ICON PAD_L2&gt;】を押して【 &lt;ICON STG_TOUCH&gt;／&lt;ICON STG_JUMP&gt;／&lt;ICON STG_ATTACK_0&gt;／&lt;ICON STG_ATTACK_1&gt; 】&lt;KEYM&gt;　【&lt;ICON KB_F1&gt; ～ &lt;ICON KB_F12&gt;】任意に割り当て&lt;/KEYM&gt;
+&lt;PADM&gt;　【&lt;KC UI_SC_MULTI&gt;】を押して【 &lt;KC UI_SC_MULTI_RIGHT&gt;／&lt;KC UI_SC_MULTI_DOWN&gt;／&lt;KC UI_SC_MULTI_LEFT&gt;／&lt;KC UI_SC_MULTI_UP&gt; 】&lt;KEYM&gt;　【&lt;KC UI_MSC1&gt; ～ &lt;KC UI_MSC12&gt;】任意に割り当て&lt;/KEYM&gt;
 &lt;PADM&gt;　　　　　　※任意に割り当て
 
-&lt;PADM&gt;　【&lt;ICON PAD_L1&gt;／&lt;ICON PAD_R1&gt;】セット切替（３セットまで可能）&lt;/PADM&gt;</original>
+&lt;PADM&gt;　【&lt;KC UI_SC_MULTI_PAGE_L&gt;／&lt;KC UI_SC_MULTI_PAGE_R&gt;】セット切替（３セットまで可能）&lt;/PADM&gt;</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_409</key>
     <original>＜登録方法：簡易コミュニケーション＞
-&lt;PADM&gt;【&lt;ICON PAD_START&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_ESC&gt;】&lt;/KEYM&gt;ゲームメニューの
+【&lt;KC UI_GAME_MENU&gt;】ゲームメニューの
 《コミュニケーション》の《定型文》《エモート》や
 《キャラクター》の《ポーン命令》で登録項目を選択
 
-&lt;PADM&gt;　【&lt;ICON PAD_R2&gt;】を押して【 &lt;ICON STG_TOUCH&gt;／&lt;ICON STG_JUMP&gt;／&lt;ICON STG_ATTACK_0&gt;／&lt;ICON STG_ATTACK_1&gt; 】&lt;KEYM&gt;　【&lt;ICON KB_F1&gt; ～ &lt;ICON KB_F8&gt;】任意に割り当て&lt;/KEYM&gt;
-&lt;PADM&gt;　　　　　　　　【 &lt;ICON PAD_K_UP&gt;／&lt;ICON PAD_K_DOWN&gt;／&lt;ICON PAD_LEFT&gt;／&lt;ICON PAD_RIGHT&gt; 】
-　　　　　　※任意に割り当て&lt;/PADM&gt;&lt;KEYM&gt;　　　※呼び出し時は【&lt;ICON KB_ALT&gt;】で登録ウィンドウ切替&lt;/KEYM&gt;
-&lt;PADM&gt;　【&lt;ICON PAD_L1&gt;／&lt;ICON PAD_R1&gt;】&lt;KEYM&gt;　【&lt;ICON KB_F9&gt;／&lt;ICON KB_F10&gt;】&lt;/KEYM&gt;セット切替（３セットまで可能）</original>
+&lt;PADM&gt;　【&lt;KC UI_SC_COMMU&gt;】を押して【 &lt;KC UI_SC_COMMU1&gt;／&lt;KC UI_SC_COMMU2&gt;／&lt;KC UI_SC_COMMU3&gt;／&lt;KC UI_SC_COMMU4&gt; 】&lt;KEYM&gt;　【&lt;KC UI_MSC1&gt; ～ &lt;KC UI_MSC8&gt;】任意に割り当て&lt;/KEYM&gt;
+&lt;PADM&gt;　　　　　　　　【 &lt;KC UI_SC_COMMU5&gt;／&lt;KC UI_SC_COMMU6&gt;／&lt;KC UI_SC_COMMU7&gt;／&lt;KC UI_SC_COMMU8&gt; 】
+　　　　　　※任意に割り当て&lt;/PADM&gt;&lt;KEYM&gt;　　　※呼び出し時は【&lt;KC UI_SC_COMMU&gt;】で登録ウィンドウ切替&lt;/KEYM&gt;
+&lt;PADM&gt;　【&lt;KC UI_SC_COMMU_PAGE_L&gt;／&lt;KC UI_SC_COMMU_PAGE_R&gt;】&lt;KEYM&gt;　【&lt;KC UI_MSC9&gt;／&lt;KC UI_MSC10&gt;】&lt;/KEYM&gt;セット切替（３セットまで可能）</original>
   </message>
 </resource>

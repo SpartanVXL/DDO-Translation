@@ -5,8 +5,7 @@
 ヒールオーラやセイントオーラを、
 味方全員へ転送することもできます
 
-&lt;PADM&gt;　【&lt;ICON PAD_L1&gt;ボタン】＋【&lt;ICON STG_TOUCH&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_Q&gt;】フィールドシフト（味方に陣を転送）&lt;/KEYM&gt;
-&lt;PADM&gt;　　　　　　フィールドシフト（味方に陣を転送）</original>
+　【&lt;KC SKILL_NORMAL2&gt;】フィールドシフト（味方に陣を転送）</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_326</key>
@@ -18,7 +17,7 @@
 
 また全ての展開陣を一斉に解除することもできます
 
-&lt;PADM&gt;　【&lt;ICON PAD_L1&gt;ボタン】＋【&lt;ICON PAD_R1&gt;ボタン】＋【&lt;ICON STG_JUMP&gt;ボタン】&lt;KEYM&gt;　【&lt;ICON KB_SHIFT&gt;＋&lt;ICON KB_CTRL&gt;＋&lt;ICON KB_SPACE&gt;】&lt;/KEYM&gt;
+　【&lt;KC WEAPON_SUB&gt;】＋【&lt;KC WEAPON_MAIN&gt;】＋【&lt;KC JUMP&gt;】
 　　　　　　展開している陣の一斉解除</original>
   </message>
 </resource>

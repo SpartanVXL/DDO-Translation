@@ -1,38 +1,38 @@
 ﻿<resource>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_61</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押す&lt;KEYM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;をクリック</original>
+    <original>&lt;KC ATTACK2&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_62</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;をクリック、再クリックで解除</original>
+    <original>&lt;KC ATTACK1&gt;を押す、再度押すと解除</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_63</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;をクリック、再クリックで解除</original>
+    <original>&lt;KC ATTACK1&gt;を押す、再度押すと解除</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_64</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す、再度押すと解除</original>
+    <original>&lt;KC SKILL_NORMAL1&gt;を押す、再度押すと解除</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_65</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す、再度押すと解除&lt;KEYM&gt;&lt;ICON KB_F&gt;を押す、再度押すと解除</original>
+    <original>&lt;KC SKILL_NORMAL1&gt;を押す、再度押すと解除</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_66</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</original>
+    <original>&lt;KC SKILL_NORMAL2&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_68</key>
-    <original>&lt;PADM&gt;空中で&lt;ICON STG_JUMP&gt;を押す&lt;KEYM&gt;空中で&lt;ICON KB_SPACE&gt;を押す</original>
+    <original>空中で&lt;KC JUMP&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_69</key>
-    <original>&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を押す、再度押すと解除&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;をクリック、再クリックで解除</original>
+    <original>しがみつき中に&lt;KC ATTACK1&gt;を押す、再度押すと解除</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_04_146</key>
-    <original>&lt;PADM&gt;しがみつき中に&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON STG_TOUCH&gt;を押す、再度押すと解除&lt;KEYM&gt;しがみつき中に&lt;ICON KB_F&gt;を押す、再度押すと解除</original>
+    <original>しがみつき中に&lt;KC SKILL_NORMAL1&gt;を押す、再度押すと解除</original>
   </message>
 </resource>

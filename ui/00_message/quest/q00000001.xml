@@ -269,28 +269,35 @@ Fell them to the very last!</translation>
 We'll clean the fort in no time!</translation>
   </message>
   <message>
-    <original>敵には&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;／&lt;KEYN RU&gt;&lt;KEYM&gt;左／右クリック&lt;/KEYM&gt;&lt;/COL&gt;で基本攻撃！</original>
-    <translation>Use&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;／&lt;KEYN RU&gt;&lt;KEYM&gt;Left/Right Click&lt;/KEYM&gt;&lt;/COL&gt;to attack enemies！</translation>
+    <original>敵には&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;／&lt;KCT ATTACK2&gt;&lt;/COL&gt;で基本攻撃！</original>
+    <translation>Use&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;／&lt;KCT ATTACK2&gt;&lt;/COL&gt;to attack enemies！</translation>
   </message>
   <message>
-    <original>さらなる攻撃として&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN L1&gt;／&lt;KEYN R1&gt;&lt;KEYM&gt;Shift／Ctrlキー&lt;/KEYM&gt;&lt;/COL&gt;を押しながら&lt;/KEYM&gt;&lt;/COL&gt;</original>
-    <translation>Hold down&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN L1&gt;／&lt;KEYN R1&gt;&lt;KEYM&gt;Shift／Ctrl Key&lt;/KEYM&gt;&lt;/COL&gt;and press&lt;/KEYM&gt;&lt;/COL&gt;</translation>
+    <original>さらに&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT WEAPON_SUB&gt;を押しながら&lt;/PADM&gt;&lt;KEYM&gt;&lt;KCT SKILL_CUSTOM3&gt;&lt;/COL&gt;か&lt;/KEYM&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--さらなる攻撃として<COL ff7575><PADM><KEYN L1>／<KEYN R1><KEYM>Shift／Ctrlキー</KEYM></COL>を押しながら</KEYM></COL>-->
+    <!--Hold down<COL ff7575><PADM><KEYN L1>／<KEYN R1><KEYM>Shift／Ctrl Key</KEYM></COL>and press</KEYM></COL>-->
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;か&lt;KEYN RU&gt;&lt;KEYM&gt;左／右クリック&lt;/KEYM&gt;&lt;/COL&gt;でカスタムスキルだ！</original>
-    <translation>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;or&lt;KEYN RU&gt;&lt;KEYM&gt;Right/Left Click&lt;/KEYM&gt;&lt;/COL&gt;to perform custom skills!</translation>
+    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT ATTACK1&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;KCT SKILL_CUSTOM1&gt;&lt;/KEYM&gt;&lt;/COL&gt;でカスタムスキルだ！</original>
+    <translation>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT ATTACK1&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;KCT SKILL_CUSTOM1&gt;&lt;/KEYM&gt;&lt;/COL&gt;to perform custom skills!</translation>
   </message>
   <message>
-    <original>技は画面右下のガイドで確認！</original>
+    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT WEAPON_MAIN&gt;を押しながら&lt;/PADM&gt;&lt;KEYM&gt;&lt;KCT SKILL_CUSTOM4&gt;&lt;/KEYM&gt;&lt;/COL&gt;でもOKだ！</original>
+  </message>
+  <message>
+    <original>技は画面右下のガイドで確認してくれ！</original>
+    <!-- NEEDS REVIEW -->
+    <!--技は画面右下のガイドで確認！-->
     <translation>Your skills are shown at the bottom right of your screen!</translation>
   </message>
   <message>
-    <original>オークや大型の敵には近づき、&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RR&gt;&lt;KEYM&gt;Eキー&lt;/KEYM&gt;&lt;/COL&gt;でしがみついて攻撃だ！</original>
-    <translation>To grab your enemies, press&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RR&gt;&lt;KEYM&gt;E Key&lt;/KEYM&gt;&lt;/COL&gt;, which can even be used to climb Orcs and other larger foes！</translation>
+    <original>オークや大型の敵には近づき、&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;でしがみついて攻撃だ！</original>
+    <translation>To grab your enemies, press&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;, which can even be used to climb Orcs and other larger foes！</translation>
   </message>
   <message>
-    <original>走る時は&lt;COL ff7575&gt;&lt;PADM&gt;移動方向に&lt;KEYN L_STICK&gt;を倒しながら押し込み&lt;KEYM&gt;同じ移動キー２回押し&lt;/KEYM&gt;&lt;/COL&gt;でダッシュだ！</original>
-    <translation>While running, &lt;COL ff7575&gt;&lt;PADM&gt;press down on the&lt;KEYN L_STICK&gt;while pushing in a direction&lt;KEYM&gt;tap the same directional key
-twice&lt;/KEYM&gt;&lt;/COL&gt;to sprint!</translation>
+    <original>走る時は&lt;COL ff7575&gt;&lt;PADM&gt;移動方向に&lt;KEYN L_STICK&gt;を倒しながら押し込み&lt;KEYM&gt;初期設定の場合、同じ移動キー２回押し&lt;/KEYM&gt;&lt;/COL&gt;でダッシュだ！</original>
+    <translation>While running, &lt;COL ff7575&gt;&lt;PADM&gt;press down on the&lt;KEYN L_STICK&gt;while pushing in a direction&lt;KEYM&gt;with the default setting,
+tap the same directional key twice&lt;/KEYM&gt;&lt;/COL&gt;to sprint!</translation>
   </message>
 </resource>

@@ -885,9 +885,21 @@
     <translation>???</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_292</key>
+    <original>ピクシー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_181</key>
+    <original>ピクシージャバー</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_182</key>
     <original>侵食ホブゴブリン</original>
     <translation>Infected Hobgoblin</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_184</key>
+    <original>ワーグ</original>
   </message>
   <message>
     <key>ENEMY_NAME_185</key>
@@ -898,6 +910,10 @@
     <key>ENEMY_NAME_187</key>
     <original>ボルトグリムワーグ</original>
     <translation>Bolt Grimwarg</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_188</key>
+    <original>狂侵ワーグ</original>
   </message>
   <message>
     <key>ENEMY_NAME_189</key>
@@ -960,6 +976,10 @@
     <translation>Large Newt</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_201</key>
+    <original>フットバイター</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_202</key>
     <original>エリミネーター</original>
     <translation>Eliminator</translation>
@@ -1010,6 +1030,10 @@
     <translation>Gargoyle</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_213</key>
+    <original>スチュパリデス</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_214</key>
     <original>ストリクス</original>
     <translation>Strix</translation>
@@ -1018,6 +1042,14 @@
     <key>ENEMY_NAME_215</key>
     <original>侵食スノーハーピー</original>
     <translation>Infected Snow Harpy</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_216</key>
+    <original>狂侵スチュパリデス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_217</key>
+    <original>ヨロイムシ</original>
   </message>
   <message>
     <key>ENEMY_NAME_219</key>
@@ -1050,14 +1082,66 @@
     <translation>Dim Slime</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_225</key>
+    <original>フィンドファイター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_226</key>
+    <original>フィンドシーカー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_227</key>
+    <original>フィンドハンター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_228</key>
+    <original>フィンドプリースト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_229</key>
+    <original>フィンドガーダー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_230</key>
+    <original>フィンドウォリアー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_231</key>
+    <original>フィンドソーサラー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_232</key>
+    <original>フィンドエレメンター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_235</key>
+    <original>モス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_237</key>
+    <original>マンドラゴラ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_239</key>
+    <original>ゴアサイクロプス</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_240</key>
     <original>侵食ゴアサイクロプス</original>
     <translation>Infected Gorecyclops</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_241</key>
+    <original>狂侵ゴアサイクロプス</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_242</key>
     <original>マンティコア</original>
     <translation>Manticore</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_244</key>
+    <original>ゴアキメラ</original>
   </message>
   <message>
     <key>ENEMY_NAME_246</key>
@@ -1068,6 +1152,10 @@
     <key>ENEMY_NAME_249</key>
     <original>マンイーター</original>
     <translation>Maneater</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_250</key>
+    <original>スパインバック</original>
   </message>
   <message>
     <key>ENEMY_NAME_251</key>
@@ -1090,14 +1178,42 @@
     <translation>Infected Behemoth</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_255</key>
+    <original>狂侵ベヘモット</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_257</key>
     <original>侵食オークソルジャー</original>
     <translation>Infected Orc Soldier</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_258</key>
+    <original>タラスク</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_259</key>
     <original>フロスト・マキナ</original>
     <translation>Frost Machina</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_260</key>
+    <original>グリゴリ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_264</key>
+    <original>ニワトリ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_266</key>
+    <original>ヤギ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_267</key>
+    <original>カエル</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_269</key>
+    <original>ワイルド・ボア</original>
   </message>
   <message>
     <key>ENEMY_NAME_271</key>
@@ -1135,6 +1251,14 @@
     <translation>Infected Sling Hobgoblin</translation>
   </message>
   <message>
+    <key>ENEMY_NAME_281</key>
+    <original>ホワイトグリフィン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_282</key>
+    <original>ビフレスト</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_284</key>
     <original>侵食オークエイマー</original>
     <translation>Infected Orc Aimer</translation>
@@ -1143,6 +1267,34 @@
     <key>ENEMY_NAME_285</key>
     <original>侵食オークバンガー</original>
     <translation>Infected Orc Banger</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_286</key>
+    <original>アドタラスク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_287</key>
+    <original>グリゴリベアード</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_288</key>
+    <original>ピクシービフ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_289</key>
+    <original>ピクシーディン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_290</key>
+    <original>ピクシーポウ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_291</key>
+    <original>狂侵ピクシー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_294</key>
+    <original>ハイピクシービフ</original>
   </message>
   <message>
     <key>ENEMY_NAME_298</key>
@@ -1193,5 +1345,9 @@
     <key>ENEMY_NAME_307</key>
     <original>スカーレットウォリアー</original>
     <translation>Scarlet Warrior</translation>
+  </message>
+  <message>
+    <key>ENEMY_NAME_309</key>
+    <original>リトルスパイン</original>
   </message>
 </resource>

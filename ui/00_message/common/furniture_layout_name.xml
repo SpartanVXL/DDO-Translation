@@ -1,7 +1,9 @@
 ﻿<resource>
   <message>
     <key>FURNITURE_LAYOUT_NAME_1</key>
-    <original>書斎の机/椅子</original>
+    <original>テーブルの種類</original>
+    <!-- NEEDS REVIEW -->
+    <!--書斎の机/椅子-->
     <translation>Desk/Chair Study</translation>
   </message>
   <message>
@@ -10,7 +12,9 @@
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_3</key>
-    <original>窓の前のチェスト/宝箱</original>
+    <original>キャビネットの種類</original>
+    <!-- NEEDS REVIEW -->
+    <!--窓の前のチェスト/宝箱-->
     <translation>Chest/Treasure Box in front of the Window</translation>
   </message>
   <message>
@@ -28,7 +32,9 @@
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_7</key>
-    <original>机/棚</original>
+    <original>テーブルの種類</original>
+    <!-- NEEDS REVIEW -->
+    <!--机/棚-->
     <translation>Desk/Shelf</translation>
   </message>
   <message>
@@ -37,7 +43,9 @@
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_9</key>
-    <original>食事セットA</original>
+    <original>料理</original>
+    <!-- NEEDS REVIEW -->
+    <!--食事セットA-->
     <translation>Meal Set A</translation>
   </message>
   <message>
@@ -59,12 +67,14 @@
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_14</key>
-    <original>ベッド</original>
+    <original>ベッドの種類</original>
+    <!-- NEEDS REVIEW -->
+    <!--ベッド-->
     <translation>Bed</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_15</key>
-    <original>パペット</original>
+    <original>パペットの種類</original>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_16</key>
@@ -72,17 +82,23 @@
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_17</key>
-    <original>ムーディーランプ</original>
+    <original>ランプの種類</original>
+    <!-- NEEDS REVIEW -->
+    <!--ムーディーランプ-->
     <translation>Moody Lamp</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_18</key>
-    <original>テーブルの机/椅子</original>
+    <original>テーブルの種類</original>
+    <!-- NEEDS REVIEW -->
+    <!--テーブルの机/椅子-->
     <translation>Desk/Chair Table</translation>
   </message>
   <message>
     <key>FURNITURE_LAYOUT_NAME_19</key>
-    <original>テーブル</original>
+    <original>料理の種類</original>
+    <!-- NEEDS REVIEW -->
+    <!--テーブル-->
     <translation>Table</translation>
   </message>
   <message>
@@ -109,5 +125,49 @@
     <key>FURNITURE_LAYOUT_NAME_26</key>
     <original>自室の装飾</original>
     <translation>Arisen's Room Decor</translation>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_27</key>
+    <original>オブジェクト</original>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_28</key>
+    <original>オブジェクト</original>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_29</key>
+    <original>覚者の部屋着</original>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_30</key>
+    <original>従者の部屋着</original>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_31</key>
+    <original>従者の湯浴み着</original>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_32</key>
+    <original>従者の寝巻き</original>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_34</key>
+    <original>バルコニー</original>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_35</key>
+    <original>自室の照明</original>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_36</key>
+    <original>テーブルフラワー</original>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_37</key>
+    <original>テーブルフラワー</original>
+  </message>
+  <message>
+    <key>FURNITURE_LAYOUT_NAME_38</key>
+    <original>天気予報</original>
   </message>
 </resource>

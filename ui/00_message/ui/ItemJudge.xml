@@ -43,6 +43,101 @@ Cost: &lt;VAL GOLD&gt;
 It seems to be one of the following items.</translation>
   </message>
   <message>
+    <key>ItemJudge_title</key>
+    <original>Trade</original>
+  </message>
+  <message>
+    <key>ItemJudge_title_sub</key>
+    <original>鑑定交換</original>
+  </message>
+  <message>
+    <key>ItemJudge_cost</key>
+    <original>費用</original>
+  </message>
+  <message>
+    <key>ItemJudge_need_item</key>
+    <original>必要アイテム</original>
+  </message>
+  <message>
+    <key>ItemJudge_need_num</key>
+    <original>必要数</original>
+  </message>
+  <message>
+    <key>ItemJudge_appraise_list</key>
+    <original>鑑定リスト</original>
+  </message>
+  <message>
+    <key>ItemJudge_limit_num</key>
+    <original>回数制限</original>
+  </message>
+  <message>
+    <key>ItemJudge_get_num</key>
+    <original>獲得数</original>
+  </message>
+  <message>
+    <key>ItemJudge_lot_item</key>
+    <original>以下のアイテムが抽選されます</original>
+  </message>
+  <message>
+    <key>ItemJudge_lot_crest</key>
+    <original>以下のクレストが抽選されます</original>
+  </message>
+  <message>
+    <key>ItemJudge_select_storage_notice</key>
+    <original>保存先を選択してください</original>
+  </message>
+  <message>
+    <key>ItemJudge_period</key>
+    <original>期限</original>
+  </message>
+  <message>
+    <key>ItemJudge_infinit</key>
+    <original>無期限</original>
+  </message>
+  <message>
+    <key>ItemJudge_need_list</key>
+    <original>費用/必要アイテム一覧</original>
+  </message>
+  <message>
+    <key>ItemJudge_trade_list</key>
+    <original>交換アイテム一覧</original>
+  </message>
+  <message>
+    <key>ItemJudge_appraise_confirm</key>
+    <original>以下を鑑定します。よろしいですか？
+鑑定名：&lt;VAL&gt;
+保存先：&lt;VAL&gt;</original>
+  </message>
+  <message>
+    <key>ItemJudge_appraise_notice</key>
+    <original>以下のアイテムを獲得しました</original>
+  </message>
+  <message>
+    <key>ItemJudge_limit_num_error</key>
+    <original>回数制限があります。これ以上は交換できません</original>
+  </message>
+  <message>
+    <key>ItemJudge_shortage_error</key>
+    <original>費用または必要アイテムが足りません</original>
+  </message>
+  <message>
+    <key>ItemJudge_storage_error</key>
+    <original>アイテムが受け取れない可能性があります
+アイテム枠を十分に空けてください</original>
+  </message>
+  <message>
+    <key>ItemJudge_nothing_error</key>
+    <original>現在、配信されていません</original>
+  </message>
+  <message>
+    <key>ItemJudge_and_more</key>
+    <original>and more...</original>
+  </message>
+  <message>
+    <key>ItemJudge_category</key>
+    <original>Category</original>
+  </message>
+  <message>
     <key>ItemJudge_woman_only</key>
     <original>[女性専用]</original>
     <translation>[Female Only]</translation>

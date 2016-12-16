@@ -5,10 +5,10 @@
 スタミナを消費して専用アクションである
 &lt;COL ffdc78&gt;《カスタムスキル》&lt;/COL&gt;が使用できます
 
-&lt;PADM&gt;　【&lt;ICON PAD_L1&gt;ボタン】を押しながら【&lt;ICON STG_ATTACK_0&gt;／&lt;ICON STG_ATTACK_1&gt;ボタン】
-　【&lt;ICON PAD_R1&gt;ボタン】を押しながら【&lt;ICON STG_ATTACK_0&gt;／&lt;ICON STG_ATTACK_1&gt;ボタン】
-&lt;KEYM&gt;　【&lt;ICON KB_SHIFT&gt;】を押しながら【&lt;ICON MOUSE_CL_L&gt;／&lt;ICON MOUSE_CL_R&gt;クリック】
-　【&lt;ICON KB_CTRL&gt;】を押しながら【&lt;ICON MOUSE_CL_L&gt;／&lt;ICON MOUSE_CL_R&gt;クリック】
+&lt;PADM&gt;　【&lt;KC WEAPON_SUB&gt;】を押しながら【&lt;KC ATTACK1&gt;／&lt;KC ATTACK2&gt;】
+　【&lt;KC WEAPON_MAIN&gt;】を押しながら【&lt;KC ATTACK1&gt;／&lt;KC ATTACK2&gt;】
+&lt;KEYM&gt;　【&lt;KC SKILL_CUSTOM3&gt;】 【&lt;KC SKILL_CUSTOM4&gt;】
+　【&lt;KC SKILL_CUSTOM1&gt;】 【&lt;KC SKILL_CUSTOM2&gt;】
 &lt;/KEYM&gt;
 どういった技が出せるかは
 画面右下のガイドで確認しましょう</original>

@@ -1,0 +1,26 @@
+﻿<resource>
+  <message>
+    <key>weather_forecast_title</key>
+    <original>&lt;COL ffdc78&gt;≪今後６時間ごとの天気≫&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>weather_fine</key>
+    <original>　&lt;COL fff300&gt;＜晴れ＞&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>weather_cloudy</key>
+    <original>　&lt;COL acdfcf&gt;＜曇り＞&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>weather_rainy</key>
+    <original>　&lt;COL 8ff4ff&gt;＜雨＞&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>game_time_format</key>
+    <original>　レスタニア（ＧＴ）　%02d:%02d</original>
+  </message>
+  <message>
+    <key>local_time_format</key>
+    <original>　ローカル　（ＬＴ）　%02d:%02d</original>
+  </message>
+</resource>

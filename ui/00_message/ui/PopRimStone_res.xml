@@ -11,7 +11,9 @@
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_LV</key>
-    <original>レベル</original>
+    <original>ジョブレベル指定</original>
+    <!-- NEEDS REVIEW -->
+    <!--レベル-->
     <translation>Level</translation>
   </message>
   <message>
@@ -105,12 +107,16 @@
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_MALE</key>
-    <original>男</original>
+    <original>男性</original>
+    <!-- NEEDS REVIEW -->
+    <!--男-->
     <translation>Male</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_FEMALE</key>
-    <original>女</original>
+    <original>女性</original>
+    <!-- NEEDS REVIEW -->
+    <!--女-->
     <translation>Female</translation>
   </message>
   <message>
@@ -120,5 +126,9 @@
   <message>
     <key>RIM_POP_MSG_SEARCH_CRAFTSKILL</key>
     <original>クラフトスキルで探す</original>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_CHARACTER_M_IR</key>
+    <original>アイテムランク指定</original>
   </message>
 </resource>

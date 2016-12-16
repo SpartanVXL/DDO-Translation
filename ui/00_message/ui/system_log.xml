@@ -796,7 +796,9 @@ Report to the Job Master.</translation>
   </message>
   <message>
     <key>syslog_mission_result_guid</key>
-    <original>リザルト確認後、&lt;NAME SPOT&gt;に帰還します</original>
+    <original>リザルト確認後、担当NPC前に帰還します</original>
+    <!-- NEEDS REVIEW -->
+    <!--リザルト確認後、<NAME SPOT>に帰還します-->
     <translation>After confirming the results, you will be
 returned to &lt;NAME SPOT&gt;.</translation>
   </message>
@@ -1084,7 +1086,9 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_stone</key>
-    <original>黄金石&lt;VAL&gt;個を消費して、ロットを1回行いました</original>
+    <original>黄金石&lt;VAL&gt;個を消費して、ロットを1回まわしました</original>
+    <!-- NEEDS REVIEW -->
+    <!--黄金石<VAL>個を消費して、ロットを1回行いました-->
     <translation>&lt;VAL&gt; golden gemstones will be consumed to lot 1 time.</translation>
   </message>
   <message>
@@ -1211,6 +1215,11 @@ Additional bonus on clear!</translation>
     <original>クエストが進行不能のため、コンテンツ中断をおこなってください</original>
   </message>
   <message>
+    <key>syslog_quest_root_reward</key>
+    <original>条件が満たされたため、＜&lt;NAME QUEST&gt;＞の
+クリア報酬が変化します</original>
+  </message>
+  <message>
     <key>syslog_not_speak_a_while</key>
     <original>しばらく発言できません</original>
   </message>
@@ -1230,8 +1239,58 @@ Additional bonus on clear!</translation>
     <translation>&lt;VAL PP&gt; spent.</translation>
   </message>
   <message>
+    <key>syslog_clan_base_released</key>
+    <original>&lt;STG 210&gt;を解放しました</original>
+  </message>
+  <message>
+    <key>syslog_clan_point_use</key>
+    <original>%s %sが、%sを購入しました（-%d &lt;UNIT CP&gt;）</original>
+  </message>
+  <message>
     <key>syslog_change_xp_mode</key>
     <original>%sの入手ポイントを%sに切り替えました</original>
     <translation>Switched from %s-earning to %s-earning mode.</translation>
+  </message>
+  <message>
+    <key>syslog_cp_get</key>
+    <original>&lt;VAL CP&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_clanquest_enable_clear_over</key>
+    <original>クランクエスト＜&lt;VAL&gt;＞の
+CP報酬の有効クリア回数が上限に達しました</original>
+  </message>
+  <message>
+    <key>syslog_clanlevelup</key>
+    <original>クランレベルが&lt;VAL&gt;になりました</original>
+  </message>
+  <message>
+    <key>syslog_item_get_send_itempost</key>
+    <original>&lt;NAME ITEM&gt;を&lt;VAL&gt;個、アイテムポストに送りました</original>
+  </message>
+  <message>
+    <key>syslog_pawn_expedition_sp_delivery</key>
+    <original>強化派遣により、希少なアイテムを持ち帰りました</original>
+  </message>
+  <message>
+    <key>syslog_clan_base_release_possible</key>
+    <original>&lt;STG 210&gt;が解放可能になりました
+クラン酒場にいるキビザを訪ねてください</original>
+  </message>
+  <message>
+    <key>syslog_gacha_msg_drawn_by_a_free</key>
+    <original>無料で、ロットを1回まわしました</original>
+  </message>
+  <message>
+    <key>syslog_gacha_msg_drawn_by_free</key>
+    <original>無料で、ロットを&lt;VAL&gt;連続でまわしました</original>
+  </message>
+  <message>
+    <key>syslog_pawn_expedition_expiration_hotspot_ite</key>
+    <original>特別なアイテムを持ち帰りました</original>
+  </message>
+  <message>
+    <key>syslog_quest_assist_accept</key>
+    <original>＜&lt;NAME QUEST&gt;＞の受注条件を満たしていないため、アシスト状態で受注しました</original>
   </message>
 </resource>

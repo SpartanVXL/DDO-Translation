@@ -1,39 +1,39 @@
 ﻿<resource>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;&lt;KEYM&gt;左クリック&lt;/KEYM&gt;&lt;/COL&gt;でマジックボール、魔法弾で敵を攻撃よ！詠唱が終わればいつでも発動できるわ</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;でマジックボール、魔法弾で敵を攻撃よ！詠唱が終わればいつでも発動できるわ</original>
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RU&gt;&lt;KEYM&gt;右クリック&lt;/KEYM&gt;&lt;/COL&gt;でマジックトラップ！詠唱が終わればいつでも発動できるわ</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT ATTACK2&gt;&lt;/COL&gt;でマジックトラップ！詠唱が終わればいつでも発動できるわ</original>
   </message>
   <message>
-    <original>マジックボールなどを詠唱し、詠唱完了状態で&lt;PADM&gt;ボタン&lt;KEYM&gt;クリック&lt;/KEYM&gt;を押したまま移動してみるの</original>
+    <original>マジックボールなどを詠唱し、詠唱完了状態で&lt;PADM&gt;ボタン&lt;KEYM&gt;クリックやキー&lt;/KEYM&gt;を押したまま移動してみるの</original>
   </message>
   <message>
     <original>距離をとり、発動タイミングを見極めて。どの魔法でも使えるわ</original>
   </message>
   <message>
-    <original>マジックトラップなどを詠唱中に&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN L3&gt;&lt;KEYM&gt;Cキー&lt;/KEYM&gt;&lt;/COL&gt;でロックオフ状態になるわ</original>
+    <original>マジックトラップなどを詠唱中に&lt;COL ff7575&gt;&lt;KCT LOCK_MODE&gt;&lt;/COL&gt;でロックオフ状態になるわ</original>
   </message>
   <message>
     <original>ロックオフ状態から&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN R_STICK&gt;&lt;KEYM&gt;マウス操作&lt;/KEYM&gt;&lt;/COL&gt;で好きなところに魔法を放って！</original>
   </message>
   <message>
-    <original>マジックトラップなど魔法陣が発動する魔法を詠唱中に、&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN R3&gt;&lt;KEYM&gt;マウスホイール&lt;/KEYM&gt;&lt;/COL&gt;でスペリングよ</original>
+    <original>マジックトラップなど魔法陣が発動する魔法を詠唱中に、&lt;COL ff7575&gt;&lt;KCT CHANGE_MODE&gt;&lt;/COL&gt;でスペリングよ</original>
   </message>
   <message>
     <original>陣にある緑のポイントを&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN R_STICK&gt;&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;&lt;/COL&gt;でなぞり、術を練るほど強力になるの</original>
   </message>
   <message>
-    <original>詠唱完了後も、&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN L1&gt;か&lt;KEYN R1&gt;&lt;KEYM&gt;ShiftキーかCtrlキー&lt;/KEYM&gt;&lt;/COL&gt;を押し続けている間はスペリング可能よ</original>
+    <original>詠唱完了後も、&lt;COL ff7575&gt;&lt;PADM&gt;ボタン&lt;KEYM&gt;クリックやキー&lt;/KEYM&gt;&lt;/COL&gt;を押し続けている間はスペリング可能よ</original>
   </message>
   <message>
     <original>よし、では祠の奥へ向かい大型敵と対峙よ！大型敵の&lt;COL ff7575&gt;＜怒り状態＞&lt;/COL&gt;に注意して！</original>
   </message>
   <message>
-    <original>そして&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RR&gt;&lt;KEYM&gt;Ｅキー&lt;/KEYM&gt;&lt;/COL&gt;で敵にしがみついて！</original>
+    <original>そして&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;で敵にしがみついて！</original>
   </message>
   <message>
-    <original>その状態で&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;&lt;KEYM&gt;左クリック&lt;/KEYM&gt;&lt;/COL&gt;でマジッククラッカーよ</original>
+    <original>その状態で&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;でマジッククラッカーよ</original>
   </message>
   <message>
     <original>取りつけたマジッククラッカーを攻撃するの！足元にしがみつけば狙いやすいわ</original>

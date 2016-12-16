@@ -251,4 +251,116 @@
     <translation>Are you sure you want to
 open the Online Shop?</translation>
   </message>
+  <message>
+    <key>title_leftbox_e</key>
+    <original>Left Box</original>
+  </message>
+  <message>
+    <key>title_leftbox_j</key>
+    <original>左のボックス</original>
+  </message>
+  <message>
+    <key>title_rightbox_e</key>
+    <original>Right Box</original>
+  </message>
+  <message>
+    <key>title_rightbox_j</key>
+    <original>右のボックス</original>
+  </message>
+  <message>
+    <key>option_send_leftbox</key>
+    <original>左のボックスに送る</original>
+  </message>
+  <message>
+    <key>option_send_rightbox</key>
+    <original>右のボックスに送る</original>
+  </message>
+  <message>
+    <key>item_msg_guid_toleftbox</key>
+    <original>左のボックスに移動</original>
+  </message>
+  <message>
+    <key>item_msg_guid_torightbox</key>
+    <original>右のボックスに移動</original>
+  </message>
+  <message>
+    <key>pulldown_itembag_1</key>
+    <original>&lt;COL EBF1DE&gt;アイテムバッグ（消費）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>pulldown_itembag_2</key>
+    <original>&lt;COL EBF1DE&gt;アイテムバッグ（素材）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>pulldown_itembag_3</key>
+    <original>&lt;COL EBF1DE&gt;アイテムバッグ（装備）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>pulldown_itembag_4</key>
+    <original>&lt;COL EBF1DE&gt;アイテムバッグ（ジョブ専用）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>pulldown_storage_normal_1</key>
+    <original>&lt;COL F2DCDB&gt;保管ボックス（通常枠）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>pulldown_storage_ex_1</key>
+    <original>&lt;COL F2DCDB&gt;保管ボックス（拡張枠）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>pulldown_deposit_normal_1</key>
+    <original>&lt;COL DAEEF3&gt;格納チェスト（通常枠）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>pulldown_deposit_ex_1</key>
+    <original>&lt;COL DAEEF3&gt;格納チェスト（拡張枠）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>pulldown_itempost</key>
+    <original>&lt;COL FDE9D9&gt;アイテムポスト&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>option_send_targeting</key>
+    <original>ボックス指定</original>
+  </message>
+  <message>
+    <key>option_targeting_itembag_1</key>
+    <original>アイテムバッグ（消費）</original>
+  </message>
+  <message>
+    <key>option_targeting_itembag_2</key>
+    <original>アイテムバッグ（素材）</original>
+  </message>
+  <message>
+    <key>option_targeting_itembag_3</key>
+    <original>アイテムバッグ（装備）</original>
+  </message>
+  <message>
+    <key>option_targeting_itembag_4</key>
+    <original>アイテムバッグ（ジョブ専用）</original>
+  </message>
+  <message>
+    <key>option_targeting_storage_normal_1</key>
+    <original>保管ボックス（通常枠）</original>
+  </message>
+  <message>
+    <key>option_targeting_storage_ex_1</key>
+    <original>保管ボックス（拡張枠）</original>
+  </message>
+  <message>
+    <key>option_targeting_deposit_normal_1</key>
+    <original>格納チェスト（通常枠）</original>
+  </message>
+  <message>
+    <key>option_targeting_deposit_ex_1</key>
+    <original>格納チェスト（拡張枠）</original>
+  </message>
+  <message>
+    <key>option_targeting_itempost</key>
+    <original>アイテムポスト</original>
+  </message>
+  <message>
+    <key>option_targeting_itembag_0</key>
+    <original>アイテムバッグ</original>
+  </message>
 </resource>

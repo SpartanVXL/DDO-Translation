@@ -315,4 +315,36 @@ to level it up?</translation>
     <original>&lt;UNIT XP&gt;/&lt;UNIT PP&gt; 切り替え</original>
     <translation>Switch &lt;UNIT XP&gt;/&lt;UNIT PP&gt;</translation>
   </message>
+  <message>
+    <key>dialog_ability_learn</key>
+    <original>&lt;VAL&gt;の
+&lt;VAL JP&gt;を消費して習得します
+よろしいですか？</original>
+  </message>
+  <message>
+    <key>dialog_ability_lvup</key>
+    <original>&lt;VAL&gt;の
+&lt;VAL JP&gt;を消費してレベルアップします
+よろしいですか？</original>
+  </message>
+  <message>
+    <key>ability_search_learn_check</key>
+    <original>習得済み</original>
+  </message>
+  <message>
+    <key>ability_search_not_learn_check</key>
+    <original>未修得</original>
+  </message>
+  <message>
+    <key>ability_search_header_cost</key>
+    <original>コスト</original>
+  </message>
+  <message>
+    <key>ability_search_cost_over</key>
+    <original>以上</original>
+  </message>
+  <message>
+    <key>ability_search_cost_under</key>
+    <original>以下</original>
+  </message>
 </resource>

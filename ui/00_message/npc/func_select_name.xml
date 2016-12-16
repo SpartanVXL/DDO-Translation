@@ -46,7 +46,9 @@
   </message>
   <message>
     <key>FUNC_SELECT_NAME_12</key>
-    <original>ミッションエントリー</original>
+    <original>グランドミッション</original>
+    <!-- NEEDS REVIEW -->
+    <!--ミッションエントリー-->
     <translation>Mission Entry</translation>
   </message>
   <message>
@@ -233,8 +235,24 @@
     <translation>Box Treasure Lot</translation>
   </message>
   <message>
+    <key>FUNC_SELECT_NAME_55</key>
+    <original>ポーン遠征隊</original>
+  </message>
+  <message>
+    <key>FUNC_SELECT_NAME_56</key>
+    <original>遠征結果の確認</original>
+  </message>
+  <message>
     <key>FUNC_SELECT_NAME_57</key>
     <original>プレイポイントショップ</original>
     <translation>Play Point Shop</translation>
+  </message>
+  <message>
+    <key>FUNC_SELECT_NAME_58</key>
+    <original>クラン拠点管理</original>
+  </message>
+  <message>
+    <key>FUNC_SELECT_NAME_59</key>
+    <original>戦技練習</original>
   </message>
 </resource>

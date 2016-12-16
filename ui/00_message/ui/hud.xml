@@ -152,7 +152,9 @@
   </message>
   <message>
     <key>hud_gauge_sorcery_button</key>
-    <original>&lt;PADM&gt;&lt;ICON PAD_R3&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_WHL_1&gt;&lt;/KEYM&gt;</original>
+    <original>&lt;KC CHANGE_MODE&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--<PADM><ICON PAD_R3></PADM><KEYM><ICON MOUSE_WHL_1></KEYM>-->
     <translation>&lt;PADM&gt;&lt;ICON PAD_R3&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_WHL_1&gt;&lt;/KEYM&gt;</translation>
   </message>
   <message>
@@ -277,7 +279,9 @@
   </message>
   <message>
     <key>hud_commongauge_button_barrage_square</key>
-    <original>&lt;PADM&gt;&lt;ICON PAD_RL&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;&lt;/KEYM&gt;</original>
+    <original>&lt;KC ATTACK1&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--<PADM><ICON PAD_RL></PADM><KEYM><ICON MOUSE_CL_L></KEYM>-->
     <translation>&lt;PADM&gt;&lt;ICON PAD_RL&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;&lt;/KEYM&gt;</translation>
   </message>
   <message>
@@ -286,28 +290,46 @@
   </message>
   <message>
     <key>hud_commontext_sorcery_cs14</key>
-    <original>アンカーを消滅させる：&lt;PADM&gt;&lt;ICON PAD_RR&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_E&gt;キー&lt;/KEYM&gt;</original>
+    <original>アンカーを消滅させる：&lt;KC TOUCH&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--アンカーを消滅させる：<PADM><ICON PAD_RR>ボタン</PADM><KEYM><ICON KB_E>キー</KEYM>-->
     <translation>アンカーを消滅させる：&lt;PADM&gt;&lt;ICON PAD_RR&gt; Button&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_E&gt; Key&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_commongauge_button_barrage_triangle</key>
-    <original>&lt;PADM&gt;&lt;ICON PAD_RU&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;&lt;/KEYM&gt;</original>
+    <original>&lt;KC ATTACK2&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--<PADM><ICON PAD_RU></PADM><KEYM><ICON MOUSE_CL_R></KEYM>-->
     <translation>&lt;PADM&gt;&lt;ICON PAD_RU&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_commontext_all_reliefcancel</key>
-    <original>救済を中断する：&lt;PADM&gt;&lt;ICON PAD_RD&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;キー&lt;/KEYM&gt;</original>
+    <original>救済を中断する：&lt;KC JUMP&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--救済を中断する：<PADM><ICON PAD_RD>ボタン</PADM><KEYM><ICON KB_SPACE>キー</KEYM>-->
     <translation>Interrupt Help: &lt;PADM&gt;&lt;ICON PAD_RD&gt; Button&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON KB_SPACE&gt; Key&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_commontext_cs_button_square</key>
-    <original>&lt;PADM&gt;&lt;ICON PAD_RL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;クリック&lt;/KEYM&gt;</original>
+    <original>&lt;KC ATTACK1&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--<PADM><ICON PAD_RL>ボタン</PADM><KEYM><ICON MOUSE_CL_L>クリック</KEYM>-->
     <translation>&lt;PADM&gt;&lt;ICON PAD_RL&gt; Button&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt; Click&lt;/KEYM&gt;</translation>
   </message>
   <message>
     <key>hud_commontext_cs_button_triangle</key>
-    <original>&lt;PADM&gt;&lt;ICON PAD_RU&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;クリック&lt;/KEYM&gt;</original>
+    <original>&lt;KC ATTACK2&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--<PADM><ICON PAD_RU>ボタン</PADM><KEYM><ICON MOUSE_CL_R>クリック</KEYM>-->
     <translation>&lt;PADM&gt;&lt;ICON PAD_RU&gt; Button&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt; Click&lt;/KEYM&gt;</translation>
+  </message>
+  <message>
+    <key>hud_job_spiritlancer_change_item</key>
+    <original>アイテム切替(仮)</original>
+  </message>
+  <message>
+    <key>hud_job_spiritlancer_normal_item</key>
+    <original>【仮0】 HP回復</original>
   </message>
   <message>
     <key>hud_get_announce_pp</key>
@@ -318,5 +340,29 @@
     <key>hud_get_announce_pp_ex</key>
     <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT PP&gt;</original>
     <translation>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT PP&gt;</translation>
+  </message>
+  <message>
+    <key>hud_caution_announce_warning_deco</key>
+    <original>Defeat the dungeon enemy !</original>
+  </message>
+  <message>
+    <key>hud_caution_announce_clear_warning_deco</key>
+    <original>Defeated the dungeon enemy !</original>
+  </message>
+  <message>
+    <key>hud_commontext_spiritlancer_nospirit</key>
+    <original>No Spirits !</original>
+  </message>
+  <message>
+    <key>hud_commontext_spiritlancer_cs08</key>
+    <original>支援を解除する：&lt;KC JUMP&gt;</original>
+  </message>
+  <message>
+    <key>hud_map_guide_auto_scaling_lock</key>
+    <original>拡大固定</original>
+  </message>
+  <message>
+    <key>hud_map_guide_auto_scaling_unlock</key>
+    <original>拡大固定解除</original>
   </message>
 </resource>

@@ -517,4 +517,66 @@ Rare material available!</translation>
     <original>クリアに必要な納品情報</original>
     <translation>Delivery Required</translation>
   </message>
+  <message>
+    <key>QUEST_MSG_BN_ROOT</key>
+    <original>ボーナス報酬</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_BONUS_ROOT</key>
+    <original>成功時に報酬を追加付与</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_CLAN_QUEST_TITLE_EN</key>
+    <original>Clan Quest</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_CLAN_QUEST_TITLE_JP</key>
+    <original>クランクエスト</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_CLAN_QUEST_CAP_ENABLE_CLEAR</key>
+    <original>CP報酬の有効クリア回数</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_CLAN_QUEST_NUM_ENABLE_CLEAR</key>
+    <original>%d / %d 回</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_WQ_UNRELEASED_AREA</key>
+    <original>対象エリアのワールドクエストが未解放のため受注不可</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_SP_ALLCLEAR_BTN</key>
+    <original>一括クリア</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_SP_ALLCLEAR_ERR_01</key>
+    <original>すべてのクエストがクリア状態のため、使用できません</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_SP_ALLCLEAR_DIALOG_CONF</key>
+    <original>このクエストボードから配信されている
+すべてのクエストを一括してクリア状態にします
+&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;を消費して、一括クリアしますか？
+(所持数：&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_SP_ALLCLEAR_DIALOG_LACK</key>
+    <original>黄金石が不足しています
+一括クリアするには&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;が必要です
+(所持数：&lt;VAL&gt;)</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_SP_ALLCLEAR_DIALOG_GOTO_ONLINESHOP</key>
+    <original>オンラインショップを開く</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_SP_ALLCLEAR_LOG</key>
+    <original>このクエストボードから配信されている
+すべてのクエストを一括してクリア状態にしました</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ASSIST_ACCEPT</key>
+    <original>条件を満たしていないためアシスト状態で受注可</original>
+  </message>
 </resource>

@@ -153,7 +153,7 @@
   </message>
   <message>
     <key>TITLE_TOTAL</key>
-    <original>Total</original>
+    <original>Performance</original>
   </message>
   <message>
     <key>HEADING_SPEED</key>
@@ -1068,5 +1068,89 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
     <key>DIALOG_CONFIRM_TYPE_STOP</key>
     <original>アイテム生産を中止</original>
     <translation>Stop</translation>
+  </message>
+  <message>
+    <key>ANALYZE_RESULT</key>
+    <original>分析結果（概算）</original>
+  </message>
+  <message>
+    <key>ANALYZE_SPEED</key>
+    <original>作業時間&lt;VAL&gt;%OFF</original>
+  </message>
+  <message>
+    <key>ANALYZE_UPGRADE</key>
+    <original>&lt;VAL&gt;～&lt;VAL&gt;pt</original>
+  </message>
+  <message>
+    <key>ANALYZE_GREAT_SUCCESS</key>
+    <original>大成功率&lt;VAL&gt;%</original>
+  </message>
+  <message>
+    <key>ANALYZE_INCREASE</key>
+    <original>&lt;VAL&gt;%の確率で+&lt;VAL&gt;個</original>
+  </message>
+  <message>
+    <key>ANALYZE_COST_CUT</key>
+    <original>費用&lt;VAL&gt;%OFF</original>
+  </message>
+  <message>
+    <key>ANALYZE_ALWAYS_GREAT_SUCCESS</key>
+    <original>高品質装備の作成が、特定条件で必ず大成功</original>
+  </message>
+  <message>
+    <key>ANALYZE_ALWAYS_INCREASE</key>
+    <original>消耗品の生産が必ず大成功</original>
+  </message>
+  <message>
+    <key>ANALYZE_COST_CUT_MUCH</key>
+    <original>コストパフォーマンスの効果アップ</original>
+  </message>
+  <message>
+    <key>CREATE_TIMES_WARNING</key>
+    <original>※最大&lt;VAL&gt;回 (クラフト回数を消費します)</original>
+  </message>
+  <message>
+    <key>HEADING_CREATE_TIMES</key>
+    <original>生産回数</original>
+  </message>
+  <message>
+    <key>ANALYZE_BUTTON</key>
+    <original>パフォーマンス分析</original>
+  </message>
+  <message>
+    <key>ERROR_SHORTAGE_MATERIAL</key>
+    <original>素材が足りません</original>
+  </message>
+  <message>
+    <key>ERROR_SHORTAGE_MONEY</key>
+    <original>所持金が足りません</original>
+  </message>
+  <message>
+    <key>ERROR_SHORTAGE_CRAFT_NUM</key>
+    <original>アシスタントの残りクラフト回数が足りません</original>
+  </message>
+  <message>
+    <key>ITEM_CREATE_TIMES</key>
+    <original>×&lt;VAL&gt;回</original>
+  </message>
+  <message>
+    <key>ERROR_CREST_CANNOT_BREAK</key>
+    <original>このクレストは破壊できません</original>
+  </message>
+  <message>
+    <key>PERFORMANCE_NO_EFFECT</key>
+    <original>効果なし</original>
+  </message>
+  <message>
+    <key>BT_CHECK_CHEST</key>
+    <original>格納チェストを参照</original>
+  </message>
+  <message>
+    <key>DIALOG_CHECKING_CHEST</key>
+    <original>格納チェストを参照しています</original>
+  </message>
+  <message>
+    <key>ANNOUNCE_CHECK_NG_CHEST</key>
+    <original>格納チェストの参照は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
   </message>
 </resource>
