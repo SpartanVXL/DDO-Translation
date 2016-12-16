@@ -797,10 +797,8 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_mission_result_guid</key>
     <original>リザルト確認後、担当NPC前に帰還します</original>
-    <!-- NEEDS REVIEW -->
-    <!--リザルト確認後、<NAME SPOT>に帰還します-->
     <translation>After confirming the results, you will be
-returned to &lt;NAME SPOT&gt;.</translation>
+returned in front of the NPC in charge.</translation>
   </message>
   <message>
     <key>syslog_mission_npc_dying</key>
@@ -1087,24 +1085,24 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_stone</key>
     <original>黄金石&lt;VAL&gt;個を消費して、ロットを1回まわしました</original>
-    <!-- NEEDS REVIEW -->
-    <!--黄金石<VAL>個を消費して、ロットを1回行いました-->
-    <translation>&lt;VAL&gt; golden gemstones will be consumed to lot 1 time.</translation>
+    <translation>Consumed &lt;VAL&gt; Golden Gemstones to lot 1 time.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_stones</key>
     <original>黄金石&lt;VAL&gt;個を消費して、ロットを&lt;VAL&gt;連続でまわしました</original>
-    <translation>&lt;VAL&gt; golden gemstones will be consumed to lot &lt;VAL&gt; times in succession.</translation>
+    <translation>Consumed &lt;VAL&gt; Golden Gemstones to
+lot &lt;VAL&gt; times in succession.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_ticket</key>
     <original>チケット&lt;VAL&gt;枚を消費して、ロットを1回まわしました</original>
-    <translation>&lt;VAL&gt; tickets will be consumed to lot 1 time.</translation>
+    <translation>Spent &lt;VAL&gt; Tickets to lot 1 time.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_tickets</key>
     <original>チケット&lt;VAL&gt;枚を消費して、ロットを&lt;VAL&gt;連続でまわしました</original>
-    <translation>&lt;VAL&gt; tickets will be consumed to lot &lt;VAL&gt; times in succession.</translation>
+    <translation>Spent &lt;VAL&gt; Tickets to
+lot &lt;VAL&gt; times in succession.</translation>
   </message>
   <message>
     <key>syslog_pawn_instruction_others</key>
