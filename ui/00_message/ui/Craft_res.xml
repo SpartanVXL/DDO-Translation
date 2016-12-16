@@ -2,6 +2,7 @@
   <message>
     <key>CRAFT_MSG_TITLE01</key>
     <original>Craft</original>
+    <translation>Craft</translation>
   </message>
   <message>
     <key>CRAFT_MSG_TITLE02</key>
@@ -41,6 +42,7 @@
   <message>
     <key>TITLE_PAWN_STATUS</key>
     <original>Pawn</original>
+    <translation>Pawn</translation>
   </message>
   <message>
     <key>ROW_PAWN_NAME</key>
@@ -85,6 +87,7 @@
   <message>
     <key>TITLE_ITEM_LIST</key>
     <original>Item List</original>
+    <translation>Item List</translation>
   </message>
   <message>
     <key>TITLE_MAKE_ITEM</key>
@@ -124,6 +127,7 @@
   <message>
     <key>TITLE_PAWN_LIST</key>
     <original>Pawn List</original>
+    <translation>Pawn List</translation>
   </message>
   <message>
     <key>TAB_MAIN</key>
@@ -138,22 +142,27 @@
   <message>
     <key>ROW_NAME</key>
     <original>Name</original>
+    <translation>Name</translation>
   </message>
   <message>
     <key>ROW_CRAFT_LV</key>
     <original>Craft LV.</original>
+    <translation>Craft LV.</translation>
   </message>
   <message>
     <key>ROW_STATUS</key>
     <original>Status</original>
+    <translation>Status</translation>
   </message>
   <message>
     <key>ROW_LIMIT</key>
     <original>Limit</original>
+    <translation>Limit</translation>
   </message>
   <message>
     <key>TITLE_TOTAL</key>
     <original>Performance</original>
+    <translation>Performance</translation>
   </message>
   <message>
     <key>HEADING_SPEED</key>
@@ -163,7 +172,7 @@
   <message>
     <key>HEADING_TECHNOLOGY</key>
     <original>装備の強化技術</original>
-    <translation>Equipment Enhancement</translation>
+    <translation>Equip Enhancement</translation>
   </message>
   <message>
     <key>HEADING_FLASH</key>
@@ -173,7 +182,7 @@
   <message>
     <key>HEADING_CAPACITY</key>
     <original>消耗品の生産数アップ</original>
-    <translation>Consumable Production Quantity</translation>
+    <translation>Consumable Quantity</translation>
   </message>
   <message>
     <key>HEADING_COST_PERFORMANCE</key>
@@ -183,10 +192,12 @@
   <message>
     <key>TITLE_STATUS</key>
     <original>Status</original>
+    <translation>Status</translation>
   </message>
   <message>
     <key>CRAFT_TIME_INFINITY</key>
     <original>∞</original>
+    <translation>∞</translation>
   </message>
   <message>
     <key>ROW_REQUIRED</key>
@@ -267,10 +278,12 @@
   <message>
     <key>TITLE_PROGRESS_LIST</key>
     <original>Progress List</original>
+    <translation>Progress List</translation>
   </message>
   <message>
     <key>TITLE_DETAIL</key>
     <original>Details</original>
+    <translation>Details</translation>
   </message>
   <message>
     <key>BALLOON_FINISH</key>
@@ -290,6 +303,7 @@
   <message>
     <key>SUCCESS</key>
     <original>Success!</original>
+    <translation>Success!</translation>
   </message>
   <message>
     <key>TITLE_RECEIPT</key>
@@ -386,10 +400,12 @@ crafting skill points?</translation>
   <message>
     <key>POPUP_GRADE_UP</key>
     <original>Grade UP!</original>
+    <translation>Grade UP!</translation>
   </message>
   <message>
     <key>HEADING_CREST_BREAK</key>
     <original>Crest Break</original>
+    <translation>Crest Break</translation>
   </message>
   <message>
     <key>HEADING_CREST</key>
@@ -456,6 +472,7 @@ the crest in this slot?</translation>
   <message>
     <key>CREST_BREAK</key>
     <original>Crest Break!</original>
+    <translation>Crest Break!</translation>
   </message>
   <message>
     <key>TITLE_CREST_BREAK</key>
@@ -490,6 +507,7 @@ the crest in this slot?</translation>
   <message>
     <key>CHANGE_COLOR</key>
     <original>Color Change!</original>
+    <translation>Color Change!</translation>
   </message>
   <message>
     <key>TITLE_CHANGE_COLOR</key>
@@ -660,6 +678,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>ROW_HAVE</key>
     <original>Storage</original>
+    <translation>Storage</translation>
   </message>
   <message>
     <key>GUIDE_SELECT_COLOR_ITEM</key>
@@ -686,18 +705,22 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>ROW_POINT</key>
     <original>Point</original>
+    <translation>Point</translation>
   </message>
   <message>
     <key>ORDER_HEADER_CRAFT_ITEM</key>
     <original>Craft Item</original>
+    <translation>Craft Item</translation>
   </message>
   <message>
     <key>ORDER_HEADER_CRAFT_MEMBER</key>
     <original>Craft Members</original>
+    <translation>Craft Members</translation>
   </message>
   <message>
     <key>ORDER_HEADER_ADD_ITEM</key>
     <original>Additional Materials</original>
+    <translation>Additional Materials</translation>
   </message>
   <message>
     <key>HEADING_CUSTOMIZE_TARGET</key>
@@ -717,14 +740,17 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>HEADING_COLOR_ITEM</key>
     <original>Color Item</original>
+    <translation>Color Item</translation>
   </message>
   <message>
     <key>ROW_PROGRESS</key>
     <original>Progress</original>
+    <translation>Progress</translation>
   </message>
   <message>
     <key>ROW_MAKE_ITEM</key>
     <original>Item</original>
+    <translation>Item</translation>
   </message>
   <message>
     <key>CRAFT_VAL_NONE</key>
@@ -760,6 +786,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_DETAIL_ITEM_RANK</key>
     <original>Item Rank</original>
+    <translation>Item Rank</translation>
   </message>
   <message>
     <key>CRAFT_DETAIL_XP_VAL</key>
@@ -778,6 +805,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>ROW_LIST_CATEGORY</key>
     <original>Category</original>
+    <translation>Category</translation>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_HP</key>
@@ -847,6 +875,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>ROW_MAKE</key>
     <original>Made</original>
+    <translation>Made</translation>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_S</key>
@@ -1072,6 +1101,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>ANALYZE_RESULT</key>
     <original>分析結果（概算）</original>
+    <translation>Analysis Result (Approximate)</translation>
   </message>
   <message>
     <key>ANALYZE_SPEED</key>
@@ -1108,14 +1138,17 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>CREATE_TIMES_WARNING</key>
     <original>※最大&lt;VAL&gt;回 (クラフト回数を消費します)</original>
+    <translation>※ Maximum &lt;VAL&gt; times (will consume the craft number of times)</translation>
   </message>
   <message>
     <key>HEADING_CREATE_TIMES</key>
     <original>生産回数</original>
+    <translation>Production Times</translation>
   </message>
   <message>
     <key>ANALYZE_BUTTON</key>
     <original>パフォーマンス分析</original>
+    <translation>Performance Analysis</translation>
   </message>
   <message>
     <key>ERROR_SHORTAGE_MATERIAL</key>
@@ -1132,6 +1165,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>ITEM_CREATE_TIMES</key>
     <original>×&lt;VAL&gt;回</original>
+    <translation>x&lt;VAL&gt; times</translation>
   </message>
   <message>
     <key>ERROR_CREST_CANNOT_BREAK</key>
@@ -1140,10 +1174,12 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>PERFORMANCE_NO_EFFECT</key>
     <original>効果なし</original>
+    <translation>No Effect</translation>
   </message>
   <message>
     <key>BT_CHECK_CHEST</key>
     <original>格納チェストを参照</original>
+    <translation>See Storage Chest</translation>
   </message>
   <message>
     <key>DIALOG_CHECKING_CHEST</key>

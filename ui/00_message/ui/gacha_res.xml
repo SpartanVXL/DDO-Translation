@@ -18,6 +18,7 @@
   <message>
     <key>gacha_msg_draw</key>
     <original>まわす</original>
+    <translation>Draw</translation>
   </message>
   <message>
     <key>gacha_msg_multi_draw</key>
@@ -304,6 +305,7 @@
   <message>
     <key>gacha_msg_free</key>
     <original>無料</original>
+    <translation>Free</translation>
   </message>
   <message>
     <key>gacha_msg_itemclass_name</key>
@@ -364,26 +366,36 @@
 ロット名　　：&lt;VAL&gt;
 プレイタイプ：&lt;VAL&gt;
 支払い方法　：&lt;VAL&gt;</original>
+    <translation>Are you sure you want to draw this lot?
+
+Lot Name: &lt;VAL&gt;
+Play Type: &lt;VAL&gt;
+Payment Method: &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_start_conf_play_num</key>
     <original>%dプレイ</original>
+    <translation>%d Plays</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_start_conf_play_trial</key>
     <original>お試しプレイ</original>
+    <translation>Trial</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_start_conf_pay_gp</key>
     <original>黄金石%d個</original>
+    <translation>%d Golden Gemstones</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_start_conf_pay_ticket</key>
     <original>シルバーチケット%d枚</original>
+    <translation>%d Silver Tickets</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_start_conf_pay_free</key>
     <original>無料</original>
+    <translation>Free</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_error_01</key>
@@ -425,6 +437,7 @@
   <message>
     <key>gacha_msg_draw_lot</key>
     <original>ロットをまわす</original>
+    <translation>Draw Lot</translation>
   </message>
   <message>
     <key>gacha_msg_sp_price</key>
@@ -437,6 +450,7 @@
   <message>
     <key>gacha_msg_dialog_select_price</key>
     <original>支払い方法を選んでください</original>
+    <translation>Please select payment method</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_error_05</key>

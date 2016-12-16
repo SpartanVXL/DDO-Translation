@@ -45,10 +45,12 @@ It seems to be one of the following items.</translation>
   <message>
     <key>ItemJudge_title</key>
     <original>Trade</original>
+    <translation>Trade</translation>
   </message>
   <message>
     <key>ItemJudge_title_sub</key>
     <original>鑑定交換</original>
+    <translation>Appraisal Exchange</translation>
   </message>
   <message>
     <key>ItemJudge_cost</key>
@@ -57,14 +59,17 @@ It seems to be one of the following items.</translation>
   <message>
     <key>ItemJudge_need_item</key>
     <original>必要アイテム</original>
+    <translation>Required items</translation>
   </message>
   <message>
     <key>ItemJudge_need_num</key>
     <original>必要数</original>
+    <translation>Num</translation>
   </message>
   <message>
     <key>ItemJudge_appraise_list</key>
     <original>鑑定リスト</original>
+    <translation>Appraisal List</translation>
   </message>
   <message>
     <key>ItemJudge_limit_num</key>
@@ -73,34 +78,42 @@ It seems to be one of the following items.</translation>
   <message>
     <key>ItemJudge_get_num</key>
     <original>獲得数</original>
+    <translation>Num</translation>
   </message>
   <message>
     <key>ItemJudge_lot_item</key>
     <original>以下のアイテムが抽選されます</original>
+    <translation>Following items will be drawn</translation>
   </message>
   <message>
     <key>ItemJudge_lot_crest</key>
     <original>以下のクレストが抽選されます</original>
+    <translation>Following crests will be drawn</translation>
   </message>
   <message>
     <key>ItemJudge_select_storage_notice</key>
     <original>保存先を選択してください</original>
+    <translation>Please select destination</translation>
   </message>
   <message>
     <key>ItemJudge_period</key>
     <original>期限</original>
+    <translation>Time Limit</translation>
   </message>
   <message>
     <key>ItemJudge_infinit</key>
     <original>無期限</original>
+    <translation>Indefinite</translation>
   </message>
   <message>
     <key>ItemJudge_need_list</key>
     <original>費用/必要アイテム一覧</original>
+    <translation>Cost/Required Item List</translation>
   </message>
   <message>
     <key>ItemJudge_trade_list</key>
     <original>交換アイテム一覧</original>
+    <translation>Exchange Item List</translation>
   </message>
   <message>
     <key>ItemJudge_appraise_confirm</key>
@@ -128,14 +141,17 @@ It seems to be one of the following items.</translation>
   <message>
     <key>ItemJudge_nothing_error</key>
     <original>現在、配信されていません</original>
+    <translation>Currently there are no exchanges</translation>
   </message>
   <message>
     <key>ItemJudge_and_more</key>
     <original>and more...</original>
+    <translation>and more...</translation>
   </message>
   <message>
     <key>ItemJudge_category</key>
     <original>Category</original>
+    <translation>Category</translation>
   </message>
   <message>
     <key>ItemJudge_woman_only</key>

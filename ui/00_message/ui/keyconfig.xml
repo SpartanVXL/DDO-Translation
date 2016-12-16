@@ -2,61 +2,76 @@
   <message>
     <key>kc_title_en</key>
     <original>Keyconfig</original>
+    <translation>Key Config</translation>
   </message>
   <message>
     <key>kc_title_jp</key>
     <original>キーコンフィグ</original>
+    <translation>Key Config</translation>
   </message>
   <message>
     <key>kc_cap_category</key>
     <original>Category</original>
+    <translation>Category</translation>
   </message>
   <message>
     <key>kc_bt_initialization</key>
     <original>すべて初期設定に戻す</original>
+    <translation>Default Keys</translation>
   </message>
   <message>
     <key>kc_cap_operating</key>
     <original>操作説明</original>
+    <translation>Operation Description</translation>
   </message>
   <message>
     <key>kc_pulldown_unspecified</key>
     <original>指定なし</original>
+    <translation>Unspecified</translation>
   </message>
   <message>
     <key>kc_ng_can_not_be_changed</key>
     <original>このキーは変更できません</original>
+    <translation>This key can't be changed</translation>
   </message>
   <message>
     <key>kc_pulldown_number</key>
     <original>番号順</original>
+    <translation>Sorted by Number</translation>
   </message>
   <message>
     <key>kc_pulldown_group</key>
     <original>グループ順</original>
+    <translation>Sorted by Group</translation>
   </message>
   <message>
     <key>kc_pulldown_setting</key>
     <original>現在の設定キー順</original>
+    <translation>Sorted by Current Key Config</translation>
   </message>
   <message>
     <key>kc_ng_overlap</key>
     <original>%s番と重複しています</original>
+    <translation>Overlapping with %s</translation>
   </message>
   <message>
     <key>kc_attention_disable_2stroke</key>
     <original>ShiftキーやCtrlキーとの同時押し登録はできません</original>
+    <translation>You can't register with Shift key or Ctrl key at the same time</translation>
   </message>
   <message>
     <key>kc_announce_please_enter_the_key</key>
     <original>設定したいキーを入力してください</original>
+    <translation>Please press the key you want to set</translation>
   </message>
   <message>
     <key>kc_bt_undo</key>
     <original>１つ前に戻す</original>
+    <translation>Undo</translation>
   </message>
   <message>
     <key>kc_bt_all_blank</key>
     <original>すべてブランクキーにする</original>
+    <translation>Blank Keys</translation>
   </message>
 </resource>
