@@ -127,26 +127,27 @@
   <message>
     <key>pawn_command_635</key>
     <original>クイックチャージ発動</original>
+    <translation>Activate Quick Charge</translation>
   </message>
   <message>
     <key>pawn_command_636</key>
     <original>エナジースポット発動</original>
-    <translation>Cast Energy Spot</translation>
+    <translation>Activate Energy Spot</translation>
   </message>
   <message>
     <key>pawn_command_637</key>
     <original>ソリッドライザー発動</original>
-    <translation>Cast Solid Riser</translation>
+    <translation>Activate Solid Riser</translation>
   </message>
   <message>
     <key>pawn_command_638</key>
     <original>ハンズオブゴッド発動</original>
-    <translation>Cast Hands of God</translation>
+    <translation>Activate Hands of God</translation>
   </message>
   <message>
     <key>pawn_command_639</key>
     <original>命令キャンセル</original>
-    <translation>Cancel Command</translation>
+    <translation>Cancel Order</translation>
   </message>
   <message>
     <key>pawn_command_9499</key>
@@ -156,45 +157,56 @@
   <message>
     <key>pawn_command_10850</key>
     <original>小型敵優先</original>
+    <translation>Prioritize Small Enemies</translation>
   </message>
   <message>
     <key>pawn_command_10851</key>
     <original>大型敵優先</original>
+    <translation>Prioritize Large Enemies</translation>
   </message>
   <message>
     <key>pawn_command_10852</key>
     <original>地上敵優先</original>
+    <translation>Prioritize Ground Enemies</translation>
   </message>
   <message>
     <key>pawn_command_10853</key>
     <original>飛行敵優先</original>
+    <translation>Prioritize Flying Enemies</translation>
   </message>
   <message>
     <key>pawn_command_10854</key>
     <original>スタミナ回復</original>
+    <translation>Stamina Recovery</translation>
   </message>
   <message>
     <key>pawn_command_10855</key>
     <original>シークレットコア発現</original>
+    <translation>Expose Secret Core</translation>
   </message>
   <message>
     <key>pawn_command_10856</key>
     <original>シークレットコア攻撃優先</original>
+    <translation>Prioritize Secret Core Attacks</translation>
   </message>
   <message>
     <key>pawn_command_10857</key>
     <original>敵弱体化：行動停止</original>
+    <translation>Debilitate: Immobilize</translation>
   </message>
   <message>
     <key>pawn_command_10858</key>
     <original>敵弱体化：持続ダメージ</original>
+    <translation>Debilitate: Sustained Damage</translation>
   </message>
   <message>
     <key>pawn_command_10859</key>
     <original>敵弱体化：ステータスダウン</original>
+    <translation>Debilitate: Lowered Status</translation>
   </message>
   <message>
     <key>pawn_command_10860</key>
     <original>敵弱体化：特殊ステータス</original>
+    <translation>Debilitate: Special Status</translation>
   </message>
 </resource>
