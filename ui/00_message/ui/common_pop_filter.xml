@@ -2,18 +2,22 @@
   <message>
     <key>cpf_clan_authority_setting_title</key>
     <original>クランの権限設定</original>
+    <translation>Clan permissions</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap01</key>
     <original>メンバー加入の権限付与</original>
+    <translation>Inviting</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap02</key>
     <original>その他</original>
+    <translation>Other</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap03</key>
     <original>役職</original>
+    <translation>Position</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap01_01</key>
@@ -26,10 +30,12 @@
   <message>
     <key>cpf_clan_authority_setting_cap01_03</key>
     <original>直接招待する権限</original>
+    <translation>Direct Invite</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap02_01</key>
     <original>クランポイントを使用する権限</original>
+    <translation>Use Clan Points</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap03_01</key>
@@ -122,6 +128,7 @@
   <message>
     <key>cpf_trainingroom_title</key>
     <original>戦技練習</original>
+    <translation>Warfare Practice</translation>
   </message>
   <message>
     <key>cpf_entry_solo_pawn_01</key>

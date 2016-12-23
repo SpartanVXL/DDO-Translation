@@ -121,37 +121,46 @@
   <message>
     <key>CLAN_STATUS_MSG_MONEY_CP</key>
     <original>通貨CP</original>
+    <translation>CP</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_HISTORY_TAB</key>
     <original>ヒストリー</original>
+    <translation>History</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_HISTORY_CAPTION</key>
     <original>ヒストリー</original>
+    <translation>History</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_HISTORY_ITEM_0</key>
     <original>ヒストリーがありません</original>
+    <translation>There is no history</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_HISTORY_ITEM_1</key>
     <original>%s が %s を購入しました(-%d%s)</original>
+    <translation>%s purchased %s (-%d%s)</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_HISTORY_ITEM_2</key>
     <original>クランレベルが %d になりました</original>
+    <translation>Clan level is now %d</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_HISTORY_ITEM_3</key>
     <original>%s が加入しました</original>
+    <translation>%s has joined</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_HISTORY_ITEM_4</key>
     <original>%s が脱退しました</original>
+    <translation>%s has left</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_HISTORY_ITEM_5</key>
     <original>%s がクランマスターになりました</original>
+    <translation>%s has become clan master</translation>
   </message>
 </resource>
