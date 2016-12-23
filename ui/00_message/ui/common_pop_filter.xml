@@ -2,7 +2,7 @@
   <message>
     <key>cpf_clan_authority_setting_title</key>
     <original>クランの権限設定</original>
-    <translation>Clan permissions</translation>
+    <translation>Clan permission settings</translation>
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap01</key>
@@ -64,54 +64,67 @@
   <message>
     <key>cpf_craft_filter_title</key>
     <original>フィルタの設定</original>
+    <translation>Filter settings</translation>
   </message>
   <message>
     <key>cpf_craft_filter_cap01</key>
     <original>ジョブ</original>
+    <translation>Vocation</translation>
   </message>
   <message>
     <key>cpf_craft_filter_cap02</key>
     <original>アイテムランク</original>
+    <translation>Item Rank</translation>
   </message>
   <message>
     <key>cpf_craft_filter_cap03</key>
     <original>装備レベル</original>
+    <translation>Equipment Level</translation>
   </message>
   <message>
     <key>cpf_craft_filter_cap04</key>
     <original>性別</original>
+    <translation>Gender</translation>
   </message>
   <message>
     <key>cpf_craft_filter_cap01_01</key>
     <original>全て</original>
+    <translation>All</translation>
   </message>
   <message>
     <key>cpf_craft_filter_cap02_01</key>
     <original>アイテムランクを絞り込む</original>
+    <translation>Filter Item Rank</translation>
   </message>
   <message>
     <key>cpf_craft_filter_cap03_01</key>
     <original>装備可能レベルを絞り込む</original>
+    <translation>Filter equipment level</translation>
   </message>
   <message>
     <key>cpf_craft_filter_cap04_01</key>
     <original>指定なし</original>
+    <translation>Unspecified</translation>
   </message>
   <message>
     <key>cpf_craft_filter_cap04_02</key>
     <original>男性</original>
+    <translation>Male</translation>
   </message>
   <message>
     <key>cpf_craft_filter_cap04_03</key>
     <original>女性</original>
+    <translation>Female</translation>
   </message>
   <message>
     <key>cpf_num_and_over</key>
     <original>以上</original>
+    <translation>Minimum</translation>
   </message>
   <message>
     <key>cpf_num_and_less</key>
     <original>以下</original>
+    <translation>Maximum</translation>
   </message>
   <message>
     <key>cpf_initialization</key>
