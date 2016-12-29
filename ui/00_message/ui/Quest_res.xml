@@ -528,10 +528,12 @@ Rare material available!</translation>
   <message>
     <key>QUEST_MSG_CLAN_QUEST_TITLE_EN</key>
     <original>Clan Quest</original>
+    <translation>Clan Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_CLAN_QUEST_TITLE_JP</key>
     <original>クランクエスト</original>
+    <translation>Clan Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_CLAN_QUEST_CAP_ENABLE_CLEAR</key>
@@ -540,6 +542,7 @@ Rare material available!</translation>
   <message>
     <key>QUEST_MSG_CLAN_QUEST_NUM_ENABLE_CLEAR</key>
     <original>%d / %d 回</original>
+    <translation>%d / %d times</translation>
   </message>
   <message>
     <key>QUEST_MSG_WQ_UNRELEASED_AREA</key>
@@ -548,10 +551,12 @@ Rare material available!</translation>
   <message>
     <key>QUEST_MSG_SP_ALLCLEAR_BTN</key>
     <original>一括クリア</original>
+    <translation>All Clear</translation>
   </message>
   <message>
     <key>QUEST_MSG_SP_ALLCLEAR_ERR_01</key>
     <original>すべてのクエストがクリア状態のため、使用できません</original>
+    <translation>All quests have already been cleared</translation>
   </message>
   <message>
     <key>QUEST_MSG_SP_ALLCLEAR_DIALOG_CONF</key>
@@ -559,6 +564,11 @@ Rare material available!</translation>
 すべてのクエストを一括してクリア状態にします
 &lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;を消費して、一括クリアしますか？
 (所持数：&lt;VAL&gt;)</original>
+    <translation>All quests delivered from this
+Quest Board can be cleared.
+Are you sure you want to use &lt;COL ffdc78&gt;Golden Gemstone x&lt;VAL&gt;&lt;/COL&gt; to clear all?
+(Have: &lt;VAL&gt;)
+</translation>
   </message>
   <message>
     <key>QUEST_MSG_SP_ALLCLEAR_DIALOG_LACK</key>
@@ -569,6 +579,7 @@ Rare material available!</translation>
   <message>
     <key>QUEST_MSG_SP_ALLCLEAR_DIALOG_GOTO_ONLINESHOP</key>
     <original>オンラインショップを開く</original>
+    <translation>Open Online Shop</translation>
   </message>
   <message>
     <key>QUEST_MSG_SP_ALLCLEAR_LOG</key>

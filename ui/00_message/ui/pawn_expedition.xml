@@ -2,22 +2,27 @@
   <message>
     <key>area_list_title</key>
     <original>Dispatch Area</original>
+    <translation>Dispatch Area</translation>
   </message>
   <message>
     <key>area_list_title_sub</key>
     <original>遠征エリア</original>
+    <translation>Expedition Area</translation>
   </message>
   <message>
     <key>area_list_header0</key>
     <original>エリア</original>
+    <translation>Area</translation>
   </message>
   <message>
     <key>area_list_header1</key>
     <original>ホットスポット</original>
+    <translation>Hotspot</translation>
   </message>
   <message>
     <key>area_list_header2</key>
     <original>遠征数</original>
+    <translation>Dispatch Num</translation>
   </message>
   <message>
     <key>area_list_err_no_permission</key>
@@ -68,22 +73,29 @@
     <original>ポーン：%s
 遠征先：%s
 状況　：%s</original>
+    <translation>Pawn: %s
+Destination: %s
+Situation: %s</translation>
   </message>
   <message>
     <key>sally_hot_spot</key>
     <original>&lt;COL ffdc78&gt;ホットスポット&lt;/COL&gt;</original>
+    <translation>&lt;COL ffdc78&gt;Hotspot&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>sally_nothing</key>
     <original>特になし</original>
+    <translation>Nothing in particular</translation>
   </message>
   <message>
     <key>sally_normal</key>
     <original>通常派遣</original>
+    <translation>Normal dispatch</translation>
   </message>
   <message>
     <key>sally_with_support</key>
     <original>黄金石を使用して強化派遣</original>
+    <translation>Enhanced dispatch using Golden Gemstone</translation>
   </message>
   <message>
     <key>sally_normal_confirm</key>
