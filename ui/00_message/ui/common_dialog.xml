@@ -2167,16 +2167,21 @@ Are you sure?</translation>
     <key>ana_entry_invitation_pl_conf</key>
     <original>&lt;NAME TARGET&gt;を
 エントリーボードに招待します。よろしいですか？</original>
+    <translation>Are you sure you want to invite
+&lt;NAME TARGET&gt; to the entryboard?</translation>
   </message>
   <message>
     <key>ana_entry_invitation_pt_conf</key>
     <original>パーティーメンバーを
 エントリーボードに招待します。よろしいですか？</original>
+    <translation>Are you sure you want to invite
+your party members to the entryboard?</translation>
   </message>
   <message>
     <key>ana_entry_invitation_pl_deci</key>
     <original>&lt;NAME TARGET&gt;を
 エントリーボードに招待しました</original>
+    <translation>&lt;NAME TARGET&gt; was invited to the entryboard.</translation>
   </message>
   <message>
     <key>ana_entry_invitation_pt_deci</key>
@@ -2208,11 +2213,12 @@ Are you sure?</translation>
   <message>
     <key>OS_announce_buy_item</key>
     <original>&lt;NAME ETC&gt; を購入しました</original>
+	<translation>Purchased &lt;NAME ETC&gt;.</translation>
   </message>
   <message>
     <key>OS_announce_buygs</key>
     <original>黄金石 &lt;VAL&gt; 個を購入しました</original>
-    <translation>Purchased &lt;VAL&gt; Golden Gemstones</translation>
+    <translation>Purchased &lt;VAL&gt; Golden Gemstones.</translation>
   </message>
   <message>
     <key>OS_annnounce_for_itempost</key>
@@ -2491,6 +2497,7 @@ and activated.
   <message>
     <key>ana_item_cannot_use_by_bat_status</key>
     <original>アイテム封印中のため使用できません</original>
+	<translation>Items cannot be used because they are sealed.</translation>
   </message>
   <message>
     <key>ana_cpOmOneWay</key>

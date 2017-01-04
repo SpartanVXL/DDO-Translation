@@ -202,12 +202,16 @@
   <message>
     <key>item_conf_disposal</key>
     <original>以下のアイテムを破棄します。よろしいですか？</original>
+	<translation>Are you sure you want to discard the following?</translation>
   </message>
   <message>
     <key>item_conf_buy</key>
     <original>以下のアイテムを売却します。よろしいですか？
 
 　売却価格：&lt;VAL GOLD&gt;</original>
+<translation>Are you sure you want to sell the following?
+
+Sell Price: &lt;VAL GOLD&gt;</translation>
   </message>
   <message>
     <key>item_title_depositbox_en</key>
