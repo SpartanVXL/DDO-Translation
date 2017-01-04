@@ -99,7 +99,7 @@
   <message>
     <key>CLAN_STATUS_MEMBER_NUM</key>
     <original>&lt;VAL&gt;名</original>
-    <translation>&lt;VAL&gt; people</translation>
+    <translation>&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_GUIDE_EDIT</key>
@@ -109,10 +109,12 @@
   <message>
     <key>CLAN_STATUS_MSG_DATE_LAST_LOGIN</key>
     <original>最終ログイン日</original>
+    <translation>Last Login Date</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_GUIDE_CHECK_CLANAP</key>
     <original>累計ポイントの確認</original>
+    <translation>Confirm total points</translation>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_NOT_AFFILIATION_CLAN</key>

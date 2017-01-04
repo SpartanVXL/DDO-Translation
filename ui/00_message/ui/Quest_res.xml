@@ -538,6 +538,7 @@ Rare material available!</translation>
   <message>
     <key>QUEST_MSG_CLAN_QUEST_CAP_ENABLE_CLEAR</key>
     <original>CP報酬の有効クリア回数</original>
+    <translation>CP reward clear count</translation>
   </message>
   <message>
     <key>QUEST_MSG_CLAN_QUEST_NUM_ENABLE_CLEAR</key>
@@ -564,9 +565,10 @@ Rare material available!</translation>
 すべてのクエストを一括してクリア状態にします
 &lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;を消費して、一括クリアしますか？
 (所持数：&lt;VAL&gt;)</original>
-    <translation>All quests delivered from this
-Quest Board can be cleared.
-Are you sure you want to use &lt;COL ffdc78&gt;Golden Gemstone x&lt;VAL&gt;&lt;/COL&gt; to clear all?
+    <translation>All quests delivered from this Quest Board
+can be cleared.
+Are you sure you want to use
+&lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt; to clear all quests?
 (Have: &lt;VAL&gt;)
 </translation>
   </message>

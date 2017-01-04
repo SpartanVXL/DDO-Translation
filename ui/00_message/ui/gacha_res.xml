@@ -349,10 +349,12 @@
   <message>
     <key>gacha_msg_getitem</key>
     <original>獲得アイテム</original>
+    <translation>Item earned</translation>
   </message>
   <message>
     <key>gacha_msg_getnum</key>
     <original>獲得数</original>
+    <translation>Num earned</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_select_playnum</key>
@@ -442,10 +444,12 @@ Payment Method: &lt;VAL&gt;</translation>
   <message>
     <key>gacha_msg_sp_price</key>
     <original>特別価格（あと&lt;VAL&gt;回利用可能）</original>
+    <translation>Special price (&lt;VAL&gt; times available)</translation>
   </message>
   <message>
     <key>gacha_msg_sp_price_end</key>
     <original>ご利用ありがとうございました</original>
+    <translation>Thank you for your use</translation>
   </message>
   <message>
     <key>gacha_msg_dialog_select_price</key>

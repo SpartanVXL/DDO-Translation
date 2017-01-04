@@ -52,18 +52,22 @@
   <message>
     <key>myroom_menu_pawn_quest</key>
     <original>お願いを聞く</original>
+    <translation>Grant Request</translation>
   </message>
   <message>
     <key>myroom_pawn_quest_order</key>
     <original>よし、わかった</original>
+    <translation>All right, I got it</translation>
   </message>
   <message>
     <key>myroom_pawn_quest_disp_ui</key>
     <original>詳細を聞く</original>
+    <translation>Let's hear the details</translation>
   </message>
   <message>
     <key>myroom_pawn_quest_no_order</key>
     <original>またあとで</original>
+    <translation>Maybe later</translation>
   </message>
   <message>
     <key>myroom_menu_pwan_quest_talk</key>
@@ -72,5 +76,6 @@
   <message>
     <key>myroom_menu_pawn_quest_clear</key>
     <original>思い出話</original>
+    <translation>Reminisce</translation>
   </message>
 </resource>
