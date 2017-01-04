@@ -1,15 +1,15 @@
 ﻿<resource>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_113</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;を押して構えてから&lt;ICON MOUSE_WHL_4&gt;で構え切替</original>
+    <original>&lt;PADM&gt;&lt;KC WEAPON_SUB&gt;を押す&lt;KEYM&gt;&lt;KC HOLD_BOW&gt;を押して構えてから&lt;ICON MOUSE_WHL_4&gt;で構え切替（初期設定の場合）</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_114</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら右スティックを倒す&lt;KEYM&gt;闘波の構え中にマウス移動</original>
+    <original>&lt;PADM&gt;&lt;KC WEAPON_SUB&gt;を押しながら右スティックを倒す&lt;KEYM&gt;闘波の構え中にマウス移動</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_115</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;を押しながら&lt;ICON PAD_L2&gt;または&lt;ICON PAD_R2&gt;を押す&lt;KEYM&gt;闘波の構え中に&lt;ICON MOUSE_CL_L&gt;を押す</original>
+    <original>闘波の構え中に&lt;KC SHOOT&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_116</key>
@@ -17,15 +17,15 @@
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_117</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;を押して構えてから&lt;ICON MOUSE_WHL_4&gt;で構え切替</original>
+    <original>&lt;PADM&gt;&lt;KC WEAPON_MAIN&gt;を押す&lt;KEYM&gt;&lt;KC HOLD_BOW&gt;を押して構えてから&lt;ICON MOUSE_WHL_4&gt;で構え切替（初期設定の場合）</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_118</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら右スティックを倒す&lt;KEYM&gt;助真の構え中にマウス移動</original>
+    <original>&lt;PADM&gt;&lt;KC WEAPON_MAIN&gt;を押しながら右スティックを倒す&lt;KEYM&gt;助真の構え中にマウス移動</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_119</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_MAIN_WEP&gt;を押しながら&lt;ICON PAD_L2&gt;または&lt;ICON PAD_R2&gt;を押す&lt;KEYM&gt;助真の構え中に&lt;ICON MOUSE_CL_L&gt;を押す</original>
+    <original>助真の構え中に&lt;KC SHOOT&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_120</key>
@@ -33,18 +33,18 @@
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_121</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;を押す</original>
+    <original>&lt;KC ATTACK1&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_122</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_ATTACK_1&gt;を押す&lt;KEYM&gt;&lt;ICON KB_Q&gt;を押す</original>
+    <original>&lt;KC CHANGE_ARROW&gt;を押す</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_123</key>
-    <original>&lt;PADM&gt;&lt;ICON STG_SUB_WEP&gt;または&lt;ICON STG_MAIN_WEP&gt;を押しながら右スティックを倒す&lt;KEYM&gt;闘波／助真の構え中にマウス移動</original>
+    <original>&lt;PADM&gt;&lt;KC WEAPON_SUB&gt;または&lt;KC WEAPON_MAIN&gt;を押しながら右スティックを倒す&lt;KEYM&gt;闘波／助真の構え中にマウス移動</original>
   </message>
   <message>
     <key>NORMAL_SKILL_COMMAND_08_135</key>
-    <original>&lt;PADM&gt;しがみつき中に&lt;ICON STG_ATTACK_0&gt;を押す&lt;KEYM&gt;しがみつき中に&lt;ICON MOUSE_CL_L&gt;を押す</original>
+    <original>しがみつき中に&lt;KC ATTACK1&gt;を押す</original>
   </message>
 </resource>

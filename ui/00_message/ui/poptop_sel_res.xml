@@ -257,8 +257,8 @@
   </message>
   <message>
     <key>poptop_clan_management</key>
-    <original>クラン管理</original>
-    <translation>View Status</translation>
+    <original>クランステータス</original>
+    <translation>Clan Status</translation>
   </message>
   <message>
     <key>poptop_clan_entry_now</key>
@@ -341,7 +341,7 @@
   </message>
   <message>
     <key>poptop_clan_member_num</key>
-    <original>&lt;VAL&gt;名</original>
+    <original>メンバー&lt;VAL&gt;名</original>
     <translation>&lt;VAL&gt; members</translation>
   </message>
   <message>
@@ -377,6 +377,7 @@
   <message>
     <key>poptop_clan_interval_now</key>
     <original>インターバル期間中</original>
+    <translation>Interval Duration</translation>
   </message>
   <message>
     <key>poptop_entryboard_less_member_go</key>
@@ -395,12 +396,13 @@
   </message>
   <message>
     <key>poptop_depositbox_menu_01</key>
-    <original>通常枠</original>
-    <translation>Normal</translation>
+    <original>引き出す / 預ける</original>
+    <translation>Withdraw / Deposit</translation>
   </message>
   <message>
     <key>poptop_clan_invite_direct</key>
     <original>直接招待</original>
+    <translation>Direct Invites</translation>
   </message>
   <message>
     <key>poptop_depositbox_menu_ex01</key>
@@ -410,6 +412,7 @@
   <message>
     <key>poptop_lot_normal</key>
     <original>通常ロット</original>
+    <translation>Normal Lot</translation>
   </message>
   <message>
     <key>poptop_lot_box</key>
@@ -425,5 +428,25 @@
     <key>poptop_deli_box</key>
     <original>アイテムポスト</original>
     <translation>Item Post</translation>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_4</key>
+    <original>ポーン遠征隊の状況確認</original>
+    <translation>Pawn Expedition Corps Status</translation>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_1</key>
+    <original>拠点拡張</original>
+    <translation>Hall Expansion</translation>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_2</key>
+    <original>ポーン遠征隊支援</original>
+    <translation>Pawn Expedition Corps Support</translation>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_3</key>
+    <original>クラン執務官の変更</original>
+    <translation>Change Clan Officers</translation>
   </message>
 </resource>

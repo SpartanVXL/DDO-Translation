@@ -267,7 +267,7 @@
   <message>
     <key>STAGE_NAME_56</key>
     <original>術師の取引所</original>
-    <translation>Alchemist's Exchange</translation>
+    <translation>Specialist Trading Post</translation>
   </message>
   <message>
     <key>STAGE_NAME_57</key>
@@ -831,6 +831,7 @@
   <message>
     <key>STAGE_NAME_170</key>
     <original>水陰の淵辺</original>
+    <translation>Deep Water's Edge</translation>
   </message>
   <message>
     <key>STAGE_NAME_171</key>
@@ -840,6 +841,7 @@
   <message>
     <key>STAGE_NAME_172</key>
     <original>妖精の枯れ井戸</original>
+    <translation>Fairy's Withered Well</translation>
   </message>
   <message>
     <key>STAGE_NAME_173</key>
@@ -1256,22 +1258,40 @@
   <message>
     <key>STAGE_NAME_335</key>
     <original>魔赤島</original>
-    <translation>Maseki Island</translation>
+    <translation>Bloodbane Isle</translation>
   </message>
   <message>
     <key>STAGE_NAME_336</key>
     <original>魔赤島・絶崖</original>
-    <translation>Maseki Island Precipice</translation>
+    <translation>Bloodbane Isle Precipice</translation>
   </message>
   <message>
     <key>STAGE_NAME_337</key>
     <original>魔赤島・山頂</original>
-    <translation>Maseki Island Summit</translation>
+    <translation>Bloodbane Isle Summit</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_339</key>
+    <original>守り人の庵</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_340</key>
+    <original>モルフォール・セントラム</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_341</key>
+    <original>ダナ・セントラム</original>
+    <translation>Dana Centrum</translation>
   </message>
   <message>
     <key>STAGE_NAME_342</key>
     <original>レオのアジト</original>
     <translation>Leo's Hideout</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_347</key>
+    <original>クラン拠点</original>
+    <translation>Clan Hall</translation>
   </message>
   <message>
     <key>STAGE_NAME_348</key>
@@ -1354,9 +1374,59 @@
     <translation>Dried Well by the Tower</translation>
   </message>
   <message>
+    <key>STAGE_NAME_366</key>
+    <original>ファーラナ遺跡</original>
+    <translation>Farana Ruins</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_368</key>
+    <original>ネビュラ小神殿</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_371</key>
+    <original>ファーラナ平原</original>
+    <translation>Farana Plains</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_372</key>
+    <original>エラン水林</original>
+    <translation>Elan Water Grove</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_373</key>
+    <original>キンガル峡谷</original>
+    <translation>Kingal Canyon</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_374</key>
+    <original>モロー樹林</original>
+    <translation>Morrow Forest</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_375</key>
+    <original>シェドレアン大神殿</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_376</key>
+    <original>シェドレアン大神殿</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_377</key>
+    <original>グリンデュア・セントラム</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_378</key>
+    <original>サウザネル侵林</original>
+    <translation>Sauzanel Infected Woods</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_401</key>
+    <original>武霊の庵</original>
+  </message>
+  <message>
     <key>STAGE_NAME_405</key>
     <original>異界の狭間　深層部</original>
-    <translation>The Rift Depths</translation>
+    <translation>The Rift's Inner Depths</translation>
   </message>
   <message>
     <key>STAGE_NAME_406</key>
@@ -1378,6 +1448,44 @@
     <translation>Scorching Blocked Passage</translation>
   </message>
   <message>
+    <key>STAGE_NAME_413</key>
+    <original>ダナンデール洞窟</original>
+    <translation>Danandell Cave</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_414</key>
+    <original>モローへの小路</original>
+    <translation>Path to Morrow</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_415</key>
+    <original>虹舞い洞窟</original>
+    <translation>Dancing Rainbow Cave</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_416</key>
+    <original>密林の鍾乳洞</original>
+    <translation>Jungle Limestone Caves</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_417</key>
+    <original>侵鬼の洞穴</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_418</key>
+    <original>モローケイヴァン</original>
+    <translation>Morrow Cavern</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_419</key>
+    <original>ダナウィンの挑堂</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_420</key>
+    <original>マグサス古水路</original>
+    <translation>Magusas Ancient Watercourse</translation>
+  </message>
+  <message>
     <key>STAGE_NAME_423</key>
     <original>古き地下水網</original>
     <translation>Ancient Underground Channels</translation>
@@ -1386,6 +1494,11 @@
     <key>STAGE_NAME_424</key>
     <original>秘匿の実験場</original>
     <translation>Secret Proving Ground</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_425</key>
+    <original>藤棚の枯井戸</original>
+    <translation>Wisteria Arbor Withering Well</translation>
   </message>
   <message>
     <key>STAGE_NAME_426</key>
@@ -1400,6 +1513,11 @@
     <key>STAGE_NAME_428</key>
     <original>飛天のテラス</original>
     <translation>Heavenly Terrace</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_429</key>
+    <original>グリンメル遺跡</original>
+    <translation>Grinmel Ruins</translation>
   </message>
   <message>
     <key>STAGE_NAME_430</key>
@@ -1419,7 +1537,15 @@
   <message>
     <key>STAGE_NAME_433</key>
     <original>魔赤島</original>
-    <translation>Maseki Island</translation>
+    <translation>Bloodbane Isle</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_434</key>
+    <original>ダナ族長の家</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_435</key>
+    <original>モルフォール族長の家</original>
   </message>
   <message>
     <key>STAGE_NAME_437</key>
@@ -1441,11 +1567,24 @@
   <message>
     <key>STAGE_NAME_444</key>
     <original>魔赤島・山頂</original>
-    <translation>Maseki Island Summit</translation>
+    <translation>Bloodbane Isle Summit</translation>
   </message>
   <message>
     <key>STAGE_NAME_452</key>
     <original>古の祭祀場</original>
     <translation>Ancient Place of Rituals</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_455</key>
+    <original>シェドレアン大神殿</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_459</key>
+    <original>ファーラナ平原</original>
+    <translation>Farana Plains</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_460</key>
+    <original>クラン拠点ボードクエスト用検証部屋</original>
   </message>
 </resource>

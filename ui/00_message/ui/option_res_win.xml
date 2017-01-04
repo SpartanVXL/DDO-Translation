@@ -37,6 +37,7 @@
   <message>
     <key>OPTION_MSG_TAB_BGM</key>
     <original>BGM</original>
+    <translation>BGM</translation>
   </message>
   <message>
     <key>OPTION_MSG_TAB_SE</key>
@@ -131,6 +132,7 @@
   <message>
     <key>OPTION_MSG_DFORMAT_JPEG</key>
     <original>JPEG</original>
+    <translation>JPEG</translation>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_GENERAL</key>
@@ -140,6 +142,7 @@
   <message>
     <key>OPTION_MSG_CATEGORY_HUD</key>
     <original>HUD</original>
+    <translation>HUD</translation>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_OVERHEAD</key>
@@ -169,6 +172,7 @@
   <message>
     <key>OPTION_MSG_TAB_NPC</key>
     <original>NPC</original>
+    <translation>NPC</translation>
   </message>
   <message>
     <key>OPTION_MSG_TAB_NOTICE</key>
@@ -193,6 +197,7 @@
   <message>
     <key>OPTION_MSG_TITLE_M_TITLE02</key>
     <original>Game Config</original>
+    <translation>Game Config</translation>
   </message>
   <message>
     <key>OPTION_MSG_TITLE_M_TITLE03</key>
@@ -242,7 +247,7 @@
   <message>
     <key>OPTION_MSG_CAPTION_CSOUND</key>
     <original>エクストラサウンド</original>
-    <translation>Extra Sound</translation>
+    <translation>Extra Sounds</translation>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CSET</key>
@@ -287,6 +292,7 @@
   <message>
     <key>OPTION_MSG_CAPTION_NPC_DISP</key>
     <original>NPC</original>
+    <translation>NPC</translation>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_OBJ_DISP</key>
@@ -389,6 +395,7 @@
   <message>
     <key>OPTION_MSG_ISCSOUND</key>
     <original>他人のサウンドを受け入れる</original>
+    <translation>Accept Others' Sound</translation>
   </message>
   <message>
     <key>OPTION_MSG_ISAHEAD</key>
@@ -1638,5 +1645,121 @@ Are you sure you want to exit configuration?</translation>
     <key>OPTION_MSG_CAPTION_LIGHT</key>
     <original>ライティング全般</original>
     <translation>Lighting Options</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_KEY_SETTING</key>
+    <original>キー設定</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_KEY_SETTING_DEFAULT</key>
+    <original>デフォルト</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_KEY_SETTING_CUSTOMIZE</key>
+    <original>カスタマイズ&lt;VAL&gt;</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_KEY_CONFIG</key>
+    <original>キーコンフィグ</original>
+    <translation>Key Config</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_KEY_CONFIG_CUSTOMIZE</key>
+    <original>カスタマイズ</original>
+    <translation>Customize</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_JOB_CHANGE_AUTO_KEY_CHANGE</key>
+    <original>転職時にキーコンフィグを自動変更する</original>
+    <translation>Automatic Key Config Switch on Vocation Change</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_JOB_CHANGE_AUTO_KEY_CHANGE_CUSTOMI</key>
+    <original>カスタマイズ</original>
+    <translation>Customize</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_LINK_JOB_KEY</key>
+    <original>ジョブとキーコンフィグの関連付け</original>
+    <translation>Associate Vocation with Key Config</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_LINK_JOB_KEY_NOT_AUTO_CHANGE</key>
+    <original>自動変更しない</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_CAMERARANGE_MAGIC</key>
+    <original>詠唱中のカメラ設定</original>
+    <translation>Camera Distance when Casting</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_CAMERARANGE_MAGIC_NEAR</key>
+    <original>近距離</original>
+    <translation>Near</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_CAMERARANGE_MAGIC_FAR</key>
+    <original>遠距離</original>
+    <translation>Far</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_CAMERARANGE_BOW</key>
+    <original>弓構え中のカメラ設定</original>
+    <translation>Camera Distance when Aiming Bow</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_CAMERARANGE_BOW_NEAR</key>
+    <original>近距離</original>
+    <translation>Near</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_CAMERARANGE_BOW_FAR</key>
+    <original>遠距離</original>
+    <translation>Far</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_MINIMAP_OPE_TYPECHANGE</key>
+    <original>ミニマップ操作の起動で、自動的にウィンドウを拡大させる</original>
+    <translation>During Mini-map Operation, automatically enlarge the window</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB</key>
+    <original>リム転移画面のデフォルトタブ設定</original>
+    <translation>Rift Teleport Default Tab</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_MAIN</key>
+    <original>拠点の礎</original>
+    <translation>Portcrystals</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_SUB</key>
+    <original>辺境の礎</original>
+    <translation>Sub Portcrystals</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_FAVORITE</key>
+    <original>マイ拠点</original>
+    <translation>Favorites</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_ALL</key>
+    <original>すべての礎</original>
+    <translation>All</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_LOBBY</key>
+    <original>神殿内</original>
+    <translation>Temple</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_LINK_JOB_KEY_TEXT</key>
+    <original>%sで使うキーコンフィグ</original>
+    <translation>Key Config used by %s</translation>
+  </message>
+  <message>
+    <key>OPTION_MSG_LINK_JOB_KEY_BT_BACK_SAVE_STATE</key>
+    <original>変更前に戻す</original>
+    <translation>Revert</translation>
   </message>
 </resource>

@@ -1,12 +1,12 @@
 ﻿<resource>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;&lt;KEYM&gt;左クリック&lt;/KEYM&gt;&lt;/COL&gt;で連撃！連続して押せば３連撃だ！</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;で連撃！連続して押せば３連撃だ！</original>
   </message>
   <message>
-    <original>ガード中の敵に&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RU&gt;&lt;KEYM&gt;右クリック&lt;/KEYM&gt;&lt;/COL&gt;で斬り崩し！敵のガードを崩すんだ！</original>
+    <original>ガード中の敵に&lt;COL ff7575&gt;&lt;KCT ATTACK2&gt;&lt;/COL&gt;で斬り崩し！敵のガードを崩すんだ！</original>
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN L1&gt;&lt;KEYM&gt;Shiftキー&lt;/KEYM&gt;&lt;/COL&gt;でガード！敵の攻撃を防げ！</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT WEAPON_SUB&gt;&lt;/COL&gt;でガード！敵の攻撃を防げ！</original>
   </message>
   <message>
     <original>よし、最後の仕上げだ。祠の奥へ向かい、そこにいる敵を連撃や斬り崩しで倒すんだ！ガードも忘れるなよ</original>

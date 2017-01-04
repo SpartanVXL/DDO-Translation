@@ -1,15 +1,15 @@
 ﻿<resource>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;&lt;KEYM&gt;左クリック&lt;/KEYM&gt;&lt;/COL&gt;の破斬で敵を攻撃するんだ！　</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;の破斬で敵を攻撃するんだ！</original>
   </message>
   <message>
-    <original>ジャンプ中に&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;&lt;KEYM&gt;左クリック&lt;/KEYM&gt;&lt;/COL&gt;で空破斬だ。敵を頭上から攻撃するんだ！</original>
+    <original>ジャンプ中に&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;で空破斬だ。敵を頭上から攻撃するんだ！</original>
   </message>
   <message>
     <original>敵をダウンさせやすいので追撃に効果的だぞ！</original>
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RU&gt;&lt;KEYM&gt;右クリック&lt;/KEYM&gt;&lt;/COL&gt;で魔人斬りだ！渾身の一撃を叩きこめ！</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT ATTACK2&gt;&lt;/COL&gt;で魔人斬りだ！渾身の一撃を叩きこめ！</original>
   </message>
   <message>
     <original>空破斬で敵をダウンさせた状態で行うと当てやすいぞ！</original>
@@ -18,7 +18,7 @@
     <original>今度は、魔人斬りをジャストタイミングで叩き込め！ゲージが満ち光る瞬間が、最も破壊力が高まるその時だ！</original>
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN L1&gt;／&lt;KEYN R1&gt;＋&lt;KEYN RD&gt;&lt;KEYM&gt;Qキー&lt;/KEYM&gt;&lt;/COL&gt;で耐魔の身構えだ！</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT AVOID&gt;&lt;/COL&gt;で耐魔の身構えだ！</original>
   </message>
   <message>
     <original>敵からのダメージを最小限にしつつ、効果的にリベンジゲージを溜めれるぞ！</original>
@@ -33,10 +33,10 @@
     <original>よし、では祠の奥へ向かい大型敵と対峙だ！大型敵の&lt;COL ff7575&gt;＜怒り状態＞&lt;/COL&gt;に注意しろ！</original>
   </message>
   <message>
-    <original>そして&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RR&gt;&lt;KEYM&gt;Ｅキー&lt;/KEYM&gt;&lt;/COL&gt;でヤツにしがみつけ！</original>
+    <original>そして&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;でヤツにしがみつけ！</original>
   </message>
   <message>
-    <original>その状態で&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;&lt;KEYM&gt;左クリック&lt;/KEYM&gt;&lt;/COL&gt;で魔倒斬りだ！</original>
+    <original>その状態で&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;で魔倒斬りだ！</original>
   </message>
   <message>
     <original>では大型敵の&lt;COL ff7575&gt;＜怒り状態＞&lt;/COL&gt;に注意してヤツを仕留めるんだ！</original>

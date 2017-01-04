@@ -12,7 +12,7 @@
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_108</key>
     <original>&lt;PADM&gt;セットボタンを押し、左スティックを倒して５属性を選択&lt;KEYM&gt;セットボタンを押し、マウス移動で５属性を選択&lt;/KEYM&gt;
-&lt;PADM&gt;セットボタンを押して属性決定&lt;KEYM&gt;&lt;ICON MOUSE_CL_L&gt;または&lt;ICON MOUSE_CL_R&gt;をクリックして属性決定</original>
+&lt;KC ATTACK1&gt;または&lt;KC ATTACK2&gt;を押して属性決定</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_109</key>
@@ -43,5 +43,9 @@
     <key>CUSTOM_SKILL_COMMAND_09_112</key>
     <original>セットボタンを押す</original>
     <translation>Press the assigned button.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_09_113</key>
+    <original>セットボタンを押す</original>
   </message>
 </resource>

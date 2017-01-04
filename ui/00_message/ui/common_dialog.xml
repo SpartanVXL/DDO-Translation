@@ -413,14 +413,17 @@ You have &lt;VAL&gt; remaining.</translation>
     <original>&lt;NAME CLAN&gt;に
 加入申請をします。よろしいですか？
 （一定期間承認されない場合、申請はキャンセルされます）</original>
-    <translation>You will submit an application to join &lt;NAME CLAN&gt;.
+    <translation>You will submit an application to
+join &lt;NAME CLAN&gt;.
 Are you sure?
-(If it is not accepted within a period of time, the invite will be canceled)</translation>
+(If it is not accepted within a period of time,
+the invite will be canceled)</translation>
   </message>
   <message>
     <key>ana_clan_join</key>
     <original>&lt;NAME CLAN&gt;に加入申請しました</original>
-    <translation>You have submitted an application to join &lt;NAME CLAN&gt;.</translation>
+    <translation>You have submitted an application to
+join &lt;NAME CLAN&gt;.</translation>
   </message>
   <message>
     <key>ana_clan_join_cancel_q</key>
@@ -480,7 +483,8 @@ Are you sure?</translation>
 （一定期間承認されない場合、申請はキャンセルされます）</original>
     <translation>&lt;NAME TARGET&gt; will be invited to the clan.
 Are you sure?
-(If it is not accepted within a period of time, the invite will be canceled)</translation>
+(If it is not accepted within a period of time,
+the invite will be canceled)</translation>
   </message>
   <message>
     <key>ana_clan_invite</key>
@@ -1405,9 +1409,9 @@ They will leave the party.</translation>
   <message>
     <key>ana_mail_ana_notificationmail_full</key>
     <original>運営メールボックスがいっぱいです
-運営メールを受け取るには削除してください</original>
+新しい運営メールを受信するには、不要になった運営メールを削除してください</original>
     <translation>Your mailbox is full.
-Please delete some mail to receive new mails.</translation>
+Please delete unneeded mail to receive new mails.</translation>
   </message>
   <message>
     <key>ana_mail_ana_notificationmail_full_near</key>
@@ -1635,7 +1639,7 @@ Are you sure?</translation>
   <message>
     <key>ana_box_err_exspace</key>
     <original>拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
-    <translation>You cannot use the expanded storage.
+    <translation>You cannot use the storage expansion.
 The effect of "&lt;OPCS&gt;" will allow this.</translation>
   </message>
   <message>
@@ -1908,7 +1912,7 @@ please wait for a while.
   <message>
     <key>ana_box_disable</key>
     <original>拡張枠は使用できません</original>
-    <translation>This cannot be used.</translation>
+    <translation>Storage expansion cannot be used.</translation>
   </message>
   <message>
     <key>ana_nomore_choice</key>
@@ -2272,6 +2276,7 @@ and activated.
   <message>
     <key>ana_mail_deleted</key>
     <original>削除しました</original>
+    <translation>It has been deleted.</translation>
   </message>
   <message>
     <key>ana_mail_delete_all_read_mail_0</key>
@@ -2350,6 +2355,7 @@ and activated.
   <message>
     <key>ana_CLAN_ERR_INTERVAL</key>
     <original>クランインターバル期間中のためできません</original>
+    <translation>You cannot in the duration of the Clan Interval.</translation>
   </message>
   <message>
     <key>ana_already_received_supplies</key>
@@ -2484,6 +2490,141 @@ and activated.
   </message>
   <message>
     <key>ana_item_cannot_use_by_bat_status</key>
-    <original>状態異常中のため使用できません</original>
+    <original>アイテム封印中のため使用できません</original>
+  </message>
+  <message>
+    <key>ana_cpOmOneWay</key>
+    <original>壁の向こう側へ移動しますか？</original>
+  </message>
+  <message>
+    <key>ana_cpOmJukeBox</key>
+    <original>再生するアビリティを選択してください</original>
+  </message>
+  <message>
+    <key>ana_cpOmJukeBox_stop</key>
+    <original>曲を止める</original>
+  </message>
+  <message>
+    <key>ana_clan_kyoten_ng_pass_stage</key>
+    <original>&lt;STG 210&gt;は解放されていません</original>
+    <translation>&lt;STG 210&gt; has not been unlocked.</translation>
+  </message>
+  <message>
+    <key>ana_clan_kyoten_ng_pass_door</key>
+    <original>この扉は解放されていません</original>
+    <translation>This door has not been unlocked.</translation>
+  </message>
+  <message>
+    <key>ana_PARTNERPAWN_SET_ng_quest_order</key>
+    <original>ポーンクエスト受注中のときは変更できません</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_dialog_overlap</key>
+    <original>重複しているキーがあるため
+閉じることができません</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_dialog_overlap_item_1</key>
+    <original>重複しているキーを変更前に戻して閉じる</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_announce_err_01</key>
+    <original>このキーはブランクキーにできません</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_edit_name_title</key>
+    <original>名前の編集</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_dialog_copy_select</key>
+    <original>どれにコピーしますか？</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_dialog_copy_conf</key>
+    <original>キーコンフィグ内容をコピーします
+よろしいですか？
+
+　コピー元：%s
+　コピー先：%s</original>
+  </message>
+  <message>
+    <key>ana_clan_authority_settings_err_01</key>
+    <original>変更する権限がありません</original>
+  </message>
+  <message>
+    <key>ana_clan_authority_settings_err_02</key>
+    <original>インターバル期間中のため変更できません</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_dialog_category_initialization_</key>
+    <original>すべてのキーを初期設定に戻します
+よろしいですか？</original>
+  </message>
+  <message>
+    <key>ana_itembox_submenu_tooltip_senditempost</key>
+    <original>アイテムポストには送れません</original>
+  </message>
+  <message>
+    <key>ana_INVITE_PARTY_ERR_PAWN_EXPEDITION</key>
+    <original>遠征中は呼び出せません</original>
+  </message>
+  <message>
+    <key>ana_PARTNERPAWN_SET_ng_pawn_expedition</key>
+    <original>遠征中は変更できません</original>
+  </message>
+  <message>
+    <key>ana_clan_err_applying</key>
+    <original>すでに申請中のため選べません</original>
+  </message>
+  <message>
+    <key>ana_TreasurePoint_Discovery</key>
+    <original>小さくきらめく何かを発見した！</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_announce_auto_key_change</key>
+    <original>キーコンフィグを「%s」に変更しました</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_dialog_not_yet_saved_attention</key>
+    <original>キーコンフィグの変更はまだ保存されていません
+デバイス設定の適用ボタンを押してください
+
+&lt;COL aa1414&gt;キーコンフィグによる設定キーの変更は
+ゲームが正しく動作しない可能性があります
+ご注意ください&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_dialog_link_job_key_alteration</key>
+    <original>ジョブとキーコンフィグの関連付けの
+変更はまだ保存されていません
+デバイス設定の適用ボタンを押してください</original>
+  </message>
+  <message>
+    <key>ana_mail_err_not_receive_item</key>
+    <original>添付アイテムを受け取っていないため削除できません</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_dialog_all_blank</key>
+    <original>すべてのキーをブランクキーにします
+よろしいですか？
+（一部のキーはブランクキーにできません）</original>
+  </message>
+  <message>
+    <key>ana_keyconfig_ng_can_not_be_changed</key>
+    <original>このキーは変更できません</original>
+  </message>
+  <message>
+    <key>ana_entry_invitation_clan_pt_conf</key>
+    <original>同じクランに所属しているパーティーメンバーを
+エントリーボードに招待します。よろしいですか？</original>
+  </message>
+  <message>
+    <key>ana_entry_invitation_clan_pt_deci</key>
+    <original>同じクランに所属しているパーティーメンバーを
+エントリーボードに招待しました</original>
+  </message>
+  <message>
+    <key>ana_entryb_clan_member_disable</key>
+    <original>同じクランに所属しているメンバーにのみ使用できます</original>
   </message>
 </resource>

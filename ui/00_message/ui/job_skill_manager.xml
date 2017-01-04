@@ -123,6 +123,7 @@ to level it up?</translation>
   <message>
     <key>dropdown_ability_search</key>
     <original>検索結果</original>
+    <translation>Search Results</translation>
   </message>
   <message>
     <key>announce_ability_search_result</key>
@@ -308,5 +309,42 @@ to level it up?</translation>
     <key>btn_guide_change_skill_pallet</key>
     <original>スキルパレット切り替え</original>
     <translation>Switch Skill Palette</translation>
+  </message>
+  <message>
+    <key>btn_guide_change_pp_mode</key>
+    <original>&lt;UNIT XP&gt;/&lt;UNIT PP&gt; 切り替え</original>
+    <translation>Switch &lt;UNIT XP&gt;/&lt;UNIT PP&gt;</translation>
+  </message>
+  <message>
+    <key>dialog_ability_learn</key>
+    <original>&lt;VAL&gt;の
+&lt;VAL JP&gt;を消費して習得します
+よろしいですか？</original>
+  </message>
+  <message>
+    <key>dialog_ability_lvup</key>
+    <original>&lt;VAL&gt;の
+&lt;VAL JP&gt;を消費してレベルアップします
+よろしいですか？</original>
+  </message>
+  <message>
+    <key>ability_search_learn_check</key>
+    <original>習得済み</original>
+  </message>
+  <message>
+    <key>ability_search_not_learn_check</key>
+    <original>未修得</original>
+  </message>
+  <message>
+    <key>ability_search_header_cost</key>
+    <original>コスト</original>
+  </message>
+  <message>
+    <key>ability_search_cost_over</key>
+    <original>以上</original>
+  </message>
+  <message>
+    <key>ability_search_cost_under</key>
+    <original>以下</original>
   </message>
 </resource>

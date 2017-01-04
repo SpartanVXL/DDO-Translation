@@ -11,8 +11,8 @@
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_LV</key>
-    <original>レベル</original>
-    <translation>Level</translation>
+    <original>ジョブレベル指定</original>
+    <translation>Specify Vocation Level</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_SKILL</key>
@@ -62,7 +62,7 @@
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL04</key>
     <original>消耗品の生産数アップ</original>
-    <translation>onsumable Production Quantity</translation>
+    <translation>Consumable Quantity</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SKILL_M_SKILL05</key>
@@ -105,20 +105,27 @@
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_MALE</key>
-    <original>男</original>
+    <original>男性</original>
     <translation>Male</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_FEMALE</key>
-    <original>女</original>
+    <original>女性</original>
     <translation>Female</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SEARCH_JOB</key>
     <original>ジョブで探す</original>
+    <translation>Search by Job</translation>
   </message>
   <message>
     <key>RIM_POP_MSG_SEARCH_CRAFTSKILL</key>
     <original>クラフトスキルで探す</original>
+    <translation>Search by Craft Skill</translation>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_CHARACTER_M_IR</key>
+    <original>アイテムランク指定</original>
+    <translation>Specify Item Rank</translation>
   </message>
 </resource>

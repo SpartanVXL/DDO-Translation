@@ -1,0 +1,60 @@
+﻿<resource>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_143</key>
+    <original>斬り上げながら敵を打ち上げる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６でボタンの追加入力により派生斬りが発動&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_144</key>
+    <original>槍を振り払い、周囲を巻き込みながら攻撃する
+空中発動可能
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６でのけぞり、吹き飛び中でも発動可能&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_146</key>
+    <original>力を溜めて離れた敵を攻撃する
+初段がヒットすることで連続ヒットする追撃が発生
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で溜め段階拡張（１→２）&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_149</key>
+    <original>体力回復と防御力上昇効果の霊力エリアを展開する
+エリアに接触した味方へ一定時間効果を付与
+&lt;COL ffdc78&gt;LV UP毎に効果時間延長
+LV.６で展開エリアの設置時間延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_145</key>
+    <original>前方に連続して攻撃を繰り出す
+攻撃回数によって最後の一撃の威力が変化する
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で最大攻撃回数増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_147</key>
+    <original>攻撃すると衝撃波が発生する霊球を発現する
+霊球は攻撃を受けることで霊力が溜まり
+起爆することも可能／起爆は空中発動可能
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で霊力最大の起爆ヒット数増加／溜まる霊力増加&lt;/COL&gt; </original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_150</key>
+    <original>自身を中心に体力回復と状態異常回復の霊球を展開
+溜め時間に応じて範囲が拡大し
+最大範囲になることで性能が上昇する
+&lt;COL ffdc78&gt;LV UP毎に展開時間延長
+LV.６で展開エリアの最大サイズが拡張&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_148</key>
+    <original>自身を中心に、敵の攻撃を防ぐバリアを発現させる
+展開中に敵を攻撃するとバリアに霊力が溜まり
+セットボタンを押すと霊力を使って攻撃可能
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇／バリア展開時間延長
+LV.６でバリアの耐久値増加（１→２）&lt;/COL&gt;</original>
+  </message>
+</resource>

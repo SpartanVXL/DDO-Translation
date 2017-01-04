@@ -477,7 +477,7 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_craft_consume_gold</key>
     <original>&lt;VAL GOLD&gt;を消費しました</original>
-    <translation>&lt;VAL GOLD&gt; has been spent.</translation>
+    <translation>&lt;VAL GOLD&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_craft_start</key>
@@ -627,17 +627,17 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_money_get</key>
     <original>&lt;VAL G&gt;を入手しました</original>
-    <translation>Obtained &lt;VAL G&gt;.</translation>
+    <translation>&lt;VAL G&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_rim_get</key>
     <original>&lt;VAL R&gt;を入手しました</original>
-    <translation>Obtained &lt;VAL R&gt;.</translation>
+    <translation>&lt;VAL R&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_bo_get</key>
     <original>&lt;VAL BO&gt;を入手しました</original>
-    <translation>Obtained &lt;VAL BO&gt;.</translation>
+    <translation>&lt;VAL BO&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_bless_get</key>
@@ -796,9 +796,9 @@ Report to the Job Master.</translation>
   </message>
   <message>
     <key>syslog_mission_result_guid</key>
-    <original>リザルト確認後、&lt;NAME SPOT&gt;に帰還します</original>
+    <original>リザルト確認後、担当NPC前に帰還します</original>
     <translation>After confirming the results, you will be
-returned to &lt;NAME SPOT&gt;.</translation>
+returned in front of the NPC in charge.</translation>
   </message>
   <message>
     <key>syslog_mission_npc_dying</key>
@@ -1084,23 +1084,25 @@ When it exceeds capacity, the oldest reward will be lost.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_stone</key>
-    <original>黄金石&lt;VAL&gt;個を消費して、ロットを1回行いました</original>
-    <translation>&lt;VAL&gt; golden gemstones will be consumed to lot 1 time.</translation>
+    <original>黄金石&lt;VAL&gt;個を消費して、ロットを1回まわしました</original>
+    <translation>Consuming &lt;VAL&gt; Golden Gemstones, you drew 1 lot.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_stones</key>
     <original>黄金石&lt;VAL&gt;個を消費して、ロットを&lt;VAL&gt;連続でまわしました</original>
-    <translation>&lt;VAL&gt; golden gemstones will be consumed to lot &lt;VAL&gt; times in succession.</translation>
+    <translation>Consuming &lt;VAL&gt; Golden Gemstones, you
+drew &lt;VAL&gt; lots in succession.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_ticket</key>
     <original>チケット&lt;VAL&gt;枚を消費して、ロットを1回まわしました</original>
-    <translation>&lt;VAL&gt; tickets will be consumed to lot 1 time.</translation>
+    <translation>Spending &lt;VAL&gt; Tickets, you drew 1 lot.</translation>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_tickets</key>
     <original>チケット&lt;VAL&gt;枚を消費して、ロットを&lt;VAL&gt;連続でまわしました</original>
-    <translation>&lt;VAL&gt; tickets will be consumed to lot &lt;VAL&gt; times in succession.</translation>
+    <translation>Spending &lt;VAL&gt; Tickets, you
+drew &lt;VAL&gt; lots in succession.</translation>
   </message>
   <message>
     <key>syslog_pawn_instruction_others</key>
@@ -1211,7 +1213,86 @@ Additional bonus on clear!</translation>
     <original>クエストが進行不能のため、コンテンツ中断をおこなってください</original>
   </message>
   <message>
+    <key>syslog_quest_root_reward</key>
+    <original>条件が満たされたため、＜&lt;NAME QUEST&gt;＞の
+クリア報酬が変化します</original>
+  </message>
+  <message>
     <key>syslog_not_speak_a_while</key>
     <original>しばらく発言できません</original>
+  </message>
+  <message>
+    <key>syslog_pp_get</key>
+    <original>&lt;VAL PP&gt;を入手しました</original>
+    <translation>&lt;VAL PP&gt; obtained.</translation>
+  </message>
+  <message>
+    <key>syslog_pp_get_ex</key>
+    <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT PP&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT PP&gt; obtained.</translation>
+  </message>
+  <message>
+    <key>syslog_pp_lost</key>
+    <original>&lt;VAL PP&gt;を消費しました</original>
+    <translation>&lt;VAL PP&gt; spent.</translation>
+  </message>
+  <message>
+    <key>syslog_clan_base_released</key>
+    <original>&lt;STG 210&gt;を解放しました</original>
+  </message>
+  <message>
+    <key>syslog_clan_point_use</key>
+    <original>%s %sが、%sを購入しました（-%d &lt;UNIT CP&gt;）</original>
+  </message>
+  <message>
+    <key>syslog_change_xp_mode</key>
+    <original>%sの入手ポイントを%sに切り替えました</original>
+    <translation>Switched from %s-earning to %s-earning mode.</translation>
+  </message>
+  <message>
+    <key>syslog_cp_get</key>
+    <original>&lt;VAL CP&gt;を入手しました</original>
+    <translation>&lt;VAL CP&gt; obtained.</translation>
+  </message>
+  <message>
+    <key>syslog_clanquest_enable_clear_over</key>
+    <original>クランクエスト＜&lt;VAL&gt;＞の
+CP報酬の有効クリア回数が上限に達しました</original>
+  </message>
+  <message>
+    <key>syslog_clanlevelup</key>
+    <original>クランレベルが&lt;VAL&gt;になりました</original>
+    <translation>Clan level is now &lt;VAL&gt;.</translation>
+  </message>
+  <message>
+    <key>syslog_item_get_send_itempost</key>
+    <original>&lt;NAME ITEM&gt;を&lt;VAL&gt;個、アイテムポストに送りました</original>
+  </message>
+  <message>
+    <key>syslog_pawn_expedition_sp_delivery</key>
+    <original>強化派遣により、希少なアイテムを持ち帰りました</original>
+  </message>
+  <message>
+    <key>syslog_clan_base_release_possible</key>
+    <original>&lt;STG 210&gt;が解放可能になりました
+クラン酒場にいるキビザを訪ねてください</original>
+  </message>
+  <message>
+    <key>syslog_gacha_msg_drawn_by_a_free</key>
+    <original>無料で、ロットを1回まわしました</original>
+    <translation>For free, you drew 1 lot.</translation>
+  </message>
+  <message>
+    <key>syslog_gacha_msg_drawn_by_free</key>
+    <original>無料で、ロットを&lt;VAL&gt;連続でまわしました</original>
+    <translation>For free, you drew &lt;VAL&gt; lots in succession.</translation>
+  </message>
+  <message>
+    <key>syslog_pawn_expedition_expiration_hotspot_ite</key>
+    <original>特別なアイテムを持ち帰りました</original>
+  </message>
+  <message>
+    <key>syslog_quest_assist_accept</key>
+    <original>＜&lt;NAME QUEST&gt;＞の受注条件を満たしていないため、アシスト状態で受注しました</original>
   </message>
 </resource>

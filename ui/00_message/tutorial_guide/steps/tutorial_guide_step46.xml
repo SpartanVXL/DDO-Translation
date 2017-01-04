@@ -9,17 +9,17 @@
 チャット発言が記録され、
 ゲーム中の状況告知も流れます
 
-&lt;PADM&gt;【&lt;ICON PAD_BACK&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_BK&gt;】&lt;/KEYM&gt;を押してチャットモードに
+【&lt;KC UI_CHAT&gt;】を押してチャットモードに
 切替え、発言を入力しましょう</original>
   </message>
   <message>
     <key>TUTORIAL_STEP_149</key>
     <original>表示させる情報はフィルタリングできます
-　&lt;PADM&gt;【&lt;ICON PAD_L1&gt;／&lt;ICON PAD_R1&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_PGUP&gt;／&lt;ICON KB_PGDOWN&gt;】&lt;/KEYM&gt;でチャンネル切替
+　【&lt;KC UI_LB&gt;／&lt;KC UI_RB&gt;】でチャンネル切替
 　（＋）からチャンネル追加
 
-　入力欄などで&lt;PADM&gt;【&lt;ICON PAD_R2&gt;ボタン】&lt;KEYM&gt;【&lt;ICON KB_END&gt;】&lt;/KEYM&gt;を押すとログ拡大
-　&lt;PADM&gt;【&lt;ICON PAD_K_UPDOWN&gt;】&lt;KEYM&gt;【&lt;ICON KB_ARW_T&gt;／&lt;ICON KB_ARW_B&gt;】&lt;/KEYM&gt;でログ確認
+　入力欄などで【&lt;KC UI_RT&gt;】を押すとログ拡大
+　【&lt;KC KEY_UP&gt;／&lt;KC KEY_DOWN&gt;】でログ確認
 
 &lt;COL ffdc78&gt;拡大した状態であれば、発言者を直接選んで
 話しかけたり、プロフィール確認やパーティー要請、

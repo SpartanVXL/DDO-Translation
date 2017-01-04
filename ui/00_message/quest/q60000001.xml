@@ -35,16 +35,16 @@
     <original>まずは祠の奥へ向かい、大型敵と対峙するんだ！</original>
   </message>
   <message>
-    <original>そして&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RR&gt;&lt;KEYM&gt;Ｅキー&lt;/KEYM&gt;&lt;/COL&gt;でヤツにしがみつけ！</original>
+    <original>そして&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;でヤツにしがみつけ！</original>
   </message>
   <message>
-    <original>その状態で&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RL&gt;&lt;KEYM&gt;左クリック&lt;/KEYM&gt;&lt;/COL&gt;でえぐり突きだ！</original>
+    <original>その状態で&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;&lt;/COL&gt;でえぐり突きだ！</original>
   </message>
   <message>
-    <original>しがみつき中に黄色いマークが出たら、&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RR&gt;長押し&lt;KEYM&gt;Eキー長押し&lt;/KEYM&gt;&lt;/COL&gt;で耐えろ！成功するまで何度もやってみるんだ</original>
+    <original>しがみつき中に黄色いマークが出たら、&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;長押し&lt;/COL&gt;で耐えろ！成功するまで何度もやってみるんだ</original>
   </message>
   <message>
-    <original>しがみつき中に赤いマークが出たら危険だ！&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RD&gt;&lt;KEYM&gt;スペースキー&lt;/KEYM&gt;&lt;/COL&gt;でジャンプし、すぐ離脱しろ！</original>
+    <original>しがみつき中に赤いマークが出たら危険だ！&lt;COL ff7575&gt;&lt;KCT JUMP&gt;&lt;/COL&gt;でジャンプし、すぐ離脱しろ！</original>
   </message>
   <message>
     <original>攻撃し、ヤツを怒らせるんだ。怒った敵は体が赤く輝くぞ！</original>
@@ -67,10 +67,10 @@
 証を手にするのだ、覚者よ！</original>
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RR&gt;&lt;KEYM&gt;Eキー&lt;/KEYM&gt;&lt;/COL&gt;でヤツにしがみつき、</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;でヤツにしがみつき、</original>
   </message>
   <message>
-    <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KEYN RU&gt;&lt;KEYM&gt;右クリック&lt;/KEYM&gt;&lt;/COL&gt;で揺さぶり、疲れさせろ！敵スタミナゲージを減らすんだ</original>
+    <original>&lt;COL ff7575&gt;&lt;KCT CLIMB_JOLT&gt;&lt;/COL&gt;で揺さぶり、疲れさせろ！敵スタミナゲージを減らすんだ</original>
   </message>
   <message>
     <original>よし、その調子だ。一気に仕留めてしまえ！敵が怒ったら疲れさせ、ダウンを奪うんだ。覚えておけよ！</original>

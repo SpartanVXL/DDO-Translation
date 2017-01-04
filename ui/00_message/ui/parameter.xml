@@ -242,7 +242,7 @@
   </message>
   <message>
     <key>give_stifling</key>
-    <original>与【封印】蓄積値</original>
+    <original>与【スキル封印】蓄積値</original>
     <translation>Inflict Skill Stifling</translation>
   </message>
   <message>
@@ -442,7 +442,7 @@
   </message>
   <message>
     <key>resist_stifling</key>
-    <original>封印耐性</original>
+    <original>スキル封印耐性</original>
     <translation>Resist Skill Stifling</translation>
   </message>
   <message>
@@ -857,7 +857,7 @@
   <message>
     <key>pawn_craftskill_number</key>
     <original>クラフトスキル：消耗品の生産数アップ</original>
-    <translation>Craft Skill: Consumable Production Quantity</translation>
+    <translation>Craft Skill: Consumable Quantity</translation>
   </message>
   <message>
     <key>pawn_craftskill_cost</key>
@@ -1068,5 +1068,13 @@
     <key>param_msg_item_furniture</key>
     <original>家具</original>
     <translation>Furniture</translation>
+  </message>
+  <message>
+    <key>resist_erosion</key>
+    <original>侵食耐性</original>
+  </message>
+  <message>
+    <key>resist_item_sealed</key>
+    <original>アイテム封印耐性</original>
   </message>
 </resource>

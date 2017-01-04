@@ -30,6 +30,7 @@
   </named_param>
   <named_param id="59">
     <original type="Replace">八騎喰らい</original>
+    <translation type="Replace">Knight-Devourer</translation>
   </named_param>
   <named_param id="60">
     <original type="Replace">百騎喰らい</original>
@@ -277,7 +278,7 @@
   </named_param>
   <named_param id="190">
     <original type="Suffix">変種</original>
-    <translation type="Prefix">Mutated </translation>
+    <translation type="Suffix"> Variant</translation>
   </named_param>
   <named_param id="191">
     <original type="Replace">大喰いのラージリザード</original>
@@ -938,6 +939,7 @@
   </named_param>
   <named_param id="436">
     <original type="Replace">虚無の騎士</original>
+    <translation type="Replace">Noble Knight</translation>
   </named_param>
   <named_param id="437">
     <original type="Prefix">無より生み出されし</original>
@@ -1227,6 +1229,7 @@
   </named_param>
   <named_param id="544">
     <original type="Replace">呪われた騎士</original>
+    <translation type="Replace">Cursed Knight</translation>
   </named_param>
   <named_param id="545">
     <original type="Prefix"></original>
@@ -1962,15 +1965,18 @@
   </named_param>
   <named_param id="897">
     <original type="Replace">木立の石像鬼</original>
+    <translation type="Replace">Grove Statue Demon</translation>
   </named_param>
   <named_param id="898">
     <original type="Prefix">異端の</original>
+    <translation type="Prefix">Heretic </translation>
   </named_param>
   <named_param id="899">
     <original type="Replace">侵食に抗う戦鬼</original>
   </named_param>
   <named_param id="900">
     <original type="Replace">虚ろの騎士</original>
+    <translation type="Replace">Hollow Knight</translation>
   </named_param>
   <named_param id="901">
     <original type="Replace">跡地荒らしの黒大鷲</original>
@@ -2016,6 +2022,7 @@
   </named_param>
   <named_param id="913">
     <original type="Replace">眠らずの冥騎士</original>
+    <translation type="Replace">Restless Death Knight</translation>
   </named_param>
   <named_param id="914">
     <original type="Prefix">魔獣喰いの</original>
@@ -2375,141 +2382,166 @@
   </named_param>
   <named_param id="1046">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1047">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1048">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1049">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1050">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1051">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1052">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1053">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1054">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1055">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1056">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1057">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1058">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1059">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1060">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1061">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1062">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1063">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1064">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1065">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1066">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1067">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1068">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1069">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1070">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1071">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1072">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1073">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1074">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1075">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1076">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1077">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1078">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1079">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1080">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1081">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1082">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1083">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1084">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1085">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1086">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1087">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1088">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1089">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1090">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1091">
     <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
   </named_param>
   <named_param id="1092">
     <original type="Prefix"></original>
@@ -2789,6 +2821,9 @@
   <named_param id="1202">
     <original type="Replace">大竜力の精兵</original>
   </named_param>
+  <named_param id="1204">
+    <original type="Prefix">検証用</original>
+  </named_param>
   <named_param id="1223">
     <original type="Prefix">ラヴァーズ・</original>
     <translation type="Prefix">[The Lovers] </translation>
@@ -2821,11 +2856,332 @@
     <original type="Prefix">ジャッジメント・</original>
     <translation type="Prefix">[Judgement] </translation>
   </named_param>
+  <named_param id="1231">
+    <original type="Replace">謎の魔物</original>
+  </named_param>
+  <named_param id="1232">
+    <original type="Prefix">廃村に巣食う</original>
+  </named_param>
+  <named_param id="1233">
+    <original type="Prefix">試練の魔物</original>
+  </named_param>
+  <named_param id="1234">
+    <original type="Prefix">試練の魔物</original>
+  </named_param>
+  <named_param id="1235">
+    <original type="Prefix">ロイグの家畜</original>
+  </named_param>
   <named_param id="1242">
     <original type="Replace">大竜力の精兵</original>
   </named_param>
   <named_param id="1243">
     <original type="Replace">大竜力の精兵</original>
+  </named_param>
+  <named_param id="1244">
+    <original type="Replace">獣の主</original>
+  </named_param>
+  <named_param id="1245">
+    <original type="Replace">鍵を奪った墓守</original>
+  </named_param>
+  <named_param id="1246">
+    <original type="Replace">鳴動の甲竜</original>
+  </named_param>
+  <named_param id="1247">
+    <original type="Prefix">妨害</original>
+  </named_param>
+  <named_param id="1248">
+    <original type="Replace">急襲する石魔</original>
+  </named_param>
+  <named_param id="1249">
+    <original type="Replace">招かれざる白鷲</original>
+  </named_param>
+  <named_param id="1250">
+    <original type="Prefix">群れる</original>
+  </named_param>
+  <named_param id="1251">
+    <original type="Prefix">同胞</original>
+  </named_param>
+  <named_param id="1252">
+    <original type="Prefix">荒れ崩す</original>
+  </named_param>
+  <named_param id="1253">
+    <original type="Prefix">川辺の</original>
+  </named_param>
+  <named_param id="1254">
+    <original type="Prefix">命屠る</original>
+  </named_param>
+  <named_param id="1255">
+    <original type="Prefix">神殿に巣食う</original>
+  </named_param>
+  <named_param id="1256">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1257">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1258">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1259">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1260">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1261">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1262">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1263">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1264">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1265">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1266">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1267">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1284">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1285">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1286">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1290">
+    <original type="Prefix">変異</original>
+    <translation type="Prefix">Mutated </translation>
+  </named_param>
+  <named_param id="1291">
+    <original type="Prefix">変異</original>
+    <translation type="Prefix">Mutated </translation>
+  </named_param>
+  <named_param id="1292">
+    <original type="Prefix">大変異</original>
+    <translation type="Prefix">Highly Mutated </translation>
+  </named_param>
+  <named_param id="1296">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1297">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1298">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1299">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1300">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1301">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1302">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1303">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1304">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1305">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1306">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1307">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1308">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1309">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1310">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1311">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1312">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1313">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1314">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1315">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1316">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1317">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1318">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1319">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1320">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1321">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1322">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1323">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1324">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1325">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1326">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1327">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1328">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1329">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1330">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1331">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1332">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1333">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1334">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1335">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1336">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1337">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1338">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1339">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1340">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1341">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1342">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1343">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1400">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Prefix">Extra </translation>
+  </named_param>
+  <named_param id="1401">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1402">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1403">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1404">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1405">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1406">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1407">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1408">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1409">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1410">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1411">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1412">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1413">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1414">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1415">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1416">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1417">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1428">
+    <original type="Prefix">鍵番</original>
   </named_param>
   <named_param id="1429">
     <original type="Replace">歪みの執行人</original>
@@ -2835,5 +3191,296 @@
   </named_param>
   <named_param id="1431">
     <original type="Replace">礎の番人</original>
+  </named_param>
+  <named_param id="1432">
+    <original type="Prefix">試練</original>
+  </named_param>
+  <named_param id="1433">
+    <original type="Prefix">試練</original>
+  </named_param>
+  <named_param id="1434">
+    <original type="Prefix">行く手を阻む</original>
+  </named_param>
+  <named_param id="1447">
+    <original type="Prefix">瘴気を纏う</original>
+  </named_param>
+  <named_param id="1448">
+    <original type="Prefix">神殿に棲む</original>
+  </named_param>
+  <named_param id="1449">
+    <original type="Prefix">魔を呼ぶ</original>
+  </named_param>
+  <named_param id="1450">
+    <original type="Prefix">呼び寄せられた</original>
+  </named_param>
+  <named_param id="1451">
+    <original type="Replace">泉の番人</original>
+  </named_param>
+  <named_param id="1452">
+    <original type="Replace">泉の番人</original>
+  </named_param>
+  <named_param id="1453">
+    <original type="Replace">宝の番人</original>
+  </named_param>
+  <named_param id="1454">
+    <original type="Replace">宝の番人</original>
+  </named_param>
+  <named_param id="1455">
+    <original type="Prefix">瘴気を纏う</original>
+  </named_param>
+  <named_param id="1456">
+    <original type="Prefix">瘴気を纏う</original>
+  </named_param>
+  <named_param id="1457">
+    <original type="Prefix">瘴気を纏う</original>
+  </named_param>
+  <named_param id="1458">
+    <original type="Prefix">瘴気を纏う</original>
+  </named_param>
+  <named_param id="1459">
+    <original type="Prefix">甲竜に怯える</original>
+  </named_param>
+  <named_param id="1460">
+    <original type="Prefix">甲竜に怯える</original>
+  </named_param>
+  <named_param id="1461">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1463">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1465">
+    <original type="Prefix">竜力に引かれた</original>
+  </named_param>
+  <named_param id="1466">
+    <original type="Replace">集いし者たち</original>
+  </named_param>
+  <named_param id="1467">
+    <original type="Replace">？？？</original>
+  </named_param>
+  <named_param id="1468">
+    <original type="Replace">？？？</original>
+  </named_param>
+  <named_param id="1478">
+    <original type="Replace">淀みの影</original>
+  </named_param>
+  <named_param id="1479">
+    <original type="Replace">淀みの影</original>
+  </named_param>
+  <named_param id="1488">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1489">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1490">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1499">
+    <original type="Prefix">変異</original>
+    <translation type="Prefix">Mutated </translation>
+  </named_param>
+  <named_param id="1500">
+    <original type="Prefix">変異</original>
+    <translation type="Prefix">Mutated </translation>
+  </named_param>
+  <named_param id="1501">
+    <original type="Prefix">大変異</original>
+    <translation type="Prefix">Highly Mutated </translation>
+  </named_param>
+  <named_param id="1502">
+    <original type="Prefix">変異</original>
+    <translation type="Prefix">Mutated </translation>
+  </named_param>
+  <named_param id="1503">
+    <original type="Prefix">変異</original>
+    <translation type="Prefix">Mutated </translation>
+  </named_param>
+  <named_param id="1504">
+    <original type="Prefix">大変異</original>
+    <translation type="Prefix">Highly Mutated </translation>
+  </named_param>
+  <named_param id="1505">
+    <original type="Prefix">変異</original>
+    <translation type="Prefix">Mutated </translation>
+  </named_param>
+  <named_param id="1506">
+    <original type="Prefix">変異</original>
+    <translation type="Prefix">Mutated </translation>
+  </named_param>
+  <named_param id="1507">
+    <original type="Prefix">大変異</original>
+    <translation type="Prefix">Highly Mutated </translation>
+  </named_param>
+  <named_param id="1508">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1509">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1510">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1511">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1515">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1516">
+    <original type="Replace">対の大竜力・天</original>
+  </named_param>
+  <named_param id="1517">
+    <original type="Prefix">賞金首</original>
+  </named_param>
+  <named_param id="1521">
+    <original type="Prefix">賞金首</original>
+  </named_param>
+  <named_param id="1530">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1531">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1532">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1533">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1534">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1535">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1536">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1537">
+    <original type="Suffix">・ブレイズ</original>
+  </named_param>
+  <named_param id="1538">
+    <original type="Prefix">甲竜に怯える</original>
+  </named_param>
+  <named_param id="1539">
+    <original type="Prefix">甲竜に怯える</original>
+  </named_param>
+  <named_param id="1541">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1544">
+    <original type="Replace">対の大竜力・地</original>
+  </named_param>
+  <named_param id="1545">
+    <original type="Prefix">蒼甲竜</original>
+  </named_param>
+  <named_param id="1546">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1547">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1548">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1549">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1550">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1551">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1552">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1553">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1554">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1555">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1556">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1557">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1558">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1559">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1560">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1561">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1569">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1570">
+    <original type="Prefix">甲竜に怯える</original>
+  </named_param>
+  <named_param id="1571">
+    <original type="Prefix">第一練磨</original>
+  </named_param>
+  <named_param id="1572">
+    <original type="Prefix">第二練磨</original>
+  </named_param>
+  <named_param id="1573">
+    <original type="Prefix">第一練磨</original>
+  </named_param>
+  <named_param id="1574">
+    <original type="Prefix">第二練磨</original>
+  </named_param>
+  <named_param id="1575">
+    <original type="Prefix">最終練磨</original>
+  </named_param>
+  <named_param id="1576">
+    <original type="Prefix">昌石を秘めた</original>
+  </named_param>
+  <named_param id="1577">
+    <original type="Prefix">宝飾を秘めた</original>
+  </named_param>
+  <named_param id="1578">
+    <original type="Prefix">竜力を秘めた</original>
+  </named_param>
+  <named_param id="1579">
+    <original type="Prefix">財宝を秘めた</original>
+  </named_param>
+  <named_param id="1586">
+    <original type="Prefix">宝飾を秘めた</original>
+  </named_param>
+  <named_param id="1588">
+    <original type="Prefix">竜力を秘めた</original>
+  </named_param>
+  <named_param id="1590">
+    <original type="Prefix">呪符に保護されし</original>
+  </named_param>
+  <named_param id="1591">
+    <original type="Replace">呪符の番人</original>
+  </named_param>
+  <named_param id="1592">
+    <original type="Replace">呪符の番人</original>
+  </named_param>
+  <named_param id="1593">
+    <original type="Replace">呪符の番人</original>
+  </named_param>
+  <named_param id="1598">
+    <original type="Replace">召喚されし邪悪の眷属</original>
+  </named_param>
+  <named_param id="1599">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1600">
+    <original type="Prefix"></original>
   </named_param>
 </named_params>

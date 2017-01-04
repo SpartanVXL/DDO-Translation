@@ -233,10 +233,10 @@ PC本体の電源を
     <key>EDIT_MSG_DIALOG_TUTORIAL_SEX</key>
     <original>《便利な機能を紹介》
 
-【&lt;PADM&gt;&lt;COL FFFFFF&gt;&lt;ICON PAD_START&gt;&lt;/COL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;COL FFFFFF&gt;&lt;ICON KB_SPACE&gt;&lt;/COL&gt;キー&lt;/KEYM&gt;】
+【&lt;COL FFFFFF&gt;&lt;KC UI_START&gt;&lt;/COL&gt;】
 エディット情報のセーブ/ロードがおこなえます
 
-【&lt;PADM&gt;&lt;COL FFFFFF&gt;&lt;ICON PAD_L1&gt;&lt;/COL&gt;ボタン / &lt;COL FFFFFF&gt;&lt;ICON PAD_R1&gt;&lt;/COL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;COL FFFFFF&gt;&lt;ICON KB_PGDOWN&gt;&lt;/COL&gt;キー / &lt;COL FFFFFF&gt;&lt;ICON KB_PGUP&gt;&lt;/COL&gt;キー&lt;/KEYM&gt;】
+【&lt;COL FFFFFF&gt;&lt;KC UI_LB&gt;&lt;/COL&gt; / &lt;COL FFFFFF&gt;&lt;KC UI_RB&gt;&lt;/COL&gt;】
 一つ前の設定に戻したり、やり直したりできます
 （性別を変更すると履歴はリセットされます）
 
@@ -290,7 +290,7 @@ PC本体の電源を
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_FIRST_PUSH_DEFAULT</key>
-    <original>【&lt;PADM&gt;&lt;COL FFFFFF&gt;&lt;ICON PAD_RL&gt;&lt;/COL&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;COL FFFFFF&gt;&lt;ICON KB_SHIFT&gt;&lt;/COL&gt;キー&lt;/KEYM&gt;】はデフォルトに戻す機能です
+    <original>【&lt;COL FFFFFF&gt;&lt;KC UI_X&gt;&lt;/COL&gt;】はデフォルトに戻す機能です
 
 （次回の操作から、この確認は表示されません）</original>
   </message>
