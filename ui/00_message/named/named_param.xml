@@ -56,7 +56,7 @@
   </named_param>
   <named_param id="125">
     <original type="Replace">オーク侵略兵</original>
-    <translation type="Replace">Orc Raider</translation>
+    <translation type="Replace">Orc Invader</translation>
   </named_param>
   <named_param id="126">
     <original type="Replace">キラービー進攻種</original>
@@ -120,7 +120,7 @@
   </named_param>
   <named_param id="141">
     <original type="Prefix">人喰い</original>
-    <translation type="Prefix">Man-eating </translation>
+    <translation type="Prefix">Man-Eating </translation>
   </named_param>
   <named_param id="142">
     <original type="Prefix">猛る</original>
@@ -136,11 +136,11 @@
   </named_param>
   <named_param id="145">
     <original type="Replace">オーク侵略兵</original>
-    <translation type="Replace">Orc Raider</translation>
+    <translation type="Replace">Orc Invader</translation>
   </named_param>
   <named_param id="146">
     <original type="Prefix">砦破り</original>
-    <translation type="Prefix">Fort-breaker </translation>
+    <translation type="Prefix">Fort-Breaker </translation>
   </named_param>
   <named_param id="147">
     <original type="Prefix">強襲の</original>
@@ -266,7 +266,7 @@
   </named_param>
   <named_param id="187">
     <original type="Prefix">兎喰らいの</original>
-    <translation type="Prefix">Rabbit-eating </translation>
+    <translation type="Prefix">Rabbit-Eating </translation>
   </named_param>
   <named_param id="188">
     <original type="Replace">ビンシャの手下</original>
@@ -338,7 +338,7 @@
   </named_param>
   <named_param id="210">
     <original type="Replace">豚喰い猿</original>
-    <translation type="Replace">Pig-eating Ape</translation>
+    <translation type="Replace">Pig-Eating Ape</translation>
   </named_param>
   <named_param id="212">
     <original type="Replace">オールドグロウ・エント</original>
@@ -390,7 +390,7 @@
   </named_param>
   <named_param id="224">
     <original type="Replace">盾破りのオッド</original>
-    <translation type="Replace">Odd the Shield-breaker</translation>
+    <translation type="Replace">Odd the Shield-Breaker</translation>
   </named_param>
   <named_param id="225">
     <original type="Replace">レイクニュート</original>
@@ -495,24 +495,31 @@
   </named_param>
   <named_param id="253">
     <original type="Replace">ザンドラ・バルバロイ</original>
+    <translation type="Replace">Zandora Barbarian</translation>
   </named_param>
   <named_param id="254">
     <original type="Replace">ザンドラ・バルバロイ</original>
+    <translation type="Replace">Zandora Barbarian</translation>
   </named_param>
   <named_param id="255">
     <original type="Replace">ザンドラ・バルバロイ</original>
+    <translation type="Replace">Zandora Barbarian</translation>
   </named_param>
   <named_param id="256">
     <original type="Replace">ザンドラ・バルバロイ</original>
+    <translation type="Replace">Zandora Barbarian</translation>
   </named_param>
   <named_param id="257">
     <original type="Replace">ザンドラ・バルバロイ</original>
+    <translation type="Replace">Zandora Barbarian</translation>
   </named_param>
   <named_param id="258">
     <original type="Replace">ザンドラ・バルバロイ</original>
+    <translation type="Replace">Zandora Barbarian</translation>
   </named_param>
   <named_param id="259">
     <original type="Replace">ザンドラ・バルバロイ</original>
+    <translation type="Replace">Zandora Barbarian</translation>
   </named_param>
   <named_param id="260">
     <original type="Replace">大将級オーク残党頭</original>
@@ -548,9 +555,11 @@
   </named_param>
   <named_param id="272">
     <original type="Prefix">テイムド・</original>
+    <translation type="Prefix">Tamed </translation>
   </named_param>
   <named_param id="273">
     <original type="Replace">テイマー・バルバロイ</original>
+    <translation type="Replace">Tamer Barbarian</translation>
   </named_param>
   <named_param id="274">
     <original type="Replace">虚ろの処刑人</original>
@@ -567,6 +576,7 @@
   </named_param>
   <named_param id="279">
     <original type="Replace">メルガン・エンジニア</original>
+    <translation type="Replace">Mergan Engineer</translation>
   </named_param>
   <named_param id="280">
     <original type="Replace">ギガン・マキナ・カスタム</original>
@@ -709,7 +719,7 @@
   </named_param>
   <named_param id="345">
     <original type="Prefix">死体齧りの</original>
-    <translation type="Prefix">Corpse-eating </translation>
+    <translation type="Prefix">Corpse-Eating </translation>
   </named_param>
   <named_param id="346">
     <original type="Replace">グレイブワーグ</original>
@@ -804,6 +814,7 @@
   </named_param>
   <named_param id="382">
     <original type="Prefix">セラーケイブ・</original>
+    <translation type="Prefix">Cellar Cave </translation>
   </named_param>
   <named_param id="383">
     <original type="Prefix">セラーケイブ・</original>
@@ -867,7 +878,7 @@
   </named_param>
   <named_param id="414">
     <original type="Prefix">破砦用</original>
-    <translation type="Prefix">Wall-breaker </translation>
+    <translation type="Prefix">Wall-Breaker </translation>
   </named_param>
   <named_param id="415">
     <original type="Prefix">召喚されし</original>
@@ -949,6 +960,7 @@
   </named_param>
   <named_param id="439">
     <original type="Suffix">・デスペアー</original>
+    <translation type="Suffix"> (Despair)</translation>
   </named_param>
   <named_param id="440">
     <original type="Prefix">黄金竜</original>
@@ -986,11 +998,11 @@
   </named_param>
   <named_param id="456">
     <original type="Prefix">骨噛み</original>
-    <translation type="Prefix">Bone-eating </translation>
+    <translation type="Prefix">Bone-Eating </translation>
   </named_param>
   <named_param id="457">
     <original type="Prefix">ゴブリンイーター・</original>
-    <translation type="Prefix">Goblin-eating </translation>
+    <translation type="Prefix">Goblin-Eating </translation>
   </named_param>
   <named_param id="458">
     <original type="Prefix">賞金首</original>
@@ -1170,9 +1182,11 @@
   </named_param>
   <named_param id="515">
     <original type="Replace">ブラックウィング</original>
+    <translation type="Replace">Black Wing</translation>
   </named_param>
   <named_param id="516">
     <original type="Replace">ディープレイク・リンドブルム</original>
+    <translation type="Replace">Deep Lake Lindwurm</translation>
   </named_param>
   <named_param id="517">
     <original type="Replace">烈翼の禽獅子</original>
@@ -1200,6 +1214,7 @@
   </named_param>
   <named_param id="527">
     <original type="Replace">穢れの大魔像</original>
+    <translation type="Replace">Impure Giant Demon</translation>
   </named_param>
   <named_param id="528">
     <original type="Replace">大騒音の主</original>
@@ -1207,15 +1222,18 @@
   </named_param>
   <named_param id="529">
     <original type="Replace">ケイブレイダー</original>
+    <translation type="Replace">Cave Raider</translation>
   </named_param>
   <named_param id="530">
     <original type="Replace">ララバイ・クィーン</original>
+    <translation type="Replace">Lullaby Queen</translation>
   </named_param>
   <named_param id="531">
     <original type="Prefix">ラウドネス・</original>
   </named_param>
   <named_param id="532">
     <original type="Replace">ディナン・ピアサー</original>
+    <translation type="Replace">Deenan Piercer</translation>
   </named_param>
   <named_param id="541">
     <original type="Replace">呪われた魔鳥</original>
@@ -1252,24 +1270,31 @@
   </named_param>
   <named_param id="551">
     <original type="Prefix">危機的</original>
+    <translation type="Prefix">Dangerous </translation>
   </named_param>
   <named_param id="552">
     <original type="Prefix">危機的</original>
+    <translation type="Prefix">Dangerous </translation>
   </named_param>
   <named_param id="553">
     <original type="Prefix">危機的</original>
+    <translation type="Prefix">Dangerous </translation>
   </named_param>
   <named_param id="554">
     <original type="Prefix">危機的</original>
+    <translation type="Prefix">Dangerous </translation>
   </named_param>
   <named_param id="555">
     <original type="Prefix">危機的</original>
+    <translation type="Prefix">Dangerous </translation>
   </named_param>
   <named_param id="556">
     <original type="Prefix">危機的</original>
+    <translation type="Prefix">Dangerous </translation>
   </named_param>
   <named_param id="557">
     <original type="Prefix">危機的</original>
+    <translation type="Prefix">Dangerous </translation>
   </named_param>
   <named_param id="559">
     <original type="Prefix"></original>
@@ -1309,7 +1334,7 @@
   </named_param>
   <named_param id="575">
     <original type="Suffix">・ブレイズ</original>
-    <translation type="Prefix">Blaze </translation>
+    <translation type="Suffix"> (Blaze)</translation>
   </named_param>
   <named_param id="576">
     <original type="Prefix">護衛隊 </original>
@@ -1350,12 +1375,15 @@
   </named_param>
   <named_param id="591">
     <original type="Prefix">要警戒</original>
+    <translation type="Prefix">Vigilant </translation>
   </named_param>
   <named_param id="592">
     <original type="Replace">ディープミスト・ウィルム</original>
+    <translation type="Replace">Deep Mist Wyrm</translation>
   </named_param>
   <named_param id="593">
     <original type="Replace">ディープニュート</original>
+    <translation type="Replace">Deep Newt</translation>
   </named_param>
   <named_param id="594">
     <original type="Prefix">艶羽根</original>
@@ -1387,34 +1415,40 @@
   </named_param>
   <named_param id="602">
     <original type="Replace">ケイブレイダー・ドレイク</original>
+    <translation type="Replace">Cave Raider Drake</translation>
   </named_param>
   <named_param id="603">
     <original type="Replace">ケイブレイダー・エンプレス</original>
+    <translation type="Replace">Cave Raider Empress</translation>
   </named_param>
   <named_param id="604">
     <original type="Prefix">光角の</original>
   </named_param>
   <named_param id="605">
     <original type="Replace">ブラックウィドウ</original>
+    <translation type="Replace">Black Widow</translation>
   </named_param>
   <named_param id="606">
     <original type="Replace">エントアンガー</original>
+    <translation type="Replace">Entanger</translation>
   </named_param>
   <named_param id="607">
     <original type="Prefix">活枝の</original>
   </named_param>
   <named_param id="608">
     <original type="Prefix">凶悪</original>
+    <translation type="Prefix">Brutal </translation>
   </named_param>
   <named_param id="609">
     <original type="Prefix">威容の</original>
   </named_param>
   <named_param id="610">
     <original type="Replace">蒼氷のウィルム</original>
+    <translation type="Replace">Pale Ice Wyrm</translation>
   </named_param>
   <named_param id="611">
     <original type="Replace">赤熱のギガン・マキナ</original>
-    <translation type="Replace">Red-hot Giga Machina</translation>
+    <translation type="Replace">Red-Hot Giga Machina</translation>
   </named_param>
   <named_param id="612">
     <original type="Prefix">石影の</original>
@@ -1440,9 +1474,11 @@
   </named_param>
   <named_param id="619">
     <original type="Replace">グリフィン・ノワール</original>
+    <translation type="Replace">Griffin Noir</translation>
   </named_param>
   <named_param id="620">
     <original type="Replace">デスナイト・ノワール</original>
+    <translation type="Replace">Death Knight Noir</translation>
   </named_param>
   <named_param id="621">
     <original type="Prefix">暗鉄の</original>
@@ -1477,6 +1513,7 @@
   </named_param>
   <named_param id="632">
     <original type="Replace">ディアマンテスの影</original>
+    <translation type="Replace">Shadow of Diamantes</translation>
   </named_param>
   <named_param id="633">
     <original type="Replace">灼けつく竜力</original>
@@ -1498,6 +1535,7 @@
   </named_param>
   <named_param id="638">
     <original type="Replace">デモリッションファング</original>
+    <translation type="Replace">Demolition Fang</translation>
   </named_param>
   <named_param id="639">
     <original type="Replace">死を呼ぶ闇騎士</original>
@@ -1544,6 +1582,7 @@
   </named_param>
   <named_param id="655">
     <original type="Prefix">要警戒</original>
+    <translation type="Prefix">Vigilant </translation>
   </named_param>
   <named_param id="656">
     <original type="Prefix">賞金首</original>
@@ -1567,6 +1606,7 @@
   </named_param>
   <named_param id="661">
     <original type="Prefix">凶悪</original>
+    <translation type="Prefix">Brutal </translation>
   </named_param>
   <named_param id="662">
     <original type="Prefix">賞金首</original>
@@ -1858,6 +1898,7 @@
   </named_param>
   <named_param id="857">
     <original type="Prefix">はぐれ</original>
+    <translation type="Prefix">Rogue </translation>
   </named_param>
   <named_param id="858">
     <original type="Prefix"></original>
@@ -1990,7 +2031,7 @@
   </named_param>
   <named_param id="904">
     <original type="Replace">製造番号1056 強襲型ゴリアテ</original>
-    <translation type="Replace">Assault-type Goliath #1056</translation>
+    <translation type="Replace">Assault-Type Goliath #1056</translation>
   </named_param>
   <named_param id="905">
     <original type="Prefix">ルインズ・</original>
@@ -2016,6 +2057,7 @@
   </named_param>
   <named_param id="911">
     <original type="Replace">テラス・ガーディアン</original>
+    <translation type="Replace">Terrace Guardian</translation>
   </named_param>
   <named_param id="912">
     <original type="Replace">廃水路の奇獣</original>
@@ -2383,166 +2425,166 @@
   </named_param>
   <named_param id="1046">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1047">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1048">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1049">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1050">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1051">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1052">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1053">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1054">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1055">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1056">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1057">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1058">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1059">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1060">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1061">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1062">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1063">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1064">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1065">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1066">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1067">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1068">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1069">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1070">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1071">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1072">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1073">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1074">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1075">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1076">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1077">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1078">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1079">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1080">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1081">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1082">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1083">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1084">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1085">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1086">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1087">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1088">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1089">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1090">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1091">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1092">
     <original type="Prefix"></original>
@@ -2805,6 +2847,7 @@
   </named_param>
   <named_param id="1188">
     <original type="Prefix">死体齧りの</original>
+    <translation type="Prefix">Corpse-Eating </translation>
   </named_param>
   <named_param id="1189">
     <original type="Replace">グレイブワーグ</original>
@@ -2982,14 +3025,14 @@
   </named_param>
   <named_param id="1296">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1297">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1298">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1299">
     <original type="Prefix"></original>
@@ -3002,7 +3045,7 @@
   </named_param>
   <named_param id="1302">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1303">
     <original type="Prefix"></original>
@@ -3015,7 +3058,7 @@
   </named_param>
   <named_param id="1306">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1307">
     <original type="Prefix"></original>
@@ -3028,7 +3071,7 @@
   </named_param>
   <named_param id="1310">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1311">
     <original type="Prefix"></original>
@@ -3041,7 +3084,7 @@
   </named_param>
   <named_param id="1314">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1315">
     <original type="Prefix"></original>
@@ -3054,7 +3097,7 @@
   </named_param>
   <named_param id="1318">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1319">
     <original type="Prefix"></original>
@@ -3079,7 +3122,7 @@
   </named_param>
   <named_param id="1326">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1327">
     <original type="Prefix"></original>
@@ -3092,7 +3135,7 @@
   </named_param>
   <named_param id="1330">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1331">
     <original type="Prefix"></original>
@@ -3111,7 +3154,7 @@
   </named_param>
   <named_param id="1336">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1337">
     <original type="Prefix"></original>
@@ -3124,7 +3167,7 @@
   </named_param>
   <named_param id="1340">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1341">
     <original type="Prefix"></original>
@@ -3137,7 +3180,7 @@
   </named_param>
   <named_param id="1400">
     <original type="Suffix">・エクストラ</original>
-    <translation type="Prefix">Extra </translation>
+    <translation type="Suffix"> (Extra)</translation>
   </named_param>
   <named_param id="1401">
     <original type="Prefix"></original>
@@ -3385,6 +3428,7 @@
   </named_param>
   <named_param id="1537">
     <original type="Suffix">・ブレイズ</original>
+    <translation type="Suffix"> (Blaze)</translation>
   </named_param>
   <named_param id="1538">
     <original type="Prefix">甲竜に怯える</original>
