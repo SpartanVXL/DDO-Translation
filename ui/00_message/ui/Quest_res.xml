@@ -384,7 +384,7 @@
   <message>
     <key>QUEST_MSG_BONUS_TIME</key>
     <original>ボーナス発生中</original>
-	<translation>bonus active</translation>
+    <translation>bonus active</translation>
   </message>
   <message>
     <key>QUEST_MSG_OPTION_COURSE</key>
@@ -521,12 +521,12 @@ Rare material available!</translation>
   <message>
     <key>QUEST_MSG_BN_ROOT</key>
     <original>ボーナス報酬</original>
-	<translation>Bonus Reward</translation>
+    <translation>Bonus Reward</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_ROOT</key>
     <original>成功時に報酬を追加付与</original>
-	<translation>Additional reward granted upon success</translation>
+    <translation>Additional reward granted upon success</translation>
   </message>
   <message>
     <key>QUEST_MSG_CLAN_QUEST_TITLE_EN</key>
@@ -594,6 +594,6 @@ Are you sure you want to use
   <message>
     <key>QUEST_MSG_ASSIST_ACCEPT</key>
     <original>条件を満たしていないためアシスト状態で受注可</original>
-	<translation>Because you do not meet the conditions, the quest will be accepted in assist mode.</translation>
+    <translation>Because you do not meet the conditions, the quest will be accepted in assist mode.</translation>
   </message>
 </resource>
