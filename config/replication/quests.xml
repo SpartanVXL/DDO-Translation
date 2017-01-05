@@ -75,6 +75,32 @@
       <translation_replace>Defeat the enemies in "{0}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
+    <!-- Time restricted objectives -->
+    <rewrite>
+      <original_match>^＜(\d+)時から(\d+)時＞の間にパーティメンバーを拠点内に集める$</original_match>
+      <translation_replace>Gather party members in the camp from "{0} to {1} GT"</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(\d+)時から(\d+)時＞の間に依頼者から詳細を聞く$</original_match>
+      <translation_replace>Listen to details from the requester from "{0} to {1} GT"</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(\d+)時から(\d+)時＞の間に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞(つ)?納品する$</original_match>
+      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {2}&gt; from "{0} to {1} GT"</translation_replace>
+    </rewrite>
+    <!-- Weather restricted objectives -->
+    <rewrite>
+      <original_match>^＜晴天＞の間に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
+      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {0}&gt; during "Fine" weather</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^＜曇天＞の間に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
+      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {0}&gt; during "Cloudy" weather</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^＜雨天＞時に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
+      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {0}&gt; during "Rainy" weather</translation_replace>
+    </rewrite>
     <!-- Grand Missions -->
     <rewrite>
       <original_match>^(\d+)pt以上の獲得を目指せ$</original_match>
