@@ -10,6 +10,10 @@
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
 　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+    <translation>You will acquire the following augment. Is this OK?
+
+　Augment: &lt;NAME SKILL&gt;+&lt;VAL&gt;
+　Blood Orb Cost: &lt;VAL BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_2ND_0</key>
@@ -17,6 +21,10 @@
 
 　取得能力：&lt;NAME SKILL&gt;
 　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+    <translation>You will acquire the following augment. Is this OK?
+
+　Augment: &lt;NAME SKILL&gt;
+　Blood Orb Cost: &lt;VAL BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_1</key>
@@ -25,6 +33,11 @@
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
 　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+    <translation>You will acquire the following augment. Is this OK?
+(Only adjacent augments will be available next time)
+
+　Augment: &lt;NAME SKILL&gt;+&lt;VAL&gt;
+　Blood Orb Cost: &lt;VAL BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_0</key>
@@ -33,6 +46,11 @@
 
 　取得能力：&lt;NAME SKILL&gt;
 　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+    <translation>You will acquire the following augment. Is this OK?
+(Only adjacent augments will be available next time)
+
+　Augment: &lt;NAME SKILL&gt;
+　Blood Orb Cost: &lt;VAL BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_RELEASE_PERCENT</key>
@@ -71,6 +89,10 @@
 以下の能力を取得できます。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
+    <translation>You will acquire the following augment as a reward
+for achieving the required total level. Is this OK?
+
+　Augment: &lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ALLCOMP_1</key>
@@ -78,6 +100,10 @@
 以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;</original>
+    <translation>You will acquire the following augment as a reward
+for acquiring all other augments. Is this OK?
+
+　Augment: &lt;NAME SKILL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_RELEASE_INDEX</key>
@@ -96,7 +122,7 @@
   <message>
     <key>ORB_TEXT_ERR_ALLCOMP</key>
     <original>これ以外のすべての能力を取得することで選択できます</original>
-    <translation>You must activate all other perks first.</translation>
+    <translation>You must activate all other augments first.</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_COMP</key>
@@ -106,7 +132,7 @@
   <message>
     <key>ORB_TEXT_ERR_ADJACENT</key>
     <original>取得した能力に隣接する能力のみ選択できます</original>
-    <translation>You can only activate adjacent perks.</translation>
+    <translation>You can only activate adjacent augments.</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_ANOUNCE_2</key>
@@ -124,6 +150,10 @@
 以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
+    <translation>You will acquire the following augment as a reward
+for acquiring all other augments. Is this OK?
+
+　Augment: &lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_NAME</key>
@@ -153,10 +183,12 @@
   <message>
     <key>ORB_TEXT_ERR_NOT_CONNECT</key>
     <original>下につながっている能力を取得するまで選択できません</original>
+	<translation>You must activate the augment below first.</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_NOT_CLEAR_QUEST</key>
     <original>条件のクエストをクリアしていません</original>
+	<translation>You have not cleared the required quest.</translation>
   </message>
   <message>
     <key>ORB_TEXT_CONDITION_QUEST</key>
