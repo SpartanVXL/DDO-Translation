@@ -1,10 +1,4 @@
 ﻿<replication>
-  <message_set name="location name">
-    <match>^ui\\00_message\\common\\area_list$</match>
-    <match>^ui\\00_message\\common\\spot_name$</match>
-    <match>^ui\\00_message\\common\\stage_list$</match>
-    <match>^ui\\00_message\\master\\area\d+_spot_name$</match>
-  </message_set>
   <message_set name="npc name">
     <match>^ui\\00_message\\npc\\npc_name$</match>
     <match>^ui\\00_message\\enemy\\enemy_name$</match>
