@@ -75,6 +75,22 @@
       <translation_replace>Defeat the enemies in "{0}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+?)へ行き(.+)と話す$</original_match>
+      <translation_replace>Head to {0} and speak with {1}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^エリアマスターの(.+)と話す$</original_match>
+      <translation_replace>Speak with the Area Master, {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+?)と話す$</original_match>
+      <translation_replace>Speak with {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
     <!-- Time restricted objectives -->
     <rewrite>
       <original_match>^＜(\d+)時から(\d+)時＞の間にパーティメンバーを拠点内に集める$</original_match>
