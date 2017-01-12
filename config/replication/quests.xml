@@ -1,7 +1,6 @@
 ﻿<replication>
   <message_set name="quest name" type="quest">
     <match>^ui\\00_message\\quest_info\\q\d+_00$</match>
-    <match>^ui\\00_message\\achievement\\achievement_name$</match>
     <!-- Quest names -->
     <rewrite soft="true">
       <original_match>^【高難度】(.+?)$</original_match>

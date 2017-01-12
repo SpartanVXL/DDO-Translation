@@ -1,0 +1,10 @@
+﻿<replication>
+  <message_set name="achievement name">
+    <match>^ui\\00_message\\achievement\\achievement_name$</match>
+    <rewrite>
+      <original_match>^(.+?)$</original_match>
+      <translation_replace>{0}</translation_replace>
+      <translation_arg message_set="quest name" required="true" />
+    </rewrite>
+  </message_set>
+</replication>
