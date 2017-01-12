@@ -1,0 +1,5 @@
+﻿<replication>
+  <message_set name="item info" type="item">
+    <match>^ui\\00_message\\common\\item_info$</match>
+  </message_set>
+</replication>
