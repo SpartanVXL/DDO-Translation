@@ -19304,7 +19304,7 @@ attribute effect when equipped.</translation>
   <item id="9259">
     <original>装着した武器の魔法属性を氷にし、さらに
 属性異常を付与するクレスト</original>
-    <translation>A crest that grants a magical ice 
+    <translation>A crest that grants a magical ice
 attribute effect when equipped.</translation>
   </item>
   <item id="9260">
@@ -19766,6 +19766,8 @@ when equipped to armor.</translation>
   </item>
   <item id="9350">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="9351">
     <original></original>
@@ -25606,6 +25608,8 @@ specified status effect.</translation>
   </item>
   <item id="11408">
     <original>使用者にステータス向上効果を付与する</original>
+    <translation>Grants the user the
+specified status effect.</translation>
   </item>
   <item id="11409">
     <original></original>
@@ -25800,6 +25804,8 @@ specified status effect.</translation>
   </item>
   <item id="11510">
     <original>使用者にステータス向上効果を付与する</original>
+    <translation>Grants the user the
+specified status effect.</translation>
   </item>
   <item id="11511">
     <original></original>
@@ -26409,9 +26415,13 @@ specified status effect.</translation>
   </item>
   <item id="11719">
     <original>装着した武器の威力が強まるクレスト</original>
+    <translation>A crest that grants physical power
+when equipped.</translation>
   </item>
   <item id="11720">
     <original>装着した武器の魔力が強まるクレスト</original>
+    <translation>A crest that grants magick power
+when equipped.</translation>
   </item>
   <item id="11721">
     <original>装着した武器に状態異常を付与するクレスト</original>
@@ -26510,30 +26520,48 @@ when equipped.</translation>
   </item>
   <item id="11740">
     <original>装着した防具の守りが強まるクレスト</original>
+    <translation>A crest that grants defense
+when equipped to armor.</translation>
   </item>
   <item id="11741">
     <original>装着した防具の魔防が強まるクレスト</original>
+    <translation>A crest that grants magick defense
+when equipped to armor.</translation>
   </item>
   <item id="11742">
     <original>装着した防具の耐久力が上昇するクレスト</original>
+    <translation>A crest that grants endurance
+when equipped to armor.</translation>
   </item>
   <item id="11743">
     <original>装着した防具の生命治癒力が増すクレスト</original>
+    <translation>A crest that grants healing power
+when equipped to armor.</translation>
   </item>
   <item id="11744">
     <original>装着した防具の炎耐性が上がるクレスト</original>
+    <translation>A crest that grants fire resistance
+when equipped to armor.</translation>
   </item>
   <item id="11745">
     <original>装着した防具の氷耐性が上がるクレスト</original>
+    <translation>A crest that grants ice resistance
+when equipped to armor.</translation>
   </item>
   <item id="11746">
     <original>装着した防具の雷耐性が上がるクレスト</original>
+    <translation>A crest that grants thunder resistance
+when equipped to armor.</translation>
   </item>
   <item id="11747">
     <original>装着した防具の聖耐性が上がるクレスト</original>
+    <translation>A crest that grants holy resistance
+when equipped to armor.</translation>
   </item>
   <item id="11748">
     <original>装着した防具の闇耐性が上がるクレスト</original>
+    <translation>A crest that grants dark resistance
+when equipped to armor.</translation>
   </item>
   <item id="11749">
     <original></original>
@@ -31692,28 +31720,42 @@ when equipped.</translation>
   <item id="13653">
     <original>装着した武器の魔法属性を炎にし、さらに
 属性異常を付与するクレスト</original>
+    <translation>A crest that grants a magical fire
+attribute effect when equipped.</translation>
   </item>
   <item id="13654">
     <original>装着した武器の魔法属性を氷にし、さらに
 属性異常を付与するクレスト</original>
+    <translation>A crest that grants a magical ice
+attribute effect when equipped.</translation>
   </item>
   <item id="13655">
     <original>装着した武器の魔法属性を雷にし、さらに
 属性異常を付与するクレスト</original>
+    <translation>A crest that grants a magical thunder
+attribute effect when equipped.</translation>
   </item>
   <item id="13656">
     <original>装着した武器の魔法属性を聖にし、さらに
 属性異常を付与するクレスト</original>
+    <translation>A crest that grants a magical holy
+attribute effect when equipped.</translation>
   </item>
   <item id="13657">
     <original>装着した武器の魔法属性を闇にし、さらに
 属性異常を付与するクレスト</original>
+    <translation>A crest that grants a magical dark
+attribute effect when equipped.</translation>
   </item>
   <item id="13658">
     <original>装着した武器の威力が強まるクレスト</original>
+    <translation>A crest that grants physical power
+when equipped.</translation>
   </item>
   <item id="13659">
     <original>装着した武器の魔力が強まるクレスト</original>
+    <translation>A crest that grants magick power
+when equipped.</translation>
   </item>
   <item id="13660">
     <original>装着した武器に状態異常を付与するクレスト</original>
@@ -31727,39 +31769,63 @@ when equipped.</translation>
   </item>
   <item id="13662">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13663">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13664">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13665">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13666">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13667">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13668">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13669">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13670">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13671">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13672">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13673">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="13674">
     <original>装着した武器に状態異常を付与するクレスト</original>
@@ -31783,96 +31849,158 @@ when equipped.</translation>
   </item>
   <item id="13678">
     <original>装着した防具の耐久力が上昇するクレスト</original>
+    <translation>A crest that grants endurance
+when equipped to armor.</translation>
   </item>
   <item id="13679">
     <original>装着した防具の炎耐性が上がるクレスト</original>
+    <translation>A crest that grants fire resistance
+when equipped to armor.</translation>
   </item>
   <item id="13680">
     <original>装着した防具の氷耐性が上がるクレスト</original>
+    <translation>A crest that grants ice resistance
+when equipped to armor.</translation>
   </item>
   <item id="13681">
     <original>装着した防具の雷耐性が上がるクレスト</original>
+    <translation>A crest that grants thunder resistance
+when equipped to armor.</translation>
   </item>
   <item id="13682">
     <original>装着した防具の聖耐性が上がるクレスト</original>
+    <translation>A crest that grants holy resistance
+when equipped to armor.</translation>
   </item>
   <item id="13683">
     <original>装着した防具の闇耐性が上がるクレスト</original>
+    <translation>A crest that grants dark resistance
+when equipped to armor.</translation>
   </item>
   <item id="13684">
     <original>装着した防具の属性異常耐性が増すクレスト</original>
+    <translation>A crest that grants magical attribute
+resistance when equipped to armor.</translation>
   </item>
   <item id="13685">
     <original>装着した防具の属性異常耐性が増すクレスト</original>
+    <translation>A crest that grants magical attribute
+resistance when equipped to armor.</translation>
   </item>
   <item id="13686">
     <original>装着した防具の属性異常耐性が増すクレスト</original>
+    <translation>A crest that grants magical attribute
+resistance when equipped to armor.</translation>
   </item>
   <item id="13687">
     <original>装着した防具の属性異常耐性が増すクレスト</original>
+    <translation>A crest that grants magical attribute
+resistance when equipped to armor.</translation>
   </item>
   <item id="13688">
     <original>装着した防具の属性異常耐性が増すクレスト</original>
+    <translation>A crest that grants magical attribute
+resistance when equipped to armor.</translation>
   </item>
   <item id="13689">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13690">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13691">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13692">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13693">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13694">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13695">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13696">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13697">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13698">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13699">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13700">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13701">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13702">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13703">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13704">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13705">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13706">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13707">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13708">
     <original>装着した防具の状態異常耐性が増すクレスト</original>
+    <translation>A crest that grants debilitation resistance
+when equipped to armor.</translation>
   </item>
   <item id="13759">
     <original></original>
@@ -33157,21 +33285,33 @@ when equipped.</translation>
   </item>
   <item id="14183">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="14184">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="14185">
     <original>装着した武器に対敵特効を付与するクレスト</original>
+    <translation>A crest that grants a slayer effect
+when equipped.</translation>
   </item>
   <item id="14186">
     <original>装着した防具の守りが強まるクレスト</original>
+    <translation>A crest that grants defense
+when equipped to armor.</translation>
   </item>
   <item id="14187">
     <original>装着した防具の魔防が強まるクレスト</original>
+    <translation>A crest that grants magick defense
+when equipped to armor.</translation>
   </item>
   <item id="14188">
     <original>装着した防具の生命治癒力が増すクレスト</original>
+    <translation>A crest that grants healing power
+when equipped to armor.</translation>
   </item>
   <item id="14189">
     <original>叡智を表すレリーフの付いた鍵
@@ -38953,5 +39093,7 @@ when equipped.</translation>
   <item id="17105">
     <original>DDONが受賞された
 記念のトロフィ</original>
+    <translation>DDON was awarded.
+Commemorative trophy.</translation>
   </item>
 </item_data>
