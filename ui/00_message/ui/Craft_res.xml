@@ -778,10 +778,12 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>EXAM_RECEIPE_TITLE</key>
     <original>昇格試験レシピ</original>
+    <translation>Promotion Test Recipe</translation>
   </message>
   <message>
     <key>EXAM_RESULT_PARAM</key>
     <original>昇格結果</original>
+    <translation>Promotion Result</translation>
   </message>
   <message>
     <key>CRAFT_DETAIL_ITEM_RANK</key>
@@ -889,14 +891,17 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_OVERUP_CRAFTLV</key>
     <original>クラフトレベルの上限アップ</original>
+    <translation>Craft Level Limit Up</translation>
   </message>
   <message>
     <key>CRAFT_SET_ASSISTANT</key>
     <original>アシスタントの設定人数</original>
+    <translation>Assistant Slot Count</translation>
   </message>
   <message>
     <key>CRAFT_NUM_TO_NUM</key>
     <original>（&lt;VAL&gt;→&lt;VAL&gt;）</original>
+    <translation>(&lt;VAL&gt;→&lt;VAL&gt;)</translation>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_D</key>
@@ -970,6 +975,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_FINISHED</key>
     <original>クラフト完了</original>
+    <translation>Craft Finished</translation>
   </message>
   <message>
     <key>REMAINING_MAKE_TIME_HOUR</key>
@@ -1122,6 +1128,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>ANALYZE_COST_CUT</key>
     <original>費用&lt;VAL&gt;%OFF</original>
+    <translation>Cost &lt;VAL&gt;% OFF</translation>
   </message>
   <message>
     <key>ANALYZE_ALWAYS_GREAT_SUCCESS</key>
@@ -1184,6 +1191,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>DIALOG_CHECKING_CHEST</key>
     <original>格納チェストを参照しています</original>
+    <translation>Checking Storage Chest</translation>
   </message>
   <message>
     <key>ANNOUNCE_CHECK_NG_CHEST</key>
