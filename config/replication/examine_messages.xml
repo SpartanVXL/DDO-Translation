@@ -1,0 +1,5 @@
+﻿<replication>
+  <message_set name="examine message">
+    <match>^ui\\00_message\\examine_message\\</match>
+  </message_set>
+</replication>

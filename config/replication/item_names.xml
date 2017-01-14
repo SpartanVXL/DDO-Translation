@@ -204,5 +204,9 @@
       <original_match>^(.+?)のクレスト\s*$</original_match>
       <translation_replace>FIXME:Crest of {0}</translation_replace>
     </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+?)のクレスト(.+?)\s*$</original_match>
+      <translation_replace>FIXME:Crest of {0} -- {1}</translation_replace>
+    </rewrite>
   </message_set>
 </replication>

@@ -1,5 +1,5 @@
 ﻿<replication>
-  <message_set name="achievement name" type="achievement">
+  <message_set name="achievement name" type="achievement_name">
     <match>^ui\\00_message\\achievement\\achievement_name$</match>
     <rewrite>
       <original_match>^(.+?)$</original_match>
