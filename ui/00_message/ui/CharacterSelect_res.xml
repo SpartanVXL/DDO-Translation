@@ -32,6 +32,8 @@ The deleted character cannot be restored.</translation>
     <key>char_sel_del_info</key>
     <original>
 &lt;COL ffdc78&gt;未使用の黄金石や&lt;OPCS&gt;等もすべて失われます&lt;/COL&gt;</original>
+    <translation>
+&lt;COL ffdc78&gt;All Golden Gemstones, &lt;OPCS&gt;, etc are also lost&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>char_sel_code_text</key>
@@ -66,6 +68,7 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_del_alert</key>
     <original>を削除します</original>
+    <translation>Will Delete</translation>
   </message>
   <message>
     <key>char_sel_del_finish</key>
@@ -89,6 +92,7 @@ The deleted character cannot be restored.</translation>
   <message>
     <key>char_sel_fourwords</key>
     <original>（半角英数4文字）</original>
+    <translation>(4 alphanumeric chars)</translation>
   </message>
   <message>
     <key>char_sel_announce_charover</key>

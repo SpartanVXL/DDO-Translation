@@ -922,15 +922,17 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_UPGRADE_EQUIP_NOTHING</key>
     <original>強化できる装備がありません</original>
+    <translation>There is no equipment that be enhanced.</translation>
   </message>
   <message>
     <key>CRAFT_COLOR_EQUIP_NOTHING</key>
     <original>カラー変更できる装備がありません</original>
-    <translation>There is no equipment that can be color changed.</translation>
+    <translation>There is no equipment that can change color.</translation>
   </message>
   <message>
     <key>CRAFT_CREST_EQUIP_NOTHING</key>
     <original>クレスト装着できる装備がありません</original>
+    <translation>There is no equipment that can crests mounted.</translation>
   </message>
   <message>
     <key>CRAFT_MATERIAL_NOTHING</key>
@@ -980,6 +982,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>REMAINING_MAKE_TIME_HOUR</key>
     <original>&lt;VAL&gt;h</original>
+    <translation>&lt;VAL&gt;h</translation>
   </message>
   <message>
     <key>TAB_CLASS_UP_EXAM</key>
@@ -1022,10 +1025,12 @@ experience.</translation>
   <message>
     <key>EX_CHARGE_UNIT</key>
     <original> (+&lt;VAL&gt;)</original>
+    <translation> (+&lt;VAL&gt;)</translation>
   </message>
   <message>
     <key>COLOR_CHANGE_DISABLE</key>
     <original>このアイテムはカラー変更できません</original>
+    <translation>This item cannot have its color changed.</translation>
   </message>
   <message>
     <key>CATEGORY_FURNITURE</key>
@@ -1035,7 +1040,7 @@ experience.</translation>
   <message>
     <key>CRAFT_FURNITURE_NOTHING</key>
     <original>家具レシピがありません</original>
-    <translation>There are no furniture recipes</translation>
+    <translation>There are no furniture recipes.</translation>
   </message>
   <message>
     <key>ERROR_CANT_MAKE_FURNITURE</key>
@@ -1146,7 +1151,8 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>CREATE_TIMES_WARNING</key>
     <original>※最大&lt;VAL&gt;回 (クラフト回数を消費します)</original>
-    <translation>※ Maximum &lt;VAL&gt; times (will consume the craft number of times)</translation>
+    <translation>※ Maximum &lt;VAL&gt; times
+(will consume the craft number of times)</translation>
   </message>
   <message>
     <key>HEADING_CREATE_TIMES</key>
