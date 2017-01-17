@@ -1172,25 +1172,27 @@ from your blacklist?</translation>
   <message>
     <key>ana_mitem_get_gameitem</key>
     <original>　アイテム x &lt;VAL&gt; 入手(アイテムポスト)</original>
-    <translation>Received &lt;VAL&gt; items. (Item Post)</translation>
+    <translation>　Item x&lt;VAL&gt; obtained. (Item Post)</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_course</key>
     <original>　&lt;OPCS&gt; x &lt;VAL&gt; 発動</original>
-    <translation>&lt;OPCS&gt; x&lt;VAL&gt; activated.</translation>
+    <translation>　&lt;OPCS&gt; x&lt;VAL&gt; activated.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_goldstone</key>
     <original>　メール &lt;VAL&gt;件分の黄金石 直接入手</original>
-    <translation>You have received &lt;VAL&gt; golden gemstones from the mail.</translation>
+    <translation>　Mail &lt;VAL&gt; Golden Gemstones directly obtained.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_cticket</key>
     <original>　通貨系アイテム x &lt;VAL&gt; 直接入手</original>
+    <translation>　Currency item x&lt;VAL&gt; directly obtained.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_lpawnticket</key>
     <original>　クラフトマスターポーン利用券 x &lt;VAL&gt; 入手</original>
+    <translation>　Craft Master Pawn ticket x&lt;VAL&gt; obtained.</translation>
   </message>
   <message>
     <key>ana_mitem_get_err_gameitem</key>
