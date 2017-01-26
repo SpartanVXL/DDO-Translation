@@ -1182,7 +1182,7 @@ from your blacklist?</translation>
   <message>
     <key>ana_mitem_get_opt_goldstone</key>
     <original>　メール &lt;VAL&gt;件分の黄金石 直接入手</original>
-    <translation>　Mail &lt;VAL&gt; Golden Gemstones directly obtained.</translation>
+    <translation>　&lt;VAL&gt; Golden Gemstones directly obtained.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_cticket</key>
@@ -1238,7 +1238,7 @@ from your blacklist?</translation>
   <message>
     <key>ana_gamemenu_dontnow</key>
     <original>今は使用できません</original>
-    <translation>You cannot use this now.</translation>
+    <translation>You cannot use this right now.</translation>
   </message>
   <message>
     <key>ana_gamemenu_playcontents</key>
@@ -1377,12 +1377,12 @@ They will leave the party.</translation>
   <message>
     <key>ana_CARD_ERR_NOT_ONLINE</key>
     <original>オフラインです</original>
-    <translation>Character is offline.</translation>
+    <translation>It is offline.</translation>
   </message>
   <message>
     <key>ana_APPLY_CLAN_ERR_ALREADY_JOIN</key>
     <original>すでにクランに所属しています</original>
-    <translation>Character is already in a clan.</translation>
+    <translation>You are already in a clan.</translation>
   </message>
   <message>
     <key>ana_entry_board_name_taken_list</key>

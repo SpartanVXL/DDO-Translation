@@ -584,10 +584,12 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>TITLE_EQUIP_CREST_SUCCESS</key>
     <original>クレスト装着に成功しました</original>
+    <translation>Crest was successfully equipped</translation>
   </message>
   <message>
     <key>TITLE_BREAK_CREST_SUCCESS</key>
     <original>クレスト破棄に成功しました</original>
+    <translation>Crest was successfully destroyed</translation>
   </message>
   <message>
     <key>TITLE_CHANGE_COLOR_FAILURE</key>
@@ -596,6 +598,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>TITLE_CHANGE_COLOR_SUCCESS</key>
     <original>カラー変更に成功しました</original>
+    <translation>Color change succeeded</translation>
   </message>
   <message>
     <key>TITLE_PAWN_INFO_FAILURE</key>

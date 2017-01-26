@@ -881,7 +881,8 @@ you have not claimed.</translation>
   <message>
     <key>syslog_stamp_bonus_cumulative</key>
     <original>受け取っていない累計スタンプボーナスがあります</original>
-    <translation>There is a total stamp bonus you have not claimed.</translation>
+    <translation>There is a total stamp bonus you have
+not claimed.</translation>
   </message>
   <message>
     <key>syslog_mission_interruption</key>
@@ -1248,7 +1249,7 @@ Additional bonus on clear!</translation>
   <message>
     <key>syslog_change_xp_mode</key>
     <original>%sの入手ポイントを%sに切り替えました</original>
-    <translation>Switched from %s-earning to %s-earning mode.</translation>
+    <translation>Switched %s to %s-earning mode.</translation>
   </message>
   <message>
     <key>syslog_cp_get</key>

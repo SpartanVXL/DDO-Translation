@@ -7,6 +7,7 @@
   <message>
     <key>CLAN_SEARCH_MSG_RANK</key>
     <original>ランク</original>
+    <translation>Rank</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_MEMBER</key>
@@ -45,10 +46,12 @@
   <message>
     <key>CLAN_SEARCH_MSG_MEMBER_LIST</key>
     <original>メンバー</original>
+    <translation>Members</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_DATE</key>
     <original>設立日</original>
+    <translation>Founded</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_ORLESS</key>
@@ -69,10 +72,12 @@
   <message>
     <key>CLAN_SEARCH_MEMBER_LIST_NUM</key>
     <original>&lt;VAL&gt; / &lt;VAL&gt;</original>
+    <translation>&lt;VAL&gt; / &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MEMBER_NUM</key>
     <original>&lt;VAL&gt;名</original>
+    <translation>&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_INDEX_EN</key>
@@ -97,9 +102,11 @@
   <message>
     <key>CLAN_SEARCH_MSG_NOT_FOUND</key>
     <original>クランが見つかりませんでした</original>
+    <translation>Clan was not found.</translation>
   </message>
   <message>
     <key>CLAN_SEARCH_MSG_NAME_FORMAT</key>
     <original>&lt;NAME CLAN&gt; &lt;NAME CLAN_S&gt;</original>
+    <translation>&lt;NAME CLAN&gt; &lt;NAME CLAN_S&gt;</translation>
   </message>
 </resource>
