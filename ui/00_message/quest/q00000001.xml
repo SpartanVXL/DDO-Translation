@@ -273,8 +273,8 @@ We'll clean the fort in no time!</translation>
   </message>
   <message>
     <original>敵には&lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;／&lt;KCT ATTACK2&gt;&lt;/COL&gt;で基本攻撃！</original>
-    <translation>Use &lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;/&lt;KCT ATTACK2&gt;&lt;/COL&gt; to
-attack enemies！</translation>
+    <translation>Use &lt;COL ff7575&gt;&lt;KCT ATTACK1&gt;/
+&lt;KCT ATTACK2&gt;&lt;/COL&gt; to attack enemies!</translation>
   </message>
   <message>
     <original>さらに&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT WEAPON_SUB&gt;を押しながら&lt;/PADM&gt;&lt;KEYM&gt;&lt;KCT SKILL_CUSTOM3&gt;&lt;/COL&gt;か&lt;/KEYM&gt;</original>
@@ -284,8 +284,8 @@ attack enemies！</translation>
   </message>
   <message>
     <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT ATTACK1&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;KCT SKILL_CUSTOM1&gt;&lt;/KEYM&gt;&lt;/COL&gt;でカスタムスキルだ！</original>
-    <translation>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT ATTACK1&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;KCT SKILL_CUSTOM1&gt;&lt;/KEYM&gt;&lt;/COL&gt; to
-perform custom skills!</translation>
+    <translation>Use &lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT ATTACK1&gt;&lt;/PADM&gt;&lt;KEYM&gt;&lt;KCT SKILL_CUSTOM1&gt;&lt;/KEYM&gt;&lt;/COL&gt;
+to perform custom skills!</translation>
   </message>
   <message>
     <original>&lt;COL ff7575&gt;&lt;PADM&gt;&lt;KCT WEAPON_MAIN&gt;を押しながら&lt;/PADM&gt;&lt;KEYM&gt;&lt;KCT SKILL_CUSTOM4&gt;&lt;/KEYM&gt;&lt;/COL&gt;でもOKだ！</original>
@@ -298,7 +298,9 @@ perform custom skills!</translation>
   </message>
   <message>
     <original>オークや大型の敵には近づき、&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;でしがみついて攻撃だ！</original>
-    <translation>To grab your enemies, press&lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;, which can even be used to climb Orcs and other larger foes！</translation>
+    <translation>To grab your enemies, press &lt;COL ff7575&gt;&lt;KCT TOUCH&gt;&lt;/COL&gt;,
+which can even be used to climb Orcs and
+other larger foes!</translation>
   </message>
   <message>
     <original>走る時は&lt;COL ff7575&gt;&lt;PADM&gt;移動方向に&lt;KEYN L_STICK&gt;を倒しながら押し込み&lt;KEYM&gt;初期設定の場合、同じ移動キー２回押し&lt;/KEYM&gt;&lt;/COL&gt;でダッシュだ！</original>
