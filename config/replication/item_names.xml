@@ -71,7 +71,7 @@
     </rewrite>
     <rewrite>
       <original_match>^((.+?)のクレスト)【吹飛】$</original_match>
-      <translation_replace>{0} (吹飛)</translation_replace>
+      <translation_replace>{0} (Blow Power)</translation_replace>
       <translation_arg message_set="item name" />
     </rewrite>
     <rewrite>
@@ -156,7 +156,7 @@
     </rewrite>
     <rewrite>
       <original_match>^((.+?)のクレスト)【生命力】$</original_match>
-      <translation_replace>FIXME:{0} (生命力)</translation_replace>
+      <translation_replace>{0} (Vitality)</translation_replace>
       <translation_arg message_set="item name" />
     </rewrite>
     <!-- Crest levels -->
