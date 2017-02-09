@@ -2417,24 +2417,31 @@ and activated.
   <message>
     <key>ana_partner_pawn_rim_max</key>
     <original>これ以上渡すことができません</original>
+    <translation>You cannot give anymore.</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_edit</key>
     <original>ポーンに新しい髪型の提案を受け
 エディットパーツが増えました！</original>
+    <translation>You received a proposal for a new hairstyle from your pawn.
+The number of edit parts has increased!</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_ability</key>
     <original>ポーンに戦技の提案を受け
 シークレットアビリティを獲得！</original>
+    <translation>You received a proposal for an augment from your pawn.
+Gained Secret Augment!</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_emo</key>
     <original>ポーンに新しいエモートを教えてもらった！</original>
+    <translation>You have learned a new emote from your pawn!</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_talk</key>
     <original>ポーンの会話が増えました！</original>
+    <translation>Pawn's conversation has increased!</translation>
   </message>
   <message>
     <key>ana_partner_pawn_lpup</key>
@@ -2574,6 +2581,7 @@ and activated.
   <message>
     <key>ana_itembox_submenu_tooltip_senditempost</key>
     <original>アイテムポストには送れません</original>
+    <translation>You cannot send it to Item Post.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_PAWN_EXPEDITION</key>

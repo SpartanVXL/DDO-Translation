@@ -31,10 +31,12 @@
   <message>
     <key>myroom_edit_ok</key>
     <original>似合ってるね</original>
+    <translation>It looks good on you</translation>
   </message>
   <message>
     <key>myroom_edit_ng</key>
     <original>前の髪型のほうがいいね</original>
+    <translation>I prefer your previous hairstyle</translation>
   </message>
   <message>
     <key>myroom_menu_partner_reset_error</key>
@@ -48,6 +50,13 @@
 美容院（有償）で変更する必要があります。
 
 本当に変更しますか？</original>
+    <translation>&lt;COL AA1414&gt;Final Confirmation&lt;/COL&gt;
+
+When changing to the original hairstyle or
+another hairstyle, it has to be changed at
+the Beauty Salon (paid).
+
+Are you sure you want to change it?</translation>
   </message>
   <message>
     <key>myroom_menu_pawn_quest</key>
