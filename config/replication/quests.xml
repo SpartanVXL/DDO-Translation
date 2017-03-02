@@ -352,15 +352,15 @@
       <translation_replace>Escort {0} and defeat the cursed enemy</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
-    <!--<rewrite soft="true">
+    <rewrite soft="true">
       <original_match>^(.+?)《リザルト報酬》$</original_match>
       <translation_replace>{0} (Result Reward)</translation_replace>
-      <translation_arg message_set="quest name" />
+      <translation_arg message_set="quest name" required="true" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^(.+?)《最終報酬》$</original_match>
       <translation_replace>{0} (Final Reward)</translation_replace>
-      <translation_arg message_set="quest name" />
-    </rewrite>-->
+      <translation_arg message_set="quest name" required="true" />
+    </rewrite>
   </message_set>
 </replication>
