@@ -597,7 +597,7 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_map_freemarker_off</key>
     <original>マップのフリーマーカーを消去しました</original>
-    <translation>Erase the free marker from the map.</translation>
+    <translation>You erased the free marker from the map.</translation>
   </message>
   <message>
     <key>syslog_map_freemarker_described</key>
@@ -875,13 +875,14 @@ They will leave the party.</translation>
   <message>
     <key>syslog_stamp_bonus_day</key>
     <original>受け取っていない連続スタンプボーナスがあります</original>
-    <translation>There is a continuous stamp bonus you have
-not claimed.</translation>
+    <translation>There is a consecutive stamp bonus
+you have not claimed.</translation>
   </message>
   <message>
     <key>syslog_stamp_bonus_cumulative</key>
     <original>受け取っていない累計スタンプボーナスがあります</original>
-    <translation>There is a total stamp bonus you have not claimed.</translation>
+    <translation>There is a cumulative stamp bonus
+you have not claimed.</translation>
   </message>
   <message>
     <key>syslog_mission_interruption</key>
@@ -1001,8 +1002,8 @@ Gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;.</translation>
   <message>
     <key>syslog_login_unclaimed_qreward</key>
     <original>保管ボックスに未受け取りのクエスト報酬があります</original>
-    <translation>There are quest rewards that can be claimed
-at the Storage Box.</translation>
+    <translation>There are quest rewards that can be
+claimed at the Storage Box.</translation>
   </message>
   <message>
     <key>syslog_quest_repeat_reward</key>
@@ -1248,7 +1249,7 @@ Additional bonus on clear!</translation>
   <message>
     <key>syslog_change_xp_mode</key>
     <original>%sの入手ポイントを%sに切り替えました</original>
-    <translation>Switched from %s-earning to %s-earning mode.</translation>
+    <translation>Switched %s to %s-earning mode.</translation>
   </message>
   <message>
     <key>syslog_cp_get</key>

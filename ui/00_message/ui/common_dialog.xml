@@ -441,13 +441,14 @@ Are you sure?</translation>
     <key>ana_clan_join_permit_q</key>
     <original>&lt;NAME TARGET&gt;の
 加入を許可します。よろしいですか？</original>
-    <translation>&lt;NAME TARGET&gt; will be permitted to join the clan.
-Are you sure?</translation>
+    <translation>&lt;NAME TARGET&gt; will be permitted to
+join the clan. Are you sure?</translation>
   </message>
   <message>
     <key>ana_clan_join_permit</key>
     <original>&lt;NAME TARGET&gt;の加入を許可しました</original>
-    <translation>&lt;NAME TARGET&gt; has been permitted to join the clan.</translation>
+    <translation>&lt;NAME TARGET&gt; has been permitted to
+join the clan.</translation>
   </message>
   <message>
     <key>ana_clan_join_ng_q</key>
@@ -1171,25 +1172,27 @@ from your blacklist?</translation>
   <message>
     <key>ana_mitem_get_gameitem</key>
     <original>　アイテム x &lt;VAL&gt; 入手(アイテムポスト)</original>
-    <translation>Received &lt;VAL&gt; items. (Item Post)</translation>
+    <translation>　Item x&lt;VAL&gt; obtained. (Item Post)</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_course</key>
     <original>　&lt;OPCS&gt; x &lt;VAL&gt; 発動</original>
-    <translation>&lt;OPCS&gt; x&lt;VAL&gt; activated.</translation>
+    <translation>　&lt;OPCS&gt; x&lt;VAL&gt; activated.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_goldstone</key>
     <original>　メール &lt;VAL&gt;件分の黄金石 直接入手</original>
-    <translation>You have received &lt;VAL&gt; golden gemstones from the mail.</translation>
+    <translation>　&lt;VAL&gt; Golden Gemstones directly obtained.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_cticket</key>
     <original>　通貨系アイテム x &lt;VAL&gt; 直接入手</original>
+    <translation>　Currency item x&lt;VAL&gt; directly obtained.</translation>
   </message>
   <message>
     <key>ana_mitem_get_opt_lpawnticket</key>
     <original>　クラフトマスターポーン利用券 x &lt;VAL&gt; 入手</original>
+    <translation>　Craft Master Pawn ticket x&lt;VAL&gt; obtained.</translation>
   </message>
   <message>
     <key>ana_mitem_get_err_gameitem</key>
@@ -1235,7 +1238,7 @@ from your blacklist?</translation>
   <message>
     <key>ana_gamemenu_dontnow</key>
     <original>今は使用できません</original>
-    <translation>You cannot use this now.</translation>
+    <translation>You cannot use this right now.</translation>
   </message>
   <message>
     <key>ana_gamemenu_playcontents</key>
@@ -1374,12 +1377,12 @@ They will leave the party.</translation>
   <message>
     <key>ana_CARD_ERR_NOT_ONLINE</key>
     <original>オフラインです</original>
-    <translation>Character is offline.</translation>
+    <translation>It is offline.</translation>
   </message>
   <message>
     <key>ana_APPLY_CLAN_ERR_ALREADY_JOIN</key>
     <original>すでにクランに所属しています</original>
-    <translation>Character is already in a clan.</translation>
+    <translation>You are already in a clan.</translation>
   </message>
   <message>
     <key>ana_entry_board_name_taken_list</key>
@@ -2026,9 +2029,9 @@ until the promotion test is cleared.</translation>
     <key>ana_autologout_notice</key>
     <original>長時間、操作が行われていません
 この状態があと &lt;VAL&gt;分 続くと、サーバーとの接続が切断されます</original>
-    <translation>There have been no actions for a long time.
-If this continues for &lt;VAL&gt; minutes, you will
-be disconnected.</translation>
+    <translation>There have been no actions for a long
+time. If this continues for &lt;VAL&gt; minutes,
+you will be disconnected.</translation>
   </message>
   <message>
     <key>ana_disable_not_leader_common_err</key>
@@ -2414,24 +2417,31 @@ and activated.
   <message>
     <key>ana_partner_pawn_rim_max</key>
     <original>これ以上渡すことができません</original>
+    <translation>You cannot give anymore.</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_edit</key>
     <original>ポーンに新しい髪型の提案を受け
 エディットパーツが増えました！</original>
+    <translation>You received a proposal for a new hairstyle from your pawn.
+The number of edit parts has increased!</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_ability</key>
     <original>ポーンに戦技の提案を受け
 シークレットアビリティを獲得！</original>
+    <translation>You received a proposal for an augment from your pawn.
+Gained Secret Augment!</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_emo</key>
     <original>ポーンに新しいエモートを教えてもらった！</original>
+    <translation>You have learned a new emote from your pawn!</translation>
   </message>
   <message>
     <key>ana_partner_pawn_rwmsg_talk</key>
     <original>ポーンの会話が増えました！</original>
+    <translation>Pawn's conversation has increased!</translation>
   </message>
   <message>
     <key>ana_partner_pawn_lpup</key>
@@ -2470,6 +2480,7 @@ and activated.
   <message>
     <key>ana_disp_cleartime</key>
     <original>クリアタイム</original>
+    <translation>Clear time</translation>
   </message>
   <message>
     <key>ana_PAWN_DELETE_ERR_PARTNER</key>
@@ -2570,6 +2581,7 @@ and activated.
   <message>
     <key>ana_itembox_submenu_tooltip_senditempost</key>
     <original>アイテムポストには送れません</original>
+    <translation>You cannot send it to Item Post.</translation>
   </message>
   <message>
     <key>ana_INVITE_PARTY_ERR_PAWN_EXPEDITION</key>
@@ -2586,10 +2598,12 @@ and activated.
   <message>
     <key>ana_TreasurePoint_Discovery</key>
     <original>小さくきらめく何かを発見した！</original>
+    <translation>You discovered something glittering!</translation>
   </message>
   <message>
     <key>ana_keyconfig_announce_auto_key_change</key>
     <original>キーコンフィグを「%s」に変更しました</original>
+    <translation>Key config changed to "%s"</translation>
   </message>
   <message>
     <key>ana_keyconfig_dialog_not_yet_saved_attention</key>

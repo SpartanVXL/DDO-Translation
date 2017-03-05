@@ -584,10 +584,12 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>TITLE_EQUIP_CREST_SUCCESS</key>
     <original>クレスト装着に成功しました</original>
+    <translation>Crest was successfully equipped</translation>
   </message>
   <message>
     <key>TITLE_BREAK_CREST_SUCCESS</key>
     <original>クレスト破棄に成功しました</original>
+    <translation>Crest was successfully destroyed</translation>
   </message>
   <message>
     <key>TITLE_CHANGE_COLOR_FAILURE</key>
@@ -596,6 +598,7 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>TITLE_CHANGE_COLOR_SUCCESS</key>
     <original>カラー変更に成功しました</original>
+    <translation>Color change succeeded</translation>
   </message>
   <message>
     <key>TITLE_PAWN_INFO_FAILURE</key>
@@ -778,10 +781,12 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>EXAM_RECEIPE_TITLE</key>
     <original>昇格試験レシピ</original>
+    <translation>Promotion Test Recipe</translation>
   </message>
   <message>
     <key>EXAM_RESULT_PARAM</key>
     <original>昇格結果</original>
+    <translation>Promotion Result</translation>
   </message>
   <message>
     <key>CRAFT_DETAIL_ITEM_RANK</key>
@@ -889,14 +894,17 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_OVERUP_CRAFTLV</key>
     <original>クラフトレベルの上限アップ</original>
+    <translation>Craft Level Limit Up</translation>
   </message>
   <message>
     <key>CRAFT_SET_ASSISTANT</key>
     <original>アシスタントの設定人数</original>
+    <translation>Assistant Slot Count</translation>
   </message>
   <message>
     <key>CRAFT_NUM_TO_NUM</key>
     <original>（&lt;VAL&gt;→&lt;VAL&gt;）</original>
+    <translation>(&lt;VAL&gt;→&lt;VAL&gt;)</translation>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_D</key>
@@ -917,15 +925,17 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_UPGRADE_EQUIP_NOTHING</key>
     <original>強化できる装備がありません</original>
+    <translation>There is no equipment that be enhanced.</translation>
   </message>
   <message>
     <key>CRAFT_COLOR_EQUIP_NOTHING</key>
     <original>カラー変更できる装備がありません</original>
-    <translation>There is no equipment that can be color changed.</translation>
+    <translation>There is no equipment that can change color.</translation>
   </message>
   <message>
     <key>CRAFT_CREST_EQUIP_NOTHING</key>
     <original>クレスト装着できる装備がありません</original>
+    <translation>There is no equipment that can crests mounted.</translation>
   </message>
   <message>
     <key>CRAFT_MATERIAL_NOTHING</key>
@@ -970,10 +980,12 @@ as well.&lt;/COL&gt;</translation>
   <message>
     <key>CRAFT_FINISHED</key>
     <original>クラフト完了</original>
+    <translation>Craft Finished</translation>
   </message>
   <message>
     <key>REMAINING_MAKE_TIME_HOUR</key>
     <original>&lt;VAL&gt;h</original>
+    <translation>&lt;VAL&gt;h</translation>
   </message>
   <message>
     <key>TAB_CLASS_UP_EXAM</key>
@@ -1010,15 +1022,18 @@ as well.&lt;/COL&gt;</translation>
     <original>クラフトを指揮していた&lt;NAME PAWN&gt;が
 クラフト経験値を&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;入手しました</original>
     <translation>For being the craft leader, &lt;NAME PAWN&gt;
-has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</translation>
+has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting
+experience.</translation>
   </message>
   <message>
     <key>EX_CHARGE_UNIT</key>
     <original> (+&lt;VAL&gt;)</original>
+    <translation> (+&lt;VAL&gt;)</translation>
   </message>
   <message>
     <key>COLOR_CHANGE_DISABLE</key>
     <original>このアイテムはカラー変更できません</original>
+    <translation>This item cannot have its color changed.</translation>
   </message>
   <message>
     <key>CATEGORY_FURNITURE</key>
@@ -1028,7 +1043,7 @@ has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; crafting experience.</tran
   <message>
     <key>CRAFT_FURNITURE_NOTHING</key>
     <original>家具レシピがありません</original>
-    <translation>There are no furniture recipes</translation>
+    <translation>There are no furniture recipes.</translation>
   </message>
   <message>
     <key>ERROR_CANT_MAKE_FURNITURE</key>
@@ -1122,6 +1137,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>ANALYZE_COST_CUT</key>
     <original>費用&lt;VAL&gt;%OFF</original>
+    <translation>Cost &lt;VAL&gt;% OFF</translation>
   </message>
   <message>
     <key>ANALYZE_ALWAYS_GREAT_SUCCESS</key>
@@ -1138,7 +1154,8 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>CREATE_TIMES_WARNING</key>
     <original>※最大&lt;VAL&gt;回 (クラフト回数を消費します)</original>
-    <translation>※ Maximum &lt;VAL&gt; times (will consume the craft number of times)</translation>
+    <translation>※ Maximum &lt;VAL&gt; times
+(will consume the craft number of times)</translation>
   </message>
   <message>
     <key>HEADING_CREATE_TIMES</key>
@@ -1184,6 +1201,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>DIALOG_CHECKING_CHEST</key>
     <original>格納チェストを参照しています</original>
+    <translation>Checking Storage Chest</translation>
   </message>
   <message>
     <key>ANNOUNCE_CHECK_NG_CHEST</key>

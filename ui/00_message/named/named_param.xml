@@ -228,6 +228,7 @@
   </named_param>
   <named_param id="168">
     <original type="Prefix">氷竜</original>
+    <translation type="Prefix">Ice Dragon </translation>
   </named_param>
   <named_param id="169">
     <original type="Replace">オーク残存兵</original>
@@ -245,6 +246,7 @@
   </named_param>
   <named_param id="173">
     <original type="Replace">錬成強化グリフィン</original>
+    <translation type="Replace">Reinforcement Griffin</translation>
   </named_param>
   <named_param id="174">
     <original type="Replace">錬魔ハーピー</original>
@@ -252,6 +254,7 @@
   </named_param>
   <named_param id="175">
     <original type="Replace">錬成強化グリフィン</original>
+    <translation type="Replace">Reinforcement Griffin</translation>
   </named_param>
   <named_param id="176">
     <original type="Replace">錬魔ハーピー</original>
@@ -461,19 +464,19 @@
   </named_param>
   <named_param id="243">
     <original type="Replace">泉の徘徊霊</original>
-    <translation type="Replace">Wandering Spirits of the Spring</translation>
+    <translation type="Replace">Wandering Spirit of the Spring</translation>
   </named_param>
   <named_param id="245">
     <original type="Replace">泉の徘徊霊</original>
-    <translation type="Replace">Wandering Spirits of the Spring</translation>
+    <translation type="Replace">Wandering Spirit of the Spring</translation>
   </named_param>
   <named_param id="246">
     <original type="Replace">泉の徘徊霊</original>
-    <translation type="Replace">Wandering Spirits of the Spring</translation>
+    <translation type="Replace">Wandering Spirit of the Spring</translation>
   </named_param>
   <named_param id="247">
     <original type="Replace">泉の徘徊霊</original>
-    <translation type="Replace">Wandering Spirits of the Spring</translation>
+    <translation type="Replace">Wandering Spirit of the Spring</translation>
   </named_param>
   <named_param id="248">
     <original type="Prefix">エルフイーター・</original>
@@ -489,9 +492,11 @@
   </named_param>
   <named_param id="251">
     <original type="Replace">メルゴダ巡視兵団</original>
+    <translation type="Replace">Mergoda Patrol Corps</translation>
   </named_param>
   <named_param id="252">
     <original type="Replace">メルゴダ女守官</original>
+    <translation type="Replace">Mergoda Female Officer</translation>
   </named_param>
   <named_param id="253">
     <original type="Replace">ザンドラ・バルバロイ</original>
@@ -532,9 +537,11 @@
   </named_param>
   <named_param id="263">
     <original type="Replace">嘆きのモーラ</original>
+    <translation type="Replace">Wailing Mora</translation>
   </named_param>
   <named_param id="264">
     <original type="Replace">白獅子アルバス</original>
+    <translation type="Replace">White Lion Albus</translation>
   </named_param>
   <named_param id="265">
     <original type="Replace">斥候のコロッサス</original>
@@ -542,12 +549,15 @@
   </named_param>
   <named_param id="267">
     <original type="Replace">強襲用コロッサス</original>
+    <translation type="Replace">Assault Colossus</translation>
   </named_param>
   <named_param id="269">
     <original type="Replace">不浄の土人形</original>
+    <translation type="Replace">Foul Earth Figure</translation>
   </named_param>
   <named_param id="270">
     <original type="Replace">不浄の肉塊虫</original>
+    <translation type="Replace">Foul Meat Lump</translation>
   </named_param>
   <named_param id="271">
     <original type="Replace">炎熱のジオゴーレム</original>
@@ -570,9 +580,11 @@
   </named_param>
   <named_param id="277">
     <original type="Replace">合成用ゴブリンアルケミー</original>
+    <translation type="Replace">Synthetic Alchemized Goblin</translation>
   </named_param>
   <named_param id="278">
     <original type="Replace">合成用アイ</original>
+    <translation type="Replace">Synthetic Eye</translation>
   </named_param>
   <named_param id="279">
     <original type="Replace">メルガン・エンジニア</original>
@@ -632,7 +644,7 @@
   </named_param>
   <named_param id="308">
     <original type="Replace">穢れの土人形</original>
-    <translation type="Replace">Defiled Mudman</translation>
+    <translation type="Replace">Defiled Earth Figure</translation>
   </named_param>
   <named_param id="309">
     <original type="Replace">穢れの信徒</original>
@@ -707,7 +719,7 @@
   </named_param>
   <named_param id="342">
     <original type="Replace">魔女の従僕</original>
-    <translation type="Replace">Witch's Servants</translation>
+    <translation type="Replace">Witch's Servant</translation>
   </named_param>
   <named_param id="343">
     <original type="Replace">魔女マリヴェラ</original>
@@ -715,7 +727,7 @@
   </named_param>
   <named_param id="344">
     <original type="Replace">魔女の従僕</original>
-    <translation type="Replace">Witch's Servants</translation>
+    <translation type="Replace">Witch's Servant</translation>
   </named_param>
   <named_param id="345">
     <original type="Prefix">死体齧りの</original>
@@ -1231,6 +1243,7 @@
   </named_param>
   <named_param id="531">
     <original type="Prefix">ラウドネス・</original>
+    <translation type="Prefix">Loudness </translation>
   </named_param>
   <named_param id="532">
     <original type="Replace">ディナン・ピアサー</original>
@@ -1540,18 +1553,23 @@
   </named_param>
   <named_param id="639">
     <original type="Replace">死を呼ぶ闇騎士</original>
+    <translation type="Replace">Death Calling Dark Knight</translation>
   </named_param>
   <named_param id="640">
     <original type="Replace">カラミティコーラ</original>
+    <translation type="Replace">Calamity Caller</translation>
   </named_param>
   <named_param id="641">
     <original type="Replace">死を招く魔姫</original>
+    <translation type="Replace">Death Courting Demon Princess</translation>
   </named_param>
   <named_param id="642">
     <original type="Replace">霜竜フロストウィルム</original>
+    <translation type="Replace">Frost Wyrm</translation>
   </named_param>
   <named_param id="643">
     <original type="Replace">灼竜ファイアドレイク</original>
+    <translation type="Replace">Fire Drake</translation>
   </named_param>
   <named_param id="644">
     <original type="Replace">大角の戦鬼将</original>
@@ -1564,18 +1582,22 @@
   </named_param>
   <named_param id="647">
     <original type="Replace">軍獣サヴェッジキメラ</original>
+    <translation type="Replace">War Beast Savage Chimera</translation>
   </named_param>
   <named_param id="648">
     <original type="Replace">オーク軍近衛隊</original>
   </named_param>
   <named_param id="649">
     <original type="Replace">スカルサージェント</original>
+    <translation type="Replace">Skill Sergeant</translation>
   </named_param>
   <named_param id="650">
     <original type="Replace">メイルサージェント</original>
+    <translation type="Replace">Mail Sergeant</translation>
   </named_param>
   <named_param id="653">
     <original type="Replace">大鴉ハーピー</original>
+    <translation type="Replace">The Crow Harpy</translation>
   </named_param>
   <named_param id="654">
     <original type="Prefix">賞金首</original>
@@ -1992,6 +2014,7 @@
   </named_param>
   <named_param id="893">
     <original type="Replace">子攫いのメリーティア</original>
+    <translation type="Replace">Maritia the Kidnapper</translation>
   </named_param>
   <named_param id="894">
     <original type="Replace">坑道の骸骨騎士</original>
@@ -2015,6 +2038,7 @@
   </named_param>
   <named_param id="899">
     <original type="Replace">侵食に抗う戦鬼</original>
+    <translation type="Replace">Infection Resisting War Demon</translation>
   </named_param>
   <named_param id="900">
     <original type="Replace">虚ろの騎士</original>
@@ -2022,6 +2046,7 @@
   </named_param>
   <named_param id="901">
     <original type="Replace">跡地荒らしの黒大鷲</original>
+    <translation type="Replace">Black Sea Eagle of the Ruined Site</translation>
   </named_param>
   <named_param id="902">
     <original type="Replace">蝕まれし狂鷲</original>
@@ -2055,6 +2080,7 @@
   </named_param>
   <named_param id="910">
     <original type="Replace">ディープウェル・ミストレス</original>
+    <translation type="Replace">Deep Well Mistress</translation>
   </named_param>
   <named_param id="911">
     <original type="Replace">テラス・ガーディアン</original>
@@ -2076,6 +2102,7 @@
   </named_param>
   <named_param id="917">
     <original type="Prefix">墓所の</original>
+    <translation type="Prefix">Tomb </translation>
   </named_param>
   <named_param id="919">
     <original type="Replace">哀惜の幽鬼</original>
@@ -2134,7 +2161,7 @@
   </named_param>
   <named_param id="933">
     <original type="Replace">侵食されし有翼</original>
-    <translation type="Replace">Corroded Wings</translation>
+    <translation type="Replace">Infected Wings</translation>
   </named_param>
   <named_param id="934">
     <original type="Prefix">強襲</original>
@@ -2155,6 +2182,7 @@
   </named_param>
   <named_param id="939">
     <original type="Replace">行く手をはばむ傀儡</original>
+    <translation type="Replace">Obstructing Puppet</translation>
   </named_param>
   <named_param id="940">
     <original type="Replace">淀みの衛士人形</original>
@@ -2910,15 +2938,19 @@
   </named_param>
   <named_param id="1231">
     <original type="Replace">謎の魔物</original>
+    <translation type="Replace">Mysterious Demon</translation>
   </named_param>
   <named_param id="1232">
     <original type="Prefix">廃村に巣食う</original>
+    <translation type="Prefix">Abandoned Villege Nesting </translation>
   </named_param>
   <named_param id="1233">
     <original type="Prefix">試練の魔物</original>
+    <translation type="Prefix">Trial Demon </translation>
   </named_param>
   <named_param id="1234">
     <original type="Prefix">試練の魔物</original>
+    <translation type="Prefix">Trial Demon </translation>
   </named_param>
   <named_param id="1235">
     <original type="Prefix">ロイグの家畜</original>
@@ -2941,12 +2973,14 @@
   </named_param>
   <named_param id="1247">
     <original type="Prefix">妨害</original>
+    <translation type="Prefix">Interfering </translation>
   </named_param>
   <named_param id="1248">
     <original type="Replace">急襲する石魔</original>
   </named_param>
   <named_param id="1249">
     <original type="Replace">招かれざる白鷲</original>
+    <translation type="Replace">Unbidden White Eagle</translation>
   </named_param>
   <named_param id="1250">
     <original type="Prefix">群れる</original>
@@ -3248,6 +3282,7 @@
   </named_param>
   <named_param id="1428">
     <original type="Prefix">鍵番</original>
+    <translation type="Prefix">Key Number </translation>
   </named_param>
   <named_param id="1429">
     <original type="Replace">歪みの執行人</original>
@@ -3260,12 +3295,15 @@
   </named_param>
   <named_param id="1432">
     <original type="Prefix">試練</original>
+    <translation type="Prefix">Trial </translation>
   </named_param>
   <named_param id="1433">
     <original type="Prefix">試練</original>
+    <translation type="Prefix">Trial </translation>
   </named_param>
   <named_param id="1434">
     <original type="Prefix">行く手を阻む</original>
+    <translation type="Prefix">Obstructing </translation>
   </named_param>
   <named_param id="1447">
     <original type="Prefix">瘴気を纏う</original>
@@ -3564,5 +3602,8 @@
   </named_param>
   <named_param id="1600">
     <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1713">
+    <original type="Replace">見たことのない感じのスライム</original>
   </named_param>
 </named_params>

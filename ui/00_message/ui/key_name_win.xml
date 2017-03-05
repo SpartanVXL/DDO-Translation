@@ -2,273 +2,341 @@
   <message>
     <key>START</key>
     <original>10ボタン</original>
+    <translation>Button 10</translation>
   </message>
   <message>
     <key>BACK</key>
     <original>9ボタン</original>
+    <translation>Button 9</translation>
   </message>
   <message>
     <key>R1</key>
     <original>7ボタン</original>
+    <translation>Button 7</translation>
   </message>
   <message>
     <key>L1</key>
     <original>5ボタン</original>
+    <translation>Button 5</translation>
   </message>
   <message>
     <key>R2</key>
     <original>8ボタン</original>
+    <translation>Button 8</translation>
   </message>
   <message>
     <key>L2</key>
     <original>6ボタン</original>
+    <translation>Button 6</translation>
   </message>
   <message>
     <key>L3</key>
     <original>左スティック押し込み</original>
+    <translation>Left Stick Click</translation>
   </message>
   <message>
     <key>R3</key>
     <original>右スティック押し込み</original>
+    <translation>Right Stick Click</translation>
   </message>
   <message>
     <key>RU</key>
     <original>1ボタン</original>
+    <translation>Button 1</translation>
   </message>
   <message>
     <key>RD</key>
     <original>3ボタン</original>
+    <translation>Button 3</translation>
   </message>
   <message>
     <key>RL</key>
     <original>4ボタン</original>
+    <translation>Button 4</translation>
   </message>
   <message>
     <key>RR</key>
     <original>2ボタン</original>
+    <translation>Button 2</translation>
   </message>
   <message>
     <key>KEY</key>
     <original>方向キー</original>
+    <translation>DPad</translation>
   </message>
   <message>
     <key>K_ARROW</key>
     <original>方向キーの上下左右</original>
+    <translation>DPad Up/Down/Left/Right</translation>
   </message>
   <message>
     <key>K_UPDOWN</key>
     <original>方向キーの上下</original>
+    <translation>DPad Up/Down</translation>
   </message>
   <message>
     <key>K_SIDE</key>
     <original>方向キーの左右</original>
+    <translation>DPad Left/Right</translation>
   </message>
   <message>
     <key>K_UP</key>
     <original>方向キー上</original>
+    <translation>DPad Up</translation>
   </message>
   <message>
     <key>K_DOWN</key>
     <original>方向キー下</original>
+    <translation>DPad Down</translation>
   </message>
   <message>
     <key>K_LEFT</key>
     <original>方向キー左</original>
+    <translation>DPad Left</translation>
   </message>
   <message>
     <key>K_RIGHT</key>
     <original>方向キー右</original>
+    <translation>DPad Right</translation>
   </message>
   <message>
     <key>L_STICK</key>
     <original>左スティック</original>
+    <translation>Left Stick</translation>
   </message>
   <message>
     <key>R_STICK</key>
     <original>右スティック</original>
+    <translation>Right Stick</translation>
   </message>
   <message>
     <key>keyname_key_jpn</key>
     <original>キー</original>
+    <translation> Key</translation>
   </message>
   <message>
     <key>keyname_Blank</key>
     <original>Blank</original>
+    <translation>Blank</translation>
   </message>
   <message>
     <key>keyname_Esc</key>
     <original>Esc</original>
+    <translation>Esc</translation>
   </message>
   <message>
     <key>keyname_F1</key>
     <original>F1</original>
+    <translation>F1</translation>
   </message>
   <message>
     <key>keyname_F2</key>
     <original>F2</original>
+    <translation>F2</translation>
   </message>
   <message>
     <key>keyname_F3</key>
     <original>F3</original>
+    <translation>F3</translation>
   </message>
   <message>
     <key>keyname_F4</key>
     <original>F4</original>
+    <translation>F4</translation>
   </message>
   <message>
     <key>keyname_F5</key>
     <original>F5</original>
+    <translation>F5</translation>
   </message>
   <message>
     <key>keyname_F6</key>
     <original>F6</original>
+    <translation>F6</translation>
   </message>
   <message>
     <key>keyname_F7</key>
     <original>F7</original>
+    <translation>F7</translation>
   </message>
   <message>
     <key>keyname_F8</key>
     <original>F8</original>
+    <translation>F8</translation>
   </message>
   <message>
     <key>keyname_F9</key>
     <original>F9</original>
+    <translation>F9</translation>
   </message>
   <message>
     <key>keyname_F10</key>
     <original>F10</original>
+    <translation>F10</translation>
   </message>
   <message>
     <key>keyname_F11</key>
     <original>F11</original>
+    <translation>F11</translation>
   </message>
   <message>
     <key>keyname_F12</key>
     <original>F12</original>
+    <translation>F12</translation>
   </message>
   <message>
     <key>keyname_Tab</key>
     <original>Tab</original>
+    <translation>Tab</translation>
   </message>
   <message>
     <key>keyname_Shift</key>
     <original>Shift</original>
+    <translation>Shift</translation>
   </message>
   <message>
     <key>keyname_Ctrl</key>
     <original>Ctrl</original>
+    <translation>Ctrl</translation>
   </message>
   <message>
     <key>keyname_Alt</key>
     <original>Alt</original>
+    <translation>Alt</translation>
   </message>
   <message>
     <key>keyname_Space</key>
     <original>Space</original>
+    <translation>Space</translation>
   </message>
   <message>
     <key>keyname_Backspace</key>
     <original>Backspace</original>
+    <translation>Backspace</translation>
   </message>
   <message>
     <key>keyname_Enter</key>
     <original>Enter</original>
+    <translation>Enter</translation>
   </message>
   <message>
     <key>keyname_Insert</key>
     <original>Insert</original>
+    <translation>Insert</translation>
   </message>
   <message>
     <key>keyname_Delete</key>
     <original>Delete</original>
+    <translation>Delete</translation>
   </message>
   <message>
     <key>keyname_Home</key>
     <original>Home</original>
+    <translation>Home</translation>
   </message>
   <message>
     <key>keyname_End</key>
     <original>End</original>
+    <translation>End</translation>
   </message>
   <message>
     <key>keyname_PageUp</key>
     <original>PageUp</original>
+    <translation>PageUp</translation>
   </message>
   <message>
     <key>keyname_PageDown</key>
     <original>PageDown</original>
+    <translation>PageDown</translation>
   </message>
   <message>
     <key>keyname_arrowUP</key>
     <original>↑</original>
+    <translation>↑</translation>
   </message>
   <message>
     <key>keyname_arrowDOWN</key>
     <original>↓</original>
+    <translation>↓</translation>
   </message>
   <message>
     <key>keyname_arrowLEFT</key>
     <original>←</original>
+    <translation>←</translation>
   </message>
   <message>
     <key>keyname_arrowRIGHT</key>
     <original>→</original>
+    <translation>→</translation>
   </message>
   <message>
     <key>keyname_Num0</key>
     <original>Num0</original>
+    <translation>Num0</translation>
   </message>
   <message>
     <key>keyname_Num1</key>
     <original>Num1</original>
+    <translation>Num1</translation>
   </message>
   <message>
     <key>keyname_Num2</key>
     <original>Num2</original>
+    <translation>Num2</translation>
   </message>
   <message>
     <key>keyname_Num3</key>
     <original>Num3</original>
+    <translation>Num3</translation>
   </message>
   <message>
     <key>keyname_Num4</key>
     <original>Num4</original>
+    <translation>Num4</translation>
   </message>
   <message>
     <key>keyname_Num5</key>
     <original>Num5</original>
+    <translation>Num5</translation>
   </message>
   <message>
     <key>keyname_Num6</key>
     <original>Num6</original>
+    <translation>Num6</translation>
   </message>
   <message>
     <key>keyname_Num7</key>
     <original>Num7</original>
+    <translation>Num7</translation>
   </message>
   <message>
     <key>keyname_Num8</key>
     <original>Num8</original>
+    <translation>Num8</translation>
   </message>
   <message>
     <key>keyname_Num9</key>
     <original>Num9</original>
+    <translation>Num9</translation>
   </message>
   <message>
     <key>keyname_mouse_left</key>
     <original>マウス左ボタン</original>
+    <translation>Left Mouse Button</translation>
   </message>
   <message>
     <key>keyname_mouse_right</key>
     <original>マウス右ボタン</original>
+    <translation>Right Mouse Button</translation>
   </message>
   <message>
     <key>keyname_mouse_center</key>
     <original>マウス中ボタン</original>
+    <translation>Middle Mouse Button</translation>
   </message>
   <message>
     <key>keyname_mouse_wheel</key>
     <original>マウスホイール</original>
+    <translation>Mouse Wheel</translation>
   </message>
 </resource>

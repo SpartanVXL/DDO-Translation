@@ -1,0 +1,32 @@
+﻿<resource>
+  <message>
+    <key>update_time</key>
+    <original>（%s%d:%02d時点集計）</original>
+    <translation>(%s%d:%02d Time Point Total)</translation>
+  </message>
+  <message>
+    <key>event_total</key>
+    <original>イベント合計</original>
+    <translation>Event Total</translation>
+  </message>
+  <message>
+    <key>hour_pm</key>
+    <original>PM</original>
+    <translation>PM</translation>
+  </message>
+  <message>
+    <key>hour_am</key>
+    <original>AM</original>
+    <translation>AM</translation>
+  </message>
+  <message>
+    <key>now_delivery_num</key>
+    <original>現在の自分のあげたチョコの数</original>
+    <translation>Number of chocolate given</translation>
+  </message>
+  <message>
+    <key>category_total</key>
+    <original>合計　　　　</original>
+    <translation>Total</translation>
+  </message>
+</resource>

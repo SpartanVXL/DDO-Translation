@@ -35,18 +35,22 @@
   <message>
     <key>HANDOVER_MSG_TAB_CONSUME</key>
     <original>消費</original>
+    <translation>Consumable</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_TAB_EQUIP</key>
     <original>装備</original>
+    <translation>Equipment</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_TAB_MATERIAL</key>
     <original>素材</original>
+    <translation>Material</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_TAB_SPECIAL</key>
     <original>特殊</original>
+    <translation>Special</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_BTN_FINISH</key>
@@ -56,15 +60,19 @@
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE04</key>
     <original>Delivery</original>
+    <translation>Delivery</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE05</key>
     <original>納品</original>
+    <translation>Delivery</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_00</key>
     <original>アイテムを受け取らずに戻りますか？
 受け取ったアイテムは戻されます</original>
+    <translation>Do you want to return without receiving items?
+Items received will be returned.</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_YES</key>
@@ -79,15 +87,19 @@
   <message>
     <key>HANDOVER_MSG_ANNOUCE_00</key>
     <original>送り先がいっぱいのため、受け取ることができません</original>
+    <translation>You cannot receive it because the destination is full</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_01</key>
     <original>アイテムを受け取らずすべて捨てます
 よろしいですか？</original>
+    <translation>Are you sure you want to discard all items
+without receiving them?</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_ANNOUCE_01</key>
     <original>アイテムを受け取りました</original>
+    <translation>You received an item</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_02</key>
@@ -106,11 +118,14 @@ the selected items?</translation>
   <message>
     <key>HANDOVER_MSG_ANNOUCE_02</key>
     <original>アイテムを渡しました</original>
+    <translation>You delivered an item</translation>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_04</key>
     <original>アイテムが選択されていません
 アイテムの納品をキャンセルします
 よろしいですか？</original>
+    <translation>Item is not selected.
+Are you sure you want to cancel delivery?</translation>
   </message>
 </resource>
