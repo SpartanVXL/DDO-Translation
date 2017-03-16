@@ -30,14 +30,17 @@
     <rewrite soft="true">
       <original_match>^＜エリアオーダー＞(.+?)魔物征伐$</original_match>
       <translation_replace>Area Order: {0} Demon Extermination</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^＜エリアオーダー＞(.+?)補給$</original_match>
       <translation_replace>Area Order: {0} Resupply</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^＜エリアオーダー＞(.+?)$</original_match>
       <translation_replace>Area Order: {0}</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^(.+?)　試練：(.+?)$</original_match>
@@ -47,22 +50,27 @@
     <rewrite soft="true">
       <original_match>^白翼覚者隊・納品依頼　(.+?)$</original_match>
       <translation_replace>White Wings: Delivery ({0})</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^白翼覚者隊・収集依頼　(.+?)$</original_match>
       <translation_replace>White Wings: Collection ({0})</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^白翼覚者隊・討伐任務　(.+?)$</original_match>
       <translation_replace>White Wings: Elimination ({0})</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^白翼覚者隊・協力要請　(.+?)$</original_match>
       <translation_replace>White Wings: Cooperation ({0})</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^(.+?)名産品の入手依頼$</original_match>
       <translation_replace>{0} Materials Request</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <!-- Quest objectives -->
     <rewrite>
@@ -109,8 +117,14 @@
     <rewrite>
       <original_match>^(.+?)に戻り(.+?)と話す$</original_match>
       <translation_replace>Return to {0} and speak with {1}</translation_replace>
-      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)に戻り(.+?)と話す$</original_match>
+      <translation_replace>Return to {0} and speak with {1}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+?)に向かいゴブリン王(.+?)と話す$</original_match>
