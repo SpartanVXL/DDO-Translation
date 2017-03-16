@@ -245,6 +245,12 @@
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)にある＜(.+)＞へ向かう$</original_match>
+      <translation_replace>Head to "{1}" in {0}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)との待ち合わせ場所へ向かう</original_match>
       <translation_replace>Head to {0}'s meeting place</translation_replace>
       <translation_arg message_set="npc name" />
