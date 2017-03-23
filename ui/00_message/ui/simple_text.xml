@@ -507,6 +507,7 @@
   <message>
     <key>simple_text_2527</key>
     <original>レベル差が少ないほうがいいですね</original>
+    <translation>It's better to have less level difference</translation>
   </message>
   <message>
     <key>simple_text_2529</key>
@@ -631,10 +632,12 @@
   <message>
     <key>simple_text_9085</key>
     <original>いまこそ、攻撃を！</original>
+    <translation>Now is the time to attack!</translation>
   </message>
   <message>
     <key>simple_text_9086</key>
     <original>退きましょう！</original>
+    <translation>Let's get out alive!</translation>
   </message>
   <message>
     <key>simple_text_9087</key>
@@ -1047,74 +1050,92 @@
   <message>
     <key>simple_text_9199</key>
     <original>俺に任せろ！</original>
+    <translation>Leave it to me!(male)</translation>
   </message>
   <message>
     <key>simple_text_9200</key>
     <original>私に任せて！</original>
+    <translation>Leave it to me!(female)</translation>
   </message>
   <message>
     <key>simple_text_9201</key>
     <original>俺の背中に隠れて！</original>
+    <translation>Hide in my back!(male)</translation>
   </message>
   <message>
     <key>simple_text_9202</key>
     <original>私の背中に隠れて！</original>
+    <translation>Hide in my back!(female)</translation>
   </message>
   <message>
     <key>simple_text_9203</key>
     <original>凍らせる！</original>
+    <translation>I will freeze it!</translation>
   </message>
   <message>
     <key>simple_text_9204</key>
     <original>凍らせます！</original>
+    <translation>I'm going to put it to freeze!</translation>
   </message>
   <message>
     <key>simple_text_9205</key>
     <original>スローにする！</original>
+    <translation>I will make it slow!</translation>
   </message>
   <message>
     <key>simple_text_9206</key>
     <original>スローにします！</original>
+    <translation>I'm going to put it to slow!</translation>
   </message>
   <message>
     <key>simple_text_9207</key>
     <original>眠らせる！</original>
+    <translation>I will make it sleep!</translation>
   </message>
   <message>
     <key>simple_text_9208</key>
     <original>眠らせます！</original>
+    <translation>I'm going to put it to sleep!</translation>
   </message>
   <message>
     <key>simple_text_9209</key>
     <original>状態異常を狙う！</original>
+    <translation>Let's aim for abnormal state!</translation>
   </message>
   <message>
     <key>simple_text_9210</key>
     <original>状態異常を狙います！</original>
+    <translation>I'll aim for abnormal state!</translation>
   </message>
   <message>
     <key>simple_text_9211</key>
     <original>状態異常にする！</original>
+    <translation>I will make him in abnormal state!</translation>
   </message>
   <message>
     <key>simple_text_9212</key>
     <original>状態異常にします！</original>
+    <translation>I'm going to put it in abnormal state!</translation>
   </message>
   <message>
     <key>simple_text_9213</key>
     <original>弱点を攻撃してくれ！</original>
+    <translation>Please Attack the weakpoint!</translation>
   </message>
   <message>
     <key>simple_text_9214</key>
     <original>弱点を攻撃して！</original>
+    <translation>Attack the weakpoint!</translation>
   </message>
   <message>
     <key>simple_text_9215</key>
     <original>別れて戦おう！</original>
+    <translation>we fight separately!</translation>
   </message>
   <message>
     <key>simple_text_9216</key>
     <original>別れて戦いましょう！</original>
+    <translation>Let's fight separately!</translation>
   </message>
   <message>
     <key>simple_text_9217</key>
@@ -1124,14 +1145,17 @@
   <message>
     <key>simple_text_9218</key>
     <original>散らばってください！</original>
+    <translation>Scatter please!</translation>
   </message>
   <message>
     <key>simple_text_9219</key>
     <original>弱点を出そう！</original>
+    <translation>Reveal it's weakpoint!</translation>
   </message>
   <message>
     <key>simple_text_9220</key>
     <original>弱点を狙おう！</original>
+    <translation>Aim for it's weakpoint!</translation>
   </message>
   <message>
     <key>simple_text_9221</key>
@@ -1140,10 +1164,12 @@
   <message>
     <key>simple_text_9222</key>
     <original>スタミナを減らそう！</original>
+    <translation>Let's reduce it's stamina!</translation>
   </message>
   <message>
     <key>simple_text_9223</key>
     <original>一気に揺さぶろう！</original>
+    <translation>Let's shake!</translation>
   </message>
   <message>
     <key>simple_text_9224</key>
@@ -1168,12 +1194,12 @@
   <message>
     <key>simple_text_9228</key>
     <original>おきろ！</original>
-    <translation>Wake up!(hard)</translation>
+    <translation>Wake up!</translation>
   </message>
   <message>
     <key>simple_text_9229</key>
     <original>起きて！</original>
-    <translation>Wake up!(soft)</translation>
+    <translation>Please wake up!</translation>
   </message>
   <message>
     <key>simple_text_9230</key>
@@ -1183,6 +1209,7 @@
   <message>
     <key>simple_text_9231</key>
     <original>仕切り直そう！</original>
+    <translation>Let's retry again!</translation>
   </message>
   <message>
     <key>simple_text_9232</key>
@@ -1192,6 +1219,6 @@
   <message>
     <key>simple_text_9233</key>
     <original>こいつは危険です！</original>
-    <translation>This guy is bad news!</translation>
+    <translation>This is dangerous!</translation>
   </message>
 </resource>
