@@ -72,6 +72,51 @@
       <translation_replace>{0} Materials Request</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(１|1)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial 1</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(２|2)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial 2</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(３|3)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial 3</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(４|4)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial 4</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(５|5)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial 5</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(６|6)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial 6</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(７|7)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial 7</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(８|8)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial 8</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^戦技の継承　(.+?)求道試練(９|9)$</original_match>
+      <translation_replace>Skill Augmentation: {0} Trial 9</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
     <!-- Quest objectives -->
     <rewrite>
       <original_match>^＜\s*(.+?)\s*＞に向かう$</original_match>
