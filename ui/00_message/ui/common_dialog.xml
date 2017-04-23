@@ -1377,7 +1377,7 @@ They will leave the party.</translation>
   <message>
     <key>ana_CARD_ERR_NOT_ONLINE</key>
     <original>オフラインです</original>
-    <translation>It is offline.</translation>
+    <translation>Offline.</translation>
   </message>
   <message>
     <key>ana_APPLY_CLAN_ERR_ALREADY_JOIN</key>
@@ -2504,6 +2504,7 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_om_warp_single_seater_used</key>
     <original>すでに転移の力を失っている</original>
+    <translation>It has already lost its power of transference.</translation>
   </message>
   <message>
     <key>ana_item_cannot_use_by_bat_status</key>
@@ -2513,6 +2514,7 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_cpOmOneWay</key>
     <original>壁の向こう側へ移動しますか？</original>
+    <translation>Move to the other side of the barrier?</translation>
   </message>
   <message>
     <key>ana_cpOmJukeBox</key>
