@@ -64,7 +64,7 @@ specified status effect.</translation>
   <item id="47">
     <original>蝶の細工があしらわれた小さな銀の鍵
 エルフ族の文字が刻まれている</original>
-<translation>A small silver key with a butterfly design.
+    <translation>A small silver key with a butterfly design.
 Elven characters are inscribed.</translation>
   </item>
   <item id="48">
@@ -99,19 +99,19 @@ status debilitations.</translation>
   <item id="57">
     <original>鉱脈から素材アイテムを採掘するために必要
 一定確率で消耗する</original>
-<translation>Used to harvest materials from ore veins.
+    <translation>Used to harvest materials from ore veins.
 Has a chance to break upon use.</translation>
   </item>
   <item id="58">
     <original>倒木から素材アイテムを採取するために必要
 一定確率で消耗する</original>
-<translation>Used to harvest materials from fallen logs.
+    <translation>Used to harvest materials from fallen logs.
 Has a chance to break upon use.</translation>
   </item>
   <item id="59">
     <original>鍵付き宝箱を解錠するために必要
 一定確率で消耗する</original>
-<translation>Used to open locked treasure chests.
+    <translation>Used to open locked treasure chests.
 Has a chance to break upon use.</translation>
   </item>
   <item id="61">
@@ -2979,7 +2979,7 @@ status debilitations.</translation>
     <original>異界の狭間にて入手できる不思議な結晶
 覚者がポーンの民と契約を結ぶために必要なもの</original>
     <translation>Mysterious crystals that are found in other worlds.
-      Used to sign a contract with a new pawn.</translation>
+Used to sign a contract with a new pawn.</translation>
   </item>
   <item id="1029">
     <original>メルゴダ護政区、《錬金研究棟》の鍵
@@ -14511,6 +14511,7 @@ Bestows various buffs upon eating</translation>
   </item>
   <item id="5723">
     <original>クラフト昇格試験アイテム</original>
+    <translation>Craft promotion test item</translation>
   </item>
   <item id="7526">
     <original>key - lte_竜の巣</original>
@@ -20084,26 +20085,38 @@ specified status effect.</translation>
   <item id="9401">
     <original>鉱脈から素材アイテムを採掘するために必要
 一定確率で消耗する</original>
+    <translation>Used to harvest materials from ore veins.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9402">
     <original>倒木から素材アイテムを採取するために必要
 一定確率で消耗する</original>
+    <translation>Used to harvest materials from fallen logs.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9403">
     <original>鍵付き宝箱を解錠するために必要
 一定確率で消耗する</original>
+    <translation>Used to open locked treasure chests.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9404">
     <original>鉱脈から素材アイテムを採掘するために必要
 一定確率で消耗する</original>
+    <translation>Used to harvest materials from ore veins.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9405">
     <original>倒木から素材アイテムを採取するために必要
 一定確率で消耗する</original>
+    <translation>Used to harvest materials from fallen logs.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9406">
     <original>鍵付き宝箱を解錠するために必要
 一定確率で消耗する</original>
+    <translation>Used to open locked treasure chests.
+Has a chance to break upon use.</translation>
   </item>
   <item id="9407">
     <original>ハーブ類をふんだんに使ったサラダ
@@ -20124,6 +20137,8 @@ specified status effect.</translation>
   <item id="9411">
     <original>キノコをメインに使った料理
 食べると様々な良い効果がある</original>
+    <translation>A dish using mushrooms as the main ingrediant
+Bestows various buffs upon eating</translation>
   </item>
   <item id="9412">
     <original>肉を使った精力満点の料理
@@ -20140,6 +20155,8 @@ specified status effect.</translation>
   <item id="9415">
     <original>キノコをメインに使った料理
 食べると様々な良い効果がある</original>
+    <translation>A dish using mushrooms as the main ingrediant
+Bestows various buffs upon eating</translation>
   </item>
   <item id="9416">
     <original>肉を使った精力満点の料理
@@ -20156,6 +20173,8 @@ specified status effect.</translation>
   <item id="9419">
     <original>キノコをメインに使った料理
 食べると様々な良い効果がある</original>
+    <translation>A dish using mushrooms as the main ingrediant
+Bestows various buffs upon eating</translation>
   </item>
   <item id="9420">
     <original>肉を使った精力満点の料理
@@ -20172,6 +20191,8 @@ specified status effect.</translation>
   <item id="9423">
     <original>キノコをメインに使った料理
 食べると様々な良い効果がある</original>
+    <translation>A dish using mushrooms as the main ingrediant
+Bestows various buffs upon eating</translation>
   </item>
   <item id="9424">
     <original>肉を使った精力満点の料理
