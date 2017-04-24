@@ -124,7 +124,7 @@
     </rewrite>
     <rewrite>
       <original_match>^(.+)大陸へ渡り＜(.+)＞前で待つ(.+?)と話す$</original_match>
-      <translation_replace>Traverse {0:d} and speak with {2:d} waiting in front of {1:d}</translation_replace>
+      <translation_replace>Traverse {0:d} and speak with {2:d} waiting in front of "{1}"</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="location name" />
       <translation_arg index="2" message_set="npc name" />
@@ -296,6 +296,16 @@
       <translation_replace>Enter the springs</translation_replace>
     </rewrite>
     <!-- Head for -->
+    <rewrite>
+      <original_match>^洞窟を抜け島の光り輝く光源を目指す$</original_match>
+      <translation_replace>Leave the cave and head for the source of the bright light over the island</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を抜け(.+)を目指す$</original_match>
+      <translation_replace>Leave {0:d} and head for {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
     <rewrite>
       <original_match>^＜(.+)＞を目指す$</original_match>
       <translation_replace>Head for "{0}"</translation_replace>
