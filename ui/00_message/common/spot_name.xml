@@ -1,33 +1,40 @@
 ﻿<resource>
+  <default_translation_format proper="false" />
   <message>
     <key>SPOT_NAME_450</key>
     <original>白竜神殿レーゼ</original>
     <translation>The White Dragon Temple</translation>
+    <translation_format>White Dragon Temple</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_451</key>
     <original>テル</original>
     <translation>Tel</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_452</key>
     <original>ローテス</original>
     <translation>Rotes</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_453</key>
     <original>リンウッド</original>
     <translation>Lynwood</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_454</key>
     <original>ジンゲン</original>
     <translation>Jingen</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_455</key>
     <original>キノザ</original>
     <translation>Kinoza</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_456</key>
@@ -38,11 +45,13 @@
     <key>SPOT_NAME_457</key>
     <original>ドラワン</original>
     <translation>Drawan</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_458</key>
     <original>ゾマ</original>
     <translation>Zoma</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_459</key>
@@ -93,6 +102,7 @@
     <key>SPOT_NAME_468</key>
     <original>ザンドラ東部</original>
     <translation>Eastern Zandora</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_469</key>
@@ -108,6 +118,7 @@
     <key>SPOT_NAME_471</key>
     <original>グリッテン砦</original>
     <translation>Gritten Fort</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_472</key>
@@ -118,16 +129,19 @@
     <key>SPOT_NAME_473</key>
     <original>ガルドノック砦</original>
     <translation>Gardnox Fortress</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_474</key>
     <original>ドリード城</original>
     <translation>Dreed Castle</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_475</key>
     <original>エルテ・ディナン</original>
     <translation>Erte Deenan</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_476</key>
@@ -148,6 +162,7 @@
     <key>SPOT_NAME_479</key>
     <original>黄金宮</original>
     <translation>The Golden Palace</translation>
+    <translation_format>Golden Palace</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_480</key>
@@ -168,6 +183,7 @@
     <key>SPOT_NAME_483</key>
     <original>キノザ鉱泉</original>
     <translation>Kinoza Mineral Springs</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_484</key>
@@ -228,6 +244,7 @@
     <key>SPOT_NAME_495</key>
     <original>レ・カルバス・アーマ</original>
     <translation>Le Karvas Arma</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_496</key>
@@ -258,6 +275,7 @@
     <key>SPOT_NAME_501</key>
     <original>さる錬金術師の家</original>
     <translation>An Alchemist's Home</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_502</key>
@@ -293,6 +311,7 @@
     <key>SPOT_NAME_508</key>
     <original>フロックヴァルト大橋</original>
     <translation>Flocwald Bridge</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_509</key>
@@ -333,11 +352,13 @@
     <key>SPOT_NAME_516</key>
     <original>異界の狭間</original>
     <translation>The Rift</translation>
+    <translation_format>Rift</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_517</key>
     <original>アーク</original>
     <translation>The Ark</translation>
+    <translation_format>Ark</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_518</key>
@@ -368,11 +389,13 @@
     <key>SPOT_NAME_523</key>
     <original>レ・カルバス・サルトー</original>
     <translation>Le Karvas Salto</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_524</key>
     <original>外に出る</original>
     <translation>Outside</translation>
+    <translation_format>outside</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_525</key>
@@ -403,6 +426,7 @@
     <key>SPOT_NAME_530</key>
     <original>セラー湖</original>
     <translation>Lake Cera</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_531</key>
@@ -628,6 +652,7 @@
     <key>SPOT_NAME_575</key>
     <original>イヴァンの山小屋</original>
     <translation>Ivan's Lodge</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_576</key>
@@ -793,6 +818,7 @@
     <key>SPOT_NAME_612</key>
     <original>メルガン・アルケミデア</original>
     <translation>Mergan Alchemdia</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_613</key>
@@ -812,6 +838,7 @@
     <key>SPOT_NAME_616</key>
     <original>黒狼団のアジト</original>
     <translation>The Black Wolves' Hideout</translation>
+    <translation_format>Black Wolves' Hideout</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_617</key>
@@ -847,6 +874,7 @@
     <key>SPOT_NAME_623</key>
     <original>唸り猿の縄張り</original>
     <translation>The Roaring Ape's Territory</translation>
+    <translation_format>Roaring Ape's Territory</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_624</key>
@@ -857,6 +885,7 @@
     <key>SPOT_NAME_625</key>
     <original>豚喰いのねぐら</original>
     <translation>The Pig-Eater's Den</translation>
+    <translation_format>Pig-Eater's Den</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_626</key>
@@ -867,6 +896,7 @@
     <key>SPOT_NAME_627</key>
     <original>巨鷲の宝物溜め</original>
     <translation>The Giant Eagle's Treasure Hoard</translation>
+    <translation_format>Giant Eagle's Treasure Hoard</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_628</key>
@@ -882,6 +912,7 @@
     <key>SPOT_NAME_630</key>
     <original>歌姫の崖座</original>
     <translation>The Songstress' Cliff Perch</translation>
+    <translation_format>Songstress' Cliff Perch</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_631</key>
@@ -902,11 +933,13 @@
     <key>SPOT_NAME_634</key>
     <original>巨人の寝床</original>
     <translation>The Giant's Bed</translation>
+    <translation_format>Giant's Bed</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_635</key>
     <original>グローン・ノス</original>
     <translation>Groan Nos</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_636</key>
@@ -917,6 +950,7 @@
     <key>SPOT_NAME_637</key>
     <original>サーズ・ディナン</original>
     <translation>Sazu Deenan</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_638</key>
@@ -997,6 +1031,7 @@
     <key>SPOT_NAME_653</key>
     <original>キノザ鉱泉</original>
     <translation>Kinoza Mineral Springs</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_654</key>
@@ -1050,6 +1085,7 @@
     <key>SPOT_NAME_664</key>
     <original>テオドール錬金工房</original>
     <translation>Theodor's Alchemy Workshop</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_665</key>
@@ -1079,21 +1115,25 @@
     <key>SPOT_NAME_670</key>
     <original>第二のアーク</original>
     <translation>The Second Ark</translation>
+    <translation_format>Second Ark</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_671</key>
     <original>第三のアーク</original>
     <translation>The Third Ark</translation>
+    <translation_format>Third Ark</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_672</key>
     <original>白竜神殿レーゼ（大門前）</original>
     <translation>The White Dragon Temple (Front Gate)</translation>
+    <translation_format>White Dragon Temple (Front Gate)</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_673</key>
     <original>白竜神殿レーゼ（中央広場）</original>
     <translation>The White Dragon Temple (Central Square)</translation>
+    <translation_format>White Dragon Temple (Central Square)</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_674</key>
@@ -1139,6 +1179,7 @@
     <key>SPOT_NAME_683</key>
     <original>魔赤島</original>
     <translation>Bloodbane Isle</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_684</key>
@@ -1169,6 +1210,7 @@
     <key>SPOT_NAME_689</key>
     <original>アーク　裏層</original>
     <translation>The Ark's Lower Level</translation>
+    <translation_format>Ark's Lower Level</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_690</key>
@@ -1199,6 +1241,7 @@
     <key>SPOT_NAME_695</key>
     <original>レオのアジト</original>
     <translation>Leo's Hideout</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_696</key>
@@ -1284,6 +1327,7 @@
     <key>SPOT_NAME_713</key>
     <original>橋向かいの坑道</original>
     <translation>The Tunnel across the Bridge</translation>
+    <translation_format>Tunnel across the Bridge</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_714</key>
@@ -1425,6 +1469,7 @@
     <key>SPOT_NAME_817</key>
     <original>アーク前</original>
     <translation>Before the Ark</translation>
+    <translation_format proper="true">before the Ark</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_818</key>
@@ -1465,6 +1510,7 @@
     <key>SPOT_NAME_825</key>
     <original>異界の狭間　深層部</original>
     <translation>The Rift's Inner Depths</translation>
+    <translation_format>Rift's Inner Depths</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_826</key>
@@ -1525,11 +1571,13 @@
     <key>SPOT_NAME_839</key>
     <original>異界の狭間・深層部　左淵</original>
     <translation>The Rift's Inner Depths: Left Pool</translation>
+    <translation_format>Rift's Inner Depths: Left Pool</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_840</key>
     <original>異界の狭間・深層部　右淵</original>
     <translation>The Rift's Inner Depths: Right Pool</translation>
+    <translation_format>Rift's Inner Depths: Right Pool</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_841</key>
@@ -1575,16 +1623,19 @@
     <key>SPOT_NAME_849</key>
     <original>橋向かいの坑道　広間</original>
     <translation>The Tunnel across the Bridge: Hall</translation>
+    <translation_format>Tunnel across the Bridge: Hall</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_850</key>
     <original>橋向かいの坑道　鉱石路</original>
     <translation>The Tunnel across the Bridge: Ore Passage</translation>
+    <translation_format>Tunnel across the Bridge: Ore Passage</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_851</key>
     <original>橋向かいの坑道　鍾乳洞</original>
     <translation>The Tunnel across the Bridge: Limestone Cave</translation>
+    <translation_format>Tunnel across the Bridge: Limestone Cave</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_852</key>
@@ -1630,6 +1681,7 @@
     <key>SPOT_NAME_860</key>
     <original>アーク　裏層　危険区域</original>
     <translation>The Ark's Lower Level: Dangerous Area</translation>
+    <translation_format>Ark's Lower Level: Dangerous Area</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_861</key>
@@ -1640,6 +1692,7 @@
     <key>SPOT_NAME_862</key>
     <original>橋向かいの坑道　危険区域</original>
     <translation>The Tunnel across the Bridge: Dangerous Area</translation>
+    <translation_format>Tunnel across the Bridge: Dangerous Area</translation_format>
   </message>
   <message>
     <key>SPOT_NAME_863</key>
@@ -1715,16 +1768,19 @@
     <key>SPOT_NAME_877</key>
     <original>ダナ</original>
     <translation>Dana</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_878</key>
     <original>モルフォール</original>
     <translation>Morfall</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_879</key>
     <original>グリンデュア</original>
     <translation>Grindua</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_880</key>
@@ -1842,6 +1898,7 @@
     <key>SPOT_NAME_903</key>
     <original>ダナウィンの挑堂</original>
     <translation>Darwin's Challenge Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_904</key>
@@ -1879,11 +1936,13 @@
     <key>SPOT_NAME_911</key>
     <original>ネビュラ小神殿</original>
     <translation>Nebula Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_912</key>
     <original>シェドレアン大神殿</original>
     <translation>Shadolean Great Temple</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_913</key>
@@ -2077,6 +2136,7 @@
     <key>SPOT_NAME_955</key>
     <original>シェドレアン大神殿　宝物庫</original>
     <translation>Shadolean Great Temple: Treasury</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_956</key>
@@ -2151,6 +2211,7 @@
     <key>SPOT_NAME_970</key>
     <original>シェドレアン大神殿　最奥前</original>
     <translation>Shadolean Great Temple: Before Innermost</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_971</key>
@@ -2171,6 +2232,7 @@
     <key>SPOT_NAME_974</key>
     <original>シェドレアン大神殿　中央部</original>
     <translation>Shadolean Great Temple: Center</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_975</key>
@@ -2194,16 +2256,19 @@
     <key>SPOT_NAME_979</key>
     <original>ネビュラ小神殿　中央部</original>
     <translation>Nebula Temple Center</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_980</key>
     <original>ネビュラ小神殿　回廊</original>
     <translation>Nebula Temple Corridor</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_981</key>
     <original>ネビュラ小神殿　深部</original>
     <translation>Nebula Temple Depths</translation>
+    <translation_format proper="true" />
   </message>
   <message>
     <key>SPOT_NAME_982</key>
