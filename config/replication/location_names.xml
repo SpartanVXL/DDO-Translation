@@ -7,8 +7,12 @@
     <match>^ui\\00_message\\common\\stage_list$</match>
     <match>^ui\\00_message\\master\\area\d+_spot_name$</match>
     <extra>
-    	<original>マヌン</original>
-    	<translation>Manun</translation>
+      <original>マヌン</original>
+      <translation>Manun</translation>
+    </extra>
+    <extra>
+      <original>温泉の地キノザ</original>
+      <translation>the hot springs of Kinoza</translation>
     </extra>
     <rewrite>
       <original_match>^(.+?)\s+深部$</original_match>
