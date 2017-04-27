@@ -73,6 +73,13 @@
     <xs:sequence>
       <xs:element name="default_translation_format" type="default_translation_format" minOccurs="0" maxOccurs="1" />
       <xs:element name="named_param" type="named_message" minOccurs="0" maxOccurs="unbounded" />
+      <xs:element name="unknown" minOccurs="0" maxOccurs="1">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="message" type="message" minOccurs="0" maxOccurs="unbounded" />
+					</xs:sequence>
+				</xs:complexType>
+      </xs:element>
     </xs:sequence>
     <xs:attribute name="endian" type="endian" use="optional" default="Little" />
     <xs:attribute name="tag" type="xs:string" use="optional" default="TextWeb" />
