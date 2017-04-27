@@ -113,6 +113,10 @@
       <original_match>^&lt;SPOT (\d+)&gt;の&lt;NPC (\d+)&gt;から詳細確認する$</original_match>
       <translation_replace>Confirm details from &lt;NPC {1}&gt; in &lt;SPOT {0}&gt;</translation_replace>
     </rewrite>
+    <rewrite>
+      <original_match>^&lt;NPC (\d+)&gt;から詳細を確認する$</original_match>
+      <translation_replace>Confirm details from &lt;NPC {0}&gt;</translation_replace>
+    </rewrite>
     <!-- Speak with -->
     <ignore>^水林の桟橋にいる船頭のトレアサと話す$</ignore>
     <rewrite>
