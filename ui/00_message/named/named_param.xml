@@ -417,7 +417,7 @@
   </named_param>
   <named_param id="230">
     <original type="Replace">目覚めし亡者</original>
-    <translation type="Replace">Enlighten Undead</translation>
+    <translation type="Replace">Enlightened Undead</translation>
   </named_param>
   <named_param id="231">
     <original type="Replace">さまよう亡者</original>
@@ -1928,75 +1928,75 @@
   </named_param>
   <named_param id="859">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="860">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="861">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="862">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="863">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="864">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="865">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="866">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="867">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="868">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="869">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="870">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="871">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="872">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="873">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="874">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="875">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="876">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="877">
     <original type="Prefix"></original>
@@ -2750,15 +2750,18 @@
   </named_param>
   <named_param id="1137">
     <original type="Prefix">異界の</original>
+    <translation type="Suffix"> of the Other World</translation>
   </named_param>
   <named_param id="1138">
     <original type="Prefix">狭間の</original>
   </named_param>
   <named_param id="1139">
     <original type="Prefix">隷下部隊</original>
+    <translation type="Prefix">Subordinate Troop </translation>
   </named_param>
   <named_param id="1140">
     <original type="Prefix">隷下部隊長</original>
+    <translation type="Prefix">Subordinate Commanding Officer </translation>
   </named_param>
   <named_param id="1141">
     <original type="Prefix">隷下部大隊長</original>
@@ -2768,11 +2771,11 @@
   </named_param>
   <named_param id="1143">
     <original type="Prefix">第一練磨</original>
-    <translation type="Prefix">First Training </translation>
+    <translation type="Prefix">First Test </translation>
   </named_param>
   <named_param id="1144">
     <original type="Prefix">第二練磨</original>
-    <translation type="Prefix">Second Training </translation>
+    <translation type="Prefix">Second Test </translation>
   </named_param>
   <named_param id="1145">
     <original type="Prefix"></original>
@@ -2868,6 +2871,9 @@
   <named_param id="1182">
     <original type="Replace">ゆさぶり２倍だよ！</original>
   </named_param>
+  <named_param id="1183">
+    <original type="Replace">のけぶ＆ゆさ２倍だよ！</original>
+  </named_param>
   <named_param id="1186">
     <original type="Prefix">蒼葉の</original>
   </named_param>
@@ -2942,7 +2948,7 @@
   </named_param>
   <named_param id="1232">
     <original type="Prefix">廃村に巣食う</original>
-    <translation type="Prefix">Abandoned Villege Nesting </translation>
+    <translation type="Prefix">Deserted Village Haunting </translation>
   </named_param>
   <named_param id="1233">
     <original type="Prefix">試練の魔物</original>
@@ -2954,6 +2960,27 @@
   </named_param>
   <named_param id="1235">
     <original type="Prefix">ロイグの家畜</original>
+  </named_param>
+  <named_param id="1236">
+    <original type="Prefix">樹内に蔓延る</original>
+  </named_param>
+  <named_param id="1237">
+    <original type="Prefix">樹内に蔓延る</original>
+  </named_param>
+  <named_param id="1238">
+    <original type="Prefix">樹内に蔓延る</original>
+  </named_param>
+  <named_param id="1239">
+    <original type="Replace">キャニオンガードエント</original>
+    <translation type="Replace">Canyon Guard</translation>
+  </named_param>
+  <named_param id="1240">
+    <original type="Replace">黒騎士ロイグ</original>
+    <translation type="Replace">Black Knight Loeg</translation>
+  </named_param>
+  <named_param id="1241">
+    <original type="Replace">精霊竜ウィルミア</original>
+    <translation type="Replace">Spirit Dragon Willmia</translation>
   </named_param>
   <named_param id="1242">
     <original type="Replace">大竜力の精兵</original>
@@ -2987,6 +3014,7 @@
   </named_param>
   <named_param id="1251">
     <original type="Prefix">同胞</original>
+    <translation type="Prefix">Fellow </translation>
   </named_param>
   <named_param id="1252">
     <original type="Prefix">荒れ崩す</original>
@@ -2997,6 +3025,7 @@
   </named_param>
   <named_param id="1254">
     <original type="Prefix">命屠る</original>
+    <translation type="Prefix">Life Slaughtering </translation>
   </named_param>
   <named_param id="1255">
     <original type="Prefix">神殿に巣食う</original>
@@ -3037,6 +3066,57 @@
   <named_param id="1267">
     <original type="Prefix"></original>
   </named_param>
+  <named_param id="1268">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1269">
+    <original type="Prefix">目覚めし</original>
+  </named_param>
+  <named_param id="1270">
+    <original type="Replace">怒り狂う大甲竜</original>
+  </named_param>
+  <named_param id="1271">
+    <original type="Replace">緑の森護獣</original>
+    <translation type="Replace">Green Forest Guardian Beast</translation>
+  </named_param>
+  <named_param id="1272">
+    <original type="Prefix">村潰しの</original>
+    <translation type="Suffix"> the Village Crusher</translation>
+  </named_param>
+  <named_param id="1273">
+    <original type="Prefix">さまよう</original>
+    <translation type="Prefix">Wandering </translation>
+  </named_param>
+  <named_param id="1274">
+    <original type="Replace">蝕み散らす大鷲</original>
+  </named_param>
+  <named_param id="1275">
+    <original type="Prefix">忘れ去られた</original>
+  </named_param>
+  <named_param id="1276">
+    <original type="Prefix">災厄を呼ぶ</original>
+  </named_param>
+  <named_param id="1277">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1278">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1279">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1280">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1281">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1282">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1283">
+    <original type="Prefix"></original>
+  </named_param>
   <named_param id="1284">
     <original type="Prefix"></original>
   </named_param>
@@ -3044,6 +3124,15 @@
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1286">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1287">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1288">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1289">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1290">
@@ -3057,6 +3146,18 @@
   <named_param id="1292">
     <original type="Prefix">大変異</original>
     <translation type="Prefix">Highly Mutated </translation>
+  </named_param>
+  <named_param id="1293">
+    <original type="Prefix">変異</original>
+    <translation type="Prefix">Mutated </translation>
+  </named_param>
+  <named_param id="1294">
+    <original type="Prefix">大変異</original>
+    <translation type="Prefix">Highly Mutated </translation>
+  </named_param>
+  <named_param id="1295">
+    <original type="Prefix">変異</original>
+    <translation type="Prefix">Mutated </translation>
   </named_param>
   <named_param id="1296">
     <original type="Suffix">・エクストラ</original>
@@ -3213,6 +3314,187 @@
   <named_param id="1343">
     <original type="Prefix"></original>
   </named_param>
+  <named_param id="1344">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1345">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1346">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1347">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1348">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1349">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1350">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1351">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1352">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1353">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1354">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1355">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1356">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1357">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1358">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1359">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1360">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1361">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1362">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1363">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1364">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1365">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1366">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1367">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1368">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1369">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1370">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1371">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1372">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1373">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1374">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1375">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1376">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1377">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1378">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1379">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1380">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1381">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1382">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1383">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1384">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1385">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1386">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1387">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1388">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1389">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1390">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1391">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1392">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1393">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1394">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1395">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1396">
+    <original type="Suffix">・エクストラ</original>
+    <translation type="Suffix"> (Extra)</translation>
+  </named_param>
+  <named_param id="1397">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1398">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1399">
+    <original type="Prefix"></original>
+  </named_param>
   <named_param id="1400">
     <original type="Suffix">・エクストラ</original>
     <translation type="Suffix"> (Extra)</translation>
@@ -3228,57 +3510,97 @@
   </named_param>
   <named_param id="1404">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1405">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1406">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1407">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1408">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1409">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1410">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1411">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1412">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1413">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1414">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1415">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1416">
     <original type="Prefix"></original>
   </named_param>
   <named_param id="1417">
     <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1418">
+    <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
+  </named_param>
+  <named_param id="1419">
+    <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
+  </named_param>
+  <named_param id="1420">
+    <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
+  </named_param>
+  <named_param id="1421">
+    <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
+  </named_param>
+  <named_param id="1422">
+    <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
+  </named_param>
+  <named_param id="1423">
+    <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
+  </named_param>
+  <named_param id="1424">
+    <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
+  </named_param>
+  <named_param id="1425">
+    <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
+  </named_param>
+  <named_param id="1426">
+    <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
+  </named_param>
+  <named_param id="1427">
+    <original type="Prefix">最終練磨</original>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1428">
     <original type="Prefix">鍵番</original>
@@ -3307,39 +3629,51 @@
   </named_param>
   <named_param id="1447">
     <original type="Prefix">瘴気を纏う</original>
+    <translation type="Prefix">Miasmatic </translation>
   </named_param>
   <named_param id="1448">
     <original type="Prefix">神殿に棲む</original>
+    <translation type="Prefix">Temple Nesting </translation>
   </named_param>
   <named_param id="1449">
     <original type="Prefix">魔を呼ぶ</original>
+    <translation type="Prefix">Demon Calling </translation>
   </named_param>
   <named_param id="1450">
     <original type="Prefix">呼び寄せられた</original>
+    <translation type="Prefix">Called </translation>
   </named_param>
   <named_param id="1451">
     <original type="Replace">泉の番人</original>
+    <translation type="Replace">Fountain Guardian</translation>
   </named_param>
   <named_param id="1452">
     <original type="Replace">泉の番人</original>
+    <translation type="Replace">Fountain Guardian</translation>
   </named_param>
   <named_param id="1453">
     <original type="Replace">宝の番人</original>
+    <translation type="Replace">Treasure Guardian</translation>
   </named_param>
   <named_param id="1454">
     <original type="Replace">宝の番人</original>
+    <translation type="Replace">Treasure Guardian</translation>
   </named_param>
   <named_param id="1455">
     <original type="Prefix">瘴気を纏う</original>
+    <translation type="Prefix">Miasmatic </translation>
   </named_param>
   <named_param id="1456">
     <original type="Prefix">瘴気を纏う</original>
+    <translation type="Prefix">Miasmatic </translation>
   </named_param>
   <named_param id="1457">
     <original type="Prefix">瘴気を纏う</original>
+    <translation type="Prefix">Miasmatic </translation>
   </named_param>
   <named_param id="1458">
     <original type="Prefix">瘴気を纏う</original>
+    <translation type="Prefix">Miasmatic </translation>
   </named_param>
   <named_param id="1459">
     <original type="Prefix">甲竜に怯える</original>
@@ -3349,6 +3683,9 @@
   </named_param>
   <named_param id="1461">
     <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1462">
+    <original type="Prefix">襲撃</original>
   </named_param>
   <named_param id="1463">
     <original type="Prefix"></original>
@@ -3372,6 +3709,9 @@
   </named_param>
   <named_param id="1479">
     <original type="Replace">淀みの影</original>
+  </named_param>
+  <named_param id="1480">
+    <original type="Prefix">傷ついた</original>
   </named_param>
   <named_param id="1488">
     <original type="Prefix"></original>
@@ -3437,6 +3777,10 @@
     <original type="Replace">対の大竜力・天</original>
   </named_param>
   <named_param id="1517">
+    <original type="Prefix">賞金首</original>
+    <translation type="Prefix">Bounty </translation>
+  </named_param>
+  <named_param id="1520">
     <original type="Prefix">賞金首</original>
     <translation type="Prefix">Bounty </translation>
   </named_param>
@@ -3532,6 +3876,30 @@
   <named_param id="1561">
     <original type="Prefix"></original>
   </named_param>
+  <named_param id="1562">
+    <original type="Replace">お化け</original>
+    <translation type="Replace">Ghost</translation>
+  </named_param>
+  <named_param id="1563">
+    <original type="Prefix">傷ついた</original>
+  </named_param>
+  <named_param id="1564">
+    <original type="Replace">樹内の記憶</original>
+  </named_param>
+  <named_param id="1565">
+    <original type="Replace">うめきの記憶</original>
+  </named_param>
+  <named_param id="1566">
+    <original type="Replace">祈りの記憶</original>
+  </named_param>
+  <named_param id="1567">
+    <original type="Replace">魔封の竜晶</original>
+    <translation type="Replace">Dragon Crystal of Evil Sealing</translation>
+  </named_param>
+  <named_param id="1568">
+    <original type="Replace">力滅の竜晶</original>
+    <translation type="Replace">Dragon Crystal of Power Sapping</translation>
+  </named_param>
   <named_param id="1569">
     <original type="Prefix"></original>
   </named_param>
@@ -3540,23 +3908,23 @@
   </named_param>
   <named_param id="1571">
     <original type="Prefix">第一練磨</original>
-    <translation type="Prefix">First Training </translation>
+    <translation type="Prefix">First Test </translation>
   </named_param>
   <named_param id="1572">
     <original type="Prefix">第二練磨</original>
-    <translation type="Prefix">Second Training </translation>
+    <translation type="Prefix">Second Test </translation>
   </named_param>
   <named_param id="1573">
     <original type="Prefix">第一練磨</original>
-    <translation type="Prefix">First Training </translation>
+    <translation type="Prefix">First Test </translation>
   </named_param>
   <named_param id="1574">
     <original type="Prefix">第二練磨</original>
-    <translation type="Prefix">Second Training </translation>
+    <translation type="Prefix">Second Test </translation>
   </named_param>
   <named_param id="1575">
     <original type="Prefix">最終練磨</original>
-    <translation type="Prefix">Final Training </translation>
+    <translation type="Prefix">Final Test </translation>
   </named_param>
   <named_param id="1576">
     <original type="Prefix">昌石を秘めた</original>
@@ -3574,13 +3942,36 @@
     <original type="Prefix">財宝を秘めた</original>
     <translation type="Prefix">Hidden Treasures </translation>
   </named_param>
+  <named_param id="1580">
+    <original type="Prefix">昌石を秘めた</original>
+    <translation type="Prefix">Hidden Gemstones </translation>
+  </named_param>
+  <named_param id="1581">
+    <original type="Prefix">宝飾を秘めた</original>
+    <translation type="Prefix">Hidden Jewelry </translation>
+  </named_param>
+  <named_param id="1582">
+    <original type="Prefix">竜力を秘めた</original>
+    <translation type="Prefix">Hidden Dragon Force </translation>
+  </named_param>
+  <named_param id="1583">
+    <original type="Prefix">財宝を秘めた</original>
+    <translation type="Prefix">Hidden Treasures </translation>
+  </named_param>
   <named_param id="1586">
+    <original type="Prefix">宝飾を秘めた</original>
+    <translation type="Prefix">Hidden Jewelry </translation>
+  </named_param>
+  <named_param id="1587">
     <original type="Prefix">宝飾を秘めた</original>
     <translation type="Prefix">Hidden Jewelry </translation>
   </named_param>
   <named_param id="1588">
     <original type="Prefix">竜力を秘めた</original>
     <translation type="Prefix">Hidden Dragon Force </translation>
+  </named_param>
+  <named_param id="1589">
+    <original type="Prefix"></original>
   </named_param>
   <named_param id="1590">
     <original type="Prefix">呪符に保護されし</original>
@@ -3603,7 +3994,245 @@
   <named_param id="1600">
     <original type="Prefix"></original>
   </named_param>
+  <named_param id="1609">
+    <original type="Replace">怪しい盗賊団</original>
+  </named_param>
+  <named_param id="1610">
+    <original type="Prefix">急襲の</original>
+    <translation type="Prefix">Raider </translation>
+  </named_param>
+  <named_param id="1611">
+    <original type="Replace">森の怒り</original>
+  </named_param>
+  <named_param id="1612">
+    <original type="Replace">モゴックの部下</original>
+  </named_param>
+  <named_param id="1613">
+    <original type="Replace">帰ってきたモゴック</original>
+  </named_param>
+  <named_param id="1614">
+    <original type="Prefix">薬草を守りし</original>
+  </named_param>
+  <named_param id="1615">
+    <original type="Prefix">襲撃の</original>
+  </named_param>
+  <named_param id="1616">
+    <original type="Prefix">襲撃の</original>
+  </named_param>
+  <named_param id="1617">
+    <original type="Replace">時番群</original>
+  </named_param>
+  <named_param id="1618">
+    <original type="Replace">時番群</original>
+  </named_param>
+  <named_param id="1619">
+    <original type="Replace">時番群</original>
+  </named_param>
+  <named_param id="1620">
+    <original type="Replace">黒騎士の配下</original>
+  </named_param>
+  <named_param id="1621">
+    <original type="Replace">黒騎士の配下</original>
+  </named_param>
+  <named_param id="1634">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1635">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1636">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1637">
+    <original type="Prefix">子飼いの</original>
+  </named_param>
+  <named_param id="1638">
+    <original type="Replace">植物に誘われし魔物</original>
+  </named_param>
+  <named_param id="1639">
+    <original type="Replace">植物に誘われし魔物</original>
+  </named_param>
+  <named_param id="1640">
+    <original type="Replace">植物に誘われし魔物</original>
+  </named_param>
+  <named_param id="1641">
+    <original type="Replace">植物に誘われし魔物</original>
+  </named_param>
+  <named_param id="1642">
+    <original type="Prefix">急襲の</original>
+    <translation type="Prefix">Raider </translation>
+  </named_param>
+  <named_param id="1643">
+    <original type="Prefix">突然変異の</original>
+  </named_param>
+  <named_param id="1644">
+    <original type="Prefix">突然変異の</original>
+  </named_param>
+  <named_param id="1645">
+    <original type="Replace">怪しいオーク</original>
+  </named_param>
+  <named_param id="1659">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1660">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1661">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1662">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1663">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1664">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1665">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1666">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1667">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1668">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1669">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1670">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1671">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1672">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1673">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1674">
+    <original type="Replace">スカージ</original>
+    <translation type="Replace">Scourge</translation>
+  </named_param>
+  <named_param id="1675">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1676">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1677">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1678">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1682">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1685">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1686">
+    <original type="Replace">力滅の竜晶</original>
+    <translation type="Replace">Dragon Crystal of Power Sapping</translation>
+  </named_param>
+  <named_param id="1687">
+    <original type="Replace">魔封の竜晶</original>
+    <translation type="Replace">Dragon Crystal of Evil Sealing</translation>
+  </named_param>
+  <named_param id="1688">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1689">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1692">
+    <original type="Replace">時番群</original>
+  </named_param>
+  <named_param id="1693">
+    <original type="Replace">時番群</original>
+  </named_param>
+  <named_param id="1694">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1695">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1696">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1697">
+    <original type="Prefix"></original>
+  </named_param>
   <named_param id="1713">
     <original type="Replace">見たことのない感じのスライム</original>
   </named_param>
+  <unknown>
+    <message>
+      <key>namedparam_1698</key>
+      <original>異界の</original>
+    </message>
+    <message>
+      <key>namedparam_1699</key>
+      <original>狭間の</original>
+    </message>
+    <message>
+      <key>namedparam_1700</key>
+      <original>瘴気を纏う</original>
+    </message>
+    <message>
+      <key>namedparam_1701</key>
+      <original>うめきの記憶</original>
+    </message>
+    <message>
+      <key>namedparam_1702</key>
+      <original>ロイグ</original>
+    </message>
+    <message>
+      <key>namedparam_1703</key>
+      <original></original>
+    </message>
+    <message>
+      <key>namedparam_1704</key>
+      <original>黒闇より甦りし</original>
+    </message>
+    <message>
+      <key>namedparam_1705</key>
+      <original></original>
+    </message>
+    <message>
+      <key>namedparam_1706</key>
+      <original>蒼甲竜</original>
+    </message>
+    <message>
+      <key>namedparam_1707</key>
+      <original>樹内の記憶</original>
+    </message>
+    <message>
+      <key>namedparam_1708</key>
+      <original>召喚士</original>
+    </message>
+    <message>
+      <key>namedparam_1709</key>
+      <original>甦生した</original>
+    </message>
+    <message>
+      <key>namedparam_1710</key>
+      <original>魔封の竜晶</original>
+    </message>
+    <message>
+      <key>namedparam_1711</key>
+      <original>力滅の竜晶</original>
+    </message>
+    <message>
+      <key>namedparam_1712</key>
+      <original>時番</original>
+    </message>
+  </unknown>
 </named_params>
