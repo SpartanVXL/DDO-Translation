@@ -3994,6 +3994,30 @@
   <named_param id="1600">
     <original type="Prefix"></original>
   </named_param>
+  <named_param id="1609">
+    <original type="Replace">怪しい盗賊団</original>
+  </named_param>
+  <named_param id="1610">
+    <original type="Prefix">急襲の</original>
+  </named_param>
+  <named_param id="1611">
+    <original type="Replace">森の怒り</original>
+  </named_param>
+  <named_param id="1612">
+    <original type="Replace">モゴックの部下</original>
+  </named_param>
+  <named_param id="1613">
+    <original type="Replace">帰ってきたモゴック</original>
+  </named_param>
+  <named_param id="1614">
+    <original type="Prefix">薬草を守りし</original>
+  </named_param>
+  <named_param id="1615">
+    <original type="Prefix">襲撃の</original>
+  </named_param>
+  <named_param id="1616">
+    <original type="Prefix">襲撃の</original>
+  </named_param>
   <named_param id="1617">
     <original type="Replace">時番群</original>
   </named_param>
@@ -4017,6 +4041,33 @@
   </named_param>
   <named_param id="1636">
     <original type="Prefix"></original>
+  </named_param>
+  <named_param id="1637">
+    <original type="Prefix">子飼いの</original>
+  </named_param>
+  <named_param id="1638">
+    <original type="Replace">植物に誘われし魔物</original>
+  </named_param>
+  <named_param id="1639">
+    <original type="Replace">植物に誘われし魔物</original>
+  </named_param>
+  <named_param id="1640">
+    <original type="Replace">植物に誘われし魔物</original>
+  </named_param>
+  <named_param id="1641">
+    <original type="Replace">植物に誘われし魔物</original>
+  </named_param>
+  <named_param id="1642">
+    <original type="Prefix">急襲の</original>
+  </named_param>
+  <named_param id="1643">
+    <original type="Prefix">突然変異の</original>
+  </named_param>
+  <named_param id="1644">
+    <original type="Prefix">突然変異の</original>
+  </named_param>
+  <named_param id="1645">
+    <original type="Replace">怪しいオーク</original>
   </named_param>
   <named_param id="1659">
     <original type="Prefix"></original>
@@ -4120,4 +4171,66 @@
   <named_param id="1713">
     <original type="Replace">見たことのない感じのスライム</original>
   </named_param>
+  <unknown>
+    <message>
+      <key>namedparam_1698</key>
+      <original>異界の</original>
+    </message>
+    <message>
+      <key>namedparam_1699</key>
+      <original>狭間の</original>
+    </message>
+    <message>
+      <key>namedparam_1700</key>
+      <original>瘴気を纏う</original>
+    </message>
+    <message>
+      <key>namedparam_1701</key>
+      <original>うめきの記憶</original>
+    </message>
+    <message>
+      <key>namedparam_1702</key>
+      <original>ロイグ</original>
+    </message>
+    <message>
+      <key>namedparam_1703</key>
+      <original></original>
+    </message>
+    <message>
+      <key>namedparam_1704</key>
+      <original>黒闇より甦りし</original>
+    </message>
+    <message>
+      <key>namedparam_1705</key>
+      <original></original>
+    </message>
+    <message>
+      <key>namedparam_1706</key>
+      <original>蒼甲竜</original>
+    </message>
+    <message>
+      <key>namedparam_1707</key>
+      <original>樹内の記憶</original>
+    </message>
+    <message>
+      <key>namedparam_1708</key>
+      <original>召喚士</original>
+    </message>
+    <message>
+      <key>namedparam_1709</key>
+      <original>甦生した</original>
+    </message>
+    <message>
+      <key>namedparam_1710</key>
+      <original>魔封の竜晶</original>
+    </message>
+    <message>
+      <key>namedparam_1711</key>
+      <original>力滅の竜晶</original>
+    </message>
+    <message>
+      <key>namedparam_1712</key>
+      <original>時番</original>
+    </message>
+  </unknown>
 </named_params>
