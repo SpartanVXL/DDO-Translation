@@ -362,6 +362,23 @@
       <translation_replace>Seek out {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
+    <!-- Get information from -->
+    <rewrite>
+      <original_match>^(.+)に聞き込みをする$</original_match>
+      <translation_replace>Get information from {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Check safety -->
+    <rewrite>
+      <original_match>^捜索対象の安否を確認する$</original_match>
+      <translation_replace>Check the search target's safety</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の安否を確認する$</original_match>
+      <translation_replace>Check {0:d}'s safety</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
     <!-- Enter -->
     <rewrite>
       <original_match>^浴場内へ向かう$</original_match>
