@@ -1274,6 +1274,7 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_item_get_send_itempost</key>
     <original>&lt;NAME ITEM&gt;を&lt;VAL&gt;個、アイテムポストに送りました</original>
+    <translation>&lt;NAME ITEM&gt; x&lt;VAL&gt; sent to Item Post.</translation>
   </message>
   <message>
     <key>syslog_pawn_expedition_sp_delivery</key>
