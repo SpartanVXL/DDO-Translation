@@ -255,6 +255,10 @@
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
+      <original_match>^&lt;STG (\d+)&gt;に行き&lt;NPC (\d+)&gt;と話す$</original_match>
+      <translation_replace>Head to &lt;STG {0}&gt; and speak with &lt;NPC {1}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
       <original_match>^(.+?)(へ行き|へ向かい)(現地の)?(.+?)と話す$</original_match>
       <translation_replace>Head to {0:d} and speak with {3:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
@@ -766,6 +770,11 @@
     <rewrite>
       <original_match>^白竜神殿の(.+?)に報告する$</original_match>
       <translation_replace>Report to {0:d} in the White Dragon Temple</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^祠内にいる(.+)に報告する$</original_match>
+      <translation_replace>Report to {0:d} within the chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
