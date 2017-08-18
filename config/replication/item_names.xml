@@ -188,7 +188,7 @@
       <!-- Crest of {0} II-X -->
       <original_match>^((.+?)のクレスト)(.+?)$</original_match>
       <translation_replace>{0} {2}</translation_replace>
-      <translation_arg index="0" message_set="item name" />
+      <translation_arg index="0" message_set="item name" required="true" />
       <translation_arg index="2" message_set="numerals" required="true" />
     </rewrite>
     <!-- Misc -->
