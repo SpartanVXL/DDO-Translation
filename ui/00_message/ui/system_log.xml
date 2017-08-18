@@ -2,7 +2,7 @@
   <message>
     <key>syslog_battle_danger_tg</key>
     <original>&lt;NAME TARGET&gt;が行動不能になりました</original>
-    <translation>&lt;NAME TARGET&gt; has become incapacitated.</translation>
+    <translation>&lt;NAME TARGET&gt; has been incapacitated.</translation>
   </message>
   <message>
     <key>syslog_battle_danger</key>
@@ -182,7 +182,7 @@
   <message>
     <key>syslog_pawn_rescue_faild</key>
     <original>&lt;NAME PAWN&gt;の救出に失敗しました</original>
-    <translation>You failed the rescue mission for &lt;NAME PAWN&gt;.</translation>
+    <translation>&lt;NAME PAWN&gt; rescue failed.</translation>
   </message>
   <message>
     <key>syslog_pawn_rescue_success</key>
@@ -472,7 +472,7 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_pawnrestore_restore</key>
     <original>&lt;NAME PAWN&gt;が復活しました</original>
-    <translation>&lt;NAME PAWN&gt; resurrected.</translation>
+    <translation>&lt;NAME PAWN&gt; has been resurrected.</translation>
   </message>
   <message>
     <key>syslog_craft_consume_item</key>
@@ -1319,34 +1319,42 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_dp_get</key>
     <original>&lt;VAL DP&gt;を入手しました</original>
+    <translation>&lt;VAL DP&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_dp_get_ex</key>
     <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT DP&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT DP&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_dp_lost</key>
     <original>&lt;VAL DP&gt;を消費しました</original>
+    <translation>&lt;VAL DP&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_hb_get</key>
     <original>&lt;VAL HB&gt;を入手しました</original>
+    <translation>&lt;VAL HB&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_hb_get_ex</key>
     <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT HB&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT HB&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_hb_lost</key>
     <original>&lt;VAL HB&gt;を消費しました</original>
+    <translation>&lt;VAL HB&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_xp_get</key>
     <original>&lt;VAL XP&gt;を入手しました</original>
+    <translation>&lt;VAL XP&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_xp_get_ex</key>
     <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_pgexp_get</key>
@@ -1407,10 +1415,12 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_tp_get</key>
     <original>&lt;VAL TP&gt;を入手しました</original>
+    <translation>&lt;VAL TP&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_tp_lost</key>
     <original>&lt;VAL TP&gt;を消費しました</original>
+    <translation>&lt;VAL TP&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_tp_possession_max_notice</key>
