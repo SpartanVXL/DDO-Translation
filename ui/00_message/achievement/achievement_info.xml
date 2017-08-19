@@ -202,17 +202,17 @@
   <message>
     <key>ACHIEVEMENT_INFO_629</key>
     <original>《グリムワーグ》系エネミーを50体討伐</original>
-    <translation>Kill 50 "Grim Warg" enemies</translation>
+    <translation>Kill 50 "Grimwarg" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_630</key>
     <original>《グリムワーグ》系エネミーを100体討伐</original>
-    <translation>Kill 100 "Grim Warg" enemies</translation>
+    <translation>Kill 100 "Grimwarg" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_631</key>
     <original>《グリムワーグ》系エネミーを300体討伐</original>
-    <translation>Kill 300 "Grim Warg" enemies</translation>
+    <translation>Kill 300 "Grimwarg" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_632</key>
@@ -1192,7 +1192,7 @@
   <message>
     <key>ACHIEVEMENT_INFO_1082</key>
     <original>ズールを1体討伐</original>
-    <translation>Kill 1 Zuhl</translation>
+    <translation>Kill Zuhl</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1083</key>
@@ -1207,7 +1207,7 @@
   <message>
     <key>ACHIEVEMENT_INFO_1085</key>
     <original>エルダードラゴンを1体討伐</original>
-    <translation>Kill 1 Elder Dragon</translation>
+    <translation>Kill an Elder Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1086</key>
@@ -6310,7 +6310,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2327</key>
     <original>マンイーターを50体討伐</original>
-    <translation>Kill 50 Man Eaters</translation>
+    <translation>Kill 50 Maneaters</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2328</key>
@@ -6325,7 +6325,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2330</key>
     <original>スカージを1体討伐</original>
-    <translation>Kill 1 Scourge</translation>
+    <translation>Kill a Scourge</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2331</key>
@@ -6340,7 +6340,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2333</key>
     <original>カースドラゴンを1体討伐</original>
-    <translation>Kill 1 Cursed Dragon</translation>
+    <translation>Kill a Cursed Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2334</key>
@@ -6375,7 +6375,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2341</key>
     <original>淀みし大竜力を1体討伐</original>
-    <translation>Kill 1 Phantasmic Great Dragon</translation>
+    <translation>Kill a Phantasmic Great Dragon</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2342</key>
@@ -6390,7 +6390,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2344</key>
     <original>アルタード・ズールを1体討伐</original>
-    <translation>Kill 1 Altered Zuhl</translation>
+    <translation>Kill Altered Zuhl</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2345</key>
@@ -6440,7 +6440,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2354</key>
     <original>フットバイターを50体討伐</original>
-    <translation>Kill 50 フットバイターを</translation>
+    <translation>Kill 50 Foot-Biters</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2355</key>
@@ -6490,12 +6490,12 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2370</key>
     <original>狂侵グリフィンを50体討伐</original>
-    <translation>Kill 50 Mad Griffins</translation>
+    <translation>Kill 50 Severely Infected Griffins</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2371</key>
     <original>狂侵デーモンを50体討伐</original>
-    <translation>Kill 50 Mad Daemons</translation>
+    <translation>Kill 50 Severely Infected Demons</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2372</key>
@@ -6510,7 +6510,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2374</key>
     <original>黒騎士を10体討伐</original>
-     <translation>Kill 10 Black Knights</translation>
+    <translation>Kill 10 Black Knights</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2375</key>
@@ -6520,14 +6520,17 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2376</key>
     <original>精霊竜ウィルミアを1体討伐</original>
+    <translation>Kill Spirit Dragon Willmia</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2377</key>
     <original>精霊竜ウィルミアを10体討伐</original>
+    <translation>Kill 10 Spirit Dragon Willmias</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2378</key>
     <original>精霊竜ウィルミアを100体討伐</original>
+    <translation>Kill 100 Spirit Dragon Willmias</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2379</key>
@@ -7586,26 +7589,32 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2908</key>
     <original>獣の将を1体討伐</original>
+    <translation>Kill a Beast Master</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2909</key>
     <original>獣の将を10体討伐</original>
+    <translation>Kill 10 Beast Masters</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2910</key>
     <original>獣の将を100体討伐</original>
+    <translation>Kill 100 Beast Masters</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2911</key>
     <original>カトブレパスを1体討伐</original>
+    <translation>Kill a Catoblepas</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2912</key>
     <original>カトブレパスを10体討伐</original>
+    <translation>Kill 10 Catoblepas</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2913</key>
     <original>カトブレパスを100体討伐</original>
+    <translation>Kill 100 Catoblepas</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2935</key>
