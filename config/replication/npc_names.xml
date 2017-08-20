@@ -1,0 +1,11 @@
+<replication>
+  <message_set name="npc name">
+    <match>^ui\\00_message\\npc\\npc_name$</match>
+    <match>^ui\\00_message\\enemy\\enemy_name$</match>
+    <rewrite>
+      <original_match>^(.+)兵士$</original_match>
+      <translation_replace>{0} Soldier</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+  </message_set>
+</replication>

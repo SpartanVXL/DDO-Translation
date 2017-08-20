@@ -697,7 +697,7 @@
   <message>
     <key>NPC_NAME_381</key>
     <original>ローラ</original>
-    <translation>Laura</translation>
+    <translation>Loura</translation>
   </message>
   <message>
     <key>NPC_NAME_382</key>
@@ -1292,10 +1292,12 @@
   <message>
     <key>NPC_NAME_499</key>
     <original></original>
+    <translation></translation>
   </message>
   <message>
     <key>NPC_NAME_500</key>
     <original></original>
+    <translation></translation>
   </message>
   <message>
     <key>NPC_NAME_501</key>
@@ -2336,18 +2338,22 @@
   <message>
     <key>NPC_NAME_767</key>
     <original>男性</original>
+    <translation>Man</translation>
   </message>
   <message>
     <key>NPC_NAME_770</key>
     <original>女性</original>
+    <translation>Woman</translation>
   </message>
   <message>
     <key>NPC_NAME_771</key>
     <original>鉱員</original>
+    <translation>Miner</translation>
   </message>
   <message>
     <key>NPC_NAME_772</key>
     <original>農夫</original>
+    <translation>Farmer</translation>
   </message>
   <message>
     <key>NPC_NAME_773</key>
@@ -2380,6 +2386,7 @@
   <message>
     <key>NPC_NAME_780</key>
     <original>旅人</original>
+    <translation>Traveler</translation>
   </message>
   <message>
     <key>NPC_NAME_781</key>
@@ -2500,6 +2507,7 @@
   <message>
     <key>NPC_NAME_808</key>
     <original>女戦士</original>
+    <translation>Female Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_809</key>
@@ -2566,6 +2574,7 @@
   <message>
     <key>NPC_NAME_824</key>
     <original></original>
+    <translation></translation>
   </message>
   <message>
     <key>NPC_NAME_827</key>
@@ -3073,6 +3082,7 @@
   <message>
     <key>NPC_NAME_942</key>
     <original></original>
+    <translation></translation>
   </message>
   <message>
     <key>NPC_NAME_943</key>
@@ -3256,7 +3266,7 @@
   <message>
     <key>NPC_NAME_1031</key>
     <original>ネド</original>
-    <translation>Ned</translation>
+    <translation>Nedo</translation>
   </message>
   <message>
     <key>NPC_NAME_1032</key>
@@ -3271,14 +3281,17 @@
   <message>
     <key>NPC_NAME_1034</key>
     <original>イェルハルド</original>
+    <translation>Gerhard</translation>
   </message>
   <message>
     <key>NPC_NAME_1035</key>
     <original>ベルタ</original>
+    <translation>Bertha</translation>
   </message>
   <message>
     <key>NPC_NAME_1036</key>
     <original>クインタス</original>
+    <translation>Quintus</translation>
   </message>
   <message>
     <key>NPC_NAME_1037</key>
@@ -3304,14 +3317,20 @@
   <message>
     <key>NPC_NAME_1042</key>
     <original>ドワーフオーク</original>
+    <translation>Dwarf Orc</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_1043</key>
     <original>ドワーフオーク</original>
+    <translation>Dwarf Orc</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_1044</key>
     <original>ドワーフオーク</original>
+    <translation>Dwarf Orc</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_1045</key>
@@ -3336,18 +3355,22 @@
   <message>
     <key>NPC_NAME_1049</key>
     <original>スライ</original>
+    <translation>Sly</translation>
   </message>
   <message>
     <key>NPC_NAME_1050</key>
     <original>レイベン</original>
+    <translation>Raven</translation>
   </message>
   <message>
     <key>NPC_NAME_1051</key>
     <original>ユーリ</original>
+    <translation>Yuri</translation>
   </message>
   <message>
     <key>NPC_NAME_1052</key>
     <original>ロス</original>
+    <translation>Ross</translation>
   </message>
   <message>
     <key>NPC_NAME_1054</key>
@@ -3408,90 +3431,112 @@
   <message>
     <key>NPC_NAME_1066</key>
     <original>ドルキ</original>
+    <translation>Dolkey</translation>
   </message>
   <message>
     <key>NPC_NAME_1067</key>
     <original>ブルース</original>
+    <translation>Bruce</translation>
   </message>
   <message>
     <key>NPC_NAME_1068</key>
     <original>エニス</original>
+    <translation>Ennis</translation>
   </message>
   <message>
     <key>NPC_NAME_1069</key>
     <original>アシル</original>
+    <translation>Achille​</translation>
   </message>
   <message>
     <key>NPC_NAME_1070</key>
     <original>ジュディス</original>
+    <translation>Judith</translation>
   </message>
   <message>
     <key>NPC_NAME_1071</key>
     <original>ジェンナ</original>
+    <translation>Jenna</translation>
   </message>
   <message>
     <key>NPC_NAME_1072</key>
     <original>ヘスター</original>
+    <translation>Hester</translation>
   </message>
   <message>
     <key>NPC_NAME_1073</key>
     <original>マデリーン</original>
+    <translation>Madeline</translation>
   </message>
   <message>
     <key>NPC_NAME_1074</key>
     <original>ハヤル</original>
+    <translation>Hayal</translation>
   </message>
   <message>
     <key>NPC_NAME_1075</key>
     <original>エセル</original>
+    <translation>Ethel</translation>
   </message>
   <message>
     <key>NPC_NAME_1076</key>
     <original>ドロシー</original>
+    <translation>Dorothy</translation>
   </message>
   <message>
     <key>NPC_NAME_1077</key>
     <original>ガイ</original>
+    <translation>Guy</translation>
   </message>
   <message>
     <key>NPC_NAME_1078</key>
     <original>ダーナ</original>
+    <translation>Dana</translation>
   </message>
   <message>
     <key>NPC_NAME_1079</key>
     <original>ディーン</original>
+    <translation>Dean</translation>
   </message>
   <message>
     <key>NPC_NAME_1080</key>
     <original>エイリーン</original>
+    <translation>Eileen</translation>
   </message>
   <message>
     <key>NPC_NAME_1081</key>
     <original>レヴェント</original>
+    <translation>Revento</translation>
   </message>
   <message>
     <key>NPC_NAME_1082</key>
     <original>ダドリー</original>
+    <translation>Dudley</translation>
   </message>
   <message>
     <key>NPC_NAME_1083</key>
     <original>アンナ</original>
+    <translation>Anna</translation>
   </message>
   <message>
     <key>NPC_NAME_1084</key>
     <original>エルトン</original>
+    <translation>Elton</translation>
   </message>
   <message>
     <key>NPC_NAME_1085</key>
     <original>バリス</original>
+    <translation>Barris</translation>
   </message>
   <message>
     <key>NPC_NAME_1086</key>
     <original>バーサ</original>
+    <translation>Versa</translation>
   </message>
   <message>
     <key>NPC_NAME_1087</key>
     <original>スーレ</original>
+    <translation>Soule</translation>
   </message>
   <message>
     <key>NPC_NAME_1088</key>
@@ -3524,194 +3569,242 @@
   <message>
     <key>NPC_NAME_1095</key>
     <original>エンデール</original>
+    <translation>Endale</translation>
   </message>
   <message>
     <key>NPC_NAME_1096</key>
     <original>ブルーノ</original>
+    <translation>Bruno</translation>
   </message>
   <message>
     <key>NPC_NAME_1097</key>
     <original>アンドレア</original>
+    <translation>Andrea</translation>
   </message>
   <message>
     <key>NPC_NAME_1098</key>
     <original>フラン</original>
+    <translation>Fran</translation>
   </message>
   <message>
     <key>NPC_NAME_1099</key>
     <original>オルハン</original>
+    <translation>Orhan</translation>
   </message>
   <message>
     <key>NPC_NAME_1100</key>
     <original>カルロッタ</original>
+    <translation>Carlotta</translation>
   </message>
   <message>
     <key>NPC_NAME_1101</key>
     <original>ボリス</original>
+    <translation>Boris</translation>
   </message>
   <message>
     <key>NPC_NAME_1102</key>
     <original>モナ</original>
+    <translation>Mona</translation>
   </message>
   <message>
     <key>NPC_NAME_1103</key>
     <original>フェリクス</original>
+    <translation>Felix</translation>
   </message>
   <message>
     <key>NPC_NAME_1104</key>
     <original>エミール</original>
+    <translation>Emil</translation>
   </message>
   <message>
     <key>NPC_NAME_1105</key>
     <original>イルヴァ</original>
+    <translation>Iruva</translation>
   </message>
   <message>
     <key>NPC_NAME_1106</key>
     <original>アスラン</original>
+    <translation>Aslan</translation>
   </message>
   <message>
     <key>NPC_NAME_1107</key>
     <original>リキャルド</original>
+    <translation>Ricardo</translation>
   </message>
   <message>
     <key>NPC_NAME_1108</key>
     <original>リーザ</original>
+    <translation>Leeza</translation>
   </message>
   <message>
     <key>NPC_NAME_1109</key>
     <original>アルビン</original>
+    <translation>Alvin</translation>
   </message>
   <message>
     <key>NPC_NAME_1110</key>
     <original>ゼキ</original>
+    <translation>Zeki</translation>
   </message>
   <message>
     <key>NPC_NAME_1111</key>
     <original>イネス</original>
+    <translation>Ines</translation>
   </message>
   <message>
     <key>NPC_NAME_1112</key>
     <original>バート</original>
+    <translation>Bart</translation>
   </message>
   <message>
     <key>NPC_NAME_1113</key>
     <original>ミカエラ</original>
+    <translation>Michaela</translation>
   </message>
   <message>
     <key>NPC_NAME_1114</key>
     <original>エンフ</original>
+    <translation>Enf</translation>
   </message>
   <message>
     <key>NPC_NAME_1115</key>
     <original>セダ</original>
+    <translation>Seda</translation>
   </message>
   <message>
     <key>NPC_NAME_1116</key>
     <original>ヴィクトル</original>
+    <translation>Victor</translation>
   </message>
   <message>
     <key>NPC_NAME_1117</key>
     <original>ラウラ</original>
+    <translation>Laura</translation>
   </message>
   <message>
     <key>NPC_NAME_1118</key>
     <original>イングリッド</original>
+    <translation>Ingrid</translation>
   </message>
   <message>
     <key>NPC_NAME_1119</key>
     <original>エルセン</original>
+    <translation>Elsen</translation>
   </message>
   <message>
     <key>NPC_NAME_1120</key>
     <original>オズギュル</original>
+    <translation>Ozgur</translation>
   </message>
   <message>
     <key>NPC_NAME_1121</key>
     <original>ミリヤム</original>
+    <translation>Miriam</translation>
   </message>
   <message>
     <key>NPC_NAME_1122</key>
     <original>ブレット</original>
+    <translation>Brett</translation>
   </message>
   <message>
     <key>NPC_NAME_1123</key>
     <original>アセナ</original>
+    <translation>Asena</translation>
   </message>
   <message>
     <key>NPC_NAME_1124</key>
     <original>エバ</original>
+    <translation>Eva</translation>
   </message>
   <message>
     <key>NPC_NAME_1125</key>
     <original>ハムザ</original>
+    <translation>Hamza</translation>
   </message>
   <message>
     <key>NPC_NAME_1126</key>
     <original>ポール</original>
+    <translation>Paul</translation>
   </message>
   <message>
     <key>NPC_NAME_1127</key>
     <original>セルマ</original>
+    <translation>Selma</translation>
   </message>
   <message>
     <key>NPC_NAME_1130</key>
     <original>ヨアキム</original>
+    <translation>Joaquim</translation>
   </message>
   <message>
     <key>NPC_NAME_1131</key>
     <original>ジェラール</original>
+    <translation>Gerald</translation>
   </message>
   <message>
     <key>NPC_NAME_1132</key>
     <original>エジェ</original>
+    <translation>Eje</translation>
   </message>
   <message>
     <key>NPC_NAME_1133</key>
     <original>ケナン</original>
+    <translation>Kenan</translation>
   </message>
   <message>
     <key>NPC_NAME_1134</key>
     <original>ジョセフィン</original>
+    <translation>Josephine</translation>
   </message>
   <message>
     <key>NPC_NAME_1135</key>
     <original>アデム</original>
+    <translation>Adem</translation>
   </message>
   <message>
     <key>NPC_NAME_1136</key>
     <original>ペール</original>
+    <translation>Pehr</translation>
   </message>
   <message>
     <key>NPC_NAME_1137</key>
     <original>アニタ</original>
+    <translation>Anita</translation>
   </message>
   <message>
     <key>NPC_NAME_1138</key>
     <original>イゼル</original>
+    <translation>Isel</translation>
   </message>
   <message>
     <key>NPC_NAME_1139</key>
     <original>ダーマード</original>
+    <translation>Damad</translation>
   </message>
   <message>
     <key>NPC_NAME_1196</key>
     <original>キルスティ</original>
+    <translation>Kirsty</translation>
   </message>
   <message>
     <key>NPC_NAME_1198</key>
     <original>ポーラ</original>
+    <translation>Paula</translation>
   </message>
   <message>
     <key>NPC_NAME_1199</key>
     <original>アシュトン</original>
+    <translation>Ashton</translation>
   </message>
   <message>
     <key>NPC_NAME_1200</key>
     <original>戦士女</original>
+    <translation>Female Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_1201</key>
     <original>パスカル</original>
+    <translation>Pascal</translation>
   </message>
   <message>
     <key>NPC_NAME_1202</key>
@@ -3720,6 +3813,7 @@
   <message>
     <key>NPC_NAME_1203</key>
     <original>スニーカー</original>
+    <translation>Sunika</translation>
   </message>
   <message>
     <key>NPC_NAME_1205</key>
@@ -3736,26 +3830,32 @@
   <message>
     <key>NPC_NAME_1208</key>
     <original>キャリー</original>
+    <translation>Carrie</translation>
   </message>
   <message>
     <key>NPC_NAME_1209</key>
     <original>ペール</original>
+    <translation>Pehr</translation>
   </message>
   <message>
     <key>NPC_NAME_1210</key>
     <original>アニタ</original>
+    <translation>Anita</translation>
   </message>
   <message>
     <key>NPC_NAME_1211</key>
     <original>イゼル</original>
+    <translation>Isel</translation>
   </message>
   <message>
     <key>NPC_NAME_1212</key>
     <original>ダーマード</original>
+    <translation>Damad</translation>
   </message>
   <message>
     <key>NPC_NAME_1213</key>
     <original>アイラ</original>
+    <translation>Ira</translation>
   </message>
   <message>
     <key>NPC_NAME_1214</key>
@@ -3764,6 +3864,7 @@
   <message>
     <key>NPC_NAME_1215</key>
     <original>ケマル</original>
+    <translation>Kemal</translation>
   </message>
   <message>
     <key>NPC_NAME_1216</key>
@@ -3788,22 +3889,27 @@
   <message>
     <key>NPC_NAME_1257</key>
     <original>ペコ</original>
+    <translation>Peco</translation>
   </message>
   <message>
     <key>NPC_NAME_1259</key>
     <original>ドルー</original>
+    <translation>Drew</translation>
   </message>
   <message>
     <key>NPC_NAME_1260</key>
     <original>シェナイ</original>
+    <translation>Shenai</translation>
   </message>
   <message>
     <key>NPC_NAME_1261</key>
     <original>デレク</original>
+    <translation>Derek</translation>
   </message>
   <message>
     <key>NPC_NAME_1262</key>
     <original>ケイーク</original>
+    <translation>Keiku</translation>
   </message>
   <message>
     <key>NPC_NAME_1263</key>
@@ -3836,46 +3942,57 @@
   <message>
     <key>NPC_NAME_1270</key>
     <original>ロスギル兵士</original>
+    <translation>Rothgill Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_1271</key>
     <original>ロスギル兵士</original>
+    <translation>Rothgill Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_1272</key>
     <original>ロスギル兵士</original>
+    <translation>Rothgill Soldier</translation>
   </message>
   <message>
     <key>NPC_NAME_1281</key>
     <original>タバサ</original>
+    <translation>Tabitha</translation>
   </message>
   <message>
     <key>NPC_NAME_1282</key>
     <original>ユーイン</original>
+    <translation>Youin</translation>
   </message>
   <message>
     <key>NPC_NAME_1283</key>
     <original>イーサン</original>
+    <translation>Ethan</translation>
   </message>
   <message>
     <key>NPC_NAME_1284</key>
     <original>ルシンダ</original>
+    <translation>Lucinda</translation>
   </message>
   <message>
     <key>NPC_NAME_1285</key>
     <original>セイディ</original>
+    <translation>Sadie</translation>
   </message>
   <message>
     <key>NPC_NAME_1286</key>
     <original>カーティス</original>
+    <translation>Curtis</translation>
   </message>
   <message>
     <key>NPC_NAME_1287</key>
     <original>エディ</original>
+    <translation>Eddie</translation>
   </message>
   <message>
     <key>NPC_NAME_1288</key>
     <original>ショーン</original>
+    <translation>Sean</translation>
   </message>
   <message>
     <key>NPC_NAME_1289</key>
@@ -3892,6 +4009,8 @@
   <message>
     <key>NPC_NAME_1291</key>
     <original>雄シカ</original>
+    <translation>Male Deer</translation>
+    <translation_format proper="false" />
   </message>
   <message>
     <key>NPC_NAME_1292</key>
@@ -3908,6 +4027,7 @@
   <message>
     <key>NPC_NAME_1294</key>
     <original>お花ちゃん</original>
+    <translation>Flower-chan</translation>
   </message>
   <message>
     <key>NPC_NAME_1295</key>
