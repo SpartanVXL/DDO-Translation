@@ -347,7 +347,8 @@
   <message>
     <key>pawn_growtalk_title_010</key>
     <original>敵の状態で使う技の最終確認</original>
-    <translation>Final confirmation of skill use according to enemy condition</translation>
+    <translation>Final confirmation of skill use
+according to enemy condition</translation>
   </message>
   <message>
     <key>pawn_growtalk_title_011</key>
@@ -413,10 +414,12 @@
   <message>
     <key>pawn_growtalk_word_001</key>
     <original>の育成項目が増えました</original>
+    <translation> has been added.</translation>
   </message>
   <message>
     <key>pawn_growtalk_word_002</key>
     <original>に、</original>
+    <translation>, training entry </translation>
   </message>
   <message>
     <key>pawn_growtalk_word_003</key>

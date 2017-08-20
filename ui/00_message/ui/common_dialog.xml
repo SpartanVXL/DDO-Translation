@@ -2692,6 +2692,7 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_om_warp_nazo_warp</key>
     <original>今は転移の力を失っているようだ――</original>
+    <translation>It seems to have lost the power to teleport...</translation>
   </message>
   <message>
     <key>ana_camera_angle_limit</key>
@@ -2734,10 +2735,12 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_epitaph_003</key>
     <original>カテゴリ選択</original>
+    <translation>Select Category</translation>
   </message>
   <message>
     <key>ana_epitaph_004</key>
     <original>ダンジョン選択</original>
+    <translation>Select Dungeon</translation>
   </message>
   <message>
     <key>ana_epitaph_005</key>
@@ -2817,6 +2820,7 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_err_not_enough_item</key>
     <original>アイテムが足りません</original>
+    <translation>Insufficient items</translation>
   </message>
   <message>
     <key>ana_q_use_item2</key>
@@ -2824,6 +2828,10 @@ Gained Secret Augment!</translation>
 よろしいですか？
 
 &lt;NAME ITEM&gt; × &lt;VAL&gt;枚</original>
+  <translation>Are you sure you want to consume the
+following items to enter the dungeon?
+
+&lt;NAME ITEM&gt; x&lt;VAL&gt;</translation>
   </message>
   <message>
     <key>ana_pack_seq_empty</key>

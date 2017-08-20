@@ -10,9 +10,10 @@
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
 </original>
-    <translation>You will acquire the following perk. Is this OK?
+    <translation>Are you sure you want to acquire the following perk?
 
-　Perk: &lt;NAME SKILL&gt; +&lt;VAL&gt;</translation>
+　Perk: &lt;NAME SKILL&gt; +&lt;VAL&gt;
+</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_2ND_0</key>
@@ -20,9 +21,10 @@
 
 　取得能力：&lt;NAME SKILL&gt;
 </original>
-    <translation>You will acquire the following perk. Is this OK?
+    <translation>Are you sure you want to acquire the following perk?
 
-　Perk: &lt;NAME SKILL&gt;</translation>
+　Perk: &lt;NAME SKILL&gt;
+</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_1</key>
@@ -31,10 +33,12 @@
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
 </original>
-    <translation>You will acquire the following perk. Is this OK?
-(Only adjacent perks will be available next time)
+    <translation>Are you sure you want to acquire the following perk?
+(Only adjacent perks will
+be available next time)
 
-　Perk: &lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
+　Perk: &lt;NAME SKILL&gt;+&lt;VAL&gt;
+</translation>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_0</key>
@@ -43,14 +47,17 @@
 
 　取得能力：&lt;NAME SKILL&gt;
 </original>
-    <translation>You will acquire the following perk. Is this OK?
-(Only adjacent perks will be available next time)
+    <translation>Are you sure you want to acquire the following perk?
+(Only adjacent perks will
+be available next time)
 
-　Perk: &lt;NAME SKILL&gt;</translation>
+　Perk: &lt;NAME SKILL&gt;
+</translation>
   </message>
   <message>
     <key>ORB_TEXT_RELEASE_PERCENT</key>
     <original>&lt;VAL&gt;%</original>
+    <translation>&lt;VAL&gt;%</translation>
   </message>
   <message>
     <key>ORB_TEXT_YES</key>
@@ -85,8 +92,8 @@
 以下の能力を取得できます。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
-    <translation>You will acquire the following perk as a reward
-for achieving the required total level. Is this OK?
+    <translation>Are you sure you want to acquire the following perk as a reward
+for achieving the required total level?
 
 　Perk: &lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
   </message>
@@ -96,8 +103,8 @@ for achieving the required total level. Is this OK?
 以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;</original>
-    <translation>You will acquire the following perk as a reward
-for acquiring all other perks. Is this OK?
+    <translation>Are you sure you want to  acquire the following perk as a reward
+for acquiring all other perks?
 
 　Perk: &lt;NAME SKILL&gt;</translation>
   </message>
@@ -146,8 +153,8 @@ for acquiring all other perks. Is this OK?
 以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;</original>
-    <translation>You will acquire the following perk as a reward
-for acquiring all other perks. Is this OK?
+    <translation>Are you sure you want to acquire the following perk as a reward
+for acquiring all other perks?
 
 　Perk: &lt;NAME SKILL&gt;+&lt;VAL&gt;</translation>
   </message>
@@ -194,14 +201,17 @@ for acquiring all other perks. Is this OK?
   <message>
     <key>ORB_TEXT_NEED_HB</key>
     <original>　必要&lt;UNTN HB&gt;：&lt;VAL HB&gt;</original>
+    <translation>　Required &lt;UNTN HB&gt;: &lt;VAL HB&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_NEED_BO</key>
     <original>　必要&lt;UNTN BO&gt;：&lt;VAL BO&gt;</original>
+    <translation>　Required &lt;UNTN BO&gt;: &lt;VAL BO&gt;</translation>
   </message>
   <message>
     <key>ORB_TEXT_CONDITION_SPECIAL</key>
     <original>▼以下の特殊条件をクリア</original>
+    <translation>▼ Clear the following special conditions</translation>
   </message>
   <message>
     <key>ORB_TEXT_ERR_HB_LACK</key>
