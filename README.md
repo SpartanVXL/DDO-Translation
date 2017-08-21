@@ -1,4 +1,4 @@
-# DDO-Translation
+# DDON-Translation
 This is a repository for data used to build translation patches for Dragon's Dogma Online.
 
 This is a community project. Contributions welcome!
