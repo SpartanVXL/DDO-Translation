@@ -80,6 +80,11 @@
       <translation>The Location of the Final Test</translation>
       <translation_format proper="false">location of the final test</translation_format>
     </extra>
+    <extra>
+      <original>大食堂</original>
+      <translation>Great Dining Hall</translation>
+      <translation_format proper="false" />
+    </extra>
     <!-- Replicate area names -->
     <rewrite>
       <original_match>^(.+)$</original_match>
