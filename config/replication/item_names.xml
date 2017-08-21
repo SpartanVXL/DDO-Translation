@@ -225,5 +225,12 @@
       <original_match>^(.+?)のクレスト(.+?)\s*$</original_match>
       <translation_replace>FIXME:Crest of {0} -- {1}</translation_replace>
     </rewrite>
+    <!-- For batch additions generically named Prefix + Suffix -->
+    <rewrite>
+      <original_match>^(.+)(ソード|シールド|ブレード|ウォール|ロッド|ダガー|ボウ|ガントレット|スペル|スタッフ|ワンズ|スピア)$</original_match>
+      <translation_replace>{0} {1}</translation_replace>
+      <translation_arg index="0" message_set="item prefix" required="true" />
+      <translation_arg index="1" message_set="item suffix" />
+    </rewrite>
   </message_set>
 </replication>
