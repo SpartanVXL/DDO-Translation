@@ -229,8 +229,14 @@
     <rewrite>
       <original_match>^(.+)(ソード|シールド|ブレード|ウォール|ロッド|ダガー|ボウ|ガントレット|スペル|スタッフ|ワンズ|スピア)$</original_match>
       <translation_replace>{0} {1}</translation_replace>
-      <translation_arg index="0" message_set="item prefix" required="true" />
-      <translation_arg index="1" message_set="item suffix" />
+      <translation_arg index="0" message_set="item weapon prefix" required="true" />
+      <translation_arg index="1" message_set="item weapon suffix" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(マスク|コイフ|ヘルム|アーマー|プレート|ガントレット|グローブ|サバトン|グリーブ)$</original_match>
+      <translation_replace>{0} {1}</translation_replace>
+      <translation_arg index="0" message_set="item armor prefix" required="true" />
+      <translation_arg index="1" message_set="item armor suffix" />
     </rewrite>
   </message_set>
 </replication>
