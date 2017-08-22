@@ -1126,25 +1126,25 @@ drew &lt;VAL&gt; lots in succession.</translation>
     <key>syslog_jp_possession_max_notice</key>
     <original>ジョブポイントの所持量が最大に近づいています
 ( &lt;VAL&gt; / &lt;VAL JP&gt; )</original>
-    <translation>You are almost maxed out on job points.
+    <translation>You are almost maxed out on Job Points.
 (&lt;VAL&gt;/&lt;VAL JP&gt;)</translation>
   </message>
   <message>
     <key>syslog_jp_possession_max</key>
     <original>ジョブポイントが最大に達したため、これ以上獲得できません</original>
-    <translation>You have reached the maximum amount of job points and cannot earn any more.</translation>
+    <translation>You have reached the maximum amount of Job Points and cannot earn any more.</translation>
   </message>
   <message>
     <key>syslog_jp_possession_max_notice_pawn</key>
     <original>&lt;NAME PAWN&gt;のジョブポイントの所持量が最大に近づいています
 ( &lt;VAL&gt; / &lt;VAL JP&gt; )</original>
-    <translation>&lt;NAME PAWN&gt; is almost maxed out on job points.
+    <translation>&lt;NAME PAWN&gt; is almost maxed out on Job Points.
 (&lt;VAL&gt;/&lt;VAL JP&gt;)</translation>
   </message>
   <message>
     <key>syslog_jp_possession_max_pawn</key>
     <original>&lt;NAME PAWN&gt;のジョブポイントが最大に達したため、これ以上獲得できません</original>
-    <translation>&lt;NAME PAWN&gt; has reached the maximum amount of job points and cannot earn any more.</translation>
+    <translation>&lt;NAME PAWN&gt; has reached the maximum amount of Job Points and cannot earn any more.</translation>
   </message>
   <message>
     <key>syslog_rentalpoint_get</key>
@@ -1379,6 +1379,7 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_craft_exp_get_ex</key>
     <original>&lt;NAME PAWN&gt;がクラフト経験値&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;を取得しました</original>
+    <translation>&lt;NAME PAWN&gt; has gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt; for crafting.</translation>
   </message>
   <message>
     <key>syslog_pq_seq_ana_start</key>
@@ -1411,6 +1412,7 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_pap_limit_up</key>
     <original>&lt;NAME PAWN&gt;の&lt;UNTN PAP&gt;の最大値が増加しました</original>
+    <translation>Maximum &lt;UNTN PAP&gt; for &lt;NAME PAWN&gt; has increased.</translation>
   </message>
   <message>
     <key>syslog_mission_time_down</key>
@@ -1430,10 +1432,13 @@ CP報酬の有効クリア回数が上限に達しました</original>
     <key>syslog_tp_possession_max_notice</key>
     <original>&lt;UNTN TP&gt;の所持量が最大に近づいています
 ( &lt;VAL&gt; / &lt;VAL TP&gt; )</original>
+    <translation>You are almost maxed out on &lt;UNTN TP&gt;s.
+(&lt;VAL&gt;/&lt;VAL TP&gt;)</translation>
   </message>
   <message>
     <key>syslog_tp_possession_max</key>
     <original>&lt;UNTN TP&gt;が最大に達したため、これ以上獲得できません</original>
+    <translation>You have reached the maximum amount of &lt;UNTN TP&gt;s and cannot earn any more.</translation>
   </message>
   <message>
     <key>syslog_evoticket_get</key>

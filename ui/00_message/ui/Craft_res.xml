@@ -1238,6 +1238,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>HEADING_ADD_STATUS</key>
     <original>追加ステータス</original>
+    <translation>Additional Status</translation>
   </message>
   <message>
     <key>ROW_LIST</key>
@@ -1266,10 +1267,12 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>GUIDE_MATERIALS_CHANGE</key>
     <original>品質変更する装備を選択してください</original>
+    <translation>Please select the equipment to change quality.</translation>
   </message>
   <message>
     <key>ERROR_MATERIALS_CHANGE_001</key>
     <original>このアイテムは品質変更できません</original>
+    <translation>This item cannot have its quality changed.</translation>
   </message>
   <message>
     <key>CRAFT_MATERIALS_CHANGE_NOTHING</key>
@@ -1283,6 +1286,7 @@ Creating this requires &lt;COL ffdc78&gt;&lt;VAL&gt; Golden Gemstone&lt;/COL&gt;
   <message>
     <key>BUTTON_MATERIALS_CHANGE</key>
     <original>変更</original>
+    <translation>Change</translation>
   </message>
   <message>
     <key>DIALOG_CONFIRM_MATERIALS_CHANGE</key>
