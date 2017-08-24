@@ -2601,7 +2601,7 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_keyconfig_announce_auto_key_change</key>
     <original>キーコンフィグを「%s」に変更しました</original>
-    <translation>Key config changed to "%s"</translation>
+    <translation>Key config changed to "%s".</translation>
   </message>
   <message>
     <key>ana_keyconfig_dialog_not_yet_saved_attention</key>
@@ -2820,7 +2820,7 @@ Gained Secret Augment!</translation>
   <message>
     <key>ana_err_not_enough_item</key>
     <original>アイテムが足りません</original>
-    <translation>Insufficient items</translation>
+    <translation>Insufficient items.</translation>
   </message>
   <message>
     <key>ana_q_use_item2</key>
@@ -2837,5 +2837,7 @@ following items to enter the dungeon?
     <key>ana_pack_seq_empty</key>
     <original>使命：＜&lt;NAME QUEST&gt;＞
 本日のミッションは達成しています</original>
+    <translation>Mission: "&lt;NAME QUEST&gt;"
+Mission has been achieved today.</translation>
   </message>
 </resource>
