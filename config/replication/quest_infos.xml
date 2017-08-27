@@ -94,6 +94,15 @@
     </rewrite>
     <!-- Quest objectives -->
     <rewrite>
+      <original_match>^修復に必要な素材のいずれかを&lt;NPC (\d+)&gt;に渡す$</original_match>
+      <translation_replace>Deliver the needed materials for repair to &lt;NPC {0}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^見つけた素材を(.+)の&lt;NPC (\d+)&gt;に渡す$</original_match>
+      <translation_replace>Deliver the located materials to &lt;NPC {1}&gt; in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^＜\s*(.+?)\s*＞に向かう$</original_match>
       <translation_replace>Go to "{0}"</translation_replace>
       <translation_arg message_set="location name" />
@@ -204,6 +213,14 @@
     </rewrite>
     <!-- Speak with -->
     <ignore>^水林の桟橋にいる船頭のトレアサと話す$</ignore>
+    <rewrite>
+      <original_match>^&lt;NPC (\d+)&gt;と&lt;NPC (\d+)&gt;に話しかける$</original_match>
+      <translation_replace>Speak with &lt;NPC {0}&gt; and &lt;NPC {1}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;NPC (\d+)&gt;に話しかける$</original_match>
+      <translation_replace>Speak with &lt;NPC {0}&gt;</translation_replace>
+    </rewrite>
     <rewrite>
       <original_match>^(.+?)にある(.+)入口で(.+?)と話す$</original_match>
       <translation_replace>Speak with {2:d} at the entrance to {1:d} in {0:d}</translation_replace>
