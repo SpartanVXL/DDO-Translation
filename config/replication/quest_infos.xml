@@ -415,11 +415,16 @@
     <!-- Check safety -->
     <rewrite>
       <original_match>^捜索対象の安否を確認する$</original_match>
-      <translation_replace>Check the search target's safety</translation_replace>
+      <translation_replace>Check the search target's well-being</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)の安否を確認する$</original_match>
+      <translation_replace>Check {0:d}'s well-being</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の無事を確認する$</original_match>
       <translation_replace>Check {0:d}'s safety</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
@@ -729,6 +734,11 @@
     <rewrite>
       <original_match>^&lt;SPOT (\d+)&gt;内を調査する$</original_match>
       <translation_replace>Investigate inside &lt;SPOT {0}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)内を調査する$</original_match>
+      <translation_replace>Investigate inside {0:d}</translation_replace>
+      <translation_arg message_set="location name" required="true" />
     </rewrite>
     <!-- Rendezvous -->
     <rewrite>
