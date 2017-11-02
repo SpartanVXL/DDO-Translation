@@ -40853,11 +40853,15 @@
     <translation>Relief Coin (Deep Scarlet)</translation>
   </item>
   <item id="13819">
-    <original>レリーフコイン【若葉】</original>
+    <original>極ジュエリー抽選コイン</original>
+    <!-- NEEDS REVIEW -->
+    <!--レリーフコイン【若葉】-->
     <translation>Relief Coin (Young Leaf)</translation>
   </item>
   <item id="13820">
-    <original>レリーフコイン【紅葉】</original>
+    <original>極ジュエリー確定抽選コイン</original>
+    <!-- NEEDS REVIEW -->
+    <!--レリーフコイン【紅葉】-->
     <translation>Relief Coin (Autumn Leaf)</translation>
   </item>
   <item id="13821">
@@ -58001,18 +58005,6 @@
     <original>カスタムメイドサービス券</original>
     <translation>Custom-Made Service Ticket</translation>
   </item>
-  <item id="19372">
-    <original>飛翔の腕輪・極　</original>
-  </item>
-  <item id="19373">
-    <original>握速の腕輪・極</original>
-  </item>
-  <item id="19374">
-    <original>快走の腕輪・極</original>
-  </item>
-  <item id="19375">
-    <original>楽装の腕輪・極</original>
-  </item>
   <item id="19376">
     <original>極・ダッシュST消費軽減</original>
   </item>
@@ -58400,19 +58392,19 @@
     <translation>Olfring Seiðr (Forest)</translation>
   </item>
   <item id="19500">
-    <original>カボチャヘルム</original>
+    <original>妖夜のジャック・オー・ヘルム</original>
   </item>
   <item id="19501">
-    <original>スーツジャケット</original>
+    <original>妖夜のパンプキンジャケット</original>
   </item>
   <item id="19502">
-    <original>スーツパンツ</original>
+    <original>妖夜のパンプキンスラックス</original>
   </item>
   <item id="19503">
-    <original>魔女っ娘コート</original>
+    <original>妖夜のウィッチコート</original>
   </item>
   <item id="19504">
-    <original>魔女っ娘タイツ</original>
+    <original>妖夜のウィッチブーツ</original>
   </item>
   <item id="19508">
     <original>金貨袋</original>
@@ -58471,7 +58463,7 @@
     <original>マギカクローク</original>
   </item>
   <item id="19594">
-    <original>NPC用衣装</original>
+    <original>NPC用</original>
   </item>
   <item id="19595">
     <original>魔界村アーサー装備【鋼の鎧】</original>
@@ -58498,40 +58490,40 @@
     <translation>Ghosts 'n Goblins Underwear (Female)</translation>
   </item>
   <item id="19601">
-    <original>ジャージ1</original>
+    <original>イージースウェット・グレー</original>
   </item>
   <item id="19602">
-    <original>ジャージ2</original>
+    <original>イージースウェット・イエロー</original>
   </item>
   <item id="19603">
-    <original>着ぐるみウサギ1</original>
+    <original>ラビットウェア・ピンク</original>
   </item>
   <item id="19604">
-    <original>着ぐるみウサギ2</original>
+    <original>ラビットウェア・ブルー</original>
   </item>
   <item id="19605">
-    <original>パジャマ上1</original>
+    <original>ベーシックパジャマ・ブルー</original>
   </item>
   <item id="19606">
-    <original>パジャマ上2</original>
+    <original>ベーシックパジャマ・ピンク</original>
   </item>
   <item id="19607">
-    <original>パジャマ下1</original>
+    <original>ベーシックショーツ・ブルー</original>
   </item>
   <item id="19608">
-    <original>パジャマ下2</original>
+    <original>ベーシックショーツ・ピンク</original>
   </item>
   <item id="19609">
-    <original>ロリ系部屋着上1</original>
+    <original>キューティウェア・ベリー</original>
   </item>
   <item id="19610">
-    <original>ロリ系部屋着上2</original>
+    <original>キューティウェア・マリン</original>
   </item>
   <item id="19611">
-    <original>ロリ系部屋着下1</original>
+    <original>キューティショーツ・ピンク</original>
   </item>
   <item id="19612">
-    <original>ロリ系部屋着下2</original>
+    <original>キューティショーツ・マリン</original>
   </item>
   <item id="19613">
     <original>黎明のミラージュアーマー【零】</original>
@@ -58574,21 +58566,144 @@
     <translation>Rod of Vanguard</translation>
   </item>
   <item id="19631">
-    <original>自室3.0ハロウィン・キッチン料理</original>
+    <original>ディナーセット・ホラーナイト</original>
   </item>
   <item id="19632">
-    <original>自室3.0ハロウィン・調理器具</original>
+    <original>調理器具セット・ホラーナイト</original>
   </item>
   <item id="19633">
-    <original>自室3.0ハロウィン・ぬいぐるみ</original>
+    <original>ホラーナイトパペット・エント大</original>
   </item>
   <item id="19634">
-    <original>自室3.0ハロウィン・庭具</original>
+    <original>ガーデンオーナメント・ホラーナイト</original>
   </item>
   <item id="19635">
-    <original>自室3.0ハロウィン・壁紙</original>
+    <original>ウォールペイント・ホラーナイト</original>
   </item>
   <item id="19636">
-    <original>自室3.0ハロウィン・リビング料理</original>
+    <original>ライトミールセット・ホラーナイト</original>
+  </item>
+  <item id="19637">
+    <original>カジュアルベッド・アイス</original>
+  </item>
+  <item id="19638">
+    <original>カジュアルベッド・ベリー</original>
+  </item>
+  <item id="19641">
+    <original>ホラーナイトなリビングカーペット</original>
+  </item>
+  <item id="20435">
+    <original>ゴーストランタン</original>
+  </item>
+  <item id="20436">
+    <original>妖夜のテラージャケット</original>
+  </item>
+  <item id="20437">
+    <original>妖夜のテラースラックス</original>
+  </item>
+  <item id="20438">
+    <original>妖夜のスクリームコート</original>
+  </item>
+  <item id="20439">
+    <original>妖夜のスクリームブーツ</original>
+  </item>
+  <item id="20440">
+    <original>妖夜のバンパイアハット</original>
+  </item>
+  <item id="20441">
+    <original>妖夜のウィッチハット</original>
+  </item>
+  <item id="20442">
+    <original>妖夜のバンパイアマント</original>
+  </item>
+  <item id="20443">
+    <original>緋竜のマスク</original>
+  </item>
+  <item id="21135">
+    <original>NPC用_2017ハロウィンジャケット</original>
+  </item>
+  <item id="21136">
+    <original>NPC用_2017ハロウィンパンツ</original>
+  </item>
+  <item id="21137">
+    <original>NPC用_2017ハロウィンコート</original>
+  </item>
+  <item id="21138">
+    <original>NPC用_2017ハロウィンタイツ</original>
+  </item>
+  <item id="21139">
+    <original>NPC用_2017ハロウィンカボチャ</original>
+  </item>
+  <item id="21140">
+    <original>NPC用_2017ハロウィン三角帽子</original>
+  </item>
+  <item id="21182">
+    <original>お化けマシュマロ</original>
+  </item>
+  <item id="21183">
+    <original>どくろグミ</original>
+  </item>
+  <item id="21298">
+    <original>探知ランタン【鋼黒】</original>
+  </item>
+  <item id="21299">
+    <original>握速の腕輪・極【ファイター】</original>
+  </item>
+  <item id="21300">
+    <original>握速の腕輪・極【Ｓセージ】</original>
+  </item>
+  <item id="21301">
+    <original>握速の腕輪・極【ハンター】</original>
+  </item>
+  <item id="21302">
+    <original>握速の腕輪・極【プリースト】</original>
+  </item>
+  <item id="21303">
+    <original>握速の腕輪・極【ソーサラー】</original>
+  </item>
+  <item id="21304">
+    <original>握速の腕輪・極【シーカー】</original>
+  </item>
+  <item id="21305">
+    <original>握速の腕輪・極【Ｅアーチャー】</original>
+  </item>
+  <item id="21306">
+    <original>握速の腕輪・極【ウォリアー】</original>
+  </item>
+  <item id="21307">
+    <original>握速の腕輪・極【アルケミスト】</original>
+  </item>
+  <item id="21308">
+    <original>握速の腕輪・極【Ｓランサー】</original>
+  </item>
+  <item id="21309">
+    <original>飛翔のピアス・極【ファイター】</original>
+  </item>
+  <item id="21310">
+    <original>飛翔のピアス・極【Ｓセージ】</original>
+  </item>
+  <item id="21311">
+    <original>飛翔のピアス・極【ハンター】</original>
+  </item>
+  <item id="21312">
+    <original>飛翔のピアス・極【プリースト】</original>
+  </item>
+  <item id="21313">
+    <original>飛翔のピアス・極【ソーサラー】</original>
+  </item>
+  <item id="21314">
+    <original>飛翔のピアス・極【シーカー】</original>
+  </item>
+  <item id="21315">
+    <original>飛翔のピアス・極【Ｅアーチャー】</original>
+  </item>
+  <item id="21316">
+    <original>飛翔のピアス・極【ウォリアー】</original>
+  </item>
+  <item id="21317">
+    <original>飛翔のピアス・極【アルケミスト】</original>
+  </item>
+  <item id="21318">
+    <original>飛翔のピアス・極【Ｓランサー】</original>
   </item>
 </item_data>
