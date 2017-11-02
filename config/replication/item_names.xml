@@ -207,6 +207,16 @@
       <translation_replace>True {0}</translation_replace>
       <translation_arg message_set="item name" />
     </rewrite>
+    <rewrite>
+      <original_match>^極・(.+?)$</original_match>
+      <translation_replace>Extreme {0}</translation_replace>
+      <translation_arg message_set="item name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^衣装：(.+?)$</original_match>
+      <translation_replace>Outfit: {0}</translation_replace>
+      <translation_arg message_set="npc name" required="true" />
+    </rewrite>
     <rewrite soft="true">
       <original_match>^(.+)$</original_match>
       <translation_replace>{0}</translation_replace>
