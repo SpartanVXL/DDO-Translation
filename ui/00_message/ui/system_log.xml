@@ -959,7 +959,8 @@ Gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;.</translation>
   <message>
     <key>syslog_receipt_mailitem</key>
     <original>メールで特典アイテムをお受け取りください</original>
-    <translation>Please check your mail to receive the items.</translation>
+    <translation>Please check your mail to
+receive the items.</translation>
   </message>
   <message>
     <key>syslog_party_num_talk</key>
@@ -1463,6 +1464,7 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_action_humanhateup_target</key>
     <original>&lt;NAME TARGET&gt; が周囲の敵の標的になった</original>
+    <translation>&lt;NAME TARGET&gt; has become the target of the surrounding enemies.</translation>
   </message>
   <message>
     <key>syslog_pawn_expedition_hotsign</key>

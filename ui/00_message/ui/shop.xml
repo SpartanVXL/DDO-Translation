@@ -197,6 +197,7 @@ not be able to equip this item.&lt;/COL&gt;
   <message>
     <key>SHOP_TEXT_STOCK</key>
     <original>在庫数</original>
+    <translation>Stock</translation>
   </message>
   <message>
     <key>SHOP_TEXT_PURCHASED</key>
@@ -232,5 +233,6 @@ not be able to equip this item.&lt;/COL&gt;
   <message>
     <key>SHOP_TEXT_ACHIEVE_NG</key>
     <original>条件未達成</original>
+    <translation>Unfulfilled Requirements</translation>
   </message>
 </resource>
