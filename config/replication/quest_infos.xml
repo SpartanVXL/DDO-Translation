@@ -2,6 +2,7 @@
   <message_set name="quest name" type="quest_name">
     <match>^ui\\00_message\\quest_info\\q\d+_00$</match>
     <match>^ui\\00_message\\cycle_quest\\cycle_quest_info\\q\d+_\d+$</match>
+    <match>^ui\\00_message\\package_quest\\package_quest$</match>
     <!-- Quest names -->
     <rewrite soft="true">
       <original_match>^【高難度】(.+?)$</original_match>
@@ -308,6 +309,10 @@
     <rewrite>
       <original_match>^&lt;NPC (\d+)&gt;と&lt;NPC (\d+)&gt;に話しかける$</original_match>
       <translation_replace>Speak with &lt;NPC {0}&gt; and &lt;NPC {1}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^準備ができたら&lt;NPC (\d+)&gt;に話しかける$</original_match>
+      <translation_replace>When you are ready speak with &lt;NPC {0}&gt;</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^&lt;NPC (\d+)&gt;に話しかける$</original_match>
