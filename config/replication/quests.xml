@@ -1,5 +1,20 @@
 ﻿<replication>
   <message_set name="quest dialogue">
     <match>^ui\\00_message\\quest\\q\d+$</match>
+    <rewrite>
+      <original_match>^(.+?)を納品したい$</original_match>
+      <translation_replace>Deliver {0}</translation_replace>
+      <translation_arg message_set="item name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)を見守る$</original_match>
+      <translation_replace>Watch over {0}</translation_replace>
+      <translation_arg message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)を止める$</original_match>
+      <translation_replace>Stop {0}</translation_replace>
+      <translation_arg message_set="npc name" required="true" />
+    </rewrite>
   </message_set>
 </replication>

@@ -134,6 +134,11 @@
       <original_match>^(.+?)・限界域$</original_match>
       <translation_replace>{0}: Restricted Stage</translation_replace>
     </rewrite>
+    <rewrite soft="true">
+      <original_match>^【(.+?)編】(.+)$</original_match>
+      <translation_arg index="0" message_set="npc name" required="true" />
+      <translation_replace>[{0} Part] {1}</translation_replace>
+    </rewrite>
     <!-- Quest objectives -->
     <rewrite>
       <original_match>^修復に必要な素材のいずれかを&lt;NPC (\d+)&gt;に渡す$</original_match>
@@ -153,6 +158,14 @@
       <original_match>^＜\s*(.+?)\s*＞の敵を討伐する$</original_match>
       <translation_replace>Defeat the enemies in "{0}"</translation_replace>
       <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^襲い掛かる魔物から&lt;NPC (\d+)&gt;を守る$</original_match>
+      <translation_replace>Defend &lt;NPC {0}&gt; from attacking enemies</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^遭遇した魔物から&lt;NPC (\d+)&gt;を守る$</original_match>
+      <translation_replace>Defend &lt;NPC {0}&gt; from encountered enemies</translation_replace>
     </rewrite>
     <!-- Time restricted objectives -->
     <rewrite>
@@ -306,6 +319,11 @@
     </rewrite>
     <!-- Speak with -->
     <ignore>^水林の桟橋にいる船頭のトレアサと話す$</ignore>
+    <rewrite>
+      <original_match>^&lt;NPC (\d+)&gt;と話し、(.+)に戻る$</original_match>
+      <translation_replace>Speak with &lt;NPC {0}&gt; and return to {1:d}</translation_replace>
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
     <rewrite>
       <original_match>^&lt;NPC (\d+)&gt;と&lt;NPC (\d+)&gt;に話しかける$</original_match>
       <translation_replace>Speak with &lt;NPC {0}&gt; and &lt;NPC {1}&gt;</translation_replace>

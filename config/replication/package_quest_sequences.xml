@@ -1,9 +1,14 @@
 ﻿<replication>
   <message_set name="package quest sequence" type="quest_name">
     <match>^ui\\00_message\\package_quest\\package_quest_sequence_\d+$</match>
-    <rewrite soft="true">
+    <rewrite>
       <original_match>^(.+)の食料調達$</original_match>
-      <translation_replace>{0} Food Procurement​</translation_replace>
+      <translation_replace>{0} Food Procurement</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)食料運搬$</original_match>
+      <translation_replace>{0} Food Transport</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
   </message_set>
