@@ -1,5 +1,5 @@
 ﻿<replication>
-  <message_set name="package quest sequence" type="quest_name">
+  <message_set name="package quest sequence" type="title_name">
     <match>^ui\\00_message\\package_quest\\package_quest_sequence_\d+$</match>
     <rewrite>
       <original_match>^(.+)の食料調達$</original_match>

@@ -1,5 +1,5 @@
 ﻿<replication>
-  <message_set name="tutorial name">
+  <message_set name="tutorial name" type="tutorial_name">
     <match>^ui\\00_message\\tutorial_guide\\tutorial_guide$</match>
     <rewrite>
       <original_match>^(.+?)$</original_match>
