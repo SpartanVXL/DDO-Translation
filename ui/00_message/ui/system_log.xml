@@ -1393,14 +1393,17 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_pq_seq_ana_acv_up</key>
     <original>＜&lt;VAL&gt;＞の使命＜&lt;VAL&gt;＞の達成度が上昇しました</original>
+    <translation>"&lt;VAL&gt;" mission "&lt;VAL&gt;" progress increased.</translation>
   </message>
   <message>
     <key>syslog_pq_seq_ana_acv_down</key>
     <original>＜&lt;VAL&gt;＞の使命＜&lt;VAL&gt;＞の達成度が減少しました</original>
+    <translation>"&lt;VAL&gt;" mission "&lt;VAL&gt;" progress decreased.</translation>
   </message>
   <message>
     <key>syslog_pq_seq_ana_seqcomp</key>
     <original>＜&lt;VAL&gt;＞の使命＜&lt;VAL&gt;＞を達成しました</original>
+    <translation>"&lt;VAL&gt;" mission "&lt;VAL&gt;" completed.</translation>
   </message>
   <message>
     <key>syslog_pq_seq_ana_pacend</key>
