@@ -139,6 +139,11 @@
       <translation_arg index="0" message_set="npc name" required="true" />
       <translation_replace>[{0} Part] {1}</translation_replace>
     </rewrite>
+    <rewrite>
+      <original_match>^(.+)に食料を―$</original_match>
+      <translation_arg message_set="location name" />
+      <translation_replace>Food for {0:d}</translation_replace>
+    </rewrite>
     <!-- Quest objectives -->
     <rewrite>
       <original_match>^修復に必要な素材のいずれかを&lt;NPC (\d+)&gt;に渡す$</original_match>

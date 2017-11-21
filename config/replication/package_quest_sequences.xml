@@ -7,7 +7,7 @@
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)食料運搬$</original_match>
+      <original_match>^(.+)へ食料運搬$</original_match>
       <translation_replace>{0} Food Transport</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
