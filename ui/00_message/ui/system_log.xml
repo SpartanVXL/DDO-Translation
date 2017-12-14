@@ -1506,14 +1506,17 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_bo_get_ex</key>
     <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT BO&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT BO&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_money_get_ex</key>
     <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT G&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT G&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_rim_get_ex</key>
     <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT R&gt;を入手しました</original>
+    <translation>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT R&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_boardquest_sp_allclear_log</key>
