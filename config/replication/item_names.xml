@@ -198,6 +198,26 @@
     </rewrite>
     <!-- Misc -->
     <rewrite>
+    	<original_match>^アリストクラットバス・(.+)$</original_match>
+    	<translation_replace>Aristocrat Bath - {0}</translation_replace>
+    	<translation_arg message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
+    	<original_match>^レシピ：アリストクラットバス・(.+)$</original_match>
+    	<translation_replace>Recipe: Aristocrat Bath - {0}</translation_replace>
+    	<translation_arg message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^レシピ：(.+)$</original_match>
+      <translation_replace>Recipe: {0}</translation_replace>
+      <translation_arg message_set="item name" required="true" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^レシピ：(.+)$</original_match>
+      <translation_replace>Recipe: {0}</translation_replace>
+      <translation_arg message_set="item name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+?)【飾】$</original_match>
       <translation_replace>{0} (Decoration)</translation_replace>
       <translation_arg message_set="item name" />
@@ -211,6 +231,11 @@
       <original_match>^極・(.+?)$</original_match>
       <translation_replace>Extreme {0}</translation_replace>
       <translation_arg message_set="item name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^至高・(.+?)$</original_match>
+      <translation_replace>Supreme {0}</translation_replace>
+      <translation_arg message_set="item name" />
     </rewrite>
     <rewrite>
       <original_match>^衣装：(.+?)$</original_match>
