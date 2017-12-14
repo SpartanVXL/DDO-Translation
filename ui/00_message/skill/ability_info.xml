@@ -1040,8 +1040,11 @@ Skeleton enemies.
   </message>
   <message>
     <key>ABILITY_INFO_77</key>
-    <original>フォースゲインの攻力吸収量が増加する
+    <original>フォースゲインの攻力吸収量が大幅に増加する
 &lt;COL ffdc78&gt;LV UP毎に攻力吸収量がより増加&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--フォースゲインの攻力吸収量が増加する
+<COL ffdc78>LV UP毎に攻力吸収量がより増加</COL>-->
     <translation>Increases the rate at which you
 gain Force Gauge.
 &lt;COL ffdc78&gt;LV UP: Increases gain further.&lt;/COL&gt;</translation>
@@ -1593,8 +1596,11 @@ of allies you revive.
   </message>
   <message>
     <key>ABILITY_INFO_76</key>
-    <original>フォースガードの攻力吸収量が増加する
+    <original>フォースガード／フォースゲインの攻力吸収量が増加する
 &lt;COL ffdc78&gt;LV UP毎に攻力吸収量がより増加&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--フォースガードの攻力吸収量が増加する
+<COL ffdc78>LV UP毎に攻力吸収量がより増加</COL>-->
     <translation>Increases the attack power drain of Force Guard.
 &lt;COL ffdc78&gt;LV UP: Further increases attack power drain.&lt;/COL&gt;</translation>
   </message>

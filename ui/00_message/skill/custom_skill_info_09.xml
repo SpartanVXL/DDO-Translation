@@ -115,9 +115,14 @@ when grabbed.&lt;/COL&gt;</translation>
     <key>CUSTOM_SKILL_INFO_09_112</key>
     <original>敵を直接攻撃し、攻撃対象に付着している錬成物質を
 解放して大爆発を起こす。しがみつき状態から発動可
-&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６でヒット数増加／爆発に周囲の敵を巻き込む&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--敵を直接攻撃し、攻撃対象に付着している錬成物質を
+解放して大爆発を起こす。しがみつき状態から発動可
+<COL ff7878>戦甲へのカウンターに特化</COL>
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６でヒット数増加／爆発に周囲の敵を巻き込む</COL>-->
     <translation>Form a giant alchemical arm to strike the enemy
 directly. If it hits an alchemical stake, the attack
 will unleash alchemical substances and cause a
@@ -173,5 +178,20 @@ Can be used when climbing.</translation>
     <translation>EX Additional Effects:
 Increase status effect accumulation when detonating the
 stake struck by this skill using Elixir/Alchemical Burst.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_09_191</key>
+    <original>【ＥＸ追加効果】
+ダメージ量が増加
+黄金化の状態異常を付与
+&lt;COL ff7878&gt;人間／竜族／錬金系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_09_192</key>
+    <original>【ＥＸ追加効果】
+発動中は物理防御力と魔法防御力が増加しつつ
+攻撃を受けても体勢を崩されにくくなる
+敵に与える錬成値と吹き飛ばし力が増加
+のけぞり、吹き飛び中でも発動可能</original>
   </message>
 </resource>

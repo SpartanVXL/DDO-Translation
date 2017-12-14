@@ -41,7 +41,9 @@
   </message>
   <message>
     <key>cpf_clan_authority_setting_cap03_01</key>
-    <original>サブマスターに任命（上記の権限をすべて付与）</original>
+    <original>サブマスターに任命</original>
+    <!-- NEEDS REVIEW -->
+    <!--サブマスターに任命（上記の権限をすべて付与）-->
     <translation>Appoint as sub-master (grants all above permissions)</translation>
   </message>
   <message>
@@ -190,5 +192,9 @@
   <message>
     <key>cpf_job_emblem_cap07</key>
     <original>所持数：</original>
+  </message>
+  <message>
+    <key>cpf_clan_authority_setting_cap02_02</key>
+    <original>拠点のレイアウトを使用する権限</original>
   </message>
 </resource>

@@ -56,7 +56,10 @@
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_07_88</key>
-    <original>セットボタン押しっぱなし</original>
+    <original>セットボタン押しっぱなし
+&lt;COL ff7878&gt;溜め満了で戦甲へのカウンターに特化&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--セットボタン押しっぱなし-->
     <translation>Hold the assigned button.</translation>
   </message>
   <message>
@@ -81,5 +84,13 @@ Press the assigned button while in the air.</translation>
     <key>CUSTOM_SKILL_COMMAND_07_181</key>
     <original>セットボタンを押す</original>
     <translation>Press the assigned button.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_07_182</key>
+    <original>セットボタンを押す</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_07_183</key>
+    <original>セットボタンを押す</original>
   </message>
 </resource>

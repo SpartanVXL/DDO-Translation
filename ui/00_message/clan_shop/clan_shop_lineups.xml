@@ -2,26 +2,39 @@
   <message>
     <key>CLAN_SHOP_LINEUP_ID_18</key>
     <original>クランエンブレムの入ったフラッグを
-掲げられるようになる</original>
+掲げられるようになります</original>
+    <!-- NEEDS REVIEW -->
+    <!--クランエンブレムの入ったフラッグを
+掲げられるようになる-->
     <translation>You will be able to hoist a flag
 with the clan's emblem on it.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_19</key>
     <original>クラン拠点１階の大広間に入れるようになる
-クランクエストの高難易度ボードが設置される</original>
+クランクエストの高難易度ボードが設置されます</original>
+    <!-- NEEDS REVIEW -->
+    <!--クラン拠点１階の大広間に入れるようになる
+クランクエストの高難易度ボードが設置される-->
     <translation>You can access the first floor of the Clan Hall.
 Sets up a "High Difficulty Clan Quests" board.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_20</key>
-    <original>クラン拠点２階に行くことができる</original>
+    <original>クラン拠点２階に
+行くことができるようになります</original>
+    <!-- NEEDS REVIEW -->
+    <!--クラン拠点２階に行くことができる-->
     <translation>You can access the second floor of the Clan Hall.</translation>
   </message>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_21</key>
-    <original>クラン拠点にある隠し部屋に入れるようになる
+    <original>クラン拠点にある隠し部屋に
+入れるようになります
 </original>
+    <!-- NEEDS REVIEW -->
+    <!--クラン拠点にある隠し部屋に入れるようになる
+-->
     <translation>Reveal a hidden room at the Clan Hall.</translation>
   </message>
   <message>
@@ -144,8 +157,12 @@ It overlaps with the effects of other Expedition Support.</translation>
   <message>
     <key>CLAN_SHOP_LINEUP_ID_39</key>
     <original>探索したスポットの報酬や
-エリアポイントを持ち帰りやすくなる
+エリアポイントを持ち帰りやすくなります
 他の遠征隊支援の効果と重複します</original>
+    <!-- NEEDS REVIEW -->
+    <!--探索したスポットの報酬や
+エリアポイントを持ち帰りやすくなる
+他の遠征隊支援の効果と重複します-->
     <translation>Makes it easier for the Pawn Expedition to
 find a lot more loot and area points.
 It overlaps with the effects of other Expedition Support.</translation>
@@ -201,8 +218,38 @@ It overlaps with the effects of other Expedition Support.</translation>
 ポーン遠征隊を派遣できるようになります</original>
   </message>
   <message>
+    <key>CLAN_SHOP_LINEUP_ID_48</key>
+    <original>フェルヤナ荒原に
+ポーン遠征隊を派遣できるようになります</original>
+  </message>
+  <message>
     <key>CLAN_SHOP_LINEUP_ID_49</key>
     <original>アッカーシェラン大陸への
 ポーン遠征隊が解放されます</original>
+  </message>
+  <message>
+    <key>CLAN_SHOP_LINEUP_ID_52</key>
+    <original>クラン拠点の内装を
+変更できるようになります</original>
+  </message>
+  <message>
+    <key>CLAN_SHOP_LINEUP_ID_53</key>
+    <original>広場に
+クリスマスツリーが設置できます</original>
+  </message>
+  <message>
+    <key>CLAN_SHOP_LINEUP_ID_54</key>
+    <original>大広間に
+クリスマスカーペットが設置できます</original>
+  </message>
+  <message>
+    <key>CLAN_SHOP_LINEUP_ID_55</key>
+    <original>大広間に
+クリスマスデコレーションが設置できます</original>
+  </message>
+  <message>
+    <key>CLAN_SHOP_LINEUP_ID_56</key>
+    <original>ボード前ラウンジに
+リトル・フロストが設置できます</original>
   </message>
 </resource>

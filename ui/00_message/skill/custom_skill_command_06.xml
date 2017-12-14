@@ -68,7 +68,11 @@ charge to finish.</translation>
   <message>
     <key>CUSTOM_SKILL_COMMAND_06_79</key>
     <original>セットボタンを押して詠唱、詠唱完了で発動
-発動後、爆発が出るまでに&lt;PADM&gt;左スティック上下&lt;KEYM&gt;移動キー&lt;KC MOVE_FORWARD&gt;&lt;KC MOVE_BACKWARD&gt;&lt;/KEYM&gt;で攻撃範囲調整</original>
+発動後、一定時間攻撃範囲を&lt;PADM&gt;左スティック上下&lt;KEYM&gt;移動キー&lt;KC MOVE_FORWARD&gt;&lt;KC MOVE_BACKWARD&gt;&lt;/KEYM&gt;で調整可能
+&lt;KC TOUCH&gt;で攻撃範囲を決定</original>
+    <!-- NEEDS REVIEW -->
+    <!--セットボタンを押して詠唱、詠唱完了で発動
+発動後、爆発が出るまでに<PADM>左スティック上下<KEYM>移動キー<KC MOVE_FORWARD><KC MOVE_BACKWARD></KEYM>で攻撃範囲調整-->
     <translation>Begin casting by pressing the assigned button,
 and after the chant finishes, release to cause an explosion.
 The range of the skill can be adjusted by pressing &lt;PADM&gt;Left stick up or down.&lt;KEYM&gt;&lt;KC MOVE_FORWARD&gt; or &lt;KC MOVE_BACKWARD&gt;&lt;/KEYM&gt;</translation>
@@ -102,5 +106,13 @@ charge to finish.</translation>
     <original>セットボタンを押して詠唱、詠唱完了で発動</original>
     <translation>Charge. Press the assigned button and wait for the
 charge to finish.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_06_178</key>
+    <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_06_179</key>
+    <original>セットボタンを押して詠唱、詠唱完了で発動</original>
   </message>
 </resource>

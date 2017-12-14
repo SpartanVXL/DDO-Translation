@@ -89,9 +89,15 @@ LV.6: Increases the area of effect of the skill.&lt;/COL&gt;</translation>
     <key>CUSTOM_SKILL_INFO_10_148</key>
     <original>敵の攻撃を防ぐバリアを発現する。展開中に敵を攻撃すると
 バリアに霊力が溜まり、セットボタンで霊力を使って攻撃可能
-しがみつき状態から攻撃発動可。&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
+しがみつき状態から攻撃発動可
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇／バリア展開時間延長
 LV.６でバリアの耐久値増加（１→２）&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--敵の攻撃を防ぐバリアを発現する。展開中に敵を攻撃すると
+バリアに霊力が溜まり、セットボタンで霊力を使って攻撃可能
+しがみつき状態から攻撃発動可。<COL ff7878>戦甲へのカウンターに特化</COL>
+<COL ffdc78>LV UP毎に攻撃威力の上昇／バリア展開時間延長
+LV.６でバリアの耐久値増加（１→２）</COL>-->
     <translation>Form a barrier around yourself to prevent
 enemy attacks. When attacking enemies while the barrier is active,
 spiritual energy gathers in the barrier. You can unleash the energy
@@ -99,18 +105,6 @@ by pressing the assigned button.
 &lt;COL ff7878&gt;Effective against War-Ready enemies.&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP: Increases damage of skill and duration.
 LV.6: Increase maximum barrier durability (1→2)&lt;/COL&gt;</translation>
-    <!-- NEEDS REVIEW -->
-    <!--自身を中心に、敵の攻撃を防ぐバリアを発現させる
-展開中に敵を攻撃するとバリアに霊力が溜まり
-セットボタンを押すと霊力を使って攻撃可能
-<COL ffdc78>LV UP毎に攻撃威力の上昇／バリア展開時間延長
-LV.６でバリアの耐久値増加（１→２）</COL>-->
-    <!--translation>Form a barrier around yourself to prevent
-enemy attacks. When attacking enemies while the barrier is active,
-spiritual energy gathers in the barrier. You can unleash the energy
-by pressing the set button.
-&lt;COL ffdc78&gt;LV UP: Increases damage of skill and duration.
-LV.6: Increase maximum barrier durability (1→2)&lt;/COL&gt;</translation-->
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_10_153</key>
@@ -143,5 +137,17 @@ Increase attack buff value during Heal Boost.</translation>
     <translation>EX Additional Effects:
 Recover stamina when attacking enemies.
 Extend the duration of the pool.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_193</key>
+    <original>【ＥＸ追加効果】
+ダメージ量が増加
+&lt;COL ff7878&gt;造魔／魔族／戦甲系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_194</key>
+    <original>【ＥＸ追加効果】
+派生斬りを初段経由せずに空中で発動可能
+スピリットゲージ蓄積量が増加</original>
   </message>
 </resource>

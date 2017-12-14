@@ -46,7 +46,11 @@ Confirm the element choice by pressing &lt;KC ATTACK1&gt; or &lt;KC ATTACK2&gt;<
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_112</key>
-    <original>セットボタンを押す</original>
+    <original>セットボタンを押す
+&lt;COL ff7878&gt;錬成値が最大の状態での発動で
+戦甲へのカウンターに特化&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--セットボタンを押す-->
     <translation>
 
 Press the assigned button.</translation>
@@ -70,5 +74,13 @@ Press the assigned button.</translation>
     <key>CUSTOM_SKILL_COMMAND_09_190</key>
     <original>セットボタンを押す</original>
     <translation>Press the assigned button.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_09_191</key>
+    <original>セットボタンを押す</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_09_192</key>
+    <original>セットボタンを押す</original>
   </message>
 </resource>

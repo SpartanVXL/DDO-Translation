@@ -60,7 +60,12 @@ Further enhanced in Heal Boost mode.</translation>
     <key>CUSTOM_SKILL_COMMAND_10_148</key>
     <original>セットボタンを押す
 発現後、再度セットボタンを押すと攻撃
-アタックブーストで強化可能</original>
+アタックブーストで強化可能 
+&lt;COL ff7878&gt;バリアの霊力最大時の発動で戦甲へのカウンターに特化&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--セットボタンを押す
+発現後、再度セットボタンを押すと攻撃
+アタックブーストで強化可能-->
     <translation>Press the assigned button.
 After forming the barrier, press the assigned button
 to release energy.
@@ -84,5 +89,17 @@ Further enhanced in Heal Boost mode.</translation>
 ヒールブーストで強化可能</original>
     <translation>Press the assigned button.
 Further enhanced in Heal Boost mode.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_10_193</key>
+    <original>セットボタンを押す
+再度セットボタンを押すと派生斬り
+アタックブーストで強化可能</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_10_194</key>
+    <original>セットボタンを押す
+再度セットボタンを押すと派生斬り
+アタックブーストで強化可能</original>
   </message>
 </resource>

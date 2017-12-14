@@ -128,8 +128,14 @@ LV.6: Increases the maximum number of attacks (7→11).&lt;/COL&gt;</translation
     <key>CUSTOM_SKILL_INFO_07_91</key>
     <original>高く跳躍し、一点集中で力強く大剣を突き立てる
 攻撃範囲は狭いが威力は絶大
+落下距離により威力が上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--高く跳躍し、一点集中で力強く大剣を突き立てる
+攻撃範囲は狭いが威力は絶大
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加</COL>-->
     <translation>Jump high upward, viciously thrusting the blade at
 a concentrated point with great force. The attack's
 range is very narrow, but it carries tremendous power.
@@ -139,9 +145,13 @@ LV.6: Increases number of hits.&lt;/COL&gt;</translation>
   <message>
     <key>CUSTOM_SKILL_INFO_07_88</key>
     <original>力を十分に溜めた後、渾身の一撃を繰り出す
-&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で剣に風圧が追加／攻撃ヒット数増加&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--力を十分に溜めた後、渾身の一撃を繰り出す
+<COL ff7878>戦甲へのカウンターに特化</COL>
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で剣に風圧が追加／攻撃ヒット数増加</COL>-->
     <translation>After channeling enough energy, release
 a devastating slash with your body's entire might.
 &lt;COL ff7878&gt;Effective against War-Ready enemies.&lt;/COL&gt;
@@ -197,5 +207,20 @@ Further increase damage when revenge gauge is full.
     <translation>EX Additional Effects:
 If this skill is used before being hit, damage increases and
 revenge gauge increases as you hit enemies.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_182</key>
+    <original>【ＥＸ追加効果】
+ダメージ量が増加
+気絶攻力が増加
+攻撃回数が増加（１→２）
+２回目の攻撃はボタン長押しで溜め可能</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_183</key>
+    <original>【ＥＸ追加効果】
+チャンス攻力がやや増加
+疲労攻力がやや増加
+&lt;COL ff7878&gt;戦甲を攻撃時、ダメージ量が増加&lt;/COL&gt;</original>
   </message>
 </resource>

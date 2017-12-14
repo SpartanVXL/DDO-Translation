@@ -919,8 +919,20 @@
     <translation>About Custom-Made Workshop</translation>
   </message>
   <message>
+    <key>TUTORIAL_360</key>
+    <original>ジフール砦攻略戦</original>
+  </message>
+  <message>
+    <key>TUTORIAL_361</key>
+    <original>誘う眼 限界域</original>
+  </message>
+  <message>
     <key>TUTORIAL_362</key>
     <original>絶望の大陸 序節　到達</original>
+  </message>
+  <message>
+    <key>TUTORIAL_363</key>
+    <original>絶望の大陸 第二節　到達</original>
   </message>
   <message>
     <key>TUTORIAL_364</key>
@@ -943,6 +955,10 @@
     <translation>Emblem Stones</translation>
   </message>
   <message>
+    <key>TUTORIAL_368</key>
+    <original>クラン拠点専用家具</original>
+  </message>
+  <message>
     <key>TUTORIAL_369</key>
     <original>戦甲種について：小型敵</original>
     <translation>About Armored Battles: Small Enemies</translation>
@@ -961,6 +977,38 @@
     <key>TUTORIAL_372</key>
     <original>ドワーフオークについて</original>
     <translation>About Dwarf Orc</translation>
+  </message>
+  <message>
+    <key>TUTORIAL_373</key>
+    <original>敵地への潜入とソネルのごきげん</original>
+  </message>
+  <message>
+    <key>TUTORIAL_374</key>
+    <original>ソネルを誘導する</original>
+  </message>
+  <message>
+    <key>TUTORIAL_375</key>
+    <original>警備が厳重な場所</original>
+  </message>
+  <message>
+    <key>TUTORIAL_376</key>
+    <original>身を伏せて移動する</original>
+  </message>
+  <message>
+    <key>TUTORIAL_377</key>
+    <original>使命の達成度とサブストーリーログ</original>
+  </message>
+  <message>
+    <key>TUTORIAL_378</key>
+    <original>テントの細工</original>
+  </message>
+  <message>
+    <key>TUTORIAL_379</key>
+    <original>細工成功後の選択</original>
+  </message>
+  <message>
+    <key>TUTORIAL_380</key>
+    <original>門の攻略</original>
   </message>
   <message>
     <key>TUTORIAL_381</key>
@@ -985,5 +1033,9 @@
   <message>
     <key>TUTORIAL_385</key>
     <original>武具の極限合成</original>
+  </message>
+  <message>
+    <key>TUTORIAL_386</key>
+    <original>スペシャルクエストボード</original>
   </message>
 </resource>

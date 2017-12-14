@@ -347,7 +347,9 @@
   </message>
   <message>
     <key>FUNC_SELECT_NAME_75</key>
-    <original>Lv80にする</original>
+    <original>Lv.80にする</original>
+    <!-- NEEDS REVIEW -->
+    <!--Lv80にする-->
     <translation>Become LV.80</translation>
   </message>
   <message>
@@ -374,5 +376,13 @@
     <key>FUNC_SELECT_NAME_81</key>
     <original>おでかけ支援サービス</original>
     <translation>Outing Support Service</translation>
+  </message>
+  <message>
+    <key>FUNC_SELECT_NAME_83</key>
+    <original></original>
+  </message>
+  <message>
+    <key>FUNC_SELECT_NAME_84</key>
+    <original>プレゼント報酬確認</original>
   </message>
 </resource>

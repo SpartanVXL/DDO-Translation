@@ -1499,4 +1499,30 @@ CP報酬の有効クリア回数が上限に達しました</original>
     <original>報酬ボックスのアイテム枠が残り少なくなっています
 報酬件数に関わらず古い報酬を失う可能性があります</original>
   </message>
+  <message>
+    <key>syslog_action_fog_clear</key>
+    <original>殲滅に成功　異界の霧が晴れてゆく――</original>
+  </message>
+  <message>
+    <key>syslog_bo_get_ex</key>
+    <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT BO&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_money_get_ex</key>
+    <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT G&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_rim_get_ex</key>
+    <original>&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT R&gt;を入手しました</original>
+  </message>
+  <message>
+    <key>syslog_boardquest_sp_allclear_log</key>
+    <original>このクエストボードから配信されている
+すべてのクエストを一括してクリア状態にしました</original>
+  </message>
+  <message>
+    <key>syslog_hardboardquest_reload_log</key>
+    <original>スペシャルクエストボードがリロードされました
+（本日&lt;VAL&gt;回目）</original>
+  </message>
 </resource>

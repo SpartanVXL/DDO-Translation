@@ -1,6 +1,49 @@
 ﻿<resource>
   <message>
     <key>TUTORIAL_STEP_663</key>
-    <original>仮！</original>
+    <original>潜入任務中は
+&lt;COL ffdc78&gt;障害物の影に隠れながら進む&lt;/COL&gt;ことが
+基本となりますが、時には&lt;COL ffdc78&gt;見張りをやり過ごさないと
+進めない場所&lt;/COL&gt;もあるでしょう
+
+その際、ソネルが同行していると
+&lt;COL ffdc78&gt;移動のタイミングの合図&lt;/COL&gt;を出すようにと
+指示がある場合があります</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_706</key>
+    <original>＜移動タイミングの合図を出す＞
+
+　①まず、先にあなたが指定された位置まで
+　　&lt;COL ffdc78&gt;敵に見つからないように&lt;/COL&gt;進みます
+
+　　見張りの動きをよく観察し、
+　　&lt;COL ffdc78&gt;十分距離が離れた状態で背を向けたら&lt;/COL&gt;
+　　すばやく移動します
+　　（離れた位置で背を向けて
+　　　&lt;COL ffdc78&gt;立ち止まっている時&lt;/COL&gt;がチャンスです）</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_707</key>
+    <original>　②指定された位置まで移動したら
+　　&lt;COL ffdc78&gt;《手招き》のエモートでソネルに合図&lt;/COL&gt;を出します
+
+　　合図を確認すると&lt;COL ffdc78&gt;ソネルが移動を開始&lt;/COL&gt;します
+
+　　敵に見つからずに要所を渡り切ることが
+　　できれば成功です</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_708</key>
+    <original>＜《手招き》エモートの出し方＞
+
+　【&lt;KC UI_GAME_MENU&gt;】ゲームメニュー《コミュニケーション》から
+　《エモート》を選択し、左に表示される
+　《&lt;COL ffdc78&gt;Category&lt;/COL&gt;》から　《&lt;COL ffdc78&gt;アクション・１&lt;/COL&gt;》を選びます
+
+　右側のリストから《&lt;COL ffdc78&gt;手招き&lt;/COL&gt;》を選択すると
+　それが合図となります
+
+　&lt;COL ffdc78&gt;※《ショートカット登録》をしておくと便利です&lt;/COL&gt;</original>
   </message>
 </resource>

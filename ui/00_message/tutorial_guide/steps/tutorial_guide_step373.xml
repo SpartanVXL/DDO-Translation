@@ -1,6 +1,42 @@
 ﻿<resource>
   <message>
     <key>TUTORIAL_STEP_662</key>
-    <original>仮！</original>
+    <original>展望城でのサブストーリーでは、軍師ソネルとの
+&lt;COL ffdc78&gt;潜入任務&lt;/COL&gt;が基本となります
+
+敵に見つからないようにするために
+&lt;COL ffdc78&gt;いつもと違った行動&lt;/COL&gt;が必要になるので
+ソネルの指示をしっかりと聞きながら進みましょう</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_702</key>
+    <original>また、潜入任務中はソネルの&lt;COL ffdc78&gt;《ごきげんゲージ》&lt;/COL&gt;にも
+気を配る必要があります
+
+《ごきげんゲージ》はソネルの頭上と
+画面右のクエスト名の上に表示される&lt;COL ffdc78&gt;黄色のゲージ&lt;/COL&gt;で
+ソネルのごきげんの状態を示します</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_703</key>
+    <original>敵に見つかるなど
+&lt;COL ffdc78&gt;潜入任務がうまくいかない時&lt;/COL&gt;に減少します
+
+万が一戦闘になった場合、敵の攻撃でダメージを
+受けることでも減少します</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_704</key>
+    <original>&lt;COL ffdc78&gt;《ごきげんゲージ》が０になる&lt;/COL&gt;と
+ソネルは任務遂行をあきらめてしまい
+そのクエストは失敗となります
+
+失敗すると、&lt;COL ffdc78&gt;もう一度展望城から出直す&lt;/COL&gt;
+ことになりますが、クリアまで何度でも挑戦できます</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_705</key>
+    <original>&lt;COL ffdc78&gt;リム転移で別の場所へ移動&lt;/COL&gt;しても
+失敗となるため注意しましょう</original>
   </message>
 </resource>

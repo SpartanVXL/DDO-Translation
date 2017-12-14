@@ -28,7 +28,13 @@ LV.6: Increases number of targets (2→4).&lt;/COL&gt;</translation>
 のある魔法球を展開する（対不死には攻撃）
 味方に接触させれば魔法球が吸着する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費減少
-LV.６でターゲット数増加（１→２）&lt;/COL&gt;</original>
+LV.６でターゲット数増加（２→３）&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--魔矢を放ち、着弾地点に一部の状態異常回復効果
+のある魔法球を展開する（対不死には攻撃）
+味方に接触させれば魔法球が吸着する
+<COL ffdc78>LV UP毎にスタミナ消費減少
+LV.６でターゲット数増加（１→２）</COL>-->
     <translation>Fire magickal arrows that emit an area of debilitation
 recovery at the impact point. (Inflicts damage to undead)
 The field will attach to an ally if the arrow makes contact.
@@ -194,5 +200,19 @@ Continuously cause damage at the point the arrow landed.</translation>
     <translation>EX Additional Effects:
 Increase status effect accumulation when attacking enemies hit by
 this skill.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_186</key>
+    <original>【ＥＸ追加効果】
+ダメージが追加
+吹き飛ばし力が増加
+魔矢の速度が上昇</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_08_187</key>
+    <original>【ＥＸ追加効果】
+ダメージが追加
+封印の状態異常を付与／気絶攻力が増加
+魔矢の速度が上昇</original>
   </message>
 </resource>

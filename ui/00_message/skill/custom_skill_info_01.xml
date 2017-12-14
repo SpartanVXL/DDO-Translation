@@ -65,9 +65,14 @@ When an attack is evaded, increases number of hits.&lt;/COL&gt;</translation>
   <message>
     <key>CUSTOM_SKILL_INFO_01_9</key>
     <original>跳躍し、鋭い一撃を放って下方に突き立てる
-&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
+落下距離により威力が上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
+LV.６で攻撃ヒット数増加&lt;/COL&gt; </original>
+    <!-- NEEDS REVIEW -->
+    <!--跳躍し、鋭い一撃を放って下方に突き立てる
+<COL ff7878>戦甲へのカウンターに特化</COL>
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加</COL>-->
     <translation>Leap forward and stab your sword into the ground.
 &lt;COL ff7878&gt;Effective against War-Ready enemies.&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP: Increases damage.
@@ -198,5 +203,19 @@ Extend the range of the attack.
 Increase blow power.
 Slightly increase damage.
 Slightly increase chance attack and fatigue attack.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_174</key>
+    <original>【ＥＸ追加効果】
+ダメージ量が増加
+吹き飛ばし力が増加
+気絶攻力が増加</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_175</key>
+    <original>【ＥＸ追加効果】
+ダメージ量がやや増加
+チャンス攻力と疲労攻力が増加
+攻撃範囲がやや拡張</original>
   </message>
 </resource>
