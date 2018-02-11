@@ -860,6 +860,11 @@
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)の盗賊アジトへ向かう$</original_match>
+      <translation_replace>Head to the bandit hideout in {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)へ向かう$</original_match>
       <translation_replace>Head to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
