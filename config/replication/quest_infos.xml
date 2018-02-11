@@ -179,11 +179,11 @@
     </rewrite>
     <rewrite>
       <original_match>^＜(\d+)時から(\d+)時＞の間に依頼者から詳細を聞く$</original_match>
-      <translation_replace>Enquire details from the requester from "{0} to {1} GT"</translation_replace>
+      <translation_replace>Inquire details from the requester from "{0} to {1} GT"</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^＜(.+)＞時に依頼者から詳細を聞く$</original_match>
-      <translation_replace>Enquire details from the requester during "{0}" weather</translation_replace>
+      <translation_replace>Inquire details from the requester during "{0}" weather</translation_replace>
       <translation_arg message_set="weather adjective" />
     </rewrite>
     <rewrite>
@@ -285,20 +285,20 @@
       <translation_replace>Obtain {0:d!}"{0}"</translation_replace>
       <translation_arg message_set="item name" />
     </rewrite>
-    <!-- Enquire details from -->
+    <!-- Inquire details from -->
     <rewrite>
       <original_match>^&lt;STG (\d+)&gt;に向かい&lt;NPC (\d+)&gt;から詳細を聞く$</original_match>
-      <translation_replace>Head to &lt;STG {0}&gt; and enquire details from &lt;NPC {1}&gt;</translation_replace>
+      <translation_replace>Head to &lt;STG {0}&gt; and inquire details from &lt;NPC {1}&gt;</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^(.+)にいる(.+)から詳細を聞く$</original_match>
-      <translation_replace>Enquire details from {1:d} in {0:d}</translation_replace>
+      <translation_replace>Inquire details from {1:d} in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)から詳細を聞く$</original_match>
-      <translation_replace>Enquire details from {0:d}</translation_replace>
+      <translation_replace>Inquire details from {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Confirm with/Confirm details from -->
@@ -960,10 +960,6 @@
     <rewrite>
       <original_match>^(依頼者|依頼人)に報告する$</original_match>
       <translation_replace>Report to the requester</translation_replace>
-    </rewrite>
-    <rewrite>
-      <original_match>^エリアマスターに報告する$</original_match>
-      <translation_replace>Report to the Area Master</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^エリアマスターの&lt;NPC (\d+)&gt;に報告する$</original_match>
