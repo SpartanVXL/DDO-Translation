@@ -285,6 +285,11 @@
       <translation_replace>Obtain {0:d!}"{0}"</translation_replace>
       <translation_arg message_set="item name" />
     </rewrite>
+    <rewrite>
+      <original_match>^《(.+)》を入手する$</original_match>
+      <translation_replace>Obtain "{0}"</translation_replace>
+      <translation_arg message_set="item name" />
+    </rewrite>
     <!-- Inquire details from -->
     <rewrite>
       <original_match>^&lt;STG (\d+)&gt;に向かい&lt;NPC (\d+)&gt;から詳細を聞く$</original_match>
