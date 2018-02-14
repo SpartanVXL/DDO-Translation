@@ -268,7 +268,7 @@
       <translation_arg index="1" message_set="item weapon suffix" required="true" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)(マスク|コイフ|ヘルム|アーマー|プレート|ガントレット|グローブ|サバトン|グリーブ)$</original_match>
+      <original_match>^(.+)(マスク|コイフ|ヘルム|アーメット|ミトラ|アーマー|プレート|ガントレット|グローブ|ハンズ|サバトン|グリーブ|ブーツ)$</original_match>
       <translation_replace>{0} {1}</translation_replace>
       <translation_arg index="0" message_set="item armor prefix" required="true" />
       <translation_arg index="1" message_set="item armor suffix" required="true" />

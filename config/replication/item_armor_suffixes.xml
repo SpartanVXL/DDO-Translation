@@ -13,6 +13,14 @@
       <translation>Helm</translation>
     </extra>
     <extra>
+      <original>アーメット</original>
+      <translation>Armet</translation>
+    </extra>
+    <extra>
+      <original>ミトラ</original>
+      <translation>Mitre</translation>
+    </extra>
+    <extra>
       <original>アーマー</original>
       <translation>Armor</translation>
     </extra>
@@ -20,13 +28,27 @@
       <original>プレート</original>
       <translation>Plate</translation>
     </extra>
+    <!-- Could be either Robe or Gloves, so disabled -->
+    <!--<extra>
+      <original>ローブ</original>
+      <translation>Robe</translation>
+    </extra>-->
     <extra>
       <original>ガントレット</original>
       <translation>Gauntlets</translation>
     </extra>
+    <!-- Could be either Robe or Gloves, so disabled -->
+    <!--<extra>
+      <original>ローブ</original>
+      <translation>Gloves</translation>
+    </extra>-->
     <extra>
       <original>グローブ</original>
       <translation>Gloves</translation>
+    </extra>
+    <extra>
+      <original>ハンズ</original>
+      <translation>Hands</translation>
     </extra>
     <extra>
       <original>サバトン</original>
@@ -35,6 +57,10 @@
     <extra>
       <original>グリーブ</original>
       <translation>Greaves</translation>
+    </extra>
+    <extra>
+      <original>ブーツ</original>
+      <translation>Boots</translation>
     </extra>
   </message_set>
 </replication>
