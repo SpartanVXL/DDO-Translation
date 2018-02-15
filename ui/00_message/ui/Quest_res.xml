@@ -354,12 +354,12 @@
   <message>
     <key>QUEST_MSG_BONUS_REWARD_XP</key>
     <original>経験値報酬が%2.1f倍（%s）</original>
-    <translation>x%2.1f Experience Point reward （%s）</translation>
+    <translation>x%2.1f Experience Point reward (%s)</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_AP</key>
     <original>エリアポイント報酬が%2.1f倍（%s）</original>
-    <translation>x%2.1f Area Point reward （%s）</translation>
+    <translation>x%2.1f Area Point reward (%s)</translation>
   </message>
   <message>
     <key>QUEST_MSG_BONUS_REWARD_RIM</key>
@@ -412,12 +412,12 @@
   <message>
     <key>QUEST_MSG_PARTYB_ON1</key>
     <original>パーティークリアボーナス対象</original>
-    <translation>Party clear bonus target</translation>
+    <translation>Party Clear Bonus Target</translation>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_OFF1</key>
     <original>パーティークリアボーナス対象(取得済)</original>
-    <translation>Party clear bonus target (already acquired)</translation>
+    <translation>Party Clear Bonus Target (already acquired)</translation>
   </message>
   <message>
     <key>QUEST_MSG_PARTYB_ON2</key>
@@ -476,7 +476,7 @@
   <message>
     <key>QUEST_MSG_BN_UNDETECTED1</key>
     <original>未公開ボーナス(取得済)</original>
-    <translation>Hidden Bonus (Acquired)</translation>
+    <translation>Hidden Bonus (acquired)</translation>
   </message>
   <message>
     <key>QUEST_MSG_BN_TIMEBONUS</key>
