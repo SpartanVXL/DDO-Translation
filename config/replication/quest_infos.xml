@@ -150,6 +150,12 @@
       <translation_replace>Deliver the needed materials for repair to &lt;NPC {0}&gt;</translation_replace>
     </rewrite>
     <rewrite>
+      <original_match>^(.+)に《(.+)》を納品する$</original_match>
+      <translation_replace>Deliver "{1}" to {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="item name" />
+    </rewrite>
+    <rewrite>
       <original_match>^見つけた素材を(.+)の&lt;NPC (\d+)&gt;に渡す$</original_match>
       <translation_replace>Deliver the located materials to &lt;NPC {1}&gt; in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
@@ -286,9 +292,42 @@
       <translation_arg message_set="item name" />
     </rewrite>
     <rewrite>
+      <original_match>^鑑定交換で《(.+)》を入手する$</original_match>
+      <translation_replace>Obtain "{0}" at Appraisal Exchange</translation_replace>
+      <translation_arg message_set="item name" />
+    </rewrite>
+    <rewrite>
       <original_match>^《(.+)》を入手する$</original_match>
       <translation_replace>Obtain "{0}"</translation_replace>
       <translation_arg message_set="item name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の前で＜(.+)＞のエモートをする$</original_match>
+      <translation_replace>Do the "{1}" emote in front of {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="emote name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の覚悟を聞く$</original_match>
+      <translation_replace>Hear {0:d}'s preparedness</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Advice -->
+    <rewrite>
+      <original_match>^(.+)のアドバイスを聞く$</original_match>
+      <translation_replace>Hear {0:d}'s advice</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)と(.+)にアドバイスを聞く$</original_match>
+      <translation_replace>Hear advice from {0:d} and {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)にアドバイスを聞く$</original_match>
+      <translation_replace>Hear advice from {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Inquire details from -->
     <rewrite>
@@ -326,6 +365,32 @@
     <rewrite>
       <original_match>^&lt;STG (\d+)&gt;に向かい&lt;NPC (\d+)&gt;から詳細を確認する$</original_match>
       <translation_replace>Head to &lt;STG {0}&gt; and confirm details from &lt;NPC {1}&gt;</translation_replace>
+    </rewrite>
+    <!-- Consult with -->
+    <rewrite>
+      <original_match>^&lt;STG (\d+)&gt;の&lt;NPC (\d+)&gt;に相談する$</original_match>
+      <translation_replace>Consult &lt;NPC {1}&gt; in &lt;STG {0}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)にオシャレの相談をしに行く$</original_match>
+      <translation_replace>Head to and consult with the fashionable {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を確認しに行く$</original_match>
+      <translation_replace>Head to and check {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の(.+)に相談する$</original_match>
+      <translation_replace>Consult {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に相談する$</original_match>
+      <translation_replace>Consult with {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Speak with -->
     <ignore>^水林の桟橋にいる船頭のトレアサと話す$</ignore>
