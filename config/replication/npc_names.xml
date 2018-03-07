@@ -8,6 +8,11 @@
       <translation_arg message_set="location name" required="true" />
     </rewrite>
     <extra>
+      <original>兵士</original>
+      <translation>Soldier</translation>
+      <translation_format proper="false">soldier</translation_format>
+    </extra>
+    <extra>
       <original>エリアマスター</original>
       <translation>Area Master</translation>
       <translation_format proper="false" />
@@ -15,6 +20,10 @@
     <extra>
       <original>メイロワ将軍</original>
       <translation>General Meirova</translation>
+    </extra>
+    <extra>
+      <original>ネド王子</original>
+      <translation>Prince Nedo</translation>
     </extra>
   </message_set>
 </replication>
