@@ -167,11 +167,6 @@
       <translation_arg index="0" message_set="location name" />
     </rewrite>
     <rewrite>
-      <original_match>^＜\s*(.+?)\s*＞に向かう$</original_match>
-      <translation_replace>Go to "{0}"</translation_replace>
-      <translation_arg message_set="location name" />
-    </rewrite>
-    <rewrite>
       <original_match>^＜\s*(.+?)\s*＞の敵を討伐する$</original_match>
       <translation_replace>Defeat the enemies in "{0}"</translation_replace>
       <translation_arg message_set="location name" />
@@ -719,6 +714,16 @@
       <translation_replace>Head to nest at the summit near the chapel</translation_replace>
     </rewrite>
     <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^オーク軍本隊のいる場所に向かう$</original_match>
+      <translation_replace>Head to the location of the Orc main force</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^開いた大扉の先に向かう$</original_match>
+      <translation_replace>Head through the open huge doors</translation_replace>
+    </rewrite>
+    <rewrite>
       <original_match>^プレイポイントを獲得するため&lt;STG (\d+)&gt;へ向かう</original_match>
       <translation_replace>Head to &lt;STG {0}&gt; in order to acquire Play Points</translation_replace>
     </rewrite>
@@ -848,13 +853,25 @@
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)の(.+)のもとに向かう$</original_match>
+      <translation_replace>Head to {1:d}'s location in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)にある＜(.+)＞へ向かう$</original_match>
       <translation_replace>Head to "{1}" in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)にある(.+)へ向かう$</original_match>
+      <original_match>^(.+)の奥深くにある(.+)に向かう$</original_match>
+      <translation_replace>Head to {1:d} deep within {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)にある(.+)(へ|に)向かう$</original_match>
       <translation_replace>Head to {1:d} in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="location name" />
@@ -944,7 +961,12 @@
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^＜(.+)＞へ向かう$</original_match>
+      <original_match>^＜\s*(.+?)\s*＞の表層(へ|に)向かう$</original_match>
+      <translation_replace>Head to the surface level of "{0}"</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜\s*(.+?)\s*＞(へ|に)向かう$</original_match>
       <translation_replace>Head to "{0}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
@@ -964,7 +986,20 @@
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)へ向かう$</original_match>
+      <original_match>^(.+)と話して(.+)へ向かう$</original_match>
+      <translation_replace>Head to {1:d} and speak with {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)、(.+)と共に(.+)に向かう$</original_match>
+      <translation_replace>Head to {2:d} with {0:d} and {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+      <translation_arg index="2" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(へ|に)向かう$</original_match>
       <translation_replace>Head to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
@@ -976,6 +1011,11 @@
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <!-- Find -->
+    <rewrite>
+      <original_match>^(.+)内で魔物を探す$</original_match>
+      <translation_replace>Search for monsters within {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
     <rewrite>
       <original_match>^(.+?)を探す$</original_match>
       <translation_replace>Find {0:d}</translation_replace>
@@ -1002,6 +1042,11 @@
       <translation_replace>Rendezvous with {1:d} before the gate at {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^城壁にいる(.+)と合流する$</original_match>
+      <translation_replace>Rendezvous with {0:d} on the rampart</translation_replace>
+      <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^目的地で(.+)と合流する$</original_match>
@@ -1086,6 +1131,10 @@
     <rewrite>
       <original_match>^&lt;STG (\d+)&gt;\s*(の|にいる)&lt;NPC (\d+)&gt;に報告する$</original_match>
       <translation_replace>Report to &lt;NPC {2}&gt; in &lt;STG {0}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;STG (\d+)&gt;(へ戻り|に戻り)&lt;NPC (\d+)&gt;に報告する$</original_match>
+      <translation_replace>Return to &lt;STG {0}&gt; and report to &lt;NPC {2}&gt;</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^(.+?)(へ戻り|に戻り)(.+?)に報告する$</original_match>
