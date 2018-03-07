@@ -444,6 +444,12 @@
       <translation_arg index="1" message_set="npc name" required="true" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)へ戻り(.+)と再度話す$</original_match>
+      <translation_replace>Return to {0:d} and speak with {1:d} again</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+?)に戻り(.+?)と話す$</original_match>
       <translation_replace>Return to {0:d} and speak with {1:d}</translation_replace>
       <translation_arg index="0" message_set="location name" required="true" />
@@ -622,6 +628,12 @@
     <rewrite>
       <original_match>^(.+)の無事を確認する$</original_match>
       <translation_replace>Check {0:d}'s safety</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Rescue -->
+    <rewrite>
+      <original_match>^(.+)を救出する$</original_match>
+      <translation_replace>Rescue {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Enter -->
@@ -920,6 +932,12 @@
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)前の(.+)の元へ向かう$</original_match>
+      <translation_replace>Head to {1:d} before {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)の(.+)の元へ向かう$</original_match>
       <translation_replace>Head to {1:d} in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
@@ -939,6 +957,11 @@
       <original_match>^(.+)の盗賊アジトへ向かう$</original_match>
       <translation_replace>Head to the bandit hideout in {0:d}</translation_replace>
       <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)と共に現地へ向かう$</original_match>
+      <translation_replace>Head to the site with {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)へ向かう$</original_match>
