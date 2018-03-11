@@ -1155,6 +1155,11 @@
       <translation_arg index="1" message_set="npc name" required="true" />
     </rewrite>
     <rewrite>
+      <original_match>^依頼者の(.+?)に報告する$</original_match>
+      <translation_replace>Report to the requester {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)(のいる|の|で|にいる)(.+?)に報告する$</original_match>
       <translation_replace>Report to {2:d} in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
