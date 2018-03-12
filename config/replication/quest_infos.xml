@@ -367,6 +367,11 @@
       <original_match>^&lt;STG (\d+)&gt;に向かい&lt;NPC (\d+)&gt;から詳細を確認する$</original_match>
       <translation_replace>Head to &lt;STG {0}&gt; and confirm details from &lt;NPC {1}&gt;</translation_replace>
     </rewrite>
+    <rewrite>
+      <original_match>^(.+)に状況を確認する$</original_match>
+      <translation_replace>Confirm situation with {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
     <!-- Consult with -->
     <rewrite>
       <original_match>^&lt;STG (\d+)&gt;の&lt;NPC (\d+)&gt;に相談する$</original_match>
@@ -395,6 +400,16 @@
     </rewrite>
     <!-- Speak with -->
     <ignore>^水林の桟橋にいる船頭のトレアサと話す$</ignore>
+    <rewrite>
+      <original_match>^(.+)村の住民に話しかける$</original_match>
+      <translation_replace>Speak with residents of {0:d} village</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の住民に話しかける$</original_match>
+      <translation_replace>Speak with the residents of {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
     <rewrite>
       <original_match>^&lt;NPC (\d+)&gt;と話し、(.+)に戻る$</original_match>
       <translation_replace>Speak with &lt;NPC {0}&gt; and return to {1:d}</translation_replace>
