@@ -1527,13 +1527,14 @@ CP報酬の有効クリア回数が上限に達しました</original>
     <key>syslog_boardquest_sp_allclear_log</key>
     <original>このクエストボードから配信されている
 すべてのクエストを一括してクリア状態にしました</original>
-    <translation>All quests posted to this Quest Board have been cleared.</translation>
+    <translation>All quests posted to this Quest Board
+have been cleared.</translation>
   </message>
   <message>
     <key>syslog_hardboardquest_reload_log</key>
     <original>スペシャルクエストボードがリロードされました
 （本日&lt;VAL&gt;回目）</original>
-    <translation>Special Quest Board has been reloaded.
-(&lt;VAL&gt; time today)</translation>
+    <translation>Special Quest Board has been
+reloaded. (&lt;VAL&gt; time today)</translation>
   </message>
 </resource>
