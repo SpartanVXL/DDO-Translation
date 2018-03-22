@@ -37,34 +37,16 @@
     </rewrite>
     <!-- Augment crests -->
     <rewrite>
-      <original_match>^(.+?) LV.1$</original_match>
-      <translation_replace>{0} LV.1</translation_replace>
-      <translation_arg message_set="ability name" />
+      <original_match>^(.+?) LV.(.+)$</original_match>
+      <translation_replace>{0} LV.{1}</translation_replace>
+      <translation_arg index="0" message_set="ability name" />
+      <translation_arg index="1" message_set="numbers" required="true" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+?) LV.2$</original_match>
-      <translation_replace>{0} LV.2</translation_replace>
-      <translation_arg message_set="ability name" />
-    </rewrite>
-    <rewrite>
-      <original_match>^(.+?) LV.3$</original_match>
-      <translation_replace>{0} LV.3</translation_replace>
-      <translation_arg message_set="ability name" />
-    </rewrite>
-    <rewrite>
-      <original_match>^(.+?) LV.4$</original_match>
-      <translation_replace>{0} LV.4</translation_replace>
-      <translation_arg message_set="ability name" />
-    </rewrite>
-    <rewrite>
-      <original_match>^(.+?) LV.5$</original_match>
-      <translation_replace>{0} LV.5</translation_replace>
-      <translation_arg message_set="ability name" />
-    </rewrite>
-    <rewrite>
-      <original_match>^(.+?) LV.6$</original_match>
-      <translation_replace>{0} LV.6</translation_replace>
-      <translation_arg message_set="ability name" />
+      <original_match>^(.+?)Lv(.+)$</original_match>
+      <translation_replace>{0} LV.{1}</translation_replace>
+      <translation_arg index="0" message_set="ability name" required="true" />
+      <translation_arg index="1" message_set="numbers" required="true" />
     </rewrite>
     <!-- Crest modifiers -->
     <rewrite>
@@ -198,14 +180,14 @@
     </rewrite>
     <!-- Misc -->
     <rewrite>
-    	<original_match>^アリストクラットバス・(.+)$</original_match>
-    	<translation_replace>Aristocrat Bath - {0}</translation_replace>
-    	<translation_arg message_set="npc name" required="true" />
+      <original_match>^アリストクラットバス・(.+)$</original_match>
+      <translation_replace>Aristocrat Bath - {0}</translation_replace>
+      <translation_arg message_set="npc name" required="true" />
     </rewrite>
     <rewrite>
-    	<original_match>^レシピ：アリストクラットバス・(.+)$</original_match>
-    	<translation_replace>Recipe: Aristocrat Bath - {0}</translation_replace>
-    	<translation_arg message_set="npc name" required="true" />
+      <original_match>^レシピ：アリストクラットバス・(.+)$</original_match>
+      <translation_replace>Recipe: Aristocrat Bath - {0}</translation_replace>
+      <translation_arg message_set="npc name" required="true" />
     </rewrite>
     <rewrite>
       <original_match>^レシピ：(.+)$</original_match>
@@ -242,10 +224,31 @@
       <translation_replace>Outfit: {0}</translation_replace>
       <translation_arg message_set="npc name" required="true" />
     </rewrite>
+    <rewrite>
+      <original_match>^飛翔のピアス・極【(.+)】$</original_match>
+      <translation_replace>Earrings of Soaring - Extreme ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^快走のピアス・極【(.+)】$</original_match>
+      <translation_replace>Earrings of Dashing - Extreme ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)・極【(.+)】$</original_match>
+      <translation_replace>{0} - Extreme ({1})</translation_replace>
+      <translation_arg index="0" message_set="item name" required="true" />
+      <translation_arg index="1" message_set="job name" />
+    </rewrite>
     <rewrite soft="true">
       <original_match>^(.+)$</original_match>
       <translation_replace>{0}</translation_replace>
       <translation_arg message_set="arisen card background name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^髪のパーツEX(.+)$</original_match>
+      <translation_replace>Hair Part EX{0}</translation_replace>
+      <translation_arg message_set="numbers" />
     </rewrite>
     <!-- Crest defaults -->
     <rewrite soft="true">
