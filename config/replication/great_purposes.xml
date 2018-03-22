@@ -13,7 +13,7 @@
     </rewrite>
     <rewrite>
       <original_match>^エピタフロード《(.+)》を攻略せよ！$</original_match>
-      <translation_replace>Capture The Epitaph Road "{0}"!</translation_replace>
+      <translation_replace>Capture the Epitaph Road "{0}"!</translation_replace>
       <translation_arg message_set="area name" />
     </rewrite>
     <rewrite>
