@@ -23,6 +23,10 @@
   </message_set>
   <message_set name="location dungeon subarea name">
     <extra>
+      <original>地下牢</original>
+      <translation>Dungeon</translation>
+    </extra>
+    <extra>
       <original>脇道</original>
       <translation>Byway</translation>
     </extra>
@@ -41,6 +45,10 @@
     <extra>
       <original>深層</original>
       <translation>Deepest Level</translation>
+    </extra>
+    <extra>
+      <original>上層</original>
+      <translation>Upper Level</translation>
     </extra>
     <extra>
       <original>下層</original>
@@ -117,6 +125,22 @@
     <extra>
       <original>中央広場</original>
       <translation>Central Square</translation>
+    </extra>
+    <extra>
+      <original>書庫</original>
+      <translation>Library</translation>
+    </extra>
+    <extra>
+      <original>聖堂</original>
+      <translation>Shrine</translation>
+    </extra>
+    <extra>
+      <original>宝物庫</original>
+      <translation>Treasury</translation>
+    </extra>
+    <extra>
+      <original>大広間</original>
+      <translation>Great Hall</translation>
     </extra>
   </message_set>
 </replication>
