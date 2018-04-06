@@ -529,7 +529,7 @@
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)(の|にいる)(.+?)と話す$</original_match>
+      <original_match>^(.+)(の|にいる|で)(.+?)と話す$</original_match>
       <translation_replace>Speak with {2:d} in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" required="true" />
       <translation_arg index="2" message_set="npc name" />
@@ -739,7 +739,7 @@
       <translation_replace>Head through the open huge doors</translation_replace>
     </rewrite>
     <rewrite>
-      <original_match>^プレイポイントを獲得するため&lt;STG (\d+)&gt;へ向かう</original_match>
+      <original_match>^プレイポイントを獲得するため&lt;STG (\d+)&gt;へ向かう$</original_match>
       <translation_replace>Head to &lt;STG {0}&gt; in order to acquire Play Points</translation_replace>
     </rewrite>
     <rewrite>
@@ -892,7 +892,7 @@
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)との待ち合わせ場所へ向かう</original_match>
+      <original_match>^(.+)との待ち合わせ場所へ向かう$</original_match>
       <translation_replace>Head to {0:d}'s meeting place</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
@@ -1018,6 +1018,12 @@
       <translation_replace>Head to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
+    <!-- Storm into -->
+    <rewrite>
+      <original_match>^(.+)へ突入する$</original_match>
+      <translation_replace>Storm into {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
     <!-- Look for -->
     <rewrite>
       <original_match>^(.+)に入り(.+?)を捜す$</original_match>
@@ -1075,7 +1081,12 @@
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)前で(.+)と合流する$</original_match>
+      <original_match>^秘密の扉の前で(.+?)(達)?と合流する$</original_match>
+      <translation_replace>Rendezvous with {0:d} before the secret door</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)前で(.+?)(達)?と合流する$</original_match>
       <translation_replace>Rendezvous with {1:d} in front of {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
@@ -1092,7 +1103,7 @@
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)と合流する$</original_match>
+      <original_match>^(.+?)(達)?と合流する$</original_match>
       <translation_replace>Rendezvous with {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
