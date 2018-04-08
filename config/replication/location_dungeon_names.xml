@@ -1,10 +1,6 @@
 <replication>
   <message_set name="location dungeon area name">
     <extra>
-      <original>通路</original>
-      <translation>Passage</translation>
-    </extra>
-    <extra>
       <original>奥底</original>
       <translation>Depths</translation>
     </extra>
@@ -57,6 +53,10 @@
     <extra>
       <original>王宮層</original>
       <translation>Royal Palace Level</translation>
+    </extra>
+    <extra>
+      <original>通路</original>
+      <translation>Passage</translation>
     </extra>
     <extra>
       <original>左路</original>
@@ -137,6 +137,10 @@
     <extra>
       <original>宝物庫</original>
       <translation>Treasury</translation>
+    </extra>
+    <extra>
+      <original>武器庫</original>
+      <translation>Armory</translation>
     </extra>
     <extra>
       <original>大広間</original>
