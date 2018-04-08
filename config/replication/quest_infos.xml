@@ -144,6 +144,32 @@
       <translation_arg message_set="location name" />
       <translation_replace>Food for {0:d}</translation_replace>
     </rewrite>
+    <rewrite>
+      <original_match>^(.+)に潜入せよ$</original_match>
+      <translation_arg message_set="location name" />
+      <translation_replace>Infiltrate {0:d}</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^奪還！　(.+)$</original_match>
+      <translation_arg message_set="location name" />
+      <translation_replace>Recapture! {0}</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)と(.+)を攻略せよ$</original_match>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+      <translation_replace>Capture {0:d} and {1:d}</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を攻略せよ$</original_match>
+      <translation_arg message_set="location name" />
+      <translation_replace>Capture {0:d}</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)から捕虜を救出せよ$</original_match>
+      <translation_arg message_set="location name" />
+      <translation_replace>Rescue Prisoners from {0:d}</translation_replace>
+    </rewrite>
     <!-- Quest objectives -->
     <rewrite>
       <original_match>^修復に必要な素材のいずれかを&lt;NPC (\d+)&gt;に渡す$</original_match>
