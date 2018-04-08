@@ -229,16 +229,9 @@
     </rewrite>
     <!-- Weather restricted objectives -->
     <rewrite>
-      <original_match>^＜晴天＞の間に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
-      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {0}&gt; during "Fine" weather</translation_replace>
-    </rewrite>
-    <rewrite>
-      <original_match>^＜曇天＞の間に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
-      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {0}&gt; during "Cloudy" weather</translation_replace>
-    </rewrite>
-    <rewrite>
-      <original_match>^＜雨天＞時に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
-      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {0}&gt; during "Rainy" weather</translation_replace>
+      <original_match>^＜(.+)＞(の間|時)に&lt;AREA (\d+)&gt;で《&lt;SQDI NAME&gt;》を採取し＜&lt;SQDI NUM&gt;＞つ納品する$</original_match>
+      <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {2}&gt; during "{0}" weather</translation_replace>
+      <translation_arg index="0" message_set="weather adjective" />
     </rewrite>
     <!-- Tutorial -->
     <rewrite>
