@@ -178,7 +178,56 @@
       <translation_arg index="0" message_set="item name" required="true" />
       <translation_arg index="2" message_set="numerals" required="true" />
     </rewrite>
+    <!-- Parameters -->
+    <rewrite>
+      <original_match>^(.+)＋(\d+)$</original_match>
+      <translation_replace>{0} +{1}</translation_replace>
+      <translation_arg index="0" message_set="parameter name" required="true" />
+      <translation_arg index="1" message_set="numbers" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)＋(\d+)$</original_match>
+      <translation_replace>{0} +{1}</translation_replace>
+      <translation_arg index="0" message_set="condition name" required="true" />
+      <translation_arg index="1" message_set="numbers" />
+    </rewrite>
+    <rewrite>
+      <original_match>^装備重量軽減(.+)％$</original_match>
+      <translation_replace>Equipment Weight Reduction {0}%</translation_replace>
+      <translation_arg message_set="numbers" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)フォース(\d+)$</original_match>
+      <translation_replace>{0:c} Force {1}</translation_replace>
+      <translation_arg index="0" message_set="element name" />
+      <translation_arg index="1" message_set="numbers" />
+    </rewrite>
     <!-- Misc -->
+    <rewrite>
+      <original_match>^錆びた(.+)$</original_match>
+      <translation_replace>Rusted {0}</translation_replace>
+      <translation_arg message_set="weapon category name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^異彩を放つ錆びた(.+)$</original_match>
+      <translation_replace>Conspicuous Rusted {0}</translation_replace>
+      <translation_arg message_set="weapon category name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の鍵$</original_match>
+      <translation_replace>{0} Key</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の大鍵$</original_match>
+      <translation_replace>{0} Large Key</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の金鍵$</original_match>
+      <translation_replace>{0} Gold Key</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
     <rewrite>
       <original_match>^アリストクラットバス・(.+)$</original_match>
       <translation_replace>Aristocrat Bath - {0}</translation_replace>
@@ -239,6 +288,46 @@
       <translation_replace>{0} - Extreme ({1})</translation_replace>
       <translation_arg index="0" message_set="item name" required="true" />
       <translation_arg index="1" message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^竜彫りの秘装具【(.+)】$</original_match>
+      <translation_replace>Unidentified Dragon Trinket ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^竜彫りの秘装具Ⅱ【(.+)】$</original_match>
+      <translation_replace>Unidentified Dragon Trinket II ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^竜技のリング【(.+)】$</original_match>
+      <translation_replace>Dragon Skill Ring ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^竜技のリングⅡ【(.+)】$</original_match>
+      <translation_replace>Dragon Skill Ring II ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^竜技の腕輪【(.+)】$</original_match>
+      <translation_replace>Dragon Skill Bracelet ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^竜技の腕輪Ⅱ【(.+)】$</original_match>
+      <translation_replace>Dragon Skill Bracelet II ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^竜技のピアス【(.+)】$</original_match>
+      <translation_replace>Dragon Skill Earrings ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^竜技のピアスⅡ【(.+)】$</original_match>
+      <translation_replace>Dragon Skill Earrings II ({0})</translation_replace>
+      <translation_arg message_set="job name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^(.+)$</original_match>
