@@ -4619,6 +4619,9 @@
     <original type="Prefix">メダルコレクター</original>
     <translation type="Prefix">Medal Collector</translation>
   </named_param>
+  <named_param id="1842">
+    <original type="Prefix">メダルコレクター</original>
+  </named_param>
   <named_param id="1846">
     <original type="Prefix"></original>
   </named_param>
@@ -4665,6 +4668,9 @@
   <named_param id="1862">
     <original type="Prefix">従属</original>
     <translation type="Prefix">Subordinate</translation>
+  </named_param>
+  <named_param id="1863">
+    <original type="Prefix">従属</original>
   </named_param>
   <named_param id="1865">
     <original type="Replace">関所の番兵</original>
@@ -5070,6 +5076,9 @@
     <original type="Prefix">メダルオーナー</original>
     <translation type="Prefix">Medal Owner</translation>
   </named_param>
+  <named_param id="2043">
+    <original type="Prefix">メダルオーナー</original>
+  </named_param>
   <named_param id="2045">
     <original type="Prefix">はぐれ</original>
     <translation type="Prefix">Stray</translation>
@@ -5232,6 +5241,12 @@
   <named_param id="2108">
     <original type="Replace">お菓子大好き魔女</original>
     <translation type="Replace">Candy-loving Witch</translation>
+  </named_param>
+  <named_param id="2109">
+    <original type="Replace">レベルキャップ白竜（仮）</original>
+  </named_param>
+  <named_param id="2110">
+    <original type="Replace">レベルキャップ白竜そに２（仮）</original>
   </named_param>
   <named_param id="2111">
     <original type="Prefix">賞金首</original>
@@ -5495,6 +5510,465 @@
     <original type="Replace">怒りの働きバチ</original>
     <translation type="Replace">Worker Bee of Rage</translation>
   </named_param>
+  <named_param id="2221">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2222">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2223">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2224">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2225">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2226">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2227">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2228">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2229">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2262">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2263">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2264">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2265">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2266">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2267">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2268">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2269">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2270">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2271">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2272">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2273">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2274">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2275">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2276">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2277">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2278">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2279">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2280">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2281">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2282">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2283">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2284">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2285">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2286">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2287">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2288">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2289">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2290">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2291">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2292">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2293">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2294">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2295">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2296">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2297">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2298">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2299">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2300">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2301">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2302">
+    <original type="Prefix">塔を占領する</original>
+  </named_param>
+  <named_param id="2303">
+    <original type="Prefix">追跡</original>
+  </named_param>
+  <named_param id="2304">
+    <original type="Prefix">追跡</original>
+  </named_param>
+  <named_param id="2305">
+    <original type="Prefix">追跡</original>
+  </named_param>
+  <named_param id="2306">
+    <original type="Prefix">占領する</original>
+  </named_param>
+  <named_param id="2307">
+    <original type="Prefix">行く手を阻む</original>
+  </named_param>
+  <named_param id="2308">
+    <original type="Prefix">淀みを乱す</original>
+  </named_param>
+  <named_param id="2309">
+    <original type="Replace">淀みの混沌</original>
+  </named_param>
+  <named_param id="2310">
+    <original type="Prefix">淀みを乱す</original>
+  </named_param>
+  <named_param id="2311">
+    <original type="Prefix">眠りから覚めた</original>
+  </named_param>
+  <named_param id="2312">
+    <original type="Prefix">古精霊竜の守獣</original>
+  </named_param>
+  <named_param id="2313">
+    <original type="Prefix">古精霊竜の守獣</original>
+  </named_param>
+  <named_param id="2314">
+    <original type="Prefix">襲撃の</original>
+  </named_param>
+  <named_param id="2316">
+    <original type="Prefix">行方を阻む</original>
+  </named_param>
+  <named_param id="2317">
+    <original type="Replace">黒き戦士の家畜</original>
+  </named_param>
+  <named_param id="2318">
+    <original type="Prefix">城を占拠する</original>
+  </named_param>
+  <named_param id="2319">
+    <original type="Replace">白竜黒騎士</original>
+  </named_param>
+  <named_param id="2320">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2321">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2322">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2330">
+    <original type="Replace">メガド護衛兵？</original>
+  </named_param>
+  <named_param id="2331">
+    <original type="Replace">メガドの狂犬</original>
+  </named_param>
+  <named_param id="2332">
+    <original type="Replace">侵入したオーク</original>
+  </named_param>
+  <named_param id="2333">
+    <original type="Replace">侵入したオーク</original>
+  </named_param>
+  <named_param id="2334">
+    <original type="Replace">侵入したオーク</original>
+  </named_param>
+  <named_param id="2335">
+    <original type="Replace">憲兵隊小隊長</original>
+  </named_param>
+  <named_param id="2336">
+    <original type="Replace">憲兵隊兵士</original>
+  </named_param>
+  <named_param id="2337">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2338">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2339">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2340">
+    <original type="Replace">憲兵隊警邏小隊長</original>
+  </named_param>
+  <named_param id="2341">
+    <original type="Replace">憲兵隊兵士</original>
+  </named_param>
+  <named_param id="2342">
+    <original type="Prefix">侵入した</original>
+  </named_param>
+  <named_param id="2343">
+    <original type="Prefix">侵略する</original>
+  </named_param>
+  <named_param id="2344">
+    <original type="Prefix">侵略する</original>
+  </named_param>
+  <named_param id="2345">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2347">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2348">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2349">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2350">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2351">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2352">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2355">
+    <original type="Replace">冥府の使い魔</original>
+  </named_param>
+  <named_param id="2356">
+    <original type="Replace">冥府の獄吏</original>
+  </named_param>
+  <named_param id="2357">
+    <original type="Replace">冥府の使い魔</original>
+  </named_param>
+  <named_param id="2358">
+    <original type="Replace">冥府の悪魔</original>
+  </named_param>
+  <named_param id="2359">
+    <original type="Replace">冥府の使い魔</original>
+  </named_param>
+  <named_param id="2360">
+    <original type="Replace">冥府の獄吏</original>
+  </named_param>
+  <named_param id="2361">
+    <original type="Replace">冥府の使い魔</original>
+  </named_param>
+  <named_param id="2362">
+    <original type="Replace">奈落の王</original>
+  </named_param>
+  <named_param id="2363">
+    <original type="Replace">冥府の使い魔</original>
+  </named_param>
+  <named_param id="2364">
+    <original type="Replace">冥府の獄吏</original>
+  </named_param>
+  <named_param id="2365">
+    <original type="Replace">冥府の使い魔</original>
+  </named_param>
+  <named_param id="2366">
+    <original type="Replace">壊滅させるもの</original>
+  </named_param>
+  <named_param id="2367">
+    <original type="Replace">冥府の番人</original>
+  </named_param>
+  <named_param id="2368">
+    <original type="Replace">死を約束するもの</original>
+  </named_param>
+  <named_param id="2369">
+    <original type="Replace">屋敷の鍵番</original>
+  </named_param>
+  <named_param id="2370">
+    <original type="Prefix">使役獣</original>
+  </named_param>
+  <named_param id="2371">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2372">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2373">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2374">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2375">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2376">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2377">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2378">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2379">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2380">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2381">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2382">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2383">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2384">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2385">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2386">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2387">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2388">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2389">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2390">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2391">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2392">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2393">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2394">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2395">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2396">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2397">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2398">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2399">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2400">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2401">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2402">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2403">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2404">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2405">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2406">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2407">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2408">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2409">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2410">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2411">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2412">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2413">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2414">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2415">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2416">
+    <original type="Replace">フラッグブレイカー</original>
+  </named_param>
   <named_param id="2417">
     <original type="None"></original>
   </named_param>
@@ -5548,5 +6022,41 @@
   </named_param>
   <named_param id="2442">
     <original type="None"></original>
+  </named_param>
+  <named_param id="2443">
+    <original type="Replace">野盗</original>
+  </named_param>
+  <named_param id="2444">
+    <original type="Replace">野盗</original>
+  </named_param>
+  <named_param id="2509">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2510">
+    <original type="Replace">朽ちた騎士の残魂</original>
+  </named_param>
+  <named_param id="2511">
+    <original type="Replace">朽ちた兵士の残魂</original>
+  </named_param>
+  <named_param id="2512">
+    <original type="Replace">朽ちた魔女の残魂</original>
+  </named_param>
+  <named_param id="2513">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2526">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2527">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2529">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2530">
+    <original type="Prefix"></original>
+  </named_param>
+  <named_param id="2531">
+    <original type="Prefix"></original>
   </named_param>
 </named_params>

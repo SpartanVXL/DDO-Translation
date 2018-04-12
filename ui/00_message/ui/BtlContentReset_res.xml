@@ -1,0 +1,103 @@
+﻿<resource>
+  <message>
+    <key>BTL_CONTENT_RESET_REPORT</key>
+    <original>探索結果の報告</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_RESET_PROGRESS</key>
+    <original>進行のリセット</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_RESET_PROGRESS_REWARD</key>
+    <original>進行と報酬のリセット</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_CONF_GET_REWARD</key>
+    <original>クリア報酬を受け取りますか？
+&lt;COL aa1414&gt;報酬を受け取ると、
+進行をリセットするまで再突入できなくなります&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_CONF_RESET_NO_COST</key>
+    <original>&lt;COL d7b450&gt;進行のリセット&lt;/COL&gt;を行いますか？
+下記の項目がリセットされます
+
+・覚者、ポーンのレベル
+・チェックポイントなどの進行データ（※1）
+・&lt;COL d7b450&gt;入手したすべてのアイテム&lt;/COL&gt;（※2）
+
+※1…&lt;COL d7b450&gt;宝箱などの報酬はリセットされません&lt;/COL&gt;
+　　  友人と最初から遊ぶ場合に活用します
+※2…&lt;COL d7b450&gt;&lt;ITEM 21630&gt;&lt;/COL&gt;や、&lt;COL d7b450&gt;&lt;ITEM 23364&gt;&lt;/COL&gt;
+　　  &lt;COL d7b450&gt;&lt;ITEM 21651&gt;&lt;/COL&gt;等は大変貴重です。ご注意ください</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_CONF_RESET</key>
+    <original>&lt;UNTN KT&gt; %d&lt;UNIT KT&gt;を使用して
+&lt;COL d7b450&gt;進行と報酬のリセット&lt;/COL&gt;を行いますか？（残り%d&lt;UNIT KT&gt;）
+下記の内容がリセットされます
+
+・覚者、ポーンのレベル
+・チェックポイントなどの進行データ
+・&lt;COL d7b450&gt;進行中の宝箱や報酬データ&lt;/COL&gt;（※1）
+・&lt;COL d7b450&gt;入手したすべてのアイテム&lt;/COL&gt;（※2）
+
+※1…&lt;COL d7b450&gt;黒呪の迷宮を再周回するために必ず必要です&lt;/COL&gt;
+※2…&lt;COL d7b450&gt;&lt;ITEM 21630&gt;&lt;/COL&gt;や、&lt;COL d7b450&gt;&lt;ITEM 23364&gt;&lt;/COL&gt;
+　　  &lt;COL d7b450&gt;&lt;ITEM 21651&gt;&lt;/COL&gt;等は大変貴重です。ご注意ください</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_CONF_GP</key>
+    <original>&lt;UNTN KT&gt;が足りません
+
+代わりに&lt;COL d7b450&gt;黄金石%d個&lt;/COL&gt;を使用して
+進行と報酬のリセットが行えます
+黄金石によるリセットは&lt;COL d7b450&gt;あと%d回&lt;/COL&gt;利用できます
+
+&lt;COL d7b450&gt;黄金石%d個&lt;/COL&gt;を使用してリセットを行いますか？
+（所持数：%d）</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_DISABLE</key>
+    <original>&lt;UNTN KT&gt;が足りません
+
+黄金石によるリセットも
+利用回数を満たしているため
+次回のリセット時間までお待ちください
+
+（リセット時間はプレイマニュアルをご覧ください）</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_NO_ENOUGH_GP</key>
+    <original>黄金石が不足しています
+（所持数：%d）</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_ERR_NO_REWARD</key>
+    <original>報酬がありません</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_ERR_NO_REPORT</key>
+    <original>探索結果の報告を確認してください</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_ERR_NO_PROGRESS</key>
+    <original>進行中のデータが存在しません</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_SUCCESS_REWARD</key>
+    <original>報酬を受け取りました</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_SUCCESS_PROGRESS</key>
+    <original>進行のリセットが完了しました</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_SUCCESS_PROGRESS_REWARD</key>
+    <original>進行と報酬のリセットが完了しました</original>
+  </message>
+  <message>
+    <key>BTL_CONTENT_RESET_SELECT_TITLE</key>
+    <original>選択してください</original>
+  </message>
+</resource>

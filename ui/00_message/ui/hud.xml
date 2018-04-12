@@ -401,4 +401,36 @@
     <key>hud_get_announce_ms</key>
     <original>&lt;VAL&gt; =*</original>
   </message>
+  <message>
+    <key>hud_commontext_alchemist_cs12</key>
+    <original>支援を解除する：&lt;KC JUMP&gt;</original>
+  </message>
+  <message>
+    <key>hud_get_announce_gdm</key>
+    <original>&lt;VAL&gt; $#</original>
+  </message>
+  <message>
+    <key>hud_get_announce_sdm</key>
+    <original>&lt;VAL&gt; {#</original>
+  </message>
+  <message>
+    <key>hud_get_announce_rdm</key>
+    <original>&lt;VAL&gt; }#</original>
+  </message>
+  <message>
+    <key>hud_announce_bbi_clear</key>
+    <original>《%s》攻略！</original>
+  </message>
+  <message>
+    <key>hud_announce_bbi_comp</key>
+    <original>%sを踏破した！</original>
+  </message>
+  <message>
+    <key>hud_notice_no_charm_gauge</key>
+    <original>魔力が%sゲージ以上ありません</original>
+  </message>
+  <message>
+    <key>hud_notice_no_charm_stack</key>
+    <original>魔力が%sスタック以上ありません</original>
+  </message>
 </resource>

@@ -157,8 +157,8 @@ Simple Communication Page Switch →</translation>
   </message>
   <message>
     <key>kcd_027</key>
-    <original>&lt;COL DAEEF3&gt;【シールドセージ】&lt;/COL&gt;アトラクト</original>
-    <translation>&lt;COL DAEEF3&gt;(Shield Sage)&lt;/COL&gt; Attract</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｓｈ】&lt;/COL&gt;アトラクト</original>
+    <translation>&lt;COL DAEEF3&gt;(Sh)&lt;/COL&gt; Attract</translation>
   </message>
   <message>
     <key>kcd_028</key>
@@ -329,15 +329,18 @@ Toggle Simple Communication</translation>
   </message>
   <message>
     <key>kcd_061</key>
-    <original>&lt;COL DAEEF3&gt;【プリースト】&lt;/COL&gt;セイントオーラ　&lt;COL DAEEF3&gt;【シールドセージ】&lt;/COL&gt;フォースエンチャント 
-&lt;COL DAEEF3&gt;【アルケミスト】&lt;/COL&gt;エリクシル　　&lt;COL DAEEF3&gt;【スピリットランサー】&lt;/COL&gt;ヒールブースト</original>
-    <translation>&lt;COL DAEEF3&gt;(Priest)&lt;/COL&gt; Holy Aura  &lt;COL DAEEF3&gt;(Shield Sage)&lt;/COL&gt; Force Enchantment
-&lt;COL DAEEF3&gt;(Alchemist)&lt;/COL&gt; Elixir  &lt;COL DAEEF3&gt;(Spirit Lancer)&lt;/COL&gt; Heal Boost</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｐｒ】&lt;/COL&gt;セイントオーラ　&lt;COL DAEEF3&gt;【Ｓｈ】&lt;/COL&gt;フォースエンチャント
+&lt;COL DAEEF3&gt;【Ａｌ】&lt;/COL&gt;エリクシル　&lt;COL DAEEF3&gt;【Ｓｐ】&lt;/COL&gt;ヒールブースト　&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;バック・リープ</original>
+    <translation>&lt;COL DAEEF3&gt;(Pr)&lt;/COL&gt; Holy Aura  &lt;COL DAEEF3&gt;(Sh)&lt;/COL&gt; Force Enchantment
+&lt;COL DAEEF3&gt;(Al)&lt;/COL&gt; Elixir  &lt;COL DAEEF3&gt;(Sp)&lt;/COL&gt; Heal Boost  &lt;COL DAEEF3&gt;(Hi)&lt;/COL&gt; Back Leap</translation>
   </message>
   <message>
     <key>kcd_062</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;しじま射ち（弓構え中）　&lt;COL DAEEF3&gt;【ソーサラー】&lt;/COL&gt;スペリング（詠唱中）</original>
-    <translation>&lt;COL DAEEF3&gt;(Hunter)&lt;/COL&gt; Keen Sight (when aiming bow)  &lt;COL DAEEF3&gt;(Sorcerer)&lt;/COL&gt; Chanting</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;しじま射ち（弓構え中）　&lt;COL DAEEF3&gt;【Ｓｏ】&lt;/COL&gt;スペリング（詠唱中）
+&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;ロックオン中のカメラ操作（ルイン・ブレード構え中）</original>
+    <!-- NEEDS REVIEW -->
+    <translation>&lt;COL DAEEF3&gt;(Hu)&lt;/COL&gt; Keen Sight (when aiming bow)  &lt;COL DAEEF3&gt;(So)&lt;/COL&gt; Chanting
+&lt;COL DAEEF3&gt;(Hi)&lt;/COL&gt; ロックオン中のカメラ操作 (ルイン・ブレード構え中)</translation>
   </message>
   <message>
     <key>kcd_063</key>
@@ -351,10 +354,10 @@ Toggle Simple Communication</translation>
   </message>
   <message>
     <key>kcd_065</key>
-    <original>&lt;COL DAEEF3&gt;【ソーサラー】&lt;/COL&gt;バックムーブ　　　　&lt;COL DAEEF3&gt;【ウォリアー】&lt;/COL&gt;退魔の身構え
-&lt;COL DAEEF3&gt;【アルケミスト】&lt;/COL&gt;アルケム・フーガ　&lt;COL DAEEF3&gt;【スピリットランサー】&lt;/COL&gt;スカー・ムーヴ</original>
-    <translation>&lt;COL DAEEF3&gt;(Sorcerer)&lt;/COL&gt; Back Move  &lt;COL DAEEF3&gt;(Warrior)&lt;/COL&gt; Brace
-&lt;COL DAEEF3&gt;(Alchemist)&lt;/COL&gt; Alchemical Fuga  &lt;COL DAEEF3&gt;(Spirit Lancer)&lt;/COL&gt; Scar Move</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｓｏ】&lt;/COL&gt;バックムーブ　　　&lt;COL DAEEF3&gt;【Ｗａ】&lt;/COL&gt;退魔の身構え
+&lt;COL DAEEF3&gt;【Ａｌ】&lt;/COL&gt;アルケム・フーガ　&lt;COL DAEEF3&gt;【Ｓｐ】&lt;/COL&gt;スカー・ムーヴ</original>
+    <translation>&lt;COL DAEEF3&gt;(So)&lt;/COL&gt; Back Move  &lt;COL DAEEF3&gt;(Wa)&lt;/COL&gt; Brace
+&lt;COL DAEEF3&gt;(Al)&lt;/COL&gt; Alchemical Fuga  &lt;COL DAEEF3&gt;(Sp)&lt;/COL&gt; Scar Move</translation>
   </message>
   <message>
     <key>kcd_066</key>
@@ -365,18 +368,18 @@ Toggle Simple Communication</translation>
   </message>
   <message>
     <key>kcd_067</key>
-    <original>&lt;COL DAEEF3&gt;【ファイター】&lt;/COL&gt;&lt;COL DAEEF3&gt;【シーカー】&lt;/COL&gt;&lt;COL DAEEF3&gt;【ウォリアー】&lt;/COL&gt;連係投げ</original>
-    <translation>&lt;COL DAEEF3&gt;(Fighter)&lt;/COL&gt; &lt;COL DAEEF3&gt;(Seeker)&lt;/COL&gt; &lt;COL DAEEF3&gt;(Warrior)&lt;/COL&gt; Linking Throw</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｆｉ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｓｅ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｗａ】&lt;/COL&gt;連係投げ</original>
+    <translation>&lt;COL DAEEF3&gt;(Fi)&lt;/COL&gt; &lt;COL DAEEF3&gt;(Se)&lt;/COL&gt; &lt;COL DAEEF3&gt;(Wa)&lt;/COL&gt; Linking Throw</translation>
   </message>
   <message>
     <key>kcd_068</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;&lt;COL DAEEF3&gt;【エレメントアーチャー】&lt;/COL&gt;弓構え</original>
-    <translation>&lt;COL DAEEF3&gt;(Hunter)&lt;/COL&gt; &lt;COL DAEEF3&gt;(Element Archer)&lt;/COL&gt; Aim</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｅｌ】&lt;/COL&gt;弓構え</original>
+    <translation>&lt;COL DAEEF3&gt;(Hu)&lt;/COL&gt; &lt;COL DAEEF3&gt;(El)&lt;/COL&gt; Aim</translation>
   </message>
   <message>
     <key>kcd_069</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;&lt;COL DAEEF3&gt;【エレメントアーチャー】&lt;/COL&gt;射撃（弓構え中）</original>
-    <translation>&lt;COL DAEEF3&gt;(Hunter)&lt;/COL&gt; &lt;COL DAEEF3&gt;(Element Archer)&lt;/COL&gt; Shoot (when aiming bow)</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｅｌ】&lt;/COL&gt;射撃（弓構え中）</original>
+    <translation>&lt;COL DAEEF3&gt;(Hu)&lt;/COL&gt; &lt;COL DAEEF3&gt;(El)&lt;/COL&gt; Shoot (when aiming bow)</translation>
   </message>
   <message>
     <key>kcd_070</key>
@@ -385,51 +388,52 @@ Toggle Simple Communication</translation>
   </message>
   <message>
     <key>kcd_071</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;矢の切替え　&lt;COL DAEEF3&gt;【エレメントアーチャー】&lt;/COL&gt;癒しの装</original>
-    <translation>&lt;COL DAEEF3&gt;(Hunter)&lt;/COL&gt; Switch Arrows  &lt;COL DAEEF3&gt;(Element Archer)&lt;/COL&gt; Healing Dress</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;矢の切替え　&lt;COL DAEEF3&gt;【Ｅｌ】&lt;/COL&gt;癒しの装</original>
+    <translation>&lt;COL DAEEF3&gt;(Hu)&lt;/COL&gt; Switch Arrows  &lt;COL DAEEF3&gt;(El)&lt;/COL&gt; Healing Dress</translation>
   </message>
   <message>
     <key>kcd_072</key>
-    <original>&lt;COL DAEEF3&gt;【プリースト】&lt;/COL&gt;&lt;COL DAEEF3&gt;【ソーサラー】&lt;/COL&gt;ロックオンモード切り替え（詠唱中）</original>
-    <translation>&lt;COL DAEEF3&gt;(Priest)&lt;/COL&gt; &lt;COL DAEEF3&gt;(Sorcerer)&lt;/COL&gt; Lock on mode switch (casting)</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｐｒ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｓｏ】&lt;/COL&gt;ロックオンモード切り替え（詠唱中）</original>
+    <translation>&lt;COL DAEEF3&gt;(Pr)&lt;/COL&gt; &lt;COL DAEEF3&gt;(So)&lt;/COL&gt; Lock on mode switch (casting)</translation>
   </message>
   <message>
     <key>kcd_073</key>
-    <original>&lt;COL DAEEF3&gt;【ファイター】&lt;/COL&gt;ガード　　&lt;COL DAEEF3&gt;【シールドセージ】&lt;/COL&gt;シールドロック
-&lt;COL DAEEF3&gt;【シーカー】&lt;/COL&gt;ロープ構え</original>
-    <translation>&lt;COL DAEEF3&gt;(Fighter)&lt;/COL&gt; Guard  &lt;COL DAEEF3&gt;(Shield Sage)&lt;/COL&gt; Shield Lock
-&lt;COL DAEEF3&gt;(Seeker)&lt;/COL&gt; Rope Stance</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｆｉ】&lt;/COL&gt;ガード　　　&lt;COL DAEEF3&gt;【Ｓｈ】&lt;/COL&gt;シールドロック
+&lt;COL DAEEF3&gt;【Ｓｅ】&lt;/COL&gt;ロープ構え　&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;ウィル・スタンス</original>
+    <translation>&lt;COL DAEEF3&gt;(Fi)&lt;/COL&gt; Guard  &lt;COL DAEEF3&gt;(Sh)&lt;/COL&gt; Shield Lock
+&lt;COL DAEEF3&gt;(Se)&lt;/COL&gt; Rope Stance  &lt;COL DAEEF3&gt;(Hi)&lt;/COL&gt; Will Stance</translation>
   </message>
   <message>
     <key>kcd_074</key>
-    <original>&lt;COL DAEEF3&gt;【プリースト】&lt;/COL&gt;フィールドシフト　&lt;COL DAEEF3&gt;【シールドセージ】&lt;/COL&gt;フォースバースト</original>
-    <translation>&lt;COL DAEEF3&gt;(Priest)&lt;/COL&gt; Field Shift  &lt;COL DAEEF3&gt;(Shield Sage)&lt;/COL&gt; Force Burst</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｐｒ】&lt;/COL&gt;フィールドシフト　&lt;COL DAEEF3&gt;【Ｓｈ】&lt;/COL&gt;フォースバースト</original>
+    <translation>&lt;COL DAEEF3&gt;(Pr)&lt;/COL&gt; Field Shift  &lt;COL DAEEF3&gt;(Sh)&lt;/COL&gt; Force Burst</translation>
   </message>
   <message>
     <key>kcd_075</key>
-    <original>&lt;COL DAEEF3&gt;【シーカー】&lt;/COL&gt;転身</original>
-    <translation>&lt;COL DAEEF3&gt;(Seeker)&lt;/COL&gt; Forward Roll</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｓｅ】&lt;/COL&gt;転身　&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;避翻斬</original>
+    <!-- NEEDS REVIEW -->
+    <translation>&lt;COL DAEEF3&gt;(Se)&lt;/COL&gt; Forward Roll  &lt;COL DAEEF3&gt;(Hi)&lt;/COL&gt; 避翻斬</translation>
   </message>
   <message>
     <key>kcd_076</key>
-    <original>&lt;COL DAEEF3&gt;【シーカー】&lt;/COL&gt;ロープ投げ（ロープ構え中）</original>
-    <translation>&lt;COL DAEEF3&gt;(Seeker)&lt;/COL&gt; Throw Rope (Rope Holding)</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｓｅ】&lt;/COL&gt;ロープ投げ（ロープ構え中）</original>
+    <translation>&lt;COL DAEEF3&gt;(Se)&lt;/COL&gt; Throw Rope (Rope Holding)</translation>
   </message>
   <message>
     <key>kcd_077</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;矢の装填</original>
-    <translation>&lt;COL DAEEF3&gt;(Hunter)&lt;/COL&gt; Reload Arrows</translation>
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;矢の装填</original>
+    <translation>&lt;COL DAEEF3&gt;(Hu)&lt;/COL&gt; Reload Arrows</translation>
   </message>
   <message>
     <key>kcd_078</key>
-    <original>&lt;COL DAEEF3&gt;【アルケミスト】&lt;/COL&gt;エリクシル・チェンジ　&lt;COL DAEEF3&gt;【スピリットランサー】&lt;/COL&gt;アタックブースト</original>
-    <translation>&lt;COL DAEEF3&gt;(Alchemist)&lt;/COL&gt; Change Elixir  &lt;COL DAEEF3&gt;(Spirit Lancer)&lt;/COL&gt; Attack Boost</translation>
+    <original>&lt;COL DAEEF3&gt;【Ａｌ】&lt;/COL&gt;エリクシル・チェンジ　&lt;COL DAEEF3&gt;【Ｓｐ】&lt;/COL&gt;アタックブースト</original>
+    <translation>&lt;COL DAEEF3&gt;(Al)&lt;/COL&gt; Change Elixir  &lt;COL DAEEF3&gt;(Sp)&lt;/COL&gt; Attack Boost</translation>
   </message>
   <message>
     <key>kcd_079</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;&lt;COL DAEEF3&gt;【エレメントアーチャー】&lt;/COL&gt;構え変更（弓構え中）
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｅｌ】&lt;/COL&gt;構え変更（弓構え中）
 ※この項目がブランクキーの場合、マウスホイール前後で構え変更</original>
-    <translation>&lt;COL DAEEF3&gt;(Hunter)&lt;/COL&gt; &lt;COL DAEEF3&gt;(Element Archer)&lt;/COL&gt; Change Stance (when aiming bow)
+    <translation>&lt;COL DAEEF3&gt;(Hu)&lt;/COL&gt; &lt;COL DAEEF3&gt;(El)&lt;/COL&gt; Change Stance (when aiming bow)
 ※ If this is a blank key, change stance by mouse wheel forward/back</translation>
   </message>
   <message>
@@ -438,5 +442,13 @@ Toggle Simple Communication</translation>
 ※この項目がブランクキーの場合、各カスタムスキル設定キーで追加入力</original>
     <translation>Custom Skill Additional Input (repeated hits/derivative/etc)
 ※ If this is a blank key, additional input with each Custom Skill key setting</translation>
+  </message>
+  <message>
+    <key>kcd_081</key>
+    <original>&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;ルイン・ブレード</original>
+  </message>
+  <message>
+    <key>kcd_082</key>
+    <original>&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;ウィル・マーカー（ウィル・スタンス中）</original>
   </message>
 </resource>

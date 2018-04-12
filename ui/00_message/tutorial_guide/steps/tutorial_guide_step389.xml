@@ -1,0 +1,30 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_722</key>
+    <original>敵から魔力を吸収すると、&lt;COL ffdc78&gt;《魔力ゲージ》&lt;/COL&gt;が溜まり
+１本ゲージが溜まるごとに&lt;COL ffdc78&gt;《魔力スタック》&lt;/COL&gt;が
+１つ増加します
+
+溜めた魔力は以下の２種の魔法として使用します
+&lt;COL ffdc78&gt;《純魔法》&lt;/COL&gt;　…魔力スタックを消費する高威力の魔法
+&lt;COL ffdc78&gt;《補助魔法》&lt;/COL&gt;　…魔力ゲージを消費するサポート魔法</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_732</key>
+    <original>【&lt;KC OVER_BRADE&gt;】ルイン・ブレード
+　　　　　　　（魔力を込めた剣を放つ純魔法）
+【&lt;KC SKILL_NORMAL1&gt;】 バック・リープ
+　　　　　　　（後方に高速で移動する補助魔法）
+【&lt;KC SKILL_NORMAL1&gt;】 リターン・シフト
+　　　　　　　（高速で敵に接近する）
+
+※バック・リープは敵に密着した状態で使用すると
+　発動し、次にリターン・シフトに切り替わります</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_794</key>
+    <original>補助魔法を使い、敵との間合いを近距離と遠距離で
+即座に切り替えられる点も
+ハイセプターの強みと言えるでしょう</original>
+  </message>
+</resource>

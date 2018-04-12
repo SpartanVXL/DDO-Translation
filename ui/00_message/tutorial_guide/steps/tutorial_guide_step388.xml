@@ -1,0 +1,39 @@
+﻿<resource>
+  <message>
+    <key>TUTORIAL_STEP_721</key>
+    <original>ハイセプターは、魔道剣による攻撃と
+魔印を付与することで敵から魔力を奪い、
+多彩な魔法へと転換しながら戦う
+剣と魔法の使い手です
+
+＜基本操作＞
+　【&lt;KC ATTACK1&gt;】 四連斬（剣による連続攻撃）
+　【&lt;KC ATTACK2&gt;】 ルイン・ショット（魔法弾）</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_731</key>
+    <original>&lt;COL ffdc78&gt;ウィル・マーカー&lt;/COL&gt;は１体の敵に
+魔印を付与することができます
+
+　【&lt;KC WEAPON_SUB&gt;+&lt;KC MARK_SHOT&gt;】 ウィル・マーカー
+　　　　　　　　（魔力を吸収する魔印を付与する）
+
+&lt;COL ffdc78&gt;魔印を付与した敵を魔道剣で攻撃すると
+魔印が成長し、魔力の吸収量が増加します&lt;/COL&gt;
+
+また、魔印が最大まで成長すると一部のスキル性能が
+上がるなどの恩恵もあります</original>
+  </message>
+  <message>
+    <key>TUTORIAL_STEP_780</key>
+    <original>ただし、魔印は継続して攻撃をしていないと
+徐々に減退し、魔力吸収量も減ってしまいます
+また、ダメージを受けて体勢を崩された際も
+減退しやすい性質を持っています
+
+魔印を付与した敵を倒した時には
+魔力を多く得られメリットもあるため
+敵の攻撃をかわしつつ
+積極的に魔印を付与した敵を狙っていきましょう</original>
+  </message>
+</resource>

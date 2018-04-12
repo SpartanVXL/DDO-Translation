@@ -125,7 +125,7 @@
     <translation>Seek healing, even for the smallest wounds</translation>
   </message>
   <message>
-    <key>pawn_cultivation_element_3_13</key>
+    <key>pawn_cultivation_element_3_14</key>
     <original>おまかせ</original>
     <translation>You decide</translation>
   </message>
@@ -496,5 +496,57 @@ according to enemy condition</translation>
     <key>pawn_cultivation_prio_3</key>
     <original>（最優先）</original>
     <translation> (↑↑↑)</translation>
+  </message>
+  <message>
+    <key>pawn_cultivation_head_6</key>
+    <original>敵の種類によって、使う技</original>
+  </message>
+  <message>
+    <key>pawn_cultivation_element_3_13</key>
+    <original>バフを受けに行く</original>
+  </message>
+  <message>
+    <key>pawn_cultivation_element_6_0</key>
+    <original>侵食敵</original>
+  </message>
+  <message>
+    <key>pawn_cultivation_element_6_1</key>
+    <original>戦甲敵</original>
+  </message>
+  <message>
+    <key>pawn_growtalk_title_022</key>
+    <original>育成するジョブを選んでください</original>
+  </message>
+  <message>
+    <key>pawn_growtalk_title_023</key>
+    <original>敵の種類は？</original>
+  </message>
+  <message>
+    <key>pawn_growtalk_title_024</key>
+    <original>敵の種類で使う技の最終確認</original>
+  </message>
+  <message>
+    <key>pawn_growtalk_advice_choice_51</key>
+    <original>戦術育成について</original>
+  </message>
+  <message>
+    <key>pawn_growtalk_advice_choice_52</key>
+    <original>特技設定について</original>
+  </message>
+  <message>
+    <key>pawn_call_bell_menu</key>
+    <original>ポーン呼び出しベルメニュー</original>
+  </message>
+  <message>
+    <key>pawn_change_retry</key>
+    <original>ポーンがジョブチェンジした事の無いジョブです</original>
+  </message>
+  <message>
+    <key>pawn_real_job_no_select</key>
+    <original>育成するジョブとジョブチェンジしているジョブが同じではないため選択できません。</original>
+  </message>
+  <message>
+    <key>pawn_cultivation_space</key>
+    <original> </original>
   </message>
 </resource>

@@ -626,10 +626,85 @@ Are you sure you want to use
 (所持数：&lt;VAL&gt;)
 
 &lt;COL aa1414&gt;スペシャルクエストボードは、一括クリアする度に
-必要な黄金石がボード毎に増加します&lt;/COL&gt;</original>
+必要な黄金石がボード毎に増加します&lt;/COL&gt;
+
+&lt;COL aa1414&gt;PPモード中や、LVが最大の時には
+報酬の経験値を入手することはできません&lt;/COL&gt;</original>
   </message>
   <message>
     <key>QUEST_MSG_LV_BONUS</key>
     <original>クリア報酬が最大%s倍！</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_TITLE_01</key>
+    <original>Adventure Guide</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_TITLE_02</key>
+    <original>冒険ガイド</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_NOTHING</key>
+    <original>現在紹介出来るクエストはありません</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_CATEGORY_01</key>
+    <original>メインクエスト</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_CATEGORY_02</key>
+    <original>レベル上げミッション</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_CATEGORY_03</key>
+    <original>レベル上げクエスト</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_CATEGORY_04</key>
+    <original>冒険に役立つクエスト</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_CATEGORY_05</key>
+    <original>ジョブクエスト</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_CATEGORY_06</key>
+    <original>コラボ/シーズナルクエスト</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_LB_OPEN_CONTENTS</key>
+    <original>解放コンテンツ</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_MENU_NAVI_ON</key>
+    <original>ナビゲート設定</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_MENU_NAVI_OFF</key>
+    <original>ナビゲート解除</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_MENU_ENTRY</key>
+    <original>参加する</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_OPEN_MAP_ERROR_NO_NAVI</key>
+    <original>地図で確認するには、ナビゲーションを設定してください</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_OPEN_MAP_ERROR_NO_MARKER</key>
+    <original>受注可能になるまで、地図で確認できません。</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_EXM_REWARD_NAME</key>
+    <original>その他報酬</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_EXM_REWARD_INFO</key>
+    <original>詳細は参加ボタンを押して、エントリー画面でご確認ください</original>
+  </message>
+  <message>
+    <key>QUEST_MSG_ADV_GUIDE_CATEGORY_07</key>
+    <original>エリア試練/エリアミッション</original>
   </message>
 </resource>

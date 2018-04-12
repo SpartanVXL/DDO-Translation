@@ -461,4 +461,78 @@ open the Online Shop?</translation>
     <original>格納チェスト引出し</original>
     <translation>Storage Box Drawer</translation>
   </message>
+  <message>
+    <key>option_send_itemlockset</key>
+    <original>セーフティ設定</original>
+  </message>
+  <message>
+    <key>item_conf_itemlockset</key>
+    <original>&lt;COL ffdc78&gt;セーフティ設定&lt;/COL&gt;には、以下の機能があります
+
+・アイテムバッグからの&lt;COL ffdc78&gt;「捨てる」&lt;/COL&gt;を防止
+・ショップや保管ボックス等からの&lt;COL ffdc78&gt;「売却」&lt;/COL&gt;を防止
+・装備が消えてしまう場合の&lt;COL ffdc78&gt;「ポーンの削除」&lt;/COL&gt;を防止</original>
+  </message>
+  <message>
+    <key>item_conf_itemlockset_on</key>
+    <original>設定する</original>
+  </message>
+  <message>
+    <key>item_conf_itemlockset_off</key>
+    <original>設定を解除する</original>
+  </message>
+  <message>
+    <key>item_conf_itemlockset_ng01</key>
+    <original>設定を解除するには、個別にアイテムを選択してください</original>
+  </message>
+  <message>
+    <key>item_conf_itemlockset_ng02</key>
+    <original>選択中のアイテムは、すでに設定されています</original>
+  </message>
+  <message>
+    <key>item_conf_itemlockset_ng03</key>
+    <original>選択中のアイテムは、すでに設定解除されています</original>
+  </message>
+  <message>
+    <key>bbi_embody_sub_01</key>
+    <original>&lt;UNTN GDM&gt;を使って持ち帰り</original>
+  </message>
+  <message>
+    <key>bbi_embody_sub_02</key>
+    <original>&lt;UNTN GS&gt;を使って持ち帰り</original>
+  </message>
+  <message>
+    <key>bbi_embody_sub_03</key>
+    <original>同じアイテムの所持確認</original>
+  </message>
+  <message>
+    <key>bbi_embody_conf_01</key>
+    <original>以下のアイテムを&lt;COL ffdc78&gt;&lt;UNTN GDM&gt; &lt;VAL GDM&gt;&lt;/COL&gt;を使用して
+レスタニアの&lt;COL ffdc78&gt;&lt;VAL&gt;&lt;/COL&gt;に持ち帰ります
+よろしいですか？</original>
+  </message>
+  <message>
+    <key>bbi_embody_conf_02</key>
+    <original>以下のアイテムを&lt;COL ffdc78&gt;&lt;UNTN GS&gt; &lt;VAL GS&gt;&lt;/COL&gt;を使用して
+レスタニアの&lt;COL ffdc78&gt;&lt;VAL&gt;&lt;/COL&gt;に持ち帰ります
+よろしいですか？</original>
+  </message>
+  <message>
+    <key>bbi_embody_conf_done</key>
+    <original>アイテムを持ち帰りました</original>
+  </message>
+  <message>
+    <key>pulldown_equip_pl</key>
+    <original>&lt;COL DDD9C4&gt;装備中のアイテム&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>option_targeting_equip_pl</key>
+    <original>装備中のアイテム</original>
+  </message>
+  <message>
+    <key>bbi_embody_conf_03</key>
+    <original>黄金石が不足しています
+（必要数：&lt;VAL&gt;）
+（所持数：&lt;VAL&gt;）</original>
+  </message>
 </resource>

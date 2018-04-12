@@ -201,7 +201,12 @@ Cause status abnormality of the currently enchanted element of your weapon.</tra
     <original>【ＥＸ追加効果】
 詠唱速度が上昇
 ダメージ量が増加
-ガード状態を崩される攻撃もガード可能</original>
+ガードブレイク性能を持つ攻撃もガード可能</original>
+    <!-- NEEDS REVIEW -->
+    <!--【ＥＸ追加効果】
+詠唱速度が上昇
+ダメージ量が増加
+ガード状態を崩される攻撃もガード可能-->
     <translation>EX Additional Effects:
 Increase casting speed.
 Increase damage.
@@ -216,5 +221,19 @@ Possible to block guard-break attacks.</translation>
 Increase Force Gauge gained by blocking.
 Restore stamina when blocking attacks
 and attracting enemies.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_205</key>
+    <original>【ＥＸ追加効果】
+ダメージ量と気絶攻力が増加
+フォースゲージ消費時に威力が上昇／ヒット数増加
+&lt;COL ff7878&gt;造魔／魔族／戦甲系の敵に与えるダメージ量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_206</key>
+    <original>【ＥＸ追加効果】
+スキル発動中ガード状態になる
+敵の攻撃を防いだ後、攻撃を敵に接触させる度に
+フォースゲージが増加する</original>
   </message>
 </resource>

@@ -148,11 +148,11 @@
   </message>
   <message>
     <key>cpf_entry_solo_pawn_01</key>
-    <original>エントリーするポーンを選んでください</original>
+    <original>連れていくポーンを選択してください</original>
   </message>
   <message>
     <key>cpf_entry_solo_pawn_02</key>
-    <original>最大&lt;VAL&gt;人までエントリー可能</original>
+    <original>最大&lt;VAL&gt;人まで同行可能</original>
   </message>
   <message>
     <key>cpf_job_emblem_title</key>
@@ -194,5 +194,13 @@
   <message>
     <key>cpf_clan_authority_setting_cap02_02</key>
     <original>拠点のレイアウトを使用する権限</original>
+  </message>
+  <message>
+    <key>cpf_entry_solo_pawn_03</key>
+    <original>最低&lt;VAL&gt;人同行する必要があります</original>
+  </message>
+  <message>
+    <key>cpf_entry_solo_pawn_04</key>
+    <original>同行条件を満たしていません</original>
   </message>
 </resource>

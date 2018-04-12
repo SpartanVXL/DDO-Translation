@@ -189,7 +189,13 @@ Duration of effect after Field Shift is greatly increased.</translation>
 魔法球増加（５→７）
 ダメージ量と吹き飛ばし力が増加
 チャンス攻力と疲労攻力が増加
-&lt;COL ff7878&gt;骸骨／腐死／呪詛／霊体系の敵への与ダメージ量増加&lt;/COL&gt;</original>
+&lt;COL ff7878&gt;骸骨／腐死／呪詛／霊体系の敵へのダメージ量増加&lt;/COL&gt;</original>
+    <!-- NEEDS REVIEW -->
+    <!--【ＥＸ追加効果】
+魔法球増加（５→７）
+ダメージ量と吹き飛ばし力が増加
+チャンス攻力と疲労攻力が増加
+<COL ff7878>骸骨／腐死／呪詛／霊体系の敵への与ダメージ量増加</COL>-->
     <translation>EX Additional Effects:
 Increase the number of magick spheres (5→7)
 Increase damage and blow force.
@@ -207,5 +213,18 @@ Increase chance attack and exhaust attack.
 Extend duration of magick spheres.
 Magick spheres can recover health and reveal secret core.
 &lt;COL ff7878&gt;Further increase damage against War-Ready enemies.&lt;/COL&gt;</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_218</key>
+    <original>【ＥＸ追加効果】
+石化／黄金化／侵食を死亡確定前であれば治療可能になる
+ステータスダウン系の状態異常を治療可能になる
+詠唱時間を短縮</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_217</key>
+    <original>【ＥＸ追加効果】
+魔法エリアに入ると一定時間
+キュアスポットの効果が付与される</original>
   </message>
 </resource>

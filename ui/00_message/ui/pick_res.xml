@@ -43,4 +43,21 @@
     <original>アイテムバッグがいっぱいのため、受け取ることができません</original>
     <translation>Your item bag is full.</translation>
   </message>
+  <message>
+    <key>pick_item_err_000</key>
+    <original>装備できません</original>
+  </message>
+  <message>
+    <key>pick_item_err_001</key>
+    <original>このアイテムは個別に受け取ることができません
+【すべて受け取る】を押してください</original>
+  </message>
+  <message>
+    <key>pick_item_btn_000</key>
+    <original>受け取る</original>
+  </message>
+  <message>
+    <key>pick_item_btn_001</key>
+    <original>直接装備する</original>
+  </message>
 </resource>

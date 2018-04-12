@@ -120,6 +120,14 @@ LV.6: Increases the number of hits in the attack, and changes
 the motion of the skill.&lt;/COL&gt;</translation>
   </message>
   <message>
+    <key>CUSTOM_SKILL_INFO_10_188</key>
+    <original>クレストを含むエンチャント攻撃力と吹き飛ばし力を
+増加する霊力エリアを展開。攻撃を受け流し発動すると
+展開サイズを拡張しつつ自身の強化性能を更に上昇させる
+&lt;COL ffdc78&gt;LV UP毎に効果時間延長
+LV.６でエンチャント強化と吹き飛ばし力強化の性能上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>CUSTOM_SKILL_INFO_10_195</key>
     <original>【ＥＸ追加効果】
 防御力の上昇量が増加
@@ -155,5 +163,16 @@ Increase damage.
     <translation>EX Additional Effects:
 Possible to activate in the air without executing the first hit.
 Increase Spirit Gauge accumulation.</translation>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_233</key>
+    <original>【ＥＸ追加効果】
+溜め満了の瞬間に攻撃を放つと威力が上昇する</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_234</key>
+    <original>【ＥＸ追加効果】
+攻撃が最初にヒットした敵に
+エイド／エイド・モールを吸着させる</original>
   </message>
 </resource>

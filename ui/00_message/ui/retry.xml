@@ -92,4 +92,15 @@ the Weakness debilitation.&lt;/COL&gt;</translation>
     <translation>Are you sure you want to resurrect by using
 &lt;VAL RIM&gt; &lt;COL FFFF00&gt;Rift Crystals&lt;/COL&gt;?</translation>
   </message>
+  <message>
+    <key>RETRY_MSG_PENALTY_EXP_BBI</key>
+    <original>状態異常【弱化】が発生しませんが
+&lt;COL AA1414&gt;アイテムバッグの中身がすべて消失します&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>RETRY_MSG_DIALOG_PENALTY_BBI</key>
+    <original>に戻りますか？
+状態異常【弱化】が発生しませんが
+&lt;COL AA1414&gt;アイテムバッグの中身がすべて消失します&lt;/COL&gt;</original>
+  </message>
 </resource>

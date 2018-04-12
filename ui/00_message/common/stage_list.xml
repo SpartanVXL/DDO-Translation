@@ -1822,6 +1822,10 @@
     <translation>Feryana Wilderness</translation>
   </message>
   <message>
+    <key>STAGE_NAME_464</key>
+    <original>メガドシス高地</original>
+  </message>
+  <message>
     <key>STAGE_NAME_466</key>
     <original>ティネス砦</original>
     <translation>Fort Thines</translation>
@@ -1892,6 +1896,18 @@
     <translation>Before the Secret Spring</translation>
   </message>
   <message>
+    <key>STAGE_NAME_486</key>
+    <original>城塞都市メガド 居住層</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_487</key>
+    <original>城塞都市メガド 居住層</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_488</key>
+    <original>城塞都市メガド 王宮層</original>
+  </message>
+  <message>
     <key>STAGE_NAME_493</key>
     <original>ラスニテ地下水路</original>
     <translation>Rathnite Underground Waterway</translation>
@@ -1941,6 +1957,14 @@
     <translation>False Remains</translation>
   </message>
   <message>
+    <key>STAGE_NAME_504</key>
+    <original>メガド上水網</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_506</key>
+    <original>戦練の社</original>
+  </message>
+  <message>
     <key>STAGE_NAME_511</key>
     <original>ピレモス旅人宿</original>
     <translation>Piremoth Traveler's Inn</translation>
@@ -1968,6 +1992,14 @@
     <key>STAGE_NAME_516</key>
     <original>王家の隠れ道</original>
     <translation>Royal Family's Secret Path</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_517</key>
+    <original>メガド回廊</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_518</key>
+    <original>メガド大聖堂</original>
   </message>
   <message>
     <key>STAGE_NAME_519</key>
@@ -2045,6 +2077,22 @@
     <original>英霊眠りし道 フェルヤナ荒原</original>
   </message>
   <message>
+    <key>STAGE_NAME_558</key>
+    <original>旧英霊廟</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_559</key>
+    <original>メガドシスの記憶</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_560</key>
+    <original>大地の記憶 メガドシス古道</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_561</key>
+    <original>メガドシスの記憶 武神の間</original>
+  </message>
+  <message>
     <key>STAGE_NAME_569</key>
     <original>冥府下りの洞穴 深層部</original>
     <translation>Cave of Hell's Descent Inner Depths</translation>
@@ -2053,6 +2101,10 @@
     <key>STAGE_NAME_570</key>
     <original>古テキア洞窟</original>
     <translation>Old Tekia Grotto</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_571</key>
+    <original>霧の森</original>
   </message>
   <message>
     <key>STAGE_NAME_572</key>
@@ -2093,17 +2145,153 @@
     <original>フェルヤナ荒原 城下</original>
   </message>
   <message>
+    <key>STAGE_NAME_580</key>
+    <original>城塞都市メガド クラフトルーム</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_581</key>
+    <original>黒示す王の間</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_584</key>
+    <original>エリ警備塔</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_585</key>
+    <original>展望城</original>
+  </message>
+  <message>
     <key>STAGE_NAME_586</key>
-    <original>イフリート戦闘部屋</original>
+    <original>隠匿の王間</original>
   </message>
   <message>
     <key>STAGE_NAME_587</key>
     <original>魔界村地下墓地</original>
   </message>
   <message>
+    <key>STAGE_NAME_589</key>
+    <original>メガドシス古道</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_590</key>
+    <original>メガドへの隠れ水路</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_591</key>
+    <original>タリーエの小塔</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_592</key>
+    <original>聖遺の塔</original>
+  </message>
+  <message>
     <key>STAGE_NAME_593</key>
     <original>古テキア洞窟</original>
     <translation>Old Tekia Grotto</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_596</key>
+    <original>霧の森</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_597</key>
+    <original>静穏の隠れ洞</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_598</key>
+    <original>クルト侯爵邸</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_599</key>
+    <original>城塞都市メガド　居住層</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_600</key>
+    <original>城塞都市メガド　居住層</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_601</key>
+    <original>クルト侯爵邸</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_602</key>
+    <original>黒呪の迷宮：入り江</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_603</key>
+    <original>黒呪の迷宮：凱旋者なき庭園</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_604</key>
+    <original>黒呪の迷宮：羨月楼</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_605</key>
+    <original>黒呪の迷宮：畏れの天蓋</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_607</key>
+    <original>王家の隠れ部屋 メガドシス高地</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_610</key>
+    <original>黒呪の迷宮：冥府１</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_611</key>
+    <original>黒呪の迷宮：冥府１</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_612</key>
+    <original>黒呪の迷宮：冥府１</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_614</key>
+    <original>黒呪の迷宮：冥府２</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_615</key>
+    <original>黒呪の迷宮：冥府２</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_616</key>
+    <original>黒呪の迷宮：冥府２</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_617</key>
+    <original>黒呪の迷宮：冥府３</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_618</key>
+    <original>黒呪の迷宮：冥府３</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_619</key>
+    <original>黒呪の迷宮：冥府３</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_620</key>
+    <original>黒呪の迷宮：冥府３</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_621</key>
+    <original>黒呪の迷宮：冥府３</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_622</key>
+    <original>黒呪の迷宮：冥府３</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_623</key>
+    <original>黒呪の迷宮：異界</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_624</key>
+    <original>黒呪の迷宮：異界</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_625</key>
+    <original>霧の森</original>
   </message>
   <message>
     <key>STAGE_NAME_642</key>
@@ -2119,5 +2307,9 @@
     <key>STAGE_NAME_644</key>
     <original>イベントダンジョン</original>
     <translation>Event Dungeon</translation>
+  </message>
+  <message>
+    <key>STAGE_NAME_645</key>
+    <original>王家の隠れ部屋 メガドシス高地</original>
   </message>
 </resource>
