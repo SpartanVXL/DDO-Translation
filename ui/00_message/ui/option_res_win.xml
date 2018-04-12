@@ -1784,6 +1784,7 @@ Are you sure you want to exit configuration?</translation>
   <message>
     <key>OPTION_MSG_CHOICE_RQUEST</key>
     <original>サブストーリークエスト</original>
+    <translation>Substory Quest</translation>
   </message>
   <message>
     <key>OPTION_MSG_TALK_CAMERA</key>
@@ -1793,17 +1794,21 @@ Are you sure you want to exit configuration?</translation>
   <message>
     <key>OPTION_MSG_ADV_001</key>
     <original>冒険ガイド</original>
+    <translation>Adventure Guide</translation>
   </message>
   <message>
     <key>OPTION_MSG_ADV_002</key>
     <original>クエストの紹介通知を表示する</original>
+    <translation>Display Quest Introduction Notice</translation>
   </message>
   <message>
     <key>OPTION_MSG_ADV_NTC_ANNOUNCE_DISP</key>
     <original>紹介通知のポップアップを表示する</original>
+    <translation>Display Introduction Notice Pop-up</translation>
   </message>
   <message>
     <key>OPTION_MSG_NAVIGATION_DISP</key>
     <original>ナビゲーションを表示する</original>
+    <translation>Display Navigation</translation>
   </message>
 </resource>

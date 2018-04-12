@@ -638,10 +638,12 @@ Are you sure you want to use
   <message>
     <key>QUEST_MSG_ADV_GUIDE_TITLE_01</key>
     <original>Adventure Guide</original>
+    <translation>Adventure Guide</translation>
   </message>
   <message>
     <key>QUEST_MSG_ADV_GUIDE_TITLE_02</key>
     <original>冒険ガイド</original>
+    <translation>Adventure Guide</translation>
   </message>
   <message>
     <key>QUEST_MSG_ADV_GUIDE_NOTHING</key>
@@ -650,42 +652,52 @@ Are you sure you want to use
   <message>
     <key>QUEST_MSG_ADV_GUIDE_CATEGORY_01</key>
     <original>メインクエスト</original>
+    <translation>Main Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_ADV_GUIDE_CATEGORY_02</key>
     <original>レベル上げミッション</original>
+    <translation>Leveling Mission</translation>
   </message>
   <message>
     <key>QUEST_MSG_ADV_GUIDE_CATEGORY_03</key>
     <original>レベル上げクエスト</original>
+    <translation>Leveling Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_ADV_GUIDE_CATEGORY_04</key>
     <original>冒険に役立つクエスト</original>
+    <translation>Quest Useful for Adventure</translation>
   </message>
   <message>
     <key>QUEST_MSG_ADV_GUIDE_CATEGORY_05</key>
     <original>ジョブクエスト</original>
+    <translation>Vocation Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_ADV_GUIDE_CATEGORY_06</key>
     <original>コラボ/シーズナルクエスト</original>
+    <translation>Collaboration / Seasonal Quest</translation>
   </message>
   <message>
     <key>QUEST_MSG_LB_OPEN_CONTENTS</key>
     <original>解放コンテンツ</original>
+    <translation>Unlock Content</translation>
   </message>
   <message>
     <key>QUEST_MSG_MENU_NAVI_ON</key>
     <original>ナビゲート設定</original>
+    <translation>Navigate On</translation>
   </message>
   <message>
     <key>QUEST_MSG_MENU_NAVI_OFF</key>
     <original>ナビゲート解除</original>
+    <translation>Navigate Off</translation>
   </message>
   <message>
     <key>QUEST_MSG_MENU_ENTRY</key>
     <original>参加する</original>
+    <translation>Participate</translation>
   </message>
   <message>
     <key>QUEST_MSG_OPEN_MAP_ERROR_NO_NAVI</key>
@@ -698,6 +710,7 @@ Are you sure you want to use
   <message>
     <key>QUEST_MSG_ADV_GUIDE_EXM_REWARD_NAME</key>
     <original>その他報酬</original>
+    <translation>Other Rewards</translation>
   </message>
   <message>
     <key>QUEST_MSG_ADV_GUIDE_EXM_REWARD_INFO</key>
@@ -706,5 +719,6 @@ Are you sure you want to use
   <message>
     <key>QUEST_MSG_ADV_GUIDE_CATEGORY_07</key>
     <original>エリア試練/エリアミッション</original>
+    <translation>Area Trial / Area Mission</translation>
   </message>
 </resource>
