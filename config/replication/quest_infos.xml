@@ -417,6 +417,116 @@
       <translation_replace>Consult with {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
+    <!-- Reconfirm -->
+    <rewrite>
+      <original_match>^目的地を(.+)から再確認する$</original_match>
+      <translation_replace>Reconfirm the destination from {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Visit -->
+    <ignore>^酒場のナンシーにおすすめの美酒を訪ねる$</ignore>
+    <rewrite>
+      <original_match>^関所を越えた先の小さな村のエリアマスター(.+)を訪ねる$</original_match>
+      <translation_replace>Visit the area master {0:d} in the small village beyond the checkpoint</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の伝説のマタギ、(.+)を訪ねる$</original_match>
+      <translation_replace>Visit the legendary hunter {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)で灯台守をしている(.+)を訪ねる$</original_match>
+      <translation_replace>Visit the lighthouse keeper {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)のエリアマスターの(.+)を訪ねる$</original_match>
+      <translation_replace>Visit {1:d}, the area master of {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の道具屋(.+)を訪ねる$</original_match>
+      <translation_replace>Visit {1:d}'s item shop in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の付近にある(.+)の住居を訪ねる$</original_match>
+      <translation_replace>Visit {1:d}'s house in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の(.+)にいる(.+)を訪ねる$</original_match>
+      <translation_replace>Visit {2:d} in {1:d} within {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の(.+)を訪ねる$</original_match>
+      <translation_replace>Visit {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <!-- Obtain information -->
+    <rewrite>
+      <original_match>^(.+)(の|にいる)(.+)から情報を得る$</original_match>
+      <translation_replace>Obtain information from {2:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)から情報を得る$</original_match>
+      <translation_replace>Obtain information from {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Hear -->
+    <rewrite>
+      <original_match>^エリアマスターの(.+)から話を聞く$</original_match>
+      <translation_replace>Hear what the area master {0:d} has to say</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の行先について(.+)から話を聞く$</original_match>
+      <translation_replace>Hear what {1:d} has to say regarding {0:d}'s destination</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の家で(.+)から話を聞く$</original_match>
+      <translation_replace>Hear what {1:d} has to say in {0:d}'s home</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^調査地について(.+)(の|にいる)(.+)から話を聞く$</original_match>
+      <translation_replace>Hear what {2:d} in {0:d} has to say about the investigation area</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)と(.+)から話を聞く$</original_match>
+      <translation_replace>Hear what {0:d} and {1:d} have to say</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(の|にいる)(.+)から話を聞く$</original_match>
+      <translation_replace>Hear what {2:d} has to say in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(の|にいる)(.+)から事情を聞く$</original_match>
+      <translation_replace>Hear the situation from {2:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
     <!-- Speak with -->
     <ignore>^水林の桟橋にいる船頭のトレアサと話す$</ignore>
     <rewrite>
@@ -602,22 +712,35 @@
       <translation_arg index="2" message_set="npc name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)内で助けた(.+)に話す$</original_match>
+      <translation_replace>Speak with {1:d} about who helped within {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)と(.+)に話す$</original_match>
+      <translation_replace>Speak with {0:d} and {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+?)と話す$</original_match>
       <translation_replace>Speak with {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Speak to -->
     <rewrite>
+      <original_match>^(.+)に話して＜(.+)＞を作成する$</original_match>
+      <translation_replace>Speak to {0:d} and craft {1:i!}"{1}"</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="item name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+?)へ渡るため(.+)の(.+?)と話をする$</original_match>
       <translation_replace>Head to {1:d} and speak to {2:d} in order to cross to {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="location name" />
       <translation_arg index="2" message_set="npc name" />
-    </rewrite>
-    <rewrite>
-      <original_match>^騎士団本部へ向かい(.+?)と話をする$</original_match>
-      <translation_replace>Head to Knights' Headquarters and speak to {0:d}</translation_replace>
-      <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+?)へ向かい(.+?)と話をする$</original_match>
@@ -635,6 +758,16 @@
       <translation_replace>Speak to {1:d} in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" required="true" />
       <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)ともう一度話す$</original_match>
+      <translation_replace>Speak to {0:d} again</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^再度、(.+?)に話をする$</original_match>
+      <translation_replace>Speak to {0:d} again</translation_replace>
+      <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+?)と話をする$</original_match>
