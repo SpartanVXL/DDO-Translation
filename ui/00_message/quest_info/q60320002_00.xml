@@ -15,14 +15,17 @@
   <message>
     <key>q60320002_00_4303</key>
     <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC 585&gt;に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <translation>Deliver &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; to &lt;NPC 585&gt; (need: &lt;SQDI DNUM&gt;)</translation>
   </message>
   <message>
     <key>q60320002_00_4304</key>
     <original>&lt;STG 1006&gt;へ調査に向かう</original>
+    <translation>Head to &lt;STG 1006&gt;へ調査</translation>
   </message>
   <message>
     <key>q60320002_00_4305</key>
     <original>発見した敵を討伐する</original>
+    <translation>Defeat the enemy encountered</translation>
   </message>
   <message>
     <key>q60320002_00_4306</key>
@@ -31,6 +34,7 @@
   <message>
     <key>q60320002_00_4307</key>
     <original>&lt;SPOT 1048&gt; に出現した敵軍の討伐に向かう</original>
+    <translation>Head to &lt;SPOT 1048&gt; に出現した敵軍の討伐</translation>
   </message>
   <message>
     <key>q60320002_00_4308</key>
@@ -39,5 +43,6 @@
   <message>
     <key>q60320002_00_4309</key>
     <original>依頼者の&lt;NPC 585&gt;に報告する</original>
+    <translation>Report to the requester &lt;NPC 585&gt;</translation>
   </message>
 </resource>

@@ -894,21 +894,21 @@
     <original>《ナイトメア》系エネミーを10体討伐</original>
     <!-- NEEDS REVIEW -->
     <!--ナイトメアを10体討伐-->
-    <translation>Kill 10 Nightmares</translation>
+    <translation>Kill 10 "Nightmare" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_981</key>
     <original>《ナイトメア》系エネミーを50体討伐</original>
     <!-- NEEDS REVIEW -->
     <!--ナイトメアを50体討伐-->
-    <translation>Kill 50 Nightmares</translation>
+    <translation>Kill 50 "Nightmare" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_982</key>
     <original>《ナイトメア》系エネミーを100体討伐</original>
     <!-- NEEDS REVIEW -->
     <!--ナイトメアを100体討伐-->
-    <translation>Kill 100 Nightmares</translation>
+    <translation>Kill 100 "Nightmare" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_983</key>
@@ -6333,21 +6333,21 @@ level 30 in crafting</translation>
     <original>《スカージ》系エネミーを1体討伐</original>
     <!-- NEEDS REVIEW -->
     <!--スカージを1体討伐-->
-    <translation>Kill a Scourge</translation>
+    <translation>Kill 1 "Scourge" enemy</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2331</key>
     <original>《スカージ》系エネミーを10体討伐</original>
     <!-- NEEDS REVIEW -->
     <!--スカージを10体討伐-->
-    <translation>Kill 10 Scourges</translation>
+    <translation>Kill 10 "Scourge" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2332</key>
     <original>《スカージ》系エネミーを100体討伐</original>
     <!-- NEEDS REVIEW -->
     <!--スカージを100体討伐-->
-    <translation>Kill 100 Scourges</translation>
+    <translation>Kill 100 "Scourge" enemies</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2333</key>
@@ -7727,398 +7727,497 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2749</key>
     <original>ハイセプターのジョブレベルが2になった</original>
+    <translation>Reach job level 2 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2750</key>
     <original>ハイセプターのジョブレベルが3になった</original>
+    <translation>Reach job level 3 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2751</key>
     <original>ハイセプターのジョブレベルが4になった</original>
+    <translation>Reach job level 4 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2752</key>
     <original>ハイセプターのジョブレベルが5になった</original>
+    <translation>Reach job level 5 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2753</key>
     <original>ハイセプターのジョブレベルが6になった</original>
+    <translation>Reach job level 6 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2754</key>
     <original>ハイセプターのジョブレベルが7になった</original>
+    <translation>Reach job level 7 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2755</key>
     <original>ハイセプターのジョブレベルが8になった</original>
+    <translation>Reach job level 8 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2756</key>
     <original>ハイセプターのジョブレベルが9になった</original>
+    <translation>Reach job level 9 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2757</key>
     <original>ハイセプターのジョブレベルが10になった</original>
+    <translation>Reach job level 10 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2758</key>
     <original>ハイセプターのジョブレベルが11になった</original>
+    <translation>Reach job level 11 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2759</key>
     <original>ハイセプターのジョブレベルが12になった</original>
+    <translation>Reach job level 12 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2760</key>
     <original>ハイセプターのジョブレベルが13になった</original>
+    <translation>Reach job level 13 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2761</key>
     <original>ハイセプターのジョブレベルが14になった</original>
+    <translation>Reach job level 14 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2762</key>
     <original>ハイセプターのジョブレベルが15になった</original>
+    <translation>Reach job level 15 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2763</key>
     <original>ハイセプターのジョブレベルが16になった</original>
+    <translation>Reach job level 16 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2764</key>
     <original>ハイセプターのジョブレベルが17になった</original>
+    <translation>Reach job level 17 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2765</key>
     <original>ハイセプターのジョブレベルが18になった</original>
+    <translation>Reach job level 18 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2766</key>
     <original>ハイセプターのジョブレベルが19になった</original>
+    <translation>Reach job level 19 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2767</key>
     <original>ハイセプターのジョブレベルが20になった</original>
+    <translation>Reach job level 20 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2768</key>
     <original>ハイセプターのジョブレベルが21になった</original>
+    <translation>Reach job level 21 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2769</key>
     <original>ハイセプターのジョブレベルが22になった</original>
+    <translation>Reach job level 22 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2770</key>
     <original>ハイセプターのジョブレベルが23になった</original>
+    <translation>Reach job level 23 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2771</key>
     <original>ハイセプターのジョブレベルが24になった</original>
+    <translation>Reach job level 24 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2772</key>
     <original>ハイセプターのジョブレベルが25になった</original>
+    <translation>Reach job level 25 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2773</key>
     <original>ハイセプターのジョブレベルが26になった</original>
+    <translation>Reach job level 26 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2774</key>
     <original>ハイセプターのジョブレベルが27になった</original>
+    <translation>Reach job level 27 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2775</key>
     <original>ハイセプターのジョブレベルが28になった</original>
+    <translation>Reach job level 28 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2776</key>
     <original>ハイセプターのジョブレベルが29になった</original>
+    <translation>Reach job level 29 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2777</key>
     <original>ハイセプターのジョブレベルが30になった</original>
+    <translation>Reach job level 30 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2778</key>
     <original>ハイセプターのジョブレベルが31になった</original>
+    <translation>Reach job level 31 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2779</key>
     <original>ハイセプターのジョブレベルが32になった</original>
+    <translation>Reach job level 32 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2780</key>
     <original>ハイセプターのジョブレベルが33になった</original>
+    <translation>Reach job level 33 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2781</key>
     <original>ハイセプターのジョブレベルが34になった</original>
+    <translation>Reach job level 34 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2782</key>
     <original>ハイセプターのジョブレベルが35になった</original>
+    <translation>Reach job level 35 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2783</key>
     <original>ハイセプターのジョブレベルが36になった</original>
+    <translation>Reach job level 36 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2784</key>
     <original>ハイセプターのジョブレベルが37になった</original>
+    <translation>Reach job level 37 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2785</key>
     <original>ハイセプターのジョブレベルが38になった</original>
+    <translation>Reach job level 38 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2786</key>
     <original>ハイセプターのジョブレベルが39になった</original>
+    <translation>Reach job level 39 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2787</key>
     <original>ハイセプターのジョブレベルが40になった</original>
+    <translation>Reach job level 40 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2788</key>
     <original>ハイセプターのジョブレベルが41になった</original>
+    <translation>Reach job level 41 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2789</key>
     <original>ハイセプターのジョブレベルが42になった</original>
+    <translation>Reach job level 42 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2790</key>
     <original>ハイセプターのジョブレベルが43になった</original>
+    <translation>Reach job level 43 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2791</key>
     <original>ハイセプターのジョブレベルが44になった</original>
+    <translation>Reach job level 44 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2792</key>
     <original>ハイセプターのジョブレベルが45になった</original>
+    <translation>Reach job level 45 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2793</key>
     <original>ハイセプターのジョブレベルが46になった</original>
+    <translation>Reach job level 46 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2794</key>
     <original>ハイセプターのジョブレベルが47になった</original>
+    <translation>Reach job level 47 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2795</key>
     <original>ハイセプターのジョブレベルが48になった</original>
+    <translation>Reach job level 48 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2796</key>
     <original>ハイセプターのジョブレベルが49になった</original>
+    <translation>Reach job level 49 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2797</key>
     <original>ハイセプターのジョブレベルが50になった</original>
+    <translation>Reach job level 50 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2798</key>
     <original>ハイセプターのジョブレベルが51になった</original>
+    <translation>Reach job level 51 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2799</key>
     <original>ハイセプターのジョブレベルが52になった</original>
+    <translation>Reach job level 52 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2800</key>
     <original>ハイセプターのジョブレベルが53になった</original>
+    <translation>Reach job level 53 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2801</key>
     <original>ハイセプターのジョブレベルが54になった</original>
+    <translation>Reach job level 54 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2802</key>
     <original>ハイセプターのジョブレベルが55になった</original>
+    <translation>Reach job level 55 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2803</key>
     <original>ハイセプターのジョブレベルが56になった</original>
+    <translation>Reach job level 56 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2804</key>
     <original>ハイセプターのジョブレベルが57になった</original>
+    <translation>Reach job level 57 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2805</key>
     <original>ハイセプターのジョブレベルが58になった</original>
+    <translation>Reach job level 58 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2806</key>
     <original>ハイセプターのジョブレベルが59になった</original>
+    <translation>Reach job level 59 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2807</key>
     <original>ハイセプターのジョブレベルが60になった</original>
+    <translation>Reach job level 60 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2808</key>
     <original>ハイセプターのジョブレベルが61になった</original>
+    <translation>Reach job level 61 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2809</key>
     <original>ハイセプターのジョブレベルが62になった</original>
+    <translation>Reach job level 62 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2810</key>
     <original>ハイセプターのジョブレベルが63になった</original>
+    <translation>Reach job level 63 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2811</key>
     <original>ハイセプターのジョブレベルが64になった</original>
+    <translation>Reach job level 64 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2812</key>
     <original>ハイセプターのジョブレベルが65になった</original>
+    <translation>Reach job level 65 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2813</key>
     <original>ハイセプターのジョブレベルが66になった</original>
+    <translation>Reach job level 66 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2814</key>
     <original>ハイセプターのジョブレベルが67になった</original>
+    <translation>Reach job level 67 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2815</key>
     <original>ハイセプターのジョブレベルが68になった</original>
+    <translation>Reach job level 68 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2816</key>
     <original>ハイセプターのジョブレベルが69になった</original>
+    <translation>Reach job level 69 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2817</key>
     <original>ハイセプターのジョブレベルが70になった</original>
+    <translation>Reach job level 70 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2818</key>
     <original>ハイセプターのジョブレベルが71になった</original>
+    <translation>Reach job level 71 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2819</key>
     <original>ハイセプターのジョブレベルが72になった</original>
+    <translation>Reach job level 72 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2820</key>
     <original>ハイセプターのジョブレベルが73になった</original>
+    <translation>Reach job level 73 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2821</key>
     <original>ハイセプターのジョブレベルが74になった</original>
+    <translation>Reach job level 74 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2822</key>
     <original>ハイセプターのジョブレベルが75になった</original>
+    <translation>Reach job level 75 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2823</key>
     <original>ハイセプターのジョブレベルが76になった</original>
+    <translation>Reach job level 76 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2824</key>
     <original>ハイセプターのジョブレベルが77になった</original>
+    <translation>Reach job level 77 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2825</key>
     <original>ハイセプターのジョブレベルが78になった</original>
+    <translation>Reach job level 78 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2826</key>
     <original>ハイセプターのジョブレベルが79になった</original>
+    <translation>Reach job level 79 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2827</key>
     <original>ハイセプターのジョブレベルが80になった</original>
+    <translation>Reach job level 80 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2828</key>
     <original>ハイセプターのジョブレベルが81になった</original>
+    <translation>Reach job level 81 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2829</key>
     <original>ハイセプターのジョブレベルが82になった</original>
+    <translation>Reach job level 82 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2830</key>
     <original>ハイセプターのジョブレベルが83になった</original>
+    <translation>Reach job level 83 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2831</key>
     <original>ハイセプターのジョブレベルが84になった</original>
+    <translation>Reach job level 84 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2832</key>
     <original>ハイセプターのジョブレベルが85になった</original>
+    <translation>Reach job level 85 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2833</key>
     <original>ハイセプターのジョブレベルが86になった</original>
+    <translation>Reach job level 86 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2834</key>
     <original>ハイセプターのジョブレベルが87になった</original>
+    <translation>Reach job level 87 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2835</key>
     <original>ハイセプターのジョブレベルが88になった</original>
+    <translation>Reach job level 88 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2836</key>
     <original>ハイセプターのジョブレベルが89になった</original>
+    <translation>Reach job level 89 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2837</key>
     <original>ハイセプターのジョブレベルが90になった</original>
+    <translation>Reach job level 90 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2838</key>
     <original>ハイセプターのジョブレベルが91になった</original>
+    <translation>Reach job level 91 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2839</key>
     <original>ハイセプターのジョブレベルが92になった</original>
+    <translation>Reach job level 92 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2840</key>
     <original>ハイセプターのジョブレベルが93になった</original>
+    <translation>Reach job level 93 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2841</key>
     <original>ハイセプターのジョブレベルが94になった</original>
+    <translation>Reach job level 94 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2842</key>
     <original>ハイセプターのジョブレベルが95になった</original>
+    <translation>Reach job level 95 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2843</key>
     <original>ハイセプターのジョブレベルが96になった</original>
+    <translation>Reach job level 96 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2844</key>
     <original>ハイセプターのジョブレベルが97になった</original>
+    <translation>Reach job level 97 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2845</key>
     <original>ハイセプターのジョブレベルが98になった</original>
+    <translation>Reach job level 98 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2846</key>
     <original>ハイセプターのジョブレベルが99になった</original>
+    <translation>Reach job level 99 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2847</key>
     <original>ハイセプターのジョブレベルが100になった</original>
+    <translation>Reach job level 100 as High Scepter</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2848</key>
@@ -8133,6 +8232,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2850</key>
     <original>クエスト「王都の決戦」クリア</original>
+    <translation>Clear quest "王都の決戦"</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2852</key>
@@ -8181,6 +8281,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2862</key>
     <original>クエスト「力に呑まれし王者」クリア</original>
+    <translation>Clear quest "力に呑まれし王者"</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2863</key>
@@ -8197,6 +8298,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2866</key>
     <original>クエスト「王家再興の褒章３」クリア</original>
+    <translation>Clear quest "王家再興の褒章３"</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2882</key>
@@ -8255,10 +8357,12 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2894</key>
     <original>マンドラゴラ生態図鑑で200種類発見</original>
+    <translation>Discover 200 subspecies in Mandragora Observation Journal</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2895</key>
     <original>マンドラゴラ生態図鑑で230種類発見</original>
+    <translation>Discover 230 subspecies in Mandragora Observation Journal</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2898</key>
@@ -8363,38 +8467,47 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2920</key>
     <original>闇の将を1体討伐</original>
+    <translation>Kill 闇の将</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2921</key>
     <original>闇の将を10体討伐</original>
+    <translation>Kill 10 闇の将s</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2922</key>
     <original>闇の将を100体討伐</original>
+    <translation>Kill 100 闇の将s</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2923</key>
     <original>戦の将を1体討伐</original>
+    <translation>Kill a War Master</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2924</key>
     <original>戦の将を10体討伐</original>
+    <translation>Kill 10 War Masters</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2925</key>
     <original>戦の将を100体討伐</original>
+    <translation>Kill 100 War Masters</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2926</key>
     <original>イフリートを1体討伐</original>
+    <translation>Kill イフリート</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2927</key>
     <original>イフリートを10体討伐</original>
+    <translation>Kill 10 イフリートs</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2928</key>
     <original>イフリートを100体討伐</original>
+    <translation>Kill 100 イフリートs</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2935</key>
@@ -8409,6 +8522,7 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2937</key>
     <original>メガドシス高地で&lt;ITEM 21252&gt;を30個発見</original>
+    <translation>Find 30 &lt;ITEM 21252&gt; in メガドシス高地</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2939</key>
@@ -8429,13 +8543,16 @@ level 30 in crafting</translation>
   <message>
     <key>ACHIEVEMENT_INFO_2947</key>
     <original>デスを1体討伐</original>
+    <translation>Kill デス</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2948</key>
     <original>デスを10体討伐</original>
+    <translation>Kill 10 デスs</translation>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_2949</key>
     <original>デスを100体討伐</original>
+    <translation>Kill 100 デスs</translation>
   </message>
 </resource>
