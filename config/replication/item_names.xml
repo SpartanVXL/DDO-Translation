@@ -204,6 +204,16 @@
     </rewrite>
     <!-- Misc -->
     <rewrite>
+      <original_match>^シーズン１～２戦技・ジョブ修練全解放【(.+)】$</original_match>
+      <translation_replace>Season 1～2 War Skill/Job Training Full Unlock ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^LV.90になる宝珠【(.+)】$</original_match>
+      <translation_replace>Become LV.90 Orb ({0})</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
       <original_match>^錆びた(.+)$</original_match>
       <translation_replace>Rusted {0}</translation_replace>
       <translation_arg message_set="weapon category name" required="true" />
