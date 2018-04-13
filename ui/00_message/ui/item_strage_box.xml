@@ -464,6 +464,7 @@ open the Online Shop?</translation>
   <message>
     <key>option_send_itemlockset</key>
     <original>セーフティ設定</original>
+    <translation>Safety Setting</translation>
   </message>
   <message>
     <key>item_conf_itemlockset</key>
@@ -472,14 +473,21 @@ open the Online Shop?</translation>
 ・アイテムバッグからの&lt;COL ffdc78&gt;「捨てる」&lt;/COL&gt;を防止
 ・ショップや保管ボックス等からの&lt;COL ffdc78&gt;「売却」&lt;/COL&gt;を防止
 ・装備が消えてしまう場合の&lt;COL ffdc78&gt;「ポーンの削除」&lt;/COL&gt;を防止</original>
+    <translation>&lt;COL ffdc78&gt;Safety Setting&lt;/COL&gt; has the following features:
+
+・Prevent &lt;COL ffdc78&gt;"Discard"&lt;/COL&gt; from Item Bag
+・Prevent &lt;COL ffdc78&gt;"Sell"&lt;/COL&gt; from shops and storage boxes, etc
+・Prevent &lt;COL ffdc78&gt;"Pawn Delete"&lt;/COL&gt; when equipment will disappear</translation>
   </message>
   <message>
     <key>item_conf_itemlockset_on</key>
     <original>設定する</original>
+    <translation>Enable</translation>
   </message>
   <message>
     <key>item_conf_itemlockset_off</key>
     <original>設定を解除する</original>
+    <translation>Disable</translation>
   </message>
   <message>
     <key>item_conf_itemlockset_ng01</key>
