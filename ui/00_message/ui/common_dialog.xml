@@ -2914,26 +2914,33 @@ Mission has been achieved today.</translation>
     <key>ana_bitterblack_match_004</key>
     <original>現在のジョブで突入準備しますか？
 &lt;COL aa1414&gt;決定するとリセットするまでジョブは変更できません&lt;/COL&gt;</original>
+    <translation>Are you sure you want to embark with your current vocation?
+&lt;COL aa1414&gt;Once decided it cannot be changed until reset.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ana_bitterblack_match_005</key>
     <original>突入方法を選択してください</original>
+    <translation>Please select embark method</translation>
   </message>
   <message>
     <key>ana_bitterblack_match_006</key>
     <original>現在のパーティーで突入する</original>
+    <translation>Embark with current party</translation>
   </message>
   <message>
     <key>ana_bitterblack_match_007</key>
     <original>他のプレイヤーと突入する</original>
+    <translation>Embark with other players</translation>
   </message>
   <message>
     <key>ana_bitterblack_match_008</key>
     <original>ポーンと突入する（ソロ専用）</original>
+    <translation>Embark with pawns (solo only)</translation>
   </message>
   <message>
     <key>ana_bitterblack_match_009</key>
     <original>即時クリア</original>
+    <translation>Immediate clear</translation>
   </message>
   <message>
     <key>ana_bitterblack_match_010</key>
@@ -3016,5 +3023,6 @@ Mission has been achieved today.</translation>
   <message>
     <key>ana_bitterblack_match_016</key>
     <original>突入を開始しますか？</original>
+    <translation>Embark?</translation>
   </message>
 </resource>
