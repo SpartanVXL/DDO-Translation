@@ -83,15 +83,14 @@ or stalactites.
     <original>通常状態でのスピリットゲージの減少速度が低下する
 &lt;COL ffdc78&gt;LV UP毎により減少速度がさらに低下&lt;/COL&gt;</original>
     <translation>Slows the drain of the Spirit Gauge in normal mode.
-&lt;COL ffdc78&gt;LV UP: Further slows the drain.&lt;/COL&gt;
-</translation>
+&lt;COL ffdc78&gt;LV UP: Further slows the drain.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_467</key>
     <original>魔印の減退速度が低下する
 &lt;COL ffdc78&gt;LVUP毎により減退速度がさらに低下&lt;/COL&gt;</original>
-    <translation>Slows the drain of Magick Glyph.</translation>
-&lt;COL ffdc78&gt;LVUP Further decreases the drain.下&lt;/COL&gt;
+    <translation>Slows the drain of Magick Glyph.
+&lt;COL ffdc78&gt;LVUP Further decreases the drain.下&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_4</key>
@@ -705,8 +704,7 @@ Their Physical and Magick Defense is increased for a period of time.
 &lt;COL ffdc78&gt;LVUP毎に疲労攻力がより増加&lt;/COL&gt;</original>
     <translation>Increases exhaust attack when you stand
 at death's door.
-&lt;COL ffdc78&gt;LVUP Further increases exhaust attack.&lt;/COL&gt;
-</translation>
+&lt;COL ffdc78&gt;LVUP Further increases exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_6</key>
@@ -1196,8 +1194,7 @@ enemy attacks with Scar Move.
 &lt;COL ffdc78&gt;LVUP毎に疲労攻力がより増加&lt;/COL&gt;</original>
     <translation>Increases exhaust attack when your stamina is
 above certain level.
-&lt;COL ffdc78&gt;LVUP Further increases exhaust attack.&lt;/COL&gt;
-</translation>
+&lt;COL ffdc78&gt;LVUP Further increases exhaust attack.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_10</key>
