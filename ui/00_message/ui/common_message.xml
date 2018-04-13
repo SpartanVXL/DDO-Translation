@@ -309,7 +309,7 @@
   <message>
     <key>common_unit_gs</key>
     <original>個</original>
-    <translation>Number</translation>
+    <translation>x</translation>
   </message>
   <message>
     <key>common_indicator_lestania</key>
@@ -571,7 +571,7 @@
   <message>
     <key>common_colon</key>
     <original>：</original>
-    <translation>：</translation>
+    <translation>: </translation>
   </message>
   <message>
     <key>common_nakaten</key>
@@ -721,6 +721,7 @@
   <message>
     <key>common_unit_silverticket</key>
     <original>枚</original>
+    <translation>x</translation>
   </message>
   <message>
     <key>common_unitname_evoticket</key>
@@ -730,6 +731,7 @@
   <message>
     <key>common_unit_evoticket</key>
     <original>枚</original>
+    <translation>x</translation>
   </message>
   <message>
     <key>common_possession</key>
@@ -775,6 +777,7 @@
   <message>
     <key>common_open_onlineshop</key>
     <original>オンラインショップを開く</original>
+    <translation>Open Online Shop</translation>
   </message>
   <message>
     <key>common_msg_gs_lack</key>
@@ -784,25 +787,31 @@
   <message>
     <key>common_msg_state_progress</key>
     <original>進行状況</original>
+    <translation>Status</translation>
   </message>
   <message>
     <key>common_msg_reward</key>
     <original>探索</original>
+    <translation>Reward</translation>
   </message>
   <message>
     <key>common_msg_received</key>
     <original>クリア報酬が発生しません</original>
+    <translation>Clear Reward Unavailable</translation>
   </message>
   <message>
     <key>common_msg_not_received</key>
     <original>階層ごとの報酬が入手可能</original>
+    <translation>Level Reward Available</translation>
   </message>
   <message>
     <key>common_msg_visit_on</key>
     <original>訪問を許可する</original>
+    <translation>Visit Allowed</translation>
   </message>
   <message>
     <key>common_msg_visit_off</key>
     <original>訪問を許可しない</original>
+    <translation>Visit Denied</translation>
   </message>
 </resource>
