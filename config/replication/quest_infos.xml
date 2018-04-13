@@ -1232,6 +1232,12 @@
     </rewrite>
     <!-- Storm into -->
     <rewrite>
+      <original_match>^(.+)に続き(.+)へ突入する$</original_match>
+      <translation_replace>Storm into {1:d} with {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)へ突入する$</original_match>
       <translation_replace>Storm into {0:d}</translation_replace>
       <translation_arg message_set="location name" />
