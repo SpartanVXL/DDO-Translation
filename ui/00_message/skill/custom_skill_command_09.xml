@@ -13,11 +13,9 @@
     <key>CUSTOM_SKILL_COMMAND_09_108</key>
     <original>&lt;PADM&gt;セットボタンを押し、左スティックを倒して５属性を選択&lt;KEYM&gt;セットボタンを押し、マウス移動で５属性を選択&lt;/KEYM&gt;
 &lt;KC ATTACK1&gt;または&lt;KC ATTACK2&gt;を押して属性決定</original>
-    <translation>&lt;PADM&gt;Press the assigned button and select from 5 elemental 
-attributes using the left stick.
-&lt;KEYM&gt;Press the assigned button and select from 5 elemental 
-attributes using the mouse.&lt;/KEYM&gt;
-Confirm the element choice by pressing &lt;KC ATTACK1&gt; or &lt;KC ATTACK2&gt;</translation>
+    <translation>Press &lt;PADM&gt;the assigned button&lt;KEYM&gt;the assigned button&lt;/KEYM&gt;, then select from &lt;PADM&gt;5&lt;KEYM&gt;5&lt;/KEYM&gt;
+elements using &lt;PADM&gt;the left stick&lt;KEYM&gt;mouse movement&lt;/KEYM&gt;.
+Press &lt;KC ATTACK1&gt; or &lt;KC ATTACK2&gt; to confirm element choice.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_109</key>
@@ -51,9 +49,7 @@ Confirm the element choice by pressing &lt;KC ATTACK1&gt; or &lt;KC ATTACK2&gt;<
 戦甲へのカウンターに特化&lt;/COL&gt;</original>
     <!-- NEEDS REVIEW -->
     <!--セットボタンを押す-->
-    <translation>
-
-Press the assigned button.</translation>
+    <translation>Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_113</key>
@@ -69,6 +65,9 @@ Press the assigned button.</translation>
     <key>CUSTOM_SKILL_COMMAND_09_115</key>
     <original>セットボタンを連続して押す
 展開後、その場に留まることで展開時間を延長</original>
+    <translation>Repeatedly press the assigned button.
+After deployment, extend duration by
+staying in place.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_189</key>
@@ -83,17 +82,21 @@ Press the assigned button.</translation>
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_191</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_192</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_229</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_230</key>
     <original>セットボタンを押す</original>
+    <translation>Press the assigned button.</translation>
   </message>
 </resource>

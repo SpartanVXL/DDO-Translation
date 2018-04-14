@@ -1,15 +1,20 @@
 ﻿<replication>
-  <message_set name="custom skill name">
+  <message_set name="skill name">
     <match>^ui\\00_message\\skill\\custom_skill_name_\d+$</match>
+    <match>^ui\\00_message\\skill\\normal_skill_name_\d+$</match>
     <rewrite>
       <original_match>^(.+) 剛$</original_match>
       <translation_replace>{0} (P)</translation_replace>
-      <translation_arg message_set="custom skill name" />
+      <translation_arg message_set="skill name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+) 技$</original_match>
       <translation_replace>{0} (T)</translation_replace>
-      <translation_arg message_set="custom skill name" />
+      <translation_arg message_set="skill name" />
     </rewrite>
+    <extra>
+      <original>バックリープ</original>
+      <translation>Back Leap</translation>
+    </extra>
   </message_set>
 </replication>
