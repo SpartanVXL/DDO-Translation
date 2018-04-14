@@ -50,9 +50,6 @@
   <message_set name="arisen card background name">
     <match>^ui\\00_message\\ui\\arisencard_background_name$</match>
   </message_set>
-  <message_set name="parameter name">
-    <match>^ui\\00_message\\ui\\parameter$</match>
-  </message_set>
   <message_set name="condition name">
     <match>^ui\\00_message\\common\\condition_name$</match>
   </message_set>
