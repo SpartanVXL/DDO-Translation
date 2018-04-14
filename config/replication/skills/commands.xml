@@ -262,7 +262,7 @@ holding movement keys&lt;/KEYM&gt;.</translation_replace>
       <translation_arg index="2" message_set="skill command button" />
     </rewrite>
     <rewrite>
-    	<original_match>^&lt;PADM&gt;空中で左スティックを倒しながら(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;空中で移動キーを押しながら(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;/KEYM&gt;
+      <original_match>^&lt;PADM&gt;空中で左スティックを倒しながら(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;空中で移動キーを押しながら(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;/KEYM&gt;
 アタックブーストで強化可能$</original_match>
       <translation_replace>While in the air, press &lt;PADM&gt;{0:d} while
 moving the left stick&lt;KEYM&gt;{2:d} while
@@ -354,20 +354,20 @@ Further enhanced with {2:d}.</translation_replace>
       <translation_arg index="3" message_set="skill command cost" />
     </rewrite>
     <rewrite>
-    	<original_match>^ブースト発動中に(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)または(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す$</original_match>
+      <original_match>^ブースト発動中に(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)または(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す$</original_match>
       <translation_replace>During boost, press {0:d} or {2:d}.</translation_replace>
       <translation_arg index="0" message_set="skill command button" />
       <translation_arg index="2" message_set="skill command button" />
     </rewrite>
     <rewrite>
-    	<original_match>^詠唱中、(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)でスペリング入力モードに切り替え
+      <original_match>^詠唱中、(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)でスペリング入力モードに切り替え
 &lt;PADM&gt;右スティックで規定コマンド入力&lt;KEYM&gt;マウス移動で規定コマンド入力&lt;/KEYM&gt;$</original_match>
       <translation_replace>During a chant, switch to glyph
 input mode with {0:d}.
 Input the shown glyph with &lt;PADM&gt;the right stick&lt;KEYM&gt;mouse movement&lt;/KEYM&gt;.</translation_replace>
     </rewrite>
     <rewrite>
-    	<original_match>^(.+)、(.+)使用時に
+      <original_match>^(.+)、(.+)使用時に
 自動的に発動$</original_match>
       <translation_replace>Automatically activated when you use
 {0} or {1}.</translation_replace>
@@ -375,51 +375,51 @@ Input the shown glyph with &lt;PADM&gt;the right stick&lt;KEYM&gt;mouse movement
       <translation_arg index="1" message_set="skill name" />
     </rewrite>
     <rewrite>
-    	<original_match>^&lt;PADM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押して構えてから&lt;ICON MOUSE_WHL_4&gt;で構え切替（初期設定の場合）$</original_match>
+      <original_match>^&lt;PADM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押して構えてから&lt;ICON MOUSE_WHL_4&gt;で構え切替（初期設定の場合）$</original_match>
       <translation_replace>&lt;PADM&gt;Press {0:d}.&lt;KEYM&gt;Press and hold {2:d}, then &lt;ICON MOUSE_WHL_4&gt; (default setting)
 to switch stance.</translation_replace>
       <translation_arg index="0" message_set="skill command button" />
       <translation_arg index="2" message_set="skill command button" />
     </rewrite>
     <rewrite>
-    	<original_match>^&lt;PADM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)または(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押しながら右スティックを倒す&lt;KEYM&gt;(.+)え中にマウス移動$</original_match>
+      <original_match>^&lt;PADM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)または(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押しながら右スティックを倒す&lt;KEYM&gt;(.+)え中にマウス移動$</original_match>
       <translation_replace>&lt;PADM&gt;Press and hold {0:d} or {2:d}, then move the right stick&lt;KEYM&gt;During {4}, move the mouse&lt;/KEYM&gt;.</translation_replace>
       <translation_arg index="0" message_set="skill command button" />
       <translation_arg index="2" message_set="skill command button" />
       <translation_arg index="4" message_set="skill command stance" />
     </rewrite>
     <rewrite>
-    	<original_match>^&lt;PADM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押しながら右スティックを倒す&lt;KEYM&gt;(.+)え中にマウス移動$</original_match>
-    	<translation_replace>&lt;PADM&gt;Press and hold {0:d}, then move the right stick&lt;KEYM&gt;During {2}, move the mouse&lt;/KEYM&gt;.</translation_replace>
-    	<translation_arg index="0" message_set="skill command button" />
-    	<translation_arg index="2" message_set="skill command stance" />
+      <original_match>^&lt;PADM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押しながら右スティックを倒す&lt;KEYM&gt;(.+)え中にマウス移動$</original_match>
+      <translation_replace>&lt;PADM&gt;Press and hold {0:d}, then move the right stick&lt;KEYM&gt;During {2}, move the mouse&lt;/KEYM&gt;.</translation_replace>
+      <translation_arg index="0" message_set="skill command button" />
+      <translation_arg index="2" message_set="skill command stance" />
     </rewrite>
     <rewrite>
-    	<original_match>^&lt;PADM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押しながら(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;(.+)え中に(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す$</original_match>
-    	<translation_replace>&lt;PADM&gt;Hold {0:d}, then press {2:d}&lt;KEYM&gt;During {4}, press {5:d}&lt;/KEYM&gt;.</translation_replace>
-    	<translation_arg index="0" message_set="skill command button" />
-    	<translation_arg index="2" message_set="skill command button" />
-    	<translation_arg index="4" message_set="skill command stance" />
-    	<translation_arg index="5" message_set="skill command button" />
+      <original_match>^&lt;PADM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押しながら(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;(.+)え中に(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す$</original_match>
+      <translation_replace>&lt;PADM&gt;Hold {0:d}, then press {2:d}&lt;KEYM&gt;During {4}, press {5:d}&lt;/KEYM&gt;.</translation_replace>
+      <translation_arg index="0" message_set="skill command button" />
+      <translation_arg index="2" message_set="skill command button" />
+      <translation_arg index="4" message_set="skill command stance" />
+      <translation_arg index="5" message_set="skill command button" />
     </rewrite>
     <rewrite>
-    	<original_match>^(.+)え中に(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す$</original_match>
-    	<translation_replace>During {0}, press {1:d}.</translation_replace>
-    	<translation_arg index="0" message_set="skill command stance" />
-    	<translation_arg index="1" message_set="skill command button" />
+      <original_match>^(.+)え中に(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す$</original_match>
+      <translation_replace>During {0}, press {1:d}.</translation_replace>
+      <translation_arg index="0" message_set="skill command stance" />
+      <translation_arg index="1" message_set="skill command button" />
     </rewrite>
     <rewrite>
-    	<original_match>^&lt;PADM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;構え中に&lt;ICON MOUSE_WHL_4&gt;前後で選択（初期設定の場合）$</original_match>
-    	<translation_replace>&lt;PADM&gt;Press {0:d}&lt;KEYM&gt;While aiming, select with &lt;ICON MOUSE_WHL_4&gt; (default setting)&lt;/KEYM&gt;.</translation_replace>
-    	<translation_arg index="0" message_set="skill command stance" />
-    	<translation_arg index="1" message_set="skill command button" />
+      <original_match>^&lt;PADM&gt;(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;構え中に&lt;ICON MOUSE_WHL_4&gt;前後で選択（初期設定の場合）$</original_match>
+      <translation_replace>&lt;PADM&gt;Press {0:d}&lt;KEYM&gt;While aiming, select with &lt;ICON MOUSE_WHL_4&gt; (default setting)&lt;/KEYM&gt;.</translation_replace>
+      <translation_arg index="0" message_set="skill command stance" />
+      <translation_arg index="1" message_set="skill command button" />
     </rewrite>
     <rewrite>
-    	<original_match>^&lt;PADM&gt;矢の装填中、特定のタイミングで(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;矢の装填中、特定のタイミングで(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す$</original_match>
-    	<translation_replace>While reloading arrows, press &lt;PADM&gt;{0:d}&lt;KEYM&gt;{2:d}&lt;/KEYM&gt;
+      <original_match>^&lt;PADM&gt;矢の装填中、特定のタイミングで(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;矢の装填中、特定のタイミングで(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す$</original_match>
+      <translation_replace>While reloading arrows, press &lt;PADM&gt;{0:d}&lt;KEYM&gt;{2:d}&lt;/KEYM&gt;
 with perfect timing.</translation_replace>
-    	<translation_arg index="0" message_set="skill command button" />
-    	<translation_arg index="2" message_set="skill command button" />
+      <translation_arg index="0" message_set="skill command button" />
+      <translation_arg index="2" message_set="skill command button" />
     </rewrite>
   </message_set>
   <message_set name="skill command button">
@@ -449,26 +449,26 @@ with perfect timing.</translation_replace>
       <translation>1 magick stack</translation>
     </extra>
     <extra>
-    	<original>魔力２スタック</original>
-    	<translation>2 magick stacks</translation>
+      <original>魔力２スタック</original>
+      <translation>2 magick stacks</translation>
     </extra>
   </message_set>
   <message_set name="skill command stance">
-  	<extra>
-  		<original>爆矢構</original>
-  		<translation>Explosive Stance</translation>
-  	</extra>
-  	<extra>
-  		<original>闘波の構</original>
-  		<translation>Seeker Stance</translation>
-  	</extra>
-  	<extra>
-  		<original>助真の構</original>
-  		<translation>True Aid Stance</translation>
-  	</extra>
-  	<extra>
-  		<original>闘波／助真の構</original>
-  		<translation>Seeker/True Aid Stance</translation>
-  	</extra>
+    <extra>
+      <original>爆矢構</original>
+      <translation>Explosive Stance</translation>
+    </extra>
+    <extra>
+      <original>闘波の構</original>
+      <translation>Seeker Stance</translation>
+    </extra>
+    <extra>
+      <original>助真の構</original>
+      <translation>True Aid Stance</translation>
+    </extra>
+    <extra>
+      <original>闘波／助真の構</original>
+      <translation>Seeker/True Aid Stance</translation>
+    </extra>
   </message_set>
 </replication>
