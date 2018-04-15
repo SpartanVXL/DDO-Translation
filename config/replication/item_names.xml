@@ -7,6 +7,11 @@
       <translation_arg message_set="job name" />
     </rewrite>
     <rewrite>
+      <original_match>^閃きの果実【(.+)】$</original_match>
+      <translation_replace>Fruit of Inspiration ({0})</translation_replace>
+      <translation_arg message_set="pawn special skill category name" />
+    </rewrite>
+    <rewrite>
       <original_match>^AP【(.+)】$</original_match>
       <translation_replace>AP ({0})</translation_replace>
       <translation_arg message_set="location name" />
