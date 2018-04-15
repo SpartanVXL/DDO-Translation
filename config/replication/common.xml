@@ -33,6 +33,9 @@
   <message_set name="ability name">
     <match>^ui\\00_message\\skill\\ability_name$</match>
   </message_set>
+  <message_set name="ability info">
+    <match>^ui\\00_message\\skill\\ability_info$</match>
+  </message_set>
   <message_set name="normal skill name">
     <match>^ui\\00_message\\skill\\normal_skill_name_\d+$</match>
     <extra>

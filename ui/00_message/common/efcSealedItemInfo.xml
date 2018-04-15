@@ -2,372 +2,507 @@
   <message>
     <key>IDX_124</key>
     <original>物理攻撃力を上昇させる</original>
+    <translation>Increase Physical Attack.</translation>
   </message>
   <message>
     <key>IDX_149</key>
     <original>状態異常【物防低下】
 を付加する</original>
+    <translation>Debilitation "Physical Defense Down" added.</translation>
   </message>
   <message>
     <key>IDX_126</key>
     <original>物理防御力を上昇させる</original>
+    <translation>Increase Physical Defense.</translation>
   </message>
   <message>
     <key>IDX_125</key>
     <original>魔法攻撃力を上昇させる</original>
+    <translation>Increase Magick Attack.</translation>
   </message>
   <message>
     <key>IDX_150</key>
     <original>状態異常【魔防低下】
 を付加する</original>
+    <translation>Debilitation "Magick Defense Down" added.</translation>
   </message>
   <message>
     <key>IDX_127</key>
     <original>魔法防御力を上昇させる</original>
+    <translation>Increase Magick Defense.</translation>
   </message>
   <message>
     <key>IDX_132</key>
     <original>吹き飛ばし力を上昇させる</original>
+    <translation>Increase Blow Power.</translation>
   </message>
   <message>
     <key>IDX_142</key>
     <original>状態異常【黄金化】
 を付加する</original>
+    <translation>Debilitation "Golden" added.</translation>
   </message>
   <message>
     <key>IDX_128</key>
     <original>体力を上昇させる</original>
+    <translation>Increase Health Points.</translation>
   </message>
   <message>
     <key>IDX_135</key>
     <original>気絶攻力を上昇させる</original>
+    <translation>Increase Knockout Power.</translation>
   </message>
   <message>
     <key>IDX_143</key>
     <original>状態異常【睡眠】
 を付加する</original>
+    <translation>Debilitation "Sleep" added.</translation>
   </message>
   <message>
     <key>IDX_129</key>
     <original>スタミナを上昇させる</original>
+    <translation>Increase Stamina.</translation>
   </message>
   <message>
     <key>IDX_147</key>
     <original>状態異常【物攻低下】
 を付加する</original>
+    <translation>Debilitation "Physical Attack Down" added.</translation>
   </message>
   <message>
     <key>IDX_144</key>
     <original>状態異常【石化】
 を付加する</original>
+    <translation>Debilitation "Petrification" added.</translation>
   </message>
   <message>
     <key>IDX_130</key>
     <original>生命治癒力を上昇させる</original>
+    <translation>Increase Healing Power.</translation>
   </message>
   <message>
     <key>IDX_148</key>
     <original>状態異常【魔攻低下】
 を付加する</original>
+    <translation>Debilitation "Magick Attack Down" added.</translation>
   </message>
   <message>
     <key>IDX_145</key>
     <original>状態異常【遅延】
 を付加する</original>
+    <translation>Debilitation "Slow" added.</translation>
   </message>
   <message>
     <key>IDX_131</key>
     <original>耐久力を上昇させる</original>
+    <translation>Increase Endurance.</translation>
   </message>
   <message>
     <key>IDX_136</key>
     <original>重量を低下させる</original>
+    <translation>Decrease Weight.</translation>
   </message>
   <message>
     <key>IDX_146</key>
     <original>状態異常【軟化】
 を付加する</original>
+    <translation>Debilitation "Softened" added.</translation>
   </message>
   <message>
     <key>IDX_137</key>
     <original>状態異常【延焼】【炎防低下】【油濡れ】
 を付加する</original>
+    <translation>Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred" added.</translation>
   </message>
   <message>
     <key>IDX_154</key>
     <original>対敵特効【巨人】を付加する</original>
+    <translation>"Giant Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_162</key>
     <original>対敵特効【腐死】を付加する</original>
+    <translation>"Undead Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_138</key>
     <original>状態異常【凍結】【氷防低下】【水濡れ】
 を付加する</original>
+    <translation>Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched" added.</translation>
   </message>
   <message>
     <key>IDX_155</key>
     <original>対敵特効【呪詛】を付加する</original>
+    <translation>"Cursed Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_163</key>
     <original>対敵特効【魔族】を付加する</original>
+    <translation>"Demon Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_139</key>
     <original>状態異常【感電】【雷防低下】【水濡れ】
 を付加する</original>
+    <translation>Debilitations "Shocked",
+"Thunder Resist Down", "Drenched" added.</translation>
   </message>
   <message>
     <key>IDX_156</key>
     <original>対敵特効【獣】を付加する</original>
+    <translation>"Beast Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_164</key>
     <original>対敵特効【有翼】を付加する</original>
+    <translation>"Winged Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_140</key>
     <original>状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する</original>
+    <translation>Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled" added.</translation>
   </message>
   <message>
     <key>IDX_157</key>
     <original>対敵特効【侵食】を付加する</original>
+    <translation>"Corrupted Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_165</key>
     <original>対敵特効【竜族】を付加する</original>
+    <translation>"Dragon Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_141</key>
     <original>状態異常【闇霧】【闇防低下】【毒】
 を付加する</original>
+    <translation>Debilitations "Blinded",
+"Dark Resist Down", "Poison" added.</translation>
   </message>
   <message>
     <key>IDX_158</key>
     <original>対敵特効【人間】を付加する</original>
+    <translation>"Human Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_166</key>
     <original>対敵特効【霊体】を付加する</original>
+    <translation>"Spirit Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_151</key>
     <original>対敵特効【亜人】を付加する</original>
+    <translation>"Demihuman Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_159</key>
     <original>対敵特効【戦甲】を付加する</original>
+    <translation>"War-Ready Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_167</key>
     <original>対敵特効【錬金】を付加する</original>
+    <translation>"Alchemy Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_152</key>
     <original>対敵特効【骸骨】を付加する</original>
+    <translation>"Skeleton Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_160</key>
     <original>対敵特効【造魔】を付加する</original>
+    <translation>"Golem Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_161</key>
     <original>対敵特効【軟体】を付加する</original>
+    <translation>"Formless Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_153</key>
     <original>対敵特効【鬼人】を付加する</original>
+    <translation>"Ogre Slayer" added.</translation>
   </message>
   <message>
     <key>IDX_168</key>
     <original>斬り崩しの予備動作が短縮され
 より素早く剣を振り下ろすことができる
 &lt;COL ffdc78&gt;LV毎に予備動作さらに短縮&lt;/COL&gt;</original>
+    <translation>Decreases the charge time of Guard Break,
+allowing you to swing the sword more quickly.
+&lt;COL ffdc78&gt;LV UP: Decreases charge time further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_169</key>
     <original>えぐり突き時の攻撃速度が上昇する
 &lt;COL ffdc78&gt;LV毎に攻撃速度がより上昇&lt;/COL&gt;</original>
+    <translation>Increases attack speed when using Gouge.
+&lt;COL ffdc78&gt;LV UP: Increases attack speed further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_170</key>
     <original>盾弾きの発動時に敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
+    <translation>Increases the stagger power of your shield
+counters.
+&lt;COL ffdc78&gt;LV UP: Further increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_171</key>
     <original>盾弾きの発動時に敵を気絶させやすくなる
 &lt;COL ffdc78&gt;LV毎に気絶攻力がより増加&lt;/COL&gt;</original>
+    <translation>Increases the Knockout Power of perfect blocks.
+&lt;COL ffdc78&gt;LV UP: Further increases Knockout Power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_172</key>
     <original>盾弾きの発動時にスタミナが一定量回復する
 &lt;COL ffdc78&gt;LV毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
+    <translation>Relax your blocking, allowing recovery
+of Stamina upon performing perfect blocks.
+&lt;COL ffdc78&gt;LV UP: Increases Stamina recovery further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_173</key>
     <original>筋力が増加する
 &lt;COL ffdc78&gt;LV毎に筋力がより増加&lt;/COL&gt;</original>
+    <translation>Increases physical power.
+&lt;COL ffdc78&gt;LV UP: Further increases physical power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_174</key>
     <original>打属性攻撃によって
 受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV毎にダメージさらに軽減&lt;/COL&gt;</original>
+    <translation>Reduces damage taken from striking attacks.
+&lt;COL ffdc78&gt;LV UP: Further reduces damage taken.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_175</key>
     <original>弓の移動射ちの際、矢が照準からぶれなくなる
 &lt;COL ffdc78&gt;LV毎にぶれ幅がさらに軽減&lt;/COL&gt;</original>
+    <translation>Keeps your arrows from flying off mark
+when you loose them whilst in motion.
+&lt;COL ffdc78&gt;LV UP: Further decreases deviation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_176</key>
     <original>一度に矢筒に補充できる矢の本数が増加する
 &lt;COL ffdc78&gt;LV毎に矢の装填数がより増加&lt;/COL&gt;</original>
+    <translation>Increases the number of arrows that can
+be loaded into the quiver at a time.
+&lt;COL ffdc78&gt;LV UP: Increases arrow count further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_177</key>
     <original>達人装填の成功時にスタミナが回復する
 &lt;COL ffdc78&gt;LV毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
+    <translation>Recover Stamina when performing a master reload.
+&lt;COL ffdc78&gt;LV UP: Increases recovered Stamina further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_178</key>
     <original>状態異常を引き起こす矢の威力が増加する
 &lt;COL ffdc78&gt;LV毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation>Increases the effectiveness of status
+effect-inducing arrows.
+&lt;COL ffdc78&gt;LV UP: Further increases status effectiveness.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_179</key>
     <original>達人装填のジャストタイミングの受付時間が
 延長されより成功率が上昇する
 &lt;COL ffdc78&gt;LV毎に受付時間がより延長&lt;/COL&gt;</original>
+    <translation>Extends the time window for a master
+reload, making it easier to perform.
+&lt;COL ffdc78&gt;LV UP: Extends time window further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_180</key>
     <original>吹き飛ばし力が上昇し、
 敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
+    <translation>Increases blow power, making it easier to
+stagger enemies.
+&lt;COL ffdc78&gt;LV UP: Further increases blow power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_181</key>
     <original>射属性攻撃によって
 受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV毎にダメージさらに軽減&lt;/COL&gt;</original>
+    <translation>Reduces the damage you take from missile attacks.
+&lt;COL ffdc78&gt;LV UP: Further reduces chance of being staggered.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_182</key>
     <original>ヒールオーラ、セイントオーラ展開時の
 スタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
+    <translation>Decreases Stamina consumption while
+channeling Heal Aura and Holy Aura.
+&lt;COL ffdc78&gt;LV UP: Decreases Stamina consumption further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_183</key>
     <original>フィールドシフト時に
 敵の注目を集めにくくする
 &lt;COL ffdc78&gt;LV毎に敵からの注目度がさらに減少&lt;/COL&gt;</original>
+    <translation>Decreases the attention of
+enemies while using Field Shift.
+&lt;COL ffdc78&gt;LV UP: Decreases attention further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_184</key>
     <original>ヒールオーラ展開時に
 敵から注目されにくくなる
 &lt;COL ffdc78&gt;LV毎に敵からの注目度がさらに減少&lt;/COL&gt;</original>
+    <translation>Reduces threat generation from deploying Heal
+Aura.
+&lt;COL ffdc78&gt;LV UP: Further reduces threat generation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_185</key>
     <original>表出させたシークレットコア出現時間が
 延長される
 &lt;COL ffdc78&gt;LV毎に出現時間がより延長&lt;/COL&gt;</original>
+    <translation>Increases the duration of secret cores.
+&lt;COL ffdc78&gt;LV UP: Further increses duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_186</key>
     <original>助け起こしたパーティーメンバーの
 最大体力が一定時間増加する
 &lt;COL ffdc78&gt;LV毎に効果持続時間がより延長&lt;/COL&gt;</original>
+    <translation>Temporarily increases the maximum health of
+allies you revive.
+&lt;COL ffdc78&gt;LV UP: Further increases effect duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_187</key>
     <original>受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV毎にダメージさらに軽減&lt;/COL&gt;</original>
+    <translation>Reduces damage taken.
+&lt;COL ffdc78&gt;LV UP: Further reduces damage taken.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_188</key>
     <original>アトラクト発動時に
 より敵の注目を集めるようになる
 &lt;COL ffdc78&gt;LV毎に敵からの注目度がより増加&lt;/COL&gt;</original>
+    <translation>Increases the rate at which Attract
+generates enemy attention.
+&lt;COL ffdc78&gt;LV UP: Further increases attention.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_189</key>
     <original>フォースバーストで
 より敵を状態異常にかかりやすくする
 &lt;COL ffdc78&gt;LV毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation>Increases the rate at which Force Burst
+applies elemental debilitations.
+&lt;COL ffdc78&gt;LV UP: Increases debilitation rate further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_190</key>
     <original>フォースエンチャントの効果持続時間が
 延長される
 &lt;COL ffdc78&gt;LV毎に効果持続時間がより延長&lt;/COL&gt;</original>
+    <translation>Increases the effect duration
+of Force Enchantment.
+&lt;COL ffdc78&gt;LV UP: Increases duration further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_191</key>
     <original>シールドシーケンスを行ったときに
 スタミナが回復する
 &lt;COL ffdc78&gt;LV毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
+    <translation>Recovers your stamina after executing Shield
+Sequence.
+&lt;COL ffdc78&gt;LV UP: Further increases stamina recovered.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_192</key>
     <original>フォースゲージの消費時に少しゲージが残る
 &lt;COL ffdc78&gt;LV毎にゲージ残量が増加&lt;/COL&gt;</original>
+    <translation>Allows some Force Gauge to remain after
+your gauge is consumed.
+&lt;COL ffdc78&gt;LV UP: Increases the amount further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_193</key>
     <original>物理防御力と魔法防御力が増加する
 &lt;COL ffdc78&gt;LV毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
+    <translation>Increases physical and magic defense.
+&lt;COL ffdc78&gt;LV UP: Further increases defenses.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_194</key>
     <original>最大体力が増加する
 &lt;COL ffdc78&gt;LV毎に最大体力がより増加&lt;/COL&gt;</original>
+    <translation>Increases maximum health.
+&lt;COL ffdc78&gt;LV UP: Further increases maximum health.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_195</key>
     <original>白竜神殿から出てしばらくの間
 最大体力が増加する
 &lt;COL ffdc78&gt;LV毎に最大体力がより増加&lt;/COL&gt;</original>
+    <translation>Increases your health after leaving
+White Dragon Temple for a period of time.
+&lt;COL ffdc78&gt;LV UP: Increases health further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_196</key>
     <original>斬属性攻撃によって
 受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV毎にダメージさらに軽減&lt;/COL&gt;</original>
+    <translation>Reduces damage taken from slash attacks.
+&lt;COL ffdc78&gt;LV UP: Further reduces damage taken.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_197</key>
     <original>シーカーロープの飛距離が延長される
 &lt;COL ffdc78&gt;LV毎に飛距離がより延長&lt;/COL&gt;</original>
+    <translation>Extends the flying distance of the Seeker Rope.
+&lt;COL ffdc78&gt;LV UP: Extends the distance further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_198</key>
     <original>シーカーロープでの移動後、接触時に繰り出す
 打撃攻撃で敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
+    <translation>Increases the Blow Power of your Seeker Rope,
+increasing the likelihood it will break enemy posture.
+&lt;COL ffdc78&gt;LV UP: Increases Blow Power further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_199</key>
     <original>転身の速度が上昇する
 &lt;COL ffdc78&gt;LV毎に速度がより上昇&lt;/COL&gt;</original>
+    <translation>Increases the speed of your dodge roll.
+&lt;COL ffdc78&gt;LV UP: Further increases speed.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_200</key>
     <original>二段跳びの高度が上昇する
 &lt;COL ffdc78&gt;LV毎に高度がより上昇&lt;/COL&gt;</original>
+    <translation>Increases the jump height of your Double Jump.
+&lt;COL ffdc78&gt;LV UP: Increases jump height further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_202</key>
     <original>しがみつき時に与えるダメージ量が
 大きく増加する
 &lt;COL ffdc78&gt;LV毎にダメ―ジがより増加&lt;/COL&gt;</original>
+    <translation>Increases damage dealt while grabbing
+onto enemies.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_203</key>
@@ -375,21 +510,30 @@
 揺さぶりによって敵のスタミナを
 より奪いやすくなる
 &lt;COL ffdc78&gt;LV毎に奪う敵スタミナ量がより増加&lt;/COL&gt;</original>
+    <translation>Increases the rate at which shaking an enraged
+enemy drains their stamina.
+&lt;COL ffdc78&gt;LV UP: Further increases stamina drain.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_204</key>
     <original>しがみつき時に受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV毎にダメージさらに軽減&lt;/COL&gt;</original>
+    <translation>Reduces damage taken while grabbing onto an enemy.
+&lt;COL ffdc78&gt;LV UP: Further reduces damage taken.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_201</key>
     <original>回避行動時の移動距離が延長される
 &lt;COL ffdc78&gt;LV毎に移動距離がより延長&lt;/COL&gt;</original>
+    <translation>Increases the distance of evasion actions.
+&lt;COL ffdc78&gt;LV UP: Further increases distance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_205</key>
     <original>空中攻撃の威力が増加する
 &lt;COL ffdc78&gt;LV毎に威力がより増加&lt;/COL&gt;</original>
+    <translation>Increases damage of aerial attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_206</key>
@@ -397,23 +541,34 @@
 落差が大きいほど空中攻撃力の増加幅が
 拡張される
 &lt;COL ffdc78&gt;LV毎に増加幅がより拡張&lt;/COL&gt;</original>
+    <translation>Increases the damage of drop attacks
+performed from high places.
+&lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_207</key>
     <original>マジックトラップの展開時に
 より敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
+    <translation>Increases the Blow Power of Magic Trap,
+allowing it to break enemy posture more easily.
+&lt;COL ffdc78&gt;LV UP: Further increases Blow Power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_208</key>
     <original>スペリング入力の成功時にスタミナが回復する
 &lt;COL ffdc78&gt;LV毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
+    <translation>Restores Stamina upon successful spell inputs.
+&lt;COL ffdc78&gt;LV UP: Increases Stamina restored further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_209</key>
     <original>スペリングの入力難度が低くなり
 魔法効果増大が狙いやすくなる
 &lt;COL ffdc78&gt;LV毎に難度がより低下&lt;/COL&gt;</original>
+    <translation>Decreases the difficulty of doing Chanting inputs,
+making it easier to increase the magic's power.
+&lt;COL ffdc78&gt;LV UP: Decreases difficulty further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_210</key>
@@ -421,52 +576,76 @@
 行えるようになり
 詠唱ゲージを一定量保持して詠唱を継続できる
 &lt;COL ffdc78&gt;LV毎にゲージ保持量がより増加&lt;/COL&gt;</original>
+    <translation>Allows use of Back Move while charging magic.
+The charge will continue, but you will suffer
+a penalty to the chant gauge.
+&lt;COL ffdc78&gt;LV UP: Decreases penalty to the
+chant gauge further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_212</key>
     <original>火属性攻撃によって
 与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV毎にダメ―ジがより増加&lt;/COL&gt;</original>
+    <translation>Increases damage dealt with the Fire attribute.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_213</key>
     <original>氷属性攻撃によって
 与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV毎にダメ―ジがより増加&lt;/COL&gt;</original>
+    <translation>Increases damage dealt with the Ice attribute.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_214</key>
     <original>雷属性攻撃によって
 与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV毎にダメ―ジがより増加&lt;/COL&gt;</original>
+    <translation>Increases damage dealt with the Thunder attribute.
+&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_215</key>
     <original>聖属性攻撃によって
 与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV毎にダメ―ジがより増加&lt;/COL&gt;</original>
+    <translation>Increases the damage you deal with holy element
+attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_216</key>
     <original>闇属性攻撃によって
 与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV毎にダメ―ジがより増加&lt;/COL&gt;</original>
+    <translation>Increases the damage dealt by dark attribute
+attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases damage.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_217</key>
     <original>魔力が増加する
 &lt;COL ffdc78&gt;LV毎に魔力がより増加&lt;/COL&gt;</original>
+    <translation>Increases magic power.
+&lt;COL ffdc78&gt;LV UP: Further increases magic power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_211</key>
     <original>魔法詠唱中にスタミナが回復する
 &lt;COL ffdc78&gt;LV毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
+    <translation>Recovers stamina while casting spells.
+&lt;COL ffdc78&gt;LV UP: Further increases stamina recovery.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_218</key>
     <original>魔眼により複数の攻撃対象を捕捉した際、
 魔力増加速度が上昇する
 &lt;COL ffdc78&gt;LV毎に増加速度がより上昇&lt;/COL&gt;</original>
+    <translation>Increases the rate at which your magic power
+increase from targeting multiple enemies with Magic Eye.
+&lt;COL ffdc78&gt;LV UP: Further increases magic power increase rate.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_219</key>
@@ -474,11 +653,17 @@
 強力な魔矢を放てるジャストタイミングが
 延長され、成功率が上がる
 &lt;COL ffdc78&gt;LV毎に受付時間がより延長&lt;/COL&gt;</original>
+    <translation>Increases the just timing window of tracking
+targets a second time with Magic Eye to
+fire a stronger magic arrow.
+&lt;COL ffdc78&gt;LV UP: Further increases timing window.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_220</key>
     <original>魔矢の飛行速度が上昇する
 &lt;COL ffdc78&gt;LV毎に速度がより上昇&lt;/COL&gt;</original>
+    <translation>Increases the flight speed of your magic arrows.
+&lt;COL ffdc78&gt;LV UP: Further increases flight speed.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_221</key>
@@ -486,64 +671,95 @@
 生み出された魔法球の効果持続時間が
 延長される
 &lt;COL ffdc78&gt;LV毎に持続時間がより延長&lt;/COL&gt;</original>
+    <translation>Increases the duration of the spheres left by
+magic arrows with healing or recovery properties.
+&lt;COL ffdc78&gt;LV UP: Further increases sphere duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_222</key>
     <original>癒しの装の回復効果が上昇する
 &lt;COL ffdc78&gt;LV毎に回復力がより上昇&lt;/COL&gt;</original>
+    <translation>Increases the amount healed by your Healing Dress.
+&lt;COL ffdc78&gt;LV UP: Further healing power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_223</key>
     <original>敵にダメージを与えた時、体力が回復する
 &lt;COL ffdc78&gt;LV毎に回復力がより上昇&lt;/COL&gt;</original>
+    <translation>Recovers health when damaging enemies.
+&lt;COL ffdc78&gt;LV UP: Further increases health recovered.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_224</key>
     <original>生命治癒力が増加し、
 体力の治癒上限値が低下しにくくなる
 &lt;COL ffdc78&gt;LV毎に生命治癒力がより増加&lt;/COL&gt;</original>
+    <translation>Increases your recovery power, and slows the rate
+at which your maximum recoverable health decreases.
+&lt;COL ffdc78&gt;LV UP: Further increases recovery power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_225</key>
     <original>炎属性攻撃を対象に当てた際
 延焼の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation>Increases chance to cause burning when
+attacking enemies with fire element attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases burning chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_226</key>
     <original>氷属性攻撃を対象に当てた際
 凍結の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation>Increases chance to cause freezing when attacking
+enemies with ice element attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases freezing chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_227</key>
     <original>雷属性攻撃を対象に当てた際
 感電の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation>Increases chance to cause shock when attacking
+enemies with thunder element attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases shock chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_228</key>
     <original>聖属性攻撃を対象に当てた際
 聖吸の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation>Increases the chance of causing Holy Drain when
+attacking with holy element attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases Holy Drain chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_229</key>
     <original>闇属性攻撃を対象に当てた際
 闇霧の状態異常にかかりやすくなる
 &lt;COL ffdc78&gt;LV毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation>Increases the chance of causing Darkness when
+attacking with dark element attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases Darkness chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_230</key>
     <original>カウンター攻撃でリベンジゲージが
 たまりやすくなる
 &lt;COL ffdc78&gt;LV毎にゲージ蓄積量がより増加&lt;/COL&gt;</original>
+    <translation>Increases revenge gauge gains from counter
+attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases revenge gauge gains.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_231</key>
     <original>リベンジゲージ最大時に防御力が増加し、
 攻撃を受けても体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV毎に物理防御力/耐久力がより増加&lt;/COL&gt;</original>
+    <translation>At max revenge gauge, your defense increases
+and you do not stagger from enemy attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases defense and poise.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_232</key>
@@ -551,6 +767,9 @@
 ジャストタイミングが延長され、
 成功率が上がる
 &lt;COL ffdc78&gt;LV毎に受付時間がより延長&lt;/COL&gt;</original>
+    <translation>Extends the just timing window for
+Savage Lash and Indomitable Lash.
+&lt;COL ffdc78&gt;LV UP: Further extends window.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_233</key>
@@ -558,145 +777,216 @@
 魔人斬り、真・魔人斬りで
 繰り出す初動攻撃の吹き飛ばし力が増加する
 &lt;COL ffdc78&gt;LV毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
+    <translation>When your Revenge Gauge is consumed,
+your Savage Lash and Indomitable Lash's intial
+quake has increased Blow Power.
+&lt;COL ffdc78&gt;LV UP: Further increases Blow Power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_235</key>
     <original>気絶攻力が上昇し、敵を気絶させやすくなる
 &lt;COL ffdc78&gt;LV毎に気絶攻力がより増加&lt;/COL&gt;</original>
+    <translation>Increases your stun power, making it easier to
+stun enemies.
+&lt;COL ffdc78&gt;LV UP: Further stun power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_236</key>
     <original>チャンス攻力が上昇し、怒り状態の強敵を
 ダウンさせやすくなる
 &lt;COL ffdc78&gt;LV毎にチャンス攻力がより増加&lt;/COL&gt;</original>
+    <translation>Increases your chance attack power, making it
+easier to down enraged enemies.
+&lt;COL ffdc78&gt;LV UP: Further increases chance attack power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_237</key>
     <original>耐久力が上昇し、体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV毎に耐久力がより増加&lt;/COL&gt;</original>
+    <translation>Increases poise, making you harder to stagger.
+&lt;COL ffdc78&gt;LV UP: Further increases poise.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_234</key>
     <original>溜め攻撃で、より敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
+    <translation>Increases the stagger power of your charged
+attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases stagger power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_238</key>
     <original>攻撃時に、敵に与える錬成値が上昇する
 &lt;COL ffdc78&gt;LV毎に錬成値がより増加&lt;/COL&gt;</original>
+    <translation>Increases the rate at which you alchemize enemies
+with your attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases alchemize rate.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_239</key>
     <original>エリクシル発動時、
 変換する状態異常値が上昇する
 &lt;COL ffdc78&gt;LV毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation>Increases the effectiveness of your chosen status
+when activating Elixir.
+&lt;COL ffdc78&gt;LV UP: Further increases status effectiveness.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_240</key>
     <original>アルケム・フーガで配置される錬成物質の
 持続時間が延長される
 &lt;COL ffdc78&gt;LV毎に持続時間がより延長&lt;/COL&gt;</original>
+    <translation>Extends the duration of the catalyst left by
+Alchem Fuga.
+&lt;COL ffdc78&gt;LV UP: Further extends duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_241</key>
     <original>エリクシル発動の予備動作が短縮される
 &lt;COL ffdc78&gt;LV毎に予備動作さらに短縮&lt;/COL&gt;</original>
+    <translation>Decreases the time required to prepare your
+Elixir.
+&lt;COL ffdc78&gt;LV UP: Further decreases preparation time.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_242</key>
     <original>アルケム・フーガ成功時にスタミナが回復する
 &lt;COL ffdc78&gt;LV毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
+    <translation>Recovers your stamina upon a successful Alchem
+Fuga.
+&lt;COL ffdc78&gt;LV UP: Further increases stamina recovery.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_243</key>
     <original>スタミナの回復速度が上昇する
 &lt;COL ffdc78&gt;LV毎にスタミナ回復速度がより上昇&lt;/COL&gt;</original>
+    <translation>Increases stamina recovery rate.
+&lt;COL ffdc78&gt;LV UP: Further increases stamina recovery rate.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_244</key>
     <original>カスタムスキル使用時の
 スタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
+    <translation>Reduces stamina consumed by custom skills.
+&lt;COL ffdc78&gt;LV UP: Further reduces stamina consumption.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_245</key>
     <original>最大スタミナが増加する
 &lt;COL ffdc78&gt;LV毎に最大スタミナがより増加&lt;/COL&gt;</original>
+    <translation>Increases your maximum stamina.
+&lt;COL ffdc78&gt;LV UP: Further increases maximum stamina.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_246</key>
     <original>各種回復アイテムを使ったときに
 より高い効果が得られる
 &lt;COL ffdc78&gt;LV毎に効果がより上昇&lt;/COL&gt;</original>
+    <translation>Increases the effect of healing items.
+&lt;COL ffdc78&gt;LV UP: Further increases effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_247</key>
     <original>ブースト中のスピリットゲージ減少速度が
 低下する
 &lt;COL ffdc78&gt;LV毎により減少速度がさらに低下&lt;/COL&gt;</original>
+    <translation>Decreases the rate at which the spirit gauge drops
+during boost mode.
+&lt;COL ffdc78&gt;LV UP: Further decreases reduction rate.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_248</key>
     <original>敵の攻撃をスカー・ムーヴで回避すると
 スタミナが回復する
 &lt;COL ffdc78&gt;LV毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
+    <translation>Recover stamina when avoiding enemy attacks
+with Scar Move.
+&lt;COL ffdc78&gt;LV UP: Increases recovered Stamina further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_249</key>
     <original>エイド／エイド・モールの展開時間が
 延長される
 &lt;COL ffdc78&gt;LV毎に展開時間がより延長&lt;/COL&gt;</original>
+    <translation>Extends the duration of Aid/Aid More.
+&lt;COL ffdc78&gt;LV UP: Increases effect duration further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_250</key>
     <original>ブーストを発動すると
 物理防御力と魔法防御力を一定時間上昇させる
 &lt;COL ffdc78&gt;LV毎に効果時間がより上昇&lt;/COL&gt;</original>
+    <translation>When a boost is activated
+Physical and Magick Defense are increased for a period of time.
+&lt;COL ffdc78&gt;LV UP: Increases effect duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_251</key>
     <original>敵の攻撃をスカー・ムーヴで回避した場合の
 スピリットゲージの上昇量が増加する
 &lt;COL ffdc78&gt;LV毎にスピリットゲージがより増加&lt;/COL&gt;</original>
+    <translation>Gain a portion of spirit when avoiding
+enemy attacks with Scar Move.
+&lt;COL ffdc78&gt;LV UP: Increase gained amount further.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_252</key>
     <original>エンチャントを受けた際に
 敵に与えるダメージ量がより増加する
 &lt;COL ffdc78&gt;LV毎にダメージがより増加&lt;/COL&gt;</original>
+    <translation>Increases damage dealt to enemies when
+the weapon is enchanted.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_253</key>
     <original>魔力スタックが2以上の時に、
 筋力と魔力が増加する
 &lt;COL ffdc78&gt;LV毎に筋力と魔力がより増加&lt;/COL&gt;</original>
+    <translation>Increases Strength and Magick when
+number magickal stack is more than 2.
+&lt;COL ffdc78&gt;LVUP Further increases Strength and Magick.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_254</key>
     <original>魔印の減退速度が低下する
 &lt;COL ffdc78&gt;LV毎により減退速度がさらに低下&lt;/COL&gt;</original>
+    <translation>Slows the drain of Magick Glyph.
+&lt;COL ffdc78&gt;LVUP Further decreases the drain.下&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_255</key>
     <original>属性の付与されたルイン・ブレードで
 より敵を状態異常にかかりやすくする
 &lt;COL ffdc78&gt;LV毎に状態異常値がより増加&lt;/COL&gt;</original>
+    <translation>Ruin Blade accumulates element faster when enchanted.
+&lt;COL ffdc78&gt;LVUP Increases status effect accumulation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_256</key>
     <original>全ての純魔法の消費時に少し魔力が残る
 &lt;COL ffdc78&gt;LV毎に魔力残量がより増加&lt;/COL&gt;</original>
+    <translation>When using pure magick, a tiny portion of
+magick gauge remains.
+&lt;COL ffdc78&gt;LVUP Further increases the remaining portion.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_257</key>
     <original>全ての補助魔法の消費時に少し魔力が残る
 &lt;COL ffdc78&gt;LV毎に魔力残量がより増加&lt;/COL&gt;</original>
+    <translation>When using support magick, a tiny portion of
+magick gauge remains.
+&lt;COL ffdc78&gt;LVUP Further increases the remaining portion.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_258</key>
     <original>スタミナを一定量消費するスキルを
 使用した際に一定確率で消費を無効にする
 &lt;COL ffdc78&gt;LV毎に無効になる確率がより増加&lt;/COL&gt;</original>
+    <translation>Has a chance to not consume stamina when
+you use custom skills.
+&lt;COL ffdc78&gt;LVUP Further increases the chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_259</key>
@@ -704,10 +994,14 @@
 を消費するスキルを使用した際に
 一定確率で消費を無効にする
 &lt;COL ffdc78&gt;LV毎に無効になる確率がより増加&lt;/COL&gt;</original>
+    <translation>Has a chance to not consume Force/Revenge/Magick Gauge.
+&lt;COL ffdc78&gt;LVUP Further increases the chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>IDX_260</key>
     <original>疲労攻力が上昇する
 &lt;COL ffdc78&gt;LV毎に疲労攻力がより増加&lt;/COL&gt;</original>
+    <translation>Increases exhaust attack.
+&lt;COL ffdc78&gt;LVUP Further increases exhaust attack.&lt;/COL&gt;</translation>
   </message>
 </resource>
