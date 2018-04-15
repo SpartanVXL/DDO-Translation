@@ -263,11 +263,11 @@ holding movement keys&lt;/KEYM&gt;.</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^&lt;PADM&gt;空中で左スティックを倒しながら(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;KEYM&gt;空中で移動キーを押しながら(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す&lt;/KEYM&gt;
-アタックブーストで強化可能$</original_match>
+(.+)で強化可能$</original_match>
       <translation_replace>While in the air, press &lt;PADM&gt;{0:d} while
 moving the left stick&lt;KEYM&gt;{2:d} while
 holding movement keys&lt;/KEYM&gt;.
-Further enhanced with {2:d}.</translation_replace>
+Further enhanced with {4:d}.</translation_replace>
       <translation_arg index="0" message_set="skill command button" />
       <translation_arg index="2" message_set="skill command button" />
       <translation_arg index="4" message_set="skill name" />
