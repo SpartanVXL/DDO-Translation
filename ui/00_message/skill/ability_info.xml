@@ -576,8 +576,8 @@ when attacking enemies.
     <original>一定時間、特殊効果が付与されるアイテムの
 効果持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation>For a certain period, extends the
-duration of effects granted by items.
+    <translation>Increases the effect duration of
+effects granted by items.
 &lt;COL ffdc78&gt;LV UP: Further extends duration.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -1026,9 +1026,9 @@ Winged enemies.
     <original>盾の防御性能が向上し
 より強い攻撃を防ぎやすくなる
 &lt;COL ffdc78&gt;LV UP毎に盾ガード値がより増加&lt;/COL&gt;</original>
-    <translation>Improves the effectiveness of your shield,
-allowing you to easily prevent stronger attacks.
-&lt;COL ffdc78&gt;LV UP: Increases Guard Power further.&lt;/COL&gt;</translation>
+    <translation>Increases the guard power of the shield
+making it easier to withstand stronger attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases guard power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_121</key>
@@ -1080,7 +1080,7 @@ actions.
 &lt;COL ffdc78&gt;LV UP毎に壊れにくさがより上昇&lt;/COL&gt;</original>
     <translation>Decreases the chance of gathering items
 breaking on use.
-&lt;COL ffdc78&gt;LV UP: Further decreases chance to break.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further decreases break chance.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_409</key>
@@ -1134,8 +1134,8 @@ gain Force Gauge.
     <key>ABILITY_INFO_117</key>
     <original>空中攻撃の威力が増加する
 &lt;COL ffdc78&gt;LV UP毎に威力がより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of aerial attacks.
-&lt;COL ffdc78&gt;LV UP: Increases damage further.&lt;/COL&gt;</translation>
+    <translation>Increases damage of aerial attacks.
+&lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_127</key>
@@ -1398,9 +1398,9 @@ for a period of time.
     <key>ABILITY_INFO_12</key>
     <original>盾での攻撃時に敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>Your shield attacks are more likely to stagger
-enemies.
-&lt;COL ffdc78&gt;LV UP: Further increases stagger rate.&lt;/COL&gt;</translation>
+    <translation>Enemies are staggered more easily when
+attacking with the shield.
+&lt;COL ffdc78&gt;LV UP: Further increases blow power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_39</key>
@@ -1573,8 +1573,7 @@ elapsing.
     <key>ABILITY_INFO_226</key>
     <original>マップ上の宝箱ポイント表示範囲が拡大する</original>
     <translation>Increases the range in which treasure will
-appear on your map.
-&lt;COL ffdc78&gt;LV UP: Further increases range.&lt;/COL&gt;</translation>
+appear on your map.</translation>
   </message>
   <message>
     <key>ABILITY_INFO_423</key>
@@ -2052,7 +2051,7 @@ blow to an enemy.
   <message>
     <key>ABILITY_INFO_197</key>
     <original>風圧の影響を受けなくなる</original>
-    <translation>You are no longer affected by wind pressure.</translation>
+    <translation>You are unaffected by wind pressure.</translation>
   </message>
   <message>
     <key>ABILITY_INFO_213</key>
@@ -2269,9 +2268,9 @@ magick gauge remains.
     <key>ABILITY_INFO_40</key>
     <original>吹き飛ばし力が上昇し、敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>Increases stagger power, making it easier to
+    <translation>Increases blow power, making it easier to
 stagger enemies.
-&lt;COL ffdc78&gt;LV UP: Further increases stagger power.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further increases blow power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_54</key>
@@ -2412,7 +2411,7 @@ magic.
   <message>
     <key>ABILITY_INFO_198</key>
     <original>地震の影響を受けなくなる</original>
-    <translation>You are no longer affected by tremors.</translation>
+    <translation>You are unaffected by tremors.</translation>
   </message>
   <message>
     <key>ABILITY_INFO_225</key>
@@ -2862,7 +2861,7 @@ attracting enemy attention as a Tank.
     <original>最大体力が増加する
 &lt;COL ffdc78&gt;LV UP毎に最大体力がより増加&lt;/COL&gt;</original>
     <translation>Increases maximum health.
-&lt;COL ffdc78&gt;LV UP: Further Increases maximum health.&lt;/COL&gt;</translation>
+&lt;COL ffdc78&gt;LV UP: Further increases maximum health.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_501</key>
@@ -3015,25 +3014,25 @@ your Stamina recovers.
     <key>ABILITY_INFO_337</key>
     <original>攻撃時に、より敵の注目を集めるようになる
 &lt;COL ffdc78&gt;LV UP毎に敵からの注目度がより増加&lt;/COL&gt;</original>
-    <translation>When attacking, attacks draw more enemy attention.
-&lt;COL ffdc78&gt;LV UP: Further increase threat generation.&lt;/COL&gt;</translation>
+    <translation>Increases threat generation when attacking.
+&lt;COL ffdc78&gt;LV UP: Further increases threat generation.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_349</key>
     <original>チャンス攻力が上昇し、怒り状態の強敵を
 ダウンさせやすくなる
 &lt;COL ffdc78&gt;LV UP毎にチャンス攻力がより増加&lt;/COL&gt;</original>
-    <translation>Chance attack power increases, and
-it becomes easier to down enraged enemies.
-&lt;COL ffdc78&gt;LV UP: Increases chance attack.&lt;/COL&gt;</translation>
+    <translation>Increases your chance attack power, making it
+easier to down enraged enemies.
+&lt;COL ffdc78&gt;LV UP: Further increases chance attack power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_361</key>
     <original>吹き飛ばし力が上昇し、敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
-    <translation>Blow power increases, making it
-easier to stagger enemies.
-&lt;COL ffdc78&gt;LV UP: Increases blow power.&lt;/COL&gt;</translation>
+    <translation>Increases blow power, making it easier to
+stagger enemies.
+&lt;COL ffdc78&gt;LV UP: Further increases blow power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_373</key>
@@ -3053,9 +3052,8 @@ easier to stagger enemies.
     <key>ABILITY_INFO_397</key>
     <original>耐久力が上昇し、体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に耐久力がより増加&lt;/COL&gt;</original>
-    <translation>Endurance rises, and it becomes more
-difficult for enemies to stagger you.
-&lt;COL ffdc78&gt;LV UP: Increases endurance further.&lt;/COL&gt;</translation>
+    <translation>Increases poise, making you harder to stagger.
+&lt;COL ffdc78&gt;LV UP: Further increases poise.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_439</key>
@@ -3419,15 +3417,15 @@ LV5~6: Increases chance and exhaust attack.</translation>
     <key>ABILITY_INFO_316</key>
     <original>最大スタミナが増加する
 &lt;COL ffdc78&gt;LV UP毎に最大スタミナがより増加&lt;/COL&gt;</original>
-    <translation>Increases maximum Stamina.
-&lt;COL ffdc78&gt;LV UP: Further increases maximum Stamina.&lt;/COL&gt;</translation>
+    <translation>Increases your maximum stamina.
+&lt;COL ffdc78&gt;LV UP: Further increases maximum stamina.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_328</key>
     <original>魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に魔力がより増加&lt;/COL&gt;</original>
-    <translation>Increases Magick power.
-&lt;COL ffdc78&gt;LV UP: Further increases Magick power.&lt;/COL&gt;</translation>
+    <translation>Increases magic power.
+&lt;COL ffdc78&gt;LV UP: Further increases magic power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_340</key>
@@ -3441,8 +3439,8 @@ attacking with the shield.
     <key>ABILITY_INFO_352</key>
     <original>筋力が増加する
 &lt;COL ffdc78&gt;LV UP毎に筋力がより増加&lt;/COL&gt;</original>
-    <translation>Increases strength.
-&lt;COL ffdc78&gt;LV UP: Further increases strength.&lt;/COL&gt;</translation>
+    <translation>Increases physical power.
+&lt;COL ffdc78&gt;LV UP: Further increases physical power.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_364</key>
@@ -3466,8 +3464,8 @@ period of time when assisting and reviving party members.
     <key>ABILITY_INFO_388</key>
     <original>しがみつき時に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
-    <translation>Increases the damage of attacks while
-climbing.
+    <translation>Increases damage dealt while grabbing
+onto enemies.
 &lt;COL ffdc78&gt;LV UP: Further increases damage dealt.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -4005,33 +4003,33 @@ your party when an enemy is slain.
     <key>ABILITY_INFO_452</key>
     <original>マップ上のアイテム採取ポイント
 表示範囲が拡大する</original>
-    <translation>Increases the range in which gathering points
-appear on your map.</translation>
+    <translation>Increases the range at which gathering points
+will display on the map.</translation>
   </message>
   <message>
     <key>ABILITY_INFO_453</key>
     <original>各種回復アイテムを使ったときに
 より高い効果が得られる
 &lt;COL ffdc78&gt;LV UP毎に効果がより上昇&lt;/COL&gt;</original>
-    <translation>Increases the efficacy of healing items.
-&lt;COL ffdc78&gt;LV UP: Further increases efficacy.&lt;/COL&gt;</translation>
+    <translation>Increases the effect of healing items.
+&lt;COL ffdc78&gt;LV UP: Further increases effect.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_454</key>
     <original>一定時間、特殊効果が付与されるアイテムの
 効果持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
-    <translation>Increases the effect duration of items granting
-buffs.
-&lt;COL ffdc78&gt;LV UP: Further increases effect duration.&lt;/COL&gt;</translation>
+    <translation>Increases the effect duration of
+effects granted by items.
+&lt;COL ffdc78&gt;LV UP: Further extends duration.&lt;/COL&gt;</translation>
   </message>
   <message>
     <key>ABILITY_INFO_455</key>
     <original>採掘や伐採に使用するアイテムが
 壊れにくくなる
 &lt;COL ffdc78&gt;LV UP毎に壊れにくさがより上昇&lt;/COL&gt;</original>
-    <translation>Decreases the chance that gathering items will
-break on use.
+    <translation>Decreases the chance of gathering items
+breaking on use.
 &lt;COL ffdc78&gt;LV UP: Further decreases break chance.&lt;/COL&gt;</translation>
   </message>
   <message>
