@@ -1,0 +1,5 @@
+<replication>
+  <message_set name="pawn special skill category name">
+    <match>^ui\\00_message\\common\\pawn_sp_skill_category$</match>
+  </message_set>
+</replication>

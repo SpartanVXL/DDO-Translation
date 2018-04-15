@@ -945,12 +945,12 @@ Gained &lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;.</translation>
   <message>
     <key>syslog_goldstone_get</key>
     <original>黄金石を&lt;VAL&gt;個、入手しました（所持数：&lt;VAL&gt;）</original>
-    <translation>Received &lt;VAL&gt; Golden Gemstones (You have: &lt;VAL&gt;).</translation>
+    <translation>Golden Gemstones x&lt;VAL&gt; obtained (have: &lt;VAL&gt;).</translation>
   </message>
   <message>
     <key>syslog_silvertickets_get</key>
     <original>シルバーチケットを&lt;VAL&gt;枚、入手しました（所持数：&lt;VAL&gt;）</original>
-    <translation>Received &lt;VAL&gt; Silver Tickets (You have: &lt;VAL&gt;).</translation>
+    <translation>Silver Tickets x&lt;VAL&gt; (have: &lt;VAL&gt;).</translation>
   </message>
   <message>
     <key>syslog_success_input_eventcode</key>
@@ -984,12 +984,12 @@ receive the items.</translation>
   <message>
     <key>syslog_silvertichet_lost</key>
     <original>シルバーチケットを&lt;VAL&gt;枚、消費しました（所持数：&lt;VAL&gt;）</original>
-    <translation>Spent &lt;VAL&gt; Silver Tickets (You have: &lt;VAL&gt;).</translation>
+    <translation>Silver Tickets x&lt;VAL&gt; spent (have: &lt;VAL&gt;).</translation>
   </message>
   <message>
     <key>syslog_goldstone_lost</key>
     <original>黄金石を&lt;VAL&gt;個、消費しました（所持数：&lt;VAL&gt;）</original>
-    <translation>Spent &lt;VAL&gt; Golden Gemstones (You have: &lt;VAL&gt;).</translation>
+    <translation>Golden Gemstones x&lt;VAL&gt; spent (have: &lt;VAL&gt;).</translation>
   </message>
   <message>
     <key>syslog_bo_lost</key>
@@ -1453,12 +1453,12 @@ CP報酬の有効クリア回数が上限に達しました</original>
   <message>
     <key>syslog_evoticket_get</key>
     <original>&lt;UNTN MS&gt;を&lt;VAL&gt;&lt;UNIT MS&gt;、入手しました</original>
-    <translation>&lt;UNTN MS&gt; x&lt;VAL&gt;&lt;UNIT MS&gt; obtained.</translation>
+    <translation>&lt;UNTN MS&gt; &lt;UNIT MS&gt;&lt;VAL&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_evoticket_lost</key>
     <original>&lt;UNTN MS&gt;を&lt;VAL&gt;&lt;UNIT MS&gt;、消費しました</original>
-    <translation>&lt;UNTN MS&gt; x&lt;VAL&gt;&lt;UNIT MS&gt; spent.</translation>
+    <translation>&lt;UNTN MS&gt; &lt;UNIT MS&gt;&lt;VAL&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_action_tornado_target</key>
@@ -1593,38 +1593,47 @@ reloaded. (&lt;VAL&gt; time today)</translation>
     <key>syslog_pawn_get_spskill_stack</key>
     <original>&lt;NAME PAWN&gt;が
 &lt;VAL&gt;を閃きました</original>
+    <translation>&lt;NAME PAWN&gt; was inspired with &lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>syslog_gdm_get</key>
     <original>&lt;UNTN GDM&gt;を&lt;VAL&gt;&lt;UNIT GDM&gt;、入手しました</original>
+    <translation>&lt;UNTN GDM&gt; &lt;UNIT GDM&gt;&lt;VAL&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_sdm_get</key>
     <original>&lt;UNTN SDM&gt;を&lt;VAL&gt;&lt;UNIT SDM&gt;、入手しました</original>
+    <translation>&lt;UNTN SDM&gt; &lt;UNIT SDM&gt;&lt;VAL&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_rdm_get</key>
     <original>&lt;UNTN RDM&gt;を&lt;VAL&gt;&lt;UNIT RDM&gt;、入手しました</original>
+    <translation>&lt;UNTN RDM&gt; &lt;UNIT RDM&gt;&lt;VAL&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_gdm_lost</key>
     <original>&lt;UNTN GDM&gt;を&lt;VAL&gt;&lt;UNIT GDM&gt;、消費しました</original>
+    <translation>&lt;UNTN GDM&gt; &lt;UNIT GDM&gt;&lt;VAL&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_sdm_lost</key>
     <original>&lt;UNTN SDM&gt;を&lt;VAL&gt;&lt;UNIT SDM&gt;、消費しました</original>
+    <translation>&lt;UNTN SDM&gt; &lt;UNIT SDM&gt;&lt;VAL&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_rdm_lost</key>
     <original>&lt;UNTN RDM&gt;を&lt;VAL&gt;&lt;UNIT RDM&gt;、消費しました</original>
+    <translation>&lt;UNTN RDM&gt; &lt;UNIT RDM&gt;&lt;VAL&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_kt_get</key>
     <original>&lt;UNTN KT&gt;を&lt;VAL&gt;&lt;UNIT KT&gt;、入手しました</original>
+    <translation>&lt;UNTN KT&gt; &lt;UNIT KT&gt;&lt;VAL&gt; obtained.</translation>
   </message>
   <message>
     <key>syslog_kt_lost</key>
     <original>&lt;UNTN KT&gt;を&lt;VAL&gt;&lt;UNIT KT&gt;、消費しました</original>
+    <translation>&lt;UNTN KT&gt; &lt;UNIT KT&gt;&lt;VAL&gt; spent.</translation>
   </message>
   <message>
     <key>syslog_action_ikai_06</key>
@@ -1641,6 +1650,7 @@ reloaded. (&lt;VAL&gt; time today)</translation>
   <message>
     <key>syslog_bbi_item_embody</key>
     <original>&lt;VAL&gt;に&lt;NAME ITEM&gt;を&lt;VAL&gt;個、持ち帰りました</original>
+    <translation>Brought back into &lt;VAL&gt; is &lt;NAME ITEM&gt; x&lt;VAL&gt;.</translation>
   </message>
   <message>
     <key>syslog_kt_possession_max</key>
@@ -1661,6 +1671,7 @@ reloaded. (&lt;VAL&gt; time today)</translation>
   <message>
     <key>syslog_action_em_escape</key>
     <original>周囲から &lt;NAME TARGET&gt; の気配が消えた</original>
+    <translation>The sign of &lt;NAME TARGET&gt; has disappeared from the surroundings.</translation>
   </message>
   <message>
     <key>syslog_action_ikai_10</key>

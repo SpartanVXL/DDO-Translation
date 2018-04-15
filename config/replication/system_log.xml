@@ -21,5 +21,13 @@
       <original_match>^&lt;NAME PAWN&gt;が&lt;VAL (.+)&gt;獲得しました$</original_match>
       <translation_replace>&lt;NAME PAWN&gt; gained &lt;VAL {0}&gt;.</translation_replace>
     </rewrite>
+    <rewrite>
+      <original_match>^&lt;UNTN ([A-Z]+)&gt;を&lt;VAL&gt;&lt;UNIT ([A-Z]+)&gt;、入手しました$</original_match>
+      <translation_replace>&lt;UNTN {0}&gt; &lt;UNIT {1}&gt;&lt;VAL&gt; obtained.</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^&lt;UNTN ([A-Z]+)&gt;を&lt;VAL&gt;&lt;UNIT ([A-Z]+)&gt;、消費しました$</original_match>
+      <translation_replace>&lt;UNTN {0}&gt; &lt;UNIT {1}&gt;&lt;VAL&gt; spent.</translation_replace>
+    </rewrite>
   </message_set>
 </replication>

@@ -33,6 +33,19 @@
 　　  友人と最初から遊ぶ場合に活用します
 ※2…&lt;COL d7b450&gt;&lt;ITEM 21630&gt;&lt;/COL&gt;や、&lt;COL d7b450&gt;&lt;ITEM 23364&gt;&lt;/COL&gt;
 　　  &lt;COL d7b450&gt;&lt;ITEM 21651&gt;&lt;/COL&gt;等は大変貴重です。ご注意ください</original>
+    <translation>Do you want to &lt;COL d7b450&gt;reset progress&lt;/COL&gt;?
+The following items will be reset:
+
+・Arisen, Pawn levels.
+・Progress data such as checkpoints. (※1)
+・&lt;COL d7b450&gt;All acquired items.&lt;/COL&gt; (※2)
+
+※１…&lt;COL d7b450&gt;Rewards such as treasure chests
+   are not reset.&lt;/COL&gt; Useful for playing
+   from beginning with friends.
+※２…&lt;COL d7b450&gt;&lt;ITEM 21630&gt;&lt;/COL&gt;, &lt;COL d7b450&gt;&lt;ITEM 23364&gt;&lt;/COL&gt;,
+   &lt;COL d7b450&gt;&lt;ITEM 21651&gt;&lt;/COL&gt; are very valuable.
+   Please be careful.</translation>
   </message>
   <message>
     <key>BTL_CONTENT_RESET_CONF_RESET</key>
@@ -48,6 +61,22 @@
 ※1…&lt;COL d7b450&gt;黒呪の迷宮を再周回するために必ず必要です&lt;/COL&gt;
 ※2…&lt;COL d7b450&gt;&lt;ITEM 21630&gt;&lt;/COL&gt;や、&lt;COL d7b450&gt;&lt;ITEM 23364&gt;&lt;/COL&gt;
 　　  &lt;COL d7b450&gt;&lt;ITEM 21651&gt;&lt;/COL&gt;等は大変貴重です。ご注意ください</original>
+    <translation>Using &lt;UNTN KT&gt; &lt;UNIT KT&gt;%d.
+Do you want to &lt;COL d7b450&gt;reset rewards
+and progress&lt;/COL&gt;? (&lt;UNIT KT&gt;%d remaining)
+The following contents will be reset:
+
+・Arisen, Pawn levels.
+・Progress data such as checkpoints.
+・&lt;COL d7b450&gt;In-progress treasure chests
+ and reward data.&lt;/COL&gt; (※1)
+・&lt;COL d7b450&gt;All acquired items.&lt;/COL&gt; (※2)
+
+※１…&lt;COL d7b450&gt;Always necessary to reclaim
+   Bitterblack Maze.&lt;/COL&gt;
+※２…&lt;COL d7b450&gt;&lt;ITEM 21630&gt;&lt;/COL&gt;, &lt;COL d7b450&gt;&lt;ITEM 23364&gt;&lt;/COL&gt;
+   &lt;COL d7b450&gt;&lt;ITEM 21651&gt;&lt;/COL&gt; are very valuable.
+   Please be careful.</translation>
   </message>
   <message>
     <key>BTL_CONTENT_RESET_CONF_GP</key>

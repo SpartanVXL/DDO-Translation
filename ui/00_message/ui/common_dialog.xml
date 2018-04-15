@@ -2885,6 +2885,7 @@ Mission has been achieved today.</translation>
   <message>
     <key>ana_common_msg_usage_prohibited</key>
     <original>使用できません</original>
+    <translation>Cannot be used.</translation>
   </message>
   <message>
     <key>ana_pspskill_sub_ng_01</key>
@@ -2893,10 +2894,12 @@ Mission has been achieved today.</translation>
   <message>
     <key>ana_om_chest_open_by_enemy</key>
     <original>閉ざされていた宝箱が開いた</original>
+    <translation>The closed treasure chest has opened.</translation>
   </message>
   <message>
     <key>ana_om_chest_close_by_enemy</key>
     <original>何かの強い力で、固く閉ざされているようだ――</original>
+    <translation>A strong force, appears to be firmly shut...</translation>
   </message>
   <message>
     <key>ana_bitterblack_match_001</key>
@@ -2914,7 +2917,8 @@ Mission has been achieved today.</translation>
     <key>ana_bitterblack_match_004</key>
     <original>現在のジョブで突入準備しますか？
 &lt;COL aa1414&gt;決定するとリセットするまでジョブは変更できません&lt;/COL&gt;</original>
-    <translation>Are you sure you want to embark with your current vocation?
+    <translation>Are you sure you want to embark
+with your current vocation?
 &lt;COL aa1414&gt;Once decided it cannot be changed until reset.&lt;/COL&gt;</translation>
   </message>
   <message>
@@ -3019,6 +3023,7 @@ Mission has been achieved today.</translation>
   <message>
     <key>ana_common_item_get</key>
     <original>アイテムを受け取りました</original>
+    <translation>You have received items.</translation>
   </message>
   <message>
     <key>ana_bitterblack_match_016</key>
