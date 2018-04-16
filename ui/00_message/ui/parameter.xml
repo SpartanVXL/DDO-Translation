@@ -969,6 +969,7 @@
   <message>
     <key>param_msg_posnum</key>
     <original>所持数</original>
+    <translation>Amount</translation>
   </message>
   <message>
     <key>param_msg_anti_em</key>
@@ -1063,7 +1064,7 @@
   <message>
     <key>param_msg_posnum_ticket</key>
     <original>所持数：&lt;VAL&gt;枚</original>
-    <translation>Amount: &lt;VAL&gt;枚</translation>
+    <translation>Amount: &lt;VAL&gt;</translation>
   </message>
   <message>
     <key>weakness_attack_erosion</key>
@@ -1113,6 +1114,7 @@
   <message>
     <key>material_cateforyname_add_status</key>
     <original>特質錬石</original>
+    <translation>Slayer Stone</translation>
   </message>
   <message>
     <key>resist_magma</key>

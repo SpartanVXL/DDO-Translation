@@ -424,13 +424,16 @@
   <message>
     <key>hud_announce_bbi_comp</key>
     <original>%sを踏破した！</original>
+    <translation>%s traversed!</translation>
   </message>
   <message>
     <key>hud_notice_no_charm_gauge</key>
     <original>魔力が%sゲージ以上ありません</original>
+    <translation>Need %s magick gauge!</translation>
   </message>
   <message>
     <key>hud_notice_no_charm_stack</key>
     <original>魔力が%sスタック以上ありません</original>
+    <translation>Need %s magick stack!</translation>
   </message>
 </resource>
