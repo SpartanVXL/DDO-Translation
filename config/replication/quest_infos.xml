@@ -134,10 +134,16 @@
       <original_match>^(.+?)・限界域$</original_match>
       <translation_replace>{0}: Restricted Stage</translation_replace>
     </rewrite>
+    <rewrite>
+      <original_match>^【(.+?)編】行方不明の(.+)捜索依頼$</original_match>
+      <translation_arg index="0" message_set="npc name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+      <translation_replace>{0} Part: Search Request for the Missing {1}</translation_replace>
+    </rewrite>
     <rewrite soft="true">
       <original_match>^【(.+?)編】(.+)$</original_match>
       <translation_arg index="0" message_set="npc name" required="true" />
-      <translation_replace>[{0} Part] {1}</translation_replace>
+      <translation_replace>{0} Part: {1}</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^(.+)に食料を―$</original_match>
@@ -500,6 +506,38 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
+    <ignore>檻から抜け出した獲物を追う</ignore>
+    <rewrite>
+      <original_match>^(.+)と共に食料を盗んだ(.+)達を追う$</original_match>
+      <translation_replace>Pursue with {0:d} the {1:d*} that stole food</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^さらに逃げた(.+)を追う$</original_match>
+      <translation_replace>Pursue {0:d*} that ran away again</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^逃げた(.+)を追う$</original_match>
+      <translation_replace>Pursue {0:d*} that ran away</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)達を追う$</original_match>
+      <translation_replace>Pursue {0:d*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を追う$</original_match>
+      <translation_replace>Pursue {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)達を懲らしめる$</original_match>
+      <translation_replace>Punish {0:d*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
     <!-- Obtain information -->
     <rewrite>
       <original_match>^(.+)(の|にいる)(.+)から情報を得る$</original_match>
@@ -513,6 +551,17 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Hear -->
+    <rewrite>
+      <original_match>^(.+)にいる(.+)から情報を聞く$</original_match>
+      <translation_replace>Hear information from {1:d} at {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)から情報を聞く$</original_match>
+      <translation_replace>Hear information from {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
     <rewrite>
       <original_match>^エリアマスターの(.+)から話を聞く$</original_match>
       <translation_replace>Hear what the area master {0:d} has to say</translation_replace>

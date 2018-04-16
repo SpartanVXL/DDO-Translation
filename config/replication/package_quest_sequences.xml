@@ -23,7 +23,7 @@
     </rewrite>
     <rewrite>
       <original_match>^(.+)の探し物$</original_match>
-      <translation_replace>Looking for {0}</translation_replace>
+      <translation_replace>What {0} Is Looking For</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
   </message_set>
