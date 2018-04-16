@@ -7,13 +7,29 @@
       <translation_arg message_set="quest name" />
     </rewrite>
     <rewrite>
+      <original_match>^サブストーリー「(.+)」のすべての使命をクリア$</original_match>
+      <translation_replace>Clear all missions for substory "{0}"</translation_replace>
+      <translation_arg message_set="quest name" />
+    </rewrite>
+    <rewrite>
       <original_match>(.+)で&lt;ITEM (\d+)&gt;を(\d+)個発見</original_match>
       <translation_replace>Find {2} &lt;ITEM {1}&gt; in {0}</translation_replace>
       <translation_arg index="0" message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)のジョブレベルが(\d+)になった$</original_match>
-      <translation_replace>Reach job level {1} as {0}</translation_replace>
+      <translation_replace>Reach job level {1} as {0:i}</translation_replace>
+      <translation_arg index="0" message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)のジョブレベルが
+(\d+)に到達$</original_match>
+      <translation_replace>Reach job level {1} as {0:i}</translation_replace>
+      <translation_arg index="0" message_set="job name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)までの(\d+)種のジョブレベルが(\d+)に到達$</original_match>
+      <translation_replace>Reach job level {2} with {1} vocations up to {0}</translation_replace>
       <translation_arg index="0" message_set="job name" />
     </rewrite>
     <rewrite>
@@ -27,6 +43,14 @@
     <rewrite>
       <original_match>^マンドラゴラ生態図鑑で(\d+)種類発見$</original_match>
       <translation_replace>Discover {0} subspecies in Mandragora Observation Journal</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^黒呪の迷宮を1周踏破$</original_match>
+      <translation_replace>Traverse Bitterblack Maze 1 time</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^黒呪の迷宮を(\d+)周踏破$</original_match>
+      <translation_replace>Traverse Bitterblack Maze {0} times</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^《(.+)》系エネミーを(1|１)体討伐$</original_match>
