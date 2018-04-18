@@ -25,10 +25,13 @@ old = '''
 old = 'さて、今回はどうするかな――'
 [[message]]
 old = '《兵舎》を攻略する'
+new = 'Capture "Barracks"'
 [[message]]
 old = '《集会場》を攻略する'
+new = 'Capture "Meeting Spot"'
 [[message]]
 old = '準備に戻る'
+new = 'Return to preparation'
 [[message]]
 old = '''
 《兵舎》は敵の寝床のようだね
@@ -135,8 +138,10 @@ old = 'さて、今のところ敵の姿はないようだが――'
 old = '《兵舎》に残って作戦を続ける'
 [[message]]
 old = '《第一の門》を攻略する'
+new = 'Capture "First Gate"'
 [[message]]
 old = '撤退して成果を確認する'
+new = 'Withdraw and review results'
 [[message]]
 old = '''
 そうだね、もう少しだけ粘ろう！
@@ -220,8 +225,10 @@ old = 'さて、今のところ敵の姿はないようだが――'
 old = '《兵舎》に残って作戦を続ける'
 [[message]]
 old = '《第一の門》を攻略する'
+new = 'Capture "First Gate"'
 [[message]]
 old = '撤退して成果を確認する'
+new = 'Withdraw and review results'
 [[message]]
 old = '''
 そうだね、もう少しだけ粘ろう！
@@ -291,6 +298,7 @@ old = '''
 old = '帰還して成果を確認する'
 [[message]]
 old = '《第一の門》を攻略する'
+new = 'Capture "First Gate"'
 [[message]]
 old = '''
 今回は十分な成果を出せたし
@@ -534,6 +542,7 @@ old = '''
 さて、どうするかな'''
 [[message]]
 old = '《第一の門》を攻略する'
+new = 'Capture "First Gate"'
 [[message]]
 old = '帰還して成果を確認する'
 [[message]]
@@ -716,10 +725,13 @@ old = '''
 old = 'さて、今回はどうするかな――'
 [[message]]
 old = '《兵舎》を攻略する'
+new = 'Capture "Barracks"'
 [[message]]
 old = '《集会所》を攻略する'
+new = 'Capture "集会所"'
 [[message]]
 old = '準備に戻る'
+new = 'Return to preparation'
 [[message]]
 old = '''
 潜入の準備はできている
@@ -728,10 +740,13 @@ old = '''
 old = 'さて、今回はどうするかな――'
 [[message]]
 old = '《兵舎》を攻略する'
+new = 'Capture "Barracks"'
 [[message]]
 old = '《集会所》を攻略する'
+new = 'Capture "集会所"'
 [[message]]
 old = '準備に戻る'
+new = 'Return to preparation'
 [[message]]
 old = '''
 《兵舎》での作戦はもう十分だろう

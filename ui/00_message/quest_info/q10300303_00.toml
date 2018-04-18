@@ -39,6 +39,7 @@ old = '<NPC 2802>に支援完了を報告する'
 [[message]]
 key = 'q10300303_00_3442'
 old = '<NPC 580>に話しかけて砦に戻る'
+new = 'Speak with <NPC 580> and return to the fort'
 [[message]]
 key = 'q10300303_00_3443'
 old = '<NPC 580>に話しかける'
@@ -49,3 +50,4 @@ old = '大食堂にあやしいやつがいないか探す'
 [[message]]
 key = 'q10300303_00_3445'
 old = '<NPC 580>に事情を話す'
+new = 'Explain the situation to <NPC 580>'

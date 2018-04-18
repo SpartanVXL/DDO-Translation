@@ -603,8 +603,31 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="2" message_set="npc name" />
     </rewrite>
+    <!-- Explain -->
+    <rewrite>
+      <original_match>^(.+)に事情を話す</original_match>
+      <translation_replace>Explain the situation to {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
     <!-- Speak with -->
     <ignore>^水林の桟橋にいる船頭のトレアサと話す$</ignore>
+    <rewrite>
+      <original_match>^囚われていた(.+)に話しかける$</original_match>
+      <translation_replace>Speak with {0:d*} who were taken prisoner</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)と話して(.+)を救出する$</original_match>
+      <translation_replace>Speak with {0:d} and rescue {1:d*}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に話しかけて(.+)に戻る</original_match>
+      <translation_replace>Speak with {0:d} and return to {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
     <rewrite>
       <original_match>^(.+)村の住民に話しかける$</original_match>
       <translation_replace>Speak with residents of {0:d} village</translation_replace>
@@ -1497,11 +1520,21 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+?)に報告する$</original_match>
+      <original_match>^(.+)に報告する$</original_match>
       <translation_replace>Report to {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Misc -->
+    <rewrite>
+      <original_match>^(.+)が仕掛けた檻を探す$</original_match>
+      <translation_replace>Search for the cage set by {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)にて脅威がないか調べる$</original_match>
+      <translation_replace>Investigate if there is a threat in {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
     <rewrite>
       <original_match>^エモート【(.+)】で(.+)に合図を送る$</original_match>
       <translation_replace>Send a signal to {1:d} with emote "{0}"</translation_replace>

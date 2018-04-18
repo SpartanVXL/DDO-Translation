@@ -55,6 +55,7 @@ old = '運んできた食料を<NPC 2802>に渡す'
 [[message]]
 key = 'q10300301_00_3480'
 old = '<NPC 580>に話しかけて砦に戻る'
+new = 'Speak with <NPC 580> and return to the fort'
 [[message]]
 key = 'q10300301_00_3481'
 old = '<STG 448>にいる<NPC 580>に話しかける'

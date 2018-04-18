@@ -1,6 +1,7 @@
 ﻿[[message]]
 key = 'q10300403_00_22'
 old = '“幻の食材”を追って―'
+new = 'Chasing after the "Phantom Ingredient"'
 [[message]]
 key = 'q10300403_00_22'
 old = '''
@@ -25,6 +26,7 @@ new = "Check <NPC 580>'s safety"
 [[message]]
 key = 'q10300403_00_3630'
 old = '<NPC 4773>が仕掛けた檻を探す'
+new = 'Search for the cage set by <NPC 4773>'
 [[message]]
 key = 'q10300403_00_3631'
 old = '<NPC 580>の無事を確認する'
@@ -40,6 +42,7 @@ new = 'Report to <NPC 4773> in the Bandit Group Hideout'
 [[message]]
 key = 'q10300403_00_3634'
 old = '<NPC 580>に話しかけて砦に戻る'
+new = 'Speak with <NPC 580> and return to the fort'
 [[message]]
 key = 'q10300403_00_3635'
 old = '<NPC 580>に話しかける'
@@ -50,3 +53,4 @@ old = '大食堂にあやしいやつがいないか探す'
 [[message]]
 key = 'q10300403_00_3637'
 old = '<NPC 580>に事情を話す'
+new = 'Explain the situation to <NPC 580>'

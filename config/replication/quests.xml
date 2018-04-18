@@ -2,6 +2,11 @@
   <message_set name="quest dialogue">
     <match>^ui\\00_message\\quest\\q\d+$</match>
     <rewrite>
+      <original_match>^《(.+)》を攻略する$</original_match>
+      <translation_replace>Capture "{0}"</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+?)を納品したい$</original_match>
       <translation_replace>Deliver {0}</translation_replace>
       <translation_arg message_set="item name" required="true" />
