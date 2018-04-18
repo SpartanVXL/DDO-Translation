@@ -250,42 +250,42 @@ challenge the trial of the Training Chapel</translation_replace>
     <rewrite>
       <original_match>^ゲージを溜め、(.+)で敵を攻撃せよ$</original_match>
       <translation_replace>Fill your Force Gauge, then attack an enemy with {0}</translation_replace>
-      <translation_arg message_set="normal skill name" />
+      <translation_arg message_set="skill name" />
     </rewrite>
     <rewrite>
       <original_match>^リベンジゲージ最大の(.+)で敵を攻撃せよ$</original_match>
       <translation_replace>Attack an enemy with {0} with a full Revenge Gauge</translation_replace>
-      <translation_arg message_set="normal skill name" />
+      <translation_arg message_set="skill name" />
     </rewrite>
     <rewrite>
       <original_match>^射撃の最適距離から(.+)で敵を攻撃せよ$</original_match>
       <translation_replace>Attack an enemy with {0} from the optimum distance</translation_replace>
-      <translation_arg message_set="normal skill name" />
+      <translation_arg message_set="skill name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)で敵を攻撃せよ$</original_match>
       <translation_replace>Attack an enemy with {0}</translation_replace>
-      <translation_arg message_set="normal skill name" />
+      <translation_arg message_set="skill name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)で敵から離れよ$</original_match>
       <translation_replace>Move away from an enemy with {0}</translation_replace>
-      <translation_arg message_set="normal skill name" />
+      <translation_arg message_set="skill name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)で接敵せよ$</original_match>
       <translation_replace>Move toward an enemy with {0}</translation_replace>
-      <translation_arg message_set="normal skill name" />
+      <translation_arg message_set="skill name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)を発動せよ$</original_match>
       <translation_replace>Activate {0}</translation_replace>
-      <translation_arg message_set="normal skill name" />
+      <translation_arg message_set="skill name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)で攻撃を回避せよ$</original_match>
       <translation_replace>Avoid an attack with {0}</translation_replace>
-      <translation_arg message_set="normal skill name" />
+      <translation_arg message_set="skill name" />
     </rewrite>
     <!-- Conquest -->
     <rewrite>
