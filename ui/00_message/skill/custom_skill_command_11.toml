@@ -10,8 +10,8 @@ old = '''
 　魔力１ゲージ消費で発動可能'''
 new = '''
 Press the assigned button.
- Category: Support Magick.
- Consumes 1 magick gauge on activation.'''
+　Category: Support Magick.
+　Consumes 1 magick gauge on activation.'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_11_244'
 old = '''
@@ -20,8 +20,8 @@ old = '''
 　魔力１スタック消費で発動可能'''
 new = '''
 Press the assigned button.
- Category: Pure Magick.
- Consumes 1 magick stack on activation.'''
+　Category: Pure Magick.
+　Consumes 1 magick stack on activation.'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_11_240'
 old = 'セットボタンを押す'
@@ -34,8 +34,8 @@ old = '''
 　魔力１ゲージ消費で発動可能'''
 new = '''
 Press the assigned button.
- Category: Support Magick.
- Consumes 1 magick gauge on activation.'''
+　Category: Support Magick.
+　Consumes 1 magick gauge on activation.'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_11_242'
 old = '''
@@ -44,8 +44,8 @@ old = '''
 　魔力２スタック消費で発動可能'''
 new = '''
 Press the assigned button.
- Category: Pure Magick.
- Consumes 2 magick stacks on activation.'''
+　Category: Pure Magick.
+　Consumes 2 magick stacks on activation.'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_11_239'
 old = '''
@@ -54,5 +54,5 @@ old = '''
 　魔力２スタック消費で発動可能'''
 new = '''
 Press the assigned button.
- Category: Pure Magick.
- Consumes 2 magick stacks on activation.'''
+　Category: Pure Magick.
+　Consumes 2 magick stacks on activation.'''

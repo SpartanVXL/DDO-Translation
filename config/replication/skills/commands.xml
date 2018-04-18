@@ -347,8 +347,8 @@ Further enhanced with {2:d}.</translation_replace>
 　カテゴリ：(.+)
 　(.+)消費で発動可能$</original_match>
       <translation_replace>Press {0:d}.
- Category: {2}.
- Consumes {3} on activation.</translation_replace>
+　Category: {2}.
+　Consumes {3} on activation.</translation_replace>
       <translation_arg index="0" message_set="skill command button" />
       <translation_arg index="2" message_set="skill command category" />
       <translation_arg index="3" message_set="skill command cost" />

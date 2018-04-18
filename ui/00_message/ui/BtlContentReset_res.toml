@@ -39,11 +39,11 @@ The following items will be reset:
 ・<COL d7b450>All acquired items.</COL> (※2)
 
 ※１…<COL d7b450>Rewards such as treasure chests
-   are not reset.</COL> Useful for playing
-   from beginning with friends.
+　　　are not reset.</COL> Useful for playing
+　　　from beginning with friends.
 ※２…<COL d7b450><ITEM 21630></COL>, <COL d7b450><ITEM 23364></COL>,
-   <COL d7b450><ITEM 21651></COL> are very valuable.
-   Please be careful.'''
+　　　<COL d7b450><ITEM 21651></COL> are very valuable.
+　　　Please be careful.'''
 [[message]]
 key = 'BTL_CONTENT_RESET_CONF_RESET'
 old = '''
@@ -68,14 +68,14 @@ The following contents will be reset:
 ・Arisen, Pawn levels.
 ・Progress data such as checkpoints.
 ・<COL d7b450>In-progress treasure chests
- and reward data.</COL> (※1)
+　and reward data.</COL> (※1)
 ・<COL d7b450>All acquired items.</COL> (※2)
 
 ※１…<COL d7b450>Always necessary to reclaim
-   Bitterblack Maze.</COL>
+　　　Bitterblack Maze.</COL>
 ※２…<COL d7b450><ITEM 21630></COL>, <COL d7b450><ITEM 23364></COL>
-   <COL d7b450><ITEM 21651></COL> are very valuable.
-   Please be careful.'''
+　　　<COL d7b450><ITEM 21651></COL> are very valuable.
+　　　Please be careful.'''
 [[message]]
 key = 'BTL_CONTENT_RESET_CONF_GP'
 old = '''

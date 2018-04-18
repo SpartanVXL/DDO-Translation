@@ -43,8 +43,8 @@ old = '''
 　魔力１ゲージ消費で発動可能'''
 new = '''
 Press <KC SKILL_NORMAL1>.
- Category: Support Magick.
- Consumes 1 magick gauge on activation.'''
+　Category: Support Magick.
+　Consumes 1 magick gauge on activation.'''
 [[message]]
 key = 'NORMAL_SKILL_COMMAND_11_170'
 old = 'バックリープ発動後に<KC SKILL_NORMAL1>を押す'
@@ -57,8 +57,8 @@ old = '''
 　魔力１スタック消費で発動可能'''
 new = '''
 Press <KC OVER_BRADE>.
- Category: Pure Magick.
- Consumes 1 magick stack on activation.'''
+　Category: Pure Magick.
+　Consumes 1 magick stack on activation.'''
 [[message]]
 key = 'NORMAL_SKILL_COMMAND_11_177'
 old = '吹き飛ばされ中に<KC JUMP>を押す'
