@@ -1401,7 +1401,7 @@ new = 'Tunnel across the Bridge: Hall'
 [[message]]
 key = 'SPOT_NAME_850'
 old = '橋向かいの坑道　鉱石路'
-new = 'The Tunnel across the Bridge: Ore Passage'
+new = 'The Tunnel across the Bridge: Ore Path'
 [message.format]
 new = 'Tunnel across the Bridge: Ore Passage'
 [[message]]
@@ -2118,7 +2118,7 @@ new = 'Magusas Ancient Watercourse Entrance'
 [[message]]
 key = 'SPOT_NAME_1024'
 old = 'マグサス古水路　最奥'
-new = 'Magusas Ancient Watercourse Innermost'
+new = 'Innermost Magusas Ancient Watercourse'
 [[message]]
 key = 'SPOT_NAME_1025'
 old = '商店区 裏通り'
@@ -2277,6 +2277,7 @@ new = 'False Remains'
 [[message]]
 key = 'SPOT_NAME_1073'
 old = '静穏の隠れ洞'
+new = 'Quiet Concealed Cave'
 [[message]]
 key = 'SPOT_NAME_1074'
 old = 'メガド上水網'
@@ -2306,6 +2307,7 @@ new = "Army Demon's Patrol Ground"
 [[message]]
 key = 'SPOT_NAME_1087'
 old = 'ニルビリス大橋関所'
+new = 'Nilviris Bridge Checkpoint'
 [[message]]
 key = 'SPOT_NAME_1088'
 old = '軍獣強化場'
@@ -2865,12 +2867,15 @@ old = '王家の隠れ部屋 メガドシス高地'
 [[message]]
 key = 'SPOT_NAME_1259'
 old = '静穏の隠れ洞 洞窟通路'
+new = 'Quiet Concealed Cave: Cave Passage'
 [[message]]
 key = 'SPOT_NAME_1260'
 old = '静穏の隠れ洞 洞窟通路'
+new = 'Quiet Concealed Cave: Cave Passage'
 [[message]]
 key = 'SPOT_NAME_1261'
 old = '静穏の隠れ洞 最奥'
+new = 'Innermost Quiet Concealed Cave'
 [[message]]
 key = 'SPOT_NAME_1262'
 old = 'メガド上水網 通路'
@@ -2895,6 +2900,7 @@ old = '戦練の社 自然の路'
 [[message]]
 key = 'SPOT_NAME_1269'
 old = '戦練の社 最奥'
+new = 'Innermost 戦練の社'
 [[message]]
 key = 'SPOT_NAME_1270'
 old = '城塞都市メガド 王宮層 玉座'
