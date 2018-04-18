@@ -235,11 +235,6 @@
       <translation_arg message_set="weapon category name" required="true" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)の鍵$</original_match>
-      <translation_replace>{0} Key</translation_replace>
-      <translation_arg message_set="location name" required="true" />
-    </rewrite>
-    <rewrite>
       <original_match>^(.+)の大鍵$</original_match>
       <translation_replace>{0} Large Key</translation_replace>
       <translation_arg message_set="location name" required="true" />
@@ -247,6 +242,11 @@
     <rewrite>
       <original_match>^(.+)の金鍵$</original_match>
       <translation_replace>{0} Gold Key</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の鍵$</original_match>
+      <translation_replace>{0} Key</translation_replace>
       <translation_arg message_set="location name" required="true" />
     </rewrite>
     <rewrite>

@@ -20647,16 +20647,25 @@ id = 9393
 old = '''
 投げつけた対象にダメージと
 状態異常【水濡れ】を与える'''
+new = '''
+Throw this to cause damage on impact.
+Causes the "Drenched" debilitation.'''
 [[item]]
 id = 9394
 old = '''
 投げつけた対象にダメージと
 状態異常【油濡れ】を与える'''
+new = '''
+Throw this to cause damage on impact.
+Causes the "Tarred" debilitation.'''
 [[item]]
 id = 9395
 old = '''
 投げつけた対象にダメージと
 状態異常【毒】を与える'''
+new = '''
+Throw this to cause damage on impact.
+Causes the "Poison" debilitation.'''
 [[item]]
 id = 9396
 old = '投げつけた対象にダメージを与える'
@@ -22172,26 +22181,41 @@ id = 9858
 old = '''
 ハンターの弓矢による攻撃に
 状態異常【毒】を付与'''
+new = '''
+Used in attacks with a Hunter's bow and arrow.
+Causes the "Poison" debilitation.'''
 [[item]]
 id = 9859
 old = '''
 ハンターの弓矢による攻撃に
 状態異常【油濡れ】を付与'''
+new = '''
+Used in attacks with a Hunter's bow and arrow.
+Causes the "Tarred" debilitation.'''
 [[item]]
 id = 9860
 old = '''
 ハンターの弓矢による攻撃に
 状態異常【睡眠】を付与'''
+new = '''
+Used in attacks with a Hunter's bow and arrow.
+Causes the "Sleep" debilitation.'''
 [[item]]
 id = 9861
 old = '''
 ハンターの弓矢による攻撃に
 状態異常【スキル封印】を付与'''
+new = '''
+Used in attacks with a Hunter's bow and arrow.
+Causes the "Skills Stifled" debilitation.'''
 [[item]]
 id = 9862
 old = '''
 ハンターの弓矢による攻撃に
 状態異常【遅延】を付与'''
+new = '''
+Used in attacks with a Hunter's bow and arrow.
+Causes the "Slow" debilitation.'''
 [[item]]
 id = 9865
 old = ''
@@ -56089,2829 +56113,4245 @@ id = 22078
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22079
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22080
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22081
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22082
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22083
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22084
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22085
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22086
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22087
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22088
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22089
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22090
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22091
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22092
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22093
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22094
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22095
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22096
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22097
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する'''
+new = '''
+Debilitations "Caught Fire",
+"Fire Resist Down", "Tarred"
+added.'''
 [[item]]
 id = 22098
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22099
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22100
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22101
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22102
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22103
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22104
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22105
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22106
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22107
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22108
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22109
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22110
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22111
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22112
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22113
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22114
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22115
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22116
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22117
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Frozen Solid",
+"Ice Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22118
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22119
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22120
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22121
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22122
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22123
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22124
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22125
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22126
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22127
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22128
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22129
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22130
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22131
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22132
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22133
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22134
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22135
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22136
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22137
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する'''
+new = '''
+Debilitations "Shocked",
+"Thunder Resist Down", "Drenched"
+added.'''
 [[item]]
 id = 22138
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22139
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22140
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22141
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22142
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22143
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22144
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22145
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22146
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22147
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22148
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22149
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22150
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22151
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22152
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22153
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22154
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22155
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22156
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22157
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する'''
+new = '''
+Debilitations "Holy Drain",
+"Holy Resist Down", "Skills Stifled"
+added.'''
 [[item]]
 id = 22158
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22159
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22160
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22161
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22162
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22163
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22164
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22165
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22166
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22167
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22168
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22169
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22170
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22171
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22172
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22173
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22174
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22175
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22176
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22177
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する'''
+new = '''
+Debilitations "Blinded",
+"Dark Resist Down", "Poison"
+added.'''
 [[item]]
 id = 22178
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22179
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22180
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22181
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22182
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22183
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22184
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22185
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22186
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22187
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22188
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22189
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22190
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22191
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22192
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22193
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22194
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22195
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22196
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22197
 old = '''
 状態異常【黄金化】
 を付加する'''
+new = '''
+Debilitation "Golden"
+added.'''
 [[item]]
 id = 22198
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22199
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22200
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22201
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22202
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22203
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22204
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22205
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22206
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22207
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22208
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22209
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22210
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22211
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22212
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22213
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22214
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22215
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22216
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22217
 old = '''
 状態異常【睡眠】
 を付加する'''
+new = '''
+Debilitation "Sleep"
+added.'''
 [[item]]
 id = 22218
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22219
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22220
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22221
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22222
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22223
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22224
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22225
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22226
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22227
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22228
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22229
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22230
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22231
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22232
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22233
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22234
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22235
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22236
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22237
 old = '''
 状態異常【石化】
 を付加する'''
+new = '''
+Debilitation "Petrification"
+added.'''
 [[item]]
 id = 22238
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22239
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22240
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22241
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22242
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22243
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22244
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22245
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22246
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22247
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22248
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22249
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22250
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22251
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22252
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22253
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22254
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22255
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22256
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22257
 old = '''
 状態異常【遅延】
 を付加する'''
+new = '''
+Debilitation "Slow"
+added.'''
 [[item]]
 id = 22258
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22259
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22260
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22261
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22262
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22263
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22264
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22265
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22266
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22267
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22268
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22269
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22270
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22271
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22272
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22273
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22274
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22275
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22276
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22277
 old = '''
 状態異常【軟化】
 を付加する'''
+new = '''
+Debilitation "Softened"
+added.'''
 [[item]]
 id = 22278
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22279
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22280
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22281
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22282
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22283
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22284
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22285
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22286
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22287
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22288
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22289
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22290
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22291
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22292
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22293
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22294
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22295
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22296
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22297
 old = '''
 状態異常【物攻低下】
 を付加する'''
+new = '''
+Debilitation "Physical Attack Down"
+added.'''
 [[item]]
 id = 22298
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22299
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22300
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22301
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22302
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22303
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22304
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22305
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22306
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22307
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22308
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22309
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22310
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22311
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22312
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22313
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22314
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22315
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22316
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22317
 old = '''
 状態異常【魔攻低下】
 を付加する'''
+new = '''
+Debilitation "Magick Attack Down"
+added.'''
 [[item]]
 id = 22318
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22319
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22320
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22321
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22322
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22323
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22324
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22325
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22326
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22327
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22328
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22329
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22330
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22331
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22332
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22333
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22334
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22335
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22336
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22337
 old = '''
 状態異常【物防低下】
 を付加する'''
+new = '''
+Debilitation "Physical Defense Down"
+added.'''
 [[item]]
 id = 22338
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22339
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22340
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22341
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22342
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22343
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22344
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22345
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22346
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22347
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22348
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22349
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22350
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22351
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22352
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22353
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22354
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22355
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22356
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22357
 old = '''
 状態異常【魔防低下】
 を付加する'''
+new = '''
+Debilitation "Magick Defense Down"
+added.'''
 [[item]]
 id = 22358
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22359
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22360
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22361
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22362
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22363
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22364
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22365
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22366
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22367
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22368
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22369
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22370
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22371
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22372
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22373
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22374
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22375
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22376
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22377
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22378
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22379
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22380
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22381
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22382
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22383
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22384
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22385
 old = '対敵特効【亜人】を付加する'
+new = '"Demihuman Slayer" added.'
 [[item]]
 id = 22386
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22387
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22388
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22389
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22390
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22391
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22392
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22393
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22394
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22395
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22396
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22397
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22398
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22399
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22400
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22401
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22402
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22403
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22404
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22405
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22406
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22407
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22408
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22409
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22410
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22411
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22412
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22413
 old = '対敵特効【骸骨】を付加する'
+new = '"Skeleton Slayer" added.'
 [[item]]
 id = 22414
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22415
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22416
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22417
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22418
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22419
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22420
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22421
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22422
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22423
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22424
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22425
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22426
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22427
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22428
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22429
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22430
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22431
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22432
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22433
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22434
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22435
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22436
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22437
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22438
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22439
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22440
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22441
 old = '対敵特効【鬼人】を付加する'
+new = '"Ogre Slayer" added.'
 [[item]]
 id = 22442
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22443
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22444
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22445
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22446
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22447
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22448
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22449
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22450
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22451
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22452
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22453
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22454
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22455
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22456
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22457
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22458
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22459
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22460
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22461
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22462
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22463
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22464
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22465
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22466
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22467
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22468
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22469
 old = '対敵特効【巨人】を付加する'
+new = '"Giant Slayer" added.'
 [[item]]
 id = 22470
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22471
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22472
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22473
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22474
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22475
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22476
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22477
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22478
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22479
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22480
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22481
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22482
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22483
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22484
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22485
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22486
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22487
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22488
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22489
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22490
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22491
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22492
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22493
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22494
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22495
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22496
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22497
 old = '対敵特効【呪詛】を付加する'
+new = '"Cursed Slayer" added.'
 [[item]]
 id = 22498
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22499
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22500
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22501
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22502
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22503
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22504
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22505
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22506
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22507
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22508
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22509
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22510
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22511
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22512
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22513
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22514
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22515
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22516
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22517
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22518
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22519
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22520
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22521
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22522
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22523
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22524
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22525
 old = '対敵特効【獣】を付加する'
+new = '"Beast Slayer" added.'
 [[item]]
 id = 22526
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22527
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22528
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22529
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22530
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22531
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22532
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22533
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22534
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22535
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22536
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22537
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22538
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22539
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22540
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22541
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22542
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22543
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22544
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22545
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22546
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22547
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22548
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22549
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22550
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22551
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22552
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22553
 old = '対敵特効【侵食】を付加する'
+new = '"Corrupted Slayer" added.'
 [[item]]
 id = 22554
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22555
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22556
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22557
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22558
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22559
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22560
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22561
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22562
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22563
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22564
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22565
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22566
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22567
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22568
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22569
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22570
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22571
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22572
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22573
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22574
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22575
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22576
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22577
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22578
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22579
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22580
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22581
 old = '対敵特効【人間】を付加する'
+new = '"Human Slayer" added.'
 [[item]]
 id = 22582
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22583
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22584
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22585
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22586
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22587
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22588
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22589
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22590
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22591
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22592
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22593
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22594
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22595
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22596
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22597
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22598
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22599
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22600
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22601
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22602
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22603
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22604
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22605
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22606
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22607
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22608
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22609
 old = '対敵特効【戦甲】を付加する'
+new = '"War-Ready Slayer" added.'
 [[item]]
 id = 22610
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22611
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22612
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22613
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22614
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22615
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22616
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22617
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22618
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22619
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22620
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22621
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22622
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22623
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22624
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22625
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22626
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22627
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22628
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22629
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22630
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22631
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22632
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22633
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22634
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22635
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22636
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22637
 old = '対敵特効【造魔】を付加する'
+new = '"Golem Slayer" added.'
 [[item]]
 id = 22638
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22639
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22640
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22641
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22642
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22643
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22644
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22645
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22646
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22647
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22648
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22649
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22650
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22651
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22652
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22653
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22654
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22655
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22656
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22657
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22658
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22659
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22660
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22661
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22662
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22663
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22664
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22665
 old = '対敵特効【軟体】を付加する'
+new = '"Formless Slayer" added.'
 [[item]]
 id = 22666
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22667
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22668
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22669
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22670
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22671
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22672
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22673
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22674
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22675
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22676
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22677
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22678
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22679
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22680
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22681
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22682
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22683
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22684
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22685
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22686
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22687
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22688
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22689
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22690
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22691
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22692
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22693
 old = '対敵特効【腐死】を付加する'
+new = '"Undead Slayer" added.'
 [[item]]
 id = 22694
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22695
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22696
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22697
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22698
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22699
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22700
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22701
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22702
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22703
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22704
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22705
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22706
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22707
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22708
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22709
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22710
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22711
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22712
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22713
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22714
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22715
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22716
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22717
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22718
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22719
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22720
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22721
 old = '対敵特効【魔族】を付加する'
+new = '"Demon Slayer" added.'
 [[item]]
 id = 22722
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22723
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22724
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22725
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22726
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22727
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22728
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22729
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22730
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22731
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22732
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22733
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22734
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22735
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22736
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22737
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22738
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22739
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22740
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22741
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22742
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22743
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22744
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22745
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22746
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22747
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22748
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22749
 old = '対敵特効【有翼】を付加する'
+new = '"Winged Slayer" added.'
 [[item]]
 id = 22750
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22751
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22752
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22753
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22754
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22755
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22756
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22757
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22758
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22759
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22760
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22761
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22762
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22763
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22764
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22765
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22766
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22767
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22768
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22769
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22770
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22771
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22772
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22773
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22774
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22775
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22776
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22777
 old = '対敵特効【竜族】を付加する'
+new = '"Dragon Slayer" added.'
 [[item]]
 id = 22778
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22779
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22780
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22781
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22782
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22783
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22784
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22785
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22786
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22787
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22788
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22789
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22790
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22791
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22792
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22793
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22794
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22795
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22796
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22797
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22798
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22799
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22800
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22801
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22802
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22803
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22804
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22805
 old = '対敵特効【霊体】を付加する'
+new = '"Spirit Slayer" added.'
 [[item]]
 id = 22806
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22807
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22808
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22809
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22810
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22811
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22812
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22813
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22814
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22815
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22816
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22817
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22818
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22819
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22820
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22821
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22822
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22823
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22824
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22825
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22826
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22827
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22828
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22829
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22830
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22831
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22832
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22833
 old = '対敵特効【錬金】を付加する'
+new = '"Alchemy Slayer" added.'
 [[item]]
 id = 22834
 old = ''
