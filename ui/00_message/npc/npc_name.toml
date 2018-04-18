@@ -2,8 +2,8 @@
 old = '白竜'
 new = 'The White Dragon'
 [message.format]
-proper = false
 new = 'White Dragon'
+proper = false
 [[message]]
 old = 'ミシアル'
 new = 'Mysial'
@@ -65,6 +65,7 @@ new = 'Gurdolin'
 old = '流浪の探究者'
 new = 'Wandering Seeker'
 [message.format]
+new = 'wandering seeker'
 proper = false
 [[message]]
 old = 'トラバース'
@@ -88,31 +89,37 @@ proper = false
 old = '不気味な男'
 new = 'Strange Man'
 [message.format]
+new = 'strange man'
 proper = false
 [[message]]
 old = '不思議な少女'
 new = 'Mysterious Girl'
 [message.format]
+new = 'mysterious girl'
 proper = false
 [[message]]
 old = '行商人'
 new = 'Peddler'
 [message.format]
+new = 'peddler'
 proper = false
 [[message]]
 old = '男'
 new = 'Man'
 [message.format]
+new = 'man'
 proper = false
 [[message]]
 old = '男'
 new = 'Man'
 [message.format]
+new = 'man'
 proper = false
 [[message]]
 old = '女'
 new = 'Woman'
 [message.format]
+new = 'woman'
 proper = false
 [[message]]
 old = 'クリストフ'
@@ -145,6 +152,7 @@ new = 'Kiefer'
 old = '盗賊'
 new = 'Thief'
 [message.format]
+new = 'thief'
 proper = false
 [[message]]
 old = 'たたずむスケルトン'
@@ -176,141 +184,169 @@ new = 'Morten'
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '戦士'
 new = 'Soldier'
 [message.format]
+new = 'soldier'
 proper = false
 [[message]]
 old = '戦士'
 new = 'Soldier'
 [message.format]
+new = 'soldier'
 proper = false
 [[message]]
 old = '女性戦士'
 new = 'Female Soldier'
 [message.format]
+new = 'female soldier'
 proper = false
 [[message]]
 old = '軽装の戦士'
 new = 'Lightly-Equipped Soldier'
 [message.format]
+new = 'lightly-equipped soldier'
 proper = false
 [[message]]
 old = '軽装の女戦士'
 new = 'Lightly-Equipped Female Soldier'
 [message.format]
+new = 'lightly-equipped female soldier'
 proper = false
 [[message]]
 old = 'ハンター'
 new = 'Hunter'
 [message.format]
+new = 'hunter'
 proper = false
 [[message]]
 old = '旅の女性ハンター'
 new = 'Traveling Female Hunter'
 [message.format]
+new = 'traveling female hunter'
 proper = false
 [[message]]
 old = '魔術師'
 new = 'Sorcerer'
 [message.format]
+new = 'sorcerer'
 proper = false
 [[message]]
 old = '魔術師'
 new = 'Sorcerer'
 [message.format]
+new = 'sorcerer'
 proper = false
 [[message]]
 old = '神官'
 new = 'Priest'
 [message.format]
+new = 'priest'
 proper = false
 [[message]]
 old = '女性神官'
 new = 'Female Priest'
 [message.format]
+new = 'female priest'
 proper = false
 [[message]]
 old = '息絶えた村人'
 new = 'Lifeless Villager'
 [message.format]
+new = 'lifeless villager'
 proper = false
 [[message]]
 old = '息絶えた村人'
 new = 'Lifeless Villager'
 [message.format]
+new = 'lifeless villager'
 proper = false
 [[message]]
 old = '息絶えた村人'
 new = 'Lifeless Villager'
 [message.format]
+new = 'lifeless villager'
 proper = false
 [[message]]
 old = '息絶えた村人'
 new = 'Lifeless Villager'
 [message.format]
+new = 'lifeless villager'
 proper = false
 [[message]]
 old = '息絶えた村人'
 new = 'Lifeless Villager'
 [message.format]
+new = 'lifeless villager'
 proper = false
 [[message]]
 old = '息絶えた騎士'
 new = 'Lifeless Knight'
 [message.format]
+new = 'lifeless knight'
 proper = false
 [[message]]
 old = '息絶えた騎士'
 new = 'Lifeless Knight'
 [message.format]
+new = 'lifeless knight'
 proper = false
 [[message]]
 old = '息絶えた騎士'
 new = 'Lifeless Knight'
 [message.format]
+new = 'lifeless knight'
 proper = false
 [[message]]
 old = '息絶えた覚者'
 new = 'Lifeless Arisen'
 [message.format]
+new = 'lifeless Arisen'
 proper = false
 [[message]]
 old = '息絶えた覚者'
 new = 'Lifeless Arisen'
 [message.format]
+new = 'lifeless Arisen'
 proper = false
 [[message]]
 old = 'ジョナス'
@@ -319,6 +355,7 @@ new = 'Jonas'
 old = '息絶えた覚者'
 new = 'Lifeless Arisen'
 [message.format]
+new = 'lifeless Arisen'
 proper = false
 [[message]]
 old = 'エミリア'
@@ -1201,8 +1238,8 @@ old = '待機ポーン20'
 old = 'ゴブリン'
 new = 'Goblin'
 [message.format]
-proper = false
 new = 'goblin'
+proper = false
 [[message]]
 old = 'アルフレド'
 new = 'Alfred'
@@ -1294,21 +1331,25 @@ new = 'Julia'
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '白衛騎士団3'
@@ -1324,6 +1365,7 @@ old = '不在伝言係'
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = 'ルドヴィカ'
@@ -1338,6 +1380,7 @@ old = '術士　男2'
 old = '覚者隊の隊士'
 new = 'Arisen Corps Regimental Soldier'
 [message.format]
+new = 'Arisen Corps regimental soldier'
 proper = false
 [[message]]
 old = '妖艶な錬金術師'
@@ -1407,15 +1450,27 @@ new = 'Gogo'
 [[message]]
 old = '男性'
 new = 'Man'
+[message.format]
+new = 'man'
+proper = false
 [[message]]
 old = '女性'
 new = 'Woman'
+[message.format]
+new = 'woman'
+proper = false
 [[message]]
 old = '鉱員'
 new = 'Miner'
+[message.format]
+new = 'miner'
+proper = false
 [[message]]
 old = '農夫'
 new = 'Farmer'
+[message.format]
+new = 'farmer'
+proper = false
 [[message]]
 old = '老夫婦'
 [[message]]
@@ -1424,84 +1479,175 @@ old = '子供連れの女性'
 old = 'おびえた様子の女性'
 [[message]]
 old = '酔っぱらった男'
+new = 'Drunk Man'
+[message.format]
+new = 'drunk man'
+proper = false
 [[message]]
 old = '負傷した男性'
+new = 'Injured Man'
+[message.format]
+new = 'injured man'
+proper = false
 [[message]]
 old = '音楽家'
+new = 'Musician'
+[message.format]
+new = 'musician'
+proper = false
 [[message]]
 old = '通りすがりの旅人'
+new = 'Passing Traveler'
+[message.format]
+new = 'passing traveler'
+proper = false
 [[message]]
 old = '旅人'
 new = 'Traveler'
+[message.format]
+new = 'traveler'
+proper = false
 [[message]]
 old = '魔術師'
 new = 'Sorcerer'
 [message.format]
+new = 'sorcerer'
 proper = false
 [[message]]
 old = '負傷した戦士'
+new = 'Injured Soldier'
+[message.format]
+new = 'injured soldier'
+proper = false
 [[message]]
 old = '戦士'
 new = 'Soldier'
 [message.format]
+new = 'soldier'
 proper = false
 [[message]]
 old = '貴族'
+new = 'Nobleman'
+[message.format]
+new = 'nobleman'
+proper = false
 [[message]]
 old = '商人'
+new = 'Merchant'
+[message.format]
+new = 'merchant'
+proper = false
 [[message]]
 old = '見習い覚者'
+new = 'Apprentice Arisen'
+[message.format]
+new = 'apprentice Arisen'
+proper = false
 [[message]]
 old = '覚者'
+new = 'Arisen'
+[message.format]
+proper = false
 [[message]]
 old = '賞金稼ぎ'
+new = 'Bounty Hunter'
+[message.format]
+new = 'bounty hunter'
+proper = false
 [[message]]
 old = '冒険者'
+new = 'Adventurer'
+[message.format]
+new = 'adventurer'
+proper = false
 [[message]]
 old = '神官'
 new = 'Priest'
 [message.format]
+new = 'priest'
 proper = false
 [[message]]
 old = '村人'
+new = 'Villager'
+[message.format]
+new = 'villager'
+proper = false
 [[message]]
 old = '少年'
+new = 'Boy'
+[message.format]
+new = 'boy'
+proper = false
 [[message]]
 old = '少女'
+new = 'Girl'
+[message.format]
+new = 'girl'
+proper = false
 [[message]]
 old = '騎士'
 new = 'Knight'
 [message.format]
-proper = false
 new = 'knight'
+proper = false
 [[message]]
 old = '見習い騎士'
+new = 'Apprentice Knight'
+[message.format]
+new = 'apprentice knight'
+proper = false
 [[message]]
 old = '古参の騎士'
+new = 'Senior Knight'
+[message.format]
+new = 'senior knight'
+proper = false
 [[message]]
 old = '歴戦の戦士'
 [[message]]
 old = '古参の覚者'
 [[message]]
 old = '老婦'
+new = 'Old Woman'
+[message.format]
+new = 'old woman'
+proper = false
 [[message]]
 old = '酔っぱらった女'
+new = 'Drunk Woman'
+[message.format]
+new = 'drunk woman'
+proper = false
 [[message]]
 old = '狩人'
+new = 'Hunter'
+[message.format]
+new = 'hunter'
+proper = false
 [[message]]
 old = '木こり'
 new = 'Lumberjack'
 [message.format]
+new = 'lumberjack'
 proper = false
 [[message]]
 old = '盗賊'
 new = 'Thief'
 [message.format]
+new = 'thief'
 proper = false
 [[message]]
 old = '酒場の女'
+new = 'Tavern Woman'
+[message.format]
+new = 'tavern woman'
+proper = false
 [[message]]
 old = '詩人'
+new = 'Poet'
+[message.format]
+new = 'poet'
+proper = false
 [[message]]
 old = '鍛冶職人'
 [[message]]
@@ -1509,6 +1655,9 @@ old = 'ボロをまとった男'
 [[message]]
 old = '女戦士'
 new = 'Female Soldier'
+[message.format]
+new = 'female soldier'
+proper = false
 [[message]]
 old = '目撃者予備枠18'
 [[message]]
@@ -1825,11 +1974,13 @@ new = 'Cadell'
 old = 'ガラダの護衛戦士'
 new = "Gearóid's Escort Guard"
 [message.format]
+new = "Gearóid's escort guard"
 proper = false
 [[message]]
 old = 'ガラダの護衛戦士'
 new = "Gearóid's Escort Guard"
 [message.format]
+new = "Gearóid's escort guard"
 proper = false
 [[message]]
 old = 'ノーラ'
@@ -1861,8 +2012,8 @@ new = 'Morgana'
 old = 'パートナーポーン'
 new = 'Partner Pawn'
 [message.format]
-proper = false
 new = 'partner pawn'
+proper = false
 [[message]]
 old = 'ブレア'
 new = 'Blair'
@@ -1879,6 +2030,7 @@ new = 'Toreasa'
 old = 'ガラダの護衛戦士'
 new = "Gearóid's Escort Guard"
 [message.format]
+new = "Gearóid's escort guard"
 proper = false
 [[message]]
 old = 'クラン管理人枠'
@@ -1973,6 +2125,8 @@ new = 'Quintus'
 [[message]]
 old = '悪しき竜'
 new = 'Evil Dragon'
+[message.format]
+proper = false
 [[message]]
 old = '闇の将'
 new = 'Shadow Master'
@@ -1981,12 +2135,21 @@ proper = false
 [[message]]
 old = '解放軍戦士'
 new = 'Liberation Army Soldier'
+[message.format]
+new = 'liberation army soldier'
+proper = false
 [[message]]
 old = '解放軍戦士'
 new = 'Liberation Army Soldier'
+[message.format]
+new = 'liberation army soldier'
+proper = false
 [[message]]
 old = '解放軍戦士'
 new = 'Liberation Army Soldier'
+[message.format]
+new = 'liberation army soldier'
+proper = false
 [[message]]
 old = 'ドワーフオーク'
 new = 'Dwarf Orc'
@@ -2556,33 +2719,60 @@ new = 'Keiku'
 [[message]]
 old = '解放軍戦士'
 new = 'Liberation Army Soldier'
+[message.format]
+new = 'liberation army soldier'
+proper = false
 [[message]]
 old = '解放軍戦士'
 new = 'Liberation Army Soldier'
+[message.format]
+new = 'liberation army soldier'
+proper = false
 [[message]]
 old = '解放軍戦士'
 new = 'Liberation Army Soldier'
+[message.format]
+new = 'liberation army soldier'
+proper = false
 [[message]]
 old = '解放軍戦士'
 new = 'Liberation Army Soldier'
+[message.format]
+new = 'liberation army soldier'
+proper = false
 [[message]]
 old = 'ベルタ盗賊団'
 new = 'Bertha Bandit Group'
+[message.format]
+proper = false
 [[message]]
 old = 'ベルタ盗賊団'
 new = 'Bertha Bandit Group'
+[message.format]
+proper = false
 [[message]]
 old = 'ベルタ盗賊団'
 new = 'Bertha Bandit Group'
+[message.format]
+proper = false
 [[message]]
 old = 'ロスギル兵士'
 new = 'Rothgill Soldier'
+[message.format]
+new = 'Rothgill soldier'
+proper = false
 [[message]]
 old = 'ロスギル兵士'
 new = 'Rothgill Soldier'
+[message.format]
+new = 'Rothgill soldier'
+proper = false
 [[message]]
 old = 'ロスギル兵士'
 new = 'Rothgill Soldier'
+[message.format]
+new = 'Rothgill soldier'
+proper = false
 [[message]]
 old = 'エルマー'
 new = 'Elmer'
@@ -2635,26 +2825,31 @@ new = 'Sean'
 old = 'オオネズミ'
 new = 'Giant Rat'
 [message.format]
+new = 'giant rat'
 proper = false
 [[message]]
 old = 'ウサギ'
 new = 'Rabbit'
 [message.format]
+new = 'rabbit'
 proper = false
 [[message]]
 old = '雄シカ'
 new = 'Male Deer'
 [message.format]
+new = 'male deer'
 proper = false
 [[message]]
 old = 'ブタ'
 new = 'Pig'
 [message.format]
+new = 'pig'
 proper = false
 [[message]]
 old = '牛'
 new = 'Ox'
 [message.format]
+new = 'ox'
 proper = false
 [[message]]
 old = 'お花ちゃん'
@@ -2767,6 +2962,9 @@ new = 'Marisa'
 [[message]]
 old = '饒舌なスケルトン'
 new = 'Garrulous Skeleton'
+[message.format]
+new = 'garrulous skeleton'
+proper = false
 [[message]]
 old = 'メフィス'
 new = 'Mephis'
@@ -2866,8 +3064,8 @@ old = '夜の女'
 old = '酔っ払い'
 new = 'Drunkard'
 [message.format]
-proper = false
 new = 'drunkard'
+proper = false
 [[message]]
 old = 'ガクシャ'
 [[message]]
@@ -2876,8 +3074,8 @@ old = 'ジョウホウヤ'
 old = '怯えた男'
 new = 'Scared Man'
 [message.format]
-proper = false
 new = 'scared man'
+proper = false
 [[message]]
 old = 'バーノン'
 new = 'Vernon'
@@ -2885,20 +3083,20 @@ new = 'Vernon'
 old = '子供'
 new = 'Child'
 [message.format]
-proper = false
 new = 'child'
+proper = false
 [[message]]
 old = '子供'
 new = 'Child'
 [message.format]
-proper = false
 new = 'child'
+proper = false
 [[message]]
 old = '子供'
 new = 'Child'
 [message.format]
-proper = false
 new = 'child'
+proper = false
 [[message]]
 old = 'アッバス'
 new = 'Abbas'
