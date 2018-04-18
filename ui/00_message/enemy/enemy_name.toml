@@ -447,6 +447,8 @@ new = 'Spider'
 key = 'ENEMY_NAME_108'
 old = 'ブタ'
 new = 'Pig'
+[message.format]
+new = 'pig'
 [[message]]
 key = 'ENEMY_NAME_109'
 old = '野ブタ'
@@ -455,10 +457,14 @@ new = 'Boar'
 key = 'ENEMY_NAME_110'
 old = 'オオネズミ'
 new = 'Giant Rat'
+[message.format]
+new = 'giant rat'
 [[message]]
 key = 'ENEMY_NAME_111'
 old = '牛'
 new = 'Ox'
+[message.format]
+new = 'ox'
 [[message]]
 key = 'ENEMY_NAME_112'
 old = '雌ジカ'
@@ -471,6 +477,8 @@ new = 'Buck'
 key = 'ENEMY_NAME_114'
 old = 'ウサギ'
 new = 'Rabbit'
+[message.format]
+new = 'rabbit'
 [[message]]
 key = 'ENEMY_NAME_115'
 old = 'スカルロード'
