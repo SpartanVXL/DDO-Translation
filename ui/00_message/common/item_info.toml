@@ -3125,7 +3125,7 @@ old = '''
 獲得XPが上昇する
 一定レベルに達すると、効果は失われる'''
 new = '''
-XP Gain increased.
+XP gain increased.
 Effective only until a certain level.'''
 [[item]]
 id = 1074
