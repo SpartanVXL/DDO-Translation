@@ -36,7 +36,7 @@ old = '<QDEL NAME 2 1>の納品（少）'
 new = 'Deliver <QDEL NAME 2 1> (Few)'
 [[message]]
 old = '――少し考えさせてほしい'
-new = '...I want to think about it a little'
+new = '...I want to think a bit'
 [[message]]
 old = '''
 <QDEL NAME 1 1>を
@@ -121,7 +121,7 @@ old = '面会する'
 new = 'Meet'
 [[message]]
 old = '――少し考えさせてほしい'
-new = '...I want to think about it a little'
+new = '...I want to think a bit'
 [[message]]
 old = '''
 それでは、自室にお通ししておきます

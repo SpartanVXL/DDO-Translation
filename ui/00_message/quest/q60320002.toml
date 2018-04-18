@@ -38,11 +38,13 @@ old = '''
 どちらをお手伝いいただけるのでしょうか？'''
 [[message]]
 old = '物資の調達（納品）'
+new = 'Procure supplies (Delivery)'
 [[message]]
 old = '洞窟内の調査（討伐）'
+new = 'Investigate within the cave (Subjugation)'
 [[message]]
 old = '――少し考えさせてほしい'
-new = '...I want to think about it a little'
+new = '...I want to think a bit'
 [[message]]
 old = '''
 洞窟内の調査ですね

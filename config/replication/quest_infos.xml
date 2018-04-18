@@ -1430,6 +1430,12 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_replace>Return to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
+    <!-- Report investigation to -->
+    <rewrite>
+    	<original_match>^(.+)に調査報告する$</original_match>
+    	<translation_replace>Report investigation to {0:d}</translation_replace>
+    	<translation_arg message_set="npc name" />
+    </rewrite>
     <!-- Report back to -->
     <rewrite>
       <original_match>^白竜神殿の(.+?)に経緯を報告する$</original_match>

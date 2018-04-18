@@ -10,6 +10,7 @@ old = '''
 [[message]]
 key = 'q60320002_00_4302'
 old = 'サポート任務を選択する'
+new = 'Choose support mission'
 [[message]]
 key = 'q60320002_00_4303'
 old = '＜<SQDI NAME>＞を＜<SQDI NUM>＞個、<NPC 585>に渡す（残り:<SQDI DNUM>）'
@@ -25,6 +26,7 @@ new = 'Defeat the enemy encountered'
 [[message]]
 key = 'q60320002_00_4306'
 old = '<NPC 585>に調査報告する'
+new = 'Report investigation to <NPC 585>'
 [[message]]
 key = 'q60320002_00_4307'
 old = '<SPOT 1048> に出現した敵軍の討伐に向かう'
