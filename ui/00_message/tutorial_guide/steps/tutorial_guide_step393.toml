@@ -18,12 +18,10 @@ new = '''
 What are Pawn Special Skills?
 <COL ffdc78>These are a new type of support skill
 for pawns.</COL>
-
 There are several types of skills.
 Such as increasing ones own abilities or
 recovering health.
 Occasionally, they can even revive the Arisen!
-
 Your pawn already has 1 special skill
 learned, so be sure to check that out.'''
 [[message]]
@@ -46,8 +44,8 @@ bell (※) in your room.
 The more skills you set, the easier they
 are to activate so be sure to set them.
 
- ※ Acquired by completing Personal Quest
-   "Mysterious Summoning Bell".'''
+ ※Acquired by completing Personal Quest
+  "Mysterious Summoning Bell".'''
 [[message]]
 key = 'TUTORIAL_STEP_734'
 old = '''
