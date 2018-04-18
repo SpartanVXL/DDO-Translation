@@ -2588,6 +2588,9 @@ old = '英霊眠りし道 水路 武神の間'
 [[message]]
 key = 'SPOT_NAME_1168'
 old = 'エリ警備塔'
+new = 'Eli Guard Tower'
+[message.format]
+proper = true
 [[message]]
 key = 'SPOT_NAME_1169'
 old = 'メルゴダ・黄金宮'

@@ -1773,6 +1773,9 @@ old = '黒示す王の間'
 [[message]]
 key = 'STAGE_NAME_584'
 old = 'エリ警備塔'
+new = 'Eli Guard Tower'
+[message.format]
+proper = true
 [[message]]
 key = 'STAGE_NAME_585'
 old = '展望城'

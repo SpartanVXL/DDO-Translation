@@ -1,18 +1,18 @@
-﻿[[message]]
+﻿default_format = {proper = false}
+[[message]]
 key = 'SPOT_NAME_'
 old = 'メガドシス高地'
 new = 'Megadosys Plateau'
-[message.format]
-proper = false
 [[message]]
 key = 'SPOT_NAME_'
 old = 'メガドシスの記憶'
 new = 'Memory of Megadosys'
-[message.format]
-proper = false
 [[message]]
 key = 'SPOT_NAME_'
 old = 'エリ警備塔'
+new = 'Eli Guard Tower'
+[message.format]
+proper = true
 [[message]]
 key = 'SPOT_NAME_'
 old = '高地のあばら屋'
@@ -20,8 +20,6 @@ old = '高地のあばら屋'
 key = 'SPOT_NAME_'
 old = '城塞都市メガド 居住層'
 new = 'Fortress City Megado: Residental Level'
-[message.format]
-proper = false
 [[message]]
 key = 'SPOT_NAME_'
 old = '忌み標の領域'
@@ -53,8 +51,6 @@ old = '軍獣強化場'
 key = 'SPOT_NAME_'
 old = 'メガドシス古道'
 new = 'Megadosys Old Road'
-[message.format]
-proper = false
 [[message]]
 key = 'SPOT_NAME_'
 old = '静穏の隠れ洞'
@@ -68,20 +64,14 @@ old = 'メガド上水網'
 key = 'SPOT_NAME_'
 old = 'メガド回廊'
 new = 'Megado Corridor'
-[message.format]
-proper = false
 [[message]]
 key = 'SPOT_NAME_'
 old = '城塞都市メガド 王宮層'
 new = 'Fortress City Megado: Royal Palace Level'
-[message.format]
-proper = false
 [[message]]
 key = 'SPOT_NAME_'
 old = 'メガド大聖堂'
 new = 'Megado Cathedral'
-[message.format]
-proper = false
 [[message]]
 key = 'SPOT_NAME_'
 old = '戦練の社'
