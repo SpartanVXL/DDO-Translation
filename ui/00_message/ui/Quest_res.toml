@@ -175,7 +175,7 @@ new = 'Special Bonus'
 [[message]]
 key = 'QUEST_MSG_SUBMENU'
 old = 'サブメニュー'
-new = 'Sub-Menu'
+new = 'Submenu'
 [[message]]
 key = 'QUEST_MSG_AREAPOINT'
 old = 'エリア名声度 <VAL AREA_POINT>'
@@ -517,9 +517,22 @@ old = '''
 
 <COL aa1414>PPモード中や、LVが最大の時には
 報酬の経験値を入手することはできません</COL>'''
+new = '''
+All quests delivered from this Quest Board
+can be cleared.
+Are you sure you want to use
+<COL ffdc78><VAL> Golden Gemstone</COL> to clear all quests?
+(Have: <VAL>)
+
+<COL aa1414>スペシャルクエストボードは、一括クリアする度に
+必要な黄金石がボード毎に増加します</COL>
+
+<COL aa1414>In PP mode or when maximum LV, experience
+from rewards cannot be obtained.</COL>'''
 [[message]]
 key = 'QUEST_MSG_LV_BONUS'
 old = 'クリア報酬が最大%s倍！'
+new = 'Clear reward up to x%s!'
 [[message]]
 key = 'QUEST_MSG_ADV_GUIDE_TITLE_01'
 old = 'Adventure Guide'
