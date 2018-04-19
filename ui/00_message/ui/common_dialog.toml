@@ -2452,6 +2452,7 @@ old = '''
 [[message]]
 key = 'ana_epitaph_023'
 old = '不思議な力が辺りに散らばった'
+new = 'Mysterious force is scattered nearby.'
 [[message]]
 key = 'ana_err_not_enough_item'
 old = 'アイテムが足りません'
@@ -2495,6 +2496,7 @@ old = '発言したいテキストを入力してください'
 [[message]]
 key = 'ana_entry_chat_recruit_03'
 old = 'エントリー募集中！'
+new = 'Entry wanted!'
 [[message]]
 key = 'ana_entry_chat_recruit_04'
 old = 'にチャット募集しました'
