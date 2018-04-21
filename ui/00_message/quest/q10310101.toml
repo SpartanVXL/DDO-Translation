@@ -136,6 +136,7 @@ old = '''
 old = 'さて、今のところ敵の姿はないようだが――'
 [[message]]
 old = '《兵舎》に残って作戦を続ける'
+new = 'Remain in "Barracks" and continue the tactics'
 [[message]]
 old = '《第一の門》を攻略する'
 new = 'Capture "First Gate"'
@@ -223,6 +224,7 @@ old = '''
 old = 'さて、今のところ敵の姿はないようだが――'
 [[message]]
 old = '《兵舎》に残って作戦を続ける'
+new = 'Remain in "Barracks" and continue the tactics'
 [[message]]
 old = '《第一の門》を攻略する'
 new = 'Capture "First Gate"'
@@ -296,6 +298,7 @@ old = '''
 さて、どうしたものか――'''
 [[message]]
 old = '帰還して成果を確認する'
+new = 'Return and review results'
 [[message]]
 old = '《第一の門》を攻略する'
 new = 'Capture "First Gate"'
@@ -545,6 +548,7 @@ old = '《第一の門》を攻略する'
 new = 'Capture "First Gate"'
 [[message]]
 old = '帰還して成果を確認する'
+new = 'Return and review results'
 [[message]]
 old = '''
 そうだね、今回の任務の成果はこれで十分だ

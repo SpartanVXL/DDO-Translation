@@ -178,6 +178,11 @@
     </rewrite>
     <!-- Quest objectives -->
     <rewrite>
+      <original_match>^見つけた物を(.+)に渡す$</original_match>
+      <translation_replace>Deliver the found object to {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^修復に必要な素材のいずれかを&lt;NPC (\d+)&gt;に渡す$</original_match>
       <translation_replace>Deliver the needed materials for repair to &lt;NPC {0}&gt;</translation_replace>
     </rewrite>
@@ -398,7 +403,12 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_replace>Inquire details from {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
-    <!-- Confirm with/Confirm details from -->
+    <!-- Confirm -->
+    <rewrite>
+      <original_match>^(.+)に作戦の成果を確認する$</original_match>
+      <translation_replace>Confirm results of the tactics with {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
     <rewrite>
       <original_match>^&lt;STG (\d+)&gt;の&lt;NPC (\d+)&gt;に確認する$</original_match>
       <translation_replace>Confirm with &lt;NPC {1}&gt; in &lt;STG {0}&gt;</translation_replace>
@@ -1432,9 +1442,9 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <!-- Report investigation to -->
     <rewrite>
-    	<original_match>^(.+)に調査報告する$</original_match>
-    	<translation_replace>Report investigation to {0:d}</translation_replace>
-    	<translation_arg message_set="npc name" />
+      <original_match>^(.+)に調査報告する$</original_match>
+      <translation_replace>Report investigation to {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Report back to -->
     <rewrite>
@@ -1531,6 +1541,11 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Misc -->
+    <rewrite>
+      <original_match>^(.+)を守る敵を殲滅する</original_match>
+      <translation_replace>Defeat the enemy guarding {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
     <rewrite>
       <original_match>^(.+)が仕掛けた檻を探す$</original_match>
       <translation_replace>Search for the cage set by {0:d}</translation_replace>

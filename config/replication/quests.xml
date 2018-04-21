@@ -2,8 +2,18 @@
   <message_set name="quest dialogue">
     <match>^ui\\00_message\\quest\\q\d+$</match>
     <rewrite>
+      <original_match>^(.+)の交戦情報$</original_match>
+      <translation_replace>{0:d}'s battle information</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^《(.+)》を攻略する$</original_match>
       <translation_replace>Capture "{0}"</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^《(.+)》に残って作戦を続ける$</original_match>
+      <translation_replace>Remain in "{0}" and continue the tactics</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
