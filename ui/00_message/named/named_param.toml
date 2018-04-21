@@ -6599,6 +6599,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2058
 old = '不完全な'
+new = 'Defective'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2060
@@ -6938,70 +6939,87 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2158
 old = '不完全な'
+new = 'Defective'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2159
 old = '不完全な'
+new = 'Defective'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2171
 old = '堅牢無比な門番長'
+new = 'Matchless Gatekeeper Leader'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2172
 old = '堅牢無比な'
+new = 'Matchless'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2173
 old = '堅牢無比な'
+new = 'Matchless'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2174
 old = '堅牢無比な'
+new = 'Matchless'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2175
 old = '堅牢無比な'
+new = 'Matchless'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2176
 old = '必死な門番長'
+new = 'Desperate Gatekeeper Leader'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2177
 old = '必死な'
+new = 'Desperate'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2178
 old = '必死な'
+new = 'Desperate'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2179
 old = '必死な'
+new = 'Desperate'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2180
 old = '必死な'
+new = 'Desperate'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2181
 old = '弱った門番長'
+new = 'Weakened Gatekeeper Leader'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2182
 old = '弱った'
+new = 'Weakened'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2183
 old = '弱った'
+new = 'Weakened'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2184
 old = '弱った'
+new = 'Weakened'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2185
 old = '弱った'
+new = 'Weakened'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2186
@@ -7074,14 +7092,17 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2209
 old = '堅牢無比な門番長'
+new = 'Matchless Gatekeeper Leader'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2210
 old = '必死な門番長'
+new = 'Desperate Gatekeeper Leader'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2211
 old = '弱った門番長'
+new = 'Weakened Gatekeeper Leader'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2212
@@ -7102,6 +7123,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2217
 old = '不完全な'
+new = 'Defective'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2218
@@ -7518,6 +7540,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2362
 old = '奈落の王'
+new = 'King of the Netherworld'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2363
@@ -7537,6 +7560,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2366
 old = '壊滅させるもの'
+new = 'The Devastator'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2367
@@ -7546,6 +7570,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2368
 old = '死を約束するもの'
+new = 'One That Promises Death'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2369
