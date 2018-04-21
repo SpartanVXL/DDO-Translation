@@ -266,16 +266,20 @@ old = '現在は開放されていません。開放まで'
 [[message]]
 key = 'areamaster_msg_release_condition'
 old = '解放条件'
+new = 'Unlock Conditions'
 [[message]]
 key = 'areamaster_msg_release_rank'
 old = 'エリアランク<VAL>に到達'
+new = 'Reach Area Rank <VAL>'
 [[message]]
 key = 'areamaster_msg_release_personal_quest'
 old = 'クエスト＜<VAL>＞を進行、またはクリア'
+new = 'Progress or clear quest "<VAL>"'
 [[message]]
 key = 'areamaster_msg_release_limited'
 old = '特定の時間帯にのみ開放'
+new = 'Only available at specific times'
 [[message]]
 key = 'areamaster_msg_hot_growth_spot'
 old = '<COL ffdc78>スポットボス</COL>出現中！'
-new = '<COL ffdc78>Spot Boss</COL> appeared!'
+new = '<COL ffdc78>Spot Boss</COL> has appeared!'
