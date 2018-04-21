@@ -16,6 +16,7 @@ proper = true
 [[message]]
 key = 'SPOT_NAME_'
 old = '高地のあばら屋'
+new = 'Dilapidated House of the Plateau'
 [[message]]
 key = 'SPOT_NAME_'
 old = '城塞都市メガド 居住層'
@@ -38,6 +39,7 @@ old = '魔軍出撃待機所'
 [[message]]
 key = 'SPOT_NAME_'
 old = '虜囚尋問牢'
+new = 'Captive Interrogation Prison'
 [[message]]
 key = 'SPOT_NAME_'
 old = '隠匿の王間'
@@ -59,9 +61,11 @@ new = 'Quiet Concealed Cave'
 [[message]]
 key = 'SPOT_NAME_'
 old = 'メガドへの隠れ水路'
+new = 'Hidden Waterway to Megado'
 [[message]]
 key = 'SPOT_NAME_'
 old = 'メガド上水網'
+new = 'Megado Water Supply Network'
 [[message]]
 key = 'SPOT_NAME_'
 old = 'メガド回廊'
