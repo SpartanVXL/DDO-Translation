@@ -214,46 +214,65 @@ old = '力を乗せたこの攻撃、我慢できるといいですが'
 old = 'ふははは、この技を受け、せめて美しく散るといい'
 [[message]]
 old = '<COL B6FF01>《特技》限界を超えし力、お見せしましょう！</COL>'
+new = '<COL B6FF01>[特技] 限界を超えし力、お見せしましょう！</COL>'
 [[message]]
 old = '<COL B6FF01>《特技》全力を出してあげましょう――いきますよ！</COL>'
+new = '<COL B6FF01>[特技] 全力を出してあげましょう――いきますよ！</COL>'
 [[message]]
 old = '<COL B6FF01>《特技》さあ――これで終わりにしましょうか</COL>'
+new = '<COL B6FF01>[特技] さあ――これで終わりにしましょうか</COL>'
 [[message]]
 old = '<COL B6FF01>《剛化》この攻撃、その身に焼き付けるといい！</COL>'
+new = '<COL B6FF01>[Harden] この攻撃、その身に焼き付けるといい！</COL>'
 [[message]]
 old = '<COL B6FF01>《剛化》己の無力さを知るといい！</COL>'
+new = '<COL B6FF01>[Harden] 己の無力さを知るといい！</COL>'
 [[message]]
 old = '<COL B6FF01>《重化》あなたは地面を舐めていなさい！</COL>'
+new = '<COL B6FF01>[Heavy] あなたは地面を舐めていなさい！</COL>'
 [[message]]
 old = '<COL B6FF01>《重化》いつまで立っていられますかね？</COL>'
+new = '<COL B6FF01>[Heavy] いつまで立っていられますかね？</COL>'
 [[message]]
 old = '<COL B6FF01>《癒活》私たちの戦いに癒しの加護を！</COL>'
+new = '<COL B6FF01>[Restoration] 私たちの戦いに癒しの加護を！</COL>'
 [[message]]
 old = '<COL B6FF01>《癒活》苦しさを越える喜び――私にお任せを！</COL>'
+new = '<COL B6FF01>[Restoration] 苦しさを越える喜び――私にお任せを！</COL>'
 [[message]]
 old = '<COL B6FF01>《柔化》今から、あなたの能力を――下げます！</COL>'
+new = '<COL B6FF01>[Weaken] 今から、あなたの能力を――下げます！</COL>'
 [[message]]
 old = '<COL B6FF01>《柔化》そこの敵から、弱らせてみましょうか</COL>'
+new = '<COL B6FF01>[Weaken] そこの敵から、弱らせてみましょうか</COL>'
 [[message]]
 old = '<COL B6FF01>《集中》大いなる力よ、我らに勝利を</COL>'
+new = '<COL B6FF01>[Concentraion] 大いなる力よ、我らに勝利を</COL>'
 [[message]]
 old = '<COL B6FF01>《集中》詠唱に集中するので、邪魔なさらぬように</COL>'
+new = '<COL B6FF01>[Concentraion] 詠唱に集中するので、邪魔なさらぬように</COL>'
 [[message]]
 old = '<COL B6FF01>《無恐》つまらない攻め方では、まるで効きませんよ</COL>'
+new = '<COL B6FF01>[Fearless] つまらない攻め方では、まるで効きませんよ</COL>'
 [[message]]
 old = '<COL B6FF01>《無恐》さぁ、傷をつけてみることですね――可能ならですが</COL>'
+new = '<COL B6FF01>[Fearless] さぁ、傷をつけてみることですね――可能ならですが</COL>'
 [[message]]
 old = '<COL B6FF01>《集視》勇猛なる私の背を、しかとその目に！</COL>'
+new = '<COL B6FF01>[Attraction] 勇猛なる私の背を、しかとその目に！</COL>'
 [[message]]
 old = '''
 <COL B6FF01>《集視》いいでしょう、
 しばらくはおとり役をこなしますよ</COL>'''
 [[message]]
 old = '<COL B6FF01>《守護》守りは完璧です、怒涛の攻撃を！</COL>'
+new = '<COL B6FF01>[Protection] 守りは完璧です、怒涛の攻撃を！</COL>'
 [[message]]
 old = '<COL B6FF01>《守護》敵の攻撃に打ち勝つ守りを！</COL>'
+new = '<COL B6FF01>[Protection] 敵の攻撃に打ち勝つ守りを！</COL>'
 [[message]]
 old = '<COL B6FF01>《蘇生》覚者殿、貴方をお守りするのはこの私</COL>'
+new = '<COL B6FF01>[Resurrection] 覚者殿、貴方をお守りするのはこの私</COL>'
 [[message]]
 old = '''
 新しい特技が降ってきました

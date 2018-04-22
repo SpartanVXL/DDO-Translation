@@ -214,42 +214,61 @@ old = 'この力――全身全霊で叩くッ！'
 old = '磨き上げたこの妙技、その身に焼き付けろ！'
 [[message]]
 old = '<COL B6FF01>《特技》見よ！　限界を超えた、この力っ！</COL>'
+new = '<COL B6FF01>[特技] 見よ！　限界を超えた、この力っ！</COL>'
 [[message]]
 old = '<COL B6FF01>《特技》この奥義、刮目せよ！</COL>'
+new = '<COL B6FF01>[特技] この奥義、刮目せよ！</COL>'
 [[message]]
 old = '<COL B6FF01>《特技》これぞ我が全身全霊！</COL>'
+new = '<COL B6FF01>[特技] これぞ我が全身全霊！</COL>'
 [[message]]
 old = '<COL B6FF01>《剛化》この攻撃、どこまで耐えられるかな！</COL>'
+new = '<COL B6FF01>[Harden] この攻撃、どこまで耐えられるかな！</COL>'
 [[message]]
 old = '<COL B6FF01>《剛化》力を示す！　いくぞ！</COL>'
+new = '<COL B6FF01>[Harden] 力を示す！　いくぞ！</COL>'
 [[message]]
 old = '<COL B6FF01>《重化》これ以上立っていられると思うな！</COL>'
+new = '<COL B6FF01>[Heavy] これ以上立っていられると思うな！</COL>'
 [[message]]
 old = '<COL B6FF01>《重化》一気に体勢を崩してやります！</COL>'
+new = '<COL B6FF01>[Heavy] 一気に体勢を崩してやります！</COL>'
 [[message]]
 old = '<COL B6FF01>《癒活》癒しの力で、後押しします！</COL>'
+new = '<COL B6FF01>[Restoration] 癒しの力で、後押しします！</COL>'
 [[message]]
 old = '<COL B6FF01>《癒活》我々はまだ戦えるはずです！</COL>'
+new = '<COL B6FF01>[Restoration] 我々はまだ戦えるはずです！</COL>'
 [[message]]
 old = '<COL B6FF01>《柔化》その攻め、いま鈍らせてやるぞ！</COL>'
+new = '<COL B6FF01>[Weaken] その攻め、いま鈍らせてやるぞ！</COL>'
 [[message]]
 old = '<COL B6FF01>《柔化》敵を弱らせて隙を作ります！</COL>'
+new = '<COL B6FF01>[Weaken] 敵を弱らせて隙を作ります！</COL>'
 [[message]]
 old = '<COL B6FF01>《集中》全力で集中し、詠唱します！</COL>'
+new = '<COL B6FF01>[Concentraion] 全力で集中し、詠唱します！</COL>'
 [[message]]
 old = '<COL B6FF01>《集中》我が魔力よ、いまこそ力を！</COL>'
+new = '<COL B6FF01>[Concentraion] 我が魔力よ、いまこそ力を！</COL>'
 [[message]]
 old = '<COL B6FF01>《無恐》向かうところ敵無しッ！</COL>'
+new = '<COL B6FF01>[Fearless] 向かうところ敵無しッ！</COL>'
 [[message]]
 old = '<COL B6FF01>《無恐》耐えられぬ攻撃など、ないっ！</COL>'
+new = '<COL B6FF01>[Fearless] 耐えられぬ攻撃など、ないっ！</COL>'
 [[message]]
 old = '<COL B6FF01>《集視》まとめて受けて立つ！　かかってこい！</COL>'
+new = '<COL B6FF01>[Attraction] まとめて受けて立つ！　かかってこい！</COL>'
 [[message]]
 old = '<COL B6FF01>《集視》今こそ、道を切り開く時！</COL>'
+new = '<COL B6FF01>[Attraction] 今こそ、道を切り開く時！</COL>'
 [[message]]
 old = '<COL B6FF01>《守護》守りを固めます、攻勢に出ましょう！</COL>'
+new = '<COL B6FF01>[Protection] 守りを固めます、攻勢に出ましょう！</COL>'
 [[message]]
 old = '<COL B6FF01>《守護》これぞ鋼の防御！</COL>'
+new = '<COL B6FF01>[Protection] これぞ鋼の防御！</COL>'
 [[message]]
 old = '''
 <COL B6FF01>《蘇生》マスター！

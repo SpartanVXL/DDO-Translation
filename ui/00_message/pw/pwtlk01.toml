@@ -266,46 +266,65 @@ old = '力を溜めて攻撃します！ 私にお任せを！'
 old = 'この大技で仕留める！ いくぞ！'
 [[message]]
 old = '<COL B6FF01>《特技》限界を超えた力、今お見せします！</COL>'
+new = '<COL B6FF01>[特技] 限界を超えた力、今お見せします！</COL>'
 [[message]]
 old = '<COL B6FF01>《特技》私の活躍、見ていて下さい！</COL>'
+new = '<COL B6FF01>[特技] 私の活躍、見ていて下さい！</COL>'
 [[message]]
 old = '<COL B6FF01>《特技》秘めたる技を解放します！</COL>'
+new = '<COL B6FF01>[特技] 秘めたる技を解放します！</COL>'
 [[message]]
 old = '<COL B6FF01>《剛化》一気に体力を奪ってみせます！</COL>'
+new = '<COL B6FF01>[Harden] 一気に体力を奪ってみせます！</COL>'
 [[message]]
 old = '<COL B6FF01>《剛化》攻撃力を最大まで高めます！</COL>'
+new = '<COL B6FF01>[Harden] 攻撃力を最大まで高めます！</COL>'
 [[message]]
 old = '<COL B6FF01>《重化》早々に倒れさせてみせます！</COL>'
+new = '<COL B6FF01>[Heavy] 早々に倒れさせてみせます！</COL>'
 [[message]]
 old = '<COL B6FF01>《重化》敵の体勢を崩してみせます！</COL>'
+new = '<COL B6FF01>[Heavy] 敵の体勢を崩してみせます！</COL>'
 [[message]]
 old = '<COL B6FF01>《癒活》この戦いに癒しの加護を！</COL>'
+new = '<COL B6FF01>[Restoration] この戦いに癒しの加護を！</COL>'
 [[message]]
 old = '<COL B6FF01>《癒活》癒しの力で、窮地を越えましょう！</COL>'
+new = '<COL B6FF01>[Restoration] 癒しの力で、窮地を越えましょう！</COL>'
 [[message]]
 old = '<COL B6FF01>《柔化》やつを状態異常にしてみせます！</COL>'
+new = '<COL B6FF01>[Weaken] やつを状態異常にしてみせます！</COL>'
 [[message]]
 old = '<COL B6FF01>《柔化》状態異常を狙います！</COL>'
+new = '<COL B6FF01>[Weaken] 状態異常を狙います！</COL>'
 [[message]]
 old = '<COL B6FF01>《集中》詠唱に集中します！</COL>'
+new = '<COL B6FF01>[Concentraion] 詠唱に集中します！</COL>'
 [[message]]
 old = '<COL B6FF01>《集中》魔力を最大限に高めます！</COL>'
+new = '<COL B6FF01>[Concentraion] 魔力を最大限に高めます！</COL>'
 [[message]]
 old = '<COL B6FF01>《無恐》どんな攻撃にも耐えてみせます！</COL>'
+new = '<COL B6FF01>[Fearless] どんな攻撃にも耐えてみせます！</COL>'
 [[message]]
 old = '<COL B6FF01>《無恐》恐れずに立ち向かいます！</COL>'
+new = '<COL B6FF01>[Fearless] 恐れずに立ち向かいます！</COL>'
 [[message]]
 old = '<COL B6FF01>《集視》覚者さま、私が敵を引き受けます！</COL>'
+new = '<COL B6FF01>[Attraction] 覚者さま、私が敵を引き受けます！</COL>'
 [[message]]
 old = '<COL B6FF01>《集視》ご安心を、私が前に出ます！</COL>'
+new = '<COL B6FF01>[Attraction] ご安心を、私が前に出ます！</COL>'
 [[message]]
 old = '''
 <COL B6FF01>《守護》防御性能を引き上げます！
 攻めましょう！</COL>'''
 [[message]]
 old = '<COL B6FF01>《守護》味方全員の守りを高めます！</COL>'
+new = '<COL B6FF01>[Protection] 味方全員の守りを高めます！</COL>'
 [[message]]
 old = '<COL B6FF01>《蘇生》覚者さまの命、私がお救いします！</COL>'
+new = '<COL B6FF01>[Resurrection] 覚者さまの命、私がお救いします！</COL>'
 [[message]]
 old = '覚者さま、新たな特技を閃きました！'
 [[message]]
