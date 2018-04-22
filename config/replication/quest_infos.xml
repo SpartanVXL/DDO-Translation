@@ -196,7 +196,7 @@
       <original_match>^(.+)に《&lt;ITEM (\d+)&gt;》を(\d+)個納品する$</original_match>
       <translation_replace>Deliver "&lt;ITEM {1}&gt;" x{2} to {0:d}</translation_replace>
       <translation_arg index="0" message_set="npc name" />
-      <translation_arg index="2" message_set="numbers" />
+      <translation_arg index="2" message_set="numeric" />
     </rewrite>
     <rewrite>
       <original_match>^見つけた素材を(.+)の&lt;NPC (\d+)&gt;に渡す$</original_match>
@@ -298,34 +298,34 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_replace>[{0}] Bring down "{1}" that appeared ({3} min left)</translation_replace>
       <translation_arg index="0" message_set="conquest state name" />
       <translation_arg index="1" message_set="named param" />
-      <translation_arg index="3" message_set="numbers" />
+      <translation_arg index="3" message_set="numeric" />
     </rewrite>
     <rewrite>
       <original_match>^【(.+)】大砲を増強する＜(.+)＞が出現！（残り(：)?(.+?)分）$</original_match>
       <translation_replace>[{0}] Artillery reinforcement "{1}" arrives! ({3} min left)</translation_replace>
       <translation_arg index="0" message_set="conquest state name" />
       <translation_arg index="1" message_set="named param" />
-      <translation_arg index="3" message_set="numbers" />
+      <translation_arg index="3" message_set="numeric" />
     </rewrite>
     <rewrite>
       <original_match>^【(.+)】砲撃場の鍵を持つ＜(.+)＞が出現！（残り(：)?(.+?)分）$</original_match>
       <translation_replace>[{0}] "{1}" with key to artillery battery arrives! ({3} min left)</translation_replace>
       <translation_arg index="0" message_set="conquest state name" />
       <translation_arg index="1" message_set="named param" />
-      <translation_arg index="3" message_set="numbers" />
+      <translation_arg index="3" message_set="numeric" />
     </rewrite>
     <rewrite>
       <original_match>^【(.+)】砦内へ進攻するルートを確保する（残り(：)?(.+?)分）$</original_match>
       <translation_replace>[{0}] Secure a route to advance into the fort ({2} min left)</translation_replace>
       <translation_arg index="0" message_set="conquest state name" />
-      <translation_arg index="2" message_set="numbers" />
+      <translation_arg index="2" message_set="numeric" />
     </rewrite>
     <rewrite>
       <original_match>^【(.+)】(.+)を征圧する（残り(：)?(.+?)分）$</original_match>
       <translation_replace>[{0}] Conquer {1} ({3} min left)</translation_replace>
       <translation_arg index="0" message_set="conquest state name" />
       <translation_arg index="1" message_set="conquest location name" />
-      <translation_arg index="3" message_set="numbers" />
+      <translation_arg index="3" message_set="numeric" />
     </rewrite>
     <rewrite>
       <original_match>^【(.+)】中央の敵陣を再び征圧する$</original_match>
@@ -336,7 +336,7 @@ challenge the trial of the Training Chapel</translation_replace>
       <original_match>^(.+)を征圧する（残り(：)?(.+?)分）$</original_match>
       <translation_replace>Conquer {0} ({2} min left)</translation_replace>
       <translation_arg index="0" message_set="location name" />
-      <translation_arg index="2" message_set="numbers" />
+      <translation_arg index="2" message_set="numeric" />
     </rewrite>
     <rewrite>
       <original_match>^【(.+)】地下の宝物庫で報酬を獲得する$</original_match>
@@ -436,6 +436,12 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <!-- Consult with -->
     <rewrite>
+      <original_match>^(.+)に戻り(.+)と相談する$</original_match>
+      <translation_replace>Return to {0:d} and consult {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^&lt;STG (\d+)&gt;の&lt;NPC (\d+)&gt;に相談する$</original_match>
       <translation_replace>Consult &lt;NPC {1}&gt; in &lt;STG {0}&gt;</translation_replace>
     </rewrite>
@@ -456,7 +462,7 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)に相談する$</original_match>
+      <original_match>^(.+)(と|に)相談する$</original_match>
       <translation_replace>Consult with {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
@@ -637,6 +643,12 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_replace>Speak with {0:d} and return to {1:d}</translation_replace>
       <translation_arg index="0" message_set="npc name" />
       <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の元に戻り(.+)と話す</original_match>
+      <translation_replace>Return to {0:d} and speak with {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)村の住民に話しかける$</original_match>
@@ -825,6 +837,11 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_replace>Speak with {1:d} about who helped within {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^すべてが解決したことを(.+)に話す$</original_match>
+      <translation_replace>Tell {0:d} that all is resolved</translation_replace>
+      <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)と(.+)に話す$</original_match>
@@ -1549,6 +1566,11 @@ challenge the trial of the Training Chapel</translation_replace>
     <rewrite>
       <original_match>^(.+)が仕掛けた檻を探す$</original_match>
       <translation_replace>Search for the cage set by {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)が再び仕掛けた檻を探す$</original_match>
+      <translation_replace>Search for the cage set by {0:d} again</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>

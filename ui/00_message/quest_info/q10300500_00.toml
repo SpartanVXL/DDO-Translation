@@ -1,6 +1,7 @@
 ﻿[[message]]
 key = 'q10300500_00_23'
 old = 'さらば腹ペコ'
+new = 'Farewell Hungry'
 [[message]]
 key = 'q10300500_00_23'
 old = '''
@@ -17,6 +18,7 @@ new = 'Speak with <NPC 580>'
 [[message]]
 key = 'q10300500_00_3527'
 old = '<NPC 4773>が再び仕掛けた檻を探す'
+new = 'Search for the cage set by <NPC 4773> again'
 [[message]]
 key = 'q10300500_00_3528'
 old = '周囲に獲物の痕跡がないかを探す'
@@ -37,6 +39,7 @@ old = '<NPC 4773>に“幻の食材”の正体を報告する'
 [[message]]
 key = 'q10300500_00_3533'
 old = '<NPC 580>と相談する'
+new = 'Consult with <NPC 580>'
 [[message]]
 key = 'q10300500_00_3534'
 old = '<NPC 580>の様子をうかがう'
@@ -49,11 +52,11 @@ old = '現れた“ゴブリン一家”と“ボス”を討伐する'
 [[message]]
 key = 'q10300500_00_3537'
 old = '<NPC 581>の元に戻り<NPC 580>と話す'
-new = 'Speak with <NPC 581>の元に戻り<NPC 580>'
+new = 'Return to <NPC 581> and speak with <NPC 580>'
 [[message]]
 key = 'q10300500_00_3538'
 old = 'すべてが解決したことを<NPC 4773>に話す'
-new = 'Speak with すべてが解決したこ and を<NPC 4773>'
+new = 'Tell <NPC 4773> that all is resolved'
 [[message]]
 key = 'q10300500_00_3524'
 old = '<NPC 580>に話しかけて砦に戻る'
