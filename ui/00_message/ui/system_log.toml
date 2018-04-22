@@ -288,8 +288,9 @@ old = '''
 ジョブ修練ログ「<VAL>」の課題を達成しました
 ジョブマスターに報告するか、ジョブ修練ログを開いてください'''
 new = '''
-Job training log "<VAL>" has been completed.
-Report to the Job Master or open the Job Training Log.'''
+Job Training Log task "<VAL>" has been completed.
+Report to the Job Master or open
+the Job Training Log.'''
 [[message]]
 key = 'syslog_entryboard_creat'
 old = '<NAME QUEST>のエントリーボードを作成しました'
