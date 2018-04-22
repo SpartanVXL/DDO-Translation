@@ -224,9 +224,9 @@ then {2:d} to unleash.</translation_replace>
 elements using &lt;PADM&gt;the left stick&lt;KEYM&gt;mouse movement&lt;/KEYM&gt;.
 Press {6:d} or {8:d} to confirm element choice.</translation_replace>
       <translation_arg index="0" message_set="skill command button" />
-      <translation_arg index="2" message_set="numbers" />
+      <translation_arg index="2" message_set="numeric" />
       <translation_arg index="3" message_set="skill command button" />
-      <translation_arg index="5" message_set="numbers" />
+      <translation_arg index="5" message_set="numeric" />
       <translation_arg index="6" message_set="skill command button" />
       <translation_arg index="8" message_set="skill command button" />
     </rewrite>
@@ -237,9 +237,9 @@ Press {6:d} or {8:d} to confirm element choice.</translation_replace>
 using &lt;PADM&gt;the left stick&lt;KEYM&gt;mouse movement&lt;/KEYM&gt;.
 Press &lt;PADM&gt;{6:d}&lt;KEYM&gt;{8:d} or {10:d}&lt;/KEYM&gt; to confirm element choice.</translation_replace>
       <translation_arg index="0" message_set="skill command button" />
-      <translation_arg index="2" message_set="numbers" />
+      <translation_arg index="2" message_set="numeric" />
       <translation_arg index="3" message_set="skill command button" />
-      <translation_arg index="5" message_set="numbers" />
+      <translation_arg index="5" message_set="numeric" />
       <translation_arg index="6" message_set="skill command button" />
       <translation_arg index="8" message_set="skill command button" />
       <translation_arg index="10" message_set="skill command button" />
