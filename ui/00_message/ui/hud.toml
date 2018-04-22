@@ -89,6 +89,7 @@ new = '<VAL> was sent to the Rift within Pawn Cathedral'
 [[message]]
 key = 'hud_pawn_ann_rescue_start'
 old = '<VAL> を襲いかかる敵から救出せよ'
+new = 'Rescue <VAL> from the attacking enemies'
 [[message]]
 key = 'hud_pawn_ann_rescue_failed'
 old = '<VAL> の呪縛を解くことができなかった'
