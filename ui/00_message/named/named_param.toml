@@ -753,12 +753,12 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 283
 old = '先発隊長'
-new = 'Vanguard Captain'
+new = 'Vanguard Commander'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 284
 old = '切込隊長'
-new = 'Raid Captain'
+new = 'Raid Commander'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 285
@@ -950,12 +950,12 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 352
 old = '影穴の軍狼'
-new = 'Wolves of Shadows'
+new = 'Wolf of Shadows'
 type = {old = 'Replace'}
 [[named_param]]
 id = 353
 old = '影穴の部隊兵'
-new = 'Troops of Shadows'
+new = 'Troop of Shadows'
 type = {old = 'Replace'}
 [[named_param]]
 id = 354
@@ -5720,22 +5720,27 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 1776
 old = '砦外雑兵'
+new = 'Troop outside the Fort'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1777
 old = '正門の番人'
+new = 'Main Gate Guard'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1778
 old = '砦外雑兵'
+new = 'Troop outside the Fort'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1779
 old = '砦内雑兵'
+new = 'Troop inside the Fort'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1780
 old = '敵陣旗に集う雑兵'
+new = 'Troop Gathering at Enemy Flags'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1781
@@ -5750,38 +5755,47 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 1783
 old = '陣地防衛隊長'
+new = 'Encampment Defense Commander'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1784
 old = '陣地防衛兵'
+new = 'Encampment Defense Troop'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1785
 old = '敵陣守護隊長'
+new = 'Enemy Camp Guard Commander'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1786
 old = '敵陣守護兵'
+new = 'Enemy Camp Guard Troop'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1787
 old = '砲撃場兵'
+new = 'Bombardment Location Troop'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1788
 old = '陣地防衛隊長'
+new = 'Encampment Defense Commander'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1789
 old = '陣地防衛兵'
+new = 'Encampment Defense Troop'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1790
 old = '陣地防衛隊長'
+new = 'Encampment Defense Commander'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1791
 old = '陣地防衛兵'
+new = 'Encampment Defense Troop'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1792
@@ -5889,6 +5903,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 1831
 old = 'トリンの家畜'
+new = "Thorin's Livestock"
 type = {old = 'Replace'}
 [[named_param]]
 id = 1832
@@ -6385,6 +6400,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 1990
 old = '正門の番人'
+new = 'Main Gate Guard'
 type = {old = 'Replace'}
 [[named_param]]
 id = 1991
@@ -6549,6 +6565,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2046
 old = '脱走した白い'
+new = 'Escaped White'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2047
