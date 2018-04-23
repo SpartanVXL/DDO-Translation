@@ -3,17 +3,17 @@
     <match>^ui\\00_message\\achievement\\greate_purpose_\d+$</match>
     <rewrite>
       <original_match>^エリアミッション《(.+)》を攻略せよ！$</original_match>
-      <translation_replace>Capture Area Mission "{0}"!</translation_replace>
+      <translation_replace>Clear Area Mission "{0}"!</translation_replace>
       <translation_arg message_set="quest name" />
     </rewrite>
     <rewrite>
       <original_match>^ウォーミッション《(.+)》を攻略せよ！$</original_match>
-      <translation_replace>Capture War Mission "{0}"!</translation_replace>
+      <translation_replace>Clear War Mission "{0}"!</translation_replace>
       <translation_arg message_set="quest name" />
     </rewrite>
     <rewrite>
       <original_match>^エピタフロード《(.+)》を攻略せよ！$</original_match>
-      <translation_replace>Capture the Epitaph Road "{0}"!</translation_replace>
+      <translation_replace>Clear the Epitaph Road "{0}"!</translation_replace>
       <translation_arg message_set="area name" />
     </rewrite>
     <rewrite>
