@@ -24,6 +24,11 @@ old = '''
 %sにて
 ウォーミッション累積ポイントを
 %s <UNIT PT>獲得（%s/%s）'''
+new = '''
+Acquire
+%s
+War Mission Accumulated Points,
+%s <UNIT PT>. (%s/%s)'''
 [[message]]
 key = 'SHOP_GOODS_UNLOCK_CONDITION_5'
 old = '''

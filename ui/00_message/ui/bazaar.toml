@@ -147,7 +147,7 @@ Are you sure you want to exhibit the following?
 Item: <NAME ITEM>
 Amount: <VAL>
 Sell Price: <VAL GOLD>
-Sales Tax(<VAL>%): <VAL GOLD>'''
+Sales Tax (<VAL>%): <VAL GOLD>'''
 [[message]]
 key = 'bazaar_msg_announce_exhibited'
 old = '<NAME ITEM>を出品しました'
@@ -235,7 +235,7 @@ Are you sure you want to re-exhibit the following?
 Item: <NAME ITEM>
 Amount: <VAL>
 Sell Price: <VAL GOLD>
-Sales Tax(<VAL>%): <VAL GOLD>'''
+Sales Tax (<VAL>%): <VAL GOLD>'''
 [[message]]
 key = 'bazaar_msg_announce_re_exhibited'
 old = '<NAME ITEM>を再出品しました'

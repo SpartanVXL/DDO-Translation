@@ -288,7 +288,7 @@ old = '''
 ジョブ修練ログ「<VAL>」の課題を達成しました
 ジョブマスターに報告するか、ジョブ修練ログを開いてください'''
 new = '''
-Job Training Log task "<VAL>" has been completed.
+Job Training Log challenge "<VAL>" achieved.
 Report to the Job Master or open
 the Job Training Log.'''
 [[message]]
@@ -540,15 +540,15 @@ new = '<NAME ITEM> x<VAL> obtained.'
 [[message]]
 key = 'syslog_bazaar_put'
 old = 'バザーに<NAME ITEM>を出品しました'
-new = '<NAME ITEM> has been put up for sale in the bazaar.'
+new = '<NAME ITEM> has been exhibited in the bazaar.'
 [[message]]
 key = 'syslog_bazaar_reput'
 old = 'バザーに<NAME ITEM>を再出品しました'
-new = '<NAME ITEM> has been republished in the bazaar.'
+new = '<NAME ITEM> has been re-exhibited in the bazaar.'
 [[message]]
 key = 'syslog_bazaar_cancel'
 old = 'バザーに出品中の<NAME ITEM>を取り消しました'
-new = '<NAME ITEM> has been taken down from sale in the bazaar.'
+new = '<NAME ITEM> has been withdrawn from the bazaar.'
 [[message]]
 key = 'syslog_bazaar_sell'
 old = 'バザーに出品中の<NAME ITEM>が取引成立しました'
@@ -924,7 +924,7 @@ new = '''
 [[message]]
 key = 'syslog_quest_decide_deliver'
 old = '＜<NAME QUEST>＞の納品目標を達成しました'
-new = '"<NAME QUEST>" has reached the required item delivery amount.'
+new = '"<NAME QUEST>" delivery objective achieved.'
 [[message]]
 key = 'syslog_jp_possession_max_notice'
 old = '''
@@ -1161,10 +1161,11 @@ new = '"<VAL>" mission "<VAL>" progress decreased.'
 [[message]]
 key = 'syslog_pq_seq_ana_seqcomp'
 old = '＜<VAL>＞の使命＜<VAL>＞を達成しました'
-new = '"<VAL>" mission "<VAL>" completed.'
+new = '"<VAL>" mission "<VAL>" achieved.'
 [[message]]
 key = 'syslog_pq_seq_ana_pacend'
 old = '＜<VAL>＞のすべての使命を達成しました'
+new = 'All "<VAL>" missions achieved.'
 [[message]]
 key = 'syslog_wm_statement_gauge_0_defeat'
 old = '戦況が最悪化し、敗戦状態となりました'

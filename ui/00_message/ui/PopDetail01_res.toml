@@ -68,12 +68,15 @@ new = 'Until End Of Sale: '
 [[message]]
 key = 'pop_detail_shop_aggregate1'
 old = '集計開始まであと'
+new = 'Until Start Tally: '
 [[message]]
 key = 'pop_detail_shop_aggregate2'
 old = '集計終了まであと'
+new = 'Until End Tally: '
 [[message]]
 key = 'pop_detail_shop_aggregate3'
 old = '集計終了しました'
+new = 'Ended Tally: '
 [[message]]
 key = 'pop_detail_shop_unlock_condition_3_1'
 old = '(まだランキングは確定していません)'

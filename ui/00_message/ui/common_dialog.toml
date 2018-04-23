@@ -2476,7 +2476,7 @@ old = '''
 本日のミッションは達成しています'''
 new = '''
 Mission: "<NAME QUEST>"
-Mission has been achieved today.'''
+Today's mission has been achieved.'''
 [[message]]
 key = 'ana_clan_kyoten_no_authority_layout'
 old = '拠点のレイアウトを使用する権限が与えられていません'

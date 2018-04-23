@@ -7,6 +7,7 @@ old = 'Grand Total Score'
 [[message]]
 key = 'mr_msg_element'
 old = '項目'
+new = 'Item'
 [[message]]
 key = 'mr_msg_finish'
 old = '完了'
@@ -27,9 +28,11 @@ old = '項目はありません'
 [[message]]
 key = 'mr_msg_times'
 old = '回数'
+new = 'Count'
 [[message]]
 key = 'mr_msg_sum'
 old = '小計'
+new = 'Subtotal'
 [[message]]
 key = 'mr_msg_deathpenalty'
 old = '死亡ペナルティ'
@@ -63,9 +66,11 @@ old = '<OPCS>報酬'
 [[message]]
 key = 'mr_msg_title_en'
 old = 'Mission Result'
+new = 'Mission Result'
 [[message]]
 key = 'mr_msg_title_jp'
 old = 'ミッションリザルト'
+new = 'Mission Result'
 [[message]]
 key = 'mr_msg_parts_break'
 old = '部位破壊'
@@ -78,9 +83,11 @@ old = 'Score'
 [[message]]
 key = 'mr_msg_wm_dp_name_pos'
 old = '<UNTN DP>'
+new = '<UNTN DP>'
 [[message]]
 key = 'mr_msg_wm_dp_name_acc'
 old = 'ウォーミッション累積ポイント'
+new = 'War Mission Accumulated Points'
 [[message]]
 key = 'mr_msg_wm_bonus_1'
 old = '戦況ボーナス'

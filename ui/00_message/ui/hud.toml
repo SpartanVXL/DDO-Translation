@@ -332,6 +332,7 @@ old = '<VAL> }#'
 [[message]]
 key = 'hud_announce_bbi_clear'
 old = '《%s》攻略！'
+new = '"%s" cleared!'
 [[message]]
 key = 'hud_announce_bbi_comp'
 old = '%sを踏破した！'
