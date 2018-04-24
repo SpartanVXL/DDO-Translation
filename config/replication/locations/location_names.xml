@@ -6,9 +6,70 @@
     <match>^ui\\00_message\\common\\stage_list$</match>
     <match>^ui\\00_message\\master\\area\d+_spot_name$</match>
     <extra>
+      <original>ハイデル</original>
+      <translation>Hidell</translation>
+    </extra>
+    <extra>
+      <original>ブリア</original>
+      <translation>Breya</translation>
+    </extra>
+    <extra>
+      <original>ミスリウ</original>
+      <translation>Mysree</translation>
+    </extra>
+    <extra>
+      <original>ボルド</original>
+      <translation>Volden</translation>
+    </extra>
+    <extra>
+      <original>ダウ</original>
+      <translation>Dowe</translation>
+    </extra>
+    <extra>
+      <original>ミスリウ深部</original>
+      <translation>Mysree Grove</translation>
+    </extra>
+    <extra>
+      <original>ディナン</original>
+      <translation>Deenan</translation>
+    </extra>
+    <extra>
+      <original>バートランド</original>
+      <translation>Betland</translation>
+    </extra>
+    <extra>
+      <original>バートランド北部</original>
+      <translation>Northern Betland</translation>
+    </extra>
+    <extra>
+      <original>ザンドラ</original>
+      <translation>Zandora</translation>
+    </extra>
+    <extra>
+      <original>エラン</original>
+      <translation>Elan</translation>
+    </extra>
+    <extra>
+      <original>ファーラナ</original>
+      <translation>Farana</translation>
+    </extra>
+    <extra>
+      <original>モロー</original>
+      <translation>Morrow</translation>
+    </extra>
+    <extra>
+      <original>キンガル</original>
+      <translation>Kingal</translation>
+    </extra>
+    <extra>
       <original>白竜神殿</original>
       <translation>The White Dragon Temple</translation>
       <translation_format proper="false">White Dragon Temple</translation_format>
+    </extra>
+    <extra>
+      <original>神殿</original>
+      <translation>Temple</translation>
+      <translation_format proper="false">Temple</translation_format>
     </extra>
     <extra>
       <original>神殿内の中央広場</original>
@@ -203,18 +264,18 @@
     <!-- Replicate area names -->
     <rewrite>
       <original_match>^(.+)$</original_match>
-      <translation_replace>{0}</translation_replace>
+      <translation_replace>{0:@}</translation_replace>
       <translation_arg message_set="area name" required="true" />
     </rewrite>
     <!-- Replicate area name + "Depths" so it doesn't end up as area name + ": Deepest Level" -->
     <rewrite>
       <original_match>^(.+)\s+深層$</original_match>
-      <translation_replace>{0} Depths</translation_replace>
+      <translation_replace>{0:@} Depths</translation_replace>
       <translation_arg message_set="area name" required="true" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)\s+最奥$</original_match>
-      <translation_replace>Innermost {0}</translation_replace>
+      <translation_replace>Innermost {0:@}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
@@ -225,20 +286,20 @@
     </rewrite>
     <rewrite>
       <original_match>^(.+)\s+(.+?)\s+(.+?)$</original_match>
-      <translation_replace>{0} {1}: {2}</translation_replace>
+      <translation_replace>{0:@} {1}: {2}</translation_replace>
       <translation_arg index="0" message_set="location name" required="true" />
       <translation_arg index="1" message_set="location dungeon area name" required="true" />
       <translation_arg index="2" message_set="location dungeon subarea name" required="true" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)\s+(.+?)$</original_match>
-      <translation_replace>{0} {1}</translation_replace>
+      <translation_replace>{0:@} {1}</translation_replace>
       <translation_arg index="0" message_set="location name" required="true" />
       <translation_arg index="1" message_set="location dungeon area name" required="true" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)\s+(.+?)$</original_match>
-      <translation_replace>{0}: {1}</translation_replace>
+      <translation_replace>{0:@}: {1}</translation_replace>
       <translation_arg index="0" message_set="location name" required="true" />
       <translation_arg index="1" message_set="location dungeon subarea name" required="true" />
     </rewrite>

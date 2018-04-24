@@ -5,50 +5,21 @@
     <match>^ui\\00_message\\package_quest\\package_quest$</match>
     <!-- Quest names -->
     <rewrite soft="true">
-      <original_match>^【高難度】(.+?)$</original_match>
-      <translation_replace>High Difficulty: {0}</translation_replace>
-    </rewrite>
-    <rewrite soft="true">
-      <original_match>^【竜力の扉】(.+?)$</original_match>
-      <translation_replace>Door of Dragon Force: {0}</translation_replace>
-    </rewrite>
-    <rewrite soft="true">
-      <original_match>^【財宝の扉】(.+?)$</original_match>
-      <translation_replace>Door of Treasures: {0}</translation_replace>
-    </rewrite>
-    <rewrite soft="true">
-      <original_match>^【宝飾の扉】(.+?)$</original_match>
-      <translation_replace>Door of Jewelry: {0}</translation_replace>
-    </rewrite>
-    <rewrite soft="true">
-      <original_match>^【昌石の扉】(.+?)$</original_match>
-      <translation_replace>Door of Gemstones: {0}</translation_replace>
-    </rewrite>
-    <rewrite soft="true">
-      <original_match>^【時限採取】(.+?)$</original_match>
-      <translation_replace>Time Restriction: {0}</translation_replace>
-    </rewrite>
-    <rewrite soft="true">
-      <original_match>^＜エリアオーダー＞(.+?)近郊魔物征伐$</original_match>
-      <translation_replace>Area Order: Near {0} Demon Extermination</translation_replace>
-      <translation_arg message_set="location name" />
+      <original_match>^【(.+?)】(.+)$</original_match>
+      <translation_replace>{0}: {1}</translation_replace>
+      <translation_arg index="0" message_set="quest prefix" required="true" />
     </rewrite>
     <rewrite>
       <original_match>^＜エリアオーダー＞(.+?)近郊魔物征伐$</original_match>
-      <translation_replace>Area Order: Near {0} Demon Extermination</translation_replace>
-      <translation_arg message_set="location name" required="true" />
-    </rewrite>
-    <rewrite soft="true">
-      <original_match>^＜エリアオーダー＞(.+?)魔物征伐$</original_match>
-      <translation_replace>Area Order: {0} Demon Extermination</translation_replace>
+      <translation_replace>Area Order: {0} Outskirts Demon Extermination</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^＜エリアオーダー＞(.+?)魔物征伐$</original_match>
       <translation_replace>Area Order: {0} Demon Extermination</translation_replace>
-      <translation_arg message_set="location name" required="true" />
+      <translation_arg message_set="location name" />
     </rewrite>
-    <rewrite soft="true">
+    <rewrite>
       <original_match>^＜エリアオーダー＞(.+?)補給$</original_match>
       <translation_replace>Area Order: {0} Resupply</translation_replace>
       <translation_arg message_set="location name" />
@@ -59,27 +30,27 @@
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
-      <original_match>^(.+?)　試練：(.+?)$</original_match>
+      <original_match>^(.+)　試練：(.+)$</original_match>
       <translation_replace>{0} Trial: {1}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
-      <original_match>^白翼覚者隊・納品依頼　(.+?)$</original_match>
+      <original_match>^白翼覚者隊・納品依頼　(.+)$</original_match>
       <translation_replace>White Wings: Delivery ({0})</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
-      <original_match>^白翼覚者隊・収集依頼　(.+?)$</original_match>
+      <original_match>^白翼覚者隊・収集依頼　(.+)$</original_match>
       <translation_replace>White Wings: Collection ({0})</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
-      <original_match>^白翼覚者隊・討伐任務　(.+?)$</original_match>
+      <original_match>^白翼覚者隊・討伐任務　(.+)$</original_match>
       <translation_replace>White Wings: Elimination ({0})</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite soft="true">
-      <original_match>^白翼覚者隊・協力要請　(.+?)$</original_match>
+      <original_match>^白翼覚者隊・協力要請　(.+)$</original_match>
       <translation_replace>White Wings: Cooperation ({0})</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
@@ -205,7 +176,7 @@
     </rewrite>
     <rewrite>
       <original_match>^＜\s*(.+?)\s*＞の敵を討伐する$</original_match>
-      <translation_replace>Defeat the enemies in "{0}"</translation_replace>
+      <translation_replace>Defeat the enemies in "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
@@ -699,7 +670,7 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^＜(.+)＞の(.+)に話しかける$</original_match>
-      <translation_replace>Speak with {1:d} at "{0}"</translation_replace>
+      <translation_replace>Speak with {1:d} at "{0:@}"</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
@@ -728,14 +699,14 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^(.+)大陸へ渡り＜(.+)＞前で待つ(.+?)と話す$</original_match>
-      <translation_replace>Traverse {0:d} and speak with {2:d} waiting in front of "{1}"</translation_replace>
+      <translation_replace>Traverse {0:d} and speak with {2:d} waiting in front of "{1:@}"</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="location name" />
       <translation_arg index="2" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^＜(.+)＞前で待つ(.+?)と話す$</original_match>
-      <translation_replace>Speak with {1:d} waiting in front of {0:d}</translation_replace>
+      <translation_replace>Speak with {1:d} waiting in front of "{0:@}"</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
@@ -921,7 +892,7 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^巨人兵のいる(.+)へ向かう$</original_match>
-      <translation_replace>Seek out the Giant Warrior in {0:d}</translation_replace>
+      <translation_replace>Seek out the giant warrior in {0:d}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
@@ -996,7 +967,7 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^＜(.+)＞を目指す$</original_match>
-      <translation_replace>Head for "{0}"</translation_replace>
+      <translation_replace>Head for "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <!-- Head to -->
@@ -1207,7 +1178,7 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^(.+)にある＜(.+)＞へ向かう$</original_match>
-      <translation_replace>Head to "{1}" in {0:d}</translation_replace>
+      <translation_replace>Head to "{1:@}" in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="location name" />
     </rewrite>
@@ -1280,18 +1251,18 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^新たな植物採取のため＜(.+)＞へ向かう$</original_match>
-      <translation_replace>Head to "{0}" to collect new plants</translation_replace>
+      <translation_replace>Head to "{0:@}" to collect new plants</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^南方の(.+)＜(.+)＞へ向かう$</original_match>
-      <translation_replace>Head to "{1}" of southern {0:t}</translation_replace>
+      <translation_replace>Head to "{1:@}" of southern {0:t}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)の＜(.+)＞へ向かう$</original_match>
-      <translation_replace>Head to "{1}" of {0:d}</translation_replace>
+      <translation_replace>Head to "{1:@}" of {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="location name" />
     </rewrite>
@@ -1303,7 +1274,7 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^(.+)に代わり「(.+)」へ向かう$</original_match>
-      <translation_replace>Head to "{1}" and stand-in for {0:d}</translation_replace>
+      <translation_replace>Head to "{1:@}" and stand-in for {0:d}</translation_replace>
       <translation_arg index="0" message_set="npc name" />
       <translation_arg index="1" message_set="location name" />
     </rewrite>
@@ -1315,12 +1286,12 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^＜\s*(.+?)\s*＞の表層(へ|に)向かう$</original_match>
-      <translation_replace>Head to the surface level of "{0}"</translation_replace>
+      <translation_replace>Head to the surface level of "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^＜\s*(.+?)\s*＞(へ|に)向かう$</original_match>
-      <translation_replace>Head to "{0}"</translation_replace>
+      <translation_replace>Head to "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>

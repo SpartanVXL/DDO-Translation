@@ -4,7 +4,7 @@
     <!-- Misc -->
     <rewrite>
       <original_match>^エリアマスターが《(.+)》に合流$</original_match>
-      <translation_replace>Area master joins "{0}"</translation_replace>
+      <translation_replace>Area master joins "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <!-- Unblock area -->
@@ -14,7 +14,7 @@
     </rewrite>
     <rewrite>
       <original_match>^封鎖エリア《\s*(.+?)\s*》開放$</original_match>
-      <translation_replace>Unblock area "{0}"</translation_replace>
+      <translation_replace>Unblock area "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
@@ -28,13 +28,13 @@
     <rewrite>
       <original_match>^封鎖エリアが開放《&lt;SPOT (\d+)&gt;》
 封鎖エリアが開放《&lt;SPOT (\d+)&gt;》$</original_match>
-      <translation_replace>Unblock area "&lt;SPOT {0}&gt;"
-Unblock area "&lt;SPOT {1}&gt;"</translation_replace>
+      <translation_replace>Unblock area "&lt;SPOT {0:@}&gt;"
+Unblock area "&lt;SPOT {1:@}&gt;"</translation_replace>
     </rewrite>
     <!-- New powerful enemy -->
     <rewrite>
       <original_match>^《\s*(.+?)\s*》に新たな強敵が出現$</original_match>
-      <translation_replace>New powerful enemy at "{0}"</translation_replace>
+      <translation_replace>New powerful enemy at "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
