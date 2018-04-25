@@ -1,4 +1,5 @@
 ﻿# Valid types: None, Prefix, Suffix, Replace
+default_format = {proper = false}
 [[named_param]]
 id = 47
 old = '修練用'
@@ -845,6 +846,8 @@ id = 316
 old = '財宝守りの海竜'
 new = 'Sea Dragon the Treasure Guardian'
 type = {old = 'Replace'}
+[named_param.format]
+proper = true
 [[named_param]]
 id = 319
 old = '水路の大猿'
@@ -2689,6 +2692,8 @@ id = 921
 old = 'ズール'
 new = 'Zuhl'
 type = {old = 'Replace'}
+[named_param.format]
+proper = true
 [[named_param]]
 id = 922
 old = '討伐対象'
@@ -2729,6 +2734,8 @@ id = 929
 old = 'ズール'
 new = 'Zuhl'
 type = {old = 'Replace'}
+[named_param.format]
+proper = true
 [[named_param]]
 id = 930
 old = '襲来'
@@ -6709,10 +6716,12 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2091
 old = '彷徨う'
+new = 'Wandering'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2092
 old = '不死の眷属'
+new = 'Undead Follower'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2093
@@ -6721,6 +6730,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2094
 old = '氷獄の番人'
+new = 'Ice Prison Guard'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2095
@@ -6733,30 +6743,37 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2097
 old = '彷徨う'
+new = 'Wandering'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2098
 old = '不死の眷属ゾンビ'
+new = 'Undead Follower Zombie'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2099
 old = '不死の眷属'
+new = 'Undead Follower'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2100
 old = '不死の眷属スクワイア・ゾンビ'
+new = 'Undead Follower Squire Zombie'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2101
 old = '不死の眷属プレイグ・ボンバー'
+new = 'Undead Follower Plague Bomber'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2102
 old = '氷獄の番人'
+new = 'Ice Prison Guard'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2104
 old = '深森の落胤ムーンウルフ'
+new = 'Bastard Moon Wolf of the Deep Woods'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2105
@@ -7056,38 +7073,47 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2189
 old = '魔軍残党の哨戒兵'
+new = 'Demon Army Remnant Patrol'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2190
 old = '魔軍残党の哨戒兵'
+new = 'Demon Army Remnant Patrol'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2191
 old = '魔軍残党の哨戒兵'
+new = 'Demon Army Remnant Patrol'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2192
 old = '魔軍残党の'
+new = 'Demon Army Remnant'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2193
 old = '魔軍残党の'
+new = 'Demon Army Remnant'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2194
 old = '魔軍残党の'
+new = 'Demon Army Remnant'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2198
 old = '隔離された'
+new = 'Isolated'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2199
 old = '隔離された'
+new = 'Isolated'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2200
 old = '隔離された'
+new = 'Isolated'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2202
@@ -7100,14 +7126,17 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2206
 old = '隔離された'
+new = 'Isolated'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2207
 old = '隔離された'
+new = 'Isolated'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2208
 old = '隔離された'
+new = 'Isolated'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2209
@@ -7421,6 +7450,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2319
 old = '白竜黒騎士'
+new = 'White Dragon Black Knight'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2320
@@ -7445,14 +7475,17 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2332
 old = '侵入したオーク'
+new = 'Invasion Orc'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2333
 old = '侵入したオーク'
+new = 'Invasion Orc'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2334
 old = '侵入したオーク'
+new = 'Invasion Orc'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2335
@@ -7485,6 +7518,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2342
 old = '侵入した'
+new = 'Invasion'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2343
