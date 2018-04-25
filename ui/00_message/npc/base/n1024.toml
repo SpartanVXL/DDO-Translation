@@ -116,10 +116,13 @@ old = '''
 変更をご希望ですかな？'''
 [[message]]
 old = '変更しない'
+new = 'Do not change'
 [[message]]
 old = '設定を変更：訪問を許可する'
+new = 'Change setting: Visit Allowed'
 [[message]]
 old = '設定を変更：訪問を許可しない'
+new = 'Change setting: Visit Denied'
 [[message]]
 old = '''
 ええ、それでは
