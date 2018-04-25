@@ -175,6 +175,16 @@
       <translation_arg index="0" message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)を討伐する$</original_match>
+      <translation_replace>Defeat {0:d}</translation_replace>
+      <translation_arg message_set="named param" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を討伐する$</original_match>
+      <translation_replace>Defeat {0:d}</translation_replace>
+      <translation_arg message_set="npc name" required="true" />
+    </rewrite>
+    <rewrite>
       <original_match>^＜\s*(.+?)\s*＞の敵を討伐する$</original_match>
       <translation_replace>Defeat the enemies in "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
@@ -293,7 +303,7 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^【(.+)】(.+)を征圧する（残り(：)?(.+?)分）$</original_match>
-      <translation_replace>[{0}] Conquer {1} ({3} min left)</translation_replace>
+      <translation_replace>[{0}] Conquer {1:d} ({3} min left)</translation_replace>
       <translation_arg index="0" message_set="conquest state name" />
       <translation_arg index="1" message_set="conquest location name" />
       <translation_arg index="3" message_set="numeric" />
@@ -305,7 +315,7 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^(.+)を征圧する（残り(：)?(.+?)分）$</original_match>
-      <translation_replace>Conquer {0} ({2} min left)</translation_replace>
+      <translation_replace>Conquer {0:d} ({2} min left)</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="2" message_set="numeric" />
     </rewrite>
@@ -1518,10 +1528,10 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="2" message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)に帰還し(.+?)に報告する$</original_match>
-      <translation_replace>Return to {0:d} and report to {1:d}</translation_replace>
+      <original_match>^(.+)(に|へ)帰還し(.+?)に報告する$</original_match>
+      <translation_replace>Return to {0:d} and report to {2:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
-      <translation_arg index="1" message_set="npc name" />
+      <translation_arg index="2" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)に報告する$</original_match>

@@ -114,11 +114,13 @@ old = '''
 どうする？　隊長'''
 [[message]]
 old = 'もう少し続ける'
+new = 'Continue a bit more'
 [[message]]
 old = '《第二の門》を攻略する'
 new = 'Capture "Second Gate"'
 [[message]]
 old = '展望城に戻る'
+new = 'Return to the Lookout Castle'
 [[message]]
 old = '''
 分かった、隊長がそう決めたなら
@@ -170,6 +172,7 @@ old = '《第二の門》を攻略する'
 new = 'Capture "Second Gate"'
 [[message]]
 old = '展望城に戻る'
+new = 'Return to the Lookout Castle'
 [[message]]
 old = '''
 その意見にはボクも賛成だ

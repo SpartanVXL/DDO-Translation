@@ -8,12 +8,12 @@
     </rewrite>
     <rewrite>
       <original_match>^《(.+)》を攻略する$</original_match>
-      <translation_replace>Capture "{0}"</translation_replace>
+      <translation_replace>Capture "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^《(.+)》に残って作戦を続ける$</original_match>
-      <translation_replace>Remain in "{0}" and continue the tactics</translation_replace>
+      <translation_replace>Remain in "{0:@}" and continue the tactics</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
@@ -23,22 +23,27 @@
     </rewrite>
     <rewrite>
       <original_match>^(.+?)を見守る$</original_match>
-      <translation_replace>Watch over {0}</translation_replace>
+      <translation_replace>Watch over {0:d}</translation_replace>
       <translation_arg message_set="npc name" required="true" />
     </rewrite>
     <rewrite>
       <original_match>^(.+?)を止める$</original_match>
-      <translation_replace>Stop {0}</translation_replace>
+      <translation_replace>Stop {0:d}</translation_replace>
       <translation_arg message_set="npc name" required="true" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)に相談する$</original_match>
-      <translation_replace>Consult with {0}</translation_replace>
+      <translation_replace>Consult with {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)で相談する$</original_match>
-      <translation_replace>Consult at {0}</translation_replace>
+      <translation_replace>Consult at {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に戻る$</original_match>
+      <translation_replace>Return to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
