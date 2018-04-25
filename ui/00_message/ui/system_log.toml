@@ -1374,6 +1374,7 @@ new = 'Brought back into <VAL> is <NAME ITEM> x<VAL>.'
 [[message]]
 key = 'syslog_kt_possession_max'
 old = '<UNTN KT>が最大まで補充されました'
+new = '<UNTN KT> has been replenished to the maximum.'
 [[message]]
 key = 'syslog_content_buff_get'
 old = '“<VAL>”の効果が付与されました'
@@ -1393,9 +1394,11 @@ old = '残っている“怨塊”を、すべて破壊せよ――'
 [[message]]
 key = 'syslog_item_lockset'
 old = 'アイテムをセーフティ設定しました'
+new = 'Item safety setting enabled.'
 [[message]]
 key = 'syslog_item_lockset_off'
 old = 'アイテムのセーフティ設定を解除しました'
+new = 'Item safety setting disabled.'
 [[message]]
 key = 'syslog_action_ikai_11'
 old = '怨塊 残り“<VAL>個”――'

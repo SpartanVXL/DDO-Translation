@@ -391,9 +391,11 @@ old = '''
 new = '''
 <COL ffdc78>Safety Setting</COL> has the following features:
 
-・Prevent <COL ffdc78>"Discard"</COL> from Item Bag
-・Prevent <COL ffdc78>"Sell"</COL> from shops and storage boxes, etc
-・Prevent <COL ffdc78>"Pawn Delete"</COL> when equipment will disappear'''
+・Prevent <COL ffdc78>"Discard"</COL> from Item Bag.
+・Prevent <COL ffdc78>"Sell"</COL> from shops and storage
+　boxes, etc.
+・Prevent <COL ffdc78>"Pawn Delete"</COL> when equipment
+　will disappear.'''
 [[message]]
 key = 'item_conf_itemlockset_on'
 old = '設定する'

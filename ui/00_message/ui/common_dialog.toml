@@ -2511,6 +2511,7 @@ old = '''
 [[message]]
 key = 'ana_lde_no_items'
 old = '開催しているイベントがありません'
+new = 'There are no events being held.'
 [[message]]
 key = 'ana_common_msg_usage_prohibited'
 old = '使用できません'
