@@ -304,7 +304,7 @@ old = '''
 # NEEDS REVIEW
 new = '''
 <COL DAEEF3>(Hu)</COL> Keen Sight (when aiming bow)  <COL DAEEF3>(So)</COL> Chanting
-<COL DAEEF3>(Hi)</COL> ロックオン中のカメラ操作 (ルイン・ブレード構え中)'''
+<COL DAEEF3>(Hi)</COL> Camera operation during lock on (in Ruin Blade stance)'''
 [[message]]
 key = 'kcd_063'
 old = '（未使用）行動キャンセル'
@@ -368,7 +368,7 @@ new = '<COL DAEEF3>(Pr)</COL> Field Shift  <COL DAEEF3>(Sh)</COL> Force Burst'
 [[message]]
 key = 'kcd_075'
 old = '<COL DAEEF3>【Ｓｅ】</COL>転身　<COL DAEEF3>【Ｈｉ】</COL>避翻斬'
-new = '<COL DAEEF3>(Se)</COL> Forward Roll  <COL DAEEF3>(Hi)</COL> 避翻斬'
+new = '<COL DAEEF3>(Se)</COL> Forward Roll  <COL DAEEF3>(Hi)</COL> Dodge Counter Slash'
 [[message]]
 key = 'kcd_076'
 old = '<COL DAEEF3>【Ｓｅ】</COL>ロープ投げ（ロープ構え中）'
@@ -400,6 +400,8 @@ Custom Skill Additional Input (repeated hits/derivative/etc)
 [[message]]
 key = 'kcd_081'
 old = '<COL DAEEF3>【Ｈｉ】</COL>ルイン・ブレード'
+new = '<COL DAEEF3>(Hi)</COL> Ruin Blade'
 [[message]]
 key = 'kcd_082'
 old = '<COL DAEEF3>【Ｈｉ】</COL>ウィル・マーカー（ウィル・スタンス中）'
+new = '<COL DAEEF3>(Hi)</COL> Will Marker (in Will Stance)'

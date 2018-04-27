@@ -30,7 +30,7 @@ old = '''
 <COL ffdc78>未使用の黄金石や<OPCS>等もすべて失われます</COL>'''
 new = '''
 
-<COL ffdc78>All Golden Gemstones, <OPCS>, etc are also lost</COL>'''
+<COL ffdc78>All Golden Gemstones, <OPCS>, etc are also lost.</COL>'''
 [[message]]
 key = 'char_sel_code_text'
 old = '確認コード <COL AA1414><VAL></COL> を入力してください'
