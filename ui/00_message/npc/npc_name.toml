@@ -1,4 +1,5 @@
-﻿[[message]]
+﻿default_format = {pluralize = false}
+[[message]]
 old = '白竜'
 new = 'The White Dragon'
 [message.format]
@@ -150,9 +151,9 @@ old = 'キーファー'
 new = 'Kiefer'
 [[message]]
 old = '盗賊'
-new = 'Thief'
+new = 'Bandit'
 [message.format]
-new = 'thief'
+new = 'bandit'
 proper = false
 [[message]]
 old = 'たたずむスケルトン'
@@ -164,11 +165,13 @@ old = 'スケルトン'
 new = 'Skeleton'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'スケルトン'
 new = 'Skeleton'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = '物憂げなハーピー'
 new = 'Weary Harpy'
@@ -821,26 +824,31 @@ old = 'ジェネラルオーク'
 new = 'General Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'キャプテンオーク'
 new = 'Captain Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'オーク'
 new = 'Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'オーク'
 new = 'Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'オーク'
 new = 'Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'アクタイオン'
 new = 'Actaeon'
@@ -1240,6 +1248,7 @@ new = 'Goblin'
 [message.format]
 new = 'goblin'
 proper = false
+pluralize = true
 [[message]]
 old = 'アルフレド'
 new = 'Alfred'
@@ -1410,6 +1419,7 @@ old = 'オーク'
 new = 'Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'ポーン会話用セクシー'
 [[message]]
@@ -1632,9 +1642,9 @@ new = 'lumberjack'
 proper = false
 [[message]]
 old = '盗賊'
-new = 'Thief'
+new = 'Bandit'
 [message.format]
-new = 'thief'
+new = 'bandit'
 proper = false
 [[message]]
 old = '酒場の女'
@@ -1699,6 +1709,7 @@ old = 'グランエント'
 new = 'Grand Ent'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'セシリー'
 new = 'Cecily'
@@ -2155,21 +2166,25 @@ old = 'ドワーフオーク'
 new = 'Dwarf Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'ドワーフオーク'
 new = 'Dwarf Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'ドワーフオーク'
 new = 'Dwarf Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = '隊将ドワーフオーク'
 new = 'Squad Leader Dwarf Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = '獣の将'
 new = 'Beast Master'
@@ -2827,12 +2842,14 @@ new = 'Giant Rat'
 [message.format]
 new = 'giant rat'
 proper = false
+pluralize = true
 [[message]]
 old = 'ウサギ'
 new = 'Rabbit'
 [message.format]
 new = 'rabbit'
 proper = false
+pluralize = true
 [[message]]
 old = '雄シカ'
 new = 'Male Deer'
@@ -2845,12 +2862,14 @@ new = 'Pig'
 [message.format]
 new = 'pig'
 proper = false
+pluralize = true
 [[message]]
 old = '牛'
 new = 'Ox'
 [message.format]
 new = 'ox'
 proper = false
+pluralize = true
 [[message]]
 old = 'お花ちゃん'
 new = 'Flower-chan'
@@ -2976,6 +2995,7 @@ old = 'ドワーフオーク'
 new = 'Dwarf Orc'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = 'アンジェロ'
 new = 'Angelo'
