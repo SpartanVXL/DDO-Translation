@@ -47,6 +47,7 @@ old = 'モゴック'
 new = 'Mogok'
 [message.format]
 proper = true
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_12'
 old = 'ジェネラルオーク'
@@ -91,6 +92,8 @@ new = 'Mist Wyrm'
 key = 'ENEMY_NAME_22'
 old = 'ミストドレイク'
 new = 'Mist Drake'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_23'
 old = 'ベヘモット'
@@ -103,10 +106,14 @@ new = 'Angules'
 key = 'ENEMY_NAME_25'
 old = 'リンドブルム'
 new = 'Lindwurm'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_26'
 old = 'ウィルム'
 new = 'Wyrm'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_27'
 old = 'ドレイク'
@@ -299,6 +306,8 @@ new = 'Troll'
 key = 'ENEMY_NAME_73'
 old = 'エント'
 new = 'Ent'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_74'
 old = 'グランエント'
@@ -347,6 +356,8 @@ new = 'Griffin'
 key = 'ENEMY_NAME_85'
 old = 'コカトリス'
 new = 'Cockatrice'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_86'
 old = 'ナイトメア'
@@ -417,6 +428,7 @@ old = 'ゴルゴラン'
 new = 'Golgorran'
 [message.format]
 proper = true
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_103'
 old = 'エルダードラゴン'
@@ -427,18 +439,21 @@ old = '白竜'
 new = 'The White Dragon'
 [message.format]
 new = 'White Dragon'
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_105'
 old = 'ディアマンテス'
 new = 'Diamantes'
 [message.format]
 proper = true
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_106'
 old = 'ズール'
 new = 'Zuhl'
 [message.format]
 proper = true
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_107'
 old = 'カブトグモ'
@@ -493,12 +508,14 @@ old = 'イリス'
 new = 'Iris'
 [message.format]
 proper = true
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_118'
 old = 'レオ'
 new = 'Leo'
 [message.format]
 proper = true
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_119'
 old = 'ポーンファイター'
@@ -979,6 +996,8 @@ new = 'Vile Eye'
 key = 'ENEMY_NAME_248'
 old = 'イービルアイ'
 new = 'Evil Eye'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_249'
 old = 'マンイーター'
@@ -1049,6 +1068,7 @@ old = 'アルタード・ズール'
 new = 'Altered Zuhl'
 [message.format]
 proper = true
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_272'
 old = 'スカージ'
@@ -1057,16 +1077,21 @@ new = 'Scourge'
 key = 'ENEMY_NAME_274'
 old = '黒騎士'
 new = 'Black Knight'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_275'
 old = '淀みし大竜力'
 new = 'Phantasmic Great Dragon'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_276'
 old = '精霊竜ウィルミア'
 new = 'Spirit Dragon Willmia'
 [message.format]
 proper = true
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_277'
 old = 'リザードマンセージ'
@@ -1335,18 +1360,26 @@ new = 'Captain Ancestor Orc'
 key = 'ENEMY_NAME_356'
 old = '戦の将'
 new = 'War Master'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_357'
 old = '獣の将'
 new = 'Beast Master'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_358'
 old = '骸の将'
 new = 'Necro Master'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_359'
 old = '闇の将'
 new = 'Shadow Master'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_360'
 old = 'アンセスターオリジン'
@@ -1355,6 +1388,8 @@ new = 'Ancestor Origin'
 key = 'ENEMY_NAME_363'
 old = 'イフリート'
 new = 'Ifrit'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_366'
 old = '打兵ドワーフオーク'
