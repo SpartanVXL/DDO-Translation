@@ -116,12 +116,16 @@ old = '''
 手始めに基本的な《話題》から聞いてみよう'''
 [[message]]
 old = 'Ａ、メガドに来た目的'
+new = 'A: Purpose of coming to Megado'
 [[message]]
 old = 'Ｂ、オーク自身について'
+new = 'B: About Orc itself'
 [[message]]
 old = '《証拠》を確認する'
+new = 'Review "Evidence"'
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = '''
 裏切り者と思わしき人間とオークが共に居た
@@ -304,8 +308,10 @@ old = '''
 old = '本当に、今日の尋問はこれで終了にしていいんだな？'
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '――今日はこのくらいにしてやるか'
 [[message]]
@@ -337,88 +343,121 @@ old = '''
 old = '手始めに、基本的なことでも聞いてみるか'
 [[message]]
 old = 'Ａ、メガドに来た目的'
+new = 'A: Purpose of coming to Megado'
 [[message]]
 old = 'Ｂ、オーク自身について'
+new = 'B: About Orc itself'
 [[message]]
 old = '《証拠》を確認する'
+new = 'Review "Evidence"'
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = '''
 良い調子だな――
 さて、何を聞く？'''
 [[message]]
 old = 'Ａ、メガドに来た目的'
+new = 'A: Purpose of coming to Megado'
 [[message]]
 old = 'Ｂ、オーク自身について'
+new = 'B: About Orc itself'
 [[message]]
 old = 'Ｃ、メガド占領中の様子'
+new = 'C: State of Megado occupation'
 [[message]]
 old = '《証拠》を確認する'
+new = 'Review "Evidence"'
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = 'さぁ、何を聞こうか？'
 [[message]]
 old = 'Ａ、メガドに来た目的'
+new = 'A: Purpose of coming to Megado'
 [[message]]
 old = 'Ｂ、オーク自身について'
+new = 'B: About Orc itself'
 [[message]]
 old = 'Ｅ、悪事の証拠'
+new = 'E: Evidence of crimes'
 [[message]]
 old = '《証拠》を確認する'
+new = 'Review "Evidence"'
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = '''
 良い調子だな――
 さて、何を聞く？'''
 [[message]]
 old = 'Ａ、メガドに来た目的'
+new = 'A: Purpose of coming to Megado'
 [[message]]
 old = 'Ｂ、オーク自身について'
+new = 'B: About Orc itself'
 [[message]]
 old = 'Ｃ、メガド占領中の様子'
+new = 'C: State of Megado occupation'
 [[message]]
 old = 'Ｄ、<NPC 681>とオークの癒着'
+new = 'D: <NPC 681> in collusion with Orcs'
 [[message]]
 old = '《証拠》を確認する'
+new = 'Review "Evidence"'
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = '''
 良い調子だな――
 さて、何を聞く？'''
 [[message]]
 old = 'Ａ、メガドに来た目的'
+new = 'A: Purpose of coming to Megado'
 [[message]]
 old = 'Ｂ、オーク自身について'
+new = 'B: About Orc itself'
 [[message]]
 old = 'Ｃ、メガド占領中の様子'
+new = 'C: State of Megado occupation'
 [[message]]
 old = 'Ｅ、悪事の証拠'
+new = 'E: Evidence of crimes'
 [[message]]
 old = '《証拠》を確認する'
+new = 'Review "Evidence"'
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = '''
 あと一歩だな――
 よし、頼むぞ'''
 [[message]]
 old = 'Ａ、メガドに来た目的'
+new = 'A: Purpose of coming to Megado'
 [[message]]
 old = 'Ｂ、オーク自身について'
+new = 'B: About Orc itself'
 [[message]]
 old = 'Ｃ、メガド占領中の様子'
+new = 'C: State of Megado occupation'
 [[message]]
 old = 'Ｄ、<NPC 681>とオークの癒着'
+new = 'D: <NPC 681> in collusion with Orcs'
 [[message]]
 old = 'Ｅ、悪事の証拠'
+new = 'E: Evidence of crimes'
 [[message]]
 old = '《証拠》を確認する'
+new = 'Review "Evidence"'
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = 'もう沢山だ！！'
 [[message]]
@@ -466,10 +505,13 @@ old = '''
 それを突きつけ、糸口にするんだ――'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '――やめる'
+new = '...Cancel'
 [[message]]
 old = '''
 どのような手を使ってでも協力してもらうぞ
@@ -528,10 +570,13 @@ old = '''
 内容さえ分かったら、あとは突きつけてやるだけだ'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '――やめる'
+new = '...Cancel'
 [[message]]
 old = '''
 バジットの時に世話になった<NPC 698>なら
@@ -636,10 +681,13 @@ old = '''
 良いんだが――'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '――やめる'
+new = '...Cancel'
 [[message]]
 old = 'いや、お前の話を疑うつもりは無い'
 [[message]]
@@ -735,10 +783,13 @@ old = '''
 名前だけではわからないか――'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '――やめる'
+new = '...Cancel'
 [[message]]
 old = 'おお、確かにこれなら分かりやすいな'
 [[message]]
@@ -766,10 +817,13 @@ old = '''
 英雄譚について真偽を確かめよう'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '――やめる'
+new = '...Cancel'
 [[message]]
 old = '''
 ナヴィドはメガド占領中
@@ -910,10 +964,13 @@ old = '''
 具体的な《証拠》が無いことにはな――'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '――やめる'
+new = '...Cancel'
 [[message]]
 old = '''
 ――これは？
@@ -1039,10 +1096,13 @@ old = '''
 あとは、俺が必ずなんとかする'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '――やめる'
+new = '...Cancel'
 [[message]]
 old = '''
 忠義を尽くそうとしても――
@@ -1078,10 +1138,13 @@ old = '''
 もう多くのことを喋り過ぎちまったからな'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '――やめる'
+new = '...Cancel'
 [[message]]
 old = '''
 お前は興奮して
@@ -1179,14 +1242,19 @@ old = '''
 全て聞き出してしまえばもう用済みだ'''
 [[message]]
 old = 'Ａ、メガド陥落の理由'
+new = 'A: Motive for the fall of Megado'
 [[message]]
 old = 'Ｂ、ナヴィド侯爵の交渉'
+new = 'B: Connection with Marquis Navido'
 [[message]]
 old = 'Ｃ、ナヴィド侯爵の汚職'
+new = 'C: Corruption of Marquis Navido'
 [[message]]
 old = 'Ｄ、<NPC 681>侯爵とオークの関係'
+new = 'D: Relationship between Marquis <NPC 681> and Orcs'
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = '''
 メガドが陥落した理由――それは

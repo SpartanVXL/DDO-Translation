@@ -169,14 +169,17 @@ old = '''
 ヤツを追い詰めることができるぞ'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '''
 この生意気なゴロツキに、一泡吹かせてやろう
 さぁ―― “《証拠》を突きつける” んだ'''
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = 'これがなんだか分かるか？'
 [[message]]
@@ -291,8 +294,10 @@ old = '――今日はこのくらいにしてやるか'
 old = '本当に、今日の尋問はこれで終了にしていいんだな？'
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 ハァ――？
@@ -336,10 +341,13 @@ old = '''
 old = 'さぁ、何について尋ねようか？'
 [[message]]
 old = '身元について'
+new = 'About identity'
 [[message]]
 old = '《証拠》を確認する'
+new = 'Review "Evidence"'
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = '''
 さて、<NPC 691>――
@@ -367,10 +375,13 @@ old = '''
 old = 'さぁ、どうする？'
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '――やめる'
+new = '...Cancel'
 [[message]]
 old = '''
 この辺り一帯を仕切る、お前たちゴロツキどもの
@@ -445,14 +456,19 @@ old = '''
 old = 'さぁ、何について尋ねようか？'
 [[message]]
 old = 'Ａ、身元について'
+new = 'A: About identity'
 [[message]]
 old = 'Ｂ、尾行の目的'
+new = 'B: Purpose of tailing'
 [[message]]
 old = 'Ｃ、本当の正体'
+new = 'C: Real identity'
 [[message]]
 old = '《証拠》を確認する'
+new = 'Review "Evidence"'
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = '''
 ところで――
@@ -504,10 +520,13 @@ old = '''
 なんとかこの話を覆せる《証拠》はないものか――'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = '――やめる'
+new = '...Cancel'
 [[message]]
 old = '''
 あの辺り――
@@ -596,8 +615,10 @@ old = '''
 そのメモとやらを突きつけてやろう'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = 'もどる'
 [[message]]
@@ -697,8 +718,10 @@ old = '''
 可能性でもいい、それらを<COL ff2600>連続で突きつけてやれ！</COL>'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = 'もどる'
 [[message]]
@@ -720,6 +743,7 @@ old = '解放軍兵士'
 old = 'メガドのゴロツキ'
 [[message]]
 old = '憲兵'
+new = 'Military Police'
 [[message]]
 old = '――――'
 [[message]]
@@ -799,8 +823,10 @@ old = '''
 行く末に震え上がる、決定的な《証拠》をな！'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = 'もどる'
 [[message]]
@@ -898,8 +924,10 @@ old = '''
 あと一押し、何か《証拠》は無いのか！'''
 [[message]]
 old = '脅す'
+new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
+new = 'Pose "Evidence"'
 [[message]]
 old = 'もどる'
 [[message]]
@@ -965,14 +993,19 @@ old = '''
 何から聞こうか？'''
 [[message]]
 old = 'Ａ、ナヴィド侯爵とは'
+new = 'A: Marquis Navido'
 [[message]]
 old = 'Ｂ、憲兵隊とは'
+new = 'B: Military Police'
 [[message]]
 old = 'Ｃ、レジスタンスとは'
+new = 'C: Resistance'
 [[message]]
 old = 'Ｄ、<NPC 691>の任務について'
+new = "D: About <NPC 691>'s duties"
 [[message]]
 old = '――今日はやめる'
+new = '...Stop for today'
 [[message]]
 old = '''
 憲兵隊――についてか？
