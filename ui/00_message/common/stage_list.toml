@@ -1281,6 +1281,7 @@ new = 'Green Nights Retreat'
 [[message]]
 key = 'STAGE_NAME_403'
 old = 'ノーザナス侵林'
+new = 'Northerners Infected Woods'
 [[message]]
 key = 'STAGE_NAME_404'
 old = 'ディプニエ大侵林'
@@ -1596,6 +1597,7 @@ new = 'Rathnite Columbarium'
 [[message]]
 key = 'STAGE_NAME_499'
 old = '劫炎の祠堂'
+new = 'Shrine of the Eternal Blaze'
 [[message]]
 key = 'STAGE_NAME_500'
 old = '轟咆洞'
@@ -1681,33 +1683,43 @@ new = 'Bonus Dungeon (G)'
 [[message]]
 key = 'STAGE_NAME_549'
 old = '英霊眠りし道 ラスニテ山麓'
+new = 'Heroic Spirit Sleeping Path: Rathnite Foothills'
 [[message]]
 key = 'STAGE_NAME_550'
 old = '英霊眠りし道 祠'
+new = 'Heroic Spirit Sleeping Path: Shrine'
 [[message]]
 key = 'STAGE_NAME_551'
 old = '英霊眠りし道 洞窟'
+new = 'Heroic Spirit Sleeping Path: Cave'
 [[message]]
 key = 'STAGE_NAME_552'
 old = '英霊眠りし道 遺跡'
+new = 'Heroic Spirit Sleeping Path Ruins'
 [[message]]
 key = 'STAGE_NAME_553'
 old = '英霊眠りし道 水路'
+new = 'Heroic Spirit Sleeping Path Waterway'
 [[message]]
 key = 'STAGE_NAME_554'
 old = '英霊眠りし道 井戸'
+new = 'Heroic Spirit Sleeping Path Well'
 [[message]]
 key = 'STAGE_NAME_555'
 old = '英霊眠りし道 墓所'
+new = 'Heroic Spirit Sleeping Path Tomb'
 [[message]]
 key = 'STAGE_NAME_556'
 old = '英霊眠りし道 遺跡 深層'
+new = 'Heroic Spirit Sleeping Path Ruins: Deepest Level'
 [[message]]
 key = 'STAGE_NAME_557'
 old = '英霊眠りし道 フェルヤナ荒原'
+new = 'Heroic Spirit Sleeping Path: Feryana Wilderness'
 [[message]]
 key = 'STAGE_NAME_558'
 old = '旧英霊廟'
+new = 'Old Heroic Spirit Shrine'
 [[message]]
 key = 'STAGE_NAME_559'
 old = 'メガドシスの記憶'
@@ -1715,9 +1727,11 @@ new = 'Memory of Megadosys'
 [[message]]
 key = 'STAGE_NAME_560'
 old = '大地の記憶 メガドシス古道'
+new = 'Memory of Megadosys Old Road'
 [[message]]
 key = 'STAGE_NAME_561'
 old = 'メガドシスの記憶 武神の間'
+new = 'Memory of Megadosys: War God Space'
 [[message]]
 key = 'STAGE_NAME_569'
 old = '冥府下りの洞穴 深層部'

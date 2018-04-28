@@ -177,6 +177,11 @@
       <translation_format proper="false">Rift's Inner Depths</translation_format>
     </extra>
     <extra>
+      <original>異界の狭間・深層部</original>
+      <translation>The Rift's Inner Depths</translation>
+      <translation_format proper="false">Rift's Inner Depths</translation_format>
+    </extra>
+    <extra>
       <original>村</original>
       <translation>Village</translation>
       <translation_format proper="false">village</translation_format>
@@ -422,6 +427,10 @@
       <translation>Final Test</translation>
       <translation_format proper="false">final test</translation_format>
     </extra>
+    <extra>
+      <original>大地の記憶</original>
+      <translation>Memory of the Land</translation>
+    </extra>
     <ignore>異界の狭間　深層部</ignore>
     <!-- Replicate area names -->
     <rewrite>
@@ -431,39 +440,54 @@
     </rewrite>
     <!-- Replicate area name + "Depths" so it doesn't end up as area name + ": Deepest Level" -->
     <rewrite>
-      <original_match>^(.+)\s+深層$</original_match>
+      <original_match>^(.+?)\s+深層$</original_match>
       <translation_replace>{0:@} Depths</translation_replace>
       <translation_arg message_set="area name" required="true" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)\s+最奥$</original_match>
+      <original_match>^(.+?)\s+最奥$</original_match>
       <translation_replace>Innermost {0:@}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)\s+(.+)側$</original_match>
+      <original_match>^(\S+)\s+(\S+)側$</original_match>
       <translation_replace>{1:c} {0}</translation_replace>
       <translation_arg index="0" message_set="area name" required="true" />
       <translation_arg index="1" message_set="cardinals" required="true" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)\s+(.+?)\s+(.+?)$</original_match>
+      <original_match>^(.+?)\s+(\S+)\s+(\S+)\s+(\S+)$</original_match>
+      <translation_replace>{0:@} {1} {2}: {3}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location dungeon subarea name" required="true" />
+      <translation_arg index="2" message_set="location dungeon subarea name" required="true" />
+      <translation_arg index="3" message_set="location dungeon subarea name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)\s+(\S+)\s+(\S+)$</original_match>
       <translation_replace>{0:@} {1}: {2}</translation_replace>
-      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location dungeon subarea name" required="true" />
+      <translation_arg index="2" message_set="location dungeon subarea name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)\s+(\S+)\s+(\S+)$</original_match>
+      <translation_replace>{0:@} {1}: {2}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="location dungeon area name" required="true" />
       <translation_arg index="2" message_set="location dungeon subarea name" required="true" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)\s+(.+?)$</original_match>
-      <translation_replace>{0:@} {1}</translation_replace>
-      <translation_arg index="0" message_set="location name" required="true" />
-      <translation_arg index="1" message_set="location dungeon area name" required="true" />
+      <original_match>^(.+?)\s+(\S+)$</original_match>
+      <translation_replace>{0:@}: {1}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location dungeon subarea name" required="true" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)\s+(.+?)$</original_match>
-      <translation_replace>{0:@}: {1}</translation_replace>
-      <translation_arg index="0" message_set="location name" required="true" />
-      <translation_arg index="1" message_set="location dungeon subarea name" required="true" />
+      <original_match>^(.+?)\s+(\S+)$</original_match>
+      <translation_replace>{0:@} {1}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location dungeon area name" required="true" />
     </rewrite>
   </message_set>
 </replication>

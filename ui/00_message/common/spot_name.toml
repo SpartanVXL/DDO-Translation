@@ -1313,7 +1313,7 @@ key = 'SPOT_NAME_829'
 old = 'アーク　裏層　宝物庫'
 new = "The Ark's Lower Level: Treasury"
 [message.format]
-new = "Ark's Lower Level: Treasure Vault"
+new = "Ark's Lower Level: Treasury"
 [[message]]
 key = 'SPOT_NAME_830'
 old = '侵食魔の巣窟　脇道'
@@ -1660,6 +1660,7 @@ new = 'Deepney Great Forest'
 [[message]]
 key = 'SPOT_NAME_910'
 old = 'ノーザナス侵林'
+new = 'Northerners Infected Woods'
 [[message]]
 key = 'SPOT_NAME_911'
 old = 'ネビュラ小神殿'
@@ -2113,6 +2114,7 @@ new = 'Hadin Underground Old Road: Dangerous Area'
 [[message]]
 key = 'SPOT_NAME_1022'
 old = 'ノーザナス侵林　危険区域'
+new = 'Northerners Infected Woods: Dangerous Area'
 [[message]]
 key = 'SPOT_NAME_1023'
 old = 'マグサス古水路　入り口'
@@ -2266,6 +2268,7 @@ new = 'Rathnite Columbarium'
 [[message]]
 key = 'SPOT_NAME_1069'
 old = '劫炎の祠堂'
+new = 'Shrine of the Eternal Blaze'
 [[message]]
 key = 'SPOT_NAME_1070'
 old = '轟咆洞'
@@ -2390,9 +2393,11 @@ new = 'North Rathnite Foothills'
 [[message]]
 key = 'SPOT_NAME_1108'
 old = '英霊眠りし道　ラスニテ山麓'
+new = 'Heroic Spirit Sleeping Path: Rathnite Foothills'
 [[message]]
 key = 'SPOT_NAME_1109'
 old = '英霊眠りし道　フェルヤナ荒原'
+new = 'Heroic Spirit Sleeping Path: Feryana Wilderness'
 [[message]]
 key = 'SPOT_NAME_1110'
 old = 'メガドシスの記憶'
@@ -2459,6 +2464,7 @@ new = 'Rathnite Columbarium Inner Depths'
 [[message]]
 key = 'SPOT_NAME_1127'
 old = '劫炎の祠堂 脇道'
+new = 'Shrine of the Eternal Blaze: Byway'
 [[message]]
 key = 'SPOT_NAME_1128'
 old = '轟咆洞 深層部'
@@ -2514,84 +2520,111 @@ new = 'West Feryana Wilderness'
 [[message]]
 key = 'SPOT_NAME_1141'
 old = '英霊眠りし道 祠 通路'
+new = 'Heroic Spirit Sleeping Path Shrine: Passage'
 [[message]]
 key = 'SPOT_NAME_1142'
 old = '英霊眠りし道 祠 深層'
+new = 'Heroic Spirit Sleeping Path Shrine: Deepest Level'
 [[message]]
 key = 'SPOT_NAME_1143'
 old = '英霊眠りし道 祠 第一の間'
+new = 'Heroic Spirit Sleeping Path Shrine: First Space'
 [[message]]
 key = 'SPOT_NAME_1144'
 old = '英霊眠りし道 祠 第二の間'
+new = 'Heroic Spirit Sleeping Path Shrine: Second Space'
 [[message]]
 key = 'SPOT_NAME_1145'
 old = '英霊眠りし道 祠 第三の間'
+new = 'Heroic Spirit Sleeping Path Shrine: Third Space'
 [[message]]
 key = 'SPOT_NAME_1146'
 old = '英霊眠りし道 祠 第四の間'
+new = 'Heroic Spirit Sleeping Path Shrine: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1147'
 old = '英霊眠りし道 洞窟 通路'
+new = 'Heroic Spirit Sleeping Path Cave: Passage'
 [[message]]
 key = 'SPOT_NAME_1148'
 old = '英霊眠りし道 洞窟 第一の間'
+new = 'Heroic Spirit Sleeping Path Cave: First Space'
 [[message]]
 key = 'SPOT_NAME_1149'
 old = '英霊眠りし道 洞窟 第二の間'
+new = 'Heroic Spirit Sleeping Path Cave: Second Space'
 [[message]]
 key = 'SPOT_NAME_1150'
 old = '英霊眠りし道 洞窟 第三の間'
+new = 'Heroic Spirit Sleeping Path Cave: Third Space'
 [[message]]
 key = 'SPOT_NAME_1151'
 old = '英霊眠りし道 洞窟 第四の間'
+new = 'Heroic Spirit Sleeping Path Cave: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1152'
 old = '英霊眠りし道 洞窟 深層'
+new = 'Heroic Spirit Sleeping Path Cave: Deepest Level'
 [[message]]
 key = 'SPOT_NAME_1153'
 old = '英霊眠りし道 洞窟 深層 第一の間'
+new = 'Heroic Spirit Sleeping Path Cave Deepest Level: First Space'
 [[message]]
 key = 'SPOT_NAME_1154'
 old = '英霊眠りし道 洞窟 深層 第二の間'
+new = 'Heroic Spirit Sleeping Path Cave Deepest Level: Second Space'
 [[message]]
 key = 'SPOT_NAME_1155'
 old = '英霊眠りし道 洞窟 深層 第三の間'
+new = 'Heroic Spirit Sleeping Path Cave Deepest Level: Third Space'
 [[message]]
 key = 'SPOT_NAME_1156'
 old = '英霊眠りし道 洞窟 深層 第四の間'
+new = 'Heroic Spirit Sleeping Path Cave Deepest Level: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1157'
 old = '英霊眠りし道 水路 脇道'
+new = 'Heroic Spirit Sleeping Path Waterway: Byway'
 [[message]]
 key = 'SPOT_NAME_1158'
 old = '英霊眠りし道 水路 第一の間'
+new = 'Heroic Spirit Sleeping Path Waterway: First Space'
 [[message]]
 key = 'SPOT_NAME_1159'
 old = '英霊眠りし道 水路 第二の間'
+new = 'Heroic Spirit Sleeping Path Waterway: Second Space'
 [[message]]
 key = 'SPOT_NAME_1160'
 old = '英霊眠りし道 水路 第三の間'
+new = 'Heroic Spirit Sleeping Path Waterway: Third Space'
 [[message]]
 key = 'SPOT_NAME_1161'
 old = '英霊眠りし道 水路 第四の間'
+new = 'Heroic Spirit Sleeping Path Waterway: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1162'
 old = '英霊眠りし道 洞窟 深層 脇道'
+new = 'Heroic Spirit Sleeping Path Cave Deepest Level: Byway'
 [[message]]
 key = 'SPOT_NAME_1163'
 old = '英霊眠りし道 祠 石像の間'
+new = 'Heroic Spirit Sleeping Path Shrine: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1164'
 old = '英霊眠りし道 洞窟 石像の間'
+new = 'Heroic Spirit Sleeping Path Cave: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1165'
 old = '英霊眠りし道 洞窟 深層 石像の間'
+new = 'Heroic Spirit Sleeping Path Cave Deepest Level: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1166'
 old = '英霊眠りし道 水路 石像の間'
+new = 'Heroic Spirit Sleeping Path Waterway: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1167'
 old = '英霊眠りし道 水路 武神の間'
+new = 'Heroic Spirit Sleeping Path Waterway: War God Space'
 [[message]]
 key = 'SPOT_NAME_1168'
 old = 'エリ警備塔'
@@ -2611,114 +2644,151 @@ proper = true
 [[message]]
 key = 'SPOT_NAME_1171'
 old = '英霊眠りし道 遺跡'
+new = 'Heroic Spirit Sleeping Path Ruins'
 [[message]]
 key = 'SPOT_NAME_1172'
 old = '英霊眠りし道 遺跡 通路'
+new = 'Heroic Spirit Sleeping Path Ruins: Passage'
 [[message]]
 key = 'SPOT_NAME_1173'
 old = '英霊眠りし道 遺跡 螺旋回廊'
+new = 'Heroic Spirit Sleeping Path Ruins: Spiral Corridor'
 [[message]]
 key = 'SPOT_NAME_1174'
 old = '英霊眠りし道 遺跡 第一の間'
+new = 'Heroic Spirit Sleeping Path Ruins: First Space'
 [[message]]
 key = 'SPOT_NAME_1175'
 old = '英霊眠りし道 遺跡 第二の間'
+new = 'Heroic Spirit Sleeping Path Ruins: Second Space'
 [[message]]
 key = 'SPOT_NAME_1176'
 old = '英霊眠りし道 遺跡 第三の間'
+new = 'Heroic Spirit Sleeping Path Ruins: Third Space'
 [[message]]
 key = 'SPOT_NAME_1177'
 old = '英霊眠りし道 遺跡 第四の間'
+new = 'Heroic Spirit Sleeping Path Ruins: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1178'
 old = '英霊眠りし道 遺跡 石像の間'
+new = 'Heroic Spirit Sleeping Path Ruins: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1179'
 old = '英霊眠りし道 井戸 入口'
+new = 'Heroic Spirit Sleeping Path Well: Entrance'
 [[message]]
 key = 'SPOT_NAME_1180'
 old = '英霊眠りし道 井戸'
+new = 'Heroic Spirit Sleeping Path Well'
 [[message]]
 key = 'SPOT_NAME_1181'
 old = '英霊眠りし道 井戸 通路'
+new = 'Heroic Spirit Sleeping Path Well: Passage'
 [[message]]
 key = 'SPOT_NAME_1182'
 old = '英霊眠りし道 井戸 深部'
+new = 'Heroic Spirit Sleeping Path Well Depths'
 [[message]]
 key = 'SPOT_NAME_1183'
 old = '英霊眠りし道 井戸 第一の間'
+new = 'Heroic Spirit Sleeping Path Well: First Space'
 [[message]]
 key = 'SPOT_NAME_1184'
 old = '英霊眠りし道 井戸 第二の間'
+new = 'Heroic Spirit Sleeping Path Well: Second Space'
 [[message]]
 key = 'SPOT_NAME_1185'
 old = '英霊眠りし道 井戸 第三の間'
+new = 'Heroic Spirit Sleeping Path Well: Third Space'
 [[message]]
 key = 'SPOT_NAME_1186'
 old = '英霊眠りし道 井戸 第四の間'
+new = 'Heroic Spirit Sleeping Path Well: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1187'
 old = '英霊眠りし道 井戸 石像の間'
+new = 'Heroic Spirit Sleeping Path Well: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1188'
 old = '英霊眠りし道 墓所'
+new = 'Heroic Spirit Sleeping Path Tomb'
 [[message]]
 key = 'SPOT_NAME_1189'
 old = '英霊眠りし道 墓所 通路'
+new = 'Heroic Spirit Sleeping Path Tomb: Passage'
 [[message]]
 key = 'SPOT_NAME_1190'
 old = '英霊眠りし道 墓所 広間'
+new = 'Heroic Spirit Sleeping Path Tomb: Hall'
 [[message]]
 key = 'SPOT_NAME_1191'
 old = '英霊眠りし道 墓所 第一の間'
+new = 'Heroic Spirit Sleeping Path Tomb: First Space'
 [[message]]
 key = 'SPOT_NAME_1192'
 old = '英霊眠りし道 墓所 第二の間'
+new = 'Heroic Spirit Sleeping Path Tomb: Second Space'
 [[message]]
 key = 'SPOT_NAME_1193'
 old = '英霊眠りし道 墓所 第三の間'
+new = 'Heroic Spirit Sleeping Path Tomb: Third Space'
 [[message]]
 key = 'SPOT_NAME_1194'
 old = '英霊眠りし道 墓所 第四の間'
+new = 'Heroic Spirit Sleeping Path Tomb: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1195'
 old = '英霊眠りし道 墓所 石像の間'
+new = 'Heroic Spirit Sleeping Path Tomb: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1196'
 old = '英霊眠りし道 遺跡 深層'
+new = 'Heroic Spirit Sleeping Path Ruins: Deepest Level'
 [[message]]
 key = 'SPOT_NAME_1197'
 old = '英霊眠りし道 遺跡 深層 広間'
+new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Hall'
 [[message]]
 key = 'SPOT_NAME_1198'
 old = '英霊眠りし道 遺跡 深層 通路'
+new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Passage'
 [[message]]
 key = 'SPOT_NAME_1199'
 old = '英霊眠りし道 遺跡 深層 隠し通路'
+new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Hidden Passage'
 [[message]]
 key = 'SPOT_NAME_1200'
 old = '英霊眠りし道 遺跡 深層 大広間'
+new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Great Hall'
 [[message]]
 key = 'SPOT_NAME_1201'
 old = '英霊眠りし道 遺跡 深層 第一の間'
+new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: First Space'
 [[message]]
 key = 'SPOT_NAME_1202'
 old = '英霊眠りし道 遺跡 深層 第二の間'
+new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Second Space'
 [[message]]
 key = 'SPOT_NAME_1203'
 old = '英霊眠りし道 遺跡 深層 第三の間'
+new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Third Space'
 [[message]]
 key = 'SPOT_NAME_1204'
 old = '英霊眠りし道 遺跡 深層 第四の間'
+new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1205'
 old = '英霊眠りし道 遺跡 深層 石像の間'
+new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1207'
 old = '英霊眠りし道 遺跡 深層 武神の間'
+new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: War God Space'
 [[message]]
 key = 'SPOT_NAME_1209'
 old = '展望城 中庭'
+new = 'Lookout Castle: Courtyard'
 [[message]]
 key = 'SPOT_NAME_1210'
 old = 'メガドシス古道'
@@ -2818,6 +2888,7 @@ new = 'Fortress City Megado: Beauty Salon'
 [[message]]
 key = 'SPOT_NAME_1242'
 old = '城塞都市メガド 裏広場'
+new = 'Fortress City Megado: Rear Square'
 [[message]]
 key = 'SPOT_NAME_1243'
 old = '城塞都市メガド 広場'
@@ -2829,9 +2900,11 @@ new = 'Fortress City Megado: Tavern'
 [[message]]
 key = 'SPOT_NAME_1245'
 old = '城塞都市メガド 旧英霊廟前'
+new = 'Fortress City Megado: Before Old Heroic Spirit Shrine'
 [[message]]
 key = 'SPOT_NAME_1246'
 old = '城塞都市メガド 水車部屋前'
+new = 'Fortress City Megado: Before Water Wheel Room'
 [[message]]
 key = 'SPOT_NAME_1247'
 old = '城塞都市メガド クラフトルーム'
@@ -2913,6 +2986,7 @@ new = 'Innermost 戦練の社'
 [[message]]
 key = 'SPOT_NAME_1270'
 old = '城塞都市メガド 王宮層 玉座'
+new = 'Fortress City Megado: Royal Palace Level Throne'
 [[message]]
 key = 'SPOT_NAME_1271'
 old = '黒呪の迷宮：入り江'
@@ -2920,6 +2994,7 @@ new = 'Bitterblack Maze Cove'
 [[message]]
 key = 'SPOT_NAME_1272'
 old = '大地の記憶 メガドシス古道 脇道'
+new = 'Memory of Megadosys Old Road: Byway'
 [[message]]
 key = 'SPOT_NAME_1273'
 old = '霧の森 征圧エリア １'
@@ -2948,18 +3023,23 @@ new = 'Forest of Mist'
 [[message]]
 key = 'SPOT_NAME_1281'
 old = '展望城 港'
+new = 'Lookout Castle: Harbor'
 [[message]]
 key = 'SPOT_NAME_1286'
 old = '異界の扉'
 [[message]]
 key = 'SPOT_NAME_1288'
 old = '旧英霊廟'
+new = 'Old Heroic Spirit Shrine'
 [[message]]
 key = 'SPOT_NAME_1297'
 old = '大地の記憶 メガドシス古道 フェルヤナ方面'
+new = 'Memory of Megadosys Old Road: Feryana Direction'
 [[message]]
 key = 'SPOT_NAME_1298'
 old = '大地の記憶 メガドシス古道 中腹'
+new = 'Memory of Megadosys Old Road: Mountainside'
 [[message]]
 key = 'SPOT_NAME_1299'
 old = '大地の記憶 メガドシス古道 メガドシス方面'
+new = 'Memory of Megadosys Old Road: Megadosys Direction'

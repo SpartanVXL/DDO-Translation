@@ -27,7 +27,7 @@
       <translation>Byway</translation>
     </extra>
     <extra>
-      <original>最深部</original>
+      <original>危険区域</original>
       <translation>Dangerous Area</translation>
     </extra>
     <extra>
@@ -57,6 +57,10 @@
     <extra>
       <original>通路</original>
       <translation>Passage</translation>
+    </extra>
+    <extra>
+      <original>隠し通路</original>
+      <translation>Hidden Passage</translation>
     </extra>
     <extra>
       <original>左路</original>
@@ -151,12 +155,56 @@
       <translation>Armory</translation>
     </extra>
     <extra>
+      <original>貯蔵所</original>
+      <translation>Storage</translation>
+    </extra>
+    <extra>
       <original>大広間</original>
       <translation>Great Hall</translation>
     </extra>
     <extra>
       <original>城門前</original>
       <translation>Before the Castle Gate</translation>
+    </extra>
+    <extra>
+      <original>入口</original>
+      <translation>Entrance</translation>
+    </extra>
+    <extra>
+      <original>祠</original>
+      <translation>Shrine</translation>
+    </extra>
+    <extra>
+      <original>洞窟</original>
+      <translation>Cave</translation>
+    </extra>
+    <extra>
+      <original>第一の間</original>
+      <translation>First Space</translation>
+    </extra>
+    <extra>
+      <original>第二の間</original>
+      <translation>Second Space</translation>
+    </extra>
+    <extra>
+      <original>第三の間</original>
+      <translation>Third Space</translation>
+    </extra>
+    <extra>
+      <original>第四の間</original>
+      <translation>Fourth Space</translation>
+    </extra>
+    <extra>
+      <original>石像の間</original>
+      <translation>Stone Statue Space</translation>
+    </extra>
+    <extra>
+      <original>武神の間</original>
+      <translation>War God Space</translation>
+    </extra>
+    <extra>
+      <original>螺旋回廊</original>
+      <translation>Spiral Corridor</translation>
     </extra>
   </message_set>
 </replication>
