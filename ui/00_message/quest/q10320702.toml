@@ -26,8 +26,10 @@ old = '''
 <STG 473>へ向かうか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = 'それじゃ、出発するか'
 [[message]]

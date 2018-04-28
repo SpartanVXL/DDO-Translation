@@ -2,8 +2,12 @@
   <message_set name="quest name" type="quest_name">
     <match>^ui\\00_message\\quest_info\\q\d+_00$</match>
     <match>^ui\\00_message\\cycle_quest\\cycle_quest_info\\q\d+_\d+$</match>
-    <match>^ui\\00_message\\package_quest\\package_quest$</match>
     <!-- Quest names -->
+    <rewrite>
+      <original_match>^(.+)$</original_match>
+      <translation_replace>{0}</translation_replace>
+      <translation_arg message_set="package quest name" required="true" />
+    </rewrite>
     <rewrite soft="true">
       <original_match>^【(.+?)】(.+)$</original_match>
       <translation_replace>{0}: {1}</translation_replace>
@@ -668,6 +672,15 @@
       <translation_replace>Obtain &lt;SQDI NAME&gt; x&lt;SQDI NUM&gt; at &lt;AREA {2}&gt; during "{0}" weather</translation_replace>
       <translation_arg index="0" message_set="weather adjective" />
     </rewrite>
+    <!-- Interrogation -->
+    <rewrite>
+      <original_match>^(.+)を尋問し
+(.+)に関わる情報を引き出す$</original_match>
+      <translation_replace>Interrogate {0:d}
+Extract information related to {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
     <!-- Tutorial -->
     <rewrite>
       <original_match>^(.+)の基本戦術を学ぶため
@@ -1069,13 +1082,23 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)に話しかけて(.+)に戻る</original_match>
+      <original_match>^(.+)に話しかけ、尋問を行う$</original_match>
+      <translation_replace>Speak with {0:d} and do interrogation</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に話しかけ帰還する$</original_match>
+      <translation_replace>Speak with {0:d} and return</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に話しかけて(.+)に戻る$</original_match>
       <translation_replace>Speak with {0:d} and return to {1:d}</translation_replace>
       <translation_arg index="0" message_set="npc name" />
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)の元に戻り(.+)と話す</original_match>
+      <original_match>^(.+)の元に戻り(.+)と話す$</original_match>
       <translation_replace>Return to {0:d} and speak with {1:d}</translation_replace>
       <translation_arg index="0" message_set="npc name" />
       <translation_arg index="1" message_set="npc name" />

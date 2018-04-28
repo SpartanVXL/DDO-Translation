@@ -22,8 +22,10 @@ old = '''
 old = 'それじゃあ、メガドでの《諜報活動》を始めるか？'
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '今日はもう終わりにするか？'
 [[message]]
@@ -100,8 +102,10 @@ old = '''
 old = 'それじゃ――準備はいい？'
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 すごいすごーい！
