@@ -912,6 +912,11 @@ challenge the trial of the Training Chapel</translation_replace>
     <!-- Visit -->
     <ignore>^酒場のナンシーにおすすめの美酒を訪ねる$</ignore>
     <rewrite>
+      <original_match>^新たな任務を受けるため、再び(.+)を訪ねる$</original_match>
+      <translation_replace>Visit {0:d} again to receive a new mission</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^関所を越えた先の小さな村のエリアマスター(.+)を訪ねる$</original_match>
       <translation_replace>Visit the area master {0:d} in the small village beyond the checkpoint</translation_replace>
       <translation_arg index="0" message_set="npc name" />
@@ -954,10 +959,26 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="2" message_set="npc name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)で待つ(.+)を訪ねる$</original_match>
+      <translation_replace>Visit {1:d} waiting in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)の(.+)を訪ねる$</original_match>
       <translation_replace>Visit {1:d} in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^次は(.+)を訪ねる$</original_match>
+      <translation_replace>Visit {0:d} next</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を訪ねる$</original_match>
+      <translation_replace>Visit {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
     </rewrite>
     <ignore>檻から抜け出した獲物を追う</ignore>
     <rewrite>
@@ -1847,7 +1868,7 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^(.+?)を探す$</original_match>
-      <translation_replace>Find {0:d}</translation_replace>
+      <translation_replace>Search for {0:d}</translation_replace>
       <translation_arg message_set="npc name" required="true" />
     </rewrite>
     <!-- Investigate inside -->

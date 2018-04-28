@@ -18,15 +18,18 @@ new = 'Speak with <NPC 681>'
 [[message]]
 key = 'q10320200_00_4390'
 old = 'エルドアンを訪ねる'
+new = 'Visit Erudoan'
 [[message]]
 key = 'q10320200_00_4391'
 old = '資材を探す'
+new = 'Search for materials'
 [[message]]
 key = 'q10320200_00_4392'
 old = '改めて資材を回収する'
 [[message]]
 key = 'q10320200_00_4394'
 old = '次はスレイマンを訪ねる'
+new = 'Visit Suleiman next'
 [[message]]
 key = 'q10320200_00_4395'
 old = '職人の忘れ物を探す'

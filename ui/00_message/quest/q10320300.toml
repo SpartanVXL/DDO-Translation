@@ -488,8 +488,10 @@ old = '''
 old = 'ところで、何か用？'
 [[message]]
 old = 'レジスタンスに協力してほしい'
+new = 'I want you to cooperate with the resistance'
 [[message]]
 old = 'なんでもない'
+new = 'Nothing'
 [[message]]
 old = 'えっ――れじすたんす？'
 [[message]]
@@ -591,8 +593,10 @@ old = '''
 集会所に戻るとしようか――'''
 [[message]]
 old = 'もう戻る'
+new = 'Return now'
 [[message]]
 old = 'まだ戻らない'
+new = "Don't return yet"
 [[message]]
 old = '''
 新しい《証拠》を入手したぞ！

@@ -1,6 +1,7 @@
 ﻿<replication>
   <message_set name="quest dialogue">
     <match>^ui\\00_message\\quest\\q\d+$</match>
+    <match>^ui\\00_message\\event\\st0472\\ev\d+$</match>
     <rewrite>
       <original_match>^(.+)の交戦情報$</original_match>
       <translation_replace>{0:d}'s battle information</translation_replace>
