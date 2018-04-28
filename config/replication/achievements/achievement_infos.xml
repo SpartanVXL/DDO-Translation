@@ -9,7 +9,7 @@
     <rewrite>
       <original_match>^サブストーリー「(.+)」のすべての使命をクリア$</original_match>
       <translation_replace>Clear all missions for substory "{0}"</translation_replace>
-      <translation_arg message_set="quest name" />
+      <translation_arg message_set="package quest name" />
     </rewrite>
     <rewrite>
       <original_match>(.+)で&lt;ITEM (\d+)&gt;を(\d+)個発見</original_match>
