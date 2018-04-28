@@ -69,6 +69,7 @@ new = 'Appraisal List'
 [[message]]
 key = 'ItemJudge_limit_num'
 old = '回数制限'
+new = 'Limit'
 [[message]]
 key = 'ItemJudge_get_num'
 old = '獲得数'
@@ -88,7 +89,7 @@ new = 'Please select destination'
 [[message]]
 key = 'ItemJudge_period'
 old = '期限'
-new = 'Time Limit'
+new = 'Period'
 [[message]]
 key = 'ItemJudge_infinit'
 old = '無期限'
