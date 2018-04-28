@@ -29,7 +29,7 @@ new = "Locate the bandits' hideout"
 [[message]]
 key = 'q20000007_00_1128'
 old = '発見した見張りを倒す'
-new = 'Defeat the lookouts'
+new = 'Defeat the found lookouts'
 [[message]]
 key = 'q20000007_00_1127'
 old = '倉庫荒らしの本隊を探す'
@@ -37,7 +37,7 @@ new = "Locate the main force of the bandits' hideout"
 [[message]]
 key = 'q20000007_00_828'
 old = '発見した敵を討伐する'
-new = 'Defeat the enemy encountered'
+new = 'Defeat the found enemy'
 [[message]]
 key = 'q20000007_00_804'
 old = '依頼者に報告する'

@@ -24,11 +24,11 @@ old = '''
 [[message]]
 key = 'q20050003_00_1004'
 old = '森林２ヶ所の敵集団を討伐する'
-new = 'Defeat the enemies in the 2 locations'
+new = 'Defeat the enemy at 2 forest spots'
 [[message]]
 key = 'q20050003_00_1099'
 old = 'もう一方の敵を討伐する'
-new = 'Defeat the remaining enemies'
+new = 'Defeat the other enemy'
 [[message]]
 key = 'q20050003_00_804'
 old = '依頼者に報告する'
@@ -36,4 +36,4 @@ new = 'Report to the requester'
 [[message]]
 key = 'q20050003_00_828'
 old = '発見した敵を討伐する'
-new = 'Defeat the enemy encountered'
+new = 'Defeat the found enemy'

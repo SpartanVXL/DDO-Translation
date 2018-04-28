@@ -174,28 +174,471 @@
       <translation_replace>Deliver the located materials to &lt;NPC {1}&gt; in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
     </rewrite>
+    <!-- Defeat -->
     <rewrite>
-      <original_match>^(.+)を討伐する$</original_match>
-      <translation_replace>Defeat {0:d}</translation_replace>
+      <original_match>^(.+)を討伐してタイムボーナスを得る$</original_match>
+      <translation_replace>Defeat {0:d*} to get a time bonus</translation_replace>
       <translation_arg message_set="named param" required="true" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)を討伐する$</original_match>
-      <translation_replace>Defeat {0:d}</translation_replace>
-      <translation_arg message_set="npc name" required="true" />
+      <original_match>^(.+)を討伐してタイムボーナスを得る$</original_match>
+      <translation_replace>Defeat {0:d*} to get a time bonus</translation_replace>
+      <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^＜\s*(.+?)\s*＞の敵を討伐する$</original_match>
-      <translation_replace>Defeat the enemies in "{0:@}"</translation_replace>
-      <translation_arg message_set="location name" />
+      <original_match>^制限時間内に(.+)の奥に潜む(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} lurking inside {0:d} within the time limit</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
     </rewrite>
+    <rewrite>
+      <original_match>^制限時間内に(.+)の(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} in {0:d} within the time limit</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^制限時間内に(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d*} within the time limit</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を援護し\s*(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Cover {0:d*} and defeat {1:d*}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(.+)＞(.+)ヶ所の(.+)集団を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {2:d*} at {1} spots in "{0:@}"</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="numeric" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)([0-9,\uFF10-\uFF19]+)ヶ所の(.+)集団を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {2:d*} at {1} {0} spots</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="numeric" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に支配された(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} dominated by {0:d*}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)外の指定された(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the designated {1:*} outside {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(.+)＞で指定された(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the designated {1:*} in "{0:@}"</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を守る(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} guarding {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(.+)＞に潜む(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} lurking in "{0:@}"</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に潜む(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} lurking in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)近くに集う(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} gathering near {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(に|へ)向かい(.+)の群れを(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {2:d} group across from {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(に|へ)向かい(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {2:d*} across from {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を狙って襲ってきた(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the attacking {1:*} after {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(を追ってきた|を狙う)(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {2:d*} after {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を襲う(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} attacking {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(を占拠する|を占領する)(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {2:d*} occupying {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を拘束した(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} restraining {0:d*}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の障害となる(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} obstructing {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の(.+)を塞ぐ(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {2:d*} blocking the {0} {1}</translation_replace>
+      <translation_arg index="0" message_set="ordinal" required="true" />
+      <translation_arg index="1" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)へ突入するため邪魔な(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the obstructing {1:*} to storm {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を退却させるために(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} to allow {0:*} to retreat</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に憑依した(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} who possessed {0:d*}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を蝕む(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} destroying {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の放った(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} released by {0:d*}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)内に追い込んだ(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} lured into {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^新たに現れた(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the newly appeared {0:*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^指定された(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the designated {0:*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)周辺に現れる(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} that appear near {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に現れる(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} that appear in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に現れた(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} that appeared in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)と共に(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} with {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^時間内に死なずに全ての(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat all {0:d+} without dying in time</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)内のすべての(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat all {1:d+} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜\s*(.+?)\s*＞の(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} in "{0:@}"</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^作成された大砲を駆使して(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d*} using the created artillery</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)沿いの(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} along {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)周辺の(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} around {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)村付近の(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} near {0:d} village</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(.+)＞付近の(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} near "{0:@}"</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)付近の(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} near {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)内の残存(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the remaining {1:*} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)中の(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)内の(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の(.+)とその(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d} and its {2:*} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} at {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^出くわした(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the happened upon {0:*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^残された(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the remaining {0:*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(出現した|現れた)(.+)達を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the appeared {1:+}</translation_replace>
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(出現した|現れた)(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the appeared {1:*}</translation_replace>
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(.+)＞内に巣食う(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {1:d*} haunting in "{0:@}"</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^忍び込んだ(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d*} that stole in</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^新たに襲撃にきた(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the newly attacking {0:*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(襲ってきた|襲撃してきた|襲いかかる)(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the attacking {1:*}</translation_replace>
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^呼び覚まされし(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the awakened {0:*}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^召喚(され(た|し))?(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the summoned {2:*}</translation_replace>
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^発見した(.+)集団を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the found {0} group</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^発見した(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the found {0:*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^遭遇した(.+)(の集団|群)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the encountered {0} group</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^遭遇した(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the encountered {0:*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^植物に誘われし(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d*} lured by the plants</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)、(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d}, {1:@}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="named param" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)とその(.+)たちを(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d} and its {1:+}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)とその(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d} and its {1:*}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d*}</translation_replace>
+      <translation_arg message_set="named param" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)たちを(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d+}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^全ての(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat all {0:d+}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^残る(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the remaining {0:*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^もう一方の(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the other {0:*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^脅威となる(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d} threat</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^脅威の源(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the source of the threat {0}</translation_replace>
+      <translation_arg message_set="named param" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^脅威の源(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat the source of the threat {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^振動の原因となる(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d*} that caused the vibrations</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^笑い声の正体である(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d*} that {0:b*} the origin of the laughter</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(邪悪|諸悪)の根源(であ|とな)る(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {2:d*} that {2:b*} the source of evil</translation_replace>
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^邪悪な(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d*!}evil {0:*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat {0:d*}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <!-- Defend -->
     <rewrite>
       <original_match>^襲い掛かる魔物から&lt;NPC (\d+)&gt;を守る$</original_match>
-      <translation_replace>Defend &lt;NPC {0}&gt; from attacking enemies</translation_replace>
+      <translation_replace>Defend &lt;NPC {0}&gt; from the attacking enemy</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^遭遇した魔物から&lt;NPC (\d+)&gt;を守る$</original_match>
-      <translation_replace>Defend &lt;NPC {0}&gt; from encountered enemies</translation_replace>
+      <translation_replace>Defend &lt;NPC {0}&gt; from the encountered enemy</translation_replace>
     </rewrite>
     <!-- Time restricted objectives -->
     <rewrite>
@@ -536,6 +979,12 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Obtain information -->
+    <rewrite>
+      <original_match>^(.+)前(の|にいる)(.+)から情報を得る$</original_match>
+      <translation_replace>Obtain information from {2:d} before {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
+    </rewrite>
     <rewrite>
       <original_match>^(.+)(の|にいる)(.+)から情報を得る$</original_match>
       <translation_replace>Obtain information from {2:d} in {0:d}</translation_replace>
@@ -1295,6 +1744,12 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+?)の(.+)へ向かう$</original_match>
+      <translation_replace>Head to {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
       <original_match>^＜\s*(.+?)\s*＞の表層(へ|に)向かう$</original_match>
       <translation_replace>Head to the surface level of "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
@@ -1331,6 +1786,11 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="0" message_set="npc name" />
       <translation_arg index="1" message_set="npc name" />
       <translation_arg index="2" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)への進入路へ向かう$</original_match>
+      <translation_replace>Head to the approach to {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)(へ|に)向かう$</original_match>
@@ -1379,6 +1839,16 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <!-- Rendezvous -->
     <rewrite>
+      <original_match>^先行していた(.+)と合流し戦況を確認する$</original_match>
+      <translation_replace>Rendezvous with the leading {0:*} and check situation</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)と合流し戦況を確認する$</original_match>
+      <translation_replace>Rendezvous with {0:d*} and check situation</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^＜&lt;SPOT (\d+)&gt;＞で(.+)と合流する$</original_match>
       <translation_replace>Rendezvous with {1:d} at "&lt;SPOT {0}&gt;"</translation_replace>
       <translation_arg index="1" message_set="npc name" />
@@ -1400,12 +1870,6 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)で(.+)と合流する$</original_match>
-      <translation_replace>Rendezvous with {1:d} at {0:d}</translation_replace>
-      <translation_arg index="0" message_set="location name" required="true" />
-      <translation_arg index="1" message_set="npc name" />
-    </rewrite>
-    <rewrite>
       <original_match>^秘密の扉の前で(.+?)(達)?と合流する$</original_match>
       <translation_replace>Rendezvous with {0:d} before the secret door</translation_replace>
       <translation_arg index="0" message_set="npc name" />
@@ -1413,6 +1877,12 @@ challenge the trial of the Training Chapel</translation_replace>
     <rewrite>
       <original_match>^(.+)前で(.+?)(達)?と合流する$</original_match>
       <translation_replace>Rendezvous with {1:d} in front of {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)で待つ(.+)と合流する$</original_match>
+      <translation_replace>Rendezvous with {1:d} waiting at {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
@@ -1433,6 +1903,11 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Return to -->
+    <rewrite>
+      <original_match>^急ぎ(.+?)に帰還する$</original_match>
+      <translation_replace>Return quickly to {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
     <rewrite>
       <original_match>^(.+?)に帰還する$</original_match>
       <translation_replace>Return to {0:d}</translation_replace>
@@ -1540,6 +2015,22 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <!-- Misc -->
     <rewrite>
+      <original_match>^(.+)を通り(.+)まで退却する$</original_match>
+      <translation_replace>Retreat to {1:d} through {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)へ侵入する$</original_match>
+      <translation_replace>Raid {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^敵を掃討し(.+)を制圧する$</original_match>
+      <translation_replace>Sweep away the enemy to gain control of {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)を守る敵を殲滅する</original_match>
       <translation_replace>Defeat the enemy guarding {0:d}</translation_replace>
       <translation_arg message_set="location name" />
@@ -1583,12 +2074,22 @@ challenge the trial of the Training Chapel</translation_replace>
     <rewrite soft="true">
       <original_match>^(.+?)《リザルト報酬》$</original_match>
       <translation_replace>{0} (Result Reward)</translation_replace>
-      <translation_arg message_set="quest name" required="true" />
+      <translation_arg message_set="npc class" required="true" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+?)《リザルト報酬》$</original_match>
+      <translation_replace>{0} (Result Reward)</translation_replace>
+      <translation_arg message_set="quest name" />
     </rewrite>
     <rewrite soft="true">
       <original_match>^(.+?)《最終報酬》$</original_match>
       <translation_replace>{0} (Final Reward)</translation_replace>
-      <translation_arg message_set="quest name" required="true" />
+      <translation_arg message_set="npc class" required="true" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+?)《最終報酬》$</original_match>
+      <translation_replace>{0} (Final Reward)</translation_replace>
+      <translation_arg message_set="quest name" />
     </rewrite>
   </message_set>
 </replication>

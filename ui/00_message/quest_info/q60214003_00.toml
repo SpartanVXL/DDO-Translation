@@ -17,6 +17,7 @@ old = '調査に向かった付近で<NPC 562>を探す'
 [[message]]
 key = 'q60214003_00_2378'
 old = '仲間を拘束した魔物を討伐する'
+new = 'Defeat the demons restraining comrades'
 [[message]]
 key = 'q60214003_00_2380'
 old = '<NPC 562>に拘束した魔物の居場所を聞く'
@@ -27,6 +28,7 @@ new = 'Head to the location of the monster caught in the trap'
 [[message]]
 key = 'q60214003_00_2381'
 old = '魔物を全滅させる'
+new = 'Defeat the demons'
 [[message]]
 key = 'q60214003_00_2545'
 old = '<SPOT 876>の<NPC 559>に報告する'

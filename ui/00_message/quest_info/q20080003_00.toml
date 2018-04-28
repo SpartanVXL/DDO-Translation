@@ -24,6 +24,7 @@ old = '''
 [[message]]
 key = 'q20080003_00_1038'
 old = '＜死王の迷宮＞３ヶ所の敵集団を討伐する'
+new = "Defeat the enemy at 3 spots in \"Dead Lord's Labyrinth\""
 [[message]]
 key = 'q20080003_00_804'
 old = '依頼者に報告する'
@@ -39,4 +40,4 @@ new = 'Defeat the enemies in the other locations (1 left)'
 [[message]]
 key = 'q20080003_00_828'
 old = '発見した敵を討伐する'
-new = 'Defeat the enemy encountered'
+new = 'Defeat the found enemy'

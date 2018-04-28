@@ -16,12 +16,14 @@ new = 'Head to 行方不明になった<NPC 581>を探し'
 [[message]]
 key = 'q80301052_00_3385'
 old = '敵を討伐する'
+new = 'Defeat the enemy'
 [[message]]
 key = 'q80301052_00_3393'
 old = '<NPC 581>の様子を確認する'
 [[message]]
 key = 'q80301052_00_3392'
 old = '新たに襲撃にきた敵を討伐する'
+new = 'Defeat the newly attacking enemy'
 [[message]]
 key = 'q80301052_00_3394'
 old = '<SPOT 1031> に戻り<NPC 580>に報告する'
