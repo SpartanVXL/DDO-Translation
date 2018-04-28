@@ -2640,6 +2640,10 @@ old = 'パスカル'
 new = 'Pascal'
 [[message]]
 old = 'メガド護衛兵'
+new = 'Megado Guard'
+[message.format]
+proper = false
+pluralize = true
 [[message]]
 old = 'スニーカー'
 new = 'Sunika'
@@ -3043,6 +3047,10 @@ old = 'アンジェロ'
 new = 'Angelo'
 [[message]]
 old = 'メガド護衛兵'
+new = 'Megado Guard'
+[message.format]
+proper = false
+pluralize = true
 [[message]]
 old = 'セリン'
 new = 'Serine'
@@ -3057,25 +3065,55 @@ old = 'イルマズ'
 new = 'Ilmaz'
 [[message]]
 old = 'メガド護衛兵'
+new = 'Megado Guard'
+[message.format]
+proper = false
+pluralize = true
 [[message]]
 old = 'メガド護衛兵'
+new = 'Megado Guard'
+[message.format]
+proper = false
+pluralize = true
 [[message]]
 old = '憲兵'
+new = 'Military Police'
+[message.format]
+proper = false
+pluralize = true
 [[message]]
 old = '憲兵'
+new = 'Military Police'
+[message.format]
+proper = false
+pluralize = true
 [[message]]
 old = '憲兵'
+new = 'Military Police'
+[message.format]
+proper = false
+pluralize = true
 [[message]]
 old = '憲兵'
+new = 'Military Police'
+[message.format]
+proper = false
+pluralize = true
 [[message]]
 old = '憲兵'
+new = 'Military Police'
+[message.format]
+proper = false
+pluralize = true
 [[message]]
 old = 'バジット'
-new = 'Bazito'
+new = 'Basit'
 [[message]]
 old = 'ゴロツキ'
+new = 'Thug'
 [[message]]
 old = 'ゴロツキリーダー'
+new = 'Thug Leader'
 [[message]]
 old = '夜の女'
 [[message]]
@@ -3090,6 +3128,7 @@ proper = false
 old = 'ガクシャ'
 [[message]]
 old = 'ジョウホウヤ'
+new = 'Johoya'
 [[message]]
 old = '怯えた男'
 new = 'Scared Man'
