@@ -51,8 +51,9 @@ old = '''
 敵の攻撃を回避しなくなる
 <COL ffdc78> 特技ランクが高いほど効果時間が増加 </COL>'''
 new = '''
-Temporarily greatly increases physical defense, magic defense,
-and debilitation resistance, can no longer evade enemy attacks.
+Temporarily greatly increases physical
+defense, magick defense, and debilitation
+resistance, can no longer evade enemy attacks.
 <COL ffdc78> Skill rank increases effect duration. </COL>'''
 [[message]]
 old = '''
