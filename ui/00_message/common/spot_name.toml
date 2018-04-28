@@ -396,6 +396,8 @@ new = 'Scarred Earth'
 key = 'SPOT_NAME_534'
 old = '中央広場'
 new = 'Central Square'
+[message.format]
+new = 'central square'
 [[message]]
 key = 'SPOT_NAME_535'
 old = '商店区'
@@ -934,7 +936,7 @@ proper = true
 [[message]]
 key = 'SPOT_NAME_665'
 old = '囚われし戦徒の間'
-new = 'The Space between Captives and Warriors'
+new = 'The Space between Captives and Myrmidons'
 [[message]]
 key = 'SPOT_NAME_666'
 old = 'リムの淵辺'

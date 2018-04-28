@@ -6,6 +6,16 @@
     <match>^ui\\00_message\\common\\stage_list$</match>
     <match>^ui\\00_message\\master\\area\d+_spot_name$</match>
     <extra>
+      <original>現場</original>
+      <translation>Location</translation>
+      <translation_format proper="false">location</translation_format>
+    </extra>
+    <extra>
+      <original>ダンジョン</original>
+      <translation>Dungeon</translation>
+      <translation_format proper="false">dungeon</translation_format>
+    </extra>
+    <extra>
       <original>ハイデル</original>
       <translation>Hidell</translation>
     </extra>
@@ -107,6 +117,11 @@
       <translation_format proper="false">limited-time beach on Breya Coast</translation_format>
     </extra>
     <extra>
+      <original>リンウッドの森</original>
+      <translation>Lynwood's Forest</translation>
+      <translation_format proper="true">Lynwood's forest</translation_format>
+    </extra>
+    <extra>
       <original>ミスリウの森</original>
       <translation>Mysree Forest</translation>
       <translation_format proper="true" />
@@ -162,34 +177,109 @@
       <translation_format proper="false">Rift's Inner Depths</translation_format>
     </extra>
     <extra>
+      <original>村</original>
+      <translation>Village</translation>
+      <translation_format proper="false">village</translation_format>
+    </extra>
+    <extra>
+      <original>扉</original>
+      <translation>Door</translation>
+      <translation_format proper="false">door</translation_format>
+    </extra>
+    <extra>
+      <original>門</original>
+      <translation>Gate</translation>
+      <translation_format proper="false">gate</translation_format>
+    </extra>
+    <extra>
+      <original>橋</original>
+      <translation>Bridge</translation>
+      <translation_format proper="false">bridge</translation_format>
+    </extra>
+    <extra>
+      <original>塔</original>
+      <translation>Tower</translation>
+      <translation_format proper="false">tower</translation_format>
+    </extra>
+    <extra>
       <original>砦</original>
-      <translation>fort</translation>
-      <translation_format proper="false" />
+      <translation>Fort</translation>
+      <translation_format proper="false">fort</translation_format>
+    </extra>
+    <extra>
+      <original>城</original>
+      <translation>Castle</translation>
+      <translation_format proper="false">castle</translation_format>
+    </extra>
+    <extra>
+      <original>海岸</original>
+      <translation>Beach</translation>
+      <translation_format proper="false">beach</translation_format>
+    </extra>
+    <extra>
+      <original>森</original>
+      <translation>Forest</translation>
+      <translation_format proper="false">forest</translation_format>
+    </extra>
+    <extra>
+      <original>森林</original>
+      <translation>Forest</translation>
+      <translation_format proper="false">forest</translation_format>
+    </extra>
+    <extra>
+      <original>山間</original>
+      <translation>Valley</translation>
+      <translation_format proper="false">valley</translation_format>
     </extra>
     <extra>
       <original>洞窟</original>
-      <translation>cave</translation>
-      <translation_format proper="false" />
+      <translation>Cave</translation>
+      <translation_format proper="false">cave</translation_format>
     </extra>
     <extra>
       <original>近くの洞窟</original>
-      <translation>nearby cave</translation>
-      <translation_format proper="false" />
+      <translation>Nearby Cave</translation>
+      <translation_format proper="false">nearby cave</translation_format>
+    </extra>
+    <extra>
+      <original>湖</original>
+      <translation>Lake</translation>
+      <translation_format proper="false">lake</translation_format>
+    </extra>
+    <extra>
+      <original>山頂</original>
+      <translation>Summit</translation>
+      <translation_format proper="false">summit</translation_format>
     </extra>
     <extra>
       <original>待ち合わせ場所</original>
-      <translation>meeting place</translation>
-      <translation_format proper="false" />
+      <translation>Meeting Place</translation>
+      <translation_format proper="false">meeting place</translation_format>
+    </extra>
+    <extra>
+      <original>山小屋</original>
+      <translation>Lodge</translation>
+      <translation_format proper="false">lodge</translation_format>
     </extra>
     <extra>
       <original>関所</original>
-      <translation>checkpoint</translation>
-      <translation_format proper="false" />
+      <translation>Checkpoint</translation>
+      <translation_format proper="false">checkpoint</translation_format>
+    </extra>
+    <extra>
+      <original>遺跡</original>
+      <translation>Ruins</translation>
+      <translation_format proper="false">ruins</translation_format>
+    </extra>
+    <extra>
+      <original>迷宮</original>
+      <translation>Labyrinth</translation>
+      <translation_format proper="false">labyrinth</translation_format>
     </extra>
     <extra>
       <original>火薬庫</original>
-      <translation>powder kegs</translation>
-      <translation_format proper="false" />
+      <translation>Powder Kegs</translation>
+      <translation_format proper="false">powder kegs</translation_format>
     </extra>
     <extra>
       <original>精霊の地</original>
@@ -200,6 +290,11 @@
       <original>精霊の地への入り口</original>
       <translation>Entrance to the Spirit Land</translation>
       <translation_format proper="false">entrance to the Spirit Land</translation_format>
+    </extra>
+    <extra>
+      <original>芯脈</original>
+      <translation>central vein</translation>
+      <translation_format proper="false" />
     </extra>
     <extra>
       <original>第一試練の場所</original>
@@ -291,6 +386,41 @@
     <extra>
       <original>作戦の準備</original>
       <translation>strategy preparation</translation>
+    </extra>
+    <extra>
+      <original>南海岸</original>
+      <translation>Southern Shore</translation>
+      <translation_format proper="false">southern shore</translation_format>
+    </extra>
+    <extra>
+      <original>山道</original>
+      <translation>Mountain Road</translation>
+      <translation_format proper="false">mountain road</translation_format>
+    </extra>
+    <extra>
+      <original>エリアへ進攻</original>
+      <translation>Attack Area</translation>
+      <translation_format proper="false">attack area</translation_format>
+    </extra>
+    <extra>
+      <original>最奥</original>
+      <translation>Innermost</translation>
+      <translation_format proper="false">innermost</translation_format>
+    </extra>
+    <extra>
+      <original>第一試練</original>
+      <translation>First Test</translation>
+      <translation_format proper="false">first test</translation_format>
+    </extra>
+    <extra>
+      <original>第二試練</original>
+      <translation>Second Test</translation>
+      <translation_format proper="false">second test</translation_format>
+    </extra>
+    <extra>
+      <original>最終試練</original>
+      <translation>Final Test</translation>
+      <translation_format proper="false">final test</translation_format>
     </extra>
     <ignore>異界の狭間　深層部</ignore>
     <!-- Replicate area names -->
