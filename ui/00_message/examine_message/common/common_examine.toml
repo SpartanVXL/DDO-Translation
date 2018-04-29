@@ -411,8 +411,10 @@ old = 'キャンセル'
 new = 'Cancel'
 [[message]]
 old = '新たな証拠品を手に入れた！'
+new = 'Got a new piece of evidence!'
 [[message]]
 old = '誰かの話し声が聞こえる――'
+new = "Someone's voice can be heard――"
 [[message]]
 old = '憲兵が見張っている――この先には行けなさそうだ'
 [[message]]
@@ -423,6 +425,7 @@ old = '遠くから悲鳴が聞こえた――'
 old = 'どこからか剣戟の音が聞こえる――'
 [[message]]
 old = 'レジスタンスに新たな仲間が加わった！'
+new = 'A new friend joins the resistance!'
 [[message]]
 old = '諜報活動領域外へ移動したため、クエストを終了しました'
 [[message]]
