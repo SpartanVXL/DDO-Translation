@@ -1015,10 +1015,7 @@ key = 'syslog_quest_root_reward'
 old = '''
 条件が満たされたため、＜<NAME QUEST>＞の
 クリア報酬が変化します'''
-new = '''
-Because you satisfied the conditions,
-the clear reward of "<NAME QUEST>"
-will change.'''
+new = 'Because you satisfied the conditions, the clear reward of "<NAME QUEST>" will change.'
 [[message]]
 key = 'syslog_not_speak_a_while'
 old = 'しばらく発言できません'

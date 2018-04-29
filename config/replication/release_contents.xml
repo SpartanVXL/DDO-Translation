@@ -18,7 +18,7 @@
     </rewrite>
     <rewrite>
       <original_match>^(.+)の戦技の継承$</original_match>
-      <translation_replace>Inheritance of {0} War Skills</translation_replace>
+      <translation_replace>{0} War Skill Augmentation</translation_replace>
       <translation_arg message_set="job name" />
     </rewrite>
     <rewrite>

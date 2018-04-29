@@ -110,15 +110,15 @@ new = 'Please choose a jewelry'
 [[message]]
 key = 'job_emblem_crest_select_kind'
 old = '継承方法を選択してください'
-new = 'Please select your inheritance method'
+new = 'Please select your augmentation method'
 [[message]]
 key = 'job_emblem_crest_select_kind_normal'
 old = '通常継承'
-new = 'Normal inheritance'
+new = 'Normal augmentation'
 [[message]]
 key = 'job_emblem_crest_select_kind_gs'
 old = '黄金石継承'
-new = 'Golden Gemstone inheritance'
+new = 'Golden Gemstone augmentation'
 [[message]]
 key = 'job_emblem_crest_confirm_normal'
 old = '''
@@ -146,11 +146,11 @@ old = '''
 [[message]]
 key = 'job_emblem_crest_success_notice'
 old = '継承に成功しました'
-new = 'Inheritance succeeded'
+new = 'Augmentation succeeded'
 [[message]]
 key = 'job_emblem_crest_failed_notice'
 old = '継承に失敗しました'
-new = 'Inheritance failed'
+new = 'Augmentation failed'
 [[message]]
 key = 'job_emblem_crest_confirm_retry'
 old = '''
