@@ -1,6 +1,16 @@
 ﻿<replication>
   <message_set name="item name" type="item">
     <match>^ui\\00_message\\common\\item_name$</match>
+    <extra>
+      <original>アイテム</original>
+      <translation>Item</translation>
+      <translation_format proper="false">item</translation_format>
+    </extra>
+    <extra>
+      <original>指令書</original>
+      <translation>Letter of Instruction</translation>
+      <translation_format proper="false">letter of instruction</translation_format>
+    </extra>
     <rewrite>
       <original_match>^エンブレムストーン・(.+)$</original_match>
       <translation_replace>Emblem Stone ({0})</translation_replace>
