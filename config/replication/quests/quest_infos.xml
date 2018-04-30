@@ -90,6 +90,11 @@
       <translation_arg index="1" message_set="numerals" />
     </rewrite>
     <rewrite>
+      <original_match>^求道の師を訪ねて\s+(.+?)$</original_match>
+      <translation_replace>Seeking the Master: {0}</translation_replace>
+      <translation_arg message_set="job name" />
+    </rewrite>
+    <rewrite>
       <original_match>^戦技の継承　(.+?)求道試練(.+?)$</original_match>
       <translation_replace>Skill Augmentation: {0} Trial {1}</translation_replace>
       <translation_arg index="0" message_set="job name" />
@@ -478,7 +483,7 @@
     </rewrite>
     <rewrite>
       <original_match>^出くわした(.+)を(倒す|討伐する|全滅させる)$</original_match>
-      <translation_replace>Defeat the happened upon {0:*}</translation_replace>
+      <translation_replace>Defeat the encountered {0:*}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
@@ -782,6 +787,12 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <!-- Obtain -->
     <rewrite>
+      <original_match>^(.+)が落とした(.+)を手に入れる$</original_match>
+      <translation_replace>Obtain {1:d} that {0:d*} dropped</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="item name" />
+    </rewrite>
+    <rewrite>
       <original_match>^「(.+)」を手に入れる$</original_match>
       <translation_replace>Obtain {0:d!}"{0}"</translation_replace>
       <translation_arg message_set="item name" />
@@ -1031,6 +1042,12 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Hear -->
+    <rewrite>
+      <original_match>^(.+)に《(.+)》についての情報を聞く$</original_match>
+      <translation_replace>Hear information from {0:d} regarding "{1:@}"</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="item name" />
+    </rewrite>
     <rewrite>
       <original_match>^(.+)にいる(.+)から情報を聞く$</original_match>
       <translation_replace>Hear information from {1:d} at {0:d}</translation_replace>
@@ -1367,6 +1384,11 @@ challenge the trial of the Training Chapel</translation_replace>
     <rewrite>
       <original_match>^再度、(.+?)に話をする$</original_match>
       <translation_replace>Speak to {0:d} again</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)と再度話す$</original_match>
+      <translation_replace>Speak again to {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
@@ -1860,11 +1882,27 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
-    <!-- Find -->
+    <!-- Search -->
+    <rewrite>
+      <original_match>^(.+)が再び仕掛けた檻を探す$</original_match>
+      <translation_replace>Search for the cage set by {0:d} again</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)が仕掛けた檻を探す$</original_match>
+      <translation_replace>Search for the cage set by {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
     <rewrite>
       <original_match>^(.+)内で魔物を探す$</original_match>
       <translation_replace>Search for monsters within {0:d}</translation_replace>
       <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^《(.+)》にいる(.+?)を探す$</original_match>
+      <translation_replace>Search for {1:d*} in "{0:@}"</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+?)を探す$</original_match>
@@ -1957,7 +1995,13 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_replace>Return to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
-    <!-- Report investigation to -->
+    <!-- Report -->
+    <rewrite>
+      <original_match>^入手した《(.+)》について(.+)へ報告する$</original_match>
+      <translation_replace>Report to {1:d} regarding the "{0:@}" obtained</translation_replace>
+      <translation_arg index="0" message_set="item name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
     <rewrite>
       <original_match>^(.+)に調査報告する$</original_match>
       <translation_replace>Report investigation to {0:d}</translation_replace>
@@ -2058,6 +2102,16 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <!-- Misc -->
+    <!--<rewrite soft="true">
+      <original_match>^(.+)の竜の礎近くで「(.+)」とチャットでつぶやく$</original_match>
+      <translation_replace>Mutter in chat "{1}" ("{1}") near the Dragon Keystone in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+    </rewrite>
+    <rewrite soft="true">
+      <original_match>^(.+)で「(.+)」とチャットでつぶやく$</original_match>
+      <translation_replace>Mutter in chat "{1}" ("{1}") in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+    </rewrite>-->
     <rewrite>
       <original_match>^(.+)を通り(.+)まで退却する$</original_match>
       <translation_replace>Retreat to {1:d} through {0:d}</translation_replace>
@@ -2078,16 +2132,6 @@ challenge the trial of the Training Chapel</translation_replace>
       <original_match>^(.+)を守る敵を殲滅する</original_match>
       <translation_replace>Defeat the enemy guarding {0:d}</translation_replace>
       <translation_arg message_set="location name" />
-    </rewrite>
-    <rewrite>
-      <original_match>^(.+)が仕掛けた檻を探す$</original_match>
-      <translation_replace>Search for the cage set by {0:d}</translation_replace>
-      <translation_arg message_set="npc name" />
-    </rewrite>
-    <rewrite>
-      <original_match>^(.+)が再び仕掛けた檻を探す$</original_match>
-      <translation_replace>Search for the cage set by {0:d} again</translation_replace>
-      <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)にて脅威がないか調べる$</original_match>
