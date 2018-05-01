@@ -19,6 +19,8 @@ new = 'Acre Selund'
 key = 'LAND_NAME_5'
 old = '英霊眠りし道'
 new = 'Heroic Spirit Sleeping Path'
+[message.format]
+proper = false
 [[message]]
 key = 'LAND_NAME_6'
 old = '黒呪の迷宮'
