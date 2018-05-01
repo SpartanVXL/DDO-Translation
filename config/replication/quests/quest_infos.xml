@@ -156,6 +156,12 @@
       <translation_arg message_set="location name" />
       <translation_replace>Rescue Prisoners from {0:d}</translation_replace>
     </rewrite>
+    <rewrite>
+      <original_match>^(.+)へ　((.+)地方)$</original_match>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="location name" />
+      <translation_replace>To {0:d}: {1:@}</translation_replace>
+    </rewrite>
     <!-- Quest objectives -->
     <rewrite>
       <original_match>^見つけた物を(.+)に渡す$</original_match>
