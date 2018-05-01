@@ -1,13 +1,10 @@
-# DDO-Translation
+# DDON-Translation
 This is a repository for data used to build translation patches for Dragon's Dogma Online.
 
 This is a community project. Contributions welcome!
 
 ## Contributing
 If you would like to contribute to the translation effort, please [read through the Contribution Guide](https://github.com/riftcrystal/DDO-Translation/wiki/Contribution-Guide).
-
-## Validation
-You can use the [message resource XML schema](message_resource.xsd) to validate edited XML files in a supporting editor.
 
 ## External Credits
 

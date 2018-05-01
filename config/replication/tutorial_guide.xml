@@ -1,5 +1,5 @@
 ﻿<replication>
-  <message_set name="tutorial name">
+  <message_set name="tutorial name" type="tutorial_name">
     <match>^ui\\00_message\\tutorial_guide\\tutorial_guide$</match>
     <rewrite>
       <original_match>^(.+?)$</original_match>
@@ -33,5 +33,14 @@
       <translation_replace>Tactical Role of the {0}</translation_replace>
       <translation_arg message_set="job name" />
     </rewrite>
+    <rewrite>
+      <original_match>^(.+)：追記$</original_match>
+      <translation_replace>{0}: Additional Notes</translation_replace>
+      <translation_arg message_set="tutorial name" />
+    </rewrite>
+    <extra>
+      <original>戦甲種について</original>
+      <translation>About Armored Battles</translation>
+    </extra>
   </message_set>
 </replication>
