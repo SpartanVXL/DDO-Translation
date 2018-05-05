@@ -172,14 +172,14 @@ old = '脅す'
 new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
-new = 'Pose "Evidence"'
+new = 'Present "Evidence"'
 [[message]]
 old = '''
 この生意気なゴロツキに、一泡吹かせてやろう
 さぁ―― “《証拠》を突きつける” んだ'''
 [[message]]
 old = '《証拠》を突きつける'
-new = 'Pose "Evidence"'
+new = 'Present "Evidence"'
 [[message]]
 old = 'これがなんだか分かるか？'
 [[message]]
@@ -378,7 +378,7 @@ old = '脅す'
 new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
-new = 'Pose "Evidence"'
+new = 'Present "Evidence"'
 [[message]]
 old = '――やめる'
 new = '...Cancel'
@@ -523,7 +523,7 @@ old = '脅す'
 new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
-new = 'Pose "Evidence"'
+new = 'Present "Evidence"'
 [[message]]
 old = '――やめる'
 new = '...Cancel'
@@ -618,9 +618,10 @@ old = '脅す'
 new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
-new = 'Pose "Evidence"'
+new = 'Present "Evidence"'
 [[message]]
 old = 'もどる'
+new = 'Return'
 [[message]]
 old = '――それで勝ったつもりか？'
 [[message]]
@@ -721,9 +722,10 @@ old = '脅す'
 new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
-new = 'Pose "Evidence"'
+new = 'Present "Evidence"'
 [[message]]
 old = 'もどる'
+new = 'Return'
 [[message]]
 old = '''
 なるほど、これだな
@@ -826,9 +828,10 @@ old = '脅す'
 new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
-new = 'Pose "Evidence"'
+new = 'Present "Evidence"'
 [[message]]
 old = 'もどる'
+new = 'Return'
 [[message]]
 old = '''
 フン、なんだその汚い紙束は――
@@ -927,9 +930,10 @@ old = '脅す'
 new = 'Threaten'
 [[message]]
 old = '《証拠》を突きつける'
-new = 'Pose "Evidence"'
+new = 'Present "Evidence"'
 [[message]]
 old = 'もどる'
+new = 'Return'
 [[message]]
 old = 'それは――！'
 [[message]]
