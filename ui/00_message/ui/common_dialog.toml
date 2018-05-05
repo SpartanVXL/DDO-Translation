@@ -2376,6 +2376,9 @@ key = 'ana_epitaph_002'
 old = '''
 炎が煌めいており
 すでに力は授かっているようだ'''
+new = '''
+The flames are dancing.
+It seems the force was granted already.'''
 [[message]]
 key = 'ana_wm_limited_condition_open'
 old = '新たな戦況が期間限定で開催決定！'
@@ -2419,15 +2422,21 @@ key = 'ana_epitaph_014'
 old = '''
 不思議な文字が
 刻み込まれている――'''
+new = '''
+Mysterious characters
+Engraved――'''
 [[message]]
 key = 'ana_epitaph_015'
 old = '試練一覧'
-new = 'Trial List'
+new = 'Ordeal List'
 [[message]]
 key = 'ana_epitaph_016'
 old = '''
 試練を中断しますか？
 (中断した場合、納品したアイテムは破棄されます)'''
+new = '''
+Interrupt ordeal?
+(If interrupted, delivered items will be discarded)'''
 [[message]]
 key = 'ana_epitaph_017'
 old = '''
@@ -2605,9 +2614,11 @@ old = '開拓可能な場所がありません'
 [[message]]
 key = 'ana_epitaph_026'
 old = '発動するバフを選択してください'
+new = 'Please select buff to activate'
 [[message]]
 key = 'ana_epitaph_027'
 old = '受け取らない'
+new = 'Do not receive'
 [[message]]
 key = 'ana_epitaph_028'
 old = 'バフを受け取らずに終了しますか？'
