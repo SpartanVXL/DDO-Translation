@@ -2,5 +2,10 @@
   <message_set name="talk">
     <match>^ui\\00_message\\npc\\base\\</match>
     <match>^ui\\00_message\\pawn\\</match>
+    <rewrite>
+      <original_match>^《(.+)》に入る$</original_match>
+      <translation_replace>Enter "{0:@}"</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
   </message_set>
 </replication>
