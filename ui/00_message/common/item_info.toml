@@ -3026,7 +3026,7 @@ old = '''
 目玉を模した模様が刻まれている'''
 new = '''
 The key to Mergoda District's "Alchemy Research Building".
-A pattern imitating the eyeball is engraved'''
+A pattern imitating the eyeball is engraved.'''
 [[item]]
 id = 1030
 old = '''
@@ -3080,16 +3080,13 @@ id = 1044
 old = '''
 イベント封鎖用アイテム
 欠番だがIDはOM側で使用'''
-new = '''
-Event Blocked Item.
-Only used Server-Side.'''
 [[item]]
 id = 1049
 old = '''
 ドリード城地下に保管されていた旧時代の遺物
 謎の魔物が持っていたものと同じ物のようだが――？'''
 new = '''
-Ancient relics from Dreed Castle's that had been kept underground
+Ancient relics from Dreed Castle's that had been kept underground.
 Strikingly similar to various relics that demons have.'''
 [[item]]
 id = 1050
@@ -3118,7 +3115,7 @@ Used to accomodate Diamantes.'''
 [[item]]
 id = 1053
 old = '装備した武器/防具の重量が軽減される'
-new = 'Weight of equipped gear is reduced'
+new = 'Weight of equipped gear is reduced.'
 [[item]]
 id = 1054
 old = '''
@@ -3150,12 +3147,12 @@ old = '''
 キノコをメインに使った料理
 食べると様々な良い効果がある'''
 new = '''
-A dish using mushrooms as the main ingrediant
-Bestows various buffs upon eating'''
+A dish using mushrooms as the main ingredient.
+Bestows various buffs upon eating.'''
 [[item]]
 id = 1359
 old = 'クラフト昇格試験アイテム'
-new = 'Craft promotion test item'
+new = 'Craft promotion test item.'
 [[item]]
 id = 1674
 old = ''
@@ -14583,7 +14580,7 @@ old = ''
 [[item]]
 id = 5723
 old = 'クラフト昇格試験アイテム'
-new = 'Craft promotion test item'
+new = 'Craft promotion test item.'
 [[item]]
 id = 7540
 old = ''
@@ -20765,8 +20762,8 @@ old = '''
 キノコをメインに使った料理
 食べると様々な良い効果がある'''
 new = '''
-A dish using mushrooms as the main ingrediant
-Bestows various buffs upon eating'''
+A dish using mushrooms as the main ingredient.
+Bestows various buffs upon eating.'''
 [[item]]
 id = 9412
 old = '''
@@ -20788,8 +20785,8 @@ old = '''
 キノコをメインに使った料理
 食べると様々な良い効果がある'''
 new = '''
-A dish using mushrooms as the main ingrediant
-Bestows various buffs upon eating'''
+A dish using mushrooms as the main ingredient.
+Bestows various buffs upon eating.'''
 [[item]]
 id = 9416
 old = '''
@@ -20811,8 +20808,8 @@ old = '''
 キノコをメインに使った料理
 食べると様々な良い効果がある'''
 new = '''
-A dish using mushrooms as the main ingrediant
-Bestows various buffs upon eating'''
+A dish using mushrooms as the main ingredient.
+Bestows various buffs upon eating.'''
 [[item]]
 id = 9420
 old = '''
@@ -20834,8 +20831,8 @@ old = '''
 キノコをメインに使った料理
 食べると様々な良い効果がある'''
 new = '''
-A dish using mushrooms as the main ingrediant
-Bestows various buffs upon eating'''
+A dish using mushrooms as the main ingredient.
+Bestows various buffs upon eating.'''
 [[item]]
 id = 9424
 old = '''
@@ -42750,6 +42747,7 @@ old = '''
 [[item]]
 id = 16727
 old = 'レスタニア天気予報'
+new = 'Lestania Weather Forecast.'
 [[item]]
 id = 16728
 old = ''
@@ -44639,12 +44637,15 @@ old = ''
 [[item]]
 id = 17370
 old = 'マンドラゴラ鉢植え①ノーマル'
+new = 'Mandragora Potted Plant 1 (Normal).'
 [[item]]
 id = 17371
 old = 'マンドラゴラ鉢植え②パスポート'
+new = 'Mandragora Potted Plant 2 (Passport).'
 [[item]]
 id = 17372
 old = 'マンドラゴラ鉢植え③パスポート'
+new = 'Mandragora Potted Plant 3 (Passport).'
 [[item]]
 id = 17391
 old = ''
@@ -46385,7 +46386,7 @@ old = '''
 [[item]]
 id = 17931
 old = 'パペット・ミカサ'
-new = 'Puppet - Mikasa'
+new = 'Puppet - Mikasa.'
 [[item]]
 id = 17932
 old = 'レスタニアンパペット・リヴァイ'
@@ -53694,11 +53695,11 @@ old = ''
 [[item]]
 id = 21191
 old = 'パペット・ハムスケ'
-new = 'Puppet - Hamsuke'
+new = 'Puppet - Hamsuke.'
 [[item]]
 id = 21193
 old = 'タペストリー・オーバーロード'
-new = 'Tapestry - Overlord'
+new = 'Tapestry - Overlord.'
 [[item]]
 id = 21196
 old = '''
@@ -55239,9 +55240,11 @@ old = ''
 [[item]]
 id = 21716
 old = '覇王の卵'
+new = 'Egg of the Supreme King.'
 [[item]]
 id = 21717
 old = 'タペストリー・鷹の団'
+new = 'Tapestry - Band of the Falcon.'
 [[item]]
 id = 21724
 old = ''

@@ -56,5 +56,10 @@ added.</translation_replace>
       <translation_replace>"{0}" added.</translation_replace>
       <translation_arg message_set="extra parameter name" />
     </rewrite>
+    <rewrite>
+      <original_match>^(.+)$</original_match>
+      <translation_replace>{0:@}.</translation_replace>
+      <translation_arg message_set="item name" required="true" />
+    </rewrite>
   </message_set>
 </replication>
