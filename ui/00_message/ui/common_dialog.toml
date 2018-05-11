@@ -2340,9 +2340,11 @@ old = '購入情報を処理しています'
 [[message]]
 key = 'ana_party_waiting_for_all'
 old = 'パーティー全員が参加するまで、しばらくお待ちください'
+new = 'Please wait a moment until all party members have joined.'
 [[message]]
 key = 'ana_party_waiting_for_me'
 old = 'パーティーメンバーがあなたの参加を待っています'
+new = 'Party members are waiting for you to join.'
 [[message]]
 key = 'ana_om_warp_nazo_warp'
 old = '今は転移の力を失っているようだ――'
