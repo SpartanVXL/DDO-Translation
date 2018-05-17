@@ -406,12 +406,12 @@
     </rewrite>
     <rewrite>
       <original_match>^時間内に死なずに全ての(.+)を(倒す|討伐する|全滅させる)$</original_match>
-      <translation_replace>Defeat all {0:d+} without dying in time</translation_replace>
+      <translation_replace>Defeat all {0:+} within time without dying</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)内のすべての(.+)を(倒す|討伐する|全滅させる)$</original_match>
-      <translation_replace>Defeat all {1:d+} in {0:d}</translation_replace>
+      <original_match>^(.+)内のすべての(.*)を(倒す|討伐する|全滅させる)$</original_match>
+      <translation_replace>Defeat all {1:+} in {0:d}</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
