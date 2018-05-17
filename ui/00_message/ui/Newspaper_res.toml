@@ -155,7 +155,7 @@ old = '報酬なし'
 [[message]]
 key = 'np_msg_update'
 old = '集計日: <DATE>'
-new = 'Scored: <DATE>'
+new = 'Tallied: <DATE>'
 [[message]]
 key = 'np_msg_starting'
 old = '開始直後'

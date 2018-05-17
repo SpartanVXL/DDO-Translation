@@ -4,6 +4,7 @@ old = 'Ranking Board'
 [[message]]
 key = 'RANKING_MSG_NAME'
 old = '名前'
+new = 'Name'
 [[message]]
 key = 'RANKING_MSG_CLAN'
 old = 'クラン'
@@ -23,7 +24,7 @@ new = 'Held: <DATE> ～ <DATE>'
 [[message]]
 key = 'RANKING_MSG_UPDATE'
 old = '集計日：<DATE>'
-new = 'Scored: <DATE>'
+new = 'Tallied: <DATE>'
 [[message]]
 key = 'RANKING_MSG_DIAROG_NONE'
 old = '集計していません'
@@ -55,6 +56,7 @@ old = '参加中'
 [[message]]
 key = 'RANKING_MSG_TITLE_JP'
 old = 'ランキングボード'
+new = 'Ranking Board'
 [[message]]
 key = 'RANKING_MSG_TITLE2_JP'
 old = 'ランキング'

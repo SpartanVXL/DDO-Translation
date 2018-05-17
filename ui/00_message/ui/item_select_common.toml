@@ -24,7 +24,7 @@ new = 'Select Item'
 [[message]]
 key = 'item_sel_infdelivery_title_jp'
 old = '納品するアイテムを選択してください'
-new = 'Please select items to delivery'
+new = 'Please select items to deliver.'
 [[message]]
 key = 'item_sel_sameitem_title_en'
 old = 'Same Item'
@@ -32,4 +32,4 @@ new = 'Same Item'
 [[message]]
 key = 'item_sel_sameitem_title_jp'
 old = '所持している同じアイテム一覧'
-new = 'List of same items possessed'
+new = 'List of same items possessed.'

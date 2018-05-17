@@ -466,92 +466,121 @@ old = '効能が切れているため、トレジャーズロットをまわす�
 [[message]]
 key = 'lde_msg_title_e'
 old = 'Large Delivery Event'
+new = 'Large Delivery Event'
 [[message]]
 key = 'lde_msg_title_j'
 old = '大口納品イベント'
+new = 'Large Delivery Event'
 [[message]]
 key = 'lde_msg_tab_01'
 old = 'イベント概要'
+new = 'Event Summary'
 [[message]]
 key = 'lde_msg_tab_02'
 old = '納品対象'
+new = 'Delivery Targets'
 [[message]]
 key = 'lde_msg_tab_03'
 old = '報酬リスト'
+new = 'Reward List'
 [[message]]
 key = 'lde_msg_tab_04'
 old = '詳細情報'
+new = 'Detailed Info'
 [[message]]
 key = 'lde_msg_btn_01'
 old = '報酬を受け取る'
+new = 'Receive Rewards'
 [[message]]
 key = 'lde_msg_btn_02'
 old = '納品する'
+new = 'Deliver'
 [[message]]
 key = 'lde_msg_btn_03'
 old = 'ランキング詳細'
+new = 'Ranking Details'
 [[message]]
 key = 'lde_msg_text_001'
 old = '開催スケジュール'
 [[message]]
 key = 'lde_msg_text_002'
 old = '個人成績'
+new = 'Personal Record'
 [[message]]
 key = 'lde_msg_text_003'
 old = '全体成績'
+new = 'Total Record'
 [[message]]
 key = 'lde_msg_text_004'
 old = '納品期間'
+new = 'Delivery Period'
 [[message]]
 key = 'lde_msg_text_005'
 old = '報酬受け取り期間'
+new = 'Reward Receive Period'
 [[message]]
 key = 'lde_msg_text_006'
 old = '獲得ポイント'
+new = 'Acquired Points'
 [[message]]
 key = 'lde_msg_text_007'
 old = 'ランキング'
+new = 'Ranking'
 [[message]]
 key = 'lde_msg_text_008'
 old = '対象アイテム'
+new = 'Target Item'
 [[message]]
 key = 'lde_msg_text_009'
 old = '獲得pt'
+new = 'Acquired pt'
 [[message]]
 key = 'lde_msg_text_010'
 old = 'ボーダー報酬'
+new = 'Border Rewards'
 [[message]]
 key = 'lde_msg_text_011'
 old = 'ランキング報酬'
+new = 'Ranking Rewards'
 [[message]]
 key = 'lde_msg_text_012'
 old = '全体ボーダー報酬'
+new = 'All Border Rewards'
 [[message]]
 key = 'lde_msg_text_013'
 old = '達成'
+new = 'Achieved'
 [[message]]
 key = 'lde_msg_text_014'
 old = '未達成'
+new = 'Unachieved'
 [[message]]
 key = 'lde_msg_text_015'
 old = '-'
+new = '-'
 [[message]]
 key = 'lde_msg_text_016'
 old = '受取可能'
+new = 'Receivable'
 [[message]]
 key = 'lde_msg_text_017'
 old = '受取済'
+new = 'Received'
 [[message]]
 key = 'lde_msg_text_018'
 old = '集計中'
+new = 'Tallying'
 [[message]]
 key = 'lde_msg_text_019'
 old = '集計確定'
+new = 'Tallied'
 [[message]]
 key = 'lde_msg_text_020'
 old = '''
 報酬アイテムをすべて受け取ります
 受け取り先を選択してください'''
+new = '''Please select a destination
+to receive all reward items.'''
 [[message]]
 key = 'lde_msg_text_021'
 old = 'に受け取りました'
@@ -560,6 +589,9 @@ key = 'lde_msg_err_001'
 old = '''
 ゲームメニューからは納品できません
 キャメロン、もしくは対象NPCに納品してください'''
+new = '''
+You cannot deliver from the Game Menu,
+please deliver to Cameron or the target NPC.'''
 [[message]]
 key = 'lde_msg_err_002'
 old = '納品期間を過ぎています'
@@ -577,6 +609,8 @@ old = '受取可能なアイテムがありません'
 [[message]]
 key = 'lde_msg_text_022'
 old = '位'
+new = ' Rank'
 [[message]]
 key = 'lde_msg_text_023'
 old = '時点'
+new = ''
