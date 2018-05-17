@@ -592,7 +592,7 @@ q22018029_00:                                                                   
 q22018030_00:                                                                          | 積怨の禍つ鎧
 q22018031_00: High Difficulty: Exorcising a Hundred Ghosts and a Thousand Demons       | 【高難度】百鬼千魔を調伏せよ
 q22018032_00: The White Terror                                                         | 真白き戦慄
-q22018033_00:                                                                          | いにしえの邪眼
+q22018033_00: Ancient Evil Eye                                                         | いにしえの邪眼
 q22018034_00:                                                                          | 暗然たる森の悪夢
 q22018035_00:                                                                          | 不撓不屈の証明
 q22018036_00:                                                                          | やるかたなき宿怨
@@ -609,7 +609,7 @@ q22018046_00: Time Restriction: 早暁の採虫道                              
 q22018047_00: Time Restriction: 鬼の居ぬ間の回収道                                              | 【時限採取】鬼の居ぬ間の回収道
 q22018048_00:                                                                          | 独りよがりの信念
 q22018049_00: High Difficulty: 逆襲の悪鬼軍                                                  | 【高難度】逆襲の悪鬼軍
-q22018050_00:                                                                          | 暗晦の炎
+q22018050_00: Flames of Darkness                                                       | 暗晦の炎
 q29300000_00: Dacreim Fortress Recapture Battle                                        | ダクレイム砦奪還戦
 q29300001_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
 q29300002_00:                                                                          | 霧の森の死闘
@@ -1297,11 +1297,11 @@ q50300007_00: The Demon of Darkness Awakens                                     
 q50300008_00: Bloodbane Isle's Feast of Madness                                        | 魔赤島の狂宴
 q50300009_00: The Deathly Battle of the Ancient Temple                                 | 古代神殿の死闘
 q50300010_00: The Dragon Awakened                                                      | 呼び覚まされし竜
-q50301000_00:                                                                          | 絶望と惨劇の砲声 限界域
+q50301000_00: Enfilade of Despair and Tragedy: Restricted Stage                        | 絶望と惨劇の砲声 限界域
 q50301001_00:                                                                          | 速壊の極み　ダクレイム砦
-q50302000_00:                                                                          | 誘う眼　限界域
+q50302000_00: The Inviting Eye: Restricted Stage                                       | 誘う眼　限界域
 q50302001_00:                                                                          | 速移の極み　ジフール砦
-q50303000_00:                                                                          | 暗晦の炎　限界域
+q50303000_00: Flames of Darkness: Restricted Stage                                     | 暗晦の炎　限界域
 q60000001_00: Fighter Tactics Trial: Break Attack                                      | 破攻の証　ファイター戦術試練
 q60000002_00: Gathering in the Clan Tavern                                             | クラン酒場に集う勇
 q60000003_00: Fighter Tactics Trial: A Stubborn Shield                                 | 頑盾の証　ファイター戦術試練
@@ -1534,8 +1534,8 @@ q60300410_00: Vocation Emblem Trial: Alchemist                                  
 q60300411_00: Vocation Emblem Trial: Spirit Lancer                                     | ジョブエンブレム試練　スピリットランサー
 q60300412_00: Vocation Emblem Trial: High Scepter                                      | ジョブエンブレム試練　ハイセプター
 q60300413_00: The Emblem Stone's Whereabouts                                           | エンブレムストーンの行方
-q60300500_00: Skill Augmentation: 火竜 Trial I                                           | 戦技の継承　火竜求道試練１
-q60300520_00: Skill Augmentation: 火竜 Trial II                                          | 戦技の継承　火竜求道試練２
+q60300500_00: Skill Augmentation: Fire Dragon Trial I                                  | 戦技の継承　火竜求道試練１
+q60300520_00: Skill Augmentation: Fire Dragon Trial II                                 | 戦技の継承　火竜求道試練２
 q60301000_00: The Darkness of Halloween                                                | ハロウィンの闇
 q60301002_00: Wish on a Shooting Star I                                                | 不思議な流れ星とみんなの願い＜１＞
 q60301003_00: Wish on a Shooting Star II                                               | 不思議な流れ星とみんなの願い＜２＞
@@ -1563,7 +1563,7 @@ q60319002_00: Feryana Wilderness: Liberation Army Support                       
 q60319003_00: Feryana Wilderness: Rescue Request                                       | フェルヤナ荒原　救援要請
 q60319004_00: Feryana Wilderness: Prevent Enemy Attack                                 | フェルヤナ荒原　敵襲撃阻止
 q60319010_00: Feryana Wilderness Trial: 魔の封印捜査                                         | フェルヤナ荒原　試練：魔の封印捜査
-q60319011_00:                                                                          | 古代の闇の中へ
+q60319011_00: Into the Ancient Darkness                                                | 古代の闇の中へ
 q60320000_00: Megadosys Plateau Trial: Material Procurement                            | メガドシス高地　試練：資材調達
 q60320001_00: Megadosys Plateau: Rescue Request                                        | メガドシス高地　救援要請
 q60320002_00: Megadosys Plateau: Liberation Army Support                               | メガドシス高地　解放軍支援
@@ -1578,22 +1578,22 @@ q80200002_00: Elementary Meat Dish                                              
 q80200003_00: Intermediate Vegetable Dish                                              | 野菜料理中級編
 q80200004_00: Intermediate Mushroom Dish                                               | キノコ料理中級編
 q80200005_00: Intermediate Meat Dish                                                   | 肉料理中級編
-q80201000_00:                                                                          | 駐労感謝の日
-q80201001_00:                                                                          | 始まりの扉
-q80201002_00:                                                                          | 禁断のスプラッシュ！
-q80201003_00:                                                                          | 名も無き墓標
-q80201004_00:                                                                          | 青空キャンプ
-q80201005_00:                                                                          | 不思議なかたち
-q80201006_00:                                                                          | 蒼き神樹
-q80201007_00:                                                                          | 楽園の扉
+q80201000_00: Labor Appreciation Day                                                   | 駐労感謝の日
+q80201001_00: Gate of Origin                                                           | 始まりの扉
+q80201002_00: Forbidden Splash!                                                        | 禁断のスプラッシュ！
+q80201003_00: Nameless Gravestone                                                      | 名も無き墓標
+q80201004_00: Blue Sky Camp                                                            | 青空キャンプ
+q80201005_00: Mysterious Shape                                                         | 不思議なかたち
+q80201006_00: Blue Heavenly Tree                                                       | 蒼き神樹
+q80201007_00: Gate of Paradise                                                         | 楽園の扉
 q80201008_00:                                                                          | 端正なる鋭槍
-q80201009_00:                                                                          | 湖畔の涼地
-q80201010_00:                                                                          | 賢者の墓参り
-q80201011_00:                                                                          | 本の虫？
+q80201009_00: Lush Lake Shore                                                          | 湖畔の涼地
+q80201010_00: A Visit to the Sage's Grave                                              | 賢者の墓参り
+q80201011_00: A Bookworm?                                                              | 本の虫？
 q80201012_00:                                                                          | 動かぬ番人
 q80201013_00:                                                                          | 厳かなる泉
-q80201014_00:                                                                          | 君を想う
-q80201015_00:                                                                          | 写っているのは――？
+q80201014_00: Thinking of You                                                          | 君を想う
+q80201015_00: What Is Being Photographed?                                              | 写っているのは――？
 q80201016_00:                                                                          | 改めて敬意を
 q80201017_00:                                                                          | 悩める右腕
 q80201018_00:                                                                          | 青田買い？
@@ -1607,7 +1607,7 @@ q80201025_00:                                                                   
 q80201026_00:                                                                          | 豪奢な隠れ家
 q80201027_00:                                                                          | 古城の眺望
 q80201028_00:                                                                          | お邪魔はしません
-q80201029_00:                                                                          | イニアスの猟奇
+q80201029_00: Seeking the Strange Inias                                                | イニアスの猟奇
 q80201030_00:                                                                          | 密猟駆逐作戦
 q80201031_00: The Lovely Archer                                                        | 可憐なる射手
 q80201032_00:                                                                          | 秘境の温泉
@@ -1623,7 +1623,7 @@ q80201041_00:                                                                   
 q80201042_00:                                                                          | 奇妙な屍竜
 q80201043_00:                                                                          | 秘めし豪運
 q80201044_00:                                                                          | とある錬金実験室
-q80201045_00:                                                                          | ドラゴンフォール
+q80201045_00: Dragon Falls                                                             | ドラゴンフォール
 q80201046_00:                                                                          | 遺りし噴水
 q80201047_00:                                                                          | 巨大機兵と共に
 q80201048_00:                                                                          | 王宮の面影
