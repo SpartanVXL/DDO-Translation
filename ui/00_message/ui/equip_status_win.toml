@@ -227,3 +227,6 @@ new = 'Skills'
 key = 'status_tab_job'
 old = 'ジョブ'
 new = 'Jobs'
+[[message]]
+key = 'status_error_equip_no_enough_empty'
+old = '倉庫の空きが不足しているため、装備変更ができませんでした'

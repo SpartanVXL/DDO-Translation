@@ -379,8 +379,8 @@ old = '武具の分解'
 new = 'Disassemble Arms'
 [[message]]
 key = 'poptop_recycle_gs_equip'
-old = 'ロット武具の分解'
-new = 'Disassemble Lot Arms'
+old = '特殊武具の分解'
+new = 'Disassemble Special Arms'
 [[message]]
 key = 'poptop_recycle_remaining_num_reset'
 old = '残り回数リセット'
