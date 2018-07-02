@@ -769,23 +769,23 @@ new = 'They are already the party leader.'
 [[message]]
 key = 'ana_INVITE_PARTY_ERR_LOST_PAWN'
 old = 'ロスト中のポーンは呼び出せません'
-new = 'That pawn cannot be called because they are Lost.'
+new = 'Pawn cannot be summoned because they are lost.'
 [[message]]
 key = 'ana_INVITE_PARTY_ERR_ALREADY_PAWN'
 old = 'すでにパーティーメンバーです'
-new = 'That pawn is already a party member.'
+new = 'Already a party member.'
 [[message]]
 key = 'ana_INVITE_PARTY_ERR_CRAFT_PAWN'
 old = 'クラフト中のポーンです'
-new = 'That pawn is currently crafting.'
+new = 'Pawn is currently crafting.'
 [[message]]
 key = 'ana_INVITE_PARTY_ERR_ADVENTURE_NUM'
 old = '冒険回数が0です'
-new = "That pawn's adventure count is 0."
+new = "Adventure count is 0."
 [[message]]
 key = 'ana_INVITE_PARTY_ERR_NO_MAIN_PAWN'
 old = '先にメインポーンを雇う必要があります'
-new = 'You cannot invite a support pawn without a main pawn.'
+new = 'A main pawn must be hired first.'
 [[message]]
 key = 'ana_INVITE_PARTY_ERR_NOT_LEADER'
 old = 'リーダー以外は誘えません'
@@ -797,7 +797,7 @@ new = 'Party invites are not possible in this area.'
 [[message]]
 key = 'ana_INVITE_PARTY_ERR_ALREADY_PL'
 old = '現在パーティーにいるメンバーです'
-new = 'That player is already in your party.'
+new = 'That player is currently in your party.'
 [[message]]
 key = 'ana_INVITE_PARTY_ERR_INVITED'
 old = '要請を受けています'
@@ -813,31 +813,31 @@ new = 'Party preparation could not be completed.'
 [[message]]
 key = 'ana_PAWN_RENTAL_ERR_RIM'
 old = 'リムが足りません'
-new = 'You do not have enough Rift Crystals to rent that pawn.'
+new = 'Insufficient Rift Crystals.'
 [[message]]
 key = 'ana_PAWN_RENTAL_ERR_NO_SPACE'
 old = '空き枠がありません'
-new = 'You have no free space to rent that pawn.'
+new = 'There is no free space.'
 [[message]]
 key = 'ana_PAWN_DELETE_ERR_PARTY'
 old = 'パーティーにいるポーンは削除できません'
-new = 'That pawn cannot be deleted because they are in your party.'
+new = 'Cannot delete pawn while they are in your party.'
 [[message]]
 key = 'ana_PAWN_DELETE_ERR_CRAFT'
 old = 'クラフト中のポーンです'
-new = 'That pawn cannot be deleted because they are crafting.'
+new = 'Cannot delete pawn while they are crafting.'
 [[message]]
 key = 'ana_PAWN_RETURN_ERR_PARTY'
 old = 'パーティーにいるポーンは返却できません'
-new = 'That pawn cannot be returned because they are in your party.'
+new = 'Cannot return pawn while they are in your party.'
 [[message]]
 key = 'ana_PAWN_RETURN_ERR_CRAFT'
 old = 'クラフト中のポーンです'
-new = 'That pawn cannot be returned because they are crafting.'
+new = 'Cannot return pawn while they are crafting.'
 [[message]]
 key = 'ana_GROUP_CHAT_ERR_ALREDY_MEMBER'
 old = 'すでにグループチャットのメンバーです'
-new = 'That player is already a member of the group chat.'
+new = 'Already a member of the group chat.'
 [[message]]
 key = 'ana_GROUP_CHAT_ERR_NOT_PLAYER'
 old = 'グループチャットに誘える相手ではありません'
@@ -845,43 +845,43 @@ new = 'Cannot invite to group chat because they are not a player.'
 [[message]]
 key = 'ana_GROUP_CHAT_KICK_ERR_MYSELF'
 old = '自分をキックすることはできません'
-new = 'You cannot kick yourself from a group chat.'
+new = 'Cannot kick yourself from a group chat.'
 [[message]]
 key = 'ana_EXPEL_CLAN_ERR_MYSELF'
 old = '自分を除名することはできません'
-new = 'You cannot expel yourself from a clan.'
+new = 'Cannot expel yourself from a clan.'
 [[message]]
 key = 'ana_CHANGE_CLAN_MASTER_ERR_MYSELF'
 old = 'クランマスターに変更できません'
-new = 'You cannot change the Clan Master.'
+new = 'Cannot change the Clan Master.'
 [[message]]
 key = 'ana_SET_CLAN_MEMBER_RANK_ERR_MYSELF'
 old = '自分にはクランランクを設定できません'
-new = 'You cannot change your own clan rank.'
+new = 'Cannot change your own clan rank.'
 [[message]]
 key = 'ana_FRIEND_ERR_MYSELF'
 old = '自分にフレンド申請はだせません'
-new = 'You cannot send a friend request to yourself.'
+new = 'Cannot send a friend request to yourself.'
 [[message]]
 key = 'ana_TELL_ERR_MYSELF'
 old = 'Tellは自分にできません'
-new = 'You cannot send a Tell to yourself.'
+new = 'Cannot send a Tell to yourself.'
 [[message]]
 key = 'ana_AUTORUN_ERR_PAWN'
 old = 'ポーンを対象に追従オートランできません'
-new = 'You cannot use autorun on a pawn.'
+new = 'Cannot use autorun on a pawn.'
 [[message]]
 key = 'ana_AUTORUN_ERR_MYSELF'
 old = '自分を対象に追従オートランできません'
-new = 'You cannot use autorun on yourself.'
+new = 'Cannot use autorun on yourself.'
 [[message]]
 key = 'ana_AUTORUN_ERR_NO_PARTY'
 old = 'パーティーメンバー以外に追従オートランできません'
-new = 'You cannot use autorun on non-party members.'
+new = 'Cannot use autorun on non-party members.'
 [[message]]
 key = 'ana_AUTORUN_ERR_NO_UNIT'
 old = '追従オートラン対象が同エリアにいません'
-new = 'The target is not in the same area for autorun.'
+new = 'Target is not in the same area for autorun.'
 [[message]]
 key = 'ana_ERR_UNKNOWN'
 old = '不明なエラーが発生しました'
@@ -2640,6 +2640,7 @@ old = '''
 [[message]]
 key = 'ana_jobmaster_order_report'
 old = '達成済みのジョブ修練をジョブマスターに報告しました'
+new = 'Accomplished Job Training has been reported to the Job Master.'
 [[message]]
 key = 'ana_common_item_get'
 old = 'アイテムを受け取りました'

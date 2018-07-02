@@ -9,11 +9,11 @@ new = 'Possessing Silver Tickets'
 [[message]]
 key = 'gacha_msg_num_goldenstone'
 old = '<VAL>個'
-new = '<VAL> Gem(s)'
+new = 'x<VAL>'
 [[message]]
 key = 'gacha_msg_num_ticket'
 old = '<VAL>枚'
-new = '<VAL> Ticket(s)'
+new = 'x<VAL>'
 [[message]]
 key = 'gacha_msg_draw'
 old = 'まわす'
@@ -21,7 +21,7 @@ new = 'Draw'
 [[message]]
 key = 'gacha_msg_multi_draw'
 old = 'まわす(<VAL>連続)'
-new = 'Draw (<VAL> Times)'
+new = 'Draw (<VAL> times)'
 [[message]]
 key = 'gacha_msg_no_stone_todaraw'
 old = '黄金石が不足しています。ロットを1回まわすには、黄金石<VAL>個が必要です'
@@ -502,6 +502,7 @@ new = 'Ranking Details'
 [[message]]
 key = 'lde_msg_text_001'
 old = '開催スケジュール'
+new = 'Schedule'
 [[message]]
 key = 'lde_msg_text_002'
 old = '個人成績'
@@ -595,17 +596,23 @@ please deliver to Cameron or the target NPC.'''
 [[message]]
 key = 'lde_msg_err_002'
 old = '納品期間を過ぎています'
+new = 'The delivery period has ended.'
 [[message]]
 key = 'lde_msg_err_003'
 old = '対象NPCに直接納品してください'
+new = 'Please deliver directly to the target NPC.'
 [[message]]
 key = 'lde_msg_err_004'
 old = '''
 ゲームメニューからは受け取りできません
 キャメロン、もしくは対象NPCから受け取ることができます'''
+new = '''
+You cannot receive from the Game Menu,
+please receive from Cameron or the target NPC.'''
 [[message]]
 key = 'lde_msg_err_005'
 old = '受取可能なアイテムがありません'
+new = 'There are no possible items to receive.'
 [[message]]
 key = 'lde_msg_text_022'
 old = '位'

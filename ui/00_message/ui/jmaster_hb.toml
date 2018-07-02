@@ -1,7 +1,7 @@
 ﻿[[message]]
 key = 'JMMH_MSG_ALLTASK_CLEAR_STR'
 old = '課題を達成し、ジョブマスターに報告しました'
-new = 'Challenge finished and reported to the Job Master.'
+new = 'Task finished and reported to the Job Master.'
 [[message]]
 key = 'JMMH_MSG_LV_STR'
 old = 'LV.'
@@ -9,7 +9,7 @@ new = 'LV.'
 [[message]]
 key = 'JMMH_MSG_TASK_STR'
 old = '<VAL>で課題を達成し、ジョブマスターに報告せよ'
-new = 'Report to the <VAL> Job Master to finish training.'
+new = 'Accomplish the task and report to the <VAL> Job Master.'
 [[message]]
 key = 'JMMH_MSG_SLASH_STR'
 old = '/'
@@ -70,10 +70,11 @@ new = ' Defeat blood orb enemies!'
 [[message]]
 key = 'JMMH_MSG_MASTER_HB_STR'
 old = 'Training Note'
+new = 'Training Note'
 [[message]]
 key = 'JMMH_MSG_TASK_EXAM_STR'
 old = '課題を達成し、ジョブマスターに報告せよ'
-new = 'Report to the Job Master to finish training.'
+new = 'Accomplish the task and report to the Job Master.'
 [[message]]
 key = 'JMMH_MSG_JOB_STR'
 old = 'ジョブ'
@@ -81,8 +82,8 @@ new = 'Vocations'
 [[message]]
 key = 'JMMH_MSG_NO_ORDER_STR'
 old = '課題はありません'
-new = 'No orders'
+new = 'There are no tasks.'
 [[message]]
 key = 'JMMH_MSG_JOB_CHANGE_ENABLE'
 old = '転職できるようになりました'
-new = 'Change vocation available'
+new = 'Vocation change available.'
