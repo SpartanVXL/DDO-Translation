@@ -612,7 +612,7 @@ q22018049_00: High Difficulty: 逆襲の悪鬼軍                               
 q22018050_00: Flames of Darkness                                                       | 暗晦の炎
 q29300000_00: Dacreim Fortress Recapture Battle                                        | ダクレイム砦奪還戦
 q29300001_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
-q29300002_00:                                                                          | 霧の森の死闘
+q29300002_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
 q29999989_00:                                                                          | クエスト検証用ID１
 q29999990_00:                                                                          | クエスト検証用ID２
 q29999991_00:                                                                          | 須田テスト突発！
@@ -763,6 +763,8 @@ q40000096_00: Securing Goods                                                    
 q40000097_00: Volden Materials Request                                                 | ボルド名産品の入手依頼
 q40000098_00: White Wings: Collection (Volden Mines)                                   | 白翼覚者隊・収集依頼　ボルド鉱山
 q40000099_00: White Wings: Delivery (Volden Mines)                                     | 白翼覚者隊・納品依頼　ボルド鉱山
+q40000100_00: Area Order: Volden Resupply                                              | ＜エリアオーダー＞ボルド補給
+q40000101_00:                                                                          | 渓谷を覆う影
 q40000102_00: Annoyances                                                               | うざいのよ
 q40000103_00: Worries                                                                  | 心配ごとについて
 q40000104_00: A Threat in Jingen                                                       | ジンゲンの脅威
@@ -1250,8 +1252,6 @@ q40300096_00:                                                                   
 q40300097_00:                                                                          | 無限課金討伐8
 q40300098_00:                                                                          | 無限課金討伐9
 q40300099_00:                                                                          | 無限課金討伐10
-q40300100_00:                                                                          | 北の盗賊村―討伐１
-q40300101_00:                                                                          | 北の盗賊村―討伐２
 q50000001_00: The Call of the Catacombs                                                | 地下墓場の誘い
 q50000002_00: Drawn to Ancient Power                                                   | 古き力に魅かれし者
 q50000003_00: The Ancient City's Legacy                                                | 古都の賜物
@@ -1502,6 +1502,7 @@ q60300031_00: Rescue the Genius Commander                                       
 q60300032_00: Expose the Dark Side to the One Operating behind the Scenes              | 暗部を暴きし暗躍者
 q60300040_00:                                                                          | 王家再興の褒章１
 q60300041_00:                                                                          | 王家再興の褒章２
+q60300042_00:                                                                          | 王家再興の褒章３
 q60300044_00:                                                                          | ハイセプターを継ぎし者
 q60300047_00: To the Bitterblack Maze                                                  | 黒呪の迷宮へ
 q60300050_00:                                                                          | 【調理日課】ティネス　調理支給
@@ -1717,9 +1718,9 @@ q90030202_00: Jifule Fortress Capture Battle                                    
 q90030203_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
 q90030204_00: Jifule Fortress Capture Battle: Enemy Annihilation                       | ジフール砦攻略戦　戦況：敵軍殲滅
 q90030205_00: Jifule Fortress Capture Battle: Boss Annihilation                        | ジフール砦攻略戦　戦況：大将討滅
-q90030300_00: The Deathly Battle of the Forest of Mist: Management                     | 霧の森の死闘：管理用
-q90030301_00: The Deathly Battle of the Forest of Mist: Main Event                     | 霧の森の死闘：本開催
-q90030302_00: The Deathly Battle of the Forest of Mist: Ranking                        | 霧の森の死闘：ランキング
-q90030303_00: The Deathly Battle of the Forest of Mist: Receive Reward                 | 霧の森の死闘：報酬受取
+q90030300_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
+q90030301_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
+q90030302_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
+q90030303_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
 q90030304_00: The Deathly Battle of the Forest of Mist: Enemy Annihilation             | 霧の森の死闘　戦況：敵軍殲滅
 q90030305_00: The Deathly Battle of the Forest of Mist: Boss Annihilation              | 霧の森の死闘　戦況：大将討滅
