@@ -89,8 +89,16 @@ key = 'CUSTOM_SKILL_COMMAND_09_231'
 old = '''
 <PADM>セットボタンを押し、左スティックを倒して５属性を選択<KEYM>セットボタンを押し、マウス移動で５属性を選択</KEYM>
 <KC ATTACK1>または<KC ATTACK2>を押して属性決定'''
+new = '''
+Press <PADM>the assigned button<KEYM>the assigned button</KEYM>, then select from <PADM>5<KEYM>5</KEYM>
+elements using <PADM>the left stick<KEYM>mouse movement</KEYM>.
+Press <KC ATTACK1> or <KC ATTACK2> to confirm element choice.'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_09_232'
 old = '''
 <PADM>セットボタンを押し、左スティックを倒して５属性を選択<KEYM>セットボタンを押し、マウス移動で５属性を選択</KEYM>
 <KC ATTACK1>または<KC ATTACK2>を押して属性決定'''
+new = '''
+Press <PADM>the assigned button<KEYM>the assigned button</KEYM>, then select from <PADM>5<KEYM>5</KEYM>
+elements using <PADM>the left stick<KEYM>mouse movement</KEYM>.
+Press <KC ATTACK1> or <KC ATTACK2> to confirm element choice.'''

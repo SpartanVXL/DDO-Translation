@@ -2138,6 +2138,7 @@ old = '悪しき竜'
 new = 'Evil Dragon'
 [message.format]
 proper = false
+pluralize = true
 [[message]]
 old = '闇の将'
 new = 'Shadow Master'

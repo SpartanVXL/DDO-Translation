@@ -138,3 +138,6 @@ old = '''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_05_208'
 old = 'セットボタンを押して詠唱、詠唱完了で発動'
+new = '''
+Press the assigned button to chant,
+activated on completion.'''

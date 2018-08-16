@@ -5,6 +5,12 @@
       <original_match>^(.+)のAPを取得できます$</original_match>
       <translation_replace>You can obtain
 {0} AP.</translation_replace>
+      <translation_arg message_set="area name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)のAPを取得できます$</original_match>
+      <translation_replace>You can obtain
+{0} AP.</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>

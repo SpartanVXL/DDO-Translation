@@ -1499,6 +1499,7 @@ new = 'Megadosys Plateau'
 [[message]]
 key = 'STAGE_NAME_465'
 old = 'ウルテカ山岳'
+new = 'Ulteca Mountains'
 [[message]]
 key = 'STAGE_NAME_466'
 old = 'ティネス砦'
@@ -1582,6 +1583,7 @@ old = '聖炎の参竜道'
 [[message]]
 key = 'STAGE_NAME_491'
 old = '聖炎の参竜道 上層'
+new = '聖炎の参竜道: Upper Level'
 [[message]]
 key = 'STAGE_NAME_493'
 old = 'ラスニテ地下水路'
@@ -1759,12 +1761,16 @@ new = 'Memory of Megadosys: War God Space'
 [[message]]
 key = 'STAGE_NAME_563'
 old = 'ウルテカの記憶'
+new = 'Memory of Ulteca'
+[message.format]
+proper = true
 [[message]]
 key = 'STAGE_NAME_564'
 old = '大地の記憶 聖炎の参竜道'
 [[message]]
 key = 'STAGE_NAME_565'
 old = 'ウルテカの記憶 武神の間'
+new = 'Memory of Ulteca: War God Space'
 [[message]]
 key = 'STAGE_NAME_566'
 old = '大地の記憶 王家の墓'
@@ -2018,6 +2024,10 @@ old = 'ボーナスダンジョン【HO】'
 [[message]]
 key = 'STAGE_NAME_662'
 old = 'ハイデル地下霊廟'
+new = 'Hidell Catacombs'
 [[message]]
 key = 'STAGE_NAME_701'
 old = '黄金宮'
+new = 'The Golden Palace'
+[message.format]
+new = 'Golden Palace'

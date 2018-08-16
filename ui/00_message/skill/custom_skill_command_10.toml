@@ -150,9 +150,19 @@ old = '''
 セットボタンを押す
 展開後、その場に留まることで展開時間を延長
 ヒールブーストで強化可能'''
+new = '''
+Press the assigned button.
+After deployment, extend duration by
+staying in place.
+Further enhanced with Heal Boost.'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_10_236'
 old = '''
 セットボタンを押す
 展開後、その場に留まることで展開時間を延長
 ヒールブーストで強化可能'''
+new = '''
+Press the assigned button.
+After deployment, extend duration by
+staying in place.
+Further enhanced with Heal Boost.'''
