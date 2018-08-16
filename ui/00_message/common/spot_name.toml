@@ -2228,6 +2228,7 @@ new = 'Captive Interrogation Prison'
 [[message]]
 key = 'SPOT_NAME_1052'
 old = 'サラマンダーコロニー'
+new = 'Salamander Colony'
 [[message]]
 key = 'SPOT_NAME_1053'
 old = '空望広場'
@@ -3098,20 +3099,14 @@ new = 'Lookout Castle: Harbor'
 key = 'SPOT_NAME_1282'
 old = 'ウルテカ山岳 東部'
 new = 'Eastern Ulteca Mountains'
-[message.format]
-proper = true
 [[message]]
 key = 'SPOT_NAME_1283'
 old = 'ウルテカ山岳 北部'
 new = 'Northern Ulteca Mountains'
-[message.format]
-proper = true
 [[message]]
 key = 'SPOT_NAME_1284'
 old = 'ウルテカ山岳 西部'
 new = 'Western Ulteca Mountains'
-[message.format]
-proper = true
 [[message]]
 key = 'SPOT_NAME_1285'
 old = '崩れた進入路'
