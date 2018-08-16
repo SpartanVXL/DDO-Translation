@@ -63,8 +63,10 @@ old = '''
 今回の旅を始めることにするとしよう'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 む――
@@ -78,8 +80,10 @@ old = '''
 そこまで送り届けよう'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 すまないが、わしはこの身を失う少し前から

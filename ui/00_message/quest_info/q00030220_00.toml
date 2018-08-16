@@ -9,21 +9,27 @@ old = '''
 [[message]]
 key = 'q00030220_00_4541'
 old = '展望城へ向かう'
+new = 'Head to the Lookout Castle'
 [[message]]
 key = 'q00030220_00_4542'
 old = 'ウルテカ山岳にある北の盗賊の集落へ向かう'
+new = 'Head to 北の盗賊の集落 in Ulteca Mountains'
 [[message]]
 key = 'q00030220_00_4544'
 old = '北の盗賊の頭目セロと話す'
+new = 'Speak with 北の盗賊の頭目セロ'
 [[message]]
 key = 'q00030220_00_4545'
 old = 'エリアマスターのバシアスと話す'
+new = 'Speak with バシアス, the Area Master'
 [[message]]
 key = 'q00030220_00_4546'
 old = '礎を解放する'
+new = 'Activate the portcrystal'
 [[message]]
 key = 'q00030220_00_4609'
 old = '捜索状況の確認へ向かう'
+new = 'Head to 捜索状況の確認'
 [[message]]
 key = 'q00030220_00_4547'
 old = 'ベルタの手の者と落ち合う'
@@ -39,24 +45,31 @@ old = '敵を殲滅し盗賊団員を助ける'
 [[message]]
 key = 'q00030220_00_4663'
 old = '助けた盗賊団員と話す'
+new = 'Speak with 助けた盗賊団員'
 [[message]]
 key = 'q00030220_00_4551'
 old = '新たな手掛かりの場所へ向かう'
+new = 'Head to 新たな手掛かりの場所'
 [[message]]
 key = 'q00030220_00_4552'
 old = '遭遇した敵を殲滅する'
+new = 'Defeat the enemy encountered'
 [[message]]
 key = 'q00030220_00_4553'
 old = '負傷した女性と話す'
+new = 'Speak with 負傷した女性'
 [[message]]
 key = 'q00030220_00_4554'
 old = 'スライと話す'
+new = 'Speak with Sly'
 [[message]]
 key = 'q00030220_00_4555'
 old = '北の盗賊の集落へ戻る'
 [[message]]
 key = 'q00030220_00_4556'
 old = '展望城へ戻りメイロワに報告する'
+new = 'Return to the Lookout Castle and report to Meirova'
 [[message]]
 key = 'q00030220_00_4664'
 old = 'レスタニアに帰還しジョゼフに報告する'
+new = 'Return to Lestania and report to Joseph'

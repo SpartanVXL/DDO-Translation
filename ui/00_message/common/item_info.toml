@@ -524,12 +524,15 @@ old = '''
 [[item]]
 id = 21622
 old = '細密なレリーフの刻まれたコイン'
+new = 'Coin with a finely detailed relief.'
 [[item]]
 id = 21621
 old = '細密なレリーフの刻まれたコイン'
+new = 'Coin with a finely detailed relief.'
 [[item]]
 id = 21620
 old = '細密なレリーフの刻まれたコイン'
+new = 'Coin with a finely detailed relief.'
 [[item]]
 id = 21619
 old = '''
@@ -539,6 +542,7 @@ old = '''
 [[item]]
 id = 21618
 old = '細密なレリーフの刻まれたコイン'
+new = 'Coin with a finely detailed relief.'
 [[item]]
 id = 21593
 old = ''
@@ -645,24 +649,36 @@ old = '''
 《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明'''
+new = '''
+Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.'''
 [[item]]
 id = 21282
 old = '''
 《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明'''
+new = '''
+Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.'''
 [[item]]
 id = 21281
 old = '''
 《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明'''
+new = '''
+Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.'''
 [[item]]
 id = 21280
 old = '''
 《鑑定交換》で利用できるジュエリー
 どんな効果を持つジュエリーになるかは
 現時点では不明'''
+new = '''
+Jewelry available in the "Appraisal Exchange".
+Its effect is unknown.'''
 [[item]]
 id = 21279
 old = '''
@@ -2810,6 +2826,9 @@ old = '''
 [[item]]
 id = 18825
 old = 'ウルテカ山岳のAPを取得できます'
+new = '''
+You can obtain
+Ulteca Mountains AP.'''
 [[item]]
 id = 18660
 old = '''

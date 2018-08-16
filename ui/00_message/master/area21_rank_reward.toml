@@ -1,6 +1,7 @@
 ﻿[[message]]
 key = 'AREA_RANK_REWARD_358'
 old = '支援品の配給'
+new = 'Distribution of support goods'
 [[message]]
 key = 'AREA_RANK_REWARD_359'
 old = '''
@@ -12,6 +13,7 @@ old = '魔物集結スポットが出現《<SPOT 1089>》'
 [[message]]
 key = 'AREA_RANK_REWARD_409'
 old = '支援品のランクアップ'
+new = 'Rank up of support goods'
 [[message]]
 key = 'AREA_RANK_REWARD_408'
 old = '''
@@ -28,6 +30,7 @@ old = '魔物集結スポットが出現《<SPOT 1090>》'
 [[message]]
 key = 'AREA_RANK_REWARD_411'
 old = '《<SPOT 1219>》に新たな強敵が出現'
+new = 'New powerful enemy at "<SPOT 1219>"'
 [[message]]
 key = 'AREA_RANK_REWARD_412'
 old = 'エリアの最重要依頼 《ウルテカ山岳　試練：闇の滴り 》 が発生'
@@ -36,3 +39,6 @@ key = 'AREA_RANK_REWARD_413'
 old = '''
 支援品のランクアップ
 封鎖エリアが開放《<SPOT 1103>》'''
+new = '''
+Rank up of support goods
+Unblock area "<SPOT 1103>"'''

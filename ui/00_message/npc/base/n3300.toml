@@ -8,8 +8,10 @@ old = '''
 どうだ、休んでいくのか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 具合が悪いなら寝床を用意してやる
@@ -18,8 +20,10 @@ old = '''
 ――それでもいいか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 《弱化の治療》か
@@ -28,8 +32,10 @@ old = '''
 手持ちの金は十分か？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 ――面白くもない冗談はやめろ

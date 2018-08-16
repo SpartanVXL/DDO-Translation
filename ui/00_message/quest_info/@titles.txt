@@ -74,6 +74,13 @@ q00030170_00: An Omen of Destruction                                            
 q00030180_00: A Brief Dragon Force                                                     | ひとときの竜力
 q00030190_00: The Plight of Lookout Castle                                             | 展望城の窮地
 q00030200_00: The Final Battle of the Royal Capital                                    | 王都の決戦
+q00030210_00:                                                                          | 消えた王子
+q00030220_00:                                                                          | ネドの足取り
+q00030230_00:                                                                          | 王家の墓
+q00030240_00:                                                                          | 恐ろしき道
+q00030250_00:                                                                          | 初代王の遺品
+q00030260_00:                                                                          | 望みの果て
+q00030270_00:                                                                          | 竜を継ぐ者
 q10300100_00:                                                                          | ニガい思い出の味
 q10300101_00:                                                                          | ティネス砦の食糧を調達する２
 q10300102_00: Despair of the Cook "Carrie"                                             | 絶望の料理番“キャリー”
@@ -610,9 +617,18 @@ q22018047_00: Time Restriction: 鬼の居ぬ間の回収道                     
 q22018048_00:                                                                          | 独りよがりの信念
 q22018049_00: High Difficulty: 逆襲の悪鬼軍                                                  | 【高難度】逆襲の悪鬼軍
 q22018050_00: Flames of Darkness                                                       | 暗晦の炎
+q22018051_00:                                                                          | 徘徊する炎の影
+q22018052_00:                                                                          | 石拾うにも苦難の道程
+q22018053_00:                                                                          | 真偽の判定者
+q22018054_00:                                                                          | 拭えぬ心労
+q22018055_00:                                                                          | 行方を眩ます陽炎
+q22018056_00: Time Restriction: 鬼の居ぬ間の採灰道                                              | 【時限採取】鬼の居ぬ間の採灰道
+q22018057_00:                                                                          | 悪を断ち切る抑止力
+q22018058_00: High Difficulty: アッカーシェラン各地より救援要請                                        | 【高難度】アッカーシェラン各地より救援要請
 q29300000_00: Dacreim Fortress Recapture Battle                                        | ダクレイム砦奪還戦
 q29300001_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
 q29300002_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
+q29300003_00:                                                                          | 蘇りし絶望の炎
 q29999989_00:                                                                          | クエスト検証用ID１
 q29999990_00:                                                                          | クエスト検証用ID２
 q29999991_00:                                                                          | 須田テスト突発！
@@ -1252,6 +1268,46 @@ q40300096_00:                                                                   
 q40300097_00:                                                                          | 無限課金討伐8
 q40300098_00:                                                                          | 無限課金討伐9
 q40300099_00:                                                                          | 無限課金討伐10
+q40300100_00:                                                                          | 密な情報共有
+q40300101_00:                                                                          | 誰かヘマしたのか？
+q40300102_00:                                                                          | 疲労困憊の盗伐依頼
+q40300103_00:                                                                          | 仮初のアジト、その安全
+q40300104_00:                                                                          | 巣ごと潰したいよな
+q40300105_00:                                                                          | 盗賊たちのゲーム
+q40300106_00:                                                                          | 若き紅一点の努力
+q40300107_00:                                                                          | 馴染みの狩人の不幸
+q40300108_00:                                                                          | 北の盗賊アジト、危機
+q40300109_00: Area Order: 北の盗賊のアジト Demon Extermination                                 | ＜エリアオーダー＞北の盗賊のアジト魔物征伐
+q40300110_00:                                                                          | 隠れアジトに咲く花
+q40300111_00:                                                                          | マルテンのメモ書き
+q40300112_00:                                                                          | 資材の管理ミス
+q40300113_00:                                                                          | 病気の子ブタ
+q40300114_00:                                                                          | アジトの寝床事情
+q40300115_00:                                                                          | 盗賊手製の腹薬
+q40300116_00:                                                                          | どちらかというと、募集
+q40300117_00:                                                                          | 今ばかりは勝手を慎み
+q40300118_00:                                                                          | 宙に浮いた買取り金
+q40300119_00: Area Order: 北の盗賊のアジト Resupply                                            | ＜エリアオーダー＞北の盗賊のアジト補給
+q40300120_00:                                                                          | 遠路、重い荷を背負って
+q40300121_00:                                                                          | 運動がてらの軽い討伐
+q40300122_00:                                                                          | 野営地の周辺の魔物
+q40300123_00:                                                                          | 並の戦力では敵わない
+q40300124_00:                                                                          | 軽やかな身のこなし
+q40300125_00:                                                                          | 諦観に撤退する狩人
+q40300126_00:                                                                          | 口を噤む詩人
+q40300127_00:                                                                          | 急務！　巣作りの妨害
+q40300128_00:                                                                          | 周辺魔物の動向確認
+q40300129_00: Area Order: 火垂れ山野営地 Demon Extermination                                  | ＜エリアオーダー＞火垂れ山野営地魔物征伐
+q40300130_00:                                                                          | 消えた目当ての休息所
+q40300131_00:                                                                          | アジトからの運搬コスト
+q40300132_00:                                                                          | 予備はあるに越したことがない
+q40300133_00:                                                                          | 異国から聞きつけて
+q40300134_00:                                                                          | 爪牙忘れぬ盗賊
+q40300135_00:                                                                          | 他言無用、納品依頼
+q40300136_00:                                                                          | 断熱靴下の試作
+q40300137_00:                                                                          | 秘密裡に進めたい取り引き
+q40300138_00:                                                                          | 盗賊料理の材料集め
+q40300139_00: Area Order: 火垂れ山野営地 Resupply                                             | ＜エリアオーダー＞火垂れ山野営地補給
 q50000001_00: The Call of the Catacombs                                                | 地下墓場の誘い
 q50000002_00: Drawn to Ancient Power                                                   | 古き力に魅かれし者
 q50000003_00: The Ancient City's Legacy                                                | 古都の賜物
@@ -1302,6 +1358,8 @@ q50301001_00:                                                                   
 q50302000_00: The Inviting Eye: Restricted Stage                                       | 誘う眼　限界域
 q50302001_00:                                                                          | 速移の極み　ジフール砦
 q50303000_00: Flames of Darkness: Restricted Stage                                     | 暗晦の炎　限界域
+q50309000_00:                                                                          | 【３周年記念】白竜杯
+q50309001_00:                                                                          | 【３周年記念】速移の極み
 q60000001_00: Fighter Tactics Trial: Break Attack                                      | 破攻の証　ファイター戦術試練
 q60000002_00: Gathering in the Clan Tavern                                             | クラン酒場に集う勇
 q60000003_00: Fighter Tactics Trial: A Stubborn Shield                                 | 頑盾の証　ファイター戦術試練
@@ -1497,12 +1555,14 @@ q60300011_00:                                                                   
 q60300020_00: To the Heroic Spirit Sleeping Path: Rathnite District                    | 英霊眠りし道へ　ラスニテ地方
 q60300021_00: To the Heroic Spirit Sleeping Path: Feryana District                     | 英霊眠りし道へ　フェルヤナ地方
 q60300022_00: To the Heroic Spirit Sleeping Path: Megadosys District                   | 英霊眠りし道へ　メガドシス地方
+q60300023_00: To the Heroic Spirit Sleeping Path: ウルテカ地方                               | 英霊眠りし道へ　ウルテカ地方
 q60300030_00: Save the Royal Family Cook                                               | 王家を救いし料理番
 q60300031_00: Rescue the Genius Commander                                              | 奪還を指揮せし異才者
 q60300032_00: Expose the Dark Side to the One Operating behind the Scenes              | 暗部を暴きし暗躍者
 q60300040_00:                                                                          | 王家再興の褒章１
 q60300041_00:                                                                          | 王家再興の褒章２
 q60300042_00:                                                                          | 王家再興の褒章３
+q60300043_00:                                                                          | 王家再興の褒章４
 q60300044_00:                                                                          | ハイセプターを継ぎし者
 q60300047_00: To the Bitterblack Maze                                                  | 黒呪の迷宮へ
 q60300050_00:                                                                          | 【調理日課】ティネス　調理支給
@@ -1521,6 +1581,17 @@ q60300106_00: Adventure Spot Guide: Feryana Wilderness III                      
 q60300107_00: Adventure Spot Guide: Megadosys Plateau I                                | 冒険スポットの手引き：メガドシス高地1
 q60300108_00: Adventure Spot Guide: Megadosys Plateau II                               | 冒険スポットの手引き：メガドシス高地2
 q60300109_00: Adventure Spot Guide: Megadosys Plateau III                              | 冒険スポットの手引き：メガドシス高地3
+q60300110_00: Adventure Spot Guide: Ulteca Mountains I                                 | 冒険スポットの手引き：ウルテカ山岳1
+q60300111_00: Adventure Spot Guide: Ulteca Mountains II                                | 冒険スポットの手引き：ウルテカ山岳2
+q60300112_00: Adventure Spot Guide: Ulteca Mountains III                               | 冒険スポットの手引き：ウルテカ山岳3
+q60300200_00:                                                                          | 王冠と王笏＜１＞
+q60300201_00:                                                                          | 王冠と王笏＜２＞
+q60300202_00:                                                                          | 王冠と王笏＜３＞
+q60300203_00:                                                                          | 王冠と王笏＜４＞
+q60300300_00:                                                                          | ガルドリンはどこだ！？
+q60300301_00:                                                                          | ガルドリンはどこだ！？
+q60300302_00:                                                                          | ガルドリンはどこだ！？
+q60300303_00:                                                                          | ガルドリンはどこだ！？
 q60300400_00: High Scepter Tactics Trial: A Magick Sword                               | 魔剣の証　ハイセプター戦術試練
 q60300401_00: Seeking the Master: High Scepter                                         | 求道の師を訪ねて　ハイセプター
 q60300402_00: Vocation Emblem Trial: Fighter                                           | ジョブエンブレム試練　ファイター
@@ -1548,6 +1619,10 @@ q60301022_00: The Only One in My Thoughts (For Men)                             
 q60301030_00: The Only One in My Thoughts (For Women)                                  | ただ一つの想い＜For Women＞
 q60301041_00: A Gift for You, My Love (1)                                              | 愛し君のための贈り物＜１＞
 q60301042_00: A Gift for You, My Love (2)                                              | 愛し君のための贈り物＜２＞
+q60301052_00:                                                                          | 緊急！　お菓子が足りない！＜１＞
+q60301053_00:                                                                          | 事件？　お菓子が足りない！＜２＞
+q60301055_00:                                                                          | 笑顔振りまくメリークリスマス＜１＞
+q60301056_00:                                                                          | 笑顔振りまくメリークリスマス＜２＞
 q60310000_00: Ghost Wail Collection: Suddenly a Different World                        | 【鬼哭蒐集】異世界は突然に
 q60310001_00: Ghost Wail Collection: Quest of Overlord                                 | 【鬼哭蒐集】クエストオブオーバーロード
 q60310002_00: Ghost Wail Collection: For Overlord Collaboration Set                    | 【鬼哭蒐集】オバロコラボセット用
@@ -1573,6 +1648,13 @@ q60320004_00: Megadosys Plateau: Prevent Enemy Attack                           
 q60320010_00: Megadosys Plateau Trial: Shadow of Heresy                                | メガドシス高地　試練：異端の影
 q60320011_00:                                                                          | 力に呑まれし王者
 q60320013_00: Berserk: In the Flow of Causality...                                     | 【ベルセルク】因果の流れの中に――
+q60321000_00: Ulteca Mountains Trial: 原種の縄張り                                           | ウルテカ山岳　試練：原種の縄張り
+q60321001_00: Ulteca Mountains Trial: 痛刻の洞                                             | ウルテカ山岳　試練：痛刻の洞
+q60321002_00: Ulteca Mountains Trial: 静かな抗戦跡                                           | ウルテカ山岳　試練：静かな抗戦跡
+q60321003_00: Ulteca Mountains Trial: 原初の集落                                            | ウルテカ山岳　試練：原初の集落
+q60321004_00: Ulteca Mountains Trial: 建設資材集積場                                          | ウルテカ山岳　試練：建設資材集積場
+q60321010_00: Ulteca Mountains Trial: 闇の滴り                                             | ウルテカ山岳　試練：闇の滴り
+q60321011_00:                                                                          | 彼方より堕ち呼ばれし魔道
 q80200000_00: Elementary Vegetable Dish                                                | 野菜料理初級編
 q80200001_00: Elementary Mushroom Dish                                                 | キノコ料理初級編
 q80200002_00: Elementary Meat Dish                                                     | 肉料理初級編
@@ -1718,9 +1800,16 @@ q90030202_00: Jifule Fortress Capture Battle                                    
 q90030203_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
 q90030204_00: Jifule Fortress Capture Battle: Enemy Annihilation                       | ジフール砦攻略戦　戦況：敵軍殲滅
 q90030205_00: Jifule Fortress Capture Battle: Boss Annihilation                        | ジフール砦攻略戦　戦況：大将討滅
-q90030300_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
-q90030301_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
-q90030302_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
-q90030303_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
+q90030300_00: The Deathly Battle of the Forest of Mist: Management                     | 霧の森の死闘：管理用
+q90030301_00: The Deathly Battle of the Forest of Mist: Main Event                     | 霧の森の死闘：本開催
+q90030302_00: The Deathly Battle of the Forest of Mist: Ranking                        | 霧の森の死闘：ランキング
+q90030303_00: The Deathly Battle of the Forest of Mist: Reward Receiving               | 霧の森の死闘：報酬受取
 q90030304_00: The Deathly Battle of the Forest of Mist: Enemy Annihilation             | 霧の森の死闘　戦況：敵軍殲滅
 q90030305_00: The Deathly Battle of the Forest of Mist: Boss Annihilation              | 霧の森の死闘　戦況：大将討滅
+q90030400_00:                                                                          | 蘇りし絶望の炎
+q90030401_00:                                                                          | 蘇りし絶望の炎
+q90030402_00:                                                                          | 蘇りし絶望の炎
+q90030403_00:                                                                          | 蘇りし絶望の炎
+q90030404_00:                                                                          | 蘇りし絶望の炎　戦況：悪しき竜再誕
+q90030405_00:                                                                          | 蘇りし絶望の炎　戦況：火垂れ山頂上
+q90030406_00:                                                                          | 蘇りし絶望の炎　戦況：限界域

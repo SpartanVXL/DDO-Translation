@@ -28,6 +28,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2718
 old = '行く手を阻む'
+new = 'Obstructing'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2717
@@ -300,6 +301,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2612
 old = '黒き戦士の家畜'
+new = "Black Soldier's Tamed"
 type = {old = 'Replace'}
 [[named_param]]
 id = 2610
@@ -420,6 +422,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2576
 old = '総大将・鬼神'
+new = 'Demon General'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2575
@@ -472,10 +475,12 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2563
 old = '・エクストラ'
+new = '(Extra)'
 type = {old = 'Suffix'}
 [[named_param]]
 id = 2562
 old = '・エクストラ'
+new = '(Extra)'
 type = {old = 'Suffix'}
 [[named_param]]
 id = 2561
@@ -604,14 +609,17 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2524
 old = '行く手を阻む'
+new = 'Obstructing'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2523
 old = '行く手を阻む'
+new = 'Obstructing'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2522
 old = '行く手を阻む'
+new = 'Obstructing'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2521
@@ -640,6 +648,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2515
 old = '急襲の'
+new = 'Raid'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2514
@@ -648,10 +657,12 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2508
 old = 'メダルオーナー'
+new = 'Medal Owner'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2507
 old = 'メダルコレクター'
+new = 'Medal Collector'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2506
@@ -664,10 +675,12 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2504
 old = 'メダルオーナー'
+new = 'Medal Owner'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2503
 old = 'メダルコレクター'
+new = 'Medal Collector'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2502
@@ -680,10 +693,12 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2500
 old = 'メダルオーナー'
+new = 'Medal Owner'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2499
 old = 'メダルコレクター'
+new = 'Medal Collector'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2498
@@ -696,10 +711,12 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2496
 old = 'メダルオーナー'
+new = 'Medal Owner'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2495
 old = 'メダルコレクター'
+new = 'Medal Collector'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2494
@@ -712,10 +729,12 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2492
 old = 'メダルオーナー'
+new = 'Medal Owner'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2491
 old = 'メダルコレクター'
+new = 'Medal Collector'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2490
@@ -728,10 +747,12 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2488
 old = 'メダルオーナー'
+new = 'Medal Owner'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2487
 old = 'メダルコレクター'
+new = 'Medal Collector'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2486
@@ -744,10 +765,12 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2484
 old = 'メダルオーナー'
+new = 'Medal Owner'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2483
 old = 'メダルコレクター'
+new = 'Medal Collector'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2482
@@ -760,10 +783,12 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2480
 old = 'メダルオーナー'
+new = 'Medal Owner'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2479
 old = 'メダルコレクター'
+new = 'Medal Collector'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2478
@@ -776,14 +801,17 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2044
 old = 'メダルオーナー'
+new = 'Medal Owner'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 1864
 old = '従属'
+new = 'Subordinate'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 1843
 old = 'メダルコレクター'
+new = 'Medal Collector'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 48

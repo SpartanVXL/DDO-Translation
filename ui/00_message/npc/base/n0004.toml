@@ -601,8 +601,10 @@ old = '''
 《「LV.80」成長の宝珠》を使うのか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 そうか
@@ -652,8 +654,10 @@ old = '''
 それでも宝珠を使うのか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 ふむ――このジョブで《「LV.80」成長の宝珠》を
@@ -662,8 +666,10 @@ old = '''
 宝珠を使ってもよいのか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 これは――このまま《「LV.80」成長の宝珠》を
@@ -671,8 +677,10 @@ old = '''
 今のジョブで宝珠を使うのか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 そうか
@@ -693,8 +701,10 @@ old = '''
 今、この宝珠の竜力を解放してもよいのか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 ほう――
@@ -729,8 +739,10 @@ old = '''
 old = '――さて、この宝珠の力を解放するか？'
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 そういえば、おまえはすでに
@@ -743,8 +755,10 @@ old = '''
 それでも、この宝珠の力を解放してもよいか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 宝珠の力を解放することで
@@ -773,8 +787,10 @@ old = '''
 この宝珠の力を解放するか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 宝珠の力を解放するには少し時間がかかる
@@ -790,8 +806,10 @@ old = '''
 それでも宝珠を使うのか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 ふむ――このジョブで
@@ -801,8 +819,10 @@ old = '''
 宝珠を使ってもよいのか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 これは――このまま
@@ -811,8 +831,10 @@ old = '''
 それでも、今のジョブで宝珠を使うのか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 そうか
@@ -859,8 +881,10 @@ old = '''
 この宝珠の力を解放するか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 ほう――
@@ -874,8 +898,10 @@ old = '''
 それでも、この宝珠の力を解放してもよいか？'''
 [[message]]
 old = 'はい'
+new = 'Yes'
 [[message]]
 old = 'いいえ'
+new = 'No'
 [[message]]
 old = '''
 この宝珠の力を解放したところで

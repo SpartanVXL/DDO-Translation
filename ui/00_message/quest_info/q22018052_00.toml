@@ -23,12 +23,15 @@ old = '''
 [[message]]
 key = 'q22018052_00_1166'
 old = '＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）'
+new = 'Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)'
 [[message]]
 key = 'q22018052_00_1167'
 old = '指定された場所へ魔物を探しに行く'
 [[message]]
 key = 'q22018052_00_1168'
 old = '発見した魔物を討伐する'
+new = 'Defeat the found demons'
 [[message]]
 key = 'q22018052_00_1169'
 old = '依頼者に報告する'
+new = 'Report to the requester'

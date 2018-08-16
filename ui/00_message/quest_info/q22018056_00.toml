@@ -1,6 +1,7 @@
 ﻿[[message]]
 key = 'q22018056_00_709'
 old = '【時限採取】鬼の居ぬ間の採灰道'
+new = 'Time Restriction: 鬼の居ぬ間の採灰道'
 [[message]]
 key = 'q22018056_00_709'
 old = '''
@@ -26,12 +27,15 @@ old = 'パーティメンバーを拠点内に集める'
 [[message]]
 key = 'q22018056_00_1305'
 old = 'エリアマスターから詳細を聞く'
+new = 'Inquire details from the Area Master'
 [[message]]
 key = 'q22018056_00_1293'
 old = '魔物集結スポットの傍にいる斥候に話しかける'
+new = 'Speak with 傍にいる斥候 at 魔物集結スポット'
 [[message]]
 key = 'q22018056_00_1294'
 old = '＜スポットボス未出現＞の間に＜魔物集結スポット＞で《<SQDI NAME>》を採取し＜5＞つ納品'
 [[message]]
 key = 'q22018056_00_1233'
 old = 'エリアマスターに《<SQDI NAME>》を＜<SQDI NUM>＞つ納品する'
+new = 'Deliver <SQDI NAME> x<SQDI NUM> to the Area Master'

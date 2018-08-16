@@ -1,5 +1,9 @@
 <replication>
   <message_set name="area name">
     <match>^ui\\00_message\\common\\area_list$</match>
+    <extra>
+      <original>ウルテカ山岳</original>
+      <translation>Ulteca Mountains</translation>
+    </extra>
   </message_set>
 </replication>

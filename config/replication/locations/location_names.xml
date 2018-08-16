@@ -446,6 +446,10 @@
       <original>大地の記憶</original>
       <translation>Memory of the Land</translation>
     </extra>
+    <extra>
+      <original>ウルテカ山岳</original>
+      <translation>Ulteca Mountains</translation>
+    </extra>
     <ignore>異界の狭間　深層部</ignore>
     <!-- Replicate area names -->
     <rewrite>
@@ -467,6 +471,12 @@
     <rewrite>
       <original_match>^(\S+)\s+(\S+)側$</original_match>
       <translation_replace>{1:c} {0}</translation_replace>
+      <translation_arg index="0" message_set="area name" required="true" />
+      <translation_arg index="1" message_set="cardinals" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(\S+)\s+(\S+)部$</original_match>
+      <translation_replace>{1:c}ern {0}</translation_replace>
       <translation_arg index="0" message_set="area name" required="true" />
       <translation_arg index="1" message_set="cardinals" required="true" />
     </rewrite>
