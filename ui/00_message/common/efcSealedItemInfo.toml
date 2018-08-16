@@ -43,6 +43,9 @@ new = '''
 Debilitation "Golden"
 added.'''
 [[message]]
+key = 'IDX_132'
+old = '吹き飛ばし力を上昇させる'
+[[message]]
 key = 'IDX_128'
 old = '体力を上昇させる'
 new = 'Increase Health Points.'
@@ -58,6 +61,9 @@ old = '''
 new = '''
 Debilitation "Sleep"
 added.'''
+[[message]]
+key = 'IDX_135'
+old = '気絶攻力を上昇させる'
 [[message]]
 key = 'IDX_129'
 old = 'スタミナを上昇させる'
@@ -79,6 +85,11 @@ new = '''
 Debilitation "Petrification"
 added.'''
 [[message]]
+key = 'IDX_147'
+old = '''
+状態異常【物攻低下】
+を付加する'''
+[[message]]
 key = 'IDX_130'
 old = '生命治癒力を上昇させる'
 new = 'Increase Healing Power.'
@@ -98,6 +109,11 @@ old = '''
 new = '''
 Debilitation "Slow"
 added.'''
+[[message]]
+key = 'IDX_148'
+old = '''
+状態異常【魔攻低下】
+を付加する'''
 [[message]]
 key = 'IDX_131'
 old = '耐久力を上昇させる'

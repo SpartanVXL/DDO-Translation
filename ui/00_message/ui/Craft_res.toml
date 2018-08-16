@@ -1077,3 +1077,23 @@ old = '''
 
 作業費用　：<VAL G>
 取得経験値：<VAL> (+<VAL>) <UNIT XP>'''
+[[message]]
+key = 'DIALOG_CONFIRM_REINFORCE_ADD_NO_SKIP'
+old = '''
+
+
+<COL ffdc78>このアイテムの強化では
+一度に２段階以上のグレードＵＰはできません</COL>
+
+次のグレードで必要な強化ポイントを満たしていても
+２段階目のグレードＵＰ直前でポイントが止まります'''
+[[message]]
+key = 'DIALOG_CONFIRM_REINFORCE_ADD_NO_NEXT_ITEM'
+old = '''
+
+
+<COL ffdc78>次のグレードＵＰで
+アイテムのグレードが最大になります</COL>'''
+[[message]]
+key = 'GUIDE_MSG_BUY_BAZAAR'
+old = 'バザーで必要素材を購入する'

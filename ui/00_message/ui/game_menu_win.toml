@@ -258,3 +258,15 @@ new = 'Adventure Guide'
 key = 'menu_infdelivery_event'
 old = '大口納品イベント'
 new = 'Large Delivery Event'
+[[message]]
+key = 'menu_exmboard_select'
+old = 'EXM募集掲示板'
+[[message]]
+key = 'menu_exmboard_dialog'
+old = 'エントリーするEXMを選択してください'
+[[message]]
+key = 'menu_board_select'
+old = '確認する掲示板を選択してください'
+[[message]]
+key = 'menu_partyboard_select'
+old = 'パーティー募集掲示板'

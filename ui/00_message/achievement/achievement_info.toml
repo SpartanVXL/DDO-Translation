@@ -6725,6 +6725,9 @@ key = 'ACHIEVEMENT_INFO_2850'
 old = 'クエスト「王都の決戦」クリア'
 new = 'Clear quest "The Final Battle of the Royal Capital"'
 [[message]]
+key = 'ACHIEVEMENT_INFO_2851'
+old = 'クエスト「竜を継ぐ者」クリア'
+[[message]]
 key = 'ACHIEVEMENT_INFO_2852'
 old = 'クエスト「魔軍戦車カトブレパス」クリア'
 new = 'Clear quest "Demon Army Tank Catoblepas"'
@@ -6779,6 +6782,68 @@ key = 'ACHIEVEMENT_INFO_2866'
 old = 'クエスト「王家再興の褒章３」クリア'
 new = 'Clear quest "王家再興の褒章３"'
 [[message]]
+key = 'ACHIEVEMENT_INFO_2867'
+old = 'クエスト「彼方より堕ち呼ばれし魔道」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2868'
+old = '「英霊眠りし道 ウルテカの記憶」のすべての力を授かる'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2870'
+old = 'ウォーミッション「蘇りし絶望の炎」で悪しき竜を討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2871'
+old = 'クエスト「王家再興の褒章４」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2872'
+old = '''
+ファイターのジョブレベルが
+100に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2873'
+old = '''
+ハンターのジョブレベルが
+100に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2874'
+old = '''
+プリーストのジョブレベルが
+100に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2875'
+old = '''
+シールドセージのジョブレベルが
+100に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2876'
+old = '''
+シーカーのジョブレベルが
+100に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2877'
+old = '''
+ソーサラーのジョブレベルが
+100に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2878'
+old = '''
+エレメントアーチャーのジョブレベルが
+100に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2879'
+old = '''
+ウォリアーのジョブレベルが
+100に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2880'
+old = '''
+アルケミストのジョブレベルが
+100に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2881'
+old = '''
+スピリットランサーのジョブレベルが
+100に到達'''
+[[message]]
 key = 'ACHIEVEMENT_INFO_2882'
 old = '''
 ハイセプターのジョブレベルが
@@ -6802,6 +6867,11 @@ old = '''
 ハイセプターのジョブレベルが
 80に到達'''
 new = 'Reach job level 80 as a High Scepter'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2886'
+old = '''
+ハイセプターのジョブレベルが
+100に到達'''
 [[message]]
 key = 'ACHIEVEMENT_INFO_2887'
 old = 'ハイセプターまでの11種のジョブレベルが80に到達'
@@ -6838,6 +6908,12 @@ new = 'Discover 200 subspecies in Mandragora Observation Journal'
 key = 'ACHIEVEMENT_INFO_2895'
 old = 'マンドラゴラ生態図鑑で230種類発見'
 new = 'Discover 230 subspecies in Mandragora Observation Journal'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2896'
+old = 'マンドラゴラ生態図鑑で270種類発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2897'
+old = 'マンドラゴラ生態図鑑で320種類発見'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2898'
 old = 'いずれかのエンブレムストーンのレベルが5に到達'
@@ -6959,6 +7035,24 @@ key = 'ACHIEVEMENT_INFO_2928'
 old = 'イフリートを100体討伐'
 new = 'Kill 100 Ifrits'
 [[message]]
+key = 'ACHIEVEMENT_INFO_2929'
+old = '悪しき竜を1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2930'
+old = '悪しき竜を10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2931'
+old = '悪しき竜を100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2932'
+old = 'ウシュムガルを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2933'
+old = 'ウシュムガルを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2934'
+old = 'ウシュムガルを100体討伐'
+[[message]]
 key = 'ACHIEVEMENT_INFO_2935'
 old = 'ラスニテ山麓で<ITEM 18738>を30個発見'
 new = 'Find 30 <ITEM 18738> in Rathnite Foothills'
@@ -6970,6 +7064,9 @@ new = 'Find 30 <ITEM 19652> in Feryana Wilderness'
 key = 'ACHIEVEMENT_INFO_2937'
 old = 'メガドシス高地で<ITEM 21252>を30個発見'
 new = 'Find 30 <ITEM 21252> in Megadosys Plateau'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2938'
+old = 'ウルテカ山岳で<ITEM 21292>を30個発見'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2939'
 old = '黒呪の迷宮を1周踏破'
@@ -6986,6 +7083,18 @@ new = 'Traverse Bitterblack Maze 10 times'
 key = 'ACHIEVEMENT_INFO_2942'
 old = '黒呪の迷宮を30周踏破'
 new = 'Traverse Bitterblack Maze 30 times'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2943'
+old = '黒呪の迷宮を50周踏破'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2944'
+old = '黒呪の迷宮を100周踏破'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2945'
+old = '黒呪の迷宮を200周踏破'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2946'
+old = '黒呪の迷宮を300周踏破'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2947'
 old = 'デスを1体討伐'

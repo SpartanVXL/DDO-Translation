@@ -622,3 +622,9 @@ new = ' Rank'
 key = 'lde_msg_text_023'
 old = '時点'
 new = ''
+[[message]]
+key = 'gacha_msg_ana_disable_reset'
+old = 'このロットはリセットできません'
+[[message]]
+key = 'gacha_msg_ana_no_lot_reset'
+old = 'ロットがまわっていないので、リセットできません'

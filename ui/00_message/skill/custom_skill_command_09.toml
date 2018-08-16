@@ -84,3 +84,13 @@ new = 'Press the assigned button.'
 key = 'CUSTOM_SKILL_COMMAND_09_230'
 old = 'セットボタンを押す'
 new = 'Press the assigned button.'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_09_231'
+old = '''
+<PADM>セットボタンを押し、左スティックを倒して５属性を選択<KEYM>セットボタンを押し、マウス移動で５属性を選択</KEYM>
+<KC ATTACK1>または<KC ATTACK2>を押して属性決定'''
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_09_232'
+old = '''
+<PADM>セットボタンを押し、左スティックを倒して５属性を選択<KEYM>セットボタンを押し、マウス移動で５属性を選択</KEYM>
+<KC ATTACK1>または<KC ATTACK2>を押して属性決定'''

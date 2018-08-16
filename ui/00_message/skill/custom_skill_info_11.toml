@@ -93,3 +93,11 @@ new = '''
 Create a vortex that deals Holy and Impact damage.
 <COL ffdc78>LV UP Increases damage of skill
 Lv.6 Increases number of hits.</COL>'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_11_243'
+old = '''
+刃に魔力を帯び、ノーマルスキルの剣技に残像を追加する
+ボタン再入力で、残像の攻撃回数に応じて強化された
+魔力吸収特化の一撃を放つ。発動中は魔力を消費し続ける
+<COL ffdc78>LV UP毎に発動中の魔力消費量が減少
+LV.6で再入力時の攻撃回数による強化段階が増加（１→２）'''

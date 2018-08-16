@@ -130,3 +130,11 @@ new = 'Press the assigned button.'
 key = 'CUSTOM_SKILL_COMMAND_05_206'
 old = 'セットボタンを押す'
 new = 'Press the assigned button.'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_05_207'
+old = '''
+セットボタンを押して詠唱、詠唱完了で発動
+発動後、再度セットボタンを押すと攻撃'''
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_05_208'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'

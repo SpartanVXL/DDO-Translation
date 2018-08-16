@@ -252,3 +252,16 @@ new = '''
 EX Additional Effects:
 Add invulnerability time when activated and jumping.
 Add dagger attack when in the air.'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_02_215'
+old = '''
+【ＥＸ追加効果】
+モーションが変化し、短剣による攻撃回数が増加
+爆発の攻撃ヒット数が増加'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_02_216'
+old = '''
+【ＥＸ追加効果】
+斬り上げと爆発の攻撃範囲が拡張
+爆発に炎防低下の状態異常が付与され
+延焼の状態異常蓄積値も増加'''

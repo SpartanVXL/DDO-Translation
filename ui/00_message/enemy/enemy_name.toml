@@ -1257,6 +1257,12 @@ key = 'ENEMY_NAME_319'
 old = 'ゴブリンエイドシャーマン'
 new = 'Goblin Aid Shaman'
 [[message]]
+key = 'ENEMY_NAME_320'
+old = 'ヘルハウンド'
+[[message]]
+key = 'ENEMY_NAME_321'
+old = 'ブレイズウルフ'
+[[message]]
 key = 'ENEMY_NAME_322'
 old = 'スケルトンワーグ'
 new = 'Skeleton Warg'
@@ -1264,6 +1270,9 @@ new = 'Skeleton Warg'
 key = 'ENEMY_NAME_323'
 old = '戦甲グリムワーグ'
 new = 'War-Ready Grimwarg'
+[[message]]
+key = 'ENEMY_NAME_324'
+old = 'スケルトンロード・アビス'
 [[message]]
 key = 'ENEMY_NAME_325'
 old = 'ジオリザードマン'
@@ -1285,6 +1294,18 @@ key = 'ENEMY_NAME_329'
 old = 'ブレイズハーピー'
 new = 'Blaze Harpy'
 [[message]]
+key = 'ENEMY_NAME_331'
+old = 'ストーンブロブ'
+[[message]]
+key = 'ENEMY_NAME_332'
+old = 'ブレイズゴブリン'
+[[message]]
+key = 'ENEMY_NAME_333'
+old = 'ハバネロ'
+[[message]]
+key = 'ENEMY_NAME_335'
+old = 'バーンドエント'
+[[message]]
 key = 'ENEMY_NAME_336'
 old = 'フォッデン'
 # Name comes from 'Fodden Skemaend'
@@ -1297,6 +1318,9 @@ new = 'Skeleton Cyclops'
 key = 'ENEMY_NAME_338'
 old = '戦甲ゴアサイクロプス'
 new = 'War-Ready Gorecyclops'
+[[message]]
+key = 'ENEMY_NAME_339'
+old = 'ブレイズキメラ'
 [[message]]
 key = 'ENEMY_NAME_340'
 old = 'ゴアマンティコア'
@@ -1386,11 +1410,20 @@ key = 'ENEMY_NAME_360'
 old = 'アンセスターオリジン'
 new = 'Ancestor Origin'
 [[message]]
+key = 'ENEMY_NAME_361'
+old = 'ブレイズグリゴリ'
+[[message]]
 key = 'ENEMY_NAME_363'
 old = 'イフリート'
 new = 'Ifrit'
 [message.format]
 pluralize = false
+[[message]]
+key = 'ENEMY_NAME_364'
+old = 'ウシュムガル'
+[[message]]
+key = 'ENEMY_NAME_365'
+old = '悪しき竜'
 [[message]]
 key = 'ENEMY_NAME_366'
 old = '打兵ドワーフオーク'
@@ -1408,12 +1441,27 @@ key = 'ENEMY_NAME_369'
 old = 'グリムゴブリンリーダー'
 new = 'Grim Goblin Leader'
 [[message]]
+key = 'ENEMY_NAME_371'
+old = 'サラマンダー'
+[[message]]
 key = 'ENEMY_NAME_373'
 old = 'レッドズール'
 new = 'Red Zuhl'
 [[message]]
+key = 'ENEMY_NAME_380'
+old = 'ブレイズゴブリンリーダー'
+[[message]]
+key = 'ENEMY_NAME_381'
+old = 'ボルトアイ'
+[[message]]
+key = 'ENEMY_NAME_382'
+old = '触手'
+[[message]]
 key = 'ENEMY_NAME_383'
 old = '烈火岩'
+[[message]]
+key = 'ENEMY_NAME_384'
+old = '悪しき竜用OM'
 [[message]]
 key = 'ENEMY_NAME_385'
 old = '怨塊'
@@ -1432,3 +1480,9 @@ new = 'Dwarf Orc'
 key = 'ENEMY_NAME_392'
 old = 'デス'
 new = 'Death'
+[[message]]
+key = 'ENEMY_NAME_393'
+old = '悪しき竜'
+[[message]]
+key = 'ENEMY_NAME_417'
+old = '悪しき竜'

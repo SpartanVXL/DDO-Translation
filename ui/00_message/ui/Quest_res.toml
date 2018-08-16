@@ -602,3 +602,30 @@ old = '詳細は参加ボタンを押して、エントリー画面でご確認�
 key = 'QUEST_MSG_ADV_GUIDE_CATEGORY_07'
 old = 'エリア試練/エリアミッション'
 new = 'Area Trial / Area Mission'
+[[message]]
+key = 'QUEST_MSG_MISSION_INFO_NOEQUIP_HEADER'
+old = '装備制限'
+[[message]]
+key = 'QUEST_MSG_MISSION_INFO_REWARD_EQUIP_HEADER'
+old = '報酬追加装備'
+[[message]]
+key = 'QUEST_MSG_MISSION_INFO_NOEQUIP_ARMOR'
+old = '防具は装備できません'
+[[message]]
+key = 'QUEST_MSG_MISSION_INFO_NOEQUIP_JEWELRY'
+old = 'ジュエリーは装備できません'
+[[message]]
+key = 'QUEST_MSG_MISSION_INFO_NOEQUIP_ABILITY'
+old = '以下のアビリティは装備できません'
+[[message]]
+key = 'QUEST_MSG_REGULATION_ERROR'
+old = '%sが%sを装備しているため、出撃できません'
+[[message]]
+key = 'QUEST_MSG_REGULATION_AROMOR'
+old = '防具'
+[[message]]
+key = 'QUEST_MSG_REGULATION_JEWELRY'
+old = 'ジュエリー'
+[[message]]
+key = 'QUEST_MSG_REGULATION_ABILITY'
+old = '禁止アビリティ'

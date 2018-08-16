@@ -322,3 +322,18 @@ Due to a high frequency of searches in a small timespan,
 we will restrict the use of the Bazaar search for a period of time.
 Please lower the frequency of searches in the future, and
 try again later.'''
+[[message]]
+key = 'bazaar_msg_announce_error_notcovered'
+old = '対象のアイテムはバザーで購入できません'
+[[message]]
+key = 'bazaar_msg_name_bazaar_en'
+old = 'Bazaar'
+[[message]]
+key = 'bazaar_msg_name_bazaar_jp'
+old = 'バザー'
+[[message]]
+key = 'bazaar_msg_name_required_material'
+old = '必要素材名'
+[[message]]
+key = 'bazaar_msg_name_num_listings'
+old = '出品数'

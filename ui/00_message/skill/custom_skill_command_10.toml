@@ -144,3 +144,15 @@ old = '''
 new = '''
 Press the assigned button.
 Further enhanced with Attack Boost.'''
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_10_235'
+old = '''
+セットボタンを押す
+展開後、その場に留まることで展開時間を延長
+ヒールブーストで強化可能'''
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_10_236'
+old = '''
+セットボタンを押す
+展開後、その場に留まることで展開時間を延長
+ヒールブーストで強化可能'''

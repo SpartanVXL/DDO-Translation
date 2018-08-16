@@ -195,3 +195,14 @@ old = '''
 new = '''
 EX Additional Effects:
 Attach an Aid/Aid More sphere at the impact point.'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_10_235'
+old = '''
+【ＥＸ追加効果】
+治癒上限値を徐々に回復する
+ヒールブースト時の攻撃力の上昇量が増加'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_10_236'
+old = '''
+【ＥＸ追加効果】
+耐久力を強化する効果を付与'''

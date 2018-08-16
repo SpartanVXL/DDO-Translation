@@ -1345,6 +1345,12 @@ old = '''
 <VAL>を閃きました'''
 new = '<NAME PAWN> was inspired with <VAL>.'
 [[message]]
+key = 'syslog_action_staff_of_wise'
+old = '“竜角の杖”の殲滅まで残り<VAL>本'
+[[message]]
+key = 'syslog_action_safety_dome'
+old = '杖から“護身の結界”が展開された'
+[[message]]
 key = 'syslog_gdm_get'
 old = '<UNTN GDM>を<VAL><UNIT GDM>、入手しました'
 new = '<UNTN GDM> <UNIT GDM><VAL> obtained.'
@@ -1425,6 +1431,9 @@ key = 'syslog_item_lockset_off'
 old = 'アイテムのセーフティ設定を解除しました'
 new = 'Item safety setting disabled.'
 [[message]]
+key = 'syslog_action_staff_of_wise_break'
+old = '“竜角の杖”を破壊せよ――'
+[[message]]
 key = 'syslog_action_ikai_11'
 old = '怨塊 残り“<VAL>個”――'
 new = '"<VAL>" Grudge Pillars left'
@@ -1444,3 +1453,66 @@ old = '''
 new = '''
 <NAME TARGET> was sacrificed at the Altar.
 Everyone has met with disaster'''
+[[message]]
+key = 'syslog_auto_cancel_navigate'
+old = '''
+冒険ガイドにクエストが存在しないため
+現在のナビゲート設定を解除しました'''
+[[message]]
+key = 'syslog_action_evildra_01'
+old = 'マグマから炎の力を吸収しようとしている――'
+[[message]]
+key = 'syslog_action_evildra_02'
+old = '悪しき竜は“火焔の竜晶”を召喚しようとしている――'
+[[message]]
+key = 'syslog_action_evildra_03'
+old = '''
+“火焔の竜晶”の出現により
+マグマが溜まっていく――'''
+[[message]]
+key = 'syslog_action_evildra_04'
+old = '''
+大量のマグマが溜まってきている
+悪しき竜が炎の力を吸収する時が近付く――'''
+[[message]]
+key = 'syslog_action_evildra_05'
+old = '死力を尽くした咆哮に、火垂れ山が揺れている――'
+[[message]]
+key = 'syslog_action_evildra_06'
+old = 'マグマが上昇し始めた――'
+[[message]]
+key = 'syslog_action_evildra_07'
+old = 'ここから、山頂へ脱出せよ――'
+[[message]]
+key = 'syslog_action_evildra_08'
+old = '''
+“火焔の竜晶”の出現により
+マグマの滝が流れ出した――'''
+[[message]]
+key = 'syslog_action_evildra_09'
+old = '''
+火口内にある“火焔の竜晶”を破壊したことで
+マグマの量が減り、戦闘エリアが広がった――'''
+[[message]]
+key = 'syslog_action_evildra_10'
+old = '''
+火口内にある“火焔の竜晶”をすべて破壊したことで
+マグマの量が減り、戦闘エリアが大きく広がった――'''
+[[message]]
+key = 'syslog_action_evildra_11'
+old = '''
+“魔炎の竜晶”の出現により
+地表からマグマが噴き上がる――'''
+[[message]]
+key = 'syslog_action_evildra_12'
+old = '''
+“魔岩の竜晶”の出現により
+空から火山弾が降り注ぐ――'''
+[[message]]
+key = 'syslog_action_evildra_13'
+old = '''
+“魔風の竜晶”の出現により
+熱風が吹き荒れている――'''
+[[message]]
+key = 'syslog_action_evildra_14'
+old = '悪しき竜が最後の命を燃やそうとしている――'

@@ -234,3 +234,15 @@ EX Additional Effects:
 Increase the altitude range of the attack.
 Add blow power to the lingering hits.
 Increase duration of the skill.'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_06_223'
+old = '''
+【ＥＸ追加効果】
+攻撃ヒット数が増加
+凍結の状態異常蓄積値が増加'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_06_224'
+old = '''
+【ＥＸ追加効果】
+氷の塊消滅後、氷粒の渦を展開
+氷防低下の状態異常を付与'''

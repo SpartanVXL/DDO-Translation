@@ -4012,6 +4012,12 @@ Increases the damage of Thrust More.
 <COL ffdc78>LV UP: Further increases damage dealt.
 LV5~6: Increases chance and exhaust attack.</COL>'''
 [[message]]
+key = 'ABILITY_INFO_498'
+old = '''
+発動すると前方へ大きく移動するスキルの
+ダメージ量が増加する
+<COL ffdc78>LV UP毎にダメージがより増加</COL>'''
+[[message]]
 key = 'ABILITY_INFO_262'
 old = '''
 闇防低下の状態異常への耐性が増加する
@@ -4113,6 +4119,12 @@ old = '''
 new = '''
 Increases Spirit Gauge gained from attacks.
 <COL ffdc78>LV UP: Further increases Gauge gains.</COL>'''
+[[message]]
+key = 'ABILITY_INFO_503'
+old = '''
+敵の攻撃に合わせて発動することで
+ダメージを与えるスキルのダメージ量が増加する
+<COL ffdc78>LV UP毎にダメージがより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_263'
 old = '''

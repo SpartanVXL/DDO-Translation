@@ -253,3 +253,15 @@ Increase the number of alchemical waves created and
 generation speed.
 Increase attack distance.
 Inflict Physic/Magick Defense Down effects.'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_09_231'
+old = '''
+【ＥＸ追加効果】
+エンチャントの効果を受けると
+自身のみエンチャント属性の状態異常蓄積値が
+大幅に増加'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_09_232'
+old = '''
+【ＥＸ追加効果】
+設置時のみ広範囲にエンチャント効果を付与'''

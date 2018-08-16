@@ -292,3 +292,8 @@ key = 'EDIT_MSG_DIALOG_SALON_2_CANCEL'
 old = '''
 転生をキャンセルします
 よろしいですか？'''
+[[message]]
+key = 'EDIT_MSG_DIALOG_SALON_2_ERR_02'
+old = '''
+性別が変更されていません
+容姿だけを変更する場合は、美容院をご利用ください'''

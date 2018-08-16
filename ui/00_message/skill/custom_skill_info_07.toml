@@ -265,3 +265,15 @@ EX Additional Effects:
 Increase damage of the additional hits after evasion
 if you avoid the enemy at the closest possible moment.
 Increase revenge gauge as you hit enemies.'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_07_227'
+old = '''
+【ＥＸ追加効果】
+モーションが変化し、攻撃ヒット数が増加
+のけぞり中にも発動可能'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_07_228'
+old = '''
+【ＥＸ追加効果】
+吹き飛ばし力が増加
+前方への攻撃範囲が大幅に拡張'''

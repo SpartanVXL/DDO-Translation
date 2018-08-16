@@ -252,3 +252,14 @@ new = '''
 EX Additional Effects:
 When enter the magick area, the curing effect
 lingers for an amount of time.'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_04_219'
+old = '''
+【ＥＸ追加効果】
+フィールドシフト時、
+１度だけ攻撃を無効化する魔球を付与'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_04_220'
+old = '''
+【ＥＸ追加効果】
+風圧と地震を無効にする'''

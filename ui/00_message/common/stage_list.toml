@@ -1497,6 +1497,9 @@ key = 'STAGE_NAME_464'
 old = 'メガドシス高地'
 new = 'Megadosys Plateau'
 [[message]]
+key = 'STAGE_NAME_465'
+old = 'ウルテカ山岳'
+[[message]]
 key = 'STAGE_NAME_466'
 old = 'ティネス砦'
 new = 'Fort Thines'
@@ -1571,6 +1574,15 @@ key = 'STAGE_NAME_488'
 old = '城塞都市メガド 王宮層'
 new = 'Fortress City Megado: Royal Palace Level'
 [[message]]
+key = 'STAGE_NAME_489'
+old = 'メガド離宮'
+[[message]]
+key = 'STAGE_NAME_490'
+old = '聖炎の参竜道'
+[[message]]
+key = 'STAGE_NAME_491'
+old = '聖炎の参竜道 上層'
+[[message]]
 key = 'STAGE_NAME_493'
 old = 'ラスニテ地下水路'
 new = 'Rathnite Underground Waterway'
@@ -1617,6 +1629,15 @@ new = 'Megado Water Supply Network'
 [[message]]
 key = 'STAGE_NAME_506'
 old = '戦練の社'
+[[message]]
+key = 'STAGE_NAME_507'
+old = '憩いの坑洞'
+[[message]]
+key = 'STAGE_NAME_508'
+old = '火垂れ山拝竜院'
+[[message]]
+key = 'STAGE_NAME_509'
+old = '悼まれぬ者の葬室'
 [[message]]
 key = 'STAGE_NAME_511'
 old = 'ピレモス旅人宿'
@@ -1681,6 +1702,9 @@ key = 'STAGE_NAME_526'
 old = 'ボーナスダンジョン【ゴールド】'
 new = 'Bonus Dungeon (G)'
 [[message]]
+key = 'STAGE_NAME_548'
+old = '[イベント]ED用黒のエフェクト部屋'
+[[message]]
 key = 'STAGE_NAME_549'
 old = '英霊眠りし道 ラスニテ山麓'
 new = 'Heroic Spirit Sleeping Path: Rathnite Foothills'
@@ -1732,6 +1756,21 @@ new = 'Memory of Megadosys Old Road'
 key = 'STAGE_NAME_561'
 old = 'メガドシスの記憶 武神の間'
 new = 'Memory of Megadosys: War God Space'
+[[message]]
+key = 'STAGE_NAME_563'
+old = 'ウルテカの記憶'
+[[message]]
+key = 'STAGE_NAME_564'
+old = '大地の記憶 聖炎の参竜道'
+[[message]]
+key = 'STAGE_NAME_565'
+old = 'ウルテカの記憶 武神の間'
+[[message]]
+key = 'STAGE_NAME_566'
+old = '大地の記憶 王家の墓'
+[[message]]
+key = 'STAGE_NAME_567'
+old = '大地の記憶 火垂れ山野営地'
 [[message]]
 key = 'STAGE_NAME_569'
 old = '冥府下りの洞穴 深層部'
@@ -1787,6 +1826,12 @@ new = 'Fortress City Megado: Craft Room'
 key = 'STAGE_NAME_581'
 old = '黒示す王の間'
 [[message]]
+key = 'STAGE_NAME_582'
+old = '王家の墓'
+[[message]]
+key = 'STAGE_NAME_583'
+old = '悪しき竜のねぐら'
+[[message]]
 key = 'STAGE_NAME_584'
 old = 'エリ警備塔'
 new = 'Eli Guard Tower'
@@ -1802,6 +1847,9 @@ old = '隠匿の王間'
 [[message]]
 key = 'STAGE_NAME_587'
 old = '魔界村地下墓地'
+[[message]]
+key = 'STAGE_NAME_588'
+old = '悪しき竜のねぐら'
 [[message]]
 key = 'STAGE_NAME_589'
 old = 'メガドシス古道'
@@ -1821,6 +1869,12 @@ new = 'Sage Tower Ruins'
 key = 'STAGE_NAME_593'
 old = '古テキア洞窟'
 new = 'Old Tekia Grotto'
+[[message]]
+key = 'STAGE_NAME_594'
+old = '北の盗賊のアジト'
+[[message]]
+key = 'STAGE_NAME_595'
+old = '火垂れ山野営地'
 [[message]]
 key = 'STAGE_NAME_596'
 old = '霧の森'
@@ -1863,6 +1917,12 @@ new = 'Bitterblack Maze: Rotunda of Dread'
 key = 'STAGE_NAME_607'
 old = '王家の隠れ部屋 メガドシス高地'
 [[message]]
+key = 'STAGE_NAME_608'
+old = '王家の隠れ部屋 ウルテカ山岳'
+[[message]]
+key = 'STAGE_NAME_609'
+old = '崩れた進入路'
+[[message]]
 key = 'STAGE_NAME_610'
 old = '黒呪の迷宮：冥府１'
 new = 'Bitterblack Maze: Netherworld 1'
@@ -1874,6 +1934,9 @@ new = 'Bitterblack Maze: Netherworld 1'
 key = 'STAGE_NAME_612'
 old = '黒呪の迷宮：冥府１'
 new = 'Bitterblack Maze: Netherworld 1'
+[[message]]
+key = 'STAGE_NAME_613'
+old = '悪しき竜のねぐら'
 [[message]]
 key = 'STAGE_NAME_614'
 old = '黒呪の迷宮：冥府２'
@@ -1937,3 +2000,24 @@ new = 'Event Dungeon'
 [[message]]
 key = 'STAGE_NAME_645'
 old = '王家の隠れ部屋 メガドシス高地'
+[[message]]
+key = 'STAGE_NAME_646'
+old = '王家の隠れ部屋 ウルテカ山岳'
+[[message]]
+key = 'STAGE_NAME_647'
+old = '王家の隠れ部屋 ウルテカ山岳'
+[[message]]
+key = 'STAGE_NAME_648'
+old = '王家の隠れ部屋 ウルテカ山岳'
+[[message]]
+key = 'STAGE_NAME_660'
+old = 'ボーナスダンジョン【JP】'
+[[message]]
+key = 'STAGE_NAME_661'
+old = 'ボーナスダンジョン【HO】'
+[[message]]
+key = 'STAGE_NAME_662'
+old = 'ハイデル地下霊廟'
+[[message]]
+key = 'STAGE_NAME_701'
+old = '黄金宮'

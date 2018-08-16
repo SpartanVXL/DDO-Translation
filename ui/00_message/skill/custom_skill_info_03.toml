@@ -250,3 +250,18 @@ EX Additional Effects:
 Increase moving speed during bow stance.
 Extend the optimal shooting range.
 Extend the shooting range.'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_03_199'
+old = '''
+【ＥＸ追加効果】
+溜め時間短縮
+起爆時の爆発ダメージ量が増加
+溜め２段階で、中央の爆発の攻撃ヒット数が増加'''
+[[message]]
+key = 'CUSTOM_SKILL_INFO_03_200'
+old = '''
+【ＥＸ追加効果】
+溜め時間短縮
+爆薬矢に継続ダメージを付与
+攻撃により起爆しなくなり
+時間による起爆時の威力が増加'''

@@ -345,3 +345,6 @@ new = 'Need %s magick gauge!'
 key = 'hud_notice_no_charm_stack'
 old = '魔力が%sスタック以上ありません'
 new = 'Need %s magick stack!'
+[[message]]
+key = 'hud_name_om_safetydome'
+old = '護身の結界'

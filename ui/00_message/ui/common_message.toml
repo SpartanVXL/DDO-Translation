@@ -649,3 +649,9 @@ new = 'Visit Allowed'
 key = 'common_msg_visit_off'
 old = '訪問を許可しない'
 new = 'Visit Denied'
+[[message]]
+key = 'common_msg_pawnthink_totalnum'
+old = '育成LV'
+[[message]]
+key = 'common_language_ng'
+old = 'NG'
