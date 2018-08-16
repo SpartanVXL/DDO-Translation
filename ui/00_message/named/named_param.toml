@@ -8205,7 +8205,10 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2525
 old = '悪しき竜'
+new = 'The Evil Dragon'
 type = {old = 'Replace'}
+[named_param.format]
+new = 'Evil Dragon'
 [[named_param]]
 id = 2526
 old = ''
