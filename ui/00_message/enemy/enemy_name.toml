@@ -1259,9 +1259,11 @@ new = 'Goblin Aid Shaman'
 [[message]]
 key = 'ENEMY_NAME_320'
 old = 'ヘルハウンド'
+new = 'Hellhound'
 [[message]]
 key = 'ENEMY_NAME_321'
 old = 'ブレイズウルフ'
+new = 'Blaze Wolf'
 [[message]]
 key = 'ENEMY_NAME_322'
 old = 'スケルトンワーグ'
@@ -1273,6 +1275,7 @@ new = 'War-Ready Grimwarg'
 [[message]]
 key = 'ENEMY_NAME_324'
 old = 'スケルトンロード・アビス'
+new = 'Skeleton Lord (Abyss)'
 [[message]]
 key = 'ENEMY_NAME_325'
 old = 'ジオリザードマン'
@@ -1296,15 +1299,19 @@ new = 'Blaze Harpy'
 [[message]]
 key = 'ENEMY_NAME_331'
 old = 'ストーンブロブ'
+new = 'Stone Blob'
 [[message]]
 key = 'ENEMY_NAME_332'
 old = 'ブレイズゴブリン'
+new = 'Blaze Goblin'
 [[message]]
 key = 'ENEMY_NAME_333'
 old = 'ハバネロ'
+new = 'Habanero'
 [[message]]
 key = 'ENEMY_NAME_335'
 old = 'バーンドエント'
+new = 'Burned Ent'
 [[message]]
 key = 'ENEMY_NAME_336'
 old = 'フォッデン'
@@ -1321,6 +1328,7 @@ new = 'War-Ready Gorecyclops'
 [[message]]
 key = 'ENEMY_NAME_339'
 old = 'ブレイズキメラ'
+new = 'Blaze Chimera'
 [[message]]
 key = 'ENEMY_NAME_340'
 old = 'ゴアマンティコア'
@@ -1412,6 +1420,7 @@ new = 'Ancestor Origin'
 [[message]]
 key = 'ENEMY_NAME_361'
 old = 'ブレイズグリゴリ'
+new = 'Blaze Grigori'
 [[message]]
 key = 'ENEMY_NAME_363'
 old = 'イフリート'
@@ -1421,10 +1430,16 @@ pluralize = false
 [[message]]
 key = 'ENEMY_NAME_364'
 old = 'ウシュムガル'
+new = 'Ushumgal'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_365'
 old = '悪しき竜'
+new = 'The Evil Dragon'
+[message.format]
 new = 'Evil Dragon'
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_366'
 old = '打兵ドワーフオーク'
@@ -1444,6 +1459,7 @@ new = 'Grim Goblin Leader'
 [[message]]
 key = 'ENEMY_NAME_371'
 old = 'サラマンダー'
+new = 'Salamander'
 [[message]]
 key = 'ENEMY_NAME_373'
 old = 'レッドズール'
@@ -1451,9 +1467,11 @@ new = 'Red Zuhl'
 [[message]]
 key = 'ENEMY_NAME_380'
 old = 'ブレイズゴブリンリーダー'
+new = 'Blaze Goblin Leader'
 [[message]]
 key = 'ENEMY_NAME_381'
 old = 'ボルトアイ'
+new = 'Volt Eye'
 [[message]]
 key = 'ENEMY_NAME_382'
 old = '触手'
@@ -1485,8 +1503,14 @@ new = 'Death'
 [[message]]
 key = 'ENEMY_NAME_393'
 old = '悪しき竜'
+new = 'The Evil Dragon'
+[message.format]
 new = 'Evil Dragon'
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_417'
 old = '悪しき竜'
+new = 'The Evil Dragon'
+[message.format]
 new = 'Evil Dragon'
+pluralize = false
