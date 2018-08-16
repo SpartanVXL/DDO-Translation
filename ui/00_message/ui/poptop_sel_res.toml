@@ -121,10 +121,8 @@ old = 'ポーンを入れる'
 new = 'Invite Pawn'
 [[message]]
 key = 'poptop_player_search'
-#NEEDS REVIEW
-#プレイヤー検索
 old = 'パーティー検索'
-new = 'Player Search'
+new = 'Party Search'
 [[message]]
 key = 'poptop_member_info'
 old = 'パーティーメンバー確認'

@@ -96,15 +96,12 @@ Slows the drain of the Spirit Gauge in normal mode.
 <COL ffdc78>LV UP: Further slows the drain.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_467'
-#NEEDS REVIEW
-#魔印の減退速度が低下する
-#<COL ffdc78>LVUP毎により減退速度がさらに低下</COL>
 old = '''
 魔印の減退速度が低下する
 <COL ffdc78>LV UP毎により減退速度がさらに低下</COL>'''
 new = '''
 Slows the drain of Magick Glyph.
-<COL ffdc78>LVUP Further decreases the drain.下</COL>'''
+<COL ffdc78>LV UP: Further decreases the drain.下</COL>'''
 [[message]]
 key = 'ABILITY_INFO_4'
 old = '''
@@ -212,17 +209,13 @@ Health recovers when collecting items
 <COL ffdc78>LV UP: Recovered amount increases.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_473'
-#NEEDS REVIEW
-#属性の付与されたルイン・ブレードで
-#より敵を状態異常にかかりやすくする
-#<COL ffdc78>LVUP毎に状態異常値がより増加</COL>
 old = '''
 属性の付与されたルイン・ブレードで
 より敵を状態異常にかかりやすくする
 <COL ffdc78>LV UP毎に状態異常値がより増加</COL>'''
 new = '''
 Ruin Blade accumulates element faster when enchanted.
-<COL ffdc78>LVUP Increases status effect accumulation.</COL>'''
+<COL ffdc78>LV UP: Increases status effect accumulation.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_15'
 old = '''
@@ -330,15 +323,12 @@ Their maximum stamina is increased for a certain period of time.
 <COL ffdc78>LV UP: Increases duration further.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_478'
-#NEEDS REVIEW
-#攻撃を受けて体勢を崩された際の魔印を減退を抑える
-#<COL ffdc78>LVUP毎に減退量がさらに軽減</COL>
 old = '''
 攻撃を受けて体勢を崩された際の魔印の減退速度が低下する
 <COL ffdc78>LV UP毎により減退速度がさらに低下</COL>'''
 new = '''
 Slows the drain of Magick Glyph when you are damaged or staggered.
-<COL ffdc78>LVUP Further reduces the drain.</COL>'''
+<COL ffdc78>LV UP: Further reduces the drain.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_5'
 old = '''
@@ -443,18 +433,13 @@ Increases swirling speed of Scar Move.
 <COL ffdc78>LV UP: Further increases speed.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_469'
-#NEEDS REVIEW
-#ルイン・ショットのダメージ量と
-#吹き飛ばし力と弾速が増加する
-#<COL ffdc78>LVUP毎にダメージと吹き飛ばし力がより増加</COL>
 old = '''
 ルイン・ショットのダメージ量と
 吹き飛ばし力と弾速が増加する
 <COL ffdc78>LV UP毎にダメージと吹き飛ばし力がより増加</COL>'''
 new = '''
 Increases damage and blow power of Ruin Shot.
-<COL ffdc78>LVUP Further increases damage and blow power.</COL>
-    '''
+<COL ffdc78>LV UP: Further increases damage and blow power.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_1'
 old = '''
@@ -559,16 +544,13 @@ when you stand at death's door.
 <COL ffdc78>LV UP: Further increases gained amount.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_468'
-#NEEDS REVIEW
-#瀕死時に剣による攻撃の魔力吸収量が増加する
-#<COL ffdc78>LVUP毎に魔力吸収量がより増加</COL>
 old = '''
 瀕死時に剣による攻撃の魔力吸収量が増加する
 <COL ffdc78>LV UP毎に魔力吸収量がより増加</COL>'''
 new = '''
 Increases the amount of magick absorbed from
 sword attacks when you stand at death's door.
-<COL ffdc78>LVUP Further increases magickal energy absoprtion.</COL>'''
+<COL ffdc78>LV UP: Further increases magickal energy absoprtion.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_9'
 old = '''
@@ -678,15 +660,12 @@ Gain a portion of spirit when collecting items
 <COL ffdc78>LV UP: Further increases gained amount.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_483'
-#NEEDS REVIEW
-#疲労攻力が上昇する
-#<COL ffdc78>LVUP毎に疲労攻力がより増加</COL>
 old = '''
 疲労攻力が上昇する
 <COL ffdc78>LV UP毎に疲労攻力がより増加</COL>'''
 new = '''
 Increases exhaust attack.
-<COL ffdc78>LVUP Further increases exhaust attack.</COL>'''
+<COL ffdc78>LV UP: Further increases exhaust attack.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_16'
 old = '''
@@ -801,16 +780,13 @@ Their Physical and Magick Defense is increased for a period of time.
 <COL ffdc78>LV UP: Increases effect duration.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_485'
-#NEEDS REVIEW
-#瀕死状態中に、疲労攻力が上昇する
-#<COL ffdc78>LVUP毎に疲労攻力がより増加</COL>
 old = '''
 瀕死状態中に、疲労攻力が上昇する
 <COL ffdc78>LV UP毎に疲労攻力がより増加</COL>'''
 new = '''
 Increases exhaust attack when you stand
 at death's door.
-<COL ffdc78>LVUP Further increases exhaust attack.</COL>'''
+<COL ffdc78>LV UP: Further increases exhaust attack.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_6'
 old = '''
@@ -914,15 +890,12 @@ Physical and Magick Defense are increased for a period of time.
 <COL ffdc78>LV UP: Increases effect duration.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_472'
-#NEEDS REVIEW
-#剣による攻撃の魔力吸収量が上がる
-#<COL ffdc78>LVUP毎に魔力吸収量がより増加</COL>
 old = '''
 剣による攻撃の魔力吸収量が上がる
 <COL ffdc78>LV UP毎に魔力吸収量がより増加</COL>'''
 new = '''
 Increases the amount of magick absorbed by sword attacks.
-<COL ffdc78>LVUP: Further increases the absorbed amount.</COL>'''
+<COL ffdc78>LV UP: Further increases the absorbed amount.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_25'
 old = '''
@@ -1025,10 +998,6 @@ When a boost is activated, Stamina will recover.
 <COL ffdc78>LV UP: Increases amount of stamina recovered.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_479'
-#NEEDS REVIEW
-#スタミナを一定量消費するスキルを使用した際に
-#一定確率で消費を無効にする
-#<COL ffdc78>LVUP毎に無効になる確率がより増加</COL>
 old = '''
 スタミナを一定量消費するスキルを使用した際に
 一定確率で消費を無効にする
@@ -1036,7 +1005,7 @@ old = '''
 new = '''
 Has a chance to not consume stamina when
 you use custom skills.
-<COL ffdc78>LVUP Further increases the chance.</COL>'''
+<COL ffdc78>LV UP: Further increases the chance.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_23'
 old = '''
@@ -1140,16 +1109,13 @@ Their Physical and Magick Attack is increased for a period of time.
 <COL ffdc78>LV UP: Increases effect duration.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_466'
-#NEEDS REVIEW
-#魔力スタックが2以上の時に、筋力と魔力が増加する
-#<COL ffdc78>LVUP毎に筋力と魔力がより増加</COL>
 old = '''
 魔力スタックが2以上の時に、筋力と魔力が増加する
 <COL ffdc78>LV UP毎に筋力と魔力がより増加</COL>'''
 new = '''
 Increases Strength and Magick when
 number magickal stack is more than 2.
-<COL ffdc78>LVUP Further increases Strength and Magick.</COL>'''
+<COL ffdc78>LV UP: Further increases Strength and Magick.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_24'
 old = '''
@@ -1256,16 +1222,13 @@ with Scar Move.
 <COL ffdc78>LV UP: Increases recovered Stamina further.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_484'
-#NEEDS REVIEW
-#体力が一定量以上のとき、疲労攻力が上昇する
-#<COL ffdc78>LVUP毎に疲労攻力がより増加</COL>
 old = '''
 体力が一定量以上のとき、疲労攻力が上昇する
 <COL ffdc78>LV UP毎に疲労攻力がより増加</COL>'''
 new = '''
 Increases exhaust attack when your health is
 above certain level.
-<COL ffdc78>LVUP Further increases exhaust attack.</COL>'''
+<COL ffdc78>LV UP: Further increases exhaust attack.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_22'
 old = '''
@@ -1368,16 +1331,13 @@ enemy attacks with Scar Move.
 <COL ffdc78>LV UP: Increase gained amount further.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_486'
-#NEEDS REVIEW
-#スタミナが一定量以上のとき、疲労攻力が上昇する
-#<COL ffdc78>LVUP毎に疲労攻力がより増加</COL>
 old = '''
 スタミナが一定量以上のとき、疲労攻力が上昇する
 <COL ffdc78>LV UP毎に疲労攻力がより増加</COL>'''
 new = '''
 Increases exhaust attack when your stamina is
 above certain level.
-<COL ffdc78>LVUP Further increases exhaust attack.</COL>'''
+<COL ffdc78>LV UP: Further increases exhaust attack.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_10'
 old = '''
@@ -1480,16 +1440,13 @@ Extends the duration of Aid/Aid More.
 <COL ffdc78>LV UP: Increases effect duration further.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_470'
-#NEEDS REVIEW
-#純魔法発動後、一定時間魔法攻撃力が増加する
-#<COL ffdc78>LVUP毎に効果時間がより増加</COL>
 old = '''
 純魔法発動後、一定時間魔法攻撃力が増加する
 <COL ffdc78>LV UP毎に効果時間がより増加</COL>'''
 new = '''
 Increases magickal attack after pure magick invocation
 for a period of time.
-<COL ffdc78>LVUP Further increases duration.</COL>'''
+<COL ffdc78>LV UP: Further increases duration.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_2'
 old = '''
@@ -1596,16 +1553,13 @@ power for a period of time.
 <COL ffdc78>LV UP: Increases effect duration further.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_471'
-#NEEDS REVIEW
-#純魔法発動後、一定時間物理攻撃力が増加する
-#<COL ffdc78>LVUP毎に効果時間がより増加</COL>
 old = '''
 純魔法発動後、一定時間物理攻撃力が増加する
 <COL ffdc78>LV UP毎に効果時間がより増加</COL>'''
 new = '''
 Increases physical attack after pure magick invocation
 for a period of time.
-<COL ffdc78>LVUP Further increases duration.</COL>'''
+<COL ffdc78>LV UP: Further increases duration.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_12'
 old = '''
@@ -1710,10 +1664,6 @@ damage received by an attack of the same element will be decreased.
 <COL ffdc78>LV UP: Further decrease damage taken.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_482'
-#NEEDS REVIEW
-#毒沼やマグマなどの特殊な地形から受けるダメージや
-#状態異常値が減る
-#<COL ffdc78>LVUP毎にダメージと状態異常値がさらに減少</COL>
 old = '''
 毒沼やマグマなどの特殊な地形から受けるダメージや
 状態異常値が減る
@@ -1721,7 +1671,7 @@ old = '''
 new = '''
 Lower damage and status effect accumulation from terrains
 such as poison and magma.
-<COL ffdc78>LVUP Further decreases damage and status effect accumulation.</COL>'''
+<COL ffdc78>LV UP: Further decreases damage and status effect accumulation.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_17'
 old = '''
@@ -1822,11 +1772,6 @@ Increases endurance while reviving a party member.
 <COL ffdc78>LV UP: Further increases amount of endurance.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_480'
-#NEEDS REVIEW
-#フォースゲージ／リベンジゲージ／魔力ゲージを
-#消費するスキルを使用した際に
-#一定確率で消費を無効にする
-#<COL ffdc78>LVUP毎に無効になる確率がより増加</COL>
 old = '''
 フォースゲージ／リベンジゲージ／魔力ゲージを
 消費するスキルを使用した際に
@@ -1834,7 +1779,7 @@ old = '''
 <COL ffdc78>LV UP毎に無効になる確率がより増加</COL>'''
 new = '''
 Has a chance to not consume Force/Revenge/Magick Gauge.
-<COL ffdc78>LVUP Further increases the chance.</COL>'''
+<COL ffdc78>LV UP: Further increases the chance.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_19'
 old = '''
@@ -1948,15 +1893,12 @@ maximum stamina for a period of time.
 <COL ffdc78>LV UP: Increases effect duration further.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_489'
-#NEEDS REVIEW
-#戦甲系の敵から受けるダメージ量が減少する
-#<COL ffdc78>LVUP毎にダメージさらに軽減</COL>
 old = '''
 戦甲系の敵から受けるダメージ量が減少する
 <COL ffdc78>LV UP毎にダメージさらに軽減</COL>'''
 new = '''
 Reduces damage taken from War-Ready enemies.
-<COL ffdc78>LVUP Further reduce damage taken.</COL>'''
+<COL ffdc78>LV UP: Further reduce damage taken.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_8'
 old = '''
@@ -1990,11 +1932,8 @@ key = 'ABILITY_INFO_76'
 old = '''
 フォースガード／フォースゲインの攻力吸収量が増加する
 <COL ffdc78>LV UP毎に攻力吸収量がより増加</COL>'''
-# NEEDS REVIEW
-#フォースガードの攻力吸収量が増加する
-#<COL ffdc78>LV UP毎に攻力吸収量がより増加</COL>
 new = '''
-Increases the attack power drain of Force Guard.
+Increases the attack power drain of Force Guard/Force Gain.
 <COL ffdc78>LV UP: Further increases attack power drain.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_103'
@@ -2058,15 +1997,12 @@ Decreases damage taken from Infected enemies.
 <COL ffdc78>LV UP: Further decreases damage taken.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_481'
-#NEEDS REVIEW
-#大砲の砲弾により与えるダメージと吹き飛ばし力が増加する
-#<COL ffdc78>LVUP毎にダメージと吹き飛ばし力がより増加</COL>
 old = '''
 大砲の砲弾により与えるダメージと吹き飛ばし力が増加する
 <COL ffdc78>LV UP毎にダメージと吹き飛ばし力がより増加</COL>'''
 new = '''
 Increases damage and blow force when using artillery.
-<COL ffdc78>LVUP Further increases damage and blow force.</COL>'''
+<COL ffdc78>LV UP: Further increases damage and blow force.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_18'
 old = '''
@@ -2180,7 +2116,7 @@ old = '''
 new = '''
 Increases damage and blow force against armor parts
 of War-Ready enemies.
-<COL ffdc78>LVUP Further increases damage and blow force.</COL>'''
+<COL ffdc78>LV UP: Further increases damage and blow force.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_3'
 old = '''
@@ -2283,15 +2219,12 @@ Increases resistance to the corruption status.
 <COL ffdc78>LV UP: Further increases resistance.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_490'
-#NEEDS REVIEW
-#戦甲系の敵に与えるダメージ量が増加する
-#<COL ffdc78>LVUP毎にダメージがより増加</COL>
 old = '''
 戦甲系の敵に与えるダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加</COL>'''
 new = '''
 Increases damage dealt to War-Ready enemies.
-<COL ffdc78>LVUP Further increases damage.</COL>'''
+<COL ffdc78>LV UP: Further increases damage.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_13'
 old = '''
@@ -2386,16 +2319,13 @@ Increases damage to infected enemy's growths.
 <COL ffdc78>LV UP: Further increases damage.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_477'
-#NEEDS REVIEW
-#補助魔法を発動し魔力消費した際に少し魔力が残る
-#<COL ffdc78>LVUP毎に魔力残量がより増加</COL>
 old = '''
 補助魔法を発動し魔力消費した際に少し魔力が残る
 <COL ffdc78>LV UP毎に魔力残量がより増加</COL>'''
 new = '''
 When using support magick, a tiny portion of
 magick gauge remains.
-<COL ffdc78>LVUP Further increases the remaining portion.</COL>'''
+<COL ffdc78>LV UP: Further increases the remaining portion.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_21'
 old = '''
@@ -2588,16 +2518,13 @@ element's affliction increases.
 <COL ffdc78>LV UP: Further increases damage dealt.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_475'
-#NEEDS REVIEW
-#純魔法を発動し魔力消費した際に少し魔力が残る
-#<COL ffdc78>LVUP毎に魔力残量がより増加</COL>
 old = '''
 純魔法を発動し魔力消費した際に少し魔力が残る
 <COL ffdc78>LV UP毎に魔力残量がより増加</COL>'''
 new = '''
 When using pure magick, a tiny portion of
 magick gauge remains.
-<COL ffdc78>LVUP Further increases the remaining portion.</COL>'''
+<COL ffdc78>LV UP: Further increases the remaining portion.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_7'
 old = '''
@@ -2699,10 +2626,6 @@ the chance to apply an elemental affliction is increased.
 <COL ffdc78>LV UP: Further increases affliction chance.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_487'
-#NEEDS REVIEW
-#敵にダメージを与えた時
-#自身の蓄積中の状態異常値が減少する
-#<COL ffdc78>LVUP毎に状態異常値がさらに減少</COL>
 old = '''
 敵にダメージを与えた時
 自身の蓄積中の状態異常値が減少する
@@ -2710,7 +2633,7 @@ old = '''
 new = '''
 Status effect accumulation on yourself decreases
 when you are attacking enemies.
-<COL ffdc78>LVUP Further decreases status effect accumulation.</COL>'''
+<COL ffdc78>LV UP: Further decreases status effect accumulation.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_14'
 old = '''
@@ -2802,10 +2725,6 @@ Increases damage dealt toward infected enemies.
 <COL ffdc78>LV UP: Further increases damage dealt.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_474'
-#NEEDS REVIEW
-#ルイン・ブレードの魔力消費量を増加させ
-#ダメージを大幅に増加させる
-#<COL ffdc78>LVUP毎にダメージがより増加</COL>
 old = '''
 ルイン・ブレードの魔力消費量を増加させ
 ダメージを大幅に増加させる
@@ -2813,7 +2732,7 @@ old = '''
 new = '''
 Increases amount of magic gauge consumed by Ruin Blade,
 greatly increasing its damage.
-<COL ffdc78>LVUP Further increases damage.</COL>'''
+<COL ffdc78>LV UP: Further increases damage.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_20'
 old = '''
@@ -2924,17 +2843,13 @@ Increases damage of Thrust.
 LV5~6: Increases blow power.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_499'
-#NEEDS REVIEW
-#四連撃のダメージ量が増加する
-#<COL ffdc78>LVUP毎にダメージがより増加
-#LV5～6で吹き飛ばし力が増加</COL>
 old = '''
 四連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>'''
 new = '''
 Increases damage of Quadruple Slash.
-<COL ffdc78>LVUP Increases damage further.
+<COL ffdc78>LV UP: Increases damage further.
 LV5~6: Increases blow power.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_252'
@@ -3047,10 +2962,6 @@ Increases damage of Air Thrust.
 LV5~6: Increases blow power.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_500'
-#NEEDS REVIEW
-#弧連撃のダメージ量が増加する
-#<COL ffdc78>LVUP毎にダメージがより増加
-#LV5～6で吹き飛ばし力が増加</COL>
 old = '''
 弧連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
@@ -3297,7 +3208,7 @@ old = '''
 LV5～6で吹き飛ばし力が増加</COL>'''
 new = '''
 Increases damage of Fall Slash.
-<COL ffdc78>LVUP Increases damage further.
+<COL ffdc78>LV UP: Increases damage further.
 LV5~6: Increases blow power.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_255'
@@ -3410,15 +3321,12 @@ Increases the damage of Thrust More.
 LV5~6: Increases blow power.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_497'
-#NEEDS REVIEW
-#全てのノーマルスキルのダメージ量が増加する
-#<COL ffdc78>LVUP毎にダメージがより増加</COL>
 old = '''
 全てのノーマルスキルのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加</COL>'''
 new = '''
 Increases damage of all normal skills.
-<COL ffdc78>LVUP Further increases damage.</COL>'''
+<COL ffdc78>LV UP: Further increases damage.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_256'
 old = '''
@@ -3519,10 +3427,6 @@ Reduces the damage of elemental attacks
 <COL ffdc78>LV UP: Further decreases damage received.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_504'
-#NEEDS REVIEW
-#剣による攻撃の魔印の成長速度が増加するが、
-#攻撃を受けて体勢を崩された際の減退量も増加する
-#<COL ffdc78>LVUP毎に魔印の成長速度がより増加</COL>
 old = '''
 剣による攻撃の魔印の成長速度が増加するが、
 攻撃を受けて体勢を崩された際の減退量も増加する
@@ -3530,7 +3434,7 @@ old = '''
 new = '''
 Increases Magick Glyph growth when using sword skills,
 but also increases Magick Glyph decay when being staggered.
-<COL ffdc78>LVUP Further increases growth rate.</COL>'''
+<COL ffdc78>LV UP: Further increases growth rate.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_257'
 old = '''
@@ -3643,17 +3547,13 @@ Increases damage of Thrust.
 LV5~6: Increases chance and exhaust attack.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_493'
-#NEEDS REVIEW
-#四連撃のダメージ量が増加する
-#<COL ffdc78>LVUP毎にダメージがより増加
-#LV5～6で魔力吸収量が増加</COL>
 old = '''
 四連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>'''
 new = '''
 Increases damage of Quadruple Slash.
-<COL ffdc78>LVUP Further increases damage dealt.
+<COL ffdc78>LV UP: Further increases damage dealt.
 LV5~6: Increases magickal energy absorption.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_258'
@@ -3766,17 +3666,13 @@ Increases damage of Air Thrust.
 LV5~6: Increases chance and exhaust attack.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_494'
-#NEEDS REVIEW
-#弧連撃のダメージ量が増加する
-#<COL ffdc78>LVUP毎にダメージがより増加
-#LV5～6で魔力吸収量が増加</COL>
 old = '''
 弧連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>'''
 new = '''
 Increases damage of Arc Slash.
-<COL ffdc78>LVUP Further increases damage dealt.
+<COL ffdc78>LV UP: Further increases damage dealt.
 LV5~6: Increases magickal energy absorption.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_259'
@@ -3891,17 +3787,13 @@ Increases the damage of Fall Thrust.
 LV5~6: Increases chance and exhaust attack.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_495'
-#NEEDS REVIEW
-#空叉斬のダメージ量が増加する
-#<COL ffdc78>LVUP毎にダメージがより増加
-#LV5～6で魔力吸収量が増加</COL>
 old = '''
 空叉斬のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>'''
 new = '''
 Increases damage of Sky Slash.
-<COL ffdc78>LVUP Further increases damage dealt.
+<COL ffdc78>LV UP: Further increases damage dealt.
 LV5~6: Increases magickal energy absorption.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_260'
@@ -4003,17 +3895,13 @@ the weapon is enchanted.
 <COL ffdc78>LV UP: Further increases damage dealt.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_496'
-#NEEDS REVIEW
-#昇墜斬のダメージ量が増加する
-#<COL ffdc78>LVUP毎にダメージがより増加
-#LV5～6で魔力吸収量が増加</COL>
 old = '''
 昇墜斬のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>'''
 new = '''
 Increases damage of Falling Slash.
-<COL ffdc78>LVUP Further increases damage dealt.
+<COL ffdc78>LV UP: Further increases damage dealt.
 LV5~6: Increases magickal energy absorption.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_261'
@@ -4664,54 +4552,42 @@ Decreases the weight of equipped items.
 <COL ffdc78>LV UP: Further decreases item weight.</COL>'''
 [[message]]
 key = 'ABILITY_INFO_461'
-#NEEDS REVIEW
-#友体/友活/友攻/友魔/友防/友護の
-#Lv6以上の全てのアビリティ効果が付与される
 old = '''
 友体/友活/友攻/友魔/友防/友護
 上記アビリティのLV.6より高い効果が付与される
 ポーンが装備した場合は効果なし'''
 new = '''
-Grant the effect beyond Lv6 of the following augments:
+Grant the effect beyond LV.6 of the following augments:
 Companion Health, Companion Stamina, Companion Attack,
-Companion Magick, Companion Defense, Companion Magick Defense.'''
+Companion Magick, Companion Defense, Companion Magick Defense.
+No effect when equipped on pawn.'''
 [[message]]
 key = 'ABILITY_INFO_462'
-#NEEDS REVIEW
-#探採/宝眼/延泉/安着/流断/薬効の
-#Lv6以上の全てのアビリティ効果が付与される
 old = '''
 探採/宝眼/延泉/安着/流断/薬効
 探採と宝眼以外はLV.6より高い効果が付与される
 ポーンが装備した場合、探採/宝眼の効果なし'''
 new = '''
-Grant the effect beyond Lv6 of the following augments:
-Gathering, Treasure Eye, Extended Springs,
-Safe Landing, Flow, Efficacy.
-    '''
+Grants the following augments:
+Gathering, Treasure Eye.
+Grant the effect beyond LV.6 of the following augments:
+Extended Springs, Safe Landing, Flow, Efficacy.
+Gathering, Treasure Eye have no effect when equipped on pawn.'''
 [[message]]
 key = 'ABILITY_INFO_463'
-#NEEDS REVIEW
-#侵壊/侵護/減侵/豪握/強壮の
-#Lv6以上の全てのアビリティ効果が付与される
 old = '''
 侵壊/侵護/減侵/豪握/強壮
 上記アビリティのLV.6より高い効果が付与される'''
 new = '''
-Grant the effect beyond Lv6 of the following augments:
+Grant the effect beyond LV.6 of the following augments:
 Infected Destroyer, Infected Safeguard,
-Reduced Corruption, Great Grasp, Hardy.
-    '''
+Reduced Corruption, Great Grasp, Hardy.'''
 [[message]]
 key = 'ABILITY_INFO_464'
-#NEEDS REVIEW
-#羅刹/夜叉/空滅/速離/聖体の
-#Lv6以上の全てのアビリティ効果が付与される
 old = '''
 羅刹/夜叉/空滅/速離/聖体
 上記アビリティのLV.6より高い効果が付与される'''
 new = '''
-Grant the effect beyond Lv6 of the following augments:
+Grant the effect beyond LV.6 of the following augments:
 Rakshasa, Yasha, Sky Annihilation,
-Egression, Holy Body.
-    '''
+Egression, Holy Body.'''
