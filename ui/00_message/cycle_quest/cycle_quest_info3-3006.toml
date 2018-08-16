@@ -19,6 +19,7 @@ old = '''
 [[message]]
 key = 'CYCLE_QUEST_INFO_45'
 old = '本作戦進行中'
+new = 'Mission in Progress'
 [[message]]
 key = 'CYCLE_QUEST_INFO_45ex1'
 old = '''
@@ -36,6 +37,7 @@ old = '''
 考え得る最良の準備と戦略を用いて対抗せよ'''
 [[message]]
 old = '戦果分析中'
+new = 'War Result Analysis'
 [[message]]
 old = '''
 今回もなんとかズールを退けることができた

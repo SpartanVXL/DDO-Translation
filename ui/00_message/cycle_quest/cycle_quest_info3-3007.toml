@@ -19,6 +19,7 @@ old = '''
 [[message]]
 key = 'CYCLE_QUEST_INFO_49'
 old = '本作戦進行中'
+new = 'Mission in Progress'
 [[message]]
 key = 'CYCLE_QUEST_INFO_49ex1'
 old = '''
@@ -35,6 +36,7 @@ old = '''
 壮絶な試練を乗り越えよ'''
 [[message]]
 old = '戦果分析中'
+new = 'War Result Analysis'
 [[message]]
 old = '''
 一部の覚者に向けた芯なる樹が記憶する

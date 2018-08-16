@@ -1,7 +1,7 @@
 ﻿<replication>
   <message_set name="quest name" type="quest_name">
     <match>^ui\\00_message\\quest_info\\q\d+_00$</match>
-    <match>^ui\\00_message\\cycle_quest\\cycle_quest_info\\q\d+_\d+$</match>
+    <match>^ui\\00_message\\cycle_quest\\cycle_quest_info\d+-\d+$</match>
     <!-- Quest names -->
     <rewrite>
       <original_match>^(.+)$</original_match>

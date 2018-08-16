@@ -19,6 +19,7 @@ old = '''
 [[message]]
 key = 'CYCLE_QUEST_INFO_2'
 old = '開戦準備中'
+new = 'War Preparation'
 [[message]]
 key = 'CYCLE_QUEST_INFO_2ex1'
 old = '''
@@ -152,6 +153,7 @@ old = '''
 [[message]]
 key = 'CYCLE_QUEST_INFO_12'
 old = '戦果分析中'
+new = 'War Result Analysis'
 [[message]]
 key = 'CYCLE_QUEST_INFO_12ex1'
 old = '''
@@ -163,6 +165,7 @@ key = 'CYCLE_QUEST_INFO_12ex2'
 old = ''
 [[message]]
 old = '戦果報酬配分中'
+new = 'War Result Reward Distribution'
 [[message]]
 old = '''
 防衛戦での戦果が確定した

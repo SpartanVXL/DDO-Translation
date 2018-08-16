@@ -19,6 +19,7 @@ old = '''
 [[message]]
 key = 'CYCLE_QUEST_INFO_47'
 old = '本作戦進行中'
+new = 'Mission in Progress'
 [[message]]
 key = 'CYCLE_QUEST_INFO_47ex1'
 old = '''
@@ -35,6 +36,7 @@ old = '''
 最小限に食い止めよ'''
 [[message]]
 old = '戦果分析中'
+new = 'War Result Analysis'
 [[message]]
 old = '''
 古代神殿に巣食った侵食魔は一掃された

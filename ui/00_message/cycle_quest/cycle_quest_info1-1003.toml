@@ -19,6 +19,7 @@ old = '''
 [[message]]
 key = 'CYCLE_QUEST_INFO_43'
 old = '本作戦進行中'
+new = 'Mission in Progress'
 [[message]]
 key = 'CYCLE_QUEST_INFO_43ex1'
 old = '''
@@ -36,6 +37,7 @@ old = '''
 召喚士群を至急全滅させ、封印せし魔壁内部へ急げ'''
 [[message]]
 old = '戦果分析中'
+new = 'War Result Analysis'
 [[message]]
 old = '''
 カースドラゴンの完全復活は防がれた

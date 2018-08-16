@@ -19,6 +19,7 @@ old = '''
 [[message]]
 key = 'CYCLE_QUEST_INFO_27'
 old = '開戦準備中'
+new = 'War Preparation'
 [[message]]
 key = 'CYCLE_QUEST_INFO_27ex1'
 old = '''
@@ -31,6 +32,7 @@ old = ''
 [[message]]
 key = 'CYCLE_QUEST_INFO_28'
 old = '本作戦進行中'
+new = 'Mission in Progress'
 [[message]]
 key = 'CYCLE_QUEST_INFO_28ex1'
 old = '''
@@ -67,6 +69,7 @@ old = '''
 [[message]]
 key = 'CYCLE_QUEST_INFO_30'
 old = '戦果分析中'
+new = 'War Result Analysis'
 [[message]]
 key = 'CYCLE_QUEST_INFO_30ex1'
 old = '''
@@ -78,6 +81,7 @@ key = 'CYCLE_QUEST_INFO_30ex2'
 old = ''
 [[message]]
 old = '戦果報酬配分中'
+new = 'War Result Reward Distribution'
 [[message]]
 old = '''
 健闘を讃え報酬を配分する
