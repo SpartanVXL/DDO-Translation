@@ -328,9 +328,11 @@ old = '対象のアイテムはバザーで購入できません'
 [[message]]
 key = 'bazaar_msg_name_bazaar_en'
 old = 'Bazaar'
+new = 'Bazaar'
 [[message]]
 key = 'bazaar_msg_name_bazaar_jp'
 old = 'バザー'
+new = 'Bazaar'
 [[message]]
 key = 'bazaar_msg_name_required_material'
 old = '必要素材名'
