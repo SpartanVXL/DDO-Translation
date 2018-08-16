@@ -1191,8 +1191,8 @@ old = '''
 <UNTN TP>の所持量が最大に近づいています
 ( <VAL> / <VAL TP> )'''
 new = '''
-You are almost maxed out on <UNTN TP>s.
-(<VAL>/<VAL TP>)'''
+You are almost maxed out on
+<UNTN TP>s. (<VAL>/<VAL TP>)'''
 [[message]]
 key = 'syslog_tp_possession_max'
 old = '<UNTN TP>が最大に達したため、これ以上獲得できません'
