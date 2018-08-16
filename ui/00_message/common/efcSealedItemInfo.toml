@@ -31,10 +31,6 @@ key = 'IDX_127'
 old = '魔法防御力を上昇させる'
 new = 'Increase Magick Defense.'
 [[message]]
-key = 'IDX_132'
-old = '吹き飛ばし力を上昇させる'
-new = 'Increase Blow Power.'
-[[message]]
 key = 'IDX_142'
 old = '''
 状態異常【黄金化】
@@ -51,10 +47,6 @@ key = 'IDX_128'
 old = '体力を上昇させる'
 new = 'Increase Health Points.'
 [[message]]
-key = 'IDX_135'
-old = '気絶攻力を上昇させる'
-new = 'Increase Knockout Power.'
-[[message]]
 key = 'IDX_143'
 old = '''
 状態異常【睡眠】
@@ -70,14 +62,6 @@ new = 'Increase Knockout Power.'
 key = 'IDX_129'
 old = 'スタミナを上昇させる'
 new = 'Increase Stamina.'
-[[message]]
-key = 'IDX_147'
-old = '''
-状態異常【物攻低下】
-を付加する'''
-new = '''
-Debilitation "Physical Attack Down"
-added.'''
 [[message]]
 key = 'IDX_144'
 old = '''
@@ -99,14 +83,6 @@ key = 'IDX_130'
 old = '生命治癒力を上昇させる'
 new = 'Increase Healing Power.'
 [[message]]
-key = 'IDX_148'
-old = '''
-状態異常【魔攻低下】
-を付加する'''
-new = '''
-Debilitation "Magick Attack Down"
-added.'''
-[[message]]
 key = 'IDX_145'
 old = '''
 状態異常【遅延】
@@ -126,10 +102,6 @@ added.'''
 key = 'IDX_131'
 old = '耐久力を上昇させる'
 new = 'Increase Endurance.'
-[[message]]
-key = 'IDX_136'
-old = '重量を低下させる'
-new = 'Decrease Weight.'
 [[message]]
 key = 'IDX_146'
 old = '''
