@@ -116,9 +116,14 @@ Debilitation "Softened"
 added.'''
 [[message]]
 key = 'IDX_137'
+#NEEDS REVIEW
+#状態異常【延焼】【炎防低下】【油濡れ】
+#を付加する
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
-を付加する'''
+を付加する
+※【延焼】はステータスで適用されている
+魔法属性と一致する場合、効果を発揮する'''
 new = '''
 Debilitations "Caught Fire",
 "Fire Resist Down", "Tarred"
@@ -133,9 +138,14 @@ old = '対敵特効【腐死】を付加する'
 new = '"Undead Slayer" added.'
 [[message]]
 key = 'IDX_138'
+#NEEDS REVIEW
+#状態異常【凍結】【氷防低下】【水濡れ】
+#を付加する
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
-を付加する'''
+を付加する
+※【凍結】はステータスで適用されている
+魔法属性と一致する場合、効果を発揮する'''
 new = '''
 Debilitations "Frozen Solid",
 "Ice Resist Down", "Drenched"
@@ -150,9 +160,14 @@ old = '対敵特効【魔族】を付加する'
 new = '"Demon Slayer" added.'
 [[message]]
 key = 'IDX_139'
+#NEEDS REVIEW
+#状態異常【感電】【雷防低下】【水濡れ】
+#を付加する
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
-を付加する'''
+を付加する
+※【感電】はステータスで適用されている
+魔法属性と一致する場合、効果を発揮する'''
 new = '''
 Debilitations "Shocked",
 "Thunder Resist Down", "Drenched"
@@ -167,9 +182,14 @@ old = '対敵特効【有翼】を付加する'
 new = '"Winged Slayer" added.'
 [[message]]
 key = 'IDX_140'
+#NEEDS REVIEW
+#状態異常【聖吸】【聖防低下】【スキル封印】
+#を付加する
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
-を付加する'''
+を付加する
+※【聖吸】はステータスで適用されている
+魔法属性と一致する場合、効果を発揮する'''
 new = '''
 Debilitations "Holy Drain",
 "Holy Resist Down", "Skills Stifled"
@@ -184,9 +204,14 @@ old = '対敵特効【竜族】を付加する'
 new = '"Dragon Slayer" added.'
 [[message]]
 key = 'IDX_141'
+#NEEDS REVIEW
+#状態異常【闇霧】【闇防低下】【毒】
+#を付加する
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
-を付加する'''
+を付加する
+※【闇霧】はステータスで適用されている
+魔法属性と一致する場合、効果を発揮する'''
 new = '''
 Debilitations "Blinded",
 "Dark Resist Down", "Poison"
@@ -431,9 +456,13 @@ applies elemental debilitations.
 <COL ffdc78>LV UP: Increases debilitation rate further.</COL>'''
 [[message]]
 key = 'IDX_190'
+#NEEDS REVIEW
+#フォースエンチャントの効果持続時間が
+#延長される
+#<COL ffdc78>LV毎に効果持続時間がより延長</COL>
 old = '''
-フォースエンチャントの効果持続時間が
-延長される
+フォースエンチャントほか、エンチャント系
+スキルの効果持続時間が延長される
 <COL ffdc78>LV毎に効果持続時間がより延長</COL>'''
 new = '''
 Increases the effect duration

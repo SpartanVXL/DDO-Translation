@@ -54,8 +54,13 @@ Damage is increased when the Magick Glyph grows.
 LV.6 Can be used when climbing.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_11_238'
+#NEEDS REVIEW
+#自身の前方に魔力の盾を一定時間展開する
+#<COL ffdc78>LV UP毎に展開時間延長
+#LV.6で敵の攻撃に合わせて発動した際、展開時間延長</COL>
 old = '''
 自身の前方に魔力の盾を一定時間展開する
+純魔法発動時は展開時間が減少しない
 <COL ffdc78>LV UP毎に展開時間延長
 LV.6で敵の攻撃に合わせて発動した際、展開時間延長</COL>'''
 new = '''

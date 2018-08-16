@@ -437,7 +437,9 @@ old = '特技設定について'
 new = 'Regarding special skill settings'
 [[message]]
 key = 'pawn_call_bell_menu'
-old = 'ポーン呼び出しベルメニュー'
+#NEEDS REVIEW
+#ポーン呼び出しベルメニュー
+old = '語らいのベルメニュー'
 new = 'Pawn summon bell menu'
 [[message]]
 key = 'pawn_change_retry'

@@ -2196,7 +2196,9 @@ old = '壁の向こう側へ移動しますか？'
 new = 'Move to the other side of the barrier?'
 [[message]]
 key = 'ana_cpOmJukeBox'
-old = '再生するアビリティを選択してください'
+#NEEDS REVIEW
+#再生するアビリティを選択してください
+old = '再生する項目を選択してください'
 new = 'Please select the ability to play'
 [[message]]
 key = 'ana_cpOmJukeBox_stop'

@@ -239,10 +239,15 @@ Can cure Status Reduction debilitations.
 Reduce cast time.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_04_217'
+#NEEDS REVIEW
+#【ＥＸ追加効果】
+#魔法エリアに入ると一定時間
+#キュアスポットの効果が付与される
 old = '''
 【ＥＸ追加効果】
 魔法エリアに入ると一定時間
-キュアスポットの効果が付与される'''
+キュアスポットの効果が付与される
+同時に展開できる魔法エリア数が増加（１→２）'''
 new = '''
 EX Additional Effects:
 When enter the magick area, the curing effect

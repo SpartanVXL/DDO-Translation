@@ -178,10 +178,16 @@ and those within its light recover a portion of health.(Damages Undead)
 LV.6: Increases the power of the flash at detonation.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_08_142'
+#NEEDS REVIEW
+#魔矢を放ち、接触した敵を内側から引き裂く触手を
+#発生させる。触手は他の攻撃対象を感知し、
+#自ら攻撃に向かう。侵食核の破壊に有効
+#<COL ffdc78>LV UP毎に攻撃威力の上昇
+#LV.６で連鎖回数増加</COL>
 old = '''
-魔矢を放ち、接触した敵を内側から引き裂く触手を
-発生させる。触手は他の攻撃対象を感知し、
-自ら攻撃に向かう。侵食核の破壊に有効
+魔矢を放ち、接触した敵を引き裂く触手を発生させる
+触手は攻撃対象を自ら追尾し、攻撃が連鎖する
+連鎖回数は敵の大きさで変動。侵食核の破壊に有効
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で連鎖回数増加</COL>'''
 new = '''

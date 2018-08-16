@@ -91,11 +91,15 @@ old = '自室の装飾'
 new = "Arisen's Room Decor"
 [[message]]
 key = 'FURNITURE_LAYOUT_NAME_27'
-old = 'オブジェクト・B'
+#NEEDS REVIEW
+#オブジェクト・B
+old = 'オブジェクト'
 new = 'Object (B)'
 [[message]]
 key = 'FURNITURE_LAYOUT_NAME_28'
-old = 'オブジェクト'
+#NEEDS REVIEW
+#オブジェクト
+old = 'オブジェクト・B'
 new = 'Object'
 [[message]]
 key = 'FURNITURE_LAYOUT_NAME_29'

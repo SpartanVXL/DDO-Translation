@@ -234,7 +234,9 @@ old = ''
 new = ''
 [[message]]
 key = 'menu_partyboard'
-old = 'パーティー募集掲示板'
+#NEEDS REVIEW
+#パーティー募集掲示板
+old = '募集掲示板'
 new = 'Party Recruitment Board'
 [[message]]
 key = 'menu_partyboard_dialog'

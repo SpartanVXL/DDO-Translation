@@ -14,8 +14,11 @@ new = 'Reset Rewards and Progress'
 key = 'BTL_CONTENT_RESET_CONF_GET_REWARD'
 old = '''
 クリア報酬を受け取りますか？
-<COL aa1414>報酬を受け取ると、
-進行をリセットするまで再突入できなくなります</COL>'''
+
+報酬を受け取ると、
+<COL ffdc78>進行のリセット</COL>をするまで再突入できなくなります
+また、<COL ffdc78>進行と報酬のリセット</COL>をするまで
+クリア報酬が発生しなくなります'''
 [[message]]
 key = 'BTL_CONTENT_RESET_CONF_RESET_NO_COST'
 old = '''

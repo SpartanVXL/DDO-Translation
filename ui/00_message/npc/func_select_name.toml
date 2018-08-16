@@ -263,7 +263,9 @@ old = 'ドミニオンポイントショップ'
 new = 'Dominion Point Shop'
 [[message]]
 key = 'FUNC_SELECT_NAME_71'
-old = '戦徒の転生'
+#NEEDS REVIEW
+#戦徒の転生
+old = '転生'
 new = 'Myrmidon Reincarnation'
 [[message]]
 key = 'FUNC_SELECT_NAME_72'
@@ -323,7 +325,9 @@ old = '冒険ガイド'
 new = 'Adventure Guide'
 [[message]]
 key = 'FUNC_SELECT_NAME_87'
-old = 'パーティー募集掲示板'
+#NEEDS REVIEW
+#パーティー募集掲示板
+old = '募集掲示板'
 new = 'Party Recruitment Board'
 [[message]]
 key = 'FUNC_SELECT_NAME_88'
