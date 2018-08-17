@@ -561,6 +561,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 237
 old = '強化養成ワーグ'
+new = 'Strength Training Warg'
 type = {old = 'Replace'}
 [[named_param]]
 id = 238
@@ -7515,7 +7516,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2317
 old = '黒き戦士の家畜'
-new = "Black Soldier's Tamed"
+new = "Black Warrior's Tamed"
 type = {old = 'Replace'}
 [[named_param]]
 id = 2318
@@ -8157,6 +8158,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2514
 old = '離宮の番人'
+new = 'Detached Palace Guard'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2515
@@ -8220,6 +8222,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2528
 old = '離宮を徘徊する'
+new = 'Detached Palace Roaming'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2529
@@ -8348,6 +8351,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2561
 old = '離宮の番人'
+new = 'Detached Palace Guard'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2562
@@ -8527,15 +8531,17 @@ type = {old = 'None'}
 [[named_param]]
 id = 2610
 old = 'ロイグの元家畜'
+new = "Loeg's Former Tamed"
 type = {old = 'Replace'}
 [[named_param]]
 id = 2612
 old = '黒き戦士の家畜'
-new = "Black Soldier's Tamed"
+new = "Black Warrior's Tamed"
 type = {old = 'Replace'}
 [[named_param]]
 id = 2613
 old = '黒き戦士'
+new = 'Black Warrior'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2614
