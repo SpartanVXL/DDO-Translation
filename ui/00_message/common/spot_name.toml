@@ -465,7 +465,7 @@ new = 'Volden Narrow Tunnels'
 [[message]]
 key = 'SPOT_NAME_551'
 old = '盗賊の隠れ家'
-new = 'Bandit Hideout'
+new = 'Bandit Hideaway'
 [[message]]
 key = 'SPOT_NAME_552'
 old = '悪鬼の岩窟'
@@ -2325,6 +2325,7 @@ old = '憩いの坑洞'
 [[message]]
 key = 'SPOT_NAME_1078'
 old = '火垂れ山拝竜院'
+new = 'Dripping Flame Dragon Worship Temple'
 [[message]]
 key = 'SPOT_NAME_1079'
 old = '聖炎の参竜道'
@@ -2377,7 +2378,7 @@ new = 'Mephite'
 [[message]]
 key = 'SPOT_NAME_1094'
 old = 'ベルタ盗賊団のアジト'
-new = 'Bertha Bandit Group Hideout'
+new = "Bertha's Bandit Group Hideout"
 [message.format]
 proper = true
 [[message]]
@@ -2864,12 +2865,15 @@ new = 'Dilapidated House of the Plateau'
 [[message]]
 key = 'SPOT_NAME_1216'
 old = '北の盗賊のアジト'
+new = 'Northern Bandit Hideout'
 [[message]]
 key = 'SPOT_NAME_1217'
 old = '火垂れ山野営地'
+new = 'Dripping Flame Campsite'
 [[message]]
 key = 'SPOT_NAME_1218'
 old = 'メガド離宮'
+new = 'Megado Detached Palace'
 [[message]]
 key = 'SPOT_NAME_1219'
 old = '聖炎の参竜道'
@@ -3135,11 +3139,11 @@ new = '崩れた進入路 Innermost Depths'
 [[message]]
 key = 'SPOT_NAME_1292'
 old = '火垂れ山拝竜院 中層'
-new = '火垂れ山拝竜院: Middle Level'
+new = 'Dripping Flame Dragon Worship Temple: Middle Level'
 [[message]]
 key = 'SPOT_NAME_1293'
 old = '火垂れ山拝竜院 最深部'
-new = '火垂れ山拝竜院 Innermost Depths'
+new = 'Dripping Flame Dragon Worship Temple Innermost Depths'
 [[message]]
 key = 'SPOT_NAME_1294'
 old = '悼まれぬ者の葬室 最深部'

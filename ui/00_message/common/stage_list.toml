@@ -424,7 +424,7 @@ new = 'Volden Narrow Tunnels'
 [[message]]
 key = 'STAGE_NAME_102'
 old = '盗賊の隠れ家'
-new = 'Bandit Hideout'
+new = 'Bandit Hideaway'
 [[message]]
 key = 'STAGE_NAME_103'
 old = '悪鬼の岩窟'
@@ -1551,7 +1551,7 @@ new = 'Lakeside Grotto'
 [[message]]
 key = 'STAGE_NAME_480'
 old = 'ベルタ盗賊団のアジト'
-new = 'Bertha Bandit Group Hideout'
+new = "Bertha's Bandit Group Hideout"
 [message.format]
 proper = true
 [[message]]
@@ -1577,6 +1577,7 @@ new = 'Fortress City Megado: Royal Palace Level'
 [[message]]
 key = 'STAGE_NAME_489'
 old = 'メガド離宮'
+new = 'Megado Detached Palace'
 [[message]]
 key = 'STAGE_NAME_490'
 old = '聖炎の参竜道'
@@ -1637,6 +1638,7 @@ old = '憩いの坑洞'
 [[message]]
 key = 'STAGE_NAME_508'
 old = '火垂れ山拝竜院'
+new = 'Dripping Flame Dragon Worship Temple'
 [[message]]
 key = 'STAGE_NAME_509'
 old = '悼まれぬ者の葬室'
@@ -1878,9 +1880,11 @@ new = 'Old Tekia Grotto'
 [[message]]
 key = 'STAGE_NAME_594'
 old = '北の盗賊のアジト'
+new = 'Northern Bandit Hideout'
 [[message]]
 key = 'STAGE_NAME_595'
 old = '火垂れ山野営地'
+new = 'Dripping Flame Campsite'
 [[message]]
 key = 'STAGE_NAME_596'
 old = '霧の森'
