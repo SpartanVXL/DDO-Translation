@@ -38,9 +38,53 @@
       <translation_replace>{0}: Additional Notes</translation_replace>
       <translation_arg message_set="tutorial name" />
     </rewrite>
+    <rewrite>
+      <original_match>^(.+?)\s*((序|第)(.*)(節|説))\s+到達</original_match>
+      <translation_replace>{0}: {1}</translation_replace>
+      <translation_arg index="0" message_set="tutorial topic" required="true" />
+      <translation_arg index="1" message_set="tutorial section" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)\s*((序|第)(.*)(節|説))\s+到達</original_match>
+      <translation_replace>{0}: {1}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="tutorial section" />
+    </rewrite>
     <extra>
       <original>戦甲種について</original>
       <translation>About Armored Battles</translation>
+    </extra>
+  </message_set>
+  <message_set name="tutorial topic">
+    <extra>
+      <original>侵食の大災</original>
+      <translation>The Infection</translation>
+    </extra>
+    <extra>
+      <original>絶望の大陸</original>
+      <translation>The Land of Despair</translation>
+    </extra>
+  </message_set>
+  <message_set name="tutorial section">
+    <extra>
+      <original>序説</original>
+      <translation>Introduction</translation>
+    </extra>
+    <extra>
+      <original>序節</original>
+      <translation>Prologue</translation>
+    </extra>
+    <extra>
+      <original>第二節</original>
+      <translation>Section II</translation>
+    </extra>
+    <extra>
+      <original>第三節</original>
+      <translation>Section III</translation>
+    </extra>
+    <extra>
+      <original>第四節</original>
+      <translation>Section IV</translation>
     </extra>
   </message_set>
 </replication>
