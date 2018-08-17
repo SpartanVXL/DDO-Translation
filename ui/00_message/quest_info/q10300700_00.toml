@@ -14,7 +14,7 @@ old = 'ブラッドと手分けして木材を集める'
 [[message]]
 key = 'q10300700_00_3685'
 old = '別行動しているブラッドと合流する'
-new = 'Rendezvous with 別行動しているブラッド'
+new = 'Rendezvous with Brad who is doing something else'
 [[message]]
 key = 'q10300700_00_3686'
 old = 'ブラッドを追ってきた魔物を討伐する'
@@ -22,6 +22,7 @@ new = 'Defeat the demons after Brad'
 [[message]]
 key = 'q10300700_00_3687'
 old = 'ブラッドと話して大食堂へ戻る'
+new = 'Speak with Brad and return to the Great Dining Hall'
 [[message]]
 key = 'q10300700_00_3688'
 old = '大食堂にいるキャリーに報告する'

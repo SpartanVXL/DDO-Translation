@@ -14,11 +14,11 @@ new = 'Head to the Lookout Castle'
 [[message]]
 key = 'q00030220_00_4542'
 old = 'ウルテカ山岳にある北の盗賊の集落へ向かう'
-new = 'Head to 北の盗賊の集落 in the Ulteca Mountains'
+new = 'Head to the northern bandit community in the Ulteca Mountains'
 [[message]]
 key = 'q00030220_00_4544'
 old = '北の盗賊の頭目セロと話す'
-new = 'Speak with 北の盗賊の頭目セロ'
+new = 'Speak with the northern bandit leader Cyril'
 [[message]]
 key = 'q00030220_00_4545'
 old = 'エリアマスターのバシアスと話す'
@@ -30,10 +30,11 @@ new = 'Activate the portcrystal'
 [[message]]
 key = 'q00030220_00_4609'
 old = '捜索状況の確認へ向かう'
-new = 'Head to 捜索状況の確認'
+new = 'Head to confirm the search situation'
 [[message]]
 key = 'q00030220_00_4547'
 old = 'ベルタの手の者と落ち合う'
+new = "Rendezvous with Bertha's subordinate"
 [[message]]
 key = 'q00030220_00_4548'
 old = '攫われた王子の追跡者の手掛かりを探す（残り２）'
@@ -46,7 +47,7 @@ old = '敵を殲滅し盗賊団員を助ける'
 [[message]]
 key = 'q00030220_00_4663'
 old = '助けた盗賊団員と話す'
-new = 'Speak with 助けた盗賊団員'
+new = 'Speak with the assisting bandit group member'
 [[message]]
 key = 'q00030220_00_4551'
 old = '新たな手掛かりの場所へ向かう'
@@ -58,7 +59,7 @@ new = 'Defeat the enemy encountered'
 [[message]]
 key = 'q00030220_00_4553'
 old = '負傷した女性と話す'
-new = 'Speak with 負傷した女性'
+new = 'Speak with the injured woman'
 [[message]]
 key = 'q00030220_00_4554'
 old = 'スライと話す'
@@ -66,6 +67,7 @@ new = 'Speak with Sly'
 [[message]]
 key = 'q00030220_00_4555'
 old = '北の盗賊の集落へ戻る'
+new = 'Return to the northern bandit community'
 [[message]]
 key = 'q00030220_00_4556'
 old = '展望城へ戻りメイロワに報告する'

@@ -1142,10 +1142,10 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)に話しかけて(.+)に戻る$</original_match>
-      <translation_replace>Speak with {0:d} and return to {1:d}</translation_replace>
+      <original_match>^(.+)に話し(かけ)?て(.+)(に|へ)戻る$</original_match>
+      <translation_replace>Speak with {0:d} and return to {2:d}</translation_replace>
       <translation_arg index="0" message_set="npc name" />
-      <translation_arg index="1" message_set="location name" />
+      <translation_arg index="2" message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)の元に戻り(.+)と話す$</original_match>
@@ -1218,6 +1218,11 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
+      <original_match>^助けた(.+)と話す$</original_match>
+      <translation_replace>Speak with the assisting {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)に話しかける$</original_match>
       <translation_replace>Speak with {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
@@ -1241,6 +1246,12 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_replace>Speak with {1:d} waiting in front of "{0:@}"</translation_replace>
       <translation_arg index="0" message_set="location name" />
       <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の無事を確認するため＜(.+)＞前へ戻る$</original_match>
+      <translation_replace>Return to "{1}" check {0:d}'s safety</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+?)に戻り(.+?)と話す$</original_match>
@@ -1579,6 +1590,11 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_replace>Head through the open huge doors</translation_replace>
     </rewrite>
     <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^捜索状況の確認へ向かう$</original_match>
+      <translation_replace>Head to confirm the search situation</translation_replace>
+    </rewrite>
+    <rewrite>
       <original_match>^プレイポイントを獲得するため&lt;STG (\d+)&gt;へ向かう$</original_match>
       <translation_replace>Head to &lt;STG {0}&gt; in order to acquire Play Points</translation_replace>
     </rewrite>
@@ -1586,6 +1602,18 @@ challenge the trial of the Training Chapel</translation_replace>
       <original_match>^＜原始の雫＞を探すため(.+)の奥地へ向かう$</original_match>
       <translation_replace>Head to the back of {0:d} and search for the "Primeval Drops"</translation_replace>
       <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を探すため(.+)の奥へ向かう$</original_match>
+      <translation_replace>Head to the back of {1:d} and search for {0:d}</translation_replace>
+      <translation_arg index="0" message_set="item name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を探すため(.+)へ向かう$</original_match>
+      <translation_replace>Head to {1:d} and search for {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^洞窟を抜け(.+)の集落へ向かう$</original_match>
@@ -1938,6 +1966,11 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <!-- Rendezvous -->
     <rewrite>
+      <original_match>^(.+)で案内人と落ち合う$</original_match>
+      <translation_replace>Rendezvous with the guide at {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^先行していた(.+)と合流し戦況を確認する$</original_match>
       <translation_replace>Rendezvous with the leading {0:*} and check situation</translation_replace>
       <translation_arg message_set="npc name" />
@@ -1992,7 +2025,17 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)たちと合流する$</original_match>
+      <original_match>^(.+)の手の者と落ち合う$</original_match>
+      <translation_replace>Rendezvous with {0:d}'s subordinate</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^別行動している(.+)と合流する$</original_match>
+      <translation_replace>Rendezvous with {0:d} who is doing something else</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)(たちと合流する|と落ち合う)$</original_match>
       <translation_replace>Rendezvous with {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
@@ -2003,12 +2046,34 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <!-- Return to -->
     <rewrite>
+      <original_match>^(.+)と話して(.+)へ戻る$</original_match>
+      <translation_replace>Speak with {0:d} and return to {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の村の(.+)の元へ戻る$</original_match>
+      <translation_replace>Return to {1:d} in the village of {0}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^情報収集のため(.+)へ戻る$</original_match>
+      <translation_replace>Return to {0:d} to gather more information</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)の元へ戻る$</original_match>
+      <translation_replace>Return to {0:d}'s side</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^急ぎ(.+?)に帰還する$</original_match>
       <translation_replace>Return quickly to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+?)に帰還する$</original_match>
+      <original_match>^(.+?)(に帰還する|へ戻る)$</original_match>
       <translation_replace>Return to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
@@ -2160,6 +2225,11 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_replace>Send a signal to {1:d} with emote "{0}"</translation_replace>
       <translation_arg index="0" message_set="emote name" />
       <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)から出た場所にある礎を開放する$</original_match>
+      <translation_replace>Activate the portcrystal located in the place after leaving {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
     </rewrite>
     <!-- Grand Missions -->
     <rewrite>
