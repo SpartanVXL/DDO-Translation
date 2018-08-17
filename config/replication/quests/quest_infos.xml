@@ -667,13 +667,15 @@
       <translation_replace>Gather party members in the camp from "{0} to {1} GT"</translation_replace>
     </rewrite>
     <rewrite>
-      <original_match>^＜(\d+)時から(\d+)時＞の間に依頼者から詳細を聞く$</original_match>
-      <translation_replace>Inquire details from the requester from "{0} to {1} GT"</translation_replace>
+      <original_match>^＜(\d+)時から(\d+)時＞の間に(.+)から詳細を聞く$</original_match>
+      <translation_replace>Inquire details from {2:d} from "{0} to {1} GT"</translation_replace>
+      <translation_arg index="2" message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^＜(.+)＞時に依頼者から詳細を聞く$</original_match>
-      <translation_replace>Inquire details from the requester during "{0}" weather</translation_replace>
-      <translation_arg message_set="weather adjective" />
+      <original_match>^＜(.+)＞時に(.+)から詳細を聞く$</original_match>
+      <translation_replace>Inquire details from {1:d} during "{0}" weather</translation_replace>
+      <translation_arg index="0" message_set="weather adjective" />
+      <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、&lt;NPC (\d+)&gt;に渡す（残り:&lt;SQDI DNUM&gt;）$</original_match>
@@ -2104,10 +2106,6 @@ challenge the trial of the Training Chapel</translation_replace>
     <!-- Report to -->
     <ignore>^リム転移で神殿に戻り、謁見の間のレオに報告する$</ignore>
     <rewrite>
-      <original_match>^(依頼者|依頼人)に報告する$</original_match>
-      <translation_replace>Report to the requester</translation_replace>
-    </rewrite>
-    <rewrite>
       <original_match>^エリアマスターの&lt;NPC (\d+)&gt;に報告する$</original_match>
       <translation_replace>Report to &lt;NPC {0}&gt;, the Area Master</translation_replace>
     </rewrite>
@@ -2179,7 +2177,7 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="2" message_set="npc name" />
     </rewrite>
     <rewrite>
-      <original_match>^(.+)に報告する$</original_match>
+      <original_match>^(.+)(に|へ)報告する$</original_match>
       <translation_replace>Report to {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
