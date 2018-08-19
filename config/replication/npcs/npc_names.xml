@@ -8,6 +8,16 @@
       <translation_arg message_set="location name" required="true" />
     </rewrite>
     <extra>
+      <original>依頼者</original>
+      <translation>Requester</translation>
+      <translation_format proper="false">requester</translation_format>
+    </extra>
+    <extra>
+      <original>依頼人</original>
+      <translation>Requester</translation>
+      <translation_format proper="false">requester</translation_format>
+    </extra>
+    <extra>
       <original>兵</original>
       <translation>Troop</translation>
       <translation_format proper="false">troop</translation_format>
@@ -68,6 +78,11 @@
     <extra>
       <original>人</original>
       <translation>person</translation>
+      <translation_format proper="false" />
+    </extra>
+    <extra>
+      <original>手引きをした人物</original>
+      <translation>person leading</translation>
       <translation_format proper="false" />
     </extra>
     <extra>
