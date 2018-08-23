@@ -156,10 +156,9 @@ LV.６で剣に風圧が追加／攻撃ヒット数増加</COL>'''
 new = '''
 After channeling enough energy, release
 a devastating slash with your body's entire might.
-<COL ff7878>Effective against War-Ready enemies.</COL>
 <COL ffdc78>LV UP: Increases damage of skill.
-LV.6: Adds wind pressure to the blade and increases number of
-hits.</COL>'''
+LV.6: Adds wind pressure to the blade and increases number
+of hits.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_07_139'
 old = '''
@@ -271,9 +270,17 @@ old = '''
 【ＥＸ追加効果】
 モーションが変化し、攻撃ヒット数が増加
 のけぞり中にも発動可能'''
+new = '''
+EX Additional Effects:
+Change motions, increase the number of hits.
+Can be used when staggered.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_07_228'
 old = '''
 【ＥＸ追加効果】
 吹き飛ばし力が増加
 前方への攻撃範囲が大幅に拡張'''
+new = '''
+EX Additional Effects:
+Increase blow power.
+Extend the range of the attack forward.'''
