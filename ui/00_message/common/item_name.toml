@@ -58410,7 +58410,7 @@ new = "Executor's Spirit"
 [[item]]
 id = 18660
 old = '賢臣の魂'
-new = "Minister's Spirit"
+new = "Retainer's Spirit"
 [[item]]
 id = 18661
 old = '獣寄せの肉塊'
@@ -58906,11 +58906,11 @@ new = 'Unappraised Flight Trinket (Emperor)'
 [[item]]
 id = 18825
 old = 'AP【ウルテカ山岳】'
-new = 'AP (Ulteca Mountains)'
+new = 'AP (Urteca Mountains)'
 [[item]]
 id = 18826
 old = '王家紋章のメダル＜ウルテカ地方＞'
-new = 'Royal Crest Medal (Ulteca District)'
+new = 'Royal Crest Medal (Urteca District)'
 [[item]]
 id = 18827
 old = '冒パスポイント'
@@ -67562,7 +67562,7 @@ new = 'Royal Family Chants Grimoire'
 [[item]]
 id = 21239
 old = '虚空の拍動'
-new = 'Empty Ictus'
+new = "Void's Heartbeat"
 [[item]]
 id = 21240
 old = '水彫りの未鑑定装具【兵】'
@@ -67622,7 +67622,7 @@ new = 'Mark of the Underworld'
 [[item]]
 id = 21255
 old = 'ウルテカの熱水'
-new = 'Ulteca Hot Spring Water'
+new = 'Urteca Hot Spring Water'
 [[item]]
 id = 21256
 old = 'ベラドンナ'
@@ -67634,15 +67634,17 @@ new = 'Petrified Wood'
 [[item]]
 id = 21258
 old = '凝灰石'
-new = 'Tuffstone'
+new = 'Volcanic Tuff'
 [[item]]
 id = 21259
+# TODO: Original name explicitly mentions the area it's from.
+# If other variants of volcanic ash are added. Re-add the area name.
 old = '火垂れ山の火山灰'
-new = 'Dripping Flame Mountain Volcanic Ash'
+new = 'Volcanic Mountain Ash'
 [[item]]
 id = 21260
 old = 'コゲシメジ'
-new = 'Kogeshimeji'
+new = 'Scorched Mushroom'
 [[item]]
 id = 21261
 old = '魔犬の毛皮'
@@ -67666,11 +67668,11 @@ new = "Tree Man's Charred Branch"
 [[item]]
 id = 21266
 old = '古戦士の骨'
-new = "Old Warrior's Bone"
+new = "Ancient Warrior's Bone"
 [[item]]
 id = 21267
 old = '帯電する大血管'
-new = 'Large Electrified Blood Vessel'
+new = 'Charged Great Vessel'
 [[item]]
 id = 21268
 old = '咆える炎塊'
@@ -67678,7 +67680,7 @@ new = 'Howling Blaze Lump'
 [[item]]
 id = 21269
 old = '吸魂布'
-new = 'Spirit Absorbing Cloth'
+new = 'Soul Siphoning Cloth'
 [[item]]
 id = 21270
 old = 'フリッカージェム'
@@ -67686,7 +67688,7 @@ new = 'Flicker Gem'
 [[item]]
 id = 21271
 old = '魔竜の顎とげ'
-new = 'Evil Dragon Jaw Spine'
+new = "Evil Dragon's Chin Spike"
 [[item]]
 id = 21272
 old = '古びたレンガ材'
@@ -67702,19 +67704,19 @@ new = 'Ancient Wheat Ear'
 [[item]]
 id = 21275
 old = '拝竜院の護符'
-new = 'Dragon Worshipper Temple Charm'
+new = "Dragon Temple's Charm"
 [[item]]
 id = 21276
 old = '拝竜院の聖布'
-new = 'Dragon Worshipper Temple Blessed Cloth'
+new = "Dragon Temple's Blessed Cloth"
 [[item]]
 id = 21277
 old = '王者の火焔岩'
-new = "Blaze Rock of the Ruler"
+new = 'Royal Blazing Rock'
 [[item]]
 id = 21278
 old = '聖炎鋼'
-new = 'Sacred Fire Steel'
+new = 'Sacred Flame Steel'
 [[item]]
 id = 21279
 old = '紅き造竜鱗'
@@ -68160,11 +68162,11 @@ new = 'Memento Fiber (Megadosys District)'
 [[item]]
 id = 21392
 old = 'レリックスティール＜ウルテカ地方＞'
-new = 'Relic Steel (Ulteca District)'
+new = 'Relic Steel (Urteca District)'
 [[item]]
 id = 21393
 old = 'メメントファイバー＜ウルテカ地方＞'
-new = 'Memento Fiber (Ulteca District)'
+new = 'Memento Fiber (Urteca District)'
 [[item]]
 id = 21394
 old = '炎魔の指輪'
