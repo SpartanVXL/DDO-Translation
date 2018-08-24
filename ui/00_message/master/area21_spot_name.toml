@@ -2,19 +2,19 @@
 [[message]]
 key = 'SPOT_NAME_'
 old = 'ウルテカ山岳 西部'
-new = 'Western Ulteca Mountains'
+new = 'Western Urteca Mountains'
 [[message]]
 key = 'SPOT_NAME_'
 old = 'ウルテカ山岳 北部'
-new = 'Northern Ulteca Mountains'
+new = 'Northern Urteca Mountains'
 [[message]]
 key = 'SPOT_NAME_'
 old = 'ウルテカ山岳 東部'
-new = 'Eastern Ulteca Mountains'
+new = 'Eastern Urteca Mountains'
 [[message]]
 key = 'SPOT_NAME_'
 old = 'ウルテカの記憶'
-new = 'Memory of Ulteca'
+new = 'Memory of Urteca'
 [message.format]
 proper = true
 [[message]]
@@ -28,7 +28,7 @@ new = 'Dripping Flame Mountain Campsite'
 [[message]]
 key = 'SPOT_NAME_'
 old = 'サラマンダーコロニー'
-new = 'Salamander Colony'
+new = 'Pyre Saurian Colony'
 [[message]]
 key = 'SPOT_NAME_'
 old = '空望広場'
@@ -57,7 +57,9 @@ new = 'Megado Detached Palace'
 [[message]]
 key = 'SPOT_NAME_'
 old = '王家の墓'
-new = 'Tomb of the Royal Family'
+new = 'The Royal Family Mausoleum'
+[message.format]
+new = 'Royal Family Mausoleum'
 [[message]]
 key = 'SPOT_NAME_'
 old = '憩いの坑洞'

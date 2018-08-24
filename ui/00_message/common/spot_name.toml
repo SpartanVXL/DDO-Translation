@@ -2228,7 +2228,7 @@ new = 'Captive Interrogation Prison'
 [[message]]
 key = 'SPOT_NAME_1052'
 old = 'サラマンダーコロニー'
-new = 'Salamander Colony'
+new = 'Pyre Saurian Colony'
 [[message]]
 key = 'SPOT_NAME_1053'
 old = '空望広場'
@@ -2263,7 +2263,7 @@ new = 'Megadosys Plateau'
 [[message]]
 key = 'SPOT_NAME_1062'
 old = 'ウルテカ山岳'
-new = 'Ulteca Mountains'
+new = 'Urteca Mountains'
 [[message]]
 key = 'SPOT_NAME_1063'
 old = 'ラスニテ地下水路'
@@ -2450,7 +2450,7 @@ new = 'Memory of Megadosys'
 [[message]]
 key = 'SPOT_NAME_1111'
 old = 'ウルテカの記憶'
-new = 'Memory of Ulteca'
+new = 'Memory of Urteca'
 [message.format]
 proper = true
 [[message]]
@@ -2880,7 +2880,9 @@ old = '聖炎の参竜道'
 [[message]]
 key = 'SPOT_NAME_1220'
 old = '王家の墓'
-new = 'Tomb of the Royal Family'
+new = 'The Royal Family Mausoleum'
+[message.format]
+new = 'Royal Family Mausoleum'
 [[message]]
 key = 'SPOT_NAME_1221'
 old = '悪しき竜のねぐら'
@@ -2985,9 +2987,11 @@ new = 'Fortress City Megado: Craft Room'
 [[message]]
 key = 'SPOT_NAME_1248'
 old = '王家の隠れ部屋 メガドシス高地'
+new = "Royal Family's Hidden Chamber (Megadosys Plateau)"
 [[message]]
 key = 'SPOT_NAME_1249'
 old = '王家の隠れ部屋 ウルテカ山岳'
+new = "Royal Family's Hidden Chamber (Urteca Mountains)"
 [[message]]
 key = 'SPOT_NAME_1250'
 old = '古テキア洞窟　中心部'
@@ -3011,15 +3015,19 @@ new = 'Megadosys Old Road: Megadosys Direction'
 [[message]]
 key = 'SPOT_NAME_1255'
 old = '王家の隠れ部屋 メガドシス高地'
+new = "Royal Family's Hidden Chamber (Megadosys Plateau)"
 [[message]]
 key = 'SPOT_NAME_1256'
 old = '王家の隠れ部屋 メガドシス高地'
+new = "Royal Family's Hidden Chamber (Megadosys Plateau)"
 [[message]]
 key = 'SPOT_NAME_1257'
 old = '王家の隠れ部屋 メガドシス高地'
+new = "Royal Family's Hidden Chamber (Megadosys Plateau)"
 [[message]]
 key = 'SPOT_NAME_1258'
 old = '王家の隠れ部屋 メガドシス高地'
+new = "Royal Family's Hidden Chamber (Megadosys Plateau)"
 [[message]]
 key = 'SPOT_NAME_1259'
 old = '静穏の隠れ洞 洞窟通路'
@@ -3103,15 +3111,15 @@ new = 'Lookout Castle: Harbor'
 [[message]]
 key = 'SPOT_NAME_1282'
 old = 'ウルテカ山岳 東部'
-new = 'Eastern Ulteca Mountains'
+new = 'Eastern Urteca Mountains'
 [[message]]
 key = 'SPOT_NAME_1283'
 old = 'ウルテカ山岳 北部'
-new = 'Northern Ulteca Mountains'
+new = 'Northern Urteca Mountains'
 [[message]]
 key = 'SPOT_NAME_1284'
 old = 'ウルテカ山岳 西部'
-new = 'Western Ulteca Mountains'
+new = 'Western Urteca Mountains'
 [[message]]
 key = 'SPOT_NAME_1285'
 old = '崩れた進入路'
@@ -3171,7 +3179,7 @@ new = 'Memory of Megadosys Old Road: Megadosys Direction'
 [[message]]
 key = 'SPOT_NAME_1300'
 old = '王家の墓 最奥'
-new = 'Innermost Tomb of the Royal Family'
+new = 'Innermost Royal Family Mausoleum'
 [[message]]
 key = 'SPOT_NAME_1301'
 old = '聖炎の参竜道 上層'
@@ -3183,7 +3191,7 @@ new = 'Memory of Megadosys: War God Space'
 [[message]]
 key = 'SPOT_NAME_1303'
 old = 'ウルテカの記憶 武神の間'
-new = 'Memory of Ulteca: War God Space'
+new = 'Memory of Urteca: War God Space'
 [[message]]
 key = 'SPOT_NAME_1304'
 old = 'ウルテカの記憶 西部 入口'

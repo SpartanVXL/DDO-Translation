@@ -1499,7 +1499,7 @@ new = 'Megadosys Plateau'
 [[message]]
 key = 'STAGE_NAME_465'
 old = 'ウルテカ山岳'
-new = 'Ulteca Mountains'
+new = 'Urteca Mountains'
 [[message]]
 key = 'STAGE_NAME_466'
 old = 'ティネス砦'
@@ -1763,7 +1763,7 @@ new = 'Memory of Megadosys: War God Space'
 [[message]]
 key = 'STAGE_NAME_563'
 old = 'ウルテカの記憶'
-new = 'Memory of Ulteca'
+new = 'Memory of Urteca'
 [message.format]
 proper = true
 [[message]]
@@ -1772,7 +1772,7 @@ old = '大地の記憶 聖炎の参竜道'
 [[message]]
 key = 'STAGE_NAME_565'
 old = 'ウルテカの記憶 武神の間'
-new = 'Memory of Ulteca: War God Space'
+new = 'Memory of Urteca: War God Space'
 [[message]]
 key = 'STAGE_NAME_566'
 old = '大地の記憶 王家の墓'
@@ -1836,7 +1836,9 @@ old = '黒示す王の間'
 [[message]]
 key = 'STAGE_NAME_582'
 old = '王家の墓'
-new = 'Tomb of the Royal Family'
+new = 'The Royal Family Mausoleum'
+[message.format]
+new = 'Royal Family Mausoleum'
 [[message]]
 key = 'STAGE_NAME_583'
 old = '悪しき竜のねぐら'
@@ -1927,9 +1929,11 @@ new = 'Bitterblack Maze: Rotunda of Dread'
 [[message]]
 key = 'STAGE_NAME_607'
 old = '王家の隠れ部屋 メガドシス高地'
+new = "Royal Family's Hidden Chamber (Megadosys Plateau)"
 [[message]]
 key = 'STAGE_NAME_608'
 old = '王家の隠れ部屋 ウルテカ山岳'
+new = "Royal Family's Hidden Chamber (Urteca Mountains)"
 [[message]]
 key = 'STAGE_NAME_609'
 old = '崩れた進入路'
@@ -2011,15 +2015,19 @@ new = 'Event Dungeon'
 [[message]]
 key = 'STAGE_NAME_645'
 old = '王家の隠れ部屋 メガドシス高地'
+new = "Royal Family's Hidden Chamber (Megadosys Plateau)"
 [[message]]
 key = 'STAGE_NAME_646'
 old = '王家の隠れ部屋 ウルテカ山岳'
+new = "Royal Family's Hidden Chamber (Urteca Mountains)"
 [[message]]
 key = 'STAGE_NAME_647'
 old = '王家の隠れ部屋 ウルテカ山岳'
+new = "Royal Family's Hidden Chamber (Urteca Mountains)"
 [[message]]
 key = 'STAGE_NAME_648'
 old = '王家の隠れ部屋 ウルテカ山岳'
+new = "Royal Family's Hidden Chamber (Urteca Mountains)"
 [[message]]
 key = 'STAGE_NAME_660'
 old = 'ボーナスダンジョン【JP】'
