@@ -7,6 +7,11 @@
       <translation_replace>Area master joins "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
+    <rewrite>
+      <original_match>^エリアの最重要依頼 《(.+)》 が発生$</original_match>
+      <translation_replace>Area's most important request "{0:@}" available</translation_replace>
+      <translation_arg message_set="quest name" />
+    </rewrite>
     <!-- Unblock area -->
     <rewrite>
       <original_match>^封鎖エリア《ハイデル地下霊廟　深部～最深部》開放$</original_match>
@@ -41,6 +46,11 @@ Unblock area "&lt;SPOT {1:@}&gt;"</translation_replace>
       <original_match>^新たな強敵が出現《&lt;SPOT (\d+)&gt;》$</original_match>
       <translation_replace>New powerful enemy at "&lt;SPOT {0}&gt;"</translation_replace>
     </rewrite>
+    <!-- Gathering spot -->
+    <rewrite>
+      <original_match>^魔物集結スポットが出現《&lt;SPOT (\d+)&gt;》$</original_match>
+      <translation_replace>Monster Gathering Spot "&lt;SPOT {0}&gt;" appears</translation_replace>
+    </rewrite>
     <!-- Mixed -->
     <rewrite>
       <original_match>^新たな強敵が出現《&lt;SPOT (\d+)&gt;》
@@ -65,6 +75,38 @@ Unblock area "&lt;SPOT {0}&gt;"</translation_replace>
 封鎖エリアが開放《&lt;SPOT (\d+)&gt;》$</original_match>
       <translation_replace>Rank up of support goods
 Unblock area "&lt;SPOT {0}&gt;"</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^各地の解放軍より救援依頼が発生
+封鎖エリアが開放《&lt;SPOT (\d+)&gt;》$</original_match>
+      <translation_replace>Rescue requests available from the liberation army in various places
+Unblock area "&lt;SPOT {0}&gt;"</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^魔物集結スポットが出現《&lt;SPOT (\d+)&gt;》
+《(.+)》奪還時にエリアマスターが移動$</original_match>
+      <translation_replace>Monster Gathering Spot "&lt;SPOT {0}&gt;" appears
+When "{1}" is recaptured, area master joins</translation_replace>
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^エリアマスターが《(.+)》に合流
+王家より封印されている扉が解放$</original_match>
+      <translation_replace>Area master joins "{0:@}"
+Unlock Royal Family sealed doors</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^エリアマスターが《&lt;SPOT (\d+)&gt;》に合流
+封鎖エリアが開放《&lt;SPOT (\d+)&gt;》$</original_match>
+      <translation_replace>Area master joins "&lt;SPOT {0}&gt;"
+Unblock area "&lt;SPOT {1}&gt;"</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^各地の解放軍より救援依頼が発生
+王家より封印されている扉が解放$</original_match>
+      <translation_replace>Rescue requests available from the liberation army in various places
+Unlock Royal Family sealed doors</translation_replace>
     </rewrite>
   </message_set>
 </replication>
