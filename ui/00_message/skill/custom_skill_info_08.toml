@@ -19,7 +19,7 @@ old = '''
 LV.６でターゲット数増加（２→４）</COL>'''
 new = '''
 Fire magickal arrows that emit an area of health
-restoration at the impact point. (Inflicts damage to undead)
+restoration at the impact point (inflicts damage to undead).
 The field will attach to an ally if the arrow makes contact.
 <COL ffdc78>LV UP: Increases healing power. Increases size of the effect.
 LV.6: Increases number of targets (2→4).</COL>'''
@@ -33,7 +33,7 @@ old = '''
 LV.６でターゲット数増加（２→３）</COL>'''
 new = '''
 Fire magickal arrows that emit an area of debilitation
-recovery at the impact point. (Inflicts damage to undead)
+recovery at the impact point (inflicts damage to undead).
 The field will attach to an ally if the arrow makes contact.
 <COL ffdc78>LV UP: Reduces Stamina cost.
 LV.6: Increases number of targets (2→3).</COL>'''
@@ -113,7 +113,7 @@ old = '''
 LV.６で魔力増加速度の上昇</COL>'''
 new = '''
 Fire magickal arrows that emit an area of Stamina
-restoration at the impact point. (Inflicts damage to undead)
+restoration at the impact point (inflicts damage to undead).
 The field will attach to an ally if the arrow makes contact.
 <COL ffdc78>LV UP: Increases duration. Increases size of the effect.
 LV.6: Increases casting speed.</COL>'''
@@ -290,5 +290,4 @@ new = '''
 EX Additional Effects:
 Extend the optimal range.
 Add Elemental Resist Down accumulation that matches your
-weapon's element.
-'''
+weapon's element.'''

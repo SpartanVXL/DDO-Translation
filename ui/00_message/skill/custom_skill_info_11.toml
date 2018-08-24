@@ -82,7 +82,7 @@ Bombard an enemy with Magick Blade, dealing continuous
 Dark and Slash damage to enemy.
 Number of hits increases with consecutive button presses.
 <COL ffdc78>LV UP Increases damage of skill.
-Lv.6 Increases number of hits with consecutive button presses.</COL>'''
+LV.6 Increases number of hits with consecutive button presses.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_11_239'
 old = '''
@@ -92,7 +92,7 @@ Lv.6で攻撃ヒット回数が増加</COL>'''
 new = '''
 Create a vortex that deals Holy and Impact damage.
 <COL ffdc78>LV UP Increases damage of skill
-Lv.6 Increases number of hits.</COL>'''
+LV.6 Increases number of hits.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_11_243'
 old = '''
@@ -107,4 +107,4 @@ core sword skills. Press the assigned button again to release
 an attack that absorbs an amount of magick based on the number
 of afterimage attacks. Slowly drain magick during activation.
 <COL ffdc78>LV UP Reduces magick drain during activation.
-Lv.6 Increases maximum number of charges from attacks (1→2).</COL>'''
+LV.6 Increases maximum number of charges from attacks (1→2).</COL>'''

@@ -179,7 +179,7 @@ Call forth a magickal orb that acts as a turret and when hit
 by Blast Bit, will generate additional Blast Bits from itself.
 <COL ffdc78>LV UP: Increases duration of the magickal orb.
 LV.6: Increases the damage of the magickal orb, and the amount
-that are placed (1→2)</COL>'''
+that are placed (1→2).</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_04_166'
 old = '''
@@ -209,7 +209,7 @@ old = '''
 <COL ff7878>骸骨／腐死／呪詛／霊体系の敵へのダメージ量増加</COL>'''
 new = '''
 EX Additional Effects:
-Increase the number of magick spheres (5→7)
+Increase the number of magick spheres (5→7).
 Increase damage and blow force.
 Increase chance attack and exhaust attack.
 <COL ff7878>Further increase damage against Skeleton/Undead/Cursed/Spirit enemies.</COL>'''
@@ -253,7 +253,7 @@ new = '''
 EX Additional Effects:
 When enter the magick area, the curing effect
 lingers for an amount of time.
-Increase the number of magick spots you can deploy (1→2)'''
+Increase the number of magick spots you can deploy (1→2).'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_04_219'
 old = '''

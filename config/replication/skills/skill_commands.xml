@@ -354,6 +354,20 @@ Further enhanced with {2:d}.</translation_replace>
       <translation_arg index="3" message_set="skill command cost" />
     </rewrite>
     <rewrite>
+      <original_match>^(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す
+発動後、再度(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押すと攻撃
+　カテゴリ：(.+)
+　(.+)消費で発動可能$</original_match>
+      <translation_replace>Press {0:d}.
+After activating, press {2:d} again to attack.
+　Category: {4}.
+　Consumes {5} on activation.</translation_replace>
+      <translation_arg index="0" message_set="skill command button" />
+      <translation_arg index="2" message_set="skill command button" />
+      <translation_arg index="4" message_set="skill command category" />
+      <translation_arg index="5" message_set="skill command cost" />
+    </rewrite>
+    <rewrite>
       <original_match>^ブースト発動中に(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)または(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押す$</original_match>
       <translation_replace>During boost, press {0:d} or {2:d}.</translation_replace>
       <translation_arg index="0" message_set="skill command button" />
@@ -451,6 +465,10 @@ with perfect timing.</translation_replace>
     <extra>
       <original>魔力２スタック</original>
       <translation>2 magick stacks</translation>
+    </extra>
+    <extra>
+      <original>魔力４スタック</original>
+      <translation>4 magick stacks</translation>
     </extra>
   </message_set>
   <message_set name="skill command stance">

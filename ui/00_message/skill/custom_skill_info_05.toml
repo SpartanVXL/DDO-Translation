@@ -60,7 +60,7 @@ old = '''
 LV.６で効果範囲拡大</COL>'''
 new = '''
 Decreases attribute damage taken and debilitation build-up
-for nearby allies. (Determined by element granted to rod)
+for nearby allies (determined by element granted to rod).
 With more than 1 Force Gauge, the duration will increase.
 <COL ffdc78>LV UP: Increases duration and power of the effect.
 LV.6: Increases the range of the effect.</COL>'''
@@ -115,7 +115,7 @@ LV.６で照射範囲拡大</COL>'''
 new = '''
 Channel a light from your rod towards the enemy.
 Slowly accumulates a debilitation that decreases attribute
-defense of enemies. (Determined by element granted to rod)
+defense of enemies (determined by element granted to rod).
 <COL ffdc78>LV UP: Increases the rate of debilitation accumulation.
 LV.6: Increases the range of the effect.</COL>'''
 [[message]]
