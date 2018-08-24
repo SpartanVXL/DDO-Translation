@@ -240,8 +240,7 @@ old = '''
 new = '''
 EX Additional Effects:
 Change motion only once when activate in the air and add damage.
-This EX effect can be activated again in the air if you attack/climb/land.
-'''
+This EX effect can be activated again in the air if you attack/climb/land.'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_02_214'
 old = '''

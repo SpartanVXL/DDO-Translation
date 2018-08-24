@@ -8,8 +8,7 @@ old = '''
 ランキング%d位以内に入賞'''
 new = '''
 %s
-cleared with rank %d or better.
-'''
+cleared with rank %d or better.'''
 [[message]]
 key = 'SHOP_GOODS_UNLOCK_CONDITION_3'
 old = '''
