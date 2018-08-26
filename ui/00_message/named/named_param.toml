@@ -8182,7 +8182,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2519
 old = '火垂山に巣食う炎獣'
-new = 'Dripping Flame Mountain Haunting Flame Beast'
+new = 'Firefall Mountain Haunting Flame Beast'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2520
@@ -8490,6 +8490,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2596
 old = 'ミュータント・'
+new = 'Mutant'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2598
@@ -8498,10 +8499,12 @@ type = {old = 'None'}
 [[named_param]]
 id = 2599
 old = 'ミュータント・'
+new = 'Mutant'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2600
 old = '大輪の'
+new = 'Large-flowered'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2601
@@ -8510,6 +8513,7 @@ type = {old = 'None'}
 [[named_param]]
 id = 2602
 old = 'グレート・'
+new = 'Great'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2603
@@ -8518,10 +8522,12 @@ type = {old = 'None'}
 [[named_param]]
 id = 2606
 old = 'リトル・'
+new = 'Little'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2607
 old = 'ヒュージ・'
+new = 'Huge'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2608
