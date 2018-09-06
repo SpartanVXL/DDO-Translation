@@ -471,9 +471,10 @@ old = '''
 スタミナが回復する
 <COL ffdc78>LV毎にスタミナ回復量がより増加</COL>'''
 new = '''
-Recovers your stamina after executing Shield
-Sequence.
-<COL ffdc78>LV UP: Further increases stamina recovered.</COL>'''
+Recovers your stamina after executing
+Shield Sequence.
+<COL ffdc78>LV UP: Further increases stamina
+recovered.</COL>'''
 [[message]]
 key = 'IDX_192'
 old = '''

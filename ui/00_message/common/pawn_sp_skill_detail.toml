@@ -11,7 +11,8 @@ old = '''
 一定時間自身の吹き飛ばし力と疲労攻力とチャンス攻力が増加する
 <COL ffdc78> 特技ランクが高いほど効果時間が増加 </COL>'''
 new = '''
-Temporarily increases blow power, fatigue power, and chance attack.
+Temporarily increases blow power, fatigue
+power, and chance attack.
 <COL ffdc78> Skill rank increases effect duration. </COL>'''
 [[message]]
 old = '''

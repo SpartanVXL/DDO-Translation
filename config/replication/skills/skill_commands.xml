@@ -358,8 +358,8 @@ Further enhanced with {2:d}.</translation_replace>
 発動後、再度(セットボタン|&lt;KC ([A-Z,0-9,_]+)&gt;)を押すと攻撃
 　カテゴリ：(.+)
 　(.+)消費で発動可能$</original_match>
-      <translation_replace>Press {0:d}.
-After activating, press {2:d} again to attack.
+      <translation_replace>Press {0:d}. After activating,
+press {2:d} again to attack.
 　Category: {4}.
 　Consumes {5} on activation.</translation_replace>
       <translation_arg index="0" message_set="skill command button" />
