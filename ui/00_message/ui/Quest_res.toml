@@ -622,9 +622,12 @@ old = '%sが%sを装備しているため、出撃できません'
 [[message]]
 key = 'QUEST_MSG_REGULATION_AROMOR'
 old = '防具'
+new = 'Armor'
 [[message]]
 key = 'QUEST_MSG_REGULATION_JEWELRY'
 old = 'ジュエリー'
+new = 'Jewelry'
 [[message]]
 key = 'QUEST_MSG_REGULATION_ABILITY'
 old = '禁止アビリティ'
+new = 'Restricted Ability'
