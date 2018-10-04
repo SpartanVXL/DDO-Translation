@@ -185,6 +185,19 @@
       <translation_arg index="1" message_set="item name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+?)に＜(.+?)＞を(.+?)個納品する$</original_match>
+      <translation_replace>Deliver "{1}" x{2} to {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="item name" />
+      <translation_arg index="2" message_set="numeric" />
+    </rewrite>
+    <rewrite>
+      <original_match>^＜(.+)＞を(.+)個納品する$</original_match>
+      <translation_replace>Deliver "{0}" x{1}</translation_replace>
+      <translation_arg index="0" message_set="item name" />
+      <translation_arg index="1" message_set="numeric" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)に《&lt;ITEM (\d+)&gt;》を(\d+)個納品する$</original_match>
       <translation_replace>Deliver "&lt;ITEM {1}&gt;" x{2} to {0:d}</translation_replace>
       <translation_arg index="0" message_set="npc name" />
@@ -817,9 +830,9 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="item name" />
     </rewrite>
     <rewrite>
-      <original_match>^《(.+)》を入手する$</original_match>
-      <translation_replace>Obtain "{0}"</translation_replace>
-      <translation_arg message_set="item name" />
+      <original_match>^(《|＜)(.+)(》|＞)を入手する$</original_match>
+      <translation_replace>Obtain "{1}"</translation_replace>
+      <translation_arg index="1" message_set="item name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)の前で＜(.+)＞のエモートをする$</original_match>
@@ -1868,6 +1881,12 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)と一緒に《\s*(.+?)\s*》(へ|に)向かう$</original_match>
+      <translation_replace>Head to "{1:@}" with {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^＜\s*(.+?)\s*＞(へ|に)向かう$</original_match>
       <translation_replace>Head to "{0:@}"</translation_replace>
       <translation_arg message_set="location name" />
@@ -1931,6 +1950,17 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <!-- Search -->
     <rewrite>
+      <original_match>^(.+)内で謎の存在を探す$</original_match>
+      <translation_replace>Search for the mystery in {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を落とす(.+)を探す$</original_match>
+      <translation_replace>Search for {1:*} that will drop {0:*}</translation_replace>
+      <translation_arg index="0" message_set="item name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)が再び仕掛けた檻を探す$</original_match>
       <translation_replace>Search for the cage set by {0:d} again</translation_replace>
       <translation_arg message_set="npc name" />
@@ -1960,6 +1990,11 @@ challenge the trial of the Training Chapel</translation_replace>
     <rewrite>
       <original_match>^&lt;SPOT (\d+)&gt;内を調査する$</original_match>
       <translation_replace>Investigate inside &lt;SPOT {0}&gt;</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の近くを調査する$</original_match>
+      <translation_replace>Investigate near {0:d}</translation_replace>
+      <translation_arg message_set="location name" required="true" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)内を調査する$</original_match>
@@ -2070,6 +2105,11 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+?)のところに戻る$</original_match>
+      <translation_replace>Return to {0:d}'s location</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^急ぎ(.+?)に帰還する$</original_match>
       <translation_replace>Return quickly to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
@@ -2105,6 +2145,17 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <!-- Report to -->
     <ignore>^リム転移で神殿に戻り、謁見の間のレオに報告する$</ignore>
+    <rewrite>
+      <original_match>^(.+)から聞いた話を(.+)に報告する$</original_match>
+      <translation_replace>Report {0:d}'s story to {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^集めた噂話を(.+)に報告する$</original_match>
+      <translation_replace>Report gossip to {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
     <rewrite>
       <original_match>^エリアマスターの&lt;NPC (\d+)&gt;に報告する$</original_match>
       <translation_replace>Report to &lt;NPC {0}&gt;, the Area Master</translation_replace>
@@ -2228,6 +2279,17 @@ challenge the trial of the Training Chapel</translation_replace>
       <original_match>^(.+)から出た場所にある礎を開放する$</original_match>
       <translation_replace>Activate the portcrystal located in the place after leaving {0:d}</translation_replace>
       <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)に入手した(.+?)を見せる$</original_match>
+      <translation_replace>Show {0:d} the acquired {1}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="item name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+?)を追いかける$</original_match>
+      <translation_replace>Pursue {0:d}</translation_replace>
+      <translation_arg message_set="npc name" required="true" />
     </rewrite>
     <!-- Grand Missions -->
     <rewrite>
