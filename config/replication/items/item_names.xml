@@ -11,6 +11,16 @@
       <translation>Letter of Instruction</translation>
       <translation_format proper="false">letter of instruction</translation_format>
     </extra>
+    <extra>
+      <original>原始の雫</original>
+      <translation>Primeval Drops</translation>
+      <translation_format proper="false" />
+    </extra>
+    <extra>
+      <original>プチマフィン</original>
+      <translation>Petit Muffin</translation>
+      <translation_format proper="false">petit muffin</translation_format>
+    </extra>
     <rewrite>
       <original_match>^エンブレムストーン・(.+)$</original_match>
       <translation_replace>Emblem Stone ({0})</translation_replace>
