@@ -41,7 +41,8 @@ old = '''
 セットボタンを押す
 <COL ff7878>錬成値が最大の状態での発動で
 戦甲へのカウンターに特化</COL>'''
-new = '''Press the assigned button.
+new = '''
+Press the assigned button.
 <COL ff7878>Effective against War-Ready enemies if this skill is executed
 on a full elixir stack.</COL>'''
 [[message]]
