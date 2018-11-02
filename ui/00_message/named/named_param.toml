@@ -8575,14 +8575,17 @@ type = {old = 'None'}
 [[named_param]]
 id = 2619
 old = '甘い香りのする'
+new = 'Sweet scent of'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2620
 old = '甘党の'
+new = 'Sweet Tooth'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2621
 old = '若木の'
+new = 'Sapling'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2622
@@ -8591,10 +8594,12 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 2623
 old = '至って普通の'
+new = 'Extremely Ordinary'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2624
 old = 'ズールの亡霊'
+new = 'Ghost of Zuhl'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2625
