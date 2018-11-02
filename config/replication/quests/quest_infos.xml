@@ -168,6 +168,11 @@
       <translation_arg index="1" message_set="location name" />
       <translation_replace>To {0:d}: {1:@}</translation_replace>
     </rewrite>
+    <rewrite>
+      <original_match>^(.+)はどこだ！？</original_match>
+      <translation_arg index="0" message_set="npc name" required="true" />
+      <translation_replace>Where Is {0:d}!?</translation_replace>
+    </rewrite>
     <!-- Quest objectives -->
     <rewrite>
       <original_match>^見つけた物を(.+)に渡す$</original_match>
@@ -1925,6 +1930,11 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^ワールドクエストを受注し、(.+)(へ|に)向かう$</original_match>
+      <translation_replace>Accept the World Quest, then head to {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)(へ|に)向かう$</original_match>
       <translation_replace>Head to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
@@ -1956,7 +1966,7 @@ challenge the trial of the Training Chapel</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^(.+)を落とす(.+)を探す$</original_match>
-      <translation_replace>Search for {1:*} that will drop {0:*}</translation_replace>
+      <translation_replace>Search for {1:*} that drop {0:*}</translation_replace>
       <translation_arg index="0" message_set="item name" />
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
