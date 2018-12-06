@@ -1424,6 +1424,9 @@ new = 'Blaze Grigori'
 [[message]]
 key = 'ENEMY_NAME_362'
 old = 'バフォメット'
+new = 'Baphomet'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_363'
 old = 'イフリート'
@@ -1466,6 +1469,7 @@ new = 'Pyre Saurian'
 [[message]]
 key = 'ENEMY_NAME_372'
 old = '狂侵スカージ'
+new = 'Severely Infected Scourge'
 [[message]]
 key = 'ENEMY_NAME_373'
 old = 'レッドズール'
@@ -1516,84 +1520,115 @@ pluralize = false
 [[message]]
 key = 'ENEMY_NAME_394'
 old = 'アバドーン'
+new = 'Abaddon'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_395'
 old = '蟲塚'
 [[message]]
 key = 'ENEMY_NAME_396'
 old = 'アルベ'
+new = 'Albe'
 [[message]]
 key = 'ENEMY_NAME_397'
 old = 'スケルトンサイクロプス・フロスト'
+new = 'Frost Skeleton Cyclops'
 [[message]]
 key = 'ENEMY_NAME_398'
 old = 'レギオン'
+new = 'Legion'
 [[message]]
 key = 'ENEMY_NAME_399'
 old = 'レギオンリーダー'
+new = 'Legion Leader'
 [[message]]
 key = 'ENEMY_NAME_400'
 old = 'シャドーグリゴリ'
+new = 'Shadow Grigori'
 [[message]]
 key = 'ENEMY_NAME_401'
 old = 'マーマン'
+new = 'Merman'
 [[message]]
 key = 'ENEMY_NAME_402'
 old = 'ポイズンマーマン'
+new = 'Poison Merman'
 [[message]]
 key = 'ENEMY_NAME_403'
 old = 'ダゴン'
+new = 'Dagon'
 [[message]]
 key = 'ENEMY_NAME_404'
 old = 'スケルトンサイクロプス・ボルト'
+new = 'Bolt Skeleton Cyclops'
 [[message]]
 key = 'ENEMY_NAME_405'
 old = 'ウコバク'
+# https://en.wikipedia.org/wiki/Ukobach
+new = 'Ukobach'
 [[message]]
 key = 'ENEMY_NAME_406'
 old = '黒竜の覚者'
+new = "Arisen of the Black Dragon"
 [[message]]
 key = 'ENEMY_NAME_407'
 old = 'ゴルゴーン'
+new = 'Gorgon'
 [[message]]
 key = 'ENEMY_NAME_408'
 old = 'スケルトンサイクロプス・フレイム'
+new = 'Flame Skeleton Cyclops'
 [[message]]
 key = 'ENEMY_NAME_409'
 old = 'ウァレフォル'
+# https://en.wikipedia.org/wiki/Valefar
+new = 'Valefar'
 [[message]]
 key = 'ENEMY_NAME_410'
 old = '黒竜'
+new = 'Black Dragon'
+[message.format]
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_411'
 old = '元覚者隊統率レオ'
 [[message]]
 key = 'ENEMY_NAME_412'
 old = 'ボルト・マキナ'
+new = 'Bolt Machina'
 [[message]]
 key = 'ENEMY_NAME_413'
 old = 'レイジゴースト'
+new = 'Rage Ghost'
 [[message]]
 key = 'ENEMY_NAME_414'
 old = 'ギガン・マキナトリニティ'
+new = 'Gigant Machina Trinity'
 [[message]]
 key = 'ENEMY_NAME_415'
 old = 'フロスト・マキナトリニティ'
+new = 'Frost Machina Trinity'
 [[message]]
 key = 'ENEMY_NAME_416'
 old = 'ボルト・マキナトリニティ'
+new = 'Bolt Machina Trinity'
 [[message]]
 key = 'ENEMY_NAME_418'
 old = '暗黒の竜晶'
+new = 'Dragon Crystal of Darkness'
 [[message]]
 key = 'ENEMY_NAME_419'
 old = '祝福の結晶'
+new = 'Crystal of Blessing'
 [[message]]
 key = 'ENEMY_NAME_420'
 old = '強い闇を放つ暗黒竜晶'
 [[message]]
 key = 'ENEMY_NAME_421'
 old = 'シェムハザ'
+new = 'Samyaza'
+# https://en.wikipedia.org/wiki/Samyaza
 [[message]]
 key = 'ENEMY_NAME_422'
 old = '理を破壊する力'
@@ -1603,15 +1638,22 @@ old = '黒竜イベント用'
 [[message]]
 key = 'ENEMY_NAME_424'
 old = '破滅の竜晶'
+new = 'Dragon Crystal of Destruction'
 [[message]]
 key = 'ENEMY_NAME_425'
 old = 'ゴルゴラン'
+new = 'Golgorran'
+[message.format]
+proper = true
+pluralize = false
 [[message]]
 key = 'ENEMY_NAME_426'
 old = '黒剣'
+new = 'Black Sword'
 [[message]]
 key = 'ENEMY_NAME_427'
 old = '束縛の竜晶'
+new = 'Dragon Crystal of Binding'
 [[message]]
 key = 'ENEMY_NAME_417'
 old = '悪しき竜'

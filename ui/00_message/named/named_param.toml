@@ -9109,6 +9109,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2802
 old = '古精霊竜の守獣'
+new = 'Old Spirit Dragon Guard Beast'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2803
@@ -9169,6 +9170,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2817
 old = '不完全な'
+new = 'Defective'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2818
@@ -9221,6 +9223,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2830
 old = '白竜黒騎士'
+new = 'White Dragon Black Knight'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2831
@@ -9277,6 +9280,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2857
 old = 'はぐれ'
+new = 'Stray'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 2858
@@ -9301,10 +9305,12 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 2863
 old = '死を約束するもの'
+new = 'One That Promises Death'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2864
 old = '冥府の番人'
+new = 'Netherworld Guardian'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2865
@@ -9901,6 +9907,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 3060
 old = '谷の賢者ノーム・エント'
+new = '谷の賢者ノーム Ent'
 type = {old = 'Replace'}
 [[named_param]]
 id = 3061
@@ -9929,6 +9936,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 3067
 old = 'ムーンライズ・シャドーキメラ'
+new = 'Moonrise Shadow Chimera'
 type = {old = 'Replace'}
 [[named_param]]
 id = 3068
@@ -9937,6 +9945,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 3069
 old = 'マウンテン・サイクロプス'
+new = 'Mountain Cyclops'
 type = {old = 'Replace'}
 [[named_param]]
 id = 3070
@@ -9965,6 +9974,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 3076
 old = 'サンライズ・ブレイズキメラ'
+new = 'Sunrise Blaze Chimera'
 type = {old = 'Replace'}
 [[named_param]]
 id = 3077
@@ -10013,14 +10023,17 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 3088
 old = 'レッドズール・ザ・デビル'
+new = 'Red Zuhl the Devil'
 type = {old = 'Replace'}
 [[named_param]]
 id = 3089
 old = 'さまよう'
+new = 'Wandering'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 3090
 old = 'さまよう'
+new = 'Wandering'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 3139
@@ -10061,10 +10074,12 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 3148
 old = '行く手を阻む'
+new = 'Obstructing'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 3149
 old = '行く手を阻む'
+new = 'Obstructing'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 3151
@@ -10241,6 +10256,7 @@ type = {old = 'Replace'}
 [[named_param]]
 id = 3197
 old = '白竜の覚者・レオ'
+new = 'Arisen of the White Dragon, Leo'
 type = {old = 'Replace'}
 [[named_param]]
 id = 3198
@@ -10249,6 +10265,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 3199
 old = '異界の'
+new = 'of the Other World'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 3200
@@ -10289,6 +10306,7 @@ type = {old = 'Prefix'}
 [[named_param]]
 id = 3211
 old = '異界の'
+new = 'of the Other World'
 type = {old = 'Prefix'}
 [[named_param]]
 id = 3212
