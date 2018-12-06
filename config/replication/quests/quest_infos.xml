@@ -170,8 +170,18 @@
     </rewrite>
     <rewrite>
       <original_match>^(.+)はどこだ！？</original_match>
-      <translation_arg index="0" message_set="npc name" required="true" />
+      <translation_arg message_set="npc name" required="true" />
       <translation_replace>Where Is {0:d}!?</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)追懐戦記$</original_match>
+      <translation_arg message_set="location name" />
+      <translation_replace>{0:d} War Chronicles</translation_replace>
+    </rewrite>
+    <rewrite>
+      <original_match>^(S|A|B)ランク　指定討伐：(.+)$</original_match>
+      <translation_replace>{0} Rank Target Subjugation: {1:@}</translation_replace>
+      <translation_arg index="1" message_set="location name" />
     </rewrite>
     <!-- Quest objectives -->
     <rewrite>
@@ -1979,6 +1989,34 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)へ入るための(.+)?(へ|に)向かう$</original_match>
+      <translation_replace>Head to {1:d} to enter {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の入口(へ|に)向かう$</original_match>
+      <translation_replace>Head to the entrance of {0:d}</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の(.+)?(へ|に)向かう$</original_match>
+      <translation_replace>Head to {1:d} in {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" required="true" />
+      <translation_arg index="1" message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)と落ち合うため(.+)?(へ|に)向かう$</original_match>
+      <translation_replace>Head to {1:d} to rendezvous with {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の入口(へ|に)向かう$</original_match>
+      <translation_replace>Head to the entrance of {0:d}</translation_replace>
+      <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)(へ|に)向かう$</original_match>
       <translation_replace>Head to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
@@ -2268,6 +2306,12 @@ challenge the trial of the Training Chapel</translation_replace>
       <original_match>^懸念していた(.+?)に報告する$</original_match>
       <translation_replace>Report to the concerned {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の入口(のいる|の|で|にいる)(.+?)に報告する$</original_match>
+      <translation_replace>Report to {2:d} at the entrance to {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="2" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)(のいる|の|で|にいる)(.+?)に報告する$</original_match>
