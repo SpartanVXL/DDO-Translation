@@ -81,6 +81,10 @@ q00030240_00: The Dreadful Passage                                              
 q00030250_00: The Relics of the First King                                             | 初代王の遺品
 q00030260_00: Hope's Bitter End                                                        | 望みの果て
 q00030270_00: Those Who Follow the Dragon                                              | 竜を継ぐ者
+q00030410_00:                                                                          | 理の崩壊
+q00030420_00:                                                                          | 紡ぎし望み
+q00030430_00:                                                                          | 白竜の覚者
+q00030440_00:                                                                          | すべての行く末
 q10300100_00:                                                                          | ニガい思い出の味
 q10300101_00:                                                                          | ティネス砦の食糧を調達する２
 q10300102_00: Despair of the Cook "Carrie"                                             | 絶望の料理番“キャリー”
@@ -139,6 +143,35 @@ q10320601_00: Intelligence Assessment: People Rising in Revolt                  
 q10320700_00:                                                                          | 嵐の前の静けさ
 q10320701_00:                                                                          | 闇裂く者たち
 q10320702_00:                                                                          | 闘争は夢の跡
+q15010001_00:                                                                          | Bランク　指定討伐：ハイデル平原
+q15010002_00:                                                                          | Aランク　指定討伐：ハイデル平原
+q15010003_00:                                                                          | Sランク　指定討伐：ハイデル平原
+q15020001_00:                                                                          | Bランク　指定討伐：ディナン深層林
+q15020002_00:                                                                          | Aランク　指定討伐：ディナン深層林
+q15020003_00:                                                                          | Sランク　指定討伐：ディナン深層林
+q15030001_00:                                                                          | Bランク　指定討伐：ミスリウ森林
+q15030002_00:                                                                          | Aランク　指定討伐：ミスリウ森林
+q15030003_00:                                                                          | Sランク　指定討伐：ミスリウ森林
+q15040001_00:                                                                          | Bランク　指定討伐：ボルド鉱山
+q15040002_00:                                                                          | Aランク　指定討伐：ボルド鉱山
+q15040003_00:                                                                          | Sランク　指定討伐：ボルド鉱山
+q15050001_00:                                                                          | Bランク　指定討伐：ダウ渓谷
+q15050002_00:                                                                          | Aランク　指定討伐：ダウ渓谷
+q15050003_00:                                                                          | Sランク　指定討伐：ダウ渓谷
+q15060001_00:                                                                          | Bランク　指定討伐：バートランド平原
+q15060002_00:                                                                          | Aランク　指定討伐：バートランド平原
+q15060003_00:                                                                          | Sランク　指定討伐：バートランド平原
+q15070001_00:                                                                          | Bランク　指定討伐：ザンドラ禁域
+q15080001_00:                                                                          | Bランク　指定討伐：亡都メルゴダ
+q15090001_00:                                                                          | 魔赤島　Ｂ
+q15100002_00:                                                                          | Aランク　指定討伐：モロー樹林
+q15110001_00:                                                                          | Bランク　指定討伐：ファーラナ平原
+q15110002_00:                                                                          | Aランク　指定討伐：ファーラナ平原
+q15110003_00:                                                                          | Sランク　指定討伐：ファーラナ平原
+q15120002_00:                                                                          | Sランク　指定討伐：キンガル峡谷
+q15130003_00:                                                                          | フェルヤナ荒原　Ｓ
+q15140003_00:                                                                          | Sランク　指定討伐：メガドシス高地
+q15150003_00:                                                                          | Aランク　指定討伐：ウルテカ山岳
 q19000004_00:                                                                          | パッケージクエスト検証4
 q20000000_00: A Calamity at the Cathedral Ruins                                        | 廃教会の異変
 q20000001_00: The Woes of a Merchant                                                   | ある行商人の悩み
@@ -625,6 +658,12 @@ q22018055_00:                                                                   
 q22018056_00: Time Restriction: 鬼の居ぬ間の採灰道                                              | 【時限採取】鬼の居ぬ間の採灰道
 q22018057_00:                                                                          | 悪を断ち切る抑止力
 q22018058_00: High Difficulty: アッカーシェラン各地より救援要請                                        | 【高難度】アッカーシェラン各地より救援要請
+q22020000_00:                                                                          | 激昂の突進
+q22020001_00:                                                                          | 激昂の邂逅
+q22020002_00:                                                                          | 激昂の死闘
+q22020003_00:                                                                          | 激昂の激闘
+q22020004_00:                                                                          | 激昂の処刑人
+q22020005_00:                                                                          | 激昂の黒煙
 q29300000_00: Dacreim Fortress Recapture Battle                                        | ダクレイム砦奪還戦
 q29300001_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
 q29300002_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
@@ -1360,6 +1399,22 @@ q50302001_00:                                                                   
 q50303000_00: Flames of Darkness: Restricted Stage                                     | 暗晦の炎　限界域
 q50309000_00:                                                                          | 【３周年記念】白竜杯
 q50309001_00:                                                                          | 【３周年記念】速移の極み
+q50400000_00:                                                                          | 黒界の門番
+q50400001_00: High Difficulty: 黒界の門番                                                   | 【高難度】黒界の門番
+q50400002_00:                                                                          | 狂宴に舞う蒼影
+q50400003_00: High Difficulty: 狂宴に舞う蒼影                                                 | 【高難度】狂宴に舞う蒼影
+q50400004_00:                                                                          | 黒き闇の覚者
+q50400005_00: High Difficulty: 黒き闇の覚者                                                  | 【高難度】黒き闇の覚者
+q50400006_00:                                                                          | 理を破壊する力
+q50400007_00: High Difficulty: 理を破壊する力                                                 | 【高難度】理を破壊する力
+q50400008_00:                                                                          | 大竜晶破壊戦：抗う大地
+q50400009_00:                                                                          | 大竜晶破壊戦：奪われた王宮
+q50400010_00:                                                                          | 大竜晶破壊戦：主無き古城
+q50400011_00:                                                                          | 大竜晶破壊戦：捧げられし廃都
+q50400012_00:                                                                          | 【限界域】理を破壊する力
+q50400013_00:                                                                          | 砦に轟く戦鬼連合
+q50400014_00:                                                                          | 黒の殉教者
+q50400015_00:                                                                          | レジェンドオブレスタニア
 q60000001_00: Fighter Tactics Trial: Break Attack                                      | 破攻の証　ファイター戦術試練
 q60000002_00: Gathering in the Clan Tavern                                             | クラン酒場に集う勇
 q60000003_00: Fighter Tactics Trial: A Stubborn Shield                                 | 頑盾の証　ファイター戦術試練
@@ -1655,6 +1710,19 @@ q60321003_00: Urteca Mountains Trial: 原初の集落                           
 q60321004_00: Urteca Mountains Trial: 建設資材集積場                                          | ウルテカ山岳　試練：建設資材集積場
 q60321010_00: Urteca Mountains Trial: 闇の滴り                                             | ウルテカ山岳　試練：闇の滴り
 q60321011_00:                                                                          | 彼方より堕ち呼ばれし魔道
+q60340000_00:                                                                          | 一目ごとに想いを込めて＜１＞
+q60340001_00:                                                                          | 一目ごとに想いを込めて＜２＞
+q60340002_00:                                                                          | 麗しの君へ綴る文＜１＞
+q60340003_00:                                                                          | 麗しの君へ綴る文＜２＞
+q60350000_00:                                                                          | ガルドノック砦の異変
+q60350001_00:                                                                          | 神殿を狙うは――
+q60350002_00:                                                                          | 次代の竜となる者へ
+q61000000_00:                                                                          | ワイルドハントのご案内
+q61000001_00:                                                                          | 竜の力を帯びた武具＜１＞
+q61000002_00:                                                                          | 竜の力を帯びた武具＜２＞
+q61000003_00:                                                                          | 竜スキル解放PQ③
+q61000004_00:                                                                          | 黒呪の迷宮　深淵への案内
+q61000005_00:                                                                          | 途絶えぬ闇
 q80200000_00: Elementary Vegetable Dish                                                | 野菜料理初級編
 q80200001_00: Elementary Mushroom Dish                                                 | キノコ料理初級編
 q80200002_00: Elementary Meat Dish                                                     | 肉料理初級編
@@ -1794,18 +1862,21 @@ q90030102_00: Dacreim Fortress Recapture Battle                                 
 q90030103_00: Dacreim Fortress Recapture Battle                                        | ダクレイム砦奪還戦
 q90030104_00: Dacreim Fortress Recapture Battle: Enemy Annihilation                    | ダクレイム砦奪還戦　戦況：敵軍殲滅
 q90030105_00: Dacreim Fortress Recapture Battle: Boss Annihilation                     | ダクレイム砦奪還戦　戦況：大将討滅
+q90030106_00: Dacreim Fortress Recapture Battle: Boss Annihilation                     | ダクレイム砦奪還戦　戦況：大将討滅
 q90030200_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
 q90030201_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
 q90030202_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
 q90030203_00: Jifule Fortress Capture Battle                                           | ジフール砦攻略戦
 q90030204_00: Jifule Fortress Capture Battle: Enemy Annihilation                       | ジフール砦攻略戦　戦況：敵軍殲滅
 q90030205_00: Jifule Fortress Capture Battle: Boss Annihilation                        | ジフール砦攻略戦　戦況：大将討滅
+q90030206_00: Jifule Fortress Capture Battle: Boss Annihilation                        | ジフール砦攻略戦　戦況：大将討滅
 q90030300_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
-q90030301_00: The Deathly Battle of the Forest of Mist: Main Event                     | 霧の森の死闘：本開催
-q90030302_00: The Deathly Battle of the Forest of Mist: Ranking                        | 霧の森の死闘：ランキング
-q90030303_00: The Deathly Battle of the Forest of Mist: Reward Receiving               | 霧の森の死闘：報酬受取
+q90030301_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
+q90030302_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
+q90030303_00: The Deathly Battle of the Forest of Mist                                 | 霧の森の死闘
 q90030304_00: The Deathly Battle of the Forest of Mist: Enemy Annihilation             | 霧の森の死闘　戦況：敵軍殲滅
 q90030305_00: The Deathly Battle of the Forest of Mist: Boss Annihilation              | 霧の森の死闘　戦況：大将討滅
+q90030306_00:                                                                          | 霧の森の死闘　戦況：大将奮起
 q90030400_00: Resurrection of the Flame of Despair                                     | 蘇りし絶望の炎
 q90030401_00: Resurrection of the Flame of Despair                                     | 蘇りし絶望の炎
 q90030402_00: Resurrection of the Flame of Despair                                     | 蘇りし絶望の炎
@@ -1813,3 +1884,12 @@ q90030403_00: Resurrection of the Flame of Despair                              
 q90030404_00: Resurrection of the Flame of Despair: Evil Dragon Reborn                 | 蘇りし絶望の炎　戦況：悪しき竜再誕
 q90030405_00: Resurrection of the Flame of Despair: Firefall Peak                      | 蘇りし絶望の炎　戦況：火垂れ山頂上
 q90030406_00: Resurrection of the Flame of Despair: Restricted Stage                   | 蘇りし絶望の炎　戦況：限界域
+q90040000_00:                                                                          | アッカーシェラン追懐戦記
+q90040001_00:                                                                          | アッカーシェラン追懐戦記
+q90040002_00:                                                                          | アッカーシェラン追懐戦記
+q90040003_00:                                                                          | アッカーシェラン追懐戦記
+q90040004_00:                                                                          | アッカーシェラン追懐戦記
+q90040005_00:                                                                          | 獣の将との戦い：ダクレイム砦
+q90040006_00:                                                                          | 骸の将との戦い：ジフール砦
+q90040007_00:                                                                          | 戦の将との戦い：展望城
+q90040008_00:                                                                          | 闇の将との戦い：霧の森

@@ -19,6 +19,7 @@ old = '''
 [[message]]
 key = 'CYCLE_QUEST_INFO_65'
 old = '本作戦進行中'
+new = 'Mission in Progress'
 [[message]]
 key = 'CYCLE_QUEST_INFO_65ex1'
 old = '''
@@ -54,6 +55,7 @@ old = '''
 それまでは待機とする'''
 [[message]]
 old = '戦果報酬配分中'
+new = 'War Result Reward Distribution'
 [[message]]
 old = '''
 メガドにいるレイモンドより、各個人の戦果に伴う

@@ -103,15 +103,19 @@ old = '最奥に座す黒騎士を討伐する（残り：１分）'
 [[message]]
 key = 'q90040004_00_5019'
 old = '＜ダクレイム砦＞に現れた魔物を討伐する'
+new = 'Defeat the demons that appeared in ＜ダクレイム砦＞'
 [[message]]
 key = 'q90040004_00_5020'
 old = '＜ジフール砦＞に現れた魔物を討伐する'
+new = 'Defeat the demons that appeared in ＜ジフール砦＞'
 [[message]]
 key = 'q90040004_00_5021'
 old = '＜隠匿の王間＞に現れた魔物を討伐する'
+new = 'Defeat the demons that appeared in ＜隠匿の王間＞'
 [[message]]
 key = 'q90040004_00_5022'
 old = '＜魔角の間＞に現れた魔物を討伐する'
+new = 'Defeat the demons that appeared in ＜魔角の間＞'
 [[message]]
 key = 'q90040004_00_5023'
 old = '魔物が討伐されるまで自軍旗を防衛する'
@@ -142,6 +146,7 @@ old = '＜黒示す王の間＞最奥を目指す'
 [[message]]
 key = 'q90040004_00_5248'
 old = '遭遇する魔物を全滅させる'
+new = 'Defeat 遭遇する魔物'
 [[message]]
 key = 'q90040004_00_130'
 old = ''

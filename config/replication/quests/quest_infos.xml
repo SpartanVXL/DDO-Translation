@@ -1384,6 +1384,18 @@ challenge the trial of the Training Chapel</translation_replace>
       <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)の使いの(.+)と話す$</original_match>
+      <translation_replace>Speak with {0:d}'s envoy {1:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)に帰還し(.+)と話す$</original_match>
+      <translation_replace>Return to {0:d} and speak with {1:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+?)と話す$</original_match>
       <translation_replace>Speak with {0:d}</translation_replace>
       <translation_arg message_set="npc name" />
@@ -1613,6 +1625,11 @@ challenge the trial of the Training Chapel</translation_replace>
       <!-- Might be better to ignore this? -->
       <original_match>^捜索状況の確認へ向かう$</original_match>
       <translation_replace>Head to confirm the search situation</translation_replace>
+    </rewrite>
+    <rewrite>
+      <!-- Might be better to ignore this? -->
+      <original_match>^新たな手掛かりの場所へ向かう$</original_match>
+      <translation_replace>Head to the location of the fresh trail</translation_replace>
     </rewrite>
     <rewrite>
       <original_match>^プレイポイントを獲得するため&lt;STG (\d+)&gt;へ向かう$</original_match>
@@ -1933,6 +1950,33 @@ challenge the trial of the Training Chapel</translation_replace>
       <original_match>^ワールドクエストを受注し、(.+)(へ|に)向かう$</original_match>
       <translation_replace>Accept the World Quest, then head to {0:d}</translation_replace>
       <translation_arg message_set="location name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)前で待つ(.+)の元(へ|に)向かう$</original_match>
+      <translation_replace>Head to {1:d} waiting before {0:d}</translation_replace>
+      <translation_arg index="0" message_set="location name" />
+      <translation_arg index="1" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)を連れ秘密の扉の場所(へ|に)向かう$</original_match>
+      <translation_replace>Head to the location of the secret door with {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の場所(へ|に)向かう$</original_match>
+      <translation_replace>Head to the location of {0:d}</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)の場所(へ|に)向かう$</original_match>
+      <translation_replace>Head to the location of {0:d}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^(.+)と共に(.+)(へ|に)向かう$</original_match>
+      <translation_replace>Head to {1:d} with {0:d}</translation_replace>
+      <translation_arg index="0" message_set="npc name" />
+      <translation_arg index="1" message_set="location name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)(へ|に)向かう$</original_match>
