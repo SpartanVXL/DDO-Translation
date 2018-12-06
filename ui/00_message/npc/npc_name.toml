@@ -1937,6 +1937,9 @@ new = 'Gas'
 [[message]]
 old = 'アルベ'
 new = 'Albe'
+[message.format]
+proper = false
+pluralize = true
 [[message]]
 old = 'ヴォーラ'
 new = 'Vora'
@@ -3249,10 +3252,15 @@ old = 'レンテン'
 new = 'Renton'
 [[message]]
 old = '黒竜'
+new = 'Black Dragon'
+[message.format]
+proper = false
 [[message]]
 old = 'ミシアル'
+new = 'Mysial'
 [[message]]
 old = 'レオ'
+new = 'Leo'
 [[message]]
 old = '水竜の王'
 [[message]]
@@ -3279,35 +3287,51 @@ old = '竜スキル合体'
 old = 'リュシアン'
 [[message]]
 old = 'トラバース'
+new = 'Travers'
 [[message]]
 old = 'リュシアン'
 [[message]]
 old = 'アンジェロ'
+new = 'Angelo'
 [[message]]
 old = 'シェリー'
+new = 'Shelly'
 [[message]]
 old = 'レオ'
+new = 'Leo'
 [[message]]
 old = 'ガルドリン'
+new = 'Gurdolin'
 [[message]]
 old = 'ソネル'
+new = 'Sonel'
 [[message]]
 old = 'エリオット'
+new = 'Elliot'
 [[message]]
 old = 'メフィス'
+new = 'Mephis'
 [[message]]
 old = 'メイロワ'
+new = 'Meirova'
 [[message]]
 old = 'セシリー'
+new = 'Cecily'
 [[message]]
 old = 'ジリアン'
+new = 'Gillian'
 [[message]]
 old = 'リズ'
+new = 'Lise'
 [[message]]
 old = 'キルスティ'
+new = 'Kirsty'
 [[message]]
 old = 'エメラダ'
+new = 'Emerada'
 [[message]]
 old = 'メイリーフ'
+new = 'Mayleaf'
 [[message]]
 old = 'アデルドナハ'
+new = 'Adair Donnchadh'
