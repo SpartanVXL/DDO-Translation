@@ -1259,10 +1259,8 @@ old = '編集'
 new = 'Edit'
 [[message]]
 key = 'OPTION_MSG_UI_BIGSIZE'
-#NEEDS REVIEW
-#UIを拡大表示する (解像度1920×1080 以上で有効)
 old = 'UIを拡大表示する (解像度1600×900 以上で有効)'
-new = 'Enlarge UI (Resolution 1920×1080 or higher)'
+new = 'Enlarge UI (Resolution 1600×900 or higher)'
 [[message]]
 key = 'OPTION_MSG_CAPTION_CLAN'
 old = 'クラン'

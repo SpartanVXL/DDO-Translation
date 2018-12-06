@@ -2570,9 +2570,6 @@ key = 'ana_bitterblack_match_003'
 old = 'クイックパーティー申請をキャンセルしますか？'
 [[message]]
 key = 'ana_bitterblack_match_004'
-#NEEDS REVIEW
-#現在のジョブで突入準備しますか？
-#<COL aa1414>決定するとリセットするまでジョブは変更できません</COL>
 old = '''
 このルートに現在のジョブで突入準備しますか？
 <COL aa1414>決定するとリセットするまでジョブは変更できません
@@ -2584,7 +2581,12 @@ old = '''
 new = '''
 Are you sure you want to embark
 with your current vocation?
-<COL aa1414>Once decided it cannot be changed until reset.</COL>'''
+<COL aa1414>Once decided it cannot be changed until reset.
+
+また、
+一度でも冥府1をクリアするとルートが固定されます
+進行と報酬のリセットをするまで、ルートの変更は
+できません</COL>'''
 [[message]]
 key = 'ana_bitterblack_match_005'
 old = '突入方法を選択してください'

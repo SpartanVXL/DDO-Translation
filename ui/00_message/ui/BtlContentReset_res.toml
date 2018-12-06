@@ -21,18 +21,6 @@ old = '''
 クリア報酬が発生しなくなります'''
 [[message]]
 key = 'BTL_CONTENT_RESET_CONF_RESET_NO_COST'
-#NEEDS REVIEW
-#<COL d7b450>進行のリセット</COL>を行いますか？
-#下記の項目がリセットされます
-#
-#・覚者、ポーンのレベル
-#・チェックポイントなどの進行データ（※1）
-#・<COL d7b450>入手したすべてのアイテム</COL>（※2）
-#
-#※1…<COL d7b450>宝箱などの報酬はリセットされません</COL>
-#　　  友人と最初から遊ぶ場合に活用します
-#※2…<COL d7b450><ITEM 21630></COL>や、<COL d7b450><ITEM 23364></COL>
-#　　  <COL d7b450><ITEM 21651></COL>等は大変貴重です。ご注意ください
 old = '''
 <COL d7b450>進行のリセット</COL>を行いますか？
 下記の項目がリセットされます
@@ -53,30 +41,20 @@ Do you want to <COL d7b450>reset progress</COL>?
 The following items will be reset:
 
 ・Arisen, Pawn levels.
-・Progress data such as checkpoints. (※1)
-・<COL d7b450>All acquired items.</COL> (※2)
+・Progress data such as checkpoints. (※1)(※2)
+・<COL d7b450>All acquired items.</COL> (※3)
 
-※１…<COL d7b450>Rewards such as treasure chests
+※１…<COL d7b450>一度でも冥府1をクリアしている場合</COL>
+　　  進行と報酬のリセットをするまで
+　　  <COL d7b450>ルートは変更できません</COL>
+※２…<COL d7b450>Rewards such as treasure chests
 　　　are not reset.</COL> Useful for playing
 　　　from beginning with friends.
-※２…<COL d7b450><ITEM 21630></COL>, <COL d7b450><ITEM 23364></COL>,
+※３…<COL d7b450><ITEM 21630></COL>, <COL d7b450><ITEM 23364></COL>,
 　　　<COL d7b450><ITEM 21651></COL> are very valuable.
 　　　Please be careful.'''
 [[message]]
 key = 'BTL_CONTENT_RESET_CONF_RESET'
-#NEEDS REVIEW
-#<UNTN KT> %d<UNIT KT>を使用して
-#<COL d7b450>進行と報酬のリセット</COL>を行いますか？（残り%d<UNIT KT>）
-#下記の内容がリセットされます
-#
-#・覚者、ポーンのレベル
-#・チェックポイントなどの進行データ
-#・<COL d7b450>進行中の宝箱や報酬データ</COL>（※1）
-#・<COL d7b450>入手したすべてのアイテム</COL>（※2）
-#
-#※1…<COL d7b450>黒呪の迷宮を再周回するために必ず必要です</COL>
-#※2…<COL d7b450><ITEM 21630></COL>や、<COL d7b450><ITEM 23364></COL>
-#　　  <COL d7b450><ITEM 21651></COL>等は大変貴重です。ご注意ください
 old = '''
 <UNTN KT> %d<UNIT KT>を使用して
 <COL d7b450>進行と報酬のリセット</COL>を行いますか？（残り%d<UNIT KT>）
@@ -97,15 +75,16 @@ Do you want to <COL d7b450>reset rewards
 and progress</COL>? (<UNIT KT>%d remaining)
 The following contents will be reset:
 
-・Arisen, Pawn levels.
+・Arisen, Pawn levels. (※1)
 ・Progress data such as checkpoints.
 ・<COL d7b450>In-progress treasure chests
-　and reward data.</COL> (※1)
-・<COL d7b450>All acquired items.</COL> (※2)
+　and reward data.</COL> (※2)
+・<COL d7b450>All acquired items.</COL> (※3)
 
-※１…<COL d7b450>Always necessary to reclaim
+※１…固定されているルートが<COL d7b450>変更可能になります</COL>
+※２…<COL d7b450>Always necessary to reclaim
 　　　Bitterblack Maze.</COL>
-※２…<COL d7b450><ITEM 21630></COL>, <COL d7b450><ITEM 23364></COL>
+※３…<COL d7b450><ITEM 21630></COL>, <COL d7b450><ITEM 23364></COL>
 　　　<COL d7b450><ITEM 21651></COL> are very valuable.
 　　　Please be careful.'''
 [[message]]

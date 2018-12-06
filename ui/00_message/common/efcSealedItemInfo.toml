@@ -112,14 +112,6 @@ Debilitation "Softened"
 added.'''
 [[message]]
 key = 'IDX_137'
-#NEEDS REVIEW
-#状態異常【延焼】【炎防低下】【油濡れ】
-#を付加する
-#NEEDS REVIEW
-#状態異常【延焼】【炎防低下】【油濡れ】
-#を付加する
-#※【延焼】はステータスで適用されている
-#魔法属性と一致する場合、効果を発揮する
 old = '''
 状態異常【延焼】【炎防低下】【油濡れ】
 を付加する
@@ -128,7 +120,9 @@ old = '''
 new = '''
 Debilitations "Caught Fire",
 "Fire Resist Down", "Tarred"
-added.'''
+added.
+※【延焼】は攻撃時や、ステータス適用の
+魔法属性と一致する場合、効果を発揮する'''
 [[message]]
 key = 'IDX_154'
 old = '対敵特効【巨人】を付加する'
@@ -139,14 +133,6 @@ old = '対敵特効【腐死】を付加する'
 new = '"Undead Slayer" added.'
 [[message]]
 key = 'IDX_138'
-#NEEDS REVIEW
-#状態異常【凍結】【氷防低下】【水濡れ】
-#を付加する
-#NEEDS REVIEW
-#状態異常【凍結】【氷防低下】【水濡れ】
-#を付加する
-#※【凍結】はステータスで適用されている
-#魔法属性と一致する場合、効果を発揮する
 old = '''
 状態異常【凍結】【氷防低下】【水濡れ】
 を付加する
@@ -155,7 +141,9 @@ old = '''
 new = '''
 Debilitations "Frozen Solid",
 "Ice Resist Down", "Drenched"
-added.'''
+added.
+※【凍結】は攻撃時や、ステータス適用の
+魔法属性と一致する場合、効果を発揮する'''
 [[message]]
 key = 'IDX_155'
 old = '対敵特効【呪詛】を付加する'
@@ -166,14 +154,6 @@ old = '対敵特効【魔族】を付加する'
 new = '"Demon Slayer" added.'
 [[message]]
 key = 'IDX_139'
-#NEEDS REVIEW
-#状態異常【感電】【雷防低下】【水濡れ】
-#を付加する
-#NEEDS REVIEW
-#状態異常【感電】【雷防低下】【水濡れ】
-#を付加する
-#※【感電】はステータスで適用されている
-#魔法属性と一致する場合、効果を発揮する
 old = '''
 状態異常【感電】【雷防低下】【水濡れ】
 を付加する
@@ -182,7 +162,9 @@ old = '''
 new = '''
 Debilitations "Shocked",
 "Thunder Resist Down", "Drenched"
-added.'''
+added.
+※【感電】は攻撃時や、ステータス適用の
+魔法属性と一致する場合、効果を発揮する'''
 [[message]]
 key = 'IDX_156'
 old = '対敵特効【獣】を付加する'
@@ -193,14 +175,6 @@ old = '対敵特効【有翼】を付加する'
 new = '"Winged Slayer" added.'
 [[message]]
 key = 'IDX_140'
-#NEEDS REVIEW
-#状態異常【聖吸】【聖防低下】【スキル封印】
-#を付加する
-#NEEDS REVIEW
-#状態異常【聖吸】【聖防低下】【スキル封印】
-#を付加する
-#※【聖吸】はステータスで適用されている
-#魔法属性と一致する場合、効果を発揮する
 old = '''
 状態異常【聖吸】【聖防低下】【スキル封印】
 を付加する
@@ -209,7 +183,9 @@ old = '''
 new = '''
 Debilitations "Holy Drain",
 "Holy Resist Down", "Skills Stifled"
-added.'''
+added.
+※【聖吸】は攻撃時や、ステータス適用の
+魔法属性と一致する場合、効果を発揮する'''
 [[message]]
 key = 'IDX_157'
 old = '対敵特効【侵食】を付加する'
@@ -220,14 +196,6 @@ old = '対敵特効【竜族】を付加する'
 new = '"Dragon Slayer" added.'
 [[message]]
 key = 'IDX_141'
-#NEEDS REVIEW
-#状態異常【闇霧】【闇防低下】【毒】
-#を付加する
-#NEEDS REVIEW
-#状態異常【闇霧】【闇防低下】【毒】
-#を付加する
-#※【闇霧】はステータスで適用されている
-#魔法属性と一致する場合、効果を発揮する
 old = '''
 状態異常【闇霧】【闇防低下】【毒】
 を付加する
@@ -236,7 +204,9 @@ old = '''
 new = '''
 Debilitations "Blinded",
 "Dark Resist Down", "Poison"
-added.'''
+added.
+※【闇霧】は攻撃時や、ステータス適用の
+魔法属性と一致する場合、効果を発揮する'''
 [[message]]
 key = 'IDX_158'
 old = '対敵特効【人間】を付加する'

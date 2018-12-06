@@ -91,16 +91,12 @@ old = '女性'
 new = 'Female'
 [[message]]
 key = 'RIM_POP_MSG_SEARCH_JOB'
-#NEEDS REVIEW
-#ジョブで探す
 old = 'ジョブ'
-new = 'Search by Job'
+new = 'Job'
 [[message]]
 key = 'RIM_POP_MSG_SEARCH_CRAFTSKILL'
-#NEEDS REVIEW
-#クラフトスキルで探す
 old = 'クラフトスキル'
-new = 'Search by Craft Skill'
+new = 'Craft Skills'
 [[message]]
 key = 'RIM_POP_MSG_CHARACTER_M_IR'
 old = 'アイテムランク指定'

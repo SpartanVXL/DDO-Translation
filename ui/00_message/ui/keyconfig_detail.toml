@@ -301,7 +301,6 @@ key = 'kcd_062'
 old = '''
 <COL DAEEF3>【Ｈｕ】</COL>しじま射ち（弓構え中）　<COL DAEEF3>【Ｓｏ】</COL>スペリング（詠唱中）
 <COL DAEEF3>【Ｈｉ】</COL>ロックオン中のカメラ操作（ルイン・ブレード構え中）'''
-# NEEDS REVIEW
 new = '''
 <COL DAEEF3>(Hu)</COL> Keen Sight (when aiming bow)  <COL DAEEF3>(So)</COL> Chanting
 <COL DAEEF3>(Hi)</COL> Camera operation during lock on (in Ruin Blade stance)'''
@@ -375,10 +374,8 @@ old = '<COL DAEEF3>【Ｓｅ】</COL>ロープ投げ（ロープ構え中）'
 new = '<COL DAEEF3>(Se)</COL> Throw Rope (Rope Holding)'
 [[message]]
 key = 'kcd_077'
-#NEEDS REVIEW
-#<COL DAEEF3>【Ｈｕ】</COL>矢の装填
 old = '<COL DAEEF3>【Ｈｕ】</COL>矢の装填　　<COL DAEEF3>【Ｅｌ】</COL>魔眼転移'
-new = '<COL DAEEF3>(Hu)</COL> Reload Arrows'
+new = '<COL DAEEF3>(Hu)</COL> Reload Arrows  <COL DAEEF3>(El)</COL>魔眼転移'
 [[message]]
 key = 'kcd_078'
 old = '<COL DAEEF3>【Ａｌ】</COL>エリクシル・チェンジ　<COL DAEEF3>【Ｓｐ】</COL>アタックブースト'
