@@ -89,7 +89,7 @@ old = '''
 new = '''
 Press the assigned button to chant,
 giant snowflake conjured on completion.
-After conjuring, press <KC ATTACK1> <PADM>or <ICON PAD_L2> or <ICON PAD_R2> </PADM>to shoot.
+After conjuring, press the assigned button <PADM>or <ICON PAD_L2> or <ICON PAD_R2> </PADM>to shoot.
 Press <KC TOUCH> to release the giant snowflake.'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_06_138'
