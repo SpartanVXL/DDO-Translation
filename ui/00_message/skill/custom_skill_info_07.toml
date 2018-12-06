@@ -161,12 +161,18 @@ LV.6: Adds wind pressure to the blade and increases number
 of hits.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_07_139'
-old = '''
-しがみついた状態で勢いよく大剣を突き刺し、
+#NEEDS REVIEW
+#しがみついた状態で勢いよく大剣を突き刺し、
 体を上下に揺さぶりながら抉る
 ボタンの連打で揺さぶり回数が増加する
 <COL ffdc78>LV UP毎に攻撃威力の上昇
-LV.６で最大揺さぶり回数増加</COL>'''
+LV.６で最大揺さぶり回数増加</COL>
+old = '''
+しがみついた状態から大剣で揺さぶりながら抉る
+ボタンの連打で揺さぶり回数が増加する
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で一定回数揺さぶると攻撃速度が上昇し
+引き抜き時の攻撃ヒット数が増加する</COL>'''
 new = '''
 While climbing an enemy, thrust the blade
 deep into them and vigorously shake it around.
@@ -203,11 +209,17 @@ Further increase damage when revenge gauge is full.
 <COL ff7878>Further increase damage to Demihuman/Ogre/Giant enemies.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_07_181'
+#NEEDS REVIEW
+#【ＥＸ追加効果】
+攻撃を受ける瞬間に発動すると
+ダメージ量が増加すると同時に
+攻撃を敵に接触させる度にリベンジゲージが増加
 old = '''
 【ＥＸ追加効果】
 攻撃を受ける瞬間に発動すると
 ダメージ量が増加すると同時に
-攻撃を敵に接触させる度にリベンジゲージが増加'''
+攻撃を敵に接触させる度にリベンジゲージが増加
+スタミナが続くか中断しない限り、突進を継続できる'''
 new = '''
 EX Additional Effects:
 If this skill is used before being hit, damage increases and

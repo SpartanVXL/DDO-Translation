@@ -81,3 +81,6 @@ new = 'Clear World Quest "<QCND 0>"'
 key = 'ORDER_CONDITION_1016'
 old = 'サブストーリー＜<QCND 0>＞をクリア'
 new = 'Clear Substory "<QCND 0>"'
+[[message]]
+key = 'ORDER_CONDITION_1017'
+old = '現在のジョブのジョブレベル<QCND 0>以上'

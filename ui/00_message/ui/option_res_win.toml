@@ -1259,7 +1259,9 @@ old = '編集'
 new = 'Edit'
 [[message]]
 key = 'OPTION_MSG_UI_BIGSIZE'
-old = 'UIを拡大表示する (解像度1920×1080 以上で有効)'
+#NEEDS REVIEW
+#UIを拡大表示する (解像度1920×1080 以上で有効)
+old = 'UIを拡大表示する (解像度1600×900 以上で有効)'
 new = 'Enlarge UI (Resolution 1920×1080 or higher)'
 [[message]]
 key = 'OPTION_MSG_CAPTION_CLAN'
@@ -1441,3 +1443,9 @@ new = 'Display Introduction Notice Pop-up'
 key = 'OPTION_MSG_NAVIGATION_DISP'
 old = 'ナビゲーションを表示する'
 new = 'Display Navigation'
+[[message]]
+key = 'OPTION_MSG_QUEST_MOB_HUNT'
+old = 'ワイルドハント'
+[[message]]
+key = 'OPTION_MSG_UI_SCALE'
+old = 'UIを拡大表示した時のスケール値'

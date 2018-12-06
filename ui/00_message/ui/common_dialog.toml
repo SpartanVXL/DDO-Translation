@@ -2570,9 +2570,17 @@ key = 'ana_bitterblack_match_003'
 old = 'クイックパーティー申請をキャンセルしますか？'
 [[message]]
 key = 'ana_bitterblack_match_004'
+#NEEDS REVIEW
+#現在のジョブで突入準備しますか？
+<COL aa1414>決定するとリセットするまでジョブは変更できません</COL>
 old = '''
-現在のジョブで突入準備しますか？
-<COL aa1414>決定するとリセットするまでジョブは変更できません</COL>'''
+このルートに現在のジョブで突入準備しますか？
+<COL aa1414>決定するとリセットするまでジョブは変更できません
+
+また、
+一度でも冥府1をクリアするとルートが固定されます
+進行と報酬のリセットをするまで、ルートの変更は
+できません</COL>'''
 new = '''
 Are you sure you want to embark
 with your current vocation?
@@ -2612,9 +2620,11 @@ old = 'リーダーではないため選べません'
 [[message]]
 key = 'ana_bitterblack_match_014'
 old = '''
-<COL ffdc78>黄金石</COL>を使って
-黒呪の迷宮を即時クリアしますか？
-<COL ffdc78>黄金石<VAL GS></COL>を消費します（所持数：<HAVE GS>）'''
+<COL ffdc78>黄金石</COL>を使って即時クリアしますか？
+<COL ffdc78>黄金石 <VAL GS></COL>を消費します（所持数：<HAVE GS>）
+
+即時クリア報酬として
+以下のアイテムが追加で獲得できます'''
 [[message]]
 key = 'ana_bitterblack_match_015'
 old = '''
@@ -2705,3 +2715,100 @@ old = '''
 このまま受け取ると、所持上限値を超えてしまう
 通貨系アイテムが含まれている場合があります
 満額受け取ることができませんのでご注意ください</COL>'''
+[[message]]
+key = 'ana_bitterblack_match_017'
+old = '別のルートを進行中のため、突入できません'
+[[message]]
+key = 'ana_dark_dungeon_001'
+old = '暗黒の竜晶を破壊した'
+[[message]]
+key = 'ana_dark_dungeon_002'
+old = '暗黒の竜晶が力を失い、消滅した'
+[[message]]
+key = 'ana_dark_dungeon_003'
+old = '祝福の結晶が無事に転移した'
+[[message]]
+key = 'ana_dark_dungeon_004'
+old = '祝福の結晶が破壊された'
+[[message]]
+key = 'ana_dark_dungeon_005'
+old = '強い闇を放つ暗黒の竜晶を破壊した'
+[[message]]
+key = 'ana_dark_dungeon_006'
+old = '大地の宝箱A開始'
+[[message]]
+key = 'ana_dark_dungeon_007'
+old = '大地の宝箱B開始'
+[[message]]
+key = 'ana_dark_dungeon_008'
+old = '残りの探索ポイント <VAL>/<VAL>'
+[[message]]
+key = 'ana_dark_dungeon_009'
+old = '残り闇の欠片 <VAL>/<VAL>'
+[[message]]
+key = 'ana_dark_dungeon_010'
+old = '封印された宝箱が開けるようになった'
+[[message]]
+key = 'ana_dark_dungeon_011'
+old = '暗黒の大竜晶が姿を現した'
+[[message]]
+key = 'ana_dark_dungeon_012'
+old = '暗黒の大竜晶を破壊した'
+[[message]]
+key = 'ana_dark_dungeon_013'
+old = 'ゲートが開いた'
+[[message]]
+key = 'ana_item_necessary_attention'
+old = 'コンテンツ中に必要なアイテムです'
+[[message]]
+key = 'ana_dark_dungeon_014'
+old = '闇の力が少し弱まった'
+[[message]]
+key = 'ana_dark_dungeon_015'
+old = '祝福の結晶が安全に立ち去った'
+[[message]]
+key = 'ana_dark_dungeon_016'
+old = '祝福の結晶が闇に侵食され破壊された'
+[[message]]
+key = 'ana_dark_dungeon_017'
+old = '闇の渦から強力な力を感じる'
+[[message]]
+key = 'ana_dark_dungeon_018'
+old = 'さらなる異変が発生した'
+[[message]]
+key = 'ana_om_warp_001'
+old = '（残り：%d人）'
+[[message]]
+key = 'ana_om_warp_002'
+old = '今は移動できない'
+[[message]]
+key = 'ana_dark_dungeon_019'
+old = '追加報酬が増えた'
+[[message]]
+key = 'ana_dark_dungeon_020'
+old = '追加報酬が最大になった'
+[[message]]
+key = 'ana_dialog_currency_leak_warning_03'
+old = '''
+<COL ffdc78>※注意※
+このまま受け取ると、所持上限値を超えてしまいます
+満額受け取ることができませんのでご注意ください</COL>'''
+[[message]]
+key = 'ana_conf_start_of_device'
+old = '思い出を見ますか？'
+[[message]]
+key = 'ana_error_no_partner_pawn'
+old = 'パートナーポーンがいないため、見ることができません'
+[[message]]
+key = 'ana_entryb_gameprogress_disable'
+old = '''
+進行状況によって解放されていないため
+このコンテンツはまだ参加できません'''
+[[message]]
+key = 'ana_conf_end_of_eventviewer'
+old = '''
+イベントビューアーを終了して
+前の画面に戻りますか？'''
+[[message]]
+key = 'ana_bitterblack_match_018'
+old = 'このルートに突入するには、進行と報酬のリセットが必要です'

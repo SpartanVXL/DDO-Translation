@@ -71,7 +71,11 @@ Press the assigned button to chant,
 activated on completion.'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_04_51'
-old = 'セットボタンを押して詠唱、詠唱完了で発動'
+#NEEDS REVIEW
+#セットボタンを押して詠唱、詠唱完了で発動
+old = '''
+セットボタンを押して詠唱、詠唱完了で発動
+展開後、その場に留まることで展開時間を延長'''
 new = '''
 Press the assigned button to chant,
 activated on completion.'''

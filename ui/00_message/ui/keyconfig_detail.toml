@@ -375,7 +375,9 @@ old = '<COL DAEEF3>【Ｓｅ】</COL>ロープ投げ（ロープ構え中）'
 new = '<COL DAEEF3>(Se)</COL> Throw Rope (Rope Holding)'
 [[message]]
 key = 'kcd_077'
-old = '<COL DAEEF3>【Ｈｕ】</COL>矢の装填'
+#NEEDS REVIEW
+#<COL DAEEF3>【Ｈｕ】</COL>矢の装填
+old = '<COL DAEEF3>【Ｈｕ】</COL>矢の装填　　<COL DAEEF3>【Ｅｌ】</COL>魔眼転移'
 new = '<COL DAEEF3>(Hu)</COL> Reload Arrows'
 [[message]]
 key = 'kcd_078'

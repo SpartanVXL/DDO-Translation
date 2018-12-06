@@ -1931,6 +1931,9 @@ key = 'STAGE_NAME_605'
 old = '黒呪の迷宮：畏れの天蓋'
 new = 'Bitterblack Maze: Rotunda of Dread'
 [[message]]
+key = 'STAGE_NAME_606'
+old = 'イベントビューアー部屋'
+[[message]]
 key = 'STAGE_NAME_607'
 old = '王家の隠れ部屋 メガドシス高地'
 new = "Royal Family's Hidden Chamber (Megadosys Plateau)"
@@ -2033,6 +2036,39 @@ key = 'STAGE_NAME_648'
 old = '王家の隠れ部屋 ウルテカ山岳'
 new = "Royal Family's Hidden Chamber (Urteca Mountains)"
 [[message]]
+key = 'STAGE_NAME_649'
+old = '3.4導入デモ専用部屋'
+[[message]]
+key = 'STAGE_NAME_650'
+old = '暗黒の統べる地　西端'
+[[message]]
+key = 'STAGE_NAME_651'
+old = '暗黒の統べる地　南端'
+[[message]]
+key = 'STAGE_NAME_652'
+old = '暗黒の統べる地　東端'
+[[message]]
+key = 'STAGE_NAME_653'
+old = '暗黒の統べる地　北端'
+[[message]]
+key = 'STAGE_NAME_654'
+old = '選択の道'
+[[message]]
+key = 'STAGE_NAME_655'
+old = '闇に覆われたシェドレアン大神殿'
+[[message]]
+key = 'STAGE_NAME_656'
+old = '闇に覆われたメガド王宮層'
+[[message]]
+key = 'STAGE_NAME_657'
+old = '闇に覆われたドリード城'
+[[message]]
+key = 'STAGE_NAME_658'
+old = '闇に覆われたメルゴダ護政区'
+[[message]]
+key = 'STAGE_NAME_659'
+old = '闇に覆われたメガド回廊'
+[[message]]
 key = 'STAGE_NAME_660'
 old = 'ボーナスダンジョン【JP】'
 new = 'Bonus Dungeon (JP)'
@@ -2045,8 +2081,125 @@ key = 'STAGE_NAME_662'
 old = 'ハイデル地下霊廟'
 new = 'Hidell Catacombs'
 [[message]]
+key = 'STAGE_NAME_682'
+old = '黒呪の迷宮：瘴気の満ちる聖堂'
+[[message]]
+key = 'STAGE_NAME_683'
+old = '黒呪の迷宮：裏切り者の処刑塔'
+[[message]]
+key = 'STAGE_NAME_684'
+old = '黒呪の迷宮：異邦の落都'
+[[message]]
+key = 'STAGE_NAME_685'
+old = '黒呪の迷宮：黒呪の祭壇'
+[[message]]
+key = 'STAGE_NAME_686'
+old = '黒呪の迷宮：冥府１'
+[[message]]
+key = 'STAGE_NAME_687'
+old = '黒呪の迷宮：冥府１'
+[[message]]
+key = 'STAGE_NAME_688'
+old = '黒呪の迷宮：冥府１'
+[[message]]
+key = 'STAGE_NAME_689'
+old = '黒呪の迷宮：冥府２'
+[[message]]
+key = 'STAGE_NAME_690'
+old = '黒呪の迷宮：冥府２'
+[[message]]
+key = 'STAGE_NAME_691'
+old = '黒呪の迷宮：冥府２'
+[[message]]
+key = 'STAGE_NAME_692'
+old = '黒呪の迷宮：冥府３'
+[[message]]
+key = 'STAGE_NAME_693'
+old = '黒呪の迷宮：冥府３'
+[[message]]
+key = 'STAGE_NAME_694'
+old = '黒呪の迷宮：冥府３'
+[[message]]
+key = 'STAGE_NAME_695'
+old = '黒呪の迷宮：冥府４'
+[[message]]
+key = 'STAGE_NAME_696'
+old = '黒呪の迷宮：冥府４'
+[[message]]
+key = 'STAGE_NAME_697'
+old = '黒呪の迷宮：冥府４'
+[[message]]
+key = 'STAGE_NAME_698'
+old = '黒呪の迷宮：異界'
+[[message]]
+key = 'STAGE_NAME_699'
+old = '黒呪の迷宮：異界'
+[[message]]
+key = 'STAGE_NAME_700'
+old = '黒呪の迷宮：異界'
+[[message]]
 key = 'STAGE_NAME_701'
 old = '黄金宮'
 new = 'The Golden Palace'
 [message.format]
 new = 'Golden Palace'
+[[message]]
+key = 'STAGE_NAME_702'
+old = 'メガド回廊'
+[[message]]
+key = 'STAGE_NAME_703'
+old = '展望城'
+[[message]]
+key = 'STAGE_NAME_704'
+old = '黒示す王の間'
+[[message]]
+key = 'STAGE_NAME_705'
+old = '悪しき竜のねぐら'
+[[message]]
+key = 'STAGE_NAME_706'
+old = '闇に覆われたシェドレアン大神殿'
+[[message]]
+key = 'STAGE_NAME_707'
+old = '闇に覆われたメガド王宮層'
+[[message]]
+key = 'STAGE_NAME_708'
+old = '闇に覆われたドリード城'
+[[message]]
+key = 'STAGE_NAME_709'
+old = '闇に覆われたメルゴダ護政区'
+[[message]]
+key = 'STAGE_NAME_710'
+old = '闇に覆われたメガド回廊'
+[[message]]
+key = 'STAGE_NAME_711'
+old = 'ダクレイム砦'
+[[message]]
+key = 'STAGE_NAME_712'
+old = 'ジフール砦'
+[[message]]
+key = 'STAGE_NAME_713'
+old = '隠匿の王間'
+[[message]]
+key = 'STAGE_NAME_714'
+old = '聖炎の参竜道'
+[[message]]
+key = 'STAGE_NAME_715'
+old = '黒呪の迷宮：冥府４'
+[[message]]
+key = 'STAGE_NAME_716'
+old = '黒呪の迷宮：冥府４'
+[[message]]
+key = 'STAGE_NAME_717'
+old = '黒呪の迷宮：冥府４'
+[[message]]
+key = 'STAGE_NAME_718'
+old = 'ダクレイム砦'
+[[message]]
+key = 'STAGE_NAME_719'
+old = 'ガルドノック砦'
+[[message]]
+key = 'STAGE_NAME_720'
+old = 'メルゴダ王宮層'
+[[message]]
+key = 'STAGE_NAME_721'
+old = '白竜神殿'

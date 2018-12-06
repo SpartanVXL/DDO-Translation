@@ -56,3 +56,6 @@ old = 'しがみつき中に<KC ATTACK1>を押す'
 new = '''
 While climbing an enemy,
 press <KC ATTACK1>.'''
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_08_178'
+old = '<KC RELOAD>を押す'

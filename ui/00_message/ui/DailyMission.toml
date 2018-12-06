@@ -1,0 +1,122 @@
+﻿[[message]]
+key = 'daily_mission_title'
+old = 'RewardMission'
+[[message]]
+key = 'daily_mission_title_sub'
+old = 'リワードミッション'
+[[message]]
+key = 'daily_mission_tab_summary'
+old = 'ミッション概要'
+[[message]]
+key = 'daily_mission_tab_reward_list'
+old = '報酬リスト'
+[[message]]
+key = 'daily_mission_tab_target_list'
+old = '目的対象'
+[[message]]
+key = 'daily_mission_list_progress_title'
+old = '進捗：'
+[[message]]
+key = 'daily_mission_list_reward_title'
+old = '報酬：'
+[[message]]
+key = 'daily_mission_list_limit_title'
+old = '期限：'
+[[message]]
+key = 'daily_mission_list_progress_ok'
+old = '<COL ffdc78>%d/%d 達成</COL>'
+[[message]]
+key = 'daily_mission_list_progress_ng'
+old = '%d/%d 未達成'
+[[message]]
+key = 'daily_mission_list_reward_get'
+old = '受取済'
+[[message]]
+key = 'daily_mission_list_reward_get_enable'
+old = '<COL ffdc78>受取可能</COL>'
+[[message]]
+key = 'daily_mission_list_reward_still'
+old = 'ー'
+[[message]]
+key = 'daily_mission_summary_target_title'
+old = '目的'
+[[message]]
+key = 'daily_mission_summary_limit_title'
+old = '期限'
+[[message]]
+key = 'daily_mission_summary_limit_info'
+old = 'ミッション終了期限'
+[[message]]
+key = 'daily_mission_reward_title'
+old = '報酬アイテム'
+[[message]]
+key = 'daily_mission_reward_state'
+old = '<COL ffdc78>達成</COL>'
+[[message]]
+key = 'daily_mission_target_title'
+old = '目的対象'
+[[message]]
+key = 'daily_mission_get_reward_btn'
+old = '報酬を受け取る'
+[[message]]
+key = 'daily_mission_get_reward_title'
+old = '''
+報酬アイテムをすべて受け取ります
+受取先を選択してください'''
+[[message]]
+key = 'daily_mission_get_reward_post'
+old = 'ポストに受け取る'
+[[message]]
+key = 'daily_mission_get_reward_bag'
+old = 'アイテムバッグに受け取る'
+[[message]]
+key = 'daily_mission_get_reward_storage'
+old = '保管ボックスに受け取る'
+[[message]]
+key = 'daily_mission_get_reward_success'
+old = 'アイテムを受け取りました'
+[[message]]
+key = 'daily_mission_get_reward_error_non'
+old = '受取可能なアイテムがありません'
+[[message]]
+key = 'daily_mission_list_reward_send'
+old = 'メール配信済'
+[[message]]
+key = 'daily_mission_no_time_event'
+old = '配信されている期間イベントがありません'
+[[message]]
+key = 'daily_mission_no_reward'
+old = '受取可能な報酬がありません'
+[[message]]
+key = 'daily_mission_limit_until_start'
+old = '開始まで'
+[[message]]
+key = 'daily_mission_limit_until_end'
+old = '終了まで'
+[[message]]
+key = 'daily_mission_limit_finish'
+old = '終了'
+[[message]]
+key = 'daily_mission_get_reward_wallet_title'
+old = '報酬をすべて受け取りますか？'
+[[message]]
+key = 'daily_mission_get_reward_time_event'
+old = '期間イベントの報酬はメールで配信されます'
+[[message]]
+key = 'daily_mission_title_mission_list'
+old = 'MissionList'
+[[message]]
+key = 'daily_mission_title_sub_mission_list'
+old = 'ミッションリスト'
+[[message]]
+key = 'daily_mission_title_special_reward'
+old = 'SpecialReward'
+[[message]]
+key = 'daily_mission_title_sub_special_reward'
+old = '特別報酬'
+[[message]]
+key = 'daily_mission_title_time_event'
+old = 'TimeEvent'
+[[message]]
+key = 'daily_mission_title_sub_time_event'
+old = '期間イベント'

@@ -631,3 +631,84 @@ new = 'Jewelry'
 key = 'QUEST_MSG_REGULATION_ABILITY'
 old = '禁止アビリティ'
 new = 'Restricted Ability'
+[[message]]
+key = 'QUEST_MSG_MOB_HUNT_TITLE_EN'
+old = 'Wild Hunt'
+[[message]]
+key = 'QUEST_MSG_MOB_HUNT_TITLE_JP'
+old = 'ワイルドハント'
+[[message]]
+key = 'QUEST_MSG_ADV_GUIDE_CATEGORY_08'
+old = 'ワイルドハント'
+[[message]]
+key = 'QUEST_MSG_MOB_HUNT_LOT_HIGH'
+old = 'リサの信頼度：★★★★'
+[[message]]
+key = 'QUEST_MSG_MOB_HUNT_LOT_MIDDLE'
+old = 'リサの信頼度：★★★　'
+[[message]]
+key = 'QUEST_MSG_MOB_HUNT_LOT_LOW'
+old = 'リサの信頼度：★★　　'
+[[message]]
+key = 'QUEST_MSG_MOB_HUNT_LOT_NONE'
+old = 'リサの信頼度：★　　　'
+[[message]]
+key = 'QUEST_MSG_MOB_HUNT_NUM'
+old = 'ワイルドハント数：'
+[[message]]
+key = 'QUEST_MSG_LOT_RATE_TITLE'
+old = 'Ｓランク抽選：%s'
+[[message]]
+key = 'QUEST_MSG_LOT_RATE_HIGH'
+old = '中'
+[[message]]
+key = 'QUEST_MSG_LOT_RATE_MIDDLE'
+old = '低'
+[[message]]
+key = 'QUEST_MSG_LOT_RATE_LOW'
+old = '無し'
+[[message]]
+key = 'QUEST_MSG_LOT_RANK_S'
+old = 'Ｓランク'
+[[message]]
+key = 'QUEST_MSG_LOT_RANK_A'
+old = 'Ａランク'
+[[message]]
+key = 'QUEST_MSG_LOT_RANK_B'
+old = 'Ｂランク'
+[[message]]
+key = 'QUEST_MSG_LOT_NUM'
+old = '（抽選数：%d）'
+[[message]]
+key = 'QUEST_MSG_GUIDE_LOT_INFO'
+old = '抽選確率詳細'
+[[message]]
+key = 'QUEST_MSG_BONUS_MOB_HUNT_TITLE'
+old = 'ボーナスターゲット出現中！'
+[[message]]
+key = 'QUEST_MSG_BONUS_MOB_HUNT_INFO'
+old = '討伐でPP報酬量UP'
+[[message]]
+key = 'QUEST_MSG_REWARD_TRADE_COST_TITLE'
+old = '必要アイテム（ボス討伐後に報酬アイテムと交換します）'
+[[message]]
+key = 'QUEST_MSG_ERROR_REWARD_TRADE_ITEM_NONE'
+old = '''
+必要アイテム（%s）を
+アイテムバッグに所持していないため、出撃できません'''
+[[message]]
+key = 'QUEST_MSG_LOT_RATE_HIGHEST'
+old = '高'
+[[message]]
+key = 'QUEST_MSG_CONFIRM_MOB_QUEST_CANCEL'
+old = '''
+クエストを破棄しますか？
+
+<COL ffdc78>※破棄したワイルドハントは
+　一定期間経過するまで再受注することができません</COL>'''
+[[message]]
+key = 'QUEST_MSG_ERROR_NAVIGATE_MOB_HUNT'
+old = 'ワイルドハントでは使用できません'
+[[message]]
+key = 'QUEST_MSG_UI_REWARD_TRADE_ITEM'
+old = '%s×%d（所持数：%d）'

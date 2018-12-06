@@ -159,3 +159,59 @@ old = '最低<VAL>人同行する必要があります'
 [[message]]
 key = 'cpf_entry_solo_pawn_04'
 old = '同行条件を満たしていません'
+[[message]]
+key = 'cpf_entry_solo_title'
+old = '連れて行くポーンを選択してください'
+[[message]]
+key = 'cpf_entry_pawn_status_no_adv'
+old = '冒険回数0'
+[[message]]
+key = 'cpf_entry_sub_title_main_pawn'
+old = 'メインポーン'
+[[message]]
+key = 'cpf_entry_sub_title_support_pawn'
+old = 'サポートポーン'
+[[message]]
+key = 'cpf_entry_error_no_main_pawn'
+old = '''
+サポートポーンのみで連れて行くことはできません
+メインポーンを１人以上、選択してください'''
+[[message]]
+key = 'cpf_entry_dra_skill_001'
+old = 'ドラゴンアビリティ指定'
+[[message]]
+key = 'cpf_entry_dra_skill_002'
+old = 'ドラゴンアビリティを指定する'
+[[message]]
+key = 'cpf_entry_dra_skill_003'
+old = '現在の指定でシミュレート'
+[[message]]
+key = 'cpf_entry_dra_skill_004'
+old = 'プレビュー'
+[[message]]
+key = 'cpf_entry_member_001'
+old = 'メンバー1'
+[[message]]
+key = 'cpf_entry_member_002'
+old = 'メンバー2'
+[[message]]
+key = 'cpf_entry_member_003'
+old = 'メンバー3'
+[[message]]
+key = 'cpf_entry_member_004'
+old = 'メンバー4'
+[[message]]
+key = 'cpf_entry_member_005'
+old = 'メンバー5'
+[[message]]
+key = 'cpf_entry_member_006'
+old = 'メンバー6'
+[[message]]
+key = 'cpf_entry_member_007'
+old = 'メンバー7'
+[[message]]
+key = 'cpf_entry_dra_skill_005'
+old = 'オススメ設定'
+[[message]]
+key = 'cpf_entry_solo_attention'
+old = '<COL 787878>メインポーンとサポートポーンを最大<VAL>人まで同行可能です</COL>'

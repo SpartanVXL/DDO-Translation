@@ -222,7 +222,9 @@ old = 'ボックストレジャーズロット'
 new = 'Box Treasure Lot'
 [[message]]
 key = 'menu_time_event'
-old = '期間イベント'
+#NEEDS REVIEW
+#期間イベント
+old = 'リワードミッション'
 new = 'Time Event'
 [[message]]
 key = 'menu_ps_store'

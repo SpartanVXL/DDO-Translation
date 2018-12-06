@@ -471,3 +471,51 @@ new = 'C Rank: <VAL DP>'
 key = 'entry_board_wm_rank_d'
 old = 'Ｄランク ： <VAL DP>'
 new = 'D Rank: <VAL DP>'
+[[message]]
+key = 'entry_board_recommend_counter_skill_title'
+old = '推奨ドラゴンアビリティ'
+[[message]]
+key = 'entry_board_playable_time_header'
+old = '出撃可能時間'
+[[message]]
+key = 'entry_board_playable_time_info'
+old = '<DATE> - <DATE>'
+[[message]]
+key = 'entry_board_dra_skill_msg_001'
+old = 'ドラゴンアビリティ指定'
+[[message]]
+key = 'entry_board_dra_skill_msg_002'
+old = 'ドラゴンアビリティ情報'
+[[message]]
+key = 'entry_board_dra_skill_msg_003'
+old = 'ボーナスドラゴンアビリティ'
+[[message]]
+key = 'entry_board_dra_skill_msg_004'
+old = 'パーティー合計='
+[[message]]
+key = 'entry_board_dra_skill_msg_005'
+old = '個人合計='
+[[message]]
+key = 'entry_board_dra_skill_msg_006'
+old = '発動中'
+[[message]]
+key = 'entry_board_dra_skill_msg_007'
+old = '―'
+[[message]]
+key = 'entry_board_dra_skill_msg_008'
+old = '未発動'
+[[message]]
+key = 'entry_board_dra_skill_msg_009'
+old = '有利：'
+[[message]]
+key = 'entry_board_dra_skill_msg_010'
+old = '適正：'
+[[message]]
+key = 'entry_board_dra_skill_msg_011'
+old = '不利：'
+[[message]]
+key = 'entry_board_dra_skill_msg_012'
+old = '募集：'
+[[message]]
+key = 'entry_board_dra_skill_msg_013'
+old = 'ボーナス発動'

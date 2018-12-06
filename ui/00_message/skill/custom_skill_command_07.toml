@@ -57,7 +57,12 @@ Hold the assigned button.
 at full gauge.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_07_139'
-old = 'しがみつき中にセットボタンを押す'
+#NEEDS REVIEW
+#しがみつき中にセットボタンを押す
+old = '''
+しがみつき中にセットボタンを押す
+抉り中にセットボタン長押し、または
+ボタン連打を止めると引き抜き攻撃'''
 new = '''
 While climbing an enemy,
 press the assigned button.'''

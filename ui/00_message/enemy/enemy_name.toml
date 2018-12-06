@@ -1422,6 +1422,9 @@ key = 'ENEMY_NAME_361'
 old = 'ブレイズグリゴリ'
 new = 'Blaze Grigori'
 [[message]]
+key = 'ENEMY_NAME_362'
+old = 'バフォメット'
+[[message]]
 key = 'ENEMY_NAME_363'
 old = 'イフリート'
 new = 'Ifrit'
@@ -1460,6 +1463,9 @@ new = 'Grim Goblin Leader'
 key = 'ENEMY_NAME_371'
 old = 'サラマンダー'
 new = 'Pyre Saurian'
+[[message]]
+key = 'ENEMY_NAME_372'
+old = '狂侵スカージ'
 [[message]]
 key = 'ENEMY_NAME_373'
 old = 'レッドズール'
@@ -1507,6 +1513,105 @@ new = 'The Evil Dragon'
 [message.format]
 new = 'Evil Dragon'
 pluralize = false
+[[message]]
+key = 'ENEMY_NAME_394'
+old = 'アバドーン'
+[[message]]
+key = 'ENEMY_NAME_395'
+old = '蟲塚'
+[[message]]
+key = 'ENEMY_NAME_396'
+old = 'アルベ'
+[[message]]
+key = 'ENEMY_NAME_397'
+old = 'スケルトンサイクロプス・フロスト'
+[[message]]
+key = 'ENEMY_NAME_398'
+old = 'レギオン'
+[[message]]
+key = 'ENEMY_NAME_399'
+old = 'レギオンリーダー'
+[[message]]
+key = 'ENEMY_NAME_400'
+old = 'シャドーグリゴリ'
+[[message]]
+key = 'ENEMY_NAME_401'
+old = 'マーマン'
+[[message]]
+key = 'ENEMY_NAME_402'
+old = 'ポイズンマーマン'
+[[message]]
+key = 'ENEMY_NAME_403'
+old = 'ダゴン'
+[[message]]
+key = 'ENEMY_NAME_404'
+old = 'スケルトンサイクロプス・ボルト'
+[[message]]
+key = 'ENEMY_NAME_405'
+old = 'ウコバク'
+[[message]]
+key = 'ENEMY_NAME_406'
+old = '黒竜の覚者'
+[[message]]
+key = 'ENEMY_NAME_407'
+old = 'ゴルゴーン'
+[[message]]
+key = 'ENEMY_NAME_408'
+old = 'スケルトンサイクロプス・フレイム'
+[[message]]
+key = 'ENEMY_NAME_409'
+old = 'ウァレフォル'
+[[message]]
+key = 'ENEMY_NAME_410'
+old = '黒竜'
+[[message]]
+key = 'ENEMY_NAME_411'
+old = '元覚者隊統率レオ'
+[[message]]
+key = 'ENEMY_NAME_412'
+old = 'ボルト・マキナ'
+[[message]]
+key = 'ENEMY_NAME_413'
+old = 'レイジゴースト'
+[[message]]
+key = 'ENEMY_NAME_414'
+old = 'ギガン・マキナトリニティ'
+[[message]]
+key = 'ENEMY_NAME_415'
+old = 'フロスト・マキナトリニティ'
+[[message]]
+key = 'ENEMY_NAME_416'
+old = 'ボルト・マキナトリニティ'
+[[message]]
+key = 'ENEMY_NAME_418'
+old = '暗黒の竜晶'
+[[message]]
+key = 'ENEMY_NAME_419'
+old = '祝福の結晶'
+[[message]]
+key = 'ENEMY_NAME_420'
+old = '強い闇を放つ暗黒竜晶'
+[[message]]
+key = 'ENEMY_NAME_421'
+old = 'シェムハザ'
+[[message]]
+key = 'ENEMY_NAME_422'
+old = '理を破壊する力'
+[[message]]
+key = 'ENEMY_NAME_423'
+old = '黒竜イベント用'
+[[message]]
+key = 'ENEMY_NAME_424'
+old = '破滅の竜晶'
+[[message]]
+key = 'ENEMY_NAME_425'
+old = 'ゴルゴラン'
+[[message]]
+key = 'ENEMY_NAME_426'
+old = '黒剣'
+[[message]]
+key = 'ENEMY_NAME_427'
+old = '束縛の竜晶'
 [[message]]
 key = 'ENEMY_NAME_417'
 old = '悪しき竜'

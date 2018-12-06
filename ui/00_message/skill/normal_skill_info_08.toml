@@ -103,3 +103,10 @@ old = '''
 new = '''
 While climbing an enemy, release a magickal
 arrow that restores the stamina of party members near it.'''
+[[message]]
+key = 'NORMAL_SKILL_INFO_08_178'
+old = '''
+複数の魔矢を放つ攻撃スキルの捕捉対象を
+単体を捉えるシングルロックオンと
+複数を捉えるマルチロックオンに切り替える
+空中でも発動可能'''

@@ -48,9 +48,21 @@ are to activate so be sure to set them.
 　　"Mysterious Summoning Bell".'''
 [[message]]
 key = 'TUTORIAL_STEP_734'
+#NEEDS REVIEW
+#特技には<COL ffdc78>《特技ランク》</COL>があり
+高いものほど強力な効果を発揮します
+
+　天：もっとも高いランク
+　空：高いランク
+　地：通常のランク
+
+特技は閃いた時に
+<COL ffdc78>《取得》</COL>か<COL ffdc78>《破棄》</COL>を選択できます
+破棄すると、次の機会に
+より高ランクな特技を閃きやすくなります
 old = '''
 特技には<COL ffdc78>《特技ランク》</COL>があり
-高いものほど強力な効果を発揮します
+高いほどより強力な効果で特技が発動しやすくなります
 
 　天：もっとも高いランク
 　空：高いランク

@@ -129,10 +129,16 @@ for further blows thereafter.
 LV.6: Increases number of hits.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_01_19'
-old = '''
-敵の攻撃を受け流しつつ剣を振り払って斬り抜ける
+#NEEDS REVIEW
+#敵の攻撃を受け流しつつ剣を振り払って斬り抜ける
 <PADM>左スティック<KEYM>移動キー</KEYM>により後方への斬り抜けも可能
 攻撃を受ける瞬間に発動すると威力が上昇する
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で攻撃範囲拡大／受付時間延長</COL>
+old = '''
+攻撃を受け流しつつ剣で斬り抜ける。<PADM>左スティック<KEYM>移動キー</KEYM>により
+後方への斬り抜けも可能。攻撃を受ける瞬間の発動で威力上昇
+攻撃アクション中であればいつでも発動可能
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で攻撃範囲拡大／受付時間延長</COL>'''
 new = '''
@@ -173,12 +179,18 @@ LV.6: Increase the number of hits in the attack, and decrease
 amount of button presses needed for a full charge.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_01_121'
-old = '''
-敵の攻撃の反動を利用し、斬りつけながら跳ね上がる
+#NEEDS REVIEW
+#敵の攻撃の反動を利用し、斬りつけながら跳ね上がる
 跳躍後、ボタンの追加入力で派生斬りを発動
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で跳び上がる高度上昇／
-派生斬りの攻撃ヒット数増加</COL>'''
+派生斬りの攻撃ヒット数増加</COL>
+old = '''
+敵の攻撃の反動を利用し、斬りつけながら跳ね上がる
+跳躍後、ボタンの追加入力で派生斬りを発動
+攻撃アクション中であればいつでも発動可能
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で跳び上がる高度上昇／派生斬りの攻撃ヒット数増加</COL>'''
 new = '''
 Utilize an enemy attack to launch yourself, slashing upwards. 
 After ascending, invert the direction of the slash with an additional button press.

@@ -131,6 +131,12 @@ key = 'ITEM_WORK_33'
 old = '「闇霧」解消'
 new = 'Cure Blind'
 [[message]]
+key = 'ITEM_WORK_34'
+old = '復活（単体）'
+[[message]]
+key = 'ITEM_WORK_35'
+old = '復活（３個単位）'
+[[message]]
 key = 'ITEM_WORK_36'
 old = 'ランタン点灯'
 new = 'Light Lantern'
@@ -243,3 +249,18 @@ old = '冒険をしやすくする'
 [[message]]
 key = 'ITEM_WORK_143'
 old = 'PP入手'
+[[message]]
+key = 'ITEM_WORK_144'
+old = 'AttackStatus'
+[[message]]
+key = 'ITEM_WORK_145'
+old = '「全攻撃能力上昇」付加'
+[[message]]
+key = 'ITEM_WORK_146'
+old = '「全防御能力上昇」付加'
+[[message]]
+key = 'ITEM_WORK_147'
+old = '「闇炎」解消'
+[[message]]
+key = 'ITEM_WORK_148'
+old = '「呪い」解消'

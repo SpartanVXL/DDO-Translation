@@ -78,9 +78,13 @@ After activation, adjust attack range
 Change attack range with <KC TOUCH>.'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_06_137'
+#NEEDS REVIEW
+#セットボタンを押して詠唱、詠唱完了で氷塊発現
+発現後、<KC ATTACK1><PADM>または<ICON PAD_L2>か<ICON PAD_R2></PADM>を押すと射出
+<KC TOUCH>を押すと氷塊解除
 old = '''
 セットボタンを押して詠唱、詠唱完了で氷塊発現
-発現後、<KC ATTACK1><PADM>または<ICON PAD_L2>か<ICON PAD_R2></PADM>を押すと射出
+発現後、セットボタン<PADM>または<ICON PAD_L2>か<ICON PAD_R2></PADM>を押すと射出
 <KC TOUCH>を押すと氷塊解除'''
 new = '''
 Press the assigned button to chant,

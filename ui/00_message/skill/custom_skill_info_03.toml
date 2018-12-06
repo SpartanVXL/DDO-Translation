@@ -167,8 +167,14 @@ held while firing.
 LV.6: Increases the number of explosions.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_03_132'
+#NEEDS REVIEW
+#敵に密着し、矢筒内の矢を全て番えて渾身の力で放つ
+しがみつき状態からでも可能
+<COL ffdc78>LV UP毎に攻撃威力の上昇
+LV.６で溜め段階上昇（２→３）
+ボタン入力回数減少</COL>
 old = '''
-敵に密着し、矢筒内の矢を全て番えて渾身の力で放つ
+敵に密着し、複数の矢を番えて渾身の力で放つ
 しがみつき状態からでも可能
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で溜め段階上昇（２→３）

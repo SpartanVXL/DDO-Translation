@@ -49,3 +49,8 @@ new = 'Take'
 key = 'pick_item_btn_001'
 old = '直接装備する'
 new = 'Equip Immediately'
+[[message]]
+key = 'pick_item_err_002'
+old = '''
+必要アイテム（<NAME ITEM>×<VAL>）を
+アイテムバッグに所持していないため、受け取れません'''

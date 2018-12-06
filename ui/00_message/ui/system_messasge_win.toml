@@ -136,9 +136,12 @@ old = 'サーバーと通信中です'
 new = 'Connecting to server.'
 [[message]]
 key = 'sys_announce_firstoption_uisize'
+#NEEDS REVIEW
+#UIの表示設定を選択してください
+(解像度1920×1080 以上で有効になります)
 old = '''
 UIの表示設定を選択してください
-(解像度1920×1080 以上で有効になります)'''
+(解像度1600×900 以上で有効になります)'''
 new = '''
 Please select the UI display setting.
 (Available when resolution is 1920x1080 or greater)'''

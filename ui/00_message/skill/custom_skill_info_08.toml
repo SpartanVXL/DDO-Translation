@@ -11,12 +11,18 @@ the Ice attribute at a single point.
 LV.6: Increases magickal arrows fired (4→6).</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_08_92'
-old = '''
-魔矢を放ち、着弾地点に体力回復効果のある
+#NEEDS REVIEW
+#魔矢を放ち、着弾地点に体力回復効果のある
 魔法球を展開する（対不死には攻撃）
 味方に接触させれば魔法球が吸着する
 <COL ffdc78>LV UP毎に回復力上昇／展開エリア拡張
-LV.６でターゲット数増加（２→４）</COL>'''
+LV.６でターゲット数増加（２→４）</COL>
+old = '''
+体力回復に加え、物理攻撃力と魔法攻撃力の
+強化効果のある魔矢を放つ（対不死には攻撃）
+味方に接触させれば魔法球が吸着する
+<COL ffdc78>LV UP毎に回復力上昇／展開エリア拡張
+LV.６でターゲット数増加（３→７）</COL>'''
 new = '''
 Fire magickal arrows that emit an area of health
 restoration at the impact point (inflicts damage to undead).
@@ -25,12 +31,18 @@ The field will attach to an ally if the arrow makes contact.
 LV.6: Increases number of targets (2→4).</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_08_93'
-old = '''
-魔矢を放ち、着弾地点に一部の状態異常回復効果
+#NEEDS REVIEW
+#魔矢を放ち、着弾地点に一部の状態異常回復効果
 のある魔法球を展開する（対不死には攻撃）
 味方に接触させれば魔法球が吸着する
 <COL ffdc78>LV UP毎にスタミナ消費減少
-LV.６でターゲット数増加（２→３）</COL>'''
+LV.６でターゲット数増加（２→３）</COL>
+old = '''
+一部の状態異常回復に加え、物理防御力と魔法防御力の
+強化効果のある魔矢を放つ（対不死には攻撃）
+味方に接触させれば魔法球が吸着する
+<COL ffdc78>LV UP毎にスタミナ消費減少
+LV.６でターゲット数増加（３→７）</COL>'''
 new = '''
 Fire magickal arrows that emit an area of debilitation
 recovery at the impact point (inflicts damage to undead).
@@ -105,12 +117,17 @@ power as it ricochets towards its target.
 LV.6: Increases the number of ricochets.</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_INFO_08_100'
-old = '''
-魔矢を放ち、着弾地点にスタミナ回復効果のある
+#NEEDS REVIEW
+#魔矢を放ち、着弾地点にスタミナ回復効果のある
 魔法球を展開する。味方に接触させれば魔法球が
 吸着する（対不死には攻撃）
 <COL ffdc78>LV UP毎に魔法球継続時間の延長／展開エリア拡張
-LV.６で魔力増加速度の上昇</COL>'''
+LV.６で魔力増加速度の上昇</COL>
+old = '''
+スタミナ回復効果のある魔矢を放つ（対不死には攻撃）
+味方に接触させれば魔法球が吸着する
+<COL ffdc78>LV UP毎に魔法球継続時間の延長／展開エリア拡張
+LV.６で魔力増加速度の上昇／ターゲット数増加（３→７）</COL>'''
 new = '''
 Fire magickal arrows that emit an area of Stamina
 restoration at the impact point (inflicts damage to undead).

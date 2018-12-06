@@ -237,4 +237,10 @@ old = '黒呪アイテムの持ち帰り'
 new = 'Bitterblack Item Takeaway'
 [[message]]
 key = 'shop_title_daily_mission'
-old = 'デイリーミッション（仮）'
+old = 'リワードミッション'
+[[message]]
+key = 'shop_title_ds_fusion'
+old = 'ドラゴンアビリティの合成'
+[[message]]
+key = 'shop_title_mob_hunt'
+old = 'ワイルドハント'

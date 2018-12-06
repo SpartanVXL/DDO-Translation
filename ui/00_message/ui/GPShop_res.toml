@@ -341,3 +341,6 @@ old = 'ボイス定型文'
 key = 'OS_catalog_shortcut'
 old = 'ショートカット'
 new = 'Shortcut'
+[[message]]
+key = 'OS_pop_price_reload'
+old = '価格が最新の情報に更新されました'
