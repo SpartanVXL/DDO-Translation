@@ -3210,6 +3210,9 @@ new = 'ウルテカの記憶 北部: Entrance'
 [[message]]
 key = 'SPOT_NAME_1307'
 old = '黒呪の迷宮'
+new = 'Bitterblack Maze'
+[message.format]
+proper = true
 [[message]]
 key = 'SPOT_NAME_1308'
 old = '黒呪の迷宮 深淵'

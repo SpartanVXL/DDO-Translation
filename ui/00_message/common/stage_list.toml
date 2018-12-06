@@ -2095,30 +2095,39 @@ old = '黒呪の迷宮：黒呪の祭壇'
 [[message]]
 key = 'STAGE_NAME_686'
 old = '黒呪の迷宮：冥府１'
+new = 'Bitterblack Maze: Netherworld 1'
 [[message]]
 key = 'STAGE_NAME_687'
 old = '黒呪の迷宮：冥府１'
+new = 'Bitterblack Maze: Netherworld 1'
 [[message]]
 key = 'STAGE_NAME_688'
 old = '黒呪の迷宮：冥府１'
+new = 'Bitterblack Maze: Netherworld 1'
 [[message]]
 key = 'STAGE_NAME_689'
 old = '黒呪の迷宮：冥府２'
+new = 'Bitterblack Maze: Netherworld 2'
 [[message]]
 key = 'STAGE_NAME_690'
 old = '黒呪の迷宮：冥府２'
+new = 'Bitterblack Maze: Netherworld 2'
 [[message]]
 key = 'STAGE_NAME_691'
 old = '黒呪の迷宮：冥府２'
+new = 'Bitterblack Maze: Netherworld 2'
 [[message]]
 key = 'STAGE_NAME_692'
 old = '黒呪の迷宮：冥府３'
+new = 'Bitterblack Maze: Netherworld 3'
 [[message]]
 key = 'STAGE_NAME_693'
 old = '黒呪の迷宮：冥府３'
+new = 'Bitterblack Maze: Netherworld 3'
 [[message]]
 key = 'STAGE_NAME_694'
 old = '黒呪の迷宮：冥府３'
+new = 'Bitterblack Maze: Netherworld 3'
 [[message]]
 key = 'STAGE_NAME_695'
 old = '黒呪の迷宮：冥府４'
@@ -2131,12 +2140,15 @@ old = '黒呪の迷宮：冥府４'
 [[message]]
 key = 'STAGE_NAME_698'
 old = '黒呪の迷宮：異界'
+new = 'Bitterblack Maze: Rift'
 [[message]]
 key = 'STAGE_NAME_699'
 old = '黒呪の迷宮：異界'
+new = 'Bitterblack Maze: Rift'
 [[message]]
 key = 'STAGE_NAME_700'
 old = '黒呪の迷宮：異界'
+new = 'Bitterblack Maze: Rift'
 [[message]]
 key = 'STAGE_NAME_701'
 old = '黄金宮'
@@ -2146,9 +2158,11 @@ new = 'Golden Palace'
 [[message]]
 key = 'STAGE_NAME_702'
 old = 'メガド回廊'
+new = 'Megado Corridor'
 [[message]]
 key = 'STAGE_NAME_703'
 old = '展望城'
+new = 'Lookout Castle'
 [[message]]
 key = 'STAGE_NAME_704'
 old = '黒示す王の間'
@@ -2173,9 +2187,15 @@ old = '闇に覆われたメガド回廊'
 [[message]]
 key = 'STAGE_NAME_711'
 old = 'ダクレイム砦'
+new = 'Dacreim Fortress'
+[message.format]
+proper = true
 [[message]]
 key = 'STAGE_NAME_712'
 old = 'ジフール砦'
+new = 'Jifule Fortress'
+[message.format]
+proper = true
 [[message]]
 key = 'STAGE_NAME_713'
 old = '隠匿の王間'
@@ -2194,12 +2214,22 @@ old = '黒呪の迷宮：冥府４'
 [[message]]
 key = 'STAGE_NAME_718'
 old = 'ダクレイム砦'
+new = 'Dacreim Fortress'
+[message.format]
+proper = true
 [[message]]
 key = 'STAGE_NAME_719'
 old = 'ガルドノック砦'
+new = 'Gardnox Fortress'
+[message.format]
+proper = true
 [[message]]
 key = 'STAGE_NAME_720'
 old = 'メルゴダ王宮層'
+new = 'Mergoda Royal Palace Level'
 [[message]]
 key = 'STAGE_NAME_721'
 old = '白竜神殿'
+new = 'The White Dragon Temple'
+[message.format]
+new = 'White Dragon Temple'
