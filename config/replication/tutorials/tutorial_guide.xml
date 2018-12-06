@@ -34,6 +34,11 @@
       <translation_arg message_set="job name" />
     </rewrite>
     <rewrite>
+      <original_match>^(.+)：基本$</original_match>
+      <translation_replace>{0}: Basics</translation_replace>
+      <translation_arg message_set="tutorial name" />
+    </rewrite>
+    <rewrite>
       <original_match>^(.+)：追記$</original_match>
       <translation_replace>{0}: Additional Notes</translation_replace>
       <translation_arg message_set="tutorial name" />
@@ -53,6 +58,10 @@
     <extra>
       <original>戦甲種について</original>
       <translation>About Armored Battles</translation>
+    </extra>
+    <extra>
+      <original>ワイルドハント</original>
+      <translation>Wild Hunt</translation>
     </extra>
   </message_set>
   <message_set name="tutorial topic">
@@ -85,6 +94,10 @@
     <extra>
       <original>第四節</original>
       <translation>Section IV</translation>
+    </extra>
+    <extra>
+      <original>第五節</original>
+      <translation>Section V</translation>
     </extra>
   </message_set>
 </replication>
