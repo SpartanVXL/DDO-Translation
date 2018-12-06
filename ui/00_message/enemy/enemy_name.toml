@@ -1654,10 +1654,3 @@ new = 'Black Sword'
 key = 'ENEMY_NAME_427'
 old = '束縛の竜晶'
 new = 'Dragon Crystal of Binding'
-[[message]]
-key = 'ENEMY_NAME_417'
-old = '悪しき竜'
-new = 'The Evil Dragon'
-[message.format]
-new = 'Evil Dragon'
-pluralize = false
