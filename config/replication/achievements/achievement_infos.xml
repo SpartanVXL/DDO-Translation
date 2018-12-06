@@ -12,6 +12,10 @@
       <translation_arg message_set="package quest name" />
     </rewrite>
     <rewrite>
+      <original_match>^ワイルドハントを(.+)回クリア$</original_match>
+      <translation_replace>Clear Wild Hunt {0} times</translation_replace>
+    </rewrite>
+    <rewrite>
       <original_match>(.+)で&lt;ITEM (\d+)&gt;を(\d+)個発見</original_match>
       <translation_replace>Find {2} &lt;ITEM {1}&gt; in {0}</translation_replace>
       <translation_arg index="0" message_set="location name" />
@@ -76,6 +80,12 @@
       <original_match>^(.+)を(1|１)体討伐$</original_match>
       <translation_replace>Kill {0:i}</translation_replace>
       <translation_arg index="0" message_set="npc name" />
+    </rewrite>
+    <rewrite>
+      <original_match>^ウォーミッション「(.+)」で(.+)を(\d+)体討伐$</original_match>
+      <translation_replace>Kill {2} {1:+} in War Mission "{0}"</translation_replace>
+      <translation_arg index="0" message_set="quest name" />
+      <translation_arg index="1" message_set="npc name" />
     </rewrite>
     <rewrite>
       <original_match>^(.+)を(\d+)体討伐$</original_match>
