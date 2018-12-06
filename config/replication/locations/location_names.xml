@@ -6,6 +6,11 @@
     <match>^ui\\00_message\\common\\stage_list$</match>
     <match>^ui\\00_message\\master\\area\d+_spot_name$</match>
     <extra>
+      <!-- アッカーシェラン vs アッカーシエラン (ェ vs エ) -->
+      <original>アッカーシエラン</original>
+      <translation>Acre Selund</translation>
+    </extra>
+    <extra>
       <original>現場</original>
       <translation>Location</translation>
       <translation_format proper="false">location</translation_format>
@@ -476,6 +481,15 @@
       <translation>Northern Bandit Community</translation>
       <translation_format proper="false">northern bandit community</translation_format>
     </extra>
+    <extra>
+      <original>ウルテカ山岳東部</original>
+      <translation>Eastern Urteca Mountains</translation>
+      <translation_format>eastern Urteca Mountains</translation_format>
+    </extra>
+    <extra>
+      <original>火垂れ山</original>
+      <translation>Firefall Mountain</translation>
+    </extra>
     <ignore>異界の狭間　深層部</ignore>
     <!-- Replicate area names -->
     <rewrite>
@@ -483,7 +497,11 @@
       <translation_replace>{0:@}</translation_replace>
       <translation_arg message_set="area name" required="true" />
     </rewrite>
-    <!-- Replicate area name + "Depths" so it doesn't end up as area name + ": Deepest Level" -->
+    <rewrite>
+      <original_match>^闇大陸：(.+)$</original_match>
+      <translation_replace>Dark Continent: {0}</translation_replace>
+      <translation_arg message_set="location name" required="true" />
+    </rewrite>
     <rewrite>
       <original_match>^大地の記憶 (.+)$</original_match>
       <translation_replace>Memory of {0}</translation_replace>
@@ -494,6 +512,7 @@
       <translation_replace>{0:dc}'s Private Room</translation_replace>
       <translation_arg message_set="npc name" />
     </rewrite>
+    <!-- Replicate area name + "Depths" so it doesn't end up as area name + ": Deepest Level" -->
     <rewrite>
       <original_match>^(.+?)\s+深層$</original_match>
       <translation_replace>{0:@} Depths</translation_replace>
