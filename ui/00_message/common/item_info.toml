@@ -69464,6 +69464,9 @@ old = 'ドラゴンアビリティ【対黒竜】を授けるクレスト'
 [[item]]
 id = 24722
 old = '使用者の状態異常を解消する'
+new = '''
+Cures the user of the specified
+status debilitations.'''
 [[item]]
 id = 24723
 old = '''

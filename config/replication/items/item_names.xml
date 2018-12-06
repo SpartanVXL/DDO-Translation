@@ -41,6 +41,11 @@
       <translation_replace>AP ({0})</translation_replace>
       <translation_arg message_set="location name" />
     </rewrite>
+    <rewrite>
+      <original_match>^幻視の光：(.+)$</original_match>
+      <translation_replace>Light Vision: {0}</translation_replace>
+      <translation_arg message_set="npc name" />
+    </rewrite>
     <!-- Event -->
     <rewrite>
       <original_match>^オーフリング(.+)改【(.+?)】$</original_match>
@@ -245,9 +250,9 @@
       <translation_arg message_set="job name" />
     </rewrite>
     <rewrite>
-      <original_match>^LV.90になる宝珠【(.+)】$</original_match>
-      <translation_replace>Become LV.90 Orb ({0})</translation_replace>
-      <translation_arg message_set="job name" />
+      <original_match>^LV.(\d+)になる宝珠【(.+)】$</original_match>
+      <translation_replace>Become LV.{0} Orb ({1})</translation_replace>
+      <translation_arg index="1" message_set="job name" />
     </rewrite>
     <rewrite>
       <original_match>^錆びた(.+)$</original_match>
