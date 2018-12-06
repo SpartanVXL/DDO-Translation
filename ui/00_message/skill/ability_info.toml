@@ -114,7 +114,7 @@ Increases the Knockout Power of perfect blocks.
 key = 'ABILITY_INFO_34'
 #NEEDS REVIEW
 #仕込み爆矢射ちの起爆までの時間が延長される
-<COL ffdc78>LV UP毎に時間がより延長</COL>
+#<COL ffdc78>LV UP毎に時間がより延長</COL>
 old = '''
 仕込み爆矢射ち／降らし爆炎矢／降らし爆炎矢 剛の
 起爆までの時間が延長される
