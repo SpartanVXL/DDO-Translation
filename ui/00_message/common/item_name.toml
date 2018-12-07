@@ -61558,11 +61558,11 @@ new = "Ghosts 'n Goblins Arthur's Lance"
 [[item]]
 id = 19513
 old = '彩光のミラージュアーマー【零】'
-new = 'Shimmer Mirage Armor (Plain)'
+new = 'Aurora Mirage Armor (Plain)'
 [[item]]
 id = 19514
 old = '彩光のブライトアーマー【零】'
-new = 'Shimmer Bright Armor (Plain)'
+new = 'Aurora Bright Armor (Plain)'
 [[item]]
 id = 19515
 old = '神官見習いの服【源】'
@@ -61943,11 +61943,11 @@ new = 'Dawn Bright Armor (Plain)'
 [[item]]
 id = 19615
 old = '彩光のミラージュアーマー【闇】'
-new = 'Shimmer Mirage Armor (Dark)'
+new = 'Aurora Mirage Armor (Dark)'
 [[item]]
 id = 19616
 old = '彩光のブライトアーマー【闇】'
-new = 'Shimmer Bright Armor (Dark)'
+new = 'Aurora Bright Armor (Dark)'
 [[item]]
 id = 19617
 old = 'マンドラゴランタン【銅】'
@@ -76506,7 +76506,7 @@ new = "Devil's Nougat"
 [[item]]
 id = 23548
 old = '輝く雪の大結晶'
-new = 'Large Crystal of Sparkling Snow'
+new = 'Sparkling Snow Large Crystal'
 [[item]]
 id = 23549
 old = '純黒翡翠'
@@ -79594,12 +79594,14 @@ old = '高級マホガニー材'
 [[item]]
 id = 24725
 old = 'レスタニアマーブル'
+new = 'Lestania Marble'
 [[item]]
 id = 24726
 old = '工芸用小粒輝石'
 [[item]]
 id = 24727
 old = 'リワードメダル'
+new = 'Reward Medal'
 [[item]]
 id = 24728
 old = '滅びへ向かう鍵石'
@@ -79621,6 +79623,7 @@ old = '異界の雫'
 [[item]]
 id = 24738
 old = 'オリハルコン'
+new = 'Orichalcum'
 [[item]]
 id = 24739
 old = '破滅鳴る漆黒の竜鱗'
@@ -79633,9 +79636,11 @@ old = '理の指輪'
 [[item]]
 id = 24742
 old = '竜闘のタリスマン'
+new = 'Dragon Fighting Talisman'
 [[item]]
 id = 24743
 old = '竜守護のタリスマン'
+new = 'Dragon Protection Talisman'
 [[item]]
 id = 24745
 old = 'レシピ：幻視の光：レオ'
