@@ -652,24 +652,31 @@ new = 'Visit Denied'
 [[message]]
 key = 'common_msg_pawnthink_totalnum'
 old = '育成LV'
+new = 'Training LV'
 [[message]]
 key = 'common_language_ng'
 old = 'NG'
+new = 'NG'
 [[message]]
 key = 'common_draskill_1'
 old = '理力'
+new = 'Force'
 [[message]]
 key = 'common_draskill_2'
 old = '精霊竜'
+new = 'Spirit Dragon'
 [[message]]
 key = 'common_draskill_3'
 old = '火竜'
+new = 'Fire Dragon'
 [[message]]
 key = 'common_draskill_4'
 old = '白竜'
+new = 'White Dragon'
 [[message]]
 key = 'common_draskill_5'
 old = '黄金竜'
+new = 'Golden Dragon'
 [[message]]
 key = 'common_entry_pawn_no_adv'
 old = '冒険回数0'
@@ -706,9 +713,11 @@ old = '闇'
 [[message]]
 key = 'common_msg_jp_attribute'
 old = '属性'
+new = 'Attribute'
 [[message]]
 key = 'common_msg_jp_damage'
 old = 'ダメージ'
+new = 'Damage'
 [[message]]
 key = 'common_msg_en_parameter'
 old = 'Parameter'
@@ -718,15 +727,18 @@ old = 'Dragon Ability Points'
 [[message]]
 key = 'common_draskill_6'
 old = '対黒竜'
+new = 'Anti-Black Dragon'
 [[message]]
 key = 'common_msg_jp_dragonskills'
 old = 'ドラゴンアビリティ'
+new = 'Dragon Ability'
 [[message]]
 key = 'common_msg_not_received_EX'
 old = '階層ごとの報酬が入手可能<COL ffdc78>（報酬UP）</COL>'
 [[message]]
 key = 'common_on'
 old = 'ON'
+new = 'ON'
 [[message]]
 key = 'common_msg_jp_assignment'
 old = '指定'

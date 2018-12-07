@@ -634,60 +634,79 @@ new = 'Restricted Ability'
 [[message]]
 key = 'QUEST_MSG_MOB_HUNT_TITLE_EN'
 old = 'Wild Hunt'
+new = 'Wild Hunt'
 [[message]]
 key = 'QUEST_MSG_MOB_HUNT_TITLE_JP'
 old = 'ワイルドハント'
+new = 'Wild Hunt'
 [[message]]
 key = 'QUEST_MSG_ADV_GUIDE_CATEGORY_08'
 old = 'ワイルドハント'
+new = 'Wild Hunt'
 [[message]]
 key = 'QUEST_MSG_MOB_HUNT_LOT_HIGH'
 old = 'リサの信頼度：★★★★'
+new = "Lisa's Confidence: ★★★★"
 [[message]]
 key = 'QUEST_MSG_MOB_HUNT_LOT_MIDDLE'
 old = 'リサの信頼度：★★★　'
+new = "Lisa's Confidence: ★★★　"
 [[message]]
 key = 'QUEST_MSG_MOB_HUNT_LOT_LOW'
 old = 'リサの信頼度：★★　　'
+new = "Lisa's Confidence: ★★　　"
 [[message]]
 key = 'QUEST_MSG_MOB_HUNT_LOT_NONE'
 old = 'リサの信頼度：★　　　'
+new = "Lisa's Confidence: ★　　　"
 [[message]]
 key = 'QUEST_MSG_MOB_HUNT_NUM'
 old = 'ワイルドハント数：'
+new = 'Wild Hunt Count:'
 [[message]]
 key = 'QUEST_MSG_LOT_RATE_TITLE'
 old = 'Ｓランク抽選：%s'
+new = 'S Rank Lottery: %s'
 [[message]]
 key = 'QUEST_MSG_LOT_RATE_HIGH'
 old = '中'
+new = 'Medium'
 [[message]]
 key = 'QUEST_MSG_LOT_RATE_MIDDLE'
 old = '低'
+new = 'Low'
 [[message]]
 key = 'QUEST_MSG_LOT_RATE_LOW'
 old = '無し'
+new = 'None'
 [[message]]
 key = 'QUEST_MSG_LOT_RANK_S'
 old = 'Ｓランク'
+new = 'S Rank'
 [[message]]
 key = 'QUEST_MSG_LOT_RANK_A'
 old = 'Ａランク'
+new = 'A Rank'
 [[message]]
 key = 'QUEST_MSG_LOT_RANK_B'
 old = 'Ｂランク'
+new = 'B Rank'
 [[message]]
 key = 'QUEST_MSG_LOT_NUM'
 old = '（抽選数：%d）'
+new = '(Lottery Count: %d)'
 [[message]]
 key = 'QUEST_MSG_GUIDE_LOT_INFO'
 old = '抽選確率詳細'
+new = 'Lottery Chance Details'
 [[message]]
 key = 'QUEST_MSG_BONUS_MOB_HUNT_TITLE'
 old = 'ボーナスターゲット出現中！'
+new = 'Bonus Target Appearance!'
 [[message]]
 key = 'QUEST_MSG_BONUS_MOB_HUNT_INFO'
 old = '討伐でPP報酬量UP'
+new = 'Target PP Reward Amount UP'
 [[message]]
 key = 'QUEST_MSG_REWARD_TRADE_COST_TITLE'
 old = '必要アイテム（ボス討伐後に報酬アイテムと交換します）'
@@ -699,6 +718,7 @@ old = '''
 [[message]]
 key = 'QUEST_MSG_LOT_RATE_HIGHEST'
 old = '高'
+new = 'High'
 [[message]]
 key = 'QUEST_MSG_CONFIRM_MOB_QUEST_CANCEL'
 old = '''

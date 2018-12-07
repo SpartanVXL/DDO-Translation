@@ -65,7 +65,7 @@ new = 'None'
 [[message]]
 key = 'ORDER_CONDITION_1011'
 old = '装備のアイテムランクが<QCND 0>以上（平均IR）'
-new = 'Item Rank of <QCND 0> or more required (average IR)'
+new = 'Item Rank of <QCND 0> or more (average IR)'
 [[message]]
 key = 'ORDER_CONDITION_1012'
 old = 'アイテム＜<QCND 0>＞を<QCND 1>個所持'
@@ -84,3 +84,4 @@ new = 'Clear Substory "<QCND 0>"'
 [[message]]
 key = 'ORDER_CONDITION_1017'
 old = '現在のジョブのジョブレベル<QCND 0>以上'
+new = 'Current Job Level <QCND 0> or more'

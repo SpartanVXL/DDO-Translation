@@ -26,5 +26,10 @@
       <translation_replace>Change to {0}</translation_replace>
       <translation_arg message_set="job name" required="true" />
     </rewrite>
+    <rewrite>
+      <original_match>^エクストリームミッション「(.+)」$</original_match>
+      <translation_replace>Extreme Mission "{0:@}"</translation_replace>
+      <translation_arg message_set="quest name" />
+    </rewrite>
   </message_set>
 </replication>
