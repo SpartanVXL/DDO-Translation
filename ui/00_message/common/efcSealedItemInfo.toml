@@ -534,8 +534,11 @@ increasing the likelihood it will break enemy posture.
 <COL ffdc78>LV UP: Increases Blow Power further.</COL>'''
 [[message]]
 key = 'IDX_199'
+#NEEDS REVIEW
+#転身の速度が上昇する
+#<COL ffdc78>LV毎に速度がより上昇</COL>
 old = '''
-転身の速度が上昇する
+転身の旋回速度が上昇する
 <COL ffdc78>LV毎に速度がより上昇</COL>'''
 new = '''
 Increases the speed of your dodge roll.

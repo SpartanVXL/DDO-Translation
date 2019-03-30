@@ -4,7 +4,9 @@ old = 'ウォーミッションをクリアする'
 new = 'Clear War Mission'
 [[message]]
 key = 'DAILY_MISSION_TASK_17'
-old = 'エクストリームミッションをクリアする'
+#NEEDS REVIEW
+#エクストリームミッションをクリアする
+old = 'エクストリームミッションをクリア　※大竜晶破壊戦を除く'
 new = 'Clear Extreme Mission'
 [[message]]
 key = 'DAILY_MISSION_TASK_18'
