@@ -75951,10 +75951,8 @@ old = 'イベントチケット'
 new = 'Event Ticket'
 [[item]]
 id = 23375
-#NEEDS REVIEW
-#イベントチケット
 old = 'ボーナスダンジョンチケット【SP】'
-new = 'Event Ticket'
+new = 'Bonus Dungeon Ticket (SP)'
 [[item]]
 id = 23377
 old = '初代王の指輪'
@@ -82598,351 +82596,468 @@ new = 'Legendary'
 [[item]]
 id = 25651
 old = 'プレイポイント'
+new = 'Play Point'
 [[item]]
 id = 25652
 old = 'プレイポイント'
+new = 'Play Point'
 [[item]]
 id = 25653
 old = 'プレイポイント'
+new = 'Play Point'
 [[item]]
 id = 25654
 old = '蛮力のクレスト・改'
+new = 'Crest of Sheer Power+'
 [[item]]
 id = 25655
 old = '剛力のクレスト・改'
+new = 'Crest of Herculean Power+'
 [[item]]
 id = 25656
 old = '剛力のクレスト【延焼】・改'
+new = 'Crest of Herculean Power (Burning)+'
 [[item]]
 id = 25657
 old = '剛力のクレスト【凍結】・改'
+new = 'Crest of Herculean Power (Freezing)+'
 [[item]]
 id = 25658
 old = '剛力のクレスト【感電】・改'
+new = 'Crest of Herculean Power (Shock)+'
 [[item]]
 id = 25659
 old = '剛力のクレスト【聖吸】・改'
+new = 'Crest of Herculean Power (Holy Drain)+'
 [[item]]
 id = 25660
 old = '剛力のクレスト【闇霧】・改'
+new = 'Crest of Herculean Power (Blinding)+'
 [[item]]
 id = 25661
 old = '剛力のクレスト【吹飛】・改'
+new = 'Crest of Herculean Power (Blow Power)+'
 [[item]]
 id = 25662
 old = '剛力のクレスト【気絶】・改'
+new = 'Crest of Herculean Power (Stun)+'
 [[item]]
 id = 25663
 old = '剛力のクレスト【毒】・改'
+new = 'Crest of Herculean Power (Poison)+'
 [[item]]
 id = 25664
 old = '剛力のクレスト【遅延】・改'
+new = 'Crest of Herculean Power (Torpor)+'
 [[item]]
 id = 25665
 old = '剛力のクレスト【睡眠】・改'
+new = 'Crest of Herculean Power (Sleep)+'
 [[item]]
 id = 25666
 old = '剛力のクレスト【石化】・改'
+new = 'Crest of Herculean Power (Petrification)+'
 [[item]]
 id = 25668
 old = '剛力のクレスト【黄金化】・改'
+new = 'Crest of Herculean Power (Gilding)+'
 [[item]]
 id = 25669
 old = '剛力のクレスト【物防低下】・改'
+new = 'Crest of Herculean Power (Lowered Defense)+'
 [[item]]
 id = 25670
 old = '昇魔のクレスト・改'
+new = 'Crest of Sheer Magick+'
 [[item]]
 id = 25671
 old = '覇魔のクレスト・改'
+new = 'Crest of Superior Magick+'
 [[item]]
 id = 25672
 old = '覇魔のクレスト【延焼】・改'
+new = 'Crest of Superior Magick (Burning)+'
 [[item]]
 id = 25673
 old = '覇魔のクレスト【感電】・改'
+new = 'Crest of Superior Magick (Shock)+'
 [[item]]
 id = 25674
 old = '覇魔のクレスト【聖吸】・改'
+new = 'Crest of Superior Magick (Holy Drain)+'
 [[item]]
 id = 25675
 old = '覇魔のクレスト【吹飛】・改'
+new = 'Crest of Superior Magick (Blow Power)+'
 [[item]]
 id = 25676
 old = '覇魔のクレスト【闇霧】・改'
+new = 'Crest of Superior Magick (Blinding)+'
 [[item]]
 id = 25677
 old = '覇魔のクレスト【気絶】・改'
+new = 'Crest of Superior Magick (Stun)+'
 [[item]]
 id = 25678
 old = '覇魔のクレスト【毒】・改'
+new = 'Crest of Superior Magick (Poison)+'
 [[item]]
 id = 25679
 old = '覇魔のクレスト【遅延】・改'
+new = 'Crest of Superior Magick (Torpor)+'
 [[item]]
 id = 25680
 old = '覇魔のクレスト【睡眠】・改'
+new = 'Crest of Superior Magick (Sleep)+'
 [[item]]
 id = 25681
 old = '覇魔のクレスト【石化】・改'
+new = 'Crest of Superior Magick (Petrification)+'
 [[item]]
 id = 25682
 old = '覇魔のクレスト【黄金化】・改'
+new = 'Crest of Superior Magick (Gilding)+'
 [[item]]
 id = 25683
 old = '覇魔のクレスト【魔防低下】・改'
+new = 'Crest of Superior Magick (Lowered Magick Defense)+'
 [[item]]
 id = 25684
 old = '火延焼のクレスト・改'
+new = 'Crest of Incineration+'
 [[item]]
 id = 25685
 old = '火延焼のクレスト【炎防低下】・改'
+new = 'Crest of Incineration (Decreased Fire Resist)+'
 [[item]]
 id = 25686
 old = '氷凍結のクレスト・改'
+new = 'Crest of Permafrost+'
 [[item]]
 id = 25687
 old = '氷凍結のクレスト【氷防低下】・改'
+new = 'Crest of Permafrost (Decreased Ice Resist)+'
 [[item]]
 id = 25688
 old = '雷感電のクレスト・改'
+new = 'Crest of Electrocution+'
 [[item]]
 id = 25689
 old = '雷感電のクレスト【雷防低下】・改'
+new = 'Crest of Electrocution (Decreased Lightning Resist)+'
 [[item]]
 id = 25690
 old = '白聖吸のクレスト・改'
+new = 'Crest of Sanctity+'
 [[item]]
 id = 25691
 old = '白聖吸のクレスト【聖防低下】・改'
+new = 'Crest of Sanctity (Decreased Holy Resist)+'
 [[item]]
 id = 25692
 old = '黒闇霧のクレスト・改'
+new = 'Crest of Twilight+'
 [[item]]
 id = 25693
 old = '黒闇霧のクレスト【闇防低下】・改'
+new = 'Crest of Twilight (Decreased Dark Resist)+'
 [[item]]
 id = 25694
 old = '超物防激減のクレスト・改'
+new = 'Crest of Depleted Defense+'
 [[item]]
 id = 25695
 old = '超魔防激減のクレスト・改'
+new = 'Crest of Depleted Magick Defense+'
 [[item]]
 id = 25696
 old = '卒倒のクレスト・改'
+new = 'Crest of Dazzling+'
 [[item]]
 id = 25697
 old = '絶倒のクレスト・改'
+new = 'Crest of Sidesplitting Laughter+'
 [[item]]
 id = 25698
 old = '猛毒のクレスト・改'
+new = 'Crest of Fatal Poison+'
 [[item]]
 id = 25699
 old = '睡眠のクレスト・改'
+new = 'Crest of Sleep+'
 [[item]]
 id = 25700
 old = '安眠のクレスト・改'
+new = 'Crest of Deeper Sleep+'
 [[item]]
 id = 25701
 old = '黄金化のクレスト・改'
+new = 'Crest of Gilding+'
 [[item]]
 id = 25702
 old = '煌金化のクレスト・改'
+new = 'Crest of Glittering Gold+'
 [[item]]
 id = 25703
 old = '石化のクレスト・改'
+new = 'Crest of Petrification+'
 [[item]]
 id = 25704
 old = '石晶化のクレスト・改'
+new = 'Crest of Crystallization+'
 [[item]]
 id = 25705
 old = '軟弱のクレスト・改'
+new = 'Crest of Frailness+'
 [[item]]
 id = 25706
 old = '脆弱のクレスト・改'
+new = 'Crest of Fragility+'
 [[item]]
 id = 25707
 old = '封印のクレスト・改'
+new = 'Crest of Stifling+'
 [[item]]
 id = 25708
 old = '封結印のクレスト・改'
+new = 'Crest of Sealing+'
 [[item]]
 id = 25709
 old = '水濡れのクレスト・改'
+new = 'Crest of Drenching+'
 [[item]]
 id = 25710
 old = '流水のクレスト・改'
+new = 'Crest of Drowning+'
 [[item]]
 id = 25711
 old = '油濡れのクレスト・改'
+new = 'Crest of Tarring+'
 [[item]]
 id = 25712
 old = '油海のクレスト・改'
+new = 'Crest of Greater Tarring+'
 [[item]]
 id = 25713
 old = '鈍遅のクレスト・改'
+new = 'Crest of Greater Torpor+'
 [[item]]
 id = 25714
 old = '強撃のクレスト・改'
+new = 'Crest of Increased Attack+'
 [[item]]
 id = 25715
 old = '衝撃のクレスト・改'
+new = 'Crest of Amplified Attack+'
 [[item]]
 id = 25716
 old = '堅守のクレスト・改'
+new = 'Crest of Sheer Protection+'
 [[item]]
 id = 25717
 old = '頑守のクレスト【体力】・改'
+new = 'Crest of Firm Protection (Health)+'
 [[item]]
 id = 25718
 old = '頑守のクレスト【耐久】・改'
+new = 'Crest of Firm Protection (Endurance)+'
 [[item]]
 id = 25719
 old = '頑守のクレスト【生命力】・改'
+new = 'Crest of Firm Protection (Vitality)+'
 [[item]]
 id = 25720
 old = '頑守のクレスト【軽量化】・改'
+new = 'Crest of Firm Protection (Lightness)+'
 [[item]]
 id = 25721
 old = '強固のクレスト・改'
+new = 'Crest of Unwavering+'
 [[item]]
 id = 25722
 old = '秀智のクレスト・改'
+new = 'Crest of Sheer Intelligence+'
 [[item]]
 id = 25723
 old = '叡智のクレスト・改'
+new = 'Crest of Wisdom+'
 [[item]]
 id = 25724
 old = '叡智のクレスト【体力】・改'
+new = 'Crest of Wisdom (Health)+'
 [[item]]
 id = 25725
 old = '叡智のクレスト【耐久】・改'
+new = 'Crest of Wisdom (Endurance)+'
 [[item]]
 id = 25726
 old = '叡智のクレスト【生命力】・改'
+new = 'Crest of Wisdom (Vitality)+'
 [[item]]
 id = 25727
 old = '叡智のクレスト【軽量化】・改'
+new = 'Crest of Wisdom (Lightness)+'
 [[item]]
 id = 25728
 old = '超再起のクレスト・改'
+new = 'Crest of Resurgence+'
 [[item]]
 id = 25729
 old = '超不屈のクレスト・改'
+new = 'Crest of Stoicism+'
 [[item]]
 id = 25730
 old = '超忍耐のクレスト・改'
+new = 'Crest of Determination+'
 [[item]]
 id = 25731
 old = '超頑耐のクレスト・改'
+new = 'Crest of Pertinacity+'
 [[item]]
 id = 25732
 old = '体力のクレスト・改'
+new = 'Crest of Health+'
 [[item]]
 id = 25733
 old = '剛体のクレスト・改'
+new = 'Crest of Strong Health+'
 [[item]]
 id = 25734
 old = '持久力のクレスト・改'
+new = 'Crest of Stamina+'
 [[item]]
 id = 25735
 old = '剛久力のクレスト・改'
+new = 'Crest of Strong Stamina+'
 [[item]]
 id = 25736
 old = '活力のクレスト・改'
+new = 'Crest of Vigor+'
 [[item]]
 id = 25737
 old = '装具軽量化のクレスト・改'
+new = 'Crest of Lightness+'
 [[item]]
 id = 25738
 old = '装具微量化のクレスト・改'
+new = 'Crest of Unburdening+'
 [[item]]
 id = 25739
 old = '耐業火のクレスト・改'
+new = 'Crest of Hellfire Warding+'
 [[item]]
 id = 25740
 old = '耐吹雪のクレスト・改'
+new = 'Crest of Snowstorm Warding+'
 [[item]]
 id = 25741
 old = '耐雷電のクレスト・改'
+new = 'Crest of Thunder Warding+'
 [[item]]
 id = 25742
 old = '耐神聖のクレスト・改'
+new = 'Crest of Sacred Warding+'
 [[item]]
 id = 25743
 old = '耐暗黒のクレスト・改'
+new = 'Crest of Shadow Warding+'
 [[item]]
 id = 25744
 old = '超防延焼のクレスト・改'
+new = 'Crest of Burn Immunity+'
 [[item]]
 id = 25745
 old = '超防凍結のクレスト・改'
+new = 'Crest of Freeze Immunity+'
 [[item]]
 id = 25746
 old = '超防感電のクレスト・改'
+new = 'Crest of Shock Immunity+'
 [[item]]
 id = 25747
 old = '超防聖吸のクレスト・改'
+new = 'Crest of Holy Drain Immunity+'
 [[item]]
 id = 25748
 old = '超防闇霧のクレスト・改'
+new = 'Crest of Blind Immunity+'
 [[item]]
 id = 25749
 old = '炎加護のクレスト・改'
+new = 'Crest of Fire Protection+'
 [[item]]
 id = 25750
 old = '氷加護のクレスト・改'
+new = 'Crest of Ice Protection+'
 [[item]]
 id = 25751
 old = '雷加護のクレスト・改'
+new = 'Crest of Lightning Protection+'
 [[item]]
 id = 25752
 old = '聖加護のクレスト・改'
+new = 'Crest of Holy Protection+'
 [[item]]
 id = 25753
 old = '闇加護のクレスト・改'
+new = 'Crest of Dark Protection+'
 [[item]]
 id = 25754
 old = '絶毒のクレスト・改'
+new = 'Crest of Poison Prevention+'
 [[item]]
 id = 25755
 old = '絶遅のクレスト・改'
+new = 'Crest of Torpor Prevention+'
 [[item]]
 id = 25756
 old = '絶眠のクレスト・改'
+new = 'Crest of Sleep Prevention+'
 [[item]]
 id = 25757
 old = '絶気のクレスト・改'
+new = 'Crest of Stunning Prevention+'
 [[item]]
 id = 25758
 old = '絶水のクレスト・改'
+new = 'Crest of Drench Prevention+'
 [[item]]
 id = 25759
 old = '絶油のクレスト・改'
+new = 'Crest of Tar Prevention+'
 [[item]]
 id = 25760
 old = '絶封のクレスト・改'
+new = 'Crest of Stifle Prevention+'
 [[item]]
 id = 25761
 old = '絶呪のクレスト・改'
+new = 'Crest of Curse Prevention+'
 [[item]]
 id = 25762
 old = '絶弱のクレスト・改'
+new = 'Crest of Frail Prevention+'
 [[item]]
 id = 25763
 old = '絶石のクレスト・改'
+new = 'Crest of Petrification Prevention+'
 [[item]]
 id = 25764
 old = '絶金のクレスト・改'
+new = 'Crest of Golden Prevention+'
 [[item]]
 id = 25765
 old = '双耐のクレスト【物攻・物防】・改'
+new = 'Crest of Double Resist (Lowered Strength/Defense)+'
 [[item]]
 id = 25766
 old = '双耐のクレスト【魔攻・魔防】・改'
+new = 'Crest of Double Resist (Lowered Magick/Magick Defense)+'
 [[item]]
 id = 25767
 old = '覇魔のクレスト【凍結】・改'
+new = 'Crest of Superior Magick (Freezing)+'
 [[item]]
 id = 25768
 old = '頑守のクレスト・改'
+new = 'Crest of Firm Protection+'

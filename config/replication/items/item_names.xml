@@ -21,6 +21,34 @@
       <translation>Petit Muffin</translation>
       <translation_format proper="false">petit muffin</translation_format>
     </extra>
+    <extra>
+      <original>超物防激減のクレスト</original>
+      <translation>Crest of Depleted Defense</translation>
+    </extra>
+    <extra>
+      <original>超魔防激減のクレスト</original>
+      <translation>Crest of Depleted Magick Defense</translation>
+    </extra>
+    <extra>
+      <original>絶倒のクレスト</original>
+      <translation>Crest of Sidesplitting Laughter</translation>
+    </extra>
+    <extra>
+      <original>超再起のクレスト</original>
+      <translation>Crest of Resurgence</translation>
+    </extra>
+    <extra>
+      <original>超不屈のクレスト</original>
+      <translation>Crest of Stoicism</translation>
+    </extra>
+    <extra>
+      <original>超忍耐のクレスト</original>
+      <translation>Crest of Determination</translation>
+    </extra>
+    <extra>
+      <original>超頑耐のクレスト</original>
+      <translation>Crest of Pertinacity</translation>
+    </extra>
     <rewrite>
       <original_match>^エンブレムストーン・(.+)$</original_match>
       <translation_replace>Emblem Stone ({0})</translation_replace>
